@@ -61,7 +61,7 @@ Subalpine fir is the mostly widely distributed fir in North America, spanning mo
  * l. var. lasiocarpa (typical variety) – almost the same as the species, but not in central and southeastern Arizona.
  * l. var. arizonica – from central Colorado to southwestern New Mexico, and in southeastern and central Arizona.
 
-![A map of the southwestern U.S., with scattered counties in Colorado, Arizona, and New Mexico highlighted in green where subalpine fir occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-abilas_mapa.jpg)
+![A map of the southwestern U.S., with scattered counties in Colorado, Arizona, and New Mexico highlighted in green where subalpine fir occurs.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-abilas_mapa.jpg)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Distribution of corkbark fir (A. l. var. arizonica).
 
-![A map of the western U.S. and Canada with states and territories highlighted in green where subalpine fir occurs. All of the western U.S., western Canada, and Alaska are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-abilas_mapb.jpg)
+![A map of the western U.S. and Canada with states and territories highlighted in green where subalpine fir occurs. All of the western U.S., western Canada, and Alaska are highlighted.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-abilas_mapb.jpg)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Subalpine fir and corkbark fir occur together in scattered mountain ranges in so
 
 ## Site Characteristics
 
-![A black and white photo of a line of conifer trees descending a mountain slope with snow-capped mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-abilas_anseladams.jpg)
+![A black and white photo of a line of conifer trees descending a mountain slope with snow-capped mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-abilas_anseladams.jpg?itok=8riR9-1p)
 
 Photo Credit
 
@@ -284,7 +284,7 @@ Subalpine fir forests are normally subject to highly destructive crown fires tha
 
 **Fuels and fire behavior:** The fuel structure in subalpine fir-dominated stands promotes highly destructive stand-destroying fires. Fuel loads in subalpine fir stands are greater than in lower elevation montane stands because the cool and moist environment slows the decomposition of organic matter allowing fuels to accumulate more rapidly [1]. Fuel beds tend to be irregular, with over twice as much fuel accumulating under the narrow-crowned trees as between them [116]. The needles are small and fine and form a compact fuel bed in which fire spreads slowly [34]. These concentrated, slow burning fuels frequently produce flames high enough to reach subalpine fir's low-growing dead branches [116]. Thus, crowning is common in subalpine fir stands.
 
-![An aerial view of a conifer forest with a large open area where all the trees are down and dead, surrounded by green, living trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-abilas_avalanche.jpg)
+![An aerial view of a conifer forest with a large open area where all the trees are down and dead, surrounded by green, living trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-abilas_avalanche.jpg?itok=ccixZPMn)
 
 Photo Credit
 

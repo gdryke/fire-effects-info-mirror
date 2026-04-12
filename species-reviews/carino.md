@@ -45,7 +45,7 @@ These subspecies are poorly differentiated, both morphologically and taxonomical
 
 In the broad sense, long-stolon sedge is a member of the Pennsylvania sedge (_C. pennsylvanica_) complex [26,93], a group of closely related taxa characterized by rhizomes or long stolons [16,26].
 
-[![A photo of sedge growing in an open meadow with clusters of conifers in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-carino_habitat2.jpg)Photo Credit Photo by Matt Reala, iNaturalist.org (CC BY-NC 4.0). Long-stolon sedge growing in Crater Lake National Park, Oregon.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of sedge growing in an open meadow with clusters of conifers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carino_habitat2.jpg?itok=SjnN_hK-)Photo Credit Photo by Matt Reala, iNaturalist.org (CC BY-NC 4.0). Long-stolon sedge growing in Crater Lake National Park, Oregon.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Synonyms
 
@@ -117,7 +117,7 @@ Across its distribution, the typical subspecies occurs from 330 to 7,000 feet (1
 
 Sun sedge occurs as scattered plants throughout much of its distribution [103] but dominates in some grasslands. It is most widely distributed in short- [18,26] and mixed-grass [26,44] prairies—together described as plains grasslands [7,40]—and tallgrass prairies [26,37,44] but is also common in interior ponderosa pine (_Pinus ponderosa_ var. _scopulorum_) communities [37]. In the Great Plains sun sedge grows in pastures, open grasslands, thickets, and occasionally in woodlands [46]. On a latitudinal gradient of the Great Plains, sun sedge reaches greatest abundance in the Northern Great Plains, rapidly dropping out of the aspen (_Populus_ spp.) parklands of southern Canada with increasing latitude; its importance decreases with decreasing latitude in the Southern Great Plains [84]. Sun sedge's most common codominants on short- and mixed-grass prairies are western wheatgrass (_Pascopyrum smithii_) and other wheatgrasses (Triticeae), big bluestem (_Andropogon gerardii_) and other bluestems (Andropogoneae), needle-and-thread grass (_Hesperostipa comata_) and other needlegrasses (Stipeae) [8,9,15,24,81], and/or blue grama (_Bouteloua gracilis_) and other gramas (_Bouteloua_) [18,25,33]. Sun sedge is an important component of northern rough fescue (_Festuca altaica_) prairies of Alberta, Saskatchewan, and northern Montana [6,23]. Tallgrass prairie codominants are big bluestem (_Andropogon gerardii_ var. _gerardii_) [19], little bluestem (_Schizachyrium scoparium_) [97], and/or sand bluestem (_A. hallii_) [24,28,91]. Kuchler [67] called sun sedge a "characteristic species" of big bluestem-little bluestem-prairie sandreed (_Calamovilfa longifolia_) tallgrass prairies of Kansas.
 
-[![A photo of a sedge with dew on its green leaves and flowering reproductive stems. Several flowering grass stems are growing from near the base of the sedge. Small forbs and moss are also visible in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-carino_plant.jpg)Photo Credit Photo by Hannah Hickli, iNaturalist.org (CC BY-NC 4.0). Long-stolon sedge growing in British Columbia, Canada, intermingled with flowering shoots of sweet vernalgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a sedge with dew on its green leaves and flowering reproductive stems. Several flowering grass stems are growing from near the base of the sedge. Small forbs and moss are also visible in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carino_plant.jpg?itok=nsfgxVnG)Photo Credit Photo by Hannah Hickli, iNaturalist.org (CC BY-NC 4.0). Long-stolon sedge growing in British Columbia, Canada, intermingled with flowering shoots of sweet vernalgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sun sedge is occasional [60] to dominant [22] in mid- to high-elevation (>5,000 feet (2,000 m)) mountain meadows [22,60] and shrublands of the northern Rocky Mountains. It showed high constancy (75%) but not dominance in Rocky Mountain juniper/bluebunch wheatgrass (_Juniperus scopulorum/Pseudoroegneria spicata_) draws in the Dakotas regions of the Missouri Plateau [50] and had minor coverage in Wyoming big sagebrush/Idaho fescue (_Artemisia tridentata_ subsp. _wyomingensis_ /_Festuca idahoensis_) habitat types of north-central Colorado [111].
 
@@ -162,7 +162,7 @@ Vegetation classifications describing plant communities where sun sedge is a dom
 
 Very little habitat information was available for the typical subspecies as of 2009. This subspecies generally grows in pine (_Pinus_ spp.) woodlands and near mountain streams [26]. It is reported on ski slopes within the Sierra lodgepole pine (_P. latifolia_ var. _murrayana_) forest zone of Mt Hood, Oregon [105].
 
-[![A photo of a sedge growing in soil on a steep slope with forbs and a few shrubs. A steep, rocky ridgeline is in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-carinoi_habitat.jpg)Photo Credit Photo by Matt Reala, iNaturalist.org (CC BY-NC 4.0). Typical subspecies growing on mountain slopes in Cascadia, Oregon.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a sedge growing in soil on a steep slope with forbs and a few shrubs. A steep, rocky ridgeline is in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carinoi_habitat.jpg?itok=ImX8qSjG)Photo Credit Photo by Matt Reala, iNaturalist.org (CC BY-NC 4.0). Typical subspecies growing on mountain slopes in Cascadia, Oregon.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
@@ -174,7 +174,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Long-stolon sedge is a loosely caespitose, perennial graminoid [37,52]. It is low to medium statured compared to other _Carex_ [17,60]. Culms are 4 to 20 inches (10-50 cm) long [37,54]. Leaves are slender, stiff, and wiry [103]. Old, dead leaves are persistent [37,44], often forming fibrous tufts at the stem base [37,44,103]. Inflorescences are terminal staminate and pistillate spikes [37,44,46]. Male spikes may be pediceled above female spikes. The fruit is a hairy [103] achene [26,37,44,46] ranging from 1.6 to 2.5 mm long [26]. Seedheads bear 5 to 15 fruits each [103].
 
-![A photo of a low sedge growing in sandy soil with several dead leaves attached at the base and a flowering stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-carino_plant2.jpg)
+![A photo of a low sedge growing in sandy soil with several dead leaves attached at the base and a flowering stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carino_plant2.jpg?itok=LNReFXLk)
 
 Photo Credit
 

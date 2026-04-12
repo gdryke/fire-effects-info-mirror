@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Dasylirion wheeleri_ , common sotol. In: Fire Effects Inf
 
 ## Image Gallery
 
-![Photo of common sotol.]({{ site.baseurl }}/assets/images/species-reviews/feis-daswhe_plant2.jpg) Common sotol. _Photo by Jacob Friend, iNaturalist.org, no rights reserved._
+![Photo of common sotol.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-daswhe_plant2.jpg) Common sotol. _Photo by Jacob Friend, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Jacob Friend, iNaturalist.org, no rights reserved.
 

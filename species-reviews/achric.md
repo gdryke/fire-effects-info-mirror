@@ -89,7 +89,7 @@ Richardson's needlegrass is a native, perennial, cool-season bunchgrass. This fi
 
 Richardson's needlegrass is a shallow-rooted species; the abundance of roots decreases as soil depth increases. Clay accumulation restricts root penetration of Richardson's needlegrass [22]. Richardson's needlegrass becomes dormant following depletion of surface soil moisture during the latter part of the growing season [22].
 
-![Pendulous reproductive spikes of grasses. Grasses and a path are in the background.]({{ site.baseurl }}/assets/images/species-reviews/achric_achric_plant.jpg)
+![Pendulous reproductive spikes of grasses. Grasses and a path are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/achric_plant.jpg?itok=bBxfMbJO)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Most needlegrasses begin vegetative growth in the early spring, usually before a
 
 Richardson's needlegrass reproduces sexually. The twisted awns of the seeds expand and contract with variations in temperature and moisture, drilling them into the soil [31,36]. Strong winds may transport seeds a considerable distance, especially when awns are twisted together in clumps. Animals also carry seeds as the awns become trapped in their fur [36].
 
-[![Pendulous reproductive parts of a grass hang from loose panicles. Out of focus grass stems dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-achric_plant2.jpg)Photo Credit Photo by Mike Andersen, iNaturalist (CC BY-NC-ND 4.0). Reproductive Richardson's needlegrass.](<https://creativecommons.org/licenses/by-nc-nd/4.0/>)
+[![Pendulous reproductive parts of a grass hang from loose panicles. Out of focus grass stems dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-achric_plant2.jpg?itok=bUJCQnIw)Photo Credit Photo by Mike Andersen, iNaturalist (CC BY-NC-ND 4.0). Reproductive Richardson's needlegrass.](<https://creativecommons.org/licenses/by-nc-nd/4.0/>)
 
 ## Successional Status
 

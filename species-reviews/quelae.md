@@ -81,7 +81,7 @@ Southeastern U.S.| general forest cts| Waggoner 1975 [35]
 
 ## Botanical Description 
  
-![A close up photo of an oak tree's light yellow-green, dissected leaves, and hanging light brown flowers. The background is blurry blue sky and pine trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-quelae_flowers.jpeg)
+![A close up photo of an oak tree's light yellow-green, dissected leaves, and hanging light brown flowers. The background is blurry blue sky and pine trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quelae_flowers.jpeg?itok=drPcL-RM)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ Turkey oak is protected from fire near groves of sand live oak, which act as nat
 
 ## Plant Response to Fire
 
-![A photo of a small, bushy oak tree with dissected, light green leaves growing in front of an open stand of tall pine trees with sparse branches. The bark of the pine trees is black, showing evidence of fire, and the understory is just grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-quelae_habitat.jpg)
+![A photo of a small, bushy oak tree with dissected, light green leaves growing in front of an open stand of tall pine trees with sparse branches. The bark of the pine trees is black, showing evidence of fire, and the understory is just grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quelae_habitat.jpg?itok=t6YMho89)
 
 Photo Credit
 

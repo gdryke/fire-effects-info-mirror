@@ -70,7 +70,7 @@ Grayleaf willow grows throughout most of Alaska except for the Aleutian Islands 
 
 ## Site Characteristics
 
-![A photo of a low shrub with pointed, pale green leaves in an open setting with a small pond and other shrubs and grasses. The area is flat, and the open ground is gravelly. The sky is gray.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgla_habitat.jpeg)
+![A photo of a low shrub with pointed, pale green leaves in an open setting with a small pond and other shrubs and grasses. The area is flat, and the open ground is gravelly. The sky is gray.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salgla_habitat.jpeg?itok=HyMLqREy)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Forest Service R-2| Forest, shrub, grass & forb hts| Wasser & Hess 1982
 
 ## Botanical Description 
  
-![A close up photo of a branch with pointed, green leaves and upright white catkins. The background is a hillside with grass and low vegetation, and some conifers in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgla_flowers.jpeg)
+![A close up photo of a branch with pointed, green leaves and upright white catkins. The background is a hillside with grass and low vegetation, and some conifers in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salgla_flowers.jpeg?itok=jpT41YyT)
 
 Photo Credit
 

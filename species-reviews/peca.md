@@ -62,7 +62,7 @@ camp robber, gray jay, grey jay, whiskey Jack
 
 ## General Distribution
 
-![A photo of two gray and white birds with black masks perched on thin branches in a winter forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-peca_pair.jpeg)
+![A photo of two gray and white birds with black masks perched on thin branches in a winter forest.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-peca_pair.jpeg?itok=mk4IAU-C)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ Canada jays cooperatively breed [112,114,129]. Strickland [112] studied cooperat
 
 During the nest-building phase of the subsequent breeding season, approximately 65% of Canada jay trios included "stayers" from the previous spring and their parents, and approximately 30% of trios included an unrelated "leaver". Occasionally, 2 nonbreeders accompany a pair of adults. "Stayers" may eventually inherit the natal territory and breed, and "leavers" may eventually fill a vacancy nearby or form a new breeding pair on previously unoccupied ground [112]. The role of "stayers" is to retrieve caches and bring food to younger siblings [114,129]; however, this is only allowed by the parents during the postfledgling period [112,114,129]. Until then, parents are hostile toward the "stayer". This may reduce the frequency of predator-attracting visits to the nest when young are most vulnerable. The benefits of allofeeding may include "lightening the load" for the breeding pair, which may possibly increase longevity, reducing the probability of starvation of nestlings, and detecting and mobbing predators near the nest [114].
 
-![A photo of a dark gray baby bird with a pink beak sitting in an open cup nest. The nest is lined with soft, fluffy material.]({{ site.baseurl }}/assets/images/species-reviews/feis-peca_nest.jpeg)
+![A photo of a dark gray baby bird with a pink beak sitting in an open cup nest. The nest is lined with soft, fluffy material.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-12/feis-peca_nest.jpeg?itok=OiznELGG)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ Any food intended for storage is manipulated in the mouth and formed into a bolu
 
 Risk and energy expenditure are factors in food selection for Canada jays. Canada jays select food on the basis of profitability to maximize caloric intake. Increased handling, searching, or recognition times for a preferred food item lowers its profitability [71].
 
-![A photo of a gray and white bird eating peanuts from a person's gloved hand. The background is conifer forest with dappled sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-peca_foodfromhand.jpeg)
+![A photo of a gray and white bird eating peanuts from a person's gloved hand. The background is conifer forest with dappled sun.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-12/feis-peca_foodfromhand.jpeg?itok=9QjWamJl)
 
 Photo Credit
 

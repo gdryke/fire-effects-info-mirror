@@ -40,7 +40,7 @@ In February of 2008, an extensive search was done to locate information on crims
 
 ## Taxonomy
 
-![Photo of several large flowerheads ranging from white to pink with red centers, emerging from a densely leafy plant.]({{ site.baseurl }}/assets/images/species-reviews/hibmos_feis-HIBMOS_flowers.jpg)
+![Photo of several large flowerheads ranging from white to pink with red centers, emerging from a densely leafy plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-HIBMOS_flowers.jpg?itok=Nji3zwXR)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Great Plains| marshes, swamps, and wet meadows [15]
  
 ## Plant Communities
 
-![Photo of a body of water lined with dense plant growth, with several patches of a large, flowering plant.]({{ site.baseurl }}/assets/images/species-reviews/hibmos_feis-HIBMOS_habitat.jpg)
+![Photo of a body of water lined with dense plant growth, with several patches of a large, flowering plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-HIBMOS_habitat.jpg?itok=86D3lv4k)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Crimsoneyed rosemallow is common with narrow-leaved cattail on Fire Island, New 
 
 ## Botanical Description
 
-![Photo of crimsoneyed rosemallow in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-hibmos_flower2.jpeg)
+![Photo of crimsoneyed rosemallow in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-hibmos_flower2.jpeg?itok=t7fW3fe3)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ Great Plains| June to October [15]
  
 ## Regeneration Processes
 
-![Photo of two large, white, five-petaled flowers with dark red centers, surrounded by several unopened, green flowerbuds.]({{ site.baseurl }}/assets/images/species-reviews/hibmos_feis-HIBMOS_flowerbuds.jpg)
+![Photo of two large, white, five-petaled flowers with dark red centers, surrounded by several unopened, green flowerbuds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-HIBMOS_flowerbuds.jpg?itok=FG8uIHMD)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Crimsoneyed rosemallow produces, on average, about 120 seeds/capsule. Insect see
 
 Crimsoneyed rosemallow seeds are parasitized by 2 beetles (_Althaeus hibisci_ and _Conotrachelus fissunguis_) and a leafroller (_Chinonodes hibiscella_), which can adversely affect its reproductive success [4,8,21,34].
 
-![Photo of two open seedheads with woolly bracts, holding many seeds. ]({{ site.baseurl }}/assets/images/species-reviews/hibmos_feis-HIBMOSL_seedheads.jpg)
+![Photo of two open seedheads with woolly bracts, holding many seeds. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-HIBMOSL_seedheads.jpg?itok=D6WPFcPV)
 
 Photo Credit
 
@@ -208,7 +208,7 @@ Crimsoneyed rosemallow seeds have physical dormancy due to a hard seed coat that
 
 ### Plant Growth and Mortality
 
-![Photo of the root crown, roots, and lower stem portion of a plant that has been removed from the soil.]({{ site.baseurl }}/assets/images/species-reviews/hibmos_feis-HIBMOS_caudex.jpg)
+![Photo of the root crown, roots, and lower stem portion of a plant that has been removed from the soil.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-HIBMOS_caudex.jpg)
 
 Photo Credit
 

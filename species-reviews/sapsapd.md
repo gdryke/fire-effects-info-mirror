@@ -34,7 +34,7 @@ Tirmenstein, D. A. 1990. _Sapindus saponaria_ var. _drummondii_ , western soapbe
 
 ## Image Gallery
 
-![Branches of a leafy shrub in the sun. Leaves are alternate, long and pointed, and there are clusters of creamy yellow fruits hanging from the tips of the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-sapsapd_plant.jpg) Western soapberry with fruits. _Photo by Ronald F. Billings, Texas A &M; Forest Service, Bugwood.org_
+![Branches of a leafy shrub in the sun. Leaves are alternate, long and pointed, and there are clusters of creamy yellow fruits hanging from the tips of the branches.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-sapsapd_plant.jpg) Western soapberry with fruits. _Photo by Ronald F. Billings, Texas A &M; Forest Service, Bugwood.org_
 
 Photo Credit: Photo by Ronald F. Billings, Texas A&M Forest Service, Bugwood.org
 
@@ -102,7 +102,7 @@ southwest New Mexico| Riparian cts| Medina 1986
 
 ## Botanical Description 
  
-![Branches of a leafy shrub in the sun. Leaves are alternate, long and pointed, and there are clusters of creamy yellow fruits hanging from the tips of the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-sapsapd_plant.jpg)
+![Branches of a leafy shrub in the sun. Leaves are alternate, long and pointed, and there are clusters of creamy yellow fruits hanging from the tips of the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-sapsapd_plant.jpg?itok=FFryMILT)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Tesky, Julie L. 1994. _Cirsium neomexicanum_ , New Mexico thistle. In: Fire Effe
 
 ## Taxonomy
 
-![A photo of a thistle with many purple flowers from branching stems growing on a dry hillside with bare ground between plants and tree dominating a slope in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cirneo_plant2.jpg)
+![A photo of a thistle with many purple flowers from branching stems growing on a dry hillside with bare ground between plants and tree dominating a slope in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-cirneo_plant2.jpg?itok=f_o-0SHB)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ lavender thistle
 
 New Mexico thistle is found in the desert areas of southern California, Utah, Colorado, New Mexico, Arizona, and northern Mexico [6,8,14].
 
-![A map showing the southwestern United States, with counties in 6 states highlighted in green where New Mexico thistle occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-cirneo_map.jpg)
+![A map showing the southwestern United States, with counties in 6 states highlighted in green where New Mexico thistle occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cirneo_map.jpg?itok=7l7eplQy)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ New Mexico thistle is commonly found in creosotebush (_Larrea tridentata_) scrub
 
 ## Botanical Description
 
-![A dry plant with brown stalks and small puffy white seed heads grows in a sunny, rocky desert environment.]({{ site.baseurl }}/assets/images/species-reviews/feis-cirneo_habitat.jpg)
+![A dry plant with brown stalks and small puffy white seed heads grows in a sunny, rocky desert environment.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cirneo_habitat.jpg?itok=SL7TgvTN)
 
 Photo Credit
 

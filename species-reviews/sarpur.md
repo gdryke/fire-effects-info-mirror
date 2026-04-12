@@ -34,7 +34,7 @@ Walkup, Crystal. _Sarracenia purpurea,_ purple pitcherplant. 1991. In: Fire Effe
 
 ## Image Gallery
 
-![A purple and green plant with dark veining on flattened, wavy leaves. Growing with other upright plants in a boggy setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarpur_plant.jpg) Purple pitcherplant. _Photo by Rob Routledge, Sault College, Bugwood.org._
+![A purple and green plant with dark veining on flattened, wavy leaves. Growing with other upright plants in a boggy setting.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-sarpur_plant.jpg) Purple pitcherplant. _Photo by Rob Routledge, Sault College, Bugwood.org._
 
 Photo Credit: Photo by Rob Routledge, Sault College, Bugwood.org.
 
@@ -94,7 +94,7 @@ No entry.
 
 ## Botanical Description
 
-![A purple and green plant with dark veining on flattened, wavy leaves. Growing with other upright plants in a boggy setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarpur_plant.jpg)
+![A purple and green plant with dark veining on flattened, wavy leaves. Growing with other upright plants in a boggy setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-sarpur_plant.jpg?itok=KE8plOhK)
 
 Photo Credit
 

@@ -38,7 +38,7 @@ Stone, Katharine R. 2010. _Neyraudia reynaudiana_ , silkreed. In: Fire Effects I
 
 The scientific name of silkreed (Kart) is _Neyraudia reynaudiana_ (Kunth) Keng ex A.S. Hitchc. (Poaceae) [14,40].
 
-[![A photo of a tall grass with large, airy panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-neyrey_plant.jpeg)Photo Credit Photo by dsedore, iNaturalist (CC BY-NC 4.0). Silkreed growing in Miami-Dade County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a tall grass with large, airy panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-neyrey_plant.jpeg?itok=ho5s8A8F)Photo Credit Photo by dsedore, iNaturalist (CC BY-NC 4.0). Silkreed growing in Miami-Dade County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Synonyms
 
@@ -58,7 +58,7 @@ Silkreed is native to southeastern Asia. In the early 1920s silkreed was planted
 
 A weed identification guide suggests silkreed tolerates a wide range of soil, light, and water regimes [20]. Several sources report that it prefers open, sunny, dry sites with some disturbance [10,19,20]. In its native range, silkreed is found in bogs and disturbed sites, often growing on infertile soils [36]. In Florida, silkreed establishes in disturbed areas [10,20,25,40] including the edges of roadways, fields, and forests [26], vacant lots [19], and limestone spoil piles [25].
 
-[![A photo of a tall grass with large, drooping, airy panicles growing from crevices in a wall apparently built from large, stacked rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-neyrey_rocks.jpg)Photo Credit Photo by scubaleah, iNaturalist (CC BY-NC 4.0). Silkreed growing from crevices in a rock wall in Collier County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a tall grass with large, drooping, airy panicles growing from crevices in a wall apparently built from large, stacked rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-neyrey_rocks.jpg?itok=LbTArcWZ)Photo Credit Photo by scubaleah, iNaturalist (CC BY-NC 4.0). Silkreed growing from crevices in a rock wall in Collier County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Soils
 
@@ -78,7 +78,7 @@ Silkreed generally occurs in a warm, subtropical climate in its native range, si
 
 Silkreed is most common in pine rockland plant communities in southern Florida [19,25,37]. Pine rocklands are characterized by an open-canopy forest of South Florida slash pine (_Pinus elliottii_ var. _densa_) with a patchy understory of tropical and temperate shrubs and palms, and variable ground cover of grasses and herbs. Typical canopy trees include South Florida slash pine, saw-palmetto (_Serenoa repens_), cabbage palmetto (_Sabal palmetto_), and Florida silver palm (_Coccothrinax argentata_). Scattered outcrops of weathered oolitic limestone are common in this plant community [7].
 
-[![A photo of tall, green grasses with large panicles with tall, straight, evenly spaced pines behind, with blue sky visible above.]({{ site.baseurl }}/assets/images/species-reviews/feis-neyrey_community.jpg)Photo Credit Photo by Miranda Diez-Canseco, iNaturalist (CC BY-NC 4.0). Silkreed growing in an open pine community in Miami-Dade County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of tall, green grasses with large panicles with tall, straight, evenly spaced pines behind, with blue sky visible above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-neyrey_community.jpg?itok=TuSz4Nj4)Photo Credit Photo by Miranda Diez-Canseco, iNaturalist (CC BY-NC 4.0). Silkreed growing in an open pine community in Miami-Dade County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 On North Key Largo, Florida, silkreed occurs in West Indian tropical hardwood hammocks. It has established mostly in disturbed and ruderal areas (e.g., roadsides), but has also spread into undisturbed hammocks [16]. Silkreed is also common on disturbed rocky outcrops in the Big Cypress Natural Preserve, Florida. The area is dominated by bald cypress (_Taxodium distichum_) and pond cypress (_T. ascendens_) wetlands, but also contains hydric South Florida slash pine flatwoods and treeless wet prairies and marshes [23]. Silkreed occurred both before and after Hurricane Andrew (1992) on Chicken Key, Florida, an island dominated by red mangrove (_Rhizophora mangle_) [9].
 
@@ -92,7 +92,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Silkreed is a tall, perennial, large-plumed grass [26] that grows in dense clumps from a woody rhizome [20,39]. Stems and flowering stalks may reach a height of 3 to 15 feet (1-5 m) depending on soil and moisture conditions. Each clump produces an average of 40 stalks with 12 to 20 terminal panicles that may be up to 3 feet (1 m) long, each bearing hundreds of flowers [26]. It is not clear how deep silkreed roots penetrate in the soil, though one source reports that roots are "deep" [25].
 
-[![A close-up photo of an airy grass panicle with tree leaves behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-neyrey_panicle.jpeg)Photo Credit Photo by Joe MDO, iNaturalist (CC BY-NC 4.0). A silkreed panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up photo of an airy grass panicle with tree leaves behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-neyrey_panicle.jpeg?itok=ElmNTSaU)Photo Credit Photo by Joe MDO, iNaturalist (CC BY-NC 4.0). A silkreed panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

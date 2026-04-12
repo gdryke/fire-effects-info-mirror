@@ -48,7 +48,7 @@ Climate change has led to increased temperatures, rainfall, frequency and severi
 
 ## Introduction
 
-![An adult red-cockaded woodpecker with leg bands on the trunk of a pine tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_adult.jpg)
+![An adult red-cockaded woodpecker with leg bands on the trunk of a pine tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_adult.jpg?itok=gEw-HMt2)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ None
 
 Red-cockaded woodpeckers are nonmigratory, year-round residents of pine forests in the southeastern United States. Historically, they were relatively common forest birds from southern New Jersey south to southern Florida and west to eastern Texas and Oklahoma (fig. 2). Extensive logging, development, and fire exclusion beginning in the 19th century greatly reduced and fragmented southern and eastern pine forests (see Other Management Considerations) [8]. Over the 20th century, the range of the red-cockaded woodpecker shrank from a wide, continuous swath to small, isolated patches stretching from southern Virginia south to Florida, and west to eastern Texas and Oklahoma [8,72] (fig. 3). Because the red-cockaded woodpecker’s estimated historical distribution is based on data collected after large-scale harvest of longleaf pines had already begun, the historical distribution depicted in figure 2 is likely smaller than its presettlement distribution. Thus, range contraction is likely more substantial than the figure implies [72].
 
-![The estimated historical distribution of the red-cockaded woodpecker in the Southeast is shown in orange and the estimated distribution of longleaf pines is shown in yellow overlay. ]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_historicaldistribution.jpg)
+![The estimated historical distribution of the red-cockaded woodpecker in the Southeast is shown in orange and the estimated distribution of longleaf pines is shown in yellow overlay. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_historicaldistribution.jpg?itok=luR-BUkt)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Image courtesy of the U.S. Fish and Wildlife Service [72].
 
 **Figure 2—** The estimated historical distribution of red-cockaded woodpeckers (orange) and longleaf pines (yellow overlay) based on data from the early 1900s. 
 
-![Current range of the red-cockaded woodpecker in the Southeast is shown in green. When this image is compared with the historical range in figure 2, it is evident that the species’ distribution has been greatly reduced.]({{ site.baseurl }}/assets/images/species-reviews/drbo_drbo_currentdistribution.png)
+![Current range of the red-cockaded woodpecker in the Southeast is shown in green. When this image is compared with the historical range in figure 2, it is evident that the species’ distribution has been greatly reduced.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/drbo_currentdistribution.png?itok=2cXhYkvi)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Mid-Atlantic Coastal Plain| X| —| —| —| X
  
 ### Longleaf Pine
 
-![A longleaf pine stand in northern Florida showing tall trees and an open, “park-like” midstory structure, and saw palmetto and grass in the understory. ]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_longleafpinehabitat.jpg)
+![A longleaf pine stand in northern Florida showing tall trees and an open, “park-like” midstory structure, and saw palmetto and grass in the understory. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_longleafpinehabitat.jpg?itok=5Gj53Ywm)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ Adult red-cockaded woodpeckers are 20 to 23 cm long [72] and weigh 40 to 55 g. T
 
 Red-cockaded woodpeckers are cooperative breeders, living in groups and defending a shared territory throughout the year. Breeding pairs may have up to five helpers, though most pairs have under three. Most helpers are adult male offspring that remain on their natal territories, although helpers may be females or unrelated males. Helpers do not breed with the breeding pair, but perform all other behaviors associated with breeding, including excavating cavities, incubating eggs, feeding nestlings, and defending territories. Cavities are excavated in mature pine trees, with typically only one active cavity per tree [8,72]. Cavities are used for roosting year-round, and for nesting and raising young during the breeding season. Adults and fledged juveniles each roost in separate cavities. Occasionally, if cavities are lacking, adults will roost in the open on a pine branch [42]. Groups of trees with cavities used by a breeding pair and their helpers are known as cavity clusters. Though they do not roost together in the same cavity at night, red-cockaded woodpecker groups assemble in the morning and travel together throughout the day (fig. 5) [8].
 
-![Two red-cockaded woodpeckers foraging on the trunk of a small pine tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_twobirdsforaging.jpg)
+![Two red-cockaded woodpeckers foraging on the trunk of a small pine tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_twobirdsforaging.jpg?itok=UE6Eb7Sy)
 
 Photo Credit
 
@@ -204,7 +204,7 @@ Red-cockaded woodpeckers begin breeding activities in February or March, and lay
 
 High reproductive success has been linked to habitat characteristics including the presence of large, old pines (DBH >35 cm), low overstory hardwood density and/or canopy cover, and low midstory height [22]. Reproductive success also increases in areas that are frequently burned compared to those that burn less frequently (see Reproductive Fitness). Red-cockaded woodpecker reproductive success does not appear to be reduced by military training or other human activities [14,15,19].
 
-![A nestling red-cockaded woodpecker in the hands of a bander with closed eyes and few feathers.]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_nestling.jpg)
+![A nestling red-cockaded woodpecker in the hands of a bander with closed eyes and few feathers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_nestling.jpg?itok=O9Xv3Ko1)
 
 Photo Credit
 
@@ -232,7 +232,7 @@ Nestlings eat slightly different diets than those of adults, although most studi
 
 Red-cockaded woodpeckers typically forage in pine forests with open understories and a sparse hardwood midstory. They forage for insects in live and dead pine trees, and less frequently in hardwood trees. Mature turkey oaks, which occur at low densities in longleaf pine communities and are considered an important component of those communities, may act as a “hub” of invertebrate biodiversity [26]. During the nesting season, red-cockaded woodpeckers typically forage near the nest tree, while in winter they may travel farther from cavity clusters to open stands of pines to forage. Male red-cockaded woodpeckers tend to forage on branches and twigs, while females forage on the main lower trunk. Males have slightly longer legs and females have slightly longer tails, which is thought to make each better adapted to foraging in their respective locations, and to reduce competition for food within groups [8].
 
-![A red-cockaded woodpecker on the trunk of a burned pine tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_birdonburnedtree.jpg)
+![A red-cockaded woodpecker on the trunk of a burned pine tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_birdonburnedtree.jpg?itok=OOdlMGSv)
 
 Photo Credit
 
@@ -362,7 +362,7 @@ Red-cockaded woodpeckers are one of the most intensively managed bird species in
 
 Threatened [68]
 
-![NatureServe lists the red-cockaded woodpecker as Imperiled in seven states \(shown in orange\), Critically Imperiled in four states \(shown in red\), Possibly Extirpated in one state \(shown in grey\), or Extirpated in three states \(shown in black\).]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_conservationstatus.png)
+![NatureServe lists the red-cockaded woodpecker as Imperiled in seven states \(shown in orange\), Critically Imperiled in four states \(shown in red\), Possibly Extirpated in one state \(shown in grey\), or Extirpated in three states \(shown in black\).](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_conservationstatus.png?itok=YhrZUm72)
 
 Photo Credit
 
@@ -380,7 +380,7 @@ The red-cockaded woodpecker was first designated as endangered in 1970 [71]. The
 
 In the 1990s, the introduction of artificial cavities was a conservation breakthrough for the species (fig. 9). The cavities can be created in multiple ways, but are most commonly drilled directly into the trunks of live pines (“drilled cavities”), partially drilled for red-cockaded woodpeckers to continue excavating (“drilled starts”), or built out of wood elsewhere and inserted in holes cut into pines (“inserts”), creating new cavities for nesting or roosting that would otherwise take the woodpeckers years to excavate. Pine species may be a consideration for artificial cavity placement: loblolly pines with inserts appear to have mortality rates more than twice those of longleaf pines with inserts (Hooper 2003, cited in [45]). Red-cockaded woodpeckers readily use all three types of artificial cavities, but because they are ready to use immediately, inserts and drilled cavities are most commonly created when translocating individuals or groups to new areas [8,45].
 
-![A red-cockaded woodpecker is perched outside an artificial nest cavity in a large tree. Large amounts of resin cover the trunk and cavity.]({{ site.baseurl }}/assets/images/species-reviews/feis-drbo_artificialnestcavity.jpg)
+![A red-cockaded woodpecker is perched outside an artificial nest cavity in a large tree. Large amounts of resin cover the trunk and cavity.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drbo_artificialnestcavity.jpg?itok=CkFdZhb7)
 
 Photo Credit
 

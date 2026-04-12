@@ -69,7 +69,7 @@ The rough-legged hawk winters from south-central Alaska (casual) and southern Ca
 
 ## Biological Characteristics
 
-![A photo of a mottled brown and white hawk looking directly at the camera, perched on the tips of thin, dead branches. ]({{ site.baseurl }}/assets/images/species-reviews/feis-bula_portrait.jpg)
+![A photo of a mottled brown and white hawk looking directly at the camera, perched on the tips of thin, dead branches. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bula_portrait.jpg?itok=u1Iiie-6)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Rough-legged hawks have few natural enemies. Terrestrial predators include arcti
 
 During the breeding season, the rough-legged hawk preys primarily on microtine rodents (Microtus and Peromyscus spp.), brown lemming (Lemmus sibericus), Nelson's collared lemming (Dicrostonyx groenlandicus), tundra vole (M. oeconomus), singing vole (M. miurus), northern red-backed vole (Cleithrionomys rutilis), and other small mammals [4]. Lemmings may comprise 80 to 85 percent of the summer diet [28]. In the Northwest Territories brown lemmings comprised 83 percent of rough-legged hawk summer diet, with lesser amounts of collared lemming and arctic ground squirrel (Spermophilus parryi) [37], and occassionally, Alaska hare (Lepus othus) [28]. Other food items include insects and carrion [12]. Rough-legged hawks have been observed consuming ringed seal (Phoca hispida) and caribou (Rangifer tarandus) carcasses [39]. Springer reported that up to 30 percent of breeding season diet in Alaska was avian prey, and consisted mostly of fledgling passerines, ptarmigan (Lagopus spp.), and occasionally lesser golden-plover (Pluvialis dominica) [33]. Palmer and Mindell [28] reported that avian prey of rough-legged hawks in Alaska included grouse (probably spruce grouse [Dendrapagus canadensis]) chicks, shorebirds, lesser golden-plover, red-necked phalarope (Phalaropus lobatus), whimbrel (Numenius phaeopus) chicks and juveniles, and other small birds such as wagtail (Motacilla spp.), American tree sparrow (Spizella arborea), Lapland longspur (Calcarius lapponicus), and snow bunting (Plectrophenax nivalis) [28].
 
-![A photo of a brown and white hawk standing on the ground surrounded by dry grasses, with a small rodent in its talons.]({{ site.baseurl }}/assets/images/species-reviews/feis-bula_onprey.jpeg)
+![A photo of a brown and white hawk standing on the ground surrounded by dry grasses, with a small rodent in its talons.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bula_onprey.jpeg?itok=pfDSXfZ9)
 
 Photo Credit
 

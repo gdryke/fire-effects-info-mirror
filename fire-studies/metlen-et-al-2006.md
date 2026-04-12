@@ -24,7 +24,7 @@ Metlen, Kerry L.; Dodson, Erich K.; Fiedler, Carl E. 2006. Research Project Summ
 
 ## Image Gallery
 
-![A photo of a stand of relatively young, evenly spaced trees. Trunks of some trees are visibly charred at their base. Groundcover is dominated by grasses.]({{ site.baseurl }}/assets/images/fire-studies/metlen-et-al-2006_feis-metlen_2006_hero.jpg) A site in Lubrecht Experimental Forest three years after commercial thinning and a prescribed burn. Photo taken in 2005. _Photo by USDA Forest Service._
+![A photo of a stand of relatively young, evenly spaced trees. Trunks of some trees are visibly charred at their base. Groundcover is dominated by grasses.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-metlen_2006_hero.jpg) A site in Lubrecht Experimental Forest three years after commercial thinning and a prescribed burn. Photo taken in 2005. _Photo by USDA Forest Service._
 
 Photo Credit: Photo by USDA Forest Service.
 

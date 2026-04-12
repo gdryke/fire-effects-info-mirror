@@ -55,7 +55,7 @@ None
 
 ## General Distribution
 
-![A photo of a black, orange and white songbird with a red eye perched on a branch with leafy vegetation around it.]({{ site.baseurl }}/assets/images/species-reviews/feis-pier_male.jpeg)
+![A photo of a black, orange and white songbird with a red eye perched on a branch with leafy vegetation around it.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-pier_male.jpeg?itok=U7VFkIXz)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ Although eastern towhees generally prefer young successional sites, variation be
 
 Eastern towhees typically nest on or near the ground. Several literature reviews note the predominance of eastern towhee nests below 5 feet (1.5 m) [34,42,67,86]. In a study of cowbird parasitism on Sanibel Island, all 5 eastern towhee nests located were within 6 feet (2 m) of the ground [74]. Nests as high as 18 feet (5.5 m) have been reported in literature reviews [34,42,67]. Nests higher off the ground in mixed aspen stands of varying ages in Pennsylvania had significantly (_p_ <0.001) lower nest success. Of 13 unsuccessful eastern towhee nests, 11 were greater than 1 foot (0.5 m) above the ground. [103].
 
-![A photo of an open stick nest on the ground with three speckled eggs in it. The photo is taken with a flash in dark underbrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-pier_nest.jpeg)
+![A photo of an open stick nest on the ground with three speckled eggs in it. The photo is taken with a flash in dark underbrush.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-pier_nest.jpeg?itok=-dQNZb3I)
 
 Photo Credit
 
@@ -205,7 +205,7 @@ It is likely that eggs and young birds are much more vulnerable to fire. Althoug
 
 Despite the abundance of articles addressing the effect of fire on eastern towhees, results should be interpreted with caution. As noted by a literature review summarizing songbird responses to fire in southwestern ponderosa pine (_Pinus ponderosa_) forests [32], there are several limitations to many studies addressing bird response to fire. Many studies focus on breeding communities and use composite statistics, such as species richness. Many are opportunistic, restricted in spatial or temporal scale, include confounding factors and/or lack sufficient replication. Very few compare demographic parameters of a given species between burned and unburned vegetation, which is necessary to determine if the site is meeting the needs of a species [32].
 
-![A photo of a brown songbird perched on a thin branch, with burned open pine cones on surrounding branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pier_female_burnedpine.jpg)
+![A photo of a brown songbird perched on a thin branch, with burned open pine cones on surrounding branches.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-pier_female_burnedpine.jpg?itok=_ZeGflyK)
 
 Photo Credit
 

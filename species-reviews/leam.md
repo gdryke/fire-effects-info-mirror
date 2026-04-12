@@ -107,7 +107,7 @@ In New England snowshoe hares favor second-growth aspen (Populus spp.)-birch (Be
 
 ## Biological Characteristics
 
-![A photo of a white rabbit in a snowy forest landscape.]({{ site.baseurl }}/assets/images/species-reviews/feis-leam_winter.jpg)
+![A photo of a white rabbit in a snowy forest landscape.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-leam_winter.jpg?itok=cqpqEWq0)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Photo by Caroline Urban, iNaturalist.org, some rights reserved.
 
 Snowshoe hare in winter coloration, St. Louis County, Minnesota. [(CC BY-NC 4.0)](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
-![A photo of a brown rabbit sitting in grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-leam_summer.jpeg)
+![A photo of a brown rabbit sitting in grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-leam_summer.jpeg?itok=Vc9t8N3g)
 
 Photo Credit
 

@@ -86,7 +86,7 @@ Bedrock (%)| 0.0 - 3.8
  
 ## Plant Communities
 
-[![A landscape photo of a shrubby tree with ridged green leaves and small green berries in front of a small grassy area, with more shrubs and trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-frapur_habitat.jpeg)Photo Credit Photo by Annie Kreager, iNaturalist.org, CC BY 4.0. Cascara buckthorn, Willamette Valley, OR.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A landscape photo of a shrubby tree with ridged green leaves and small green berries in front of a small grassy area, with more shrubs and trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-frapur_habitat.jpeg?itok=LivDJE9G)Photo Credit Photo by Annie Kreager, iNaturalist.org, CC BY 4.0. Cascara buckthorn, Willamette Valley, OR.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Cascara buckthorn is predominantly a shrub component on forested sites in the Pacific Northwest. No information was found listing Cascara buckthorn as an understory dominant or site indicator. Cascara buckthorn was listed, however, as a member of a prairie community occupying a floodplain in the Willamette Valley, Oregon. It was also listed as a representative species in a vine maple (Acer circinatum) plant association on a lava flow near Santiam Pass, Oregon [9]. In southern Oregon, Cascara buckthorn was found as a component in many plant associations in the white fir (Abies concolor), Douglas-fir (Pseudotsuga menziesii), and western hemlock (Tsuga heterophylla) series [2].
 
@@ -130,7 +130,7 @@ Scientific names for species used above are as follows:
 
 ## Botanical Description
 
-![A close up photo of a shrub's green, oval, ridged leaves and tiny cream-white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-frapur_flowers.jpg)
+![A close up photo of a shrub's green, oval, ridged leaves and tiny cream-white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-frapur_flowers.jpg?itok=6IiKTECR)
 
 Photo Credit
 

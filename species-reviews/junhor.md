@@ -36,7 +36,7 @@ Gucker, Corey L. 2006. _Juniperus horizontalis_ , creeping juniper. In: Fire Eff
 
 ## Taxonomy
 
-![A photo of a low-growing, spreading shrub with bright green leaves comprised of overlapping scales with clusters of light blue "berries".]({{ site.baseurl }}/assets/images/species-reviews/feis-junhor_plant.jpg)
+![A photo of a low-growing, spreading shrub with bright green leaves comprised of overlapping scales with clusters of light blue "berries".](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-junhor_plant.jpg?itok=nTJKq40G)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ _Juniperus_ × _fassettii_ is reported from Banff in Alberta, near Bridger in Mo
 
 ## Site Characteristics
 
-![A photo of a low, spreading shrub with a sagebrush plant growing near the center of the plant, and more sagebrush plants behind. Vegetation behind is dominated by perennial grasses, and a few rocks are visible amongst the grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-junhor_habitat.jpg)
+![A photo of a low, spreading shrub with a sagebrush plant growing near the center of the plant, and more sagebrush plants behind. Vegetation behind is dominated by perennial grasses, and a few rocks are visible amongst the grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-junhor_habitat.jpg?itok=gcDxVzjD)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Creeping juniper is often described in association with sandy, poorly developed 
 
 Creeping juniper is a dominant or subdominant in the following vegetation classifications:
 
-![A photo of low, shrubby groundcover in an open area surrounded by conifers. Small grasses poke through the groundcover shrub, but the shrub dominates the vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-junhor_habitat2.jpg)
+![A photo of low, shrubby groundcover in an open area surrounded by conifers. Small grasses poke through the groundcover shrub, but the shrub dominates the vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-junhor_habitat2.jpg?itok=coaBj85Z)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Creeping juniper growing in Charlevoix County, Michigan ([CC BY 4.0](<https://cr
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g. [3,16,47,48,61,101,102,103,113]).
 
-![A close-up photo of the leaves and fruits of a creeping juniper. Leaves are layered and scale-like, and stems are not visible behind the tightly packed leaves. Fruits are a light blue, berry-like cone. ]({{ site.baseurl }}/assets/images/species-reviews/feis-junhor_leavesfruits.jpeg)
+![A close-up photo of the leaves and fruits of a creeping juniper. Leaves are layered and scale-like, and stems are not visible behind the tightly packed leaves. Fruits are a light blue, berry-like cone. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-junhor_leavesfruits.jpeg?itok=ZXtxF-dd)
 
 Photo Credit
 

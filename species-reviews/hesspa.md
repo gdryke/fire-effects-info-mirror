@@ -53,7 +53,7 @@ big needlegrass, short-awn porcupine grass, western porcupine grass
 
 Porcupinegrass is found from British Columbia to Ontario, south through Montana, Wyoming, Colorado, and New Mexico, and east through most of the central states to Pennsylvania [46].
 
-![Map of the United States and Canada showing the distribution of porcupine grass by state and province.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspa_map.jpg)
+![Map of the United States and Canada showing the distribution of porcupine grass by state and province.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-hesspa_map.jpg?itok=O4NkzmUF)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Alberta, Peace-Athabasca Delta| General veg. cts| Dirschl et al.l 1974
  
 Porcupinegrass is a native, perennial, cool-season bunchgrass. It is often confused with needle-and-thread grass, but its leaves are longer, generally less rolled, lighter in color, and considerably wider [18]. It may grow to a height of 4 feet (1.2 m) but generally reaches 1.5 to 3 feet (0.45-0.9 m). Flower stalks grow from 2 to 4 feet (0.6-1.2 m). Root systems of mature plants usually reach depths of about 4.5 feet (1.35 m), but occasionally extend to 6 feet (1.8 m). Numerous, profusely branched, smaller roots occupy the top 8 to 18 inches (20-46 cm) of soil, spreading horizontally or diagonally downward. The longer roots give rise to many laterals which divide into fine branches in deeper soil [47].
 
-![Close up photo of several grass stems in flower.]({{ site.baseurl }}/assets/images/species-reviews/hesspa_feis-HESSPA_plant.jpg)
+![Close up photo of several grass stems in flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-HESSPA_plant.jpg?itok=cBTO6RIv)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Porcupinegrass reproduces sexually [12]. The seeds have a unique method of plant
 
 Porcupinegrass seed. Wikimedia Commons image by Paul Henjum. Strong winds may transport seeds a considerable distance, especially when awns are twisted together in clumps [42]. Animals also carry seeds as the awns become trapped in their coats.
 
-![Porcupinegrass seed.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspa_seed.jpg)
+![Porcupinegrass seed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-hesspa_seed.jpg?itok=iNmhVywz)
 
 Photo Credit
 

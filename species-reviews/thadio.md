@@ -58,7 +58,7 @@ quicksilver-weed, dioecious meadowrue
 
 Early meadow-rue's range extends from south-central Canada south to Georgia and Alabama. It is distributed eastward from the Mississippi River to the Atlantic Coast [9,17,20,21].
 
-![Distribution map of early meadow-rue with state boundaries in the United State and Canada. Many of the states in the central U.S. and eastern U.S. and Canada are highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-thadio_distribution.jpg)
+![Distribution map of early meadow-rue with state boundaries in the United State and Canada. Many of the states in the central U.S. and eastern U.S. and Canada are highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-thadio_distribution.jpg?itok=v4eLOPTd)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ With its leaves about half grown, early meadow-rue blooms early in spring (April
 
 Early meadow-rue has a shallowly rooted caudex. Foliage dies back to this rootstock each winter and resprouts in spring. Brundrett and others [3] note that it grows typically in colonies. However, Melampy [14] asserts that only male plants produce stolons; therefore, colonies are unisexual. While vegetative reproduction favors the spread of male plants, Melampy [14] notes that they may be more susceptible to environmental stresses than female plants. Male plants also reproduce sexually, having long pendulous stamens that facilitate wind pollination [9]. Fruits are achenes with no special dispersal mechanisms. Most likely, the dry fruits drop near the parent plants unless they are consumed. There is no information on the effects of animal digestive tracts on seed survival.
 
-[![Many long, pendulous, yellow stamens of male flowers hang from green stems on long peduncles. Lobed leaves are apparent in the background.]({{ site.baseurl }}/assets/images/species-reviews/thadio_thadio_reproduction.jpg)Photo Credit iNaturalist photo by Bonnie Isaac. Male flowers of early meadow-rue.](<https://www.inaturalist.org/observations/276300376>)
+[![Many long, pendulous, yellow stamens of male flowers hang from green stems on long peduncles. Lobed leaves are apparent in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/thadio_reproduction.jpg?itok=tRsBq9L3)Photo Credit iNaturalist photo by Bonnie Isaac. Male flowers of early meadow-rue.](<https://www.inaturalist.org/observations/276300376>)
 
 ## Successional Status
 

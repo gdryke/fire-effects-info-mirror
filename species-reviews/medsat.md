@@ -98,7 +98,7 @@ Alfalfa is an introduced perennial herb. It can reach 24 to 35 inches (60-90 cm)
 
 Saponic glycosides are found in alfalfa, which are suspected of contributing to bloat in ruminants [29].
 
-![A plant with purple flowers grows in a bunch with a sandy beach and water in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-medsat_plant.jpg)
+![A plant with purple flowers grows in a bunch with a sandy beach and water in the background.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-medsat_plant.jpg)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Seedlings of alfalfa are not very aggressive, but established plants are very co
 
 ## Successional Status
 
-![Bunches of green plants growing out of an old gravel road.]({{ site.baseurl }}/assets/images/species-reviews/feis-medsat_habitat.jpg)
+![Bunches of green plants growing out of an old gravel road.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-medsat_habitat.jpg)
 
 Photo Credit
 

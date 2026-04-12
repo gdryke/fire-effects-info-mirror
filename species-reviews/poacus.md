@@ -76,7 +76,7 @@ Distributions of subspecies are [13,35]:
 
 ## Site Characteristics
 
-[![A photo of a bunchgrass with a rocky hillside rising behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-poacus_plant.jpg)Photo Credit Photo by Jim Morefield, iNaturalist (CC BY 4.0). Cusick's bluegrass growing on a rocky slope in the White Mountains of eastern California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass with a rocky hillside rising behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poacus_plant.jpg?itok=zmcaiDOp)Photo Credit Photo by Jim Morefield, iNaturalist (CC BY 4.0). Cusick's bluegrass growing on a rocky slope in the White Mountains of eastern California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Cusick's bluegrass occurs mostly on dry sites. It grows on rocky slopes, terraces, dry margins of meadows, and inactive floodplains [4,5,18,20]. It has shown minor coverage on moist sites [24].
 
@@ -114,7 +114,7 @@ Cusick's bluegrass occurs in shadscale (_Atriplex confertifolia_)- bottlebrush s
 
 ## Botanical Description
 
-[![A photo of a dense, tufted bunchgrass with ground cover of small forbs around.]({{ site.baseurl }}/assets/images/species-reviews/feis-poacus_plant2.jpg)](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a dense, tufted bunchgrass with ground cover of small forbs around.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2025-05/feis-poacus_plant2.jpg?itok=1BCAqzRp)](<https://creativecommons.org/licenses/by/4.0/>)
 
 Cusick's bluegrass is a cool-season, native perennial bunchgrass. It grows in dense, often large tufts. Culms are 8 to 24 inches (20-60 cm) long [14]. Cusick's bluegrass is dioecious with apomictic subspecies and races in which only pistillate plants are present [35].
 

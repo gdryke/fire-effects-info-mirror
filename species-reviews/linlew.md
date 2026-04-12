@@ -34,7 +34,7 @@ Reeves, Sonja L. 2006. _Linum lewisii_ , Lewis flax. In: Fire Effects Informatio
 
 ## Introduction
 
-![A photo of light blue flowers with yellow centers growing at the end of a thin stem with small leaves. green capsule droop at the end of other stems on the same plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-linlew_hero.jpg)
+![A photo of light blue flowers with yellow centers growing at the end of a thin stem with small leaves. green capsule droop at the end of other stems on the same plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linlew_hero.jpg?itok=9WBpElla)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Neuvo Leon| Alpine meadows above 11,000 feet (3,500 m) [15,19]
 
 Lewis flax is suitable for sites with average annual precipitation that ranges from 10 to 23 inches (250-580 mm). Vigorous growth can be expected on sites averaging greater than 16 inches (410 mm) [61,121]. Lewis flax seedlings are "excellent competitors" in pinyon-juniper types that average <15 inches (380 mm) annual precipitation and are "medium competitors" on sites that average more than 15 inches (380 mm) annual precipitation. Mature plants are "medium competitors" at both of these precipitation levels [118].
 
-![A photo of pale blue Lewix flax flowers growing at the ends of long stems with small leaves, with capsules dangling from the stems. Yellow flowers intersperse with Lewis flax, and conifer-covered hills transition to rocky slopes beneath cloudy skies in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-linlew_habitat.jpg)
+![A photo of pale blue Lewix flax flowers growing at the ends of long stems with small leaves, with capsules dangling from the stems. Yellow flowers intersperse with Lewis flax, and conifer-covered hills transition to rocky slopes beneath cloudy skies in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linlew_habitat.jpg?itok=SZtnrsOO)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Lewis flax is a dominant species in the Colville's phlox (_Phlox covillei_)/Lewi
 
 ## Botanical Description
 
-![A photo of a whitish flower on the end of a green stem with small leaves. An adjacent stem has three yellowish capsules at the end.]({{ site.baseurl }}/assets/images/species-reviews/feis-linlew_flower-capsule.jpg)
+![A photo of a whitish flower on the end of a green stem with small leaves. An adjacent stem has three yellowish capsules at the end.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linlew_flower-capsule.jpg?itok=7T5oOsYi)
 
 Photo Credit
 

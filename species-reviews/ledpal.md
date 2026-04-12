@@ -93,7 +93,7 @@ Starr and Oberbauer [73] found that marsh Labrador tea was able to photosynthesi
 
 ## Plant Communities
 
-![A photo of a flat tundra leading to a pond or small lake. The ground is dotted with small, flat shrubs and plants, some of which are blooming with clusters of white flowers.]({{ site.baseurl }}/assets/images/species-reviews/ledpal_feis-ledpas_habitat.jpeg)
+![A photo of a flat tundra leading to a pond or small lake. The ground is dotted with small, flat shrubs and plants, some of which are blooming with clusters of white flowers.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-ledpas_habitat.jpeg?itok=V8v-uQs_)
 
 Photo Credit
 
@@ -127,7 +127,7 @@ Marsh Labrador tea is recognized as a dominant species in the following vegetati
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [1,37,81].
 
-![A close-up photo of a low-lying shrub with clusters of puffy white flowers.]({{ site.baseurl }}/assets/images/species-reviews/ledpal_feis-ledpas_flower.jpg)
+![A close-up photo of a low-lying shrub with clusters of puffy white flowers.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-ledpas_flower.jpg?itok=-8JG0Wnb)
 
 Photo Credit
 
@@ -160,7 +160,7 @@ Summer flowers and fall fruits are typical for marsh Labrador tea. In Alaska, fl
 
 ## Regeneration Processes
 
-![A close-up photo of a low shrub's tiny red, hanging fruits.]({{ site.baseurl }}/assets/images/species-reviews/ledpal_feis-ledpas_fruit.jpeg)
+![A close-up photo of a low shrub's tiny red, hanging fruits.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-ledpas_fruit.jpeg?itok=B7Fznnb0)
 
 Photo Credit
 

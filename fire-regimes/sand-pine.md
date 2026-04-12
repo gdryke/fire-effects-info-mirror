@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for sand pine communities has not yet been publ
 
 ## Distribution
 
-![A map showing the distribution of sand pine communities in peninsular Florida.]({{ site.baseurl }}/assets/images/fire-regimes/sand-pine_feis-sand_pine_locator.jpg)
+![A map showing the distribution of sand pine communities in peninsular Florida.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-sand_pine_locator.jpg?itok=lQS517fs)
 
 Photo Credit
 

@@ -38,7 +38,7 @@ Tollefson, Jennifer E. 2008. _Quercus chrysolepis_ , canyon live oak. In: Fire E
 
 The scientific name of canyon live oak is _Quercus chrysolepis_ Liebm. (Fagaceae) [61,71,88,100,101,103,245]. Canyon live oak hybridizes with Palmer oak (_Q. palmeri_), island oak (_Q. tomentella_), and huckleberry oak (_Q. vaccinifolia_) [61,88].
 
-![A photo of a tall tree with gnarled branches growing with other upright trees of apparently the same species in a grassy field.]({{ site.baseurl }}/assets/images/species-reviews/feis-quechr_tree.jpg)
+![A photo of a tall tree with gnarled branches growing with other upright trees of apparently the same species in a grassy field.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-quechr_tree.jpg)
 
 Photo Credit
 
@@ -46,7 +46,7 @@ Photo by Akira.
 
 Canyon live oak (tree form). Henry W. Coe State Park, Morgan Hill, California.
 
-![A photo showing part of a plant with shrubby, dense branches and green leaves with yellowish undersides.]({{ site.baseurl }}/assets/images/species-reviews/feis-quechr_shrub.jpg)
+![A photo showing part of a plant with shrubby, dense branches and green leaves with yellowish undersides.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-quechr_shrub.jpg)
 
 Photo Credit
 
@@ -171,7 +171,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Canyon live oak is one of the most morphologically variable oaks in North America [61]. It is a spreading, perennial, sclerophyllous evergreen [61,88,100] that ranges from less than 15 feet to 100 feet (5-30 m) tall and up to 10.7 feet (3.3 m) DBH [88,101,168,179]. Its growth form varies depending on the site [34]. It grows as a shrub and may form dense thickets on mountain slopes and ridgetops, and it grows as a tree in sheltered, moist canyons [43,52,133,150,219]. Its size generally increases with soil depth [161]. In open areas the crown is dense, wide-spreading, and reaches nearly to the ground. In closed stands the crown is smaller in diameter and concentrated in the top half of the tree [179].
 
-![A photo of a cluster of light yellow flowers growing at the end of a grand with somewhat oval-shaped leaves with widely serrated edges.]({{ site.baseurl }}/assets/images/species-reviews/feis-quechr_flowers.jpg)
+![A photo of a cluster of light yellow flowers growing at the end of a grand with somewhat oval-shaped leaves with widely serrated edges.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-quechr_flowers.jpg?itok=Z2KS4ntr)
 
 Photo Credit
 
@@ -259,7 +259,7 @@ The ability of canyon live oak to assume multiple growth forms allows it to domi
 
 ## Immediate Fire Effects
 
-![A photo of the base of a tree with several large, charred trunks and narrow, reddish branches with green leaves sprouting from the base.]({{ site.baseurl }}/assets/images/species-reviews/feis-quechr_sprout.jpg)
+![A photo of the base of a tree with several large, charred trunks and narrow, reddish branches with green leaves sprouting from the base.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-quechr_sprout.jpg)
 
 Photo Credit
 

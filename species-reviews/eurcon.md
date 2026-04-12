@@ -52,7 +52,7 @@ conspicuous aster, creeping aster
 
 Western showy aster is distributed from Yukon Territory east to Saskatchewan, south to northern Wyoming, and west to northeastern Oregon [10,14].
 
-![Distribution of western showy aster shown in green.]({{ site.baseurl }}/assets/images/species-reviews/eurcon_eurcon_map_0_0_0.jpg)
+![Distribution of western showy aster shown in green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/eurcon_map_0_0_0.jpg?itok=MdhALuoJ)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Common plant associates of western showy aster include heartleaf arnica (Arnica 
 
 ## Botanical and Ecological Characteristics
 
-![Blooming western showy aster.]({{ site.baseurl }}/assets/images/species-reviews/feis-eurcon.jpg)
+![Blooming western showy aster.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-eurcon.jpg?itok=SfyseTtk)
 
 Photo Credit
 

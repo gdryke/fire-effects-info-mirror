@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain western redcedar communities
 
 ## Distribution
 
-![A map showing the distribution of Rocky Mountain western redcedar communities in Idaho and Montana.]({{ site.baseurl }}/assets/images/fire-regimes/rocky-mountain-western-redcedar_feis-rocky_mountain_western_redcedar_locator.jpg)
+![A map showing the distribution of Rocky Mountain western redcedar communities in Idaho and Montana.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-rocky_mountain_western_redcedar_locator.jpg?itok=mgdil3v5)
 
 Photo Credit
 

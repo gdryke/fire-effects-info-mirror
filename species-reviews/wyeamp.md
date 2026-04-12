@@ -68,7 +68,7 @@ Mule-ears-dominated subalpine forb communities also occur in heavy clay soils on
 
 Mule-ears has a wide ecological amplitude, occurring in many plant communities. It is most abundant in mesic sagebrush (Artemisia spp.)-grassland habitats. It is also common in woodlands and seral coniferous forests above the elevational limits of sagebrush [28,35].
 
-![A savanna-type landscape of widely spaced pine trees, with an herbaceous layer of plants with yellow flowers covering nearly all of the open areas.]({{ site.baseurl }}/assets/images/species-reviews/feis-wyeamp_habitat.jpg)
+![A savanna-type landscape of widely spaced pine trees, with an herbaceous layer of plants with yellow flowers covering nearly all of the open areas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-wyeamp_habitat.jpg?itok=BMWURIvf)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Publications listing mule-ears as a dominant herbaceous-layer species are as fol
 
 ## Botanical Description
 
-![A clumped, multi-stemmed plant growing in an open, sunny location with bright yellow flowers at the end of each stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-wyeamp_plant.jpg)
+![A clumped, multi-stemmed plant growing in an open, sunny location with bright yellow flowers at the end of each stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-wyeamp_plant.jpg?itok=o1wt3X3v)
 
 Photo Credit
 

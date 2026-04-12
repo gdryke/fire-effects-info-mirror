@@ -34,7 +34,7 @@ Stone, Katharine R. 2011. _Hieracium piloselloides_ , tall hawkweed. In: Fire Ef
 
 ## Introduction
 
-![Photo of a small cluster of yellow flowers with a grassy background.]({{ site.baseurl }}/assets/images/species-reviews/hiepio_feis-HIEPIO_flowers.jpg)
+![Photo of a small cluster of yellow flowers with a grassy background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HIEPIO_flowers.jpg?itok=f46M1ikk)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ In central New York, tall hawkweed occurred on a well-drained hillside in an ope
 
 ## Botanical Description
 
-![Photo of a small, herbaceous plant with narrow basal leaves, slender, leafless stems, and yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/hiepio_feis-HIEPIO_plant.jpg)
+![Photo of a small, herbaceous plant with narrow basal leaves, slender, leafless stems, and yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HIEPIO_plant.jpg?itok=R69sr3Ee)
 
 Photo Credit
 
@@ -173,7 +173,7 @@ Some information in this section (Regeneration Processes) comes from Johnson and
 
 Tall hawkweed reproduces via seed and also spreads vegetatively. Two sources suggest that vegetative spread is a more common means of regeneration than seed production. Observations from Ontario suggested that seedlings were rare in an established population of tall hawkweed, and most young plants were sprouts from the roots of existing plants [42]. In a revegetating limestone quarry in central New York, the number of tall hawkweed seedlings was low, representing <4% of young plants [45].
 
-![Photo of a small cluster of yellow flowers with squarish petals at the ends of slender stems.]({{ site.baseurl }}/assets/images/species-reviews/hiepio_feis-HIEPIO_flower.jpg)
+![Photo of a small cluster of yellow flowers with squarish petals at the ends of slender stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HIEPIO_flower.jpg?itok=SxizYbO9)
 
 Photo Credit
 

@@ -54,7 +54,7 @@ In addition to fire, other control methods, such as physical and mechanical cont
 
 The scientific name for diffuse knapweed is _Centaurea diffusa_ Lam. (Asteraceae) [7, 28, 42, 47, 58, 59, 173, 181].
 
-![A photo of a weedy plant with flowering heads going to seed and ones open white flower with a pollinator on it.]({{ site.baseurl }}/assets/images/species-reviews/feis-cendif_plant.jpg)
+![A photo of a weedy plant with flowering heads going to seed and ones open white flower with a pollinator on it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cendif_plant.jpg?itok=LPjrBgUZ)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ tumble knapweed, white knapweed, spreading knapweed
 
 Diffuse knapweed is native to grassland and shrub-steppe of the eastern Mediterranean region [99, 172] and was introduced into North and South America [61, 107, 140]. It occurs sparsely throughout western Europe where it is considered a “naturalized alien” [172]. It is thought to have been introduced to North America multiple times [61, 90], possibly as a contaminant in alfalfa seed from Asia Minor-Turkmenistan or in hybrid alfalfa seed from Germany [87]. The earliest record of diffuse knapweed in North America is from an alfalfa field in Washington in 1907 [127].
 
-![A map of the United States showing many counties concentrated in northwestern states highlighted green, with adjacent areas including the intermountain west with counties highlighted blue, green, and yellow. A few counties in the midwest and northeast are highlighted yellow.]({{ site.baseurl }}/assets/images/species-reviews/cendif_feis-CENDIF_Map.jpg)
+![A map of the United States showing many counties concentrated in northwestern states highlighted green, with adjacent areas including the intermountain west with counties highlighted blue, green, and yellow. A few counties in the midwest and northeast are highlighted yellow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-CENDIF_Map.jpg?itok=B_hVUws-)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Interior grasslands and dry forest edges of southern British Columbia and shortg
 
 The following description provides characteristics of diffuse knapweed that may be relevant to fire ecology and is not meant to be used for identification. Keys for identifying diffuse knapweed are available in these publications: [7, 28, 42, 47, 58, 59, 181, 185].
 
-![A photo of a rosette with about a dozen deeply divided leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-cendif_rosette.jpg)
+![A photo of a rosette with about a dozen deeply divided leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cendif_rosette.jpg?itok=05AGBpiz)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Figure 3—Diffuse knapweed rosette near the Columbia River, Douglas County, Was
 
 Diffuse knapweed is a nonnative, annual, biennial, or short-lived perennial forb [7, 38, 42, 47, 58, 144, 179, 181, 185]. During the juvenile stage, diffuse knapweed is a rosette with deeply divided basal leaves (fig. 3) on short stalks that emerge from a central root crown. It has a deep and fibrous taproot [47, 58, 126] that can grow >2.3 feet (0.7 m) deep in the first 40 days [81] (see Seedling Establishment and Plant Growth). At maturity, diffuse knapweed produces one to several upright stems [42, 58]. Stems range from about 1 to 3 feet (0.3–1 m) tall [7, 42, 47, 58, 126, 181], with numerous, spreading branches [7, 42, 58] that give plants a ball-shaped appearance and tumbleweed mobility when broken off [58, 126] (fig 5). Stem leaves on diffuse knapweed are stalkless, getting smaller and less divided higher up the stem [47, 58, 126]. White, lavender, or purple flowerheads are solitary or borne in clusters of two or three at the ends of branches [47, 126]. Diffuse knapweed flowerheads are 3 to 6 mm in diameter and 8 to 13 mm long, excluding spines and flowers (fig. 1) [7, 42, 47, 58, 126, 181]. Bracts are edged with a fringe of spines, with a longer erect spine at the tip that is typically 1 to 3 mm long [7, 42, 47, 59] but may be as long as 8 mm [47]. Seeds are achenes [47] or cypselae [7, 42, 58] that are 2 to 3 mm long [7, 42, 47, 58] with or without a plume or pappus that varies from scale-like up to 1 mm long [7, 28, 42, 47, 58, 59, 126].
 
-![A photo of dense, shrubby forbs growing in a valley.]({{ site.baseurl }}/assets/images/species-reviews/feis-cendif_infestation.jpg)
+![A photo of dense, shrubby forbs growing in a valley.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cendif_infestation.jpg?itok=leZRvLKL)
 
 Photo Credit
 
@@ -213,7 +213,7 @@ a List of state and province abbreviationsb Data in this cell calculated from pr
  
 ### Seed Dispersal
 
-![A photo of dried "tumbleweed" forbs blown up against a barbed wire fence where they have piled up.]({{ site.baseurl }}/assets/images/species-reviews/feis-cendif_tumbleweed.jpg)
+![A photo of dried "tumbleweed" forbs blown up against a barbed wire fence where they have piled up.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cendif_tumbleweed.jpg?itok=h8JfXlx2)
 
 Photo Credit
 
@@ -227,7 +227,7 @@ Near Superior, Colorado, diffuse knapweed plants sampled at the beginning of the
 
 Seed-bearing plants that "hitchhike" on vehicles can disperse seeds potentially long distances along roadsides (fig. 6). Seeds may also be transported in mud adhering to vehicles or shoes [180]. In British Columbia, logging trucks, off-road vehicles, and trail bikes have greatly contributed to the spread of both diffuse knapweed and spotted knapweed [163]. Plants carried in rivers and irrigation systems can disperse seeds along the banks of waterways [126].
 
-![A photo of the wheel well and tire of a truck with a diffuse knapweed plant with seedheads stuck in the wheel well.]({{ site.baseurl }}/assets/images/species-reviews/feis-cendif_truck.jpg)
+![A photo of the wheel well and tire of a truck with a diffuse knapweed plant with seedheads stuck in the wheel well.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cendif_truck.jpg?itok=b40jpEH_)
 
 Photo Credit
 
@@ -381,7 +381,7 @@ Diffuse knapweed plants may sprout following top-kill from fire, and new plants 
 
 ## Fuels
 
-![A photo of low hills with shrubby vegetation burning. Flames are visible in the foreground to the right and in the background on the left. In front of the flames to the left, firefighters stand with a wildland fire truck and appear to be spraying nearby flames with water.]({{ site.baseurl }}/assets/images/species-reviews/feis-cendif_rxfire2.jpg)
+![A photo of low hills with shrubby vegetation burning. Flames are visible in the foreground to the right and in the background on the left. In front of the flames to the left, firefighters stand with a wildland fire truck and appear to be spraying nearby flames with water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cendif_rxfire2.jpg?itok=ImB2eg7a)
 
 Photo Credit
 

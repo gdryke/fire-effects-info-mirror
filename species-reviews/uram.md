@@ -132,7 +132,7 @@ In Mexico, American black bears inhabit plant communities dominated by deciduous
 
 ## Botanical and Ecological Characteristics
 
-![Black bear with her cubs walking along a boulder.]({{ site.baseurl }}/assets/images/species-reviews/feis-uram_american-black-bear.jpg)
+![Black bear with her cubs walking along a boulder.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-uram_american-black-bear.jpg?itok=7t8QmPlP)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ A mother's milk supply depends on the quality of nutrients obtained the year bef
 
 American black bears are generally solitary. Exceptions occur during the breeding season, the first 1.5 years of a cub's life [78,114,132,208,272], and areas where American black bears congregate to forage on seasonally abundant foods [132,208,213].
 
-![Several black bears climb a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-uram_habitat.jpg)
+![Several black bears climb a tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-uram_habitat.jpg?itok=4IAPI8Qc)
 
 Photo Credit
 
@@ -408,7 +408,7 @@ Other than humans, American black bears have few predators [165] except grizzly 
 
 ## Fire Ecology and Management
 
-![Smokey Bear as a cub, being treated for injuries in a 1950 wildfire on the Lincoln National Forest, New Mexico. ]({{ site.baseurl }}/assets/images/species-reviews/uram_uram_SmokeyBear.jpg)
+![Smokey Bear as a cub, being treated for injuries in a 1950 wildfire on the Lincoln National Forest, New Mexico. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/uram_SmokeyBear.jpg?itok=zagqgB7a)
 
 Photo Credit
 

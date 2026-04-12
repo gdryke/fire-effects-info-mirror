@@ -70,7 +70,7 @@ Arizona white pine, Mexican white pine, border limber pine, border white pine
 
 Southwestern white pine occurs in scattered areas in the mountainous regions of the southwestern United States but is most common throughout the Sierra Madre Occidental in Mexico (fig. 1). There is strong evidence that all of the U.S. distribution is a hybrid zone of genetic admixture of various proportions with limber pine. The relative proportion of genetic ancestry derived from southwestern white pine increases with decreasing latitude such that the southwestern Colorado population has the lowest proportion of southwestern white pine ancestry (0.03 hybrid index), while the west Texas population has the highest proportion (0.99 hybrid index). Populations in Mexico are considered pure southwestern white pine [81,89,102]. For example, Allred et al. (2020) note that most of New Mexico is a zone of genetic mixing between southwestern white pine and limber pine, and that populations to the north are morphologically more like limber pine and those to the south more like southwestern white pine [3] (see Hybrids).
 
-![A map depicting the distribution of southwestern white pine including Colorado, New Mexico, Arizona, Texas, and Mexico.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.1_geog.dist_.jpeg)
+![A map depicting the distribution of southwestern white pine including Colorado, New Mexico, Arizona, Texas, and Mexico.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-pinsto_fig.1_geog.dist_.jpeg?itok=2Ea4vHtL)
 
 Figure 1—Geographic distribution of southwestern white pine and its hybrids. The area inside the dashed circle approximates the hybrid zone, where populations have varying proportions of genetic ancestry derived from southwestern white pine and limber pine. The four northernmost green shapes are hybrid populations in areas that were previously recognized as limber pine (see also [117]). Inset map of North America shows southwestern white pine distribution within the black square. Original southwestern white pine distribution map (i.e., without the four northernmost populations) is from Little (1971) [80] and was digitized by Thompson et al. (1999) [131].
 
@@ -103,7 +103,7 @@ Southwestern white pine thrives in soils that are moderately developed [6,98,106
 
 Climate in the American Southwest generally features cold and wet winters along with summer rainfall driven by monsoons [123] (fig. 2). Around 50% of the yearly rainfall happens during the winter months, and this proportion increases from east to west [123]. There are significant dry spells in late spring, early summer, and autumn (fig. 2). Southwestern white pine occurs on sites with a relatively cool and humid climate compared to the broader Southwest, which can be attributed to the relatively high elevations that the pine occupies [81]. Climate data from Arizona and New Mexico indicate a variety of environmental conditions exist across southwestern white pine’s northern range (table 1). Average annual precipitation varied from 456 mm to 916 mm, and average annual temperature ranged from 6.6°C to 13.3°C across southwestern white pine study sites in Arizona and New Mexico [81].
 
-![Two line graphs of precipitation and temperature by month for southwestern white pine habitat.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.2_clim.jpeg)
+![Two line graphs of precipitation and temperature by month for southwestern white pine habitat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.2_clim.jpeg?itok=CZAE1zng)
 
 Figure 2—Monthly mean precipitation and temperature from 1981 to 2010 for southwestern white pine U. S. distribution. Data derived from Schoettle et al. (2022) [120].
 
@@ -145,7 +145,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Southwestern white pine is a native, five-needle conifer. Mature trees are characterized by an open and irregularly shaped crown, with heights ranging from 15 to 30 m and trunk diameters from 0.5 to 1.0 m [29,49,69,117]. The trunk is slender and straight [14,29]. The bark is gray and smooth to shallowly fissured when young [3,49,107], and deeply furrowed, with narrow, irregular, scaly ridges as it ages [29,69,117] (fig. 3). Southwestern white pine grows taller and straighter on ‘productive’ sites but tends to be shorter with irregular growth forms on ‘harsher’ sites that are often characterized by wind- or sun-exposed slopes [133].
 
-![Side by side photographs showing bark of a young tree and bark of a mature tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.3_youngmature_bark.png)
+![Side by side photographs showing bark of a young tree and bark of a mature tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.3_youngmature_bark.png?itok=9uK_4E_X)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Figure 3—Contrasting views of the characteristic smooth and gray bark of young
 
 The branches are long [117] and ascending in the upper portion of the crown [29,49], becoming more horizontal to hanging in the lower portion [49,117]. Its needles are between 6 and 10 cm long [107,117] (fig. 4).
 
-![Side by side photographs showing an immature pine tree and a mature pine tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.4_youngmature_trees.png)
+![Side by side photographs showing an immature pine tree and a mature pine tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.4_youngmature_trees.png?itok=y6j36F8t)
 
 Photo Credit
 
@@ -230,7 +230,7 @@ Research on optimal site conditions for natural regeneration or planting of sout
 
 Southwestern white pine, like most conifers, is monoecious, housing both male pollen cones and female seed cones on the same individual (fig. 5). Like all conifers, pollen grains are transported via wind and land on woody seed cones where pollination, and ultimately, fertilization occurs, forming a diploid zygote.
 
-![Three photographs side by side of southwestern white pine pollen cones, immature seed cones, and mature seed cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.5_cone.composite.png)
+![Three photographs side by side of southwestern white pine pollen cones, immature seed cones, and mature seed cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.5_cone.composite.png?itok=s9nD6Cib)
 
 Photo Credit
 
@@ -276,7 +276,7 @@ Southwestern white pine seedling establishment and recruitment are highly sensit
 
 Information regarding optimal sites for natural regeneration or planting of southwestern white pine seedlings is lacking [120].
 
-![A cluster of southwestern white pine seedlings growing on an open forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.6_regen.jpg)
+![A cluster of southwestern white pine seedlings growing on an open forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.6_regen.jpg?itok=L6GDoUBA)
 
 Photo Credit
 
@@ -318,7 +318,7 @@ Its classification of shade tolerance relative to its associated species is comp
 
 ## Immediate Fire Effects
 
-![Photo of a southwestern white pine tree with a large fire scar.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.7_fire.scar_.jpg)
+![Photo of a southwestern white pine tree with a large fire scar.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.7_fire.scar_.jpg?itok=Leqyb-7y)
 
 Photo Credit
 
@@ -375,7 +375,7 @@ Two lines of evidence (fire scars and charcoal sediment) from two watersheds in 
 
 A comparison of the distribution of fire frequency (MFI) values from southwestern white pine forests in the United States and Mexico shows little difference in measures of central tendency, but with broader spread and longer intervals from U.S. forests. Fire history studies of southwestern white pine in the United States had a mean MFI of 6.4 years (min = 2.9, max = 22.2), while those from Mexico had a mean MFI of 4.0 years (min = 1.9, max = 5.6) (fig. 8) [82,105].
 
-![Two box plots comparing the distribution of mean fire interval values for southwestern white pine in Mexico and the United States ]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.8_mficountry_boxplot.png)
+![Two box plots comparing the distribution of mean fire interval values for southwestern white pine in Mexico and the United States ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.8_mficountry_boxplot.png?itok=sI0hVjs1)
 
 Photo Credit
 
@@ -443,7 +443,7 @@ American Indian uses for southwestern white pine are not described in the Native
 
 Although the status of southwestern white pine forests is generally considered stable [97], several significant stressors portend future declines, especially _Cronartium ribicola_ , the invasive fungal pathogen that causes the disease white pine blister rust in five-needle pines (fig. 9).
 
-![A southwestern white pine tree with orange and white cankers from blister rust infection.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.9_blister.rust_.jpg)
+![A southwestern white pine tree with orange and white cankers from blister rust infection.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.9_blister.rust_.jpg?itok=fXmiXMjR)
 
 Photo Credit
 
@@ -461,7 +461,7 @@ Southwestern white pine faces several other biotic challenges apart from white p
 
 Research by Looney et al. (2015) across 59 sites in Arizona and New Mexico found generally healthy populations of southwestern white pine, although localized animal damage—such as girdling by black bears—and dwarf mistletoe were the most prevalent biotic threats [104]. Dwarf mistletoe, which is not uniformly distributed, can lead to local tree mortality in heavily infested areas [88] (fig. 10). Additionally, cone and seed insects can severely affect seed availability, with infestation rates reaching up to 80%, varying significantly by year and location, potentially hindering natural regeneration [79]. With climate warming, these stressors are likely to intensify [120].
 
-![Southwestern white pine tree branches with orange and brown dwarf mistletoe growing on them.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsto_fig.10_mistletoe.jpeg)
+![Southwestern white pine tree branches with orange and brown dwarf mistletoe growing on them.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinsto_fig.10_mistletoe.jpeg?itok=BWOcKYg0)
 
 Photo Credit
 

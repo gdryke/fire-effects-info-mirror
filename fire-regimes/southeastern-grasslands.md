@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southeastern grassland communities has not 
 
 ## Distribution
 
-![A map showing the distribution of southeastern grassland communities in a small area of the southeastern U.S. coast.]({{ site.baseurl }}/assets/images/fire-regimes/southeastern-grasslands_feis-southeastern_grasslands_locator.jpg)
+![A map showing the distribution of southeastern grassland communities in a small area of the southeastern U.S. coast.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southeastern_grasslands_locator.jpg?itok=Dhfr3jb7)
 
 Photo Credit
 

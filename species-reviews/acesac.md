@@ -97,7 +97,7 @@ southern New York| forest pas| Wilm 1936
 
 ## Botanical Description 
  
-![A branch of a tree with large green serrated leaves, in a shady forested setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-acesac_plant.jpg)
+![A branch of a tree with large green serrated leaves, in a shady forested setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acesac_plant.jpg?itok=Jkzm9yGi)
 
 Photo Credit
 
@@ -238,7 +238,7 @@ Sugar maple has potential value for rehabilitation of disturbed sites. It can be
 
 ## Other Uses
 
-![A tree trunk with two metal cans attached to the trunk. The background is a snowy winter forest with other similar-looking trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-acesac_taps.jpg)
+![A tree trunk with two metal cans attached to the trunk. The background is a snowy winter forest with other similar-looking trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acesac_taps.jpg?itok=xs1h9FW-)
 
 Photo Credit
 

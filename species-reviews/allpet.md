@@ -75,7 +75,7 @@ More research is needed to understand factors that influence garlic mustard inva
 
 In the eastern U.S., garlic mustard occurs in the understory of a variety deciduous forests and woodlands. It is rarely reported as being associated with conifers, although Cavers and others [15] state 7 of 37 tree and shrub species found growing over garlic mustard in eastern Canada were coniferous. While not intended as an exhaustive or definitive list, the following are specific examples of communities in which garlic mustard has been found.
 
-![A photo of a forest floor covered in fallen deciduous leaves and scattered branches. Green rosettes grow close to the ground in patches of variable density. All green plants appear to be the same species.]({{ site.baseurl }}/assets/images/species-reviews/feis-allpet_habitat.jpg)
+![A photo of a forest floor covered in fallen deciduous leaves and scattered branches. Green rosettes grow close to the ground in patches of variable density. All green plants appear to be the same species.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-allpet_habitat.jpg?itok=8HclQ4md)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Trimbur [74] studied garlic mustard from 4 floodplain sites in central Ohio. Com
 
 ## Botanical Description
 
-![A photo of upright green stems with somewhat triangular leaves with toothed margins and clusters of small white flowers at their tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-allpet_flowering.jpg)
+![A photo of upright green stems with somewhat triangular leaves with toothed margins and clusters of small white flowers at their tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-allpet_flowering.jpg?itok=6boyBSBp)
 
 Photo Credit
 
@@ -172,7 +172,7 @@ Estimated seed production (seeds/m2)| Location
  
 ### Seed Dispersal
 
-![A photo of a dense cluster of green stems with somewhat heart-shaped leaves with toothed margins and narrow pods growing from their tops.]({{ site.baseurl }}/assets/images/species-reviews/allpet_allpet_plant_0_0.jpg)
+![A photo of a dense cluster of green stems with somewhat heart-shaped leaves with toothed margins and narrow pods growing from their tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/allpet_plant_0_0.jpg?itok=Em2RRmvM)
 
 Photo Credit
 
@@ -316,7 +316,7 @@ Ranked as a "moderate threat" (species shows invasive behavior, and known to imp
 
 Use of garlic mustard as a forage species by white-tailed deer is unclear [15,56]. White-tailed deer may avoid grazing garlic mustard in favor of native herbaceous plants, although this has not been empirically tested [3,49,56]. It is likely that white-tailed deer graze a variety of understory herb species in areas typically susceptible to garlic mustard invasion, and can have a dramatic negative impact on some native herb populations [1]. Deer grazing of native herbaceous plants may enhance garlic mustard at the expense of native species by providing small-scale soil disturbance and by reducing interspecific competition. White-tailed deer may provide small-scale disturbances suitable for garlic mustard colonization within forested areas by trampling and exposing soil. In addition, selective herbivory may enhance garlic mustard at the expense of the preferred native species [3,49,56].
 
-![A photo of three white butterflies on a tall, upright forb with large green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-allpet_whitebutterfly.jpg)
+![A photo of three white butterflies on a tall, upright forb with large green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-allpet_whitebutterfly.jpg?itok=FAjtnwsV)
 
 Photo Credit
 

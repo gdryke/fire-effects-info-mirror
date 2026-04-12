@@ -34,7 +34,7 @@ Matthews, Robin F. 1994. _Geocaulon lividum_ , false toadflax. In: Fire Effects 
 
 ## Image Gallery
 
-![An upright reddish plant with pointed leaves and two orange-red berries at the tip of one stem. The plant is growing in a partly shaded setting with green plants and rocky ground in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-geoliv_plant.jpg) False toadflax. _Photo © 2004, 2005 by Anderson Smith._
+![An upright reddish plant with pointed leaves and two orange-red berries at the tip of one stem. The plant is growing in a partly shaded setting with green plants and rocky ground in the background.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-geoliv_plant.jpg) False toadflax. _Photo © 2004, 2005 by Anderson Smith._
 
 Photo Credit: Photo © 2004, 2005 by Anderson Smith.
 
@@ -84,7 +84,7 @@ False toadflax has a significantly (p<0.10) higher presence (a classification of
 
 False toadflax is a perennial, hemiparasitic forb. It has creeping rhizomes, located in the humus layer of the soil. The leafy stems are 4 to 12 inches (10-30 cm) tall. The inflorescence is a cymule with two to three green or purple flowers. The central flower is perfect, but the others have stamens only. The fruit is a one-seeded, orange drupe [9,13,28,35,36].
 
-![An upright reddish plant with pointed leaves and two orange-red berries at the tip of one stem. The plant is growing in a partly shaded setting with green plants and rocky ground in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-geoliv_plant.jpg)
+![An upright reddish plant with pointed leaves and two orange-red berries at the tip of one stem. The plant is growing in a partly shaded setting with green plants and rocky ground in the background.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-geoliv_plant.jpg)
 
 Photo Credit
 

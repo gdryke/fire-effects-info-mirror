@@ -50,7 +50,7 @@ Climate models suggest that the northern Sonoran Desert may become warmer and dr
 
 ## Introduction
 
-![Black and white image of a large saguaro with many large vertical and one large horizontal branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_plant1.gif)
+![Black and white image of a large saguaro with many large vertical and one large horizontal branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_plant1.gif?itok=O9k4o9Lf)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ sahuaro, giant cactus, pitahaya
 
 Saguaro is native to the Sonoran Desert region. It ranges from the extreme southeastern corner of California, across southern Arizona, and southward through western Sonora, Mexico (fig. 2) [34]. Some authors have speculated that it may also occur as far south as northern Sinaloa, but these reports are unconfirmed [39,148,200].
 
-![Map of southwestern United States and northwestern Mexico showing the distribution of saguaro.]({{ site.baseurl }}/assets/images/species-reviews/cargig_cargig_map1.jpg)
+![Map of southwestern United States and northwestern Mexico showing the distribution of saguaro.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/cargig_map1.jpg?itok=dm8gMTFx)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Although almost entirely restricted to the Sonoran Desert, at its northernmost l
 
 Saguaro occurs in five of the seven Sonoran Desert subdivisions defined by Shreve and Wiggins (1964) [148]: Arizona Uplands, Lower Colorado River Valley, Gulf Coast, Plains of Sonora, and Foothills of Sonora (fig. 3). The Foothills of Sonora subdivision has since been reclassified as a nondesert, thornscrub biome [179]. Subdivisions are based on differences in plant species composition (i.e., dominant life forms), climate, and topography. Saguaro is most common in the Arizona Uplands subdivision in the northeastern and eastern part of the desert. This subdivision is distinguished by relatively more precipitation, cooler and wetter winters, and a wide elevational range—from 300 m in the south and west to more than 1,000 m on south-facing slopes in the north and east. Mean annual precipitation (MAP) ranges from about 180 to 425 mm, and mean annual temperature ranges from 18 °C to 22 °C. In the hottest and driest subdivision, the Lower Colorado River Valley, mean annual precipitation ranges from about 25 to 240 mm, and saguaro is mostly restricted to relatively moist microsites [179,181] (see Site Characteristics).
 
-![Map of the Sonoran Desert in southeastern California, Baja California, southwestern Arizona, and northwestern Sonora, showing the major subdivisions. ]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_map2_0.png)
+![Map of the Sonoran Desert in southeastern California, Baja California, southwestern Arizona, and northwestern Sonora, showing the major subdivisions. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_map2_0.png?itok=C6-0Fyew)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Saguaro seedlings are often associated with nurse plants or rocks [104,120,121,1
 
 Saguaro generally grows in shallow, coarse-textured soils such as gravelly loams. Parent materials are usually alluvium and colluvium, derived from basalt and other igneous or metamorphic rocks. Caliche—calcium carbonate mineral deposits—is often present on the soil surface and the undersides of rocks [120].
 
-![Black and white image of a desert landscape with a large stand of saguaros and desert shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_landscape.jpg)
+![Black and white image of a desert landscape with a large stand of saguaros and desert shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_landscape.jpg?itok=efkg1DrM)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Saguaro is a perrenial, aborescent, stem succulent with semi-woody to woody stems [86] and leaves modified into spines. It is the largest columnar cactus species in the United States, with a straight, stout stem that commonly reaches 10 m tall and may grow up to 15 m [26]. Mature plants range from 30 to 60 cm in diameter. Large plants are estimated to weigh 3,000 to 4,000 kg, 85% to 90% of which is water [98].
 
-![Up close image of saguaro flower with a bee visitor.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_flower1.jpg)
+![Up close image of saguaro flower with a bee visitor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_flower1.jpg?itok=avU4aN7E)
 
 Photo Credit
 
@@ -170,7 +170,7 @@ Accordion-like vertical ridges and furrows enable saguaro to expand and contract
 
 The large flowers (10-13 cm long, 5-6 cm diameter) are funnel-shaped (fig. 5) [88]. Fruits are fleshy, smooth, and oval in shape, 5 to 7.5 cm long and ~2.5 to 4.4 cm in diameter. Open fruits may be mistaken for red flowers (fig. 10). The seeds are black, spherical to oval, ~2 mm long, 1.3 mm broad, and 1 mm thick [19]. Each fruit may contain 2,000 [31] to 2,500 [26] seeds.
 
-![Image of the woody ribs inside a saguaro.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_ribs.jpg)
+![Image of the woody ribs inside a saguaro.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_ribs.jpg?itok=dgWuCC3z)
 
 Photo Credit
 
@@ -190,7 +190,7 @@ Several biotic and abiotic factors influence saguaro regeneration at a range of 
 
 Saguaro often recruits in cohorts that establish during intermittent favorable climatic periods with relatively mild, wet winters and sufficient summer moisture. The length of time between each cohort establishment may number in years or decades (see Regeneration Processes) [133,175].
 
-![Hillside in the desert covered with saguaros and desert shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_habitat2.jpg)
+![Hillside in the desert covered with saguaros and desert shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_habitat2.jpg?itok=S7g1Gi2G)
 
 Photo Credit
 
@@ -202,7 +202,7 @@ Saguaro stand density varies among geographic locations. Niering et al. (1963) r
 
 Saguaro stand density also varies with site characteristics. In the northern part of the range, stand density tends to be higher on southern and eastern aspects than on northern and western aspects [92,134,169,180,187]. Across the northern Sonoran Desert, Pierson et al. (2013) observed highest densities on steep, rocky, southern and eastern aspects, intermediate densities on gently sloping terrain, and lowest densities on level to gently rolling terrain [133]. Greater abundance of saguaro on southern and eastern aspects is likely due to differences in duration and intensity of freezing temperatures [129,134] and amount of effective summer precipitation [84], which are key factors in seedling, juvenile, and adult survival [22,32,164,165].
 
-![Image of very large saguaro with multiple vertical branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_granddaddy.jpg)
+![Image of very large saguaro with multiple vertical branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_granddaddy.jpg?itok=UYSfaac_)
 
 Photo Credit
 
@@ -242,7 +242,7 @@ Pollinator species have similar efficacy towards fruit set [65]. During an 8-yea
 
 Some saguaros may begin producing fruit and seeds when they reach about 1.5 m tall, and most plants 2 to 2.5 m in tall produce seed in most years [134,164]. Plant size-age relationships differ among sites; plants 2 to 2.5 m tall are around 30 to 35 years old at Saguaro National Monument [164]. Once sexual maturity is reached, seed production occurs annually and is often prodigious [26,164].
 
-![Single saguaro with a cluster of red fruits on top.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_fruit2.jpg)
+![Single saguaro with a cluster of red fruits on top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_fruit2.jpg?itok=A-n10eaS)
 
 Photo Credit
 
@@ -266,7 +266,7 @@ Animals play a primary role in dispersal of saguaro seeds [164]. Saguaro fruits 
 
 Birds are especially important saguaro seed dispersers [125,156,164]. Birds consume a large proportion of the total saguaro seed crop while fruits are still on the plant [162] and then regurgitate or defecate viable seeds elsewhere, including protected locations beneath trees and shrubs where they perch or nest [83]. For example, even white-winged doves, who destroy much of the seed they consume, may occasionally inadvertently drop hundreds of predigested seeds below nesting sites during the messy process of regurgitating food for young [125]. Such protected locations may increase the probability of seed survival, germination, and seedling establishment [164].
 
-![Close up of open saguaro fruit, which resembles a small red flower with four petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargig_fruit1.jpg)
+![Close up of open saguaro fruit, which resembles a small red flower with four petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cargig_fruit1.jpg?itok=Ms_xBR-C)
 
 Photo Credit
 

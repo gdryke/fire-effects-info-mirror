@@ -116,7 +116,7 @@ South Dakota, North Dakota: Custer NF| general veg. habitat types| Hansen & Hoff
 
 ## Botanical and Ecological Characteristics
 
-![A leafy green tree grows in an open, meadow or field-type setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-aceneg_tree.jpg) 
+![A leafy green tree grows in an open, meadow or field-type setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-aceneg_tree.jpg?itok=CWu4Eep0) 
  
 Photo Credit
 
@@ -132,7 +132,7 @@ Boxelder has a fast growth rate [33,41] and a short life span [46]; it typically
 
 A drought-tolerant tree once established, boxelder's roots are shallow and spreading, except on deep soils [41,46]. The bark is light grey and smooth but becomes furrowed into narrow, firm ridges and darkens with age. Twigs are stout, light green to purplish or brownish with a polished look or are often covered with a whitish bloom that is easily rubbed off. The blunt buds are 0.125 to 0.25 inch (2-5 mm) long with one or two pairs of scales and are coated with fine white hairs [27].
 
-![Chains of green winged seeds hang from the stem of a leafy green tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-aceneg_samaras.jpg)
+![Chains of green winged seeds hang from the stem of a leafy green tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-aceneg_samaras.jpg?itok=XIn0yvm0)
 
 Photo Credit
 

@@ -31,7 +31,7 @@ Hauser, A. Scott. 2008. _Pinus resinosa_ , red pine. In: Fire Effects Informatio
 
 ## Introduction
 
-![Photo looking up at a tall, straight conifer tree with a partly cloudy sky and some other trees behind it.]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_plant.jpg)
+![Photo looking up at a tall, straight conifer tree with a partly cloudy sky and some other trees behind it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINRES_plant.jpg?itok=XPAqFD-r)
 
 Photo Credit
 
@@ -59,7 +59,7 @@ Red pine occurs from Cape Breton Island, Nova Scotia, Prince Edward Island, New 
 
 ## Site Characteristics
 
-![Photo of a portion of a pine stand at the edge of a rocky beach.]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_habitat.jpg)
+![Photo of a portion of a pine stand at the edge of a rocky beach.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-PINRES_habitat.jpg?itok=O6w8gqSX)
 
 Photo Credit
 
@@ -207,7 +207,7 @@ Red pine is described as a dominant species in the following vegetation classifi
 
 ## Botanical Description
 
-![Photo looking up to the tops of some pine trees against a blue sky.]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_canopy.jpg)
+![Photo looking up to the tops of some pine trees against a blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINRES_canopy.jpg?itok=jvH4N4LI)
 
 Photo Credit
 
@@ -255,13 +255,13 @@ Red pine is wind- and self-pollinated [46,98]. Self-pollination is restricted by
 
 Red pine is monoecious [98,231,252,266]. Male and female cones generally occur on different branches. Male cones develop at the base of the current year's growth and are tiny and short-lived. Female cones develop in the middle third of the crown in "younger" trees and the upper third of the crown in "older" trees. Red pine, while having a wide geographic distribution, has very low genetic diversity [164,231,303].
 
-![Close-up photo of a cluster of pine needles with a cone shaped cluster of small, reddish orange cones emerging from the center. ]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_juvenile%20cone.jpg)
+![Close-up photo of a cluster of pine needles with a cone shaped cluster of small, reddish orange cones emerging from the center. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINRES_juvenile%20cone.jpg?itok=YszK_AMC)
 
 Photo Credit
 
 Photo by Joseph O'Brien, USDA Forest Service, Bugwood.org. 
 
-![Close-up photo of the end of a pine branch showing clusters of long needles surrounding clusters of brown, open pine cones.]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_mature%20cones.jpg)
+![Close-up photo of the end of a pine branch showing clusters of long needles surrounding clusters of brown, open pine cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINRES_mature%20cones.jpg?itok=YnsVDcoP)
 
 Photo Credit
 
@@ -502,7 +502,7 @@ Mature red pine (beginning at age 20 to 40) can survive low- to moderate-severit
 
 Red pine seedlings and saplings are more susceptible than mature trees to fire mortality [3,129,130] and heat damage (see Heat Tolerance of Seedlings). Crown fires are much more likely in younger red pine stands, where crowns are closer to the ground [3]. Red pine stands may support crown fires at 15 to 20 years of age [129,130]. However, Methven [189] found that red pine seedlings can survive following a high degree of needle scorch. There was little information (as of 2008) on the immediate effect of fire on the seeds and/or cones of red pine, though several researchers state that cones and seeds are "very susceptible" to fire mortality [4,129,130,230].
 
-![Photo from within a forest stand showing blackened tree trunks and a small tree with brown needles. Most trees have green needles above, and ferns are sprouting from the blackened soil beneath.]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_postfire.jpg)
+![Photo from within a forest stand showing blackened tree trunks and a small tree with brown needles. Most trees have green needles above, and ferns are sprouting from the blackened soil beneath.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-PINRES_postfire.jpg?itok=ESMzr966)
 
 Photo Credit
 
@@ -884,7 +884,7 @@ Information on state- and province-level protection status of red pine in the Un
 
 ## Importance to Wildlife and Livestock
 
-![Photo of a pair of tall pine trees at the edge of a forest stand behind it. Atop one of the pine trees is a bald eagle.]({{ site.baseurl }}/assets/images/species-reviews/pinres_feis-PINRES_wildlife.jpg)
+![Photo of a pair of tall pine trees at the edge of a forest stand behind it. Atop one of the pine trees is a bald eagle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINRES_wildlife.jpg?itok=rEZ6zNli)
 
 Photo Credit
 

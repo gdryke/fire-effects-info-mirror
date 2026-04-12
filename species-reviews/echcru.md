@@ -52,7 +52,7 @@ common barnyard grass
 
 Barnyardgrass is a weed of Eurasian origin that occurs throughout the continental United States. It is also found in southern Canada from British Columbia east to Nova Scotia [19,27,39,57,63].
 
-![A map of the United States and Canada with all continental states and southern provinces highlighted blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-echcru_distribution.jpg)
+![A map of the United States and Canada with all continental states and southern provinces highlighted blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-echcru_distribution.jpg?itok=ArYnCENo)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Distribution of barnyardgrass in the United States.
 
 Barnyardgrass is widespread in fields, waste places, ditches, marshes, wet meadows, floodplains and along lakeshores and streambanks [18,20,33,38,39]. It is locally common in floodplains, riverbottoms, and seasonally wet habitats [1,63,80], but also occurs in drier habitats [24]. Barnyardgrass is most often found on disturbed, generally nonsaline soils [25,53,63], but grows on a variety of soil types [38,53]. Echinochloa crus-galli var. crus-galli is generally absent from sites that have greater than 12 inches (30 cm) of standing water for more than 4 weeks at a time [42,63]. It occurs in shallow water or after drawdown [63]. Barnyardgrass tolerates poor drainage and flooding, but not severe drought [7,31,44,60].
 
-[![A photo of a bright green grass with more grasses behind, with a pond or small lake and trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-echcru_community.jpeg)Photo Credit Photo by pkondrashov, iNaturalist (CC BY-NC 4.0). Barnyard grass growing in Missouri.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a bright green grass with more grasses behind, with a pond or small lake and trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-echcru_community.jpeg?itok=TtcLZaso)Photo Credit Photo by pkondrashov, iNaturalist (CC BY-NC 4.0). Barnyard grass growing in Missouri.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 In California, barnyardgrass cosmopolitan weed of wet, disturbed ground and occurs in shallow water around the periphery of rice fields [1].
 
@@ -110,7 +110,7 @@ At Gettysburg National Military Park in Pennsylvania, barnyardgrass occurs in a 
 
 Barnyardgrass is an introduced, nonrhizomatous, warm-season annual. Stems may be solitary or in small tufts, erect or reclining at the base, up to 6.6 feet tall (2 m) [16,28,39,52,80]. Leaves are flat, 4 to 12 inches (10-30 cm) long and 0.2 to 0.6 (5-15 mm) inch wide [18,19,27,46]. The panicle is 2 to 8.4 inches (5-21 cm) long, upright or nodding [19,46,68]. Barnyardgrass has a fibrous root system [39,49].
 
-[![A photo of a panicle of a grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-echcru_reproduction.jpeg)Photo Credit Photo by tadamcochran, iNaturalist (CC BY 4.0). Barnyardgrass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a panicle of a grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-echcru_reproduction.jpeg?itok=BXIr4NWD)Photo Credit Photo by tadamcochran, iNaturalist (CC BY 4.0). Barnyardgrass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

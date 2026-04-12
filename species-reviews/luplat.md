@@ -160,7 +160,7 @@ Broadleaf lupine is rare along riparian areas of Zion National Park, Utah [41].
 
 ## Botanical Description
 
-![Bushy green plant with palmate leaves and spikes of purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-luplat_plant.jpeg)
+![Bushy green plant with palmate leaves and spikes of purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-luplat_plant.jpeg?itok=T81W3hbh)
 
 Photo Credit
 

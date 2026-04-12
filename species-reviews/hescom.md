@@ -65,7 +65,7 @@ needle-and-thread grass
 
 Needle and thread grows throughout the western and midwestern United States and Canada, from the Yukon to California, east to Ontario, Indiana, and Texas, and south into Mexico. There are outlying populations in Rhode Island and New York [79,122].
 
-![A map of the United States and Canada with many western and northern states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-hescom_distribution.jpg)
+![A map of the United States and Canada with many western and northern states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hescom_distribution.jpg?itok=4O7_x5k3)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Distribution of needle and thread.
 
 Needle and thread is common on dry hills and plains, and on stony and sandy soils throughout its range [36,130]. Soils are usually slightly high pH, low water-holding capacity, low clay percentage and high bulk density [108]. On the Upper Snake River Plains in Idaho, needle and thread is common on sandy soils and dry areas [11]. In southwestern Saskatchewan, needle and thread often dominates on loam soils but is usually absent from heavy clays [83].
 
-[![A photo of a grass-dominated former steppe, with long awns of seeds blowing in the wind.]({{ site.baseurl }}/assets/images/species-reviews/feis-hescom_sitechars.jpg)Photo Credit Photo and caption by Matt Lavin, iNaturalist (CC BY 4.0). Needle-and-thread grass growing in former Wyoming big sagebrush steppe in the northeast portion of the Crazy D Ranch, southeast of Melville, Sweet Grass County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass-dominated former steppe, with long awns of seeds blowing in the wind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hescom_sitechars.jpg?itok=KN8qM6-B)Photo Credit Photo and caption by Matt Lavin, iNaturalist (CC BY 4.0). Needle-and-thread grass growing in former Wyoming big sagebrush steppe in the northeast portion of the Crazy D Ranch, southeast of Melville, Sweet Grass County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Needle and thread occurs on well-drained soils from 660 to 11,550 feet (200-3500 m) in California [79]. In Arizona, needle and thread occurs from 3,500 to 8,500 feet (1061-2576 m) on dry hills, open woods, and sandy soils, often with juniper [89]. In Montana, needle and thread is found from 2,000 to 8,000 feet (606-2424) [116]. In Utah, needle and thread occurs from 3,498 to 10,065 feet (106-3050 m) [130].
 
@@ -95,7 +95,7 @@ At the Idaho National Engineering Laboratory Site, density and frequency of need
 
 Needle and thread appears in many habitat types, including forested, grassland, and shrub-steppe communities.
 
-![A photo of a steppe dominates by grasses with several plants with yellow flowers in the foreground. Soil is visible between plants and appears dry.]({{ site.baseurl }}/assets/images/species-reviews/feis-hescom_habitat.jpg)
+![A photo of a steppe dominates by grasses with several plants with yellow flowers in the foreground. Soil is visible between plants and appears dry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hescom_habitat.jpg?itok=BxBqUtsH)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Vegetation typings in which needle and thread appears as a dominant include:
 
 Needle and thread is a cool-season, native, perennial bunchgrass [66]. The bunches are small, from 1 to 3 inches (2.5-7.6 cm) in diameter, and widely spaced [128].
 
-[![A photo of bunchgrasses with long seed awns growing in sandy soils. The grasses are evenly and relatively widely spaced. Low conifers are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hescom_plant.jpeg)Photo Credit Photo by Gabriel Campbell, iNaturalist (CC BY 4.0). Needle and thread growing in Harney County, Oregon.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of bunchgrasses with long seed awns growing in sandy soils. The grasses are evenly and relatively widely spaced. Low conifers are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hescom_plant.jpeg?itok=7bsK2tPS)Photo Credit Photo by Gabriel Campbell, iNaturalist (CC BY 4.0). Needle and thread growing in Harney County, Oregon.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Needle and thread is shallow-rooted [10] to medium-rooted and produces numerous fibrous roots of 0.04 inches (1 mm) or less in diameter [126]. Roots grow both vertically and laterally, more than 14 inches (36 cm) from the base of the plant in the first 0.5 foot (0.15 m) of soil. These profusely branched roots reach 3 to more than 5 feet (0.9-1.5 m) deep [34,57,116,127,126,128], but more than 50% of the total root biomass is within the first 0.6 foot (0.2 m) of soil [95]. In a Saskatchewan prairie, number of roots per shoot of needle and thread averaged 3.8 to 5.4, and the mean number of lateral roots per decimeter of main root was 39 to 75 [34].
 

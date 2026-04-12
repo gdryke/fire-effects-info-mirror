@@ -71,7 +71,7 @@ In the Rocky Mountains Engelmann spruce is a major component of high-elevation f
 
 ## Site Characteristics
 
-![A photo of an alpine landscape, with tall, narrow, dark green conifers and some conifers with bright yellow needles. There are rocky mountains in the background with a little snow on the peaks.]({{ site.baseurl }}/assets/images/species-reviews/feis-piceng_habitat.jpg)
+![A photo of an alpine landscape, with tall, narrow, dark green conifers and some conifers with bright yellow needles. There are rocky mountains in the background with a little snow on the peaks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piceng_habitat.jpg?itok=dKNBbV42)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ British Columbia| Prince Rupert Forest Region| general veg. eas| Pojar & others 
 
 ## Botanical Description 
  
-![An alpine landscape showing sparsely scattered conifer trees with branches only on one side of the tree. Other vegetation is minimal, a few low shrubs and grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-piceng_krummholz.jpg)
+![An alpine landscape showing sparsely scattered conifer trees with branches only on one side of the tree. Other vegetation is minimal, a few low shrubs and grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piceng_krummholz.jpg?itok=b5kbIoVl)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ Engelmann spruce is a long-lived, native, coniferous, evergreen tree. It is one 
 
 The four-sided, acute-tipped needles are not particularly sharp, are deep bluish-green, and are 0.8 to 1.2 inches (2-3 cm) long [21,41]. The young twigs are finely pubescent, a characteristic which differentiates this spruce from white spruce, which has glabrous twigs. The bark is very thin, grayish-brown on young trees but at maturity becomes purplish brown to russet and is broken into loosely attached scales. Engelmann spruce is generally shallow rooted, but laterals may penetrate to a depth of 8 feet (2.4 m) in deep, porous, well-drained soils [4].
 
-![A close up photo of a conifer tree with dusty green needles and one yellowish, hanging cone.]({{ site.baseurl }}/assets/images/species-reviews/feis-piceng_plant.jpg)
+![A close up photo of a conifer tree with dusty green needles and one yellowish, hanging cone.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piceng_plant.jpg?itok=5hqt6QHD)
 
 Photo Credit
 

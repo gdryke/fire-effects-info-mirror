@@ -36,7 +36,7 @@ Chadwick, Amy C. 2003. _Bouteloua curtipendula_ , sideoats grama. In: U.S. Depar
 
 ## Taxonomy
 
-![A photo of a bunchgrass growing at the edge of a steep hill, surrounded mostly by bare ground, with denser vegetation behind, including trees, shrubs, and forbs. The bunchgrass is brown and green with many short spikes drooping from each reproductive stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-boucur_plant.jpg)
+![A photo of a bunchgrass growing at the edge of a steep hill, surrounded mostly by bare ground, with denser vegetation behind, including trees, shrubs, and forbs. The bunchgrass is brown and green with many short spikes drooping from each reproductive stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-boucur_plant.jpg?itok=RmP3CkUP)
 
 Photo Credit
 
@@ -63,7 +63,7 @@ sideoats gramagrass, tall grama, banderilla, banderita
 
 ## General Distribution
 
-![A photo of a grassland with tall reproductive stems of a grass, with spikes comprised of small spikelets mostly on one side of the stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-boucur_sitechars.jpg)
+![A photo of a grassland with tall reproductive stems of a grass, with spikes comprised of small spikelets mostly on one side of the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-boucur_sitechars.jpg?itok=XVT5SWsY)
 
 Photo Credit
 
@@ -166,7 +166,7 @@ Sideoats grama regenerates from seed, rhizomes, and tillering [196].
 
 Sideoats grama reproduces apomictically or sexually [49]. Apomixis occurs in the southern range of sideoats grama, most commonly within the range of _Bouteloua curtipendula_ var. _caespitosa_. Sideoats grama has perfect flowers [78] that cross pollinate [76].
 
-![A photo of a flowering grass, with somewhat drooping, orange anthers and white fuzzy stigmas in each flower along the spike.]({{ site.baseurl }}/assets/images/species-reviews/boucur_feis-boucar_repro.jpeg)
+![A photo of a flowering grass, with somewhat drooping, orange anthers and white fuzzy stigmas in each flower along the spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-boucar_repro.jpeg?itok=rFjhe2Wh)
 
 Photo Credit
 
@@ -237,7 +237,7 @@ The immediate effect of fire on sideoats grama varies seasonally with difference
 
 Sideoats grama establishes after fire through seed and/or lateral spread by rhizomes and tillers. Recovery often takes 2 to 3 years [227,228] and varies with site conditions, burning frequency, and plant growth form (see Fire Effects). Sideoats grama fruits lack an awn; therefore, initial seed dispersal onto burned sites is effected primarily by wind. Postfire seed production may increase after burning. In Wisconsin, flowering of sideoats grama increased after spring burns [88] (see Fire Effects). However, another Wisconsin study found no increase in flowering of sideoats grama after an April wildfire [51].
 
-![A photo of a flowering bunchgrass growing among rocks and bare soil. A charred stump is in the lower righthand side of the photo, but no other live vegetation is present.]({{ site.baseurl }}/assets/images/species-reviews/feis-boucur_postfire.jpeg)
+![A photo of a flowering bunchgrass growing among rocks and bare soil. A charred stump is in the lower righthand side of the photo, but no other live vegetation is present.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-boucur_postfire.jpeg?itok=L6YDFQcE)
 
 Photo Credit
 

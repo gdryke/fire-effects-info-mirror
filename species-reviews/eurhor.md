@@ -34,7 +34,7 @@ Reeves, Sonja L. 2006. _Eurybia horrida_ , horrid herrickia. In: Fire Effects In
 
 ## Image Gallery
 
-![Photo of a plant with many stems and branches, small, serrated leaves, and abundant, star-shaped purple flowers with many petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-eurhor_plant.jpeg) Horrid herrickia (CC-BY NC). _Photo © Kristen Warren, iNaturalist.org, some rights reserved._
+![Photo of a plant with many stems and branches, small, serrated leaves, and abundant, star-shaped purple flowers with many petals.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-eurhor_plant.jpeg) Horrid herrickia (CC-BY NC). _Photo © Kristen Warren, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo © Kristen Warren, iNaturalist.org, some rights reserved.
 

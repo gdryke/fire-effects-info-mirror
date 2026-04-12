@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific Northwest coastal forest communitie
 
 ## Distribution
 
-![A map showing the distribution of Pacific Northwest coastal forest communities in Oregon and Washington.]({{ site.baseurl }}/assets/images/fire-regimes/pacific-northwest-coastal-forest_feis-pacific_northwest_coastal_forest_locator.jpg)
+![A map showing the distribution of Pacific Northwest coastal forest communities in Oregon and Washington.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_northwest_coastal_forest_locator.jpg?itok=IBJB5yI9)
 
 Photo Credit
 

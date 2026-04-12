@@ -34,7 +34,7 @@ Walsh, Roberta A. 1994. _Carex vaginata_ , sheathed sedge. In: Fire Effects Info
 
 ## Introduction
 
-[![Closeup of a sheathed sedge plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-carvag_closeup_1.jpeg)Photo Credit Photo by Татьяна Горбушина with no rights reserved (CC 1.0 Universal Deed). Sheathed sedge.](<https://creativecommons.org/publicdomain/zero/1.0/>)
+[![Closeup of a sheathed sedge plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carvag_closeup_1.jpeg?itok=KbYZSNfs)Photo Credit Photo by Татьяна Горбушина with no rights reserved (CC 1.0 Universal Deed). Sheathed sedge.](<https://creativecommons.org/publicdomain/zero/1.0/>)
 
 ## Taxonomy
 
@@ -77,7 +77,7 @@ Sheathed sedge is associated with a wide variety of species. Associated species 
 
 Sheathed sedge grows in tundra communities as well as in the boreal forest [23].
 
-[![A photo of a tundra plant community including sedges and mosses, with a low sloping hill in the background and cloudy skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-carvag_community.jpg)Photo Credit Photo by tundra-leprechaun, iNaturalist (CC BY-NC 4.0). Sheathed sedge growing in a tundra community in Alaska.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a tundra plant community including sedges and mosses, with a low sloping hill in the background and cloudy skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carvag_community.jpg?itok=CyNI57Qy)Photo Credit Photo by tundra-leprechaun, iNaturalist (CC BY-NC 4.0). Sheathed sedge growing in a tundra community in Alaska.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
@@ -85,7 +85,7 @@ Sheathed sedge grows in tundra communities as well as in the boreal forest [23].
 
 Sheathed sedge is a native, perennial, monoecious graminoid [12]. Culms are 4 to 24 inches (10-60 cm) tall [7,9]. Principal foliage leaves are basal [11], mostly shorter than the culms [7], and 0.06 to 0.20 inches (1.5-5 mm) wide [1,7]. The terminal inflorescence is a spike 0.4 to 0.8 inches (1-2 cm) long; there are one to three lateral spikes as well. The fruit is a small triangular achene [1]. The perigynia surrounding the achene is ovoid and 0.12 to 0.20 inches (3-5 mm) long [7]. There are 3 to 20 perigynia per spike [1]. Sheathed sedge has long, slender rhizomes [7,9]; it also has stolons [7,12].
 
-[![A photo of a sedge with reproductive spikes, with an out-of-focus background graminoids.]({{ site.baseurl }}/assets/images/species-reviews/feis-carvag_plant.jpg)Photo Credit Photo by Michael D. Pirie, iNaturalist (CC BY 4.0). Reproductive spikes of sheathed sedge.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a sedge with reproductive spikes, with an out-of-focus background graminoids.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carvag_plant.jpg?itok=IfWbMvTm)Photo Credit Photo by Michael D. Pirie, iNaturalist (CC BY 4.0). Reproductive spikes of sheathed sedge.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

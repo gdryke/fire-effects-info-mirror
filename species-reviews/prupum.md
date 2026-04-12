@@ -36,7 +36,7 @@ Taylor, Jane. 2006. _Prunus pumila_ , sandcherry. In: Fire Effects Information S
 
 ## Taxonomy
 
-![Photo of leafy branches with dark-colored fruits growing in light colored sand.]({{ site.baseurl }}/assets/images/species-reviews/feis-prupum_berries.jpeg)
+![Photo of leafy branches with dark-colored fruits growing in light colored sand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-prupum_berries.jpeg?itok=vhTzdtj2)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Sandcherry most commonly occurs on dry sites in grass-dominated communities, but
 
 ## Botanical Description
 
-![Photo of leafy branch with lance-shaped leaves and abundant white flowers against a background of sandy soil and other vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-prupum_flower.jpeg)
+![Photo of leafy branch with lance-shaped leaves and abundant white flowers against a background of sandy soil and other vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-prupum_flower.jpeg?itok=Z5KZL3fQ)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Sandcherry is a deciduous shrub with a typical winter dormancy. Flowering occurs
 
 ## Regeneration Processes
 
-![Photo showing a cluster of black berries dangling from their stalks along a narrow branch. ]({{ site.baseurl }}/assets/images/species-reviews/feis-prupum_berry.jpeg)
+![Photo showing a cluster of black berries dangling from their stalks along a narrow branch. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-prupum_berry.jpeg?itok=5mXvJ_ac)
 
 Photo Credit
 

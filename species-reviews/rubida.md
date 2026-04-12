@@ -34,7 +34,7 @@ Tirmenstein, D. 1990. _Rubus idaeus_ , American red raspberry. In: Fire Effects 
 
 ## Introduction
 
-![A photo of low, creeping shrubs with white flowers growing against an open rocky hillside, and conifer trees in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubida_habitat.jpg)
+![A photo of low, creeping shrubs with white flowers growing against an open rocky hillside, and conifer trees in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rubida_habitat.jpg?itok=ODf19uph)
 
 Photo Credit
 
@@ -65,7 +65,7 @@ black-haired red raspberry, brilliant red raspberry, raspberry, red raspberry, s
 
 American red raspberry occurs throughout most of the temperate regions of the world [20]. In North America it grows from Alaska through Canada to Newfoundland, southward to North Carolina and Tennessee in the East, and to Arizona, California, and northern Mexico in the West [36,93,98]. The native American red raspberry is _Rubus idaeus_ subsp. _strigosus_ [36]. _Rubus idaeus_ subsp. _idaeus_ grows across northern Europe to northwestern Asia [36]. It is cultivated in Hawaii [109] and throughout much of North America and has naturalized in many locations [36].
 
-![A map of the U.S. and Canada with nearly all of both countries highlighted in brown, where American red raspberry occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubida_map.jpg)
+![A map of the U.S. and Canada with nearly all of both countries highlighted in brown, where American red raspberry occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rubida_map.jpg?itok=lmmiM8fU)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ American red raspberry occurs as a dominant in a number of plant communities. It
 
 ## Botanical Description
 
-![A close up photo of a stem with green, pointed leaves and a bright red raspberry, growing against rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubida_fruit.jpg)
+![A close up photo of a stem with green, pointed leaves and a bright red raspberry, growing against rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rubida_fruit.jpg?itok=Ggn3lR_B)
 
 Photo Credit
 

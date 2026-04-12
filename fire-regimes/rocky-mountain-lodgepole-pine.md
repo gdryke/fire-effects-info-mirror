@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain lodgepole pine communities h
 
 ## Distribution
 
-![A map showing the distribution of Rocky Mountain lodgepole pine communities in the interior western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/rocky-mountain-lodgepole-pine_feis-rocky_mountain_lodgepole_pine_locator.jpg)
+![A map showing the distribution of Rocky Mountain lodgepole pine communities in the interior western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-rocky_mountain_lodgepole_pine_locator.jpg?itok=qAzScKvp)
 
 Photo Credit
 

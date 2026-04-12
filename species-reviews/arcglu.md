@@ -98,7 +98,7 @@ Publications describing plant communities dominated or codominated by bigberry m
 
 ## Botanical Description
 
-![Photo of big berry manzanita.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcglu_plant.jpeg)
+![Photo of big berry manzanita.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcglu_plant.jpeg?itok=FFJmSyRO)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Bigberry manzanita colonizes from seed in postfire plant communities and remains
 
 ## Immediate Fire Effects
 
-![Photo of a dead shrub with blackened stems and orange leaves.]({{ site.baseurl }}/assets/images/species-reviews/arcglu_feis-ARCGLU_postfire.jpg)
+![Photo of a dead shrub with blackened stems and orange leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARCGLU_postfire.jpg?itok=M_54eet-)
 
 Photo Credit
 

@@ -60,7 +60,7 @@ Spruce pine is found on the Coastal Plain of the southeastern United States from
 
 ## Site Characteristics
 
-![A photo of a trall, straight pine tree with an irregular canopy and no branches on most of its trunk. Smaller conifers and other trees surround the main, tallest tree but the area is relatively open.]({{ site.baseurl }}/assets/images/species-reviews/feis-pingla_habitat.jpg)
+![A photo of a trall, straight pine tree with an irregular canopy and no branches on most of its trunk. Smaller conifers and other trees surround the main, tallest tree but the area is relatively open.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pingla_habitat.jpg?itok=6imEsGD9)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Spruce pine tends to be a scattered component of the overstory in southern mixed
 
 ## Botanical Description
 
-![A close up photo of a pine tree's long, bunched needles and elongated, closed brown cones. The background is blurry needles and branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pingla_cones.jpg)
+![A close up photo of a pine tree's long, bunched needles and elongated, closed brown cones. The background is blurry needles and branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pingla_cones.jpg?itok=7zUdqUf2)
 
 Photo Credit
 

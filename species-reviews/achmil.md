@@ -172,7 +172,7 @@ Rough fescue (_Festuca altaica_)| 5-10
 
 Fire results in fragmentation of common yarrow's rhizomes stimulating regeneration [15]. Cover and frequency of common yarrow generally increase 1 to 2 years after fire but not with any consistent pattern [4,13,14,32,40,56,71]. After initially increasing in cover, common yarrow may decrease to unburned levels as early as 3 years after fire [17,37,65,75]. Production doubled within 3 to 4 years postfire near Missoula, Montana [6] and other ponderosa pine/mountain grassland ecosystems [32,69]. In another study of fire effects in ponderosa pine, common yarrow increased by 0.37 stem/m in 6 years, a negligible amount [55].
 
-![Photo of common yarrow ground layer on the Stanislaus National Forest, 15 months after the 2013 Rim Fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-achmil.jpg)
+![Photo of common yarrow ground layer on the Stanislaus National Forest, 15 months after the 2013 Rim Fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-achmil.jpg?itok=d-KthSk6)
 
 Photo Credit
 

@@ -55,7 +55,7 @@ None.
 
 Utah juniper is the most common tree in the Great Basin and is widely distributed throughout the arid West [67,80]. The tree occurs occasionally in southern Idaho, southern Montana, and western Wyoming, and is common in Colorado, Utah, Nevada, New Mexico, Arizona, and southeastern California. Utah juniper is the most common juniper species in Arizona [4].
 
-![A map of North America with areas highlighted in green where Utah juniper occurs. Areas in the intermountain west and southwestern U.S. are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-junost_distribution.jpg)
+![A map of North America with areas highlighted in green where Utah juniper occurs. Areas in the intermountain west and southwestern U.S. are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-06/feis-junost_distribution.jpg?itok=VaUrxZEE)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Habitat typings in which Utah juniper appears as a community dominant include:
 
 ## Botanical Description
 
-![A landscape photo of a large round conifer tree growing in a dry, open environment. It is the only tree visible, there are desert shrubs growing and lots of bare rocky ground visible, with hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-junost_habitat.jpg)
+![A landscape photo of a large round conifer tree growing in a dry, open environment. It is the only tree visible, there are desert shrubs growing and lots of bare rocky ground visible, with hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-junost_habitat.jpg?itok=iRL6dgsj)
 
 Photo Credit
 
@@ -148,7 +148,7 @@ Leader elongation ceases| October 19
 
 Utah juniper is monoecious and sometimes dioecious [4,67,54,80,123]. It reproduces by seeds in cones and produces abundant seeds in most years [4] or every couple of years [9,62]. Cones have 1 or 2 seeds [66]. The seeds have dormant embryos and impermeable seedcoats, so they need a period of "after-ripening" and usually germinate the second season following maturity [120].
 
-![A close up photo of a conifer tree's whitish, dusty-looking round berries and short, plated needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-junost_berries.jpg)
+![A close up photo of a conifer tree's whitish, dusty-looking round berries and short, plated needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-junost_berries.jpg?itok=K0BBTFSM)
 
 Photo Credit
 

@@ -60,7 +60,7 @@ Historical habitats of the black-footed ferret included shortgrass prairie [41,4
 
 Vegetation types occurring in four inventoried historic black-footed ferret habitats in Wyoming include: birdfoot sagebrush (_Artemisia petadifida_)/ western wheatgrass (_Pascopyron smithii_); big sagebrush (_Artemisia tridentata_); low sagebrush (_Artemisia arbuscula_)/mixed-grass (bottlebrush squirreltail (_Elymus elymoides_), western wheatgrass, and Sandberg bluegrass (_Poa secunda_)); Gardner's saltbush (_Atriplex gardneri_)/mixed-grass (Sandberg bluegrass and cheatgrass (_Bromus tectorum_)); thickspike wheatgrass (_Elymus lanceolatus_)-threadleaf sedge (_Carex filifolia_); mixed shrub (_Artemisia_ spp.)/mixed-grass (thickspike wheatgrass and blue grama (_Bouteloua gracilis_)); and Gardner's saltbush [20].
 
-![A photo of an open grassland with a mountain range in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-muni_reintroductionsite.jpg)
+![A photo of an open grassland with a mountain range in the distance.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-muni_reintroductionsite.jpg?itok=qCGncnTp)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Little is known about the life history, behavior, or ecology of black-footed fer
 
 Black-footed ferrets are solitary, except when breeding or raising litters [28,39,53,61,62].
 
-![A photo of a brown and white ferret with a black mask looking out from a burrow in bare soil.]({{ site.baseurl }}/assets/images/species-reviews/muni_feis-MUNI_burrow2.jpg)
+![A photo of a brown and white ferret with a black mask looking out from a burrow in bare soil.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-MUNI_burrow2.jpg?itok=U8jaBwzB)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Prey density may account for movement distances. Black-footed ferrets may travel
 
 ### Diet
 
-![A photo of a tan and black ferret leaping on to the back of a brown prairie dog.]({{ site.baseurl }}/assets/images/species-reviews/feis-muni_hunting.jpg)
+![A photo of a tan and black ferret leaping on to the back of a brown prairie dog.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-muni_hunting.jpg?itok=iK-5AdqV)
 
 Photo Credit
 

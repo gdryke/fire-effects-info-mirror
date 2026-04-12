@@ -38,7 +38,7 @@ Gucker, Corey L. 2006. _Cercocarpus montanus_ , alderleaf mountain-mahogany. In:
 
 The scientific name of alderleaf mountain-mahogany is _Cercocarpus montanus_ Raf. (Rosaceae) [30,47,64,115,132,133,313,317].
 
-![A photo of a branch of a shrub with leaves and seeds. Seeds have long, spiraling, hairy tails. A dramatic sharp rocky outcrop dominates the background, surrounded by shrubby trees.]({{ site.baseurl }}/assets/images/species-reviews/cermon_feis-celmon_habitat.jpeg)
+![A photo of a branch of a shrub with leaves and seeds. Seeds have long, spiraling, hairy tails. A dramatic sharp rocky outcrop dominates the background, surrounded by shrubby trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-celmon_habitat.jpeg?itok=ssHN2FKf)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Of the alderleaf mountain-mahogany varieties, _C. m._ var. _montanus_ is the mos
 
 ## Site Characteristics
 
-![A photo of a large shrub growing in rocky soils against reddish cliffs.]({{ site.baseurl }}/assets/images/species-reviews/cermon_feis-celmon_shrub.jpg)
+![A photo of a large shrub growing in rocky soils against reddish cliffs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-celmon_shrub.jpg?itok=DbvvARDa)
 
 Photo Credit
 
@@ -331,7 +331,7 @@ Leaves are simple, alternate, and vary from thin to somewhat thick and firm [53,
 
 Alderleaf mountain-mahogany flowers are perfect and without petals [114,115,262]. Flowers occur singly or in small clusters of up to 12 on the upper portions of 2-year-old stems [50,112,151]. Clustered flowers are common in the axils of the short spur-like branches and 2 to 3 flowers together are most common [86,133,200,301]. Flower tubes measure 0.1 to 0.7 inch (3-17 mm) long [114,115,317]. The fruit is a hard, cylindrical achene coated with short hairs [83,86,114,115,151]. Achenes measure 0.3 to 0.5 inch (8-12 mm) long [47,104,262]. The average mass of alderleaf mountain-mahogany seed collected in southern California was 18 mg [138]. As is characteristic for the genus, true mountain-mahogany achenes have a persistent, somewhat twisted, hairy style or tail [7,50,83]. Styles are 1 to 4 inches (3-10 cm) long [78,107,112,317].
 
-![A photo of a branch with small leaves and yellowish flowers, mostly occurring singly.]({{ site.baseurl }}/assets/images/species-reviews/cermon_feis-celmon_flowers.jpeg)
+![A photo of a branch with small leaves and yellowish flowers, mostly occurring singly.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-celmon_flowers.jpeg?itok=30wSDML_)
 
 Photo Credit
 
@@ -339,7 +339,7 @@ Photo by Anthony Johansen, iNaturalist.org, some rights reserved.
 
 Alderleaf mountain-mahogany flowers (CC BY-NC 4.0).
 
-![A photo of branches with small leaves and mature seeds with long, hairy, spiraling tails.]({{ site.baseurl }}/assets/images/species-reviews/cermon_feis-celmon_seeds.jpg)
+![A photo of branches with small leaves and mature seeds with long, hairy, spiraling tails.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-celmon_seeds.jpg?itok=phNA2cI6)
 
 Photo Credit
 

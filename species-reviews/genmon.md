@@ -88,7 +88,7 @@ There was no information in the literature on plant communities in which French 
 
 ## Botanical Description
 
-![A close-up photo of a shrub with small green leaves and clusters of bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-genmon_flowers.jpeg)
+![A close-up photo of a shrub with small green leaves and clusters of bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-genmon_flowers.jpeg?itok=k3D0LNYh)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ French broom becomes reproductive at 2 to 3 years of age, or on reaching a heigh
 
 ### Seed Dispersal
 
-![A close-up photo of a plant with pale green, fuzzy, pea-like seedpods.]({{ site.baseurl }}/assets/images/species-reviews/feis-genmon_seedpods.jpg)
+![A close-up photo of a plant with pale green, fuzzy, pea-like seedpods.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-genmon_seedpods.jpg?itok=M_7i4aUy)
 
 Photo Credit
 
@@ -207,7 +207,7 @@ Several reports indicate a postfire flush of French broom germination from the s
 
 ## Plant Response to Fire
 
-![A photo of a hillside with a line of burned, blackened trees behind and green shrubs with yellow flowers in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-genmon_postfire.jpeg)
+![A photo of a hillside with a line of burned, blackened trees behind and green shrubs with yellow flowers in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-genmon_postfire.jpeg?itok=0tPWP3E2)
 
 Photo Credit
 
@@ -335,7 +335,7 @@ No information is available on this topic.
 
 ## Impacts
 
-![A photo of a hillside completely covered in shrubs with yellow flowers. A person is standing in front of the hillside to show how large the shrubs are.]({{ site.baseurl }}/assets/images/species-reviews/feis-genmon_infestation.jpg)
+![A photo of a hillside completely covered in shrubs with yellow flowers. A person is standing in front of the hillside to show how large the shrubs are.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2026-01/feis-genmon_infestation.jpg?itok=fMeExYHB)
 
 French broom is listed by the California Invasive Plant Council as one of the most widespread and invasive wildland pest plants in California [16].
 

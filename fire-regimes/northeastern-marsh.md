@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northeastern marshes has not yet been publi
 
 ## Distribution
 
-![A map showing the distribution of northeastern marshes in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northeastern-marsh_feis-northeastern_marsh_locator.jpg)
+![A map showing the distribution of northeastern marshes in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-northeastern_marsh_locator.jpg?itok=3LK8mM-y)
 
 Photo Credit
 

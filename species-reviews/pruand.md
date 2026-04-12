@@ -38,7 +38,7 @@ Gucker, Corey L. 2007. _Prunus andersonii,_ desert peach. In: Fire Effects Infor
 
 The scientific name of desert peach is _Prunus andersonii_ Gray (Rosaceae) [18,21].
 
-![A photo of a flowering shrub with long, upright branches growing in a shrubland at the base of a snow-capped mountain.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruand_habitat.jpg)
+![A photo of a flowering shrub with long, upright branches growing in a shrubland at the base of a snow-capped mountain.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pruand_habitat.jpg?itok=41DnOWHG)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Intermountain West| 1,200 to 2,400 [12]
 
 Sagebrush (_Artemisia_ spp.) shrublands, yellow pine (_Pinus_ spp.) forests, and pinyon-juniper (_Pinus-Juniperus_ spp.) woodlands are typical desert peach habitat. Throughout its range, desert peach occurs in both late-seral and disturbed communities. Desert peach occurs in big sagebrush/rubber rabbitbrush/cheatgrass (_A. tridentata_ / _Chrysothamnus nauseosus_ /_Bromus tectorum_), singleleaf pinyon-Utah juniper (_P. monophylla-J. osteosperma_), and black cottonwood (_Populus balsamifera_ subsp. _trichocarpa_)/big sagebrush communities that are considered late-seral vegetation in the Mill Creek Watershed of central Nevada [8]. In the Glass Mountain Region of Mono County, California, desert peach occurs in cheatgrass-dominated grasslands considered to be recovering to a more native flora [19].
 
-![A photo of a medium-sized shrub in the foreground with branches nearly covered by pink flowers, with a few stems having some visible clusters of green lives. Low-growing sagebrush dominates the vegetation behind the flowering bush, and snow-capped peaks rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruand_community.jpg)
+![A photo of a medium-sized shrub in the foreground with branches nearly covered by pink flowers, with a few stems having some visible clusters of green lives. Low-growing sagebrush dominates the vegetation behind the flowering bush, and snow-capped peaks rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pruand_community.jpg?itok=CdhvnsfS)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Desert peach is a dominant species in the following vegetation types in Nevada:
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [12,18,22,32]).
 
-![A close-up photo of a woody twig with a single pink flower and clusters of small leaves, with woody spines at some leaf nodes.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruand_spines.jpg)
+![A close-up photo of a woody twig with a single pink flower and clusters of small leaves, with woody spines at some leaf nodes.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-pruand_spines.jpg)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Photo © Br. Alfred Brousseau, Saint Mary's College.
 
 Flower and spines of desert peach.
 
-![A photo of the small, peach-like fruits of a shrub, with several fruits growing individually or apparently in small clusters with long stems from several branches. Green leaves are clustered along branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruand_fruit.jpg)
+![A photo of the small, peach-like fruits of a shrub, with several fruits growing individually or apparently in small clusters with long stems from several branches. Green leaves are clustered along branches.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-pruand_fruit.jpg)
 
 Photo Credit
 

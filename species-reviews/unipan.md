@@ -52,7 +52,7 @@ None
 
 Seaoats occurs along the mainland coast and barrier islands from Northampton County, Virginia, through Florida [14]. It continues west along the Gulf coast through Texas and south to Tabasco, Mexico [11]. It is also widely distributed in the Bahama islands and occurs on some sandy areas of the northwestern coast of Cuba [2,4,10,21].
 
-![A map of the southern United States with county lines. Many coastal counties are highlighted from Texas to Delaware.]({{ site.baseurl }}/assets/images/species-reviews/feis-unipan_distribution.jpg)
+![A map of the southern United States with county lines. Many coastal counties are highlighted from Texas to Delaware.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-unipan_distribution.jpg?itok=dgwujmhC)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Distribution of seaoats in the United States.
 
 Seaoats is found on upper beaches, dunes, and loose sands near seashores in the southeastern United States [2,4,10,14,15,21,29] but it is seldom found in the forb zone of lower beaches [26]. Seaoats is one of the most important grasses on dunes and continuous dune ridges [15] because it helps build and maintain the sites on which it grows. Seaoats is dominant on the ocean facing part of fore dunes, often dominant at the top of the more stable second dune system, and much less prominent in the depression between the two [1,15,16,23]. This reflects the close zonal relationship of seaoats to the deposition of salt spray. On Bogue Bank, North Carolina, seaoats was dominant where salt spray was greatest. The highest salt concentration was on the windward side of the fore dune; the crest of the rear dune had a somewhat lower concentration, and the depression between the dune systems received much less salt deposition [20].
 
-[![A photo of large, golden-colored grass panicles on grass stems. Sand dunes with patchy cover of the same grass are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-unipan_flowering.jpg)Photo Credit Photo by Kenneth M. Gale, Bugwood.org (CC BY-NY 3.0). Seaoats in flower.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A photo of large, golden-colored grass panicles on grass stems. Sand dunes with patchy cover of the same grass are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-unipan_flowering.jpg?itok=H7O26kn0)Photo Credit Photo by Kenneth M. Gale, Bugwood.org (CC BY-NY 3.0). Seaoats in flower.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 Seaoats sites have in common exposure to wind, salt spray, storms, drought [1], often deep and shifting sand, and occasional fires and saltwater inundation. These unstable habitats suffer wind and water erosion. The soil has low water retaining ability and excellent drainage. Evaporation rates are high due to constant air movement, high temperatures, and full sunlight [20].
 
@@ -103,7 +103,7 @@ Besides those listed in the Kuchler Plant Associations, common associates of sea
 
 Seaoats is a native, perennial, semitropical, rhizomatous C4 grass [12,14]. Culms are stout and 3.3 to 6.6 feet (1-2 m) tall [2,4]. Leaves are both basal and cauline; leaf blades are up to 24 inches (60 cm) long. The inflorescence is a narrow, condensed panicle 8 to 20 inches (20-50 cm) long [21]. Spikelets are very flat, 10- to 20-flowered, and 0.6 to 1.2 inches (1.5-3.0 cm) long [2,14]; they disarticulate below the glumes and fall entire. The fruit is a caryopsis [10]. Rhizomes are elongated and extensively creeping [2,14], readily rooting at the nodes when buried by sand [4]. Seaoats develops a dense concentration of surface roots as well as a penetrating system of deep roots [12].
 
-[![Tall grass silhouetted against an orange sunset. The ocean is visible between grass stems, with the mainland in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-unipan_growthform.jpg)Photo Credit Photo by Tyler Harris, iNaturalist (CC BY-NC 4.0). Seaoats growing on Seabrook Island, South Carolina.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![Tall grass silhouetted against an orange sunset. The ocean is visible between grass stems, with the mainland in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-unipan_growthform.jpg?itok=4skyMPW6)Photo Credit Photo by Tyler Harris, iNaturalist (CC BY-NC 4.0). Seaoats growing on Seabrook Island, South Carolina.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

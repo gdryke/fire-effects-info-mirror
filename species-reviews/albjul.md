@@ -36,7 +36,7 @@ Meyer, Rachelle. 2010. _Albizia julibrissin_ , silktree. In: Fire Effects Inform
 
 ## Taxonomy
 
-![A photo of several small trees with several sparse branches spreading from the base to form a crown of green leaves and pink flowers. A road runs through the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-albjul_mimosa.jpg)
+![A photo of several small trees with several sparse branches spreading from the base to form a crown of green leaves and pink flowers. A road runs through the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-albjul_mimosa.jpg?itok=M5H2pr9K)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ mimosa, silky acacia
 
 Silktree is not native to North America but was introduced as an ornamental in the 18th century [20]. As of 2010, it occurred as far north as New York [39,61,111] and Massachusetts [61] in the Northeast [23]; in southern portions of the Midwest [23,88]; throughout the south-central [30,51,54,56,61,111,117] and southeastern United States, excluding tropical Florida [30,35,41,56,61,83,111,117,126]; and in New Mexico, Arizona [57,61], Utah [57,61,128], and California [9,57,61,95,111].
 
-![A map of the continental U.S. with most southern and eastern states highlighted blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-albjul_map.jpg)
+![A map of the continental U.S. with most southern and eastern states highlighted blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-albjul_map.jpg?itok=HCpT35vh)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Silktree is a deciduous [40], nitrogen-fixing [83,89,111,126] tree or shrub [61,126] with thin [9,83], nearly smooth [9,74,83] bark. It has a broad crown [30,39,40,54,74,123] and single or multiple [9,83], short trunks [40,126]. It ranges from 10 to 50 feet (3-15 m) tall [9,20,30,39,83,123,128]. The champion silktree, last measured in 2006, was 64 feet (20 m) tall and had an 80.4-foot (24.5 m) spread. Its circumference at 3 feet (1 m) above ground was 103.2 inches (262 cm) [2]. Average circumference of silktree in the subtropical forests in the foothills of Garhwal Himalayas was 76.9 inches (195.2 cm) [65]. Silktree has alternate leaves, 4 to 20 inches (15-38 cm) long [9,39,40,74,83,123,126] and up to 6 inches (15 cm) wide [40,126]. The leaves are bipinnately compound [9,20,30,40,83,123,128] and move in reaction to light [26,30] and touch [26]. The oblong leaflets [39,74,123,126] are 5 to 15 mm long [40,74,83,126,128] and 2 to 5 mm wide [30,126]. The showy flowerheads [9,126] occur in clusters [26,83] at the ends of branches [9,39,83,126]. Each head has 15 to 25 sessile flowers [9,83] from 1 to 2 inches (2.5-6 cm) long [9,30,74,83]. Silktree's fruits are flattened legumes [26,74,83,123,126,128] from 3 to 8 inches (8-20 cm) long [20,26,39,83,123,128] and 0.6 to 1.2 inches (1.5-3 cm) wide [39,40,54,123,126,128]. They contain 5 to 16 seeds [41,83] that are about 6 to 12 mm long, half as wide [9,40,123], and have hard seed coats [126].
 
-![A photo of a pink and white flowerhead comprised of sessile flowers with prominent stamens, arranged in a starburst of pink, silky threads.]({{ site.baseurl }}/assets/images/species-reviews/feis-albjul_flowers.jpg)
+![A photo of a pink and white flowerhead comprised of sessile flowers with prominent stamens, arranged in a starburst of pink, silky threads.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-albjul_flowers.jpg)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Photo by Dan Tenaglia, missouriplants.com.
 
 Silktree flowerhead.
 
-![A photo of green, bipinnately compound, clustered silktree leaflets with several light green pods drooping at the end of the branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-albjul_leavesfruit.jpg)
+![A photo of green, bipinnately compound, clustered silktree leaflets with several light green pods drooping at the end of the branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-albjul_leavesfruit.jpg?itok=ZKk03uER)
 
 Photo Credit
 
@@ -218,7 +218,7 @@ Silktree sprouting after cutting or damage is commonly reported [9,25,111,126]. 
 
 ## Successional Status
 
-![A photo of dense tree canopies with pink-orange flowers with canopies of several other types of trees visible in gaps and in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-albjul_habitat.jpg)
+![A photo of dense tree canopies with pink-orange flowers with canopies of several other types of trees visible in gaps and in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-albjul_habitat.jpg?itok=_2op0_6o)
 
 Photo Credit
 

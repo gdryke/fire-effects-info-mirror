@@ -38,7 +38,7 @@ Simonin, Kevin A. 2000. _Vaccinium membranaceum_ , thinleaf huckleberry. In: Fir
 
 The currently accepted scientific name of thinleaf huckleberry is _Vaccinium membranaceum_ Dougl. (Ericaceae) [40,60,76,160,163].
 
-![A photo of low shrubs covering a slope with scattered conifers behind and rocky slopes above.]({{ site.baseurl }}/assets/images/species-reviews/vacmem_feis-vecmem_community.jpg)
+![A photo of low shrubs covering a slope with scattered conifers behind and rocky slopes above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vecmem_community.jpg?itok=tQjpPs0F)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ big huckleberry, blue huckleberry
 
 Thinleaf huckleberry is native to North America. It occurs from British Columbia and Nunavut south through the Cascade and Olympic mountains to California and Arizona and east to Ontario, Wyoming, South Dakota, and Minnesota [12,40,60,75,76,160,163]. Populations also occur in 3 counties of the Upper Peninsula of Michigan on the east side of Lake Superior [160].
 
-![A map of the United States and Canada, with many northern and western states and some provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmem_map.jpg)
+![A map of the United States and Canada, with many northern and western states and some provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacmem_map.jpg?itok=aVjPcVzU)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Common shrub associates include sticky flowering currant (_Ribes viscosissimum_)
 
 Forb associates include common beargrass (_Xerophyllum tenax_) [9,20,24], Brewer's aster (_Chrysopsis breweri_) [9,24], pinewoods lousewort (_Pedicularis semibarbata_) [24], fireweed (_Epilobium angustifolium_), Sitka valerian (_Valeriana sitchensis_) [42], queencup beadlily (_Clintonia uniflora_) [20], twinflower (_Linnaea borealis_), lupine (_Lupinus_ spp.) [3], Pacific trillium (_Trillium ovatum_), and threeleaf foamflower (_Tiarella trifoliata_) [20].
 
-![A photo of an alpine community with scattered conifers amongst low red shrubs, with patches of green and yellow foliage across the hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmem_foliage.jpeg)
+![A photo of an alpine community with scattered conifers amongst low red shrubs, with patches of green and yellow foliage across the hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacmem_foliage.jpeg?itok=QC_ccQl6)
 
 Photo Credit
 
@@ -178,7 +178,7 @@ Published classifications listing thinleaf huckleberry as an indicator or domina
 
 ## Botanical Description
 
-![A photo of the leaves and fruit of a thinleaf huckleberry bush.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmem_fruit.jpeg)
+![A photo of the leaves and fruit of a thinleaf huckleberry bush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacmem_fruit.jpeg?itok=2CUgNSB8)
 
 Photo Credit
 

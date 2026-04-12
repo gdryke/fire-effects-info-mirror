@@ -115,7 +115,7 @@ Oregon white oak woodlands in the Willamette Valley occur on well-drained, moder
 
 In British Columbia, Oregon white oak is indicative of very dry (moisture deficit 3.5-5 months of year) to moderately dry soils (moisture deficit 1.5-3.5 months) [73]. On southern Vancouver Island, Oregon white oak habitats have Sombric Brunisol soils with deep, dark surface horizons and bedrock layers at 20- to 30-inch (40-80 cm) depths [119].
 
-![Photo of stand of Oregon white oak in Fort Rodd Hill National Historic Site, British Columbia.]({{ site.baseurl }}/assets/images/species-reviews/quegar_feis-park_quegar.jpg)
+![Photo of stand of Oregon white oak in Fort Rodd Hill National Historic Site, British Columbia.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-park_quegar.jpg?itok=FSOvNLlX)
 
 Photo Credit
 
@@ -201,7 +201,7 @@ Oregon white oak is a dominant species in the following vegetation types and pla
 
 ## Botanical and Ecological Characteristics
 
-![Photo of two Oregon white oak acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quegar_acorn.jpg)
+![Photo of two Oregon white oak acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quegar_acorn.jpg?itok=9T88kD1U)
 
 Photo Credit
 
@@ -300,7 +300,7 @@ While growth of Oregon white oak seedlings may be unaffected or favored by shade
 
 ## Fire Ecology and Management
 
-![Photo of Oregon white oak showing burned understory and brown leaves after the Mt Tolmic Fire-August 2005]({{ site.baseurl }}/assets/images/species-reviews/quegar_feis-fire_quegar.jpg)
+![Photo of Oregon white oak showing burned understory and brown leaves after the Mt Tolmic Fire-August 2005](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-fire_quegar.jpg?itok=leZIWjL6)
 
 Photo Credit
 
@@ -312,7 +312,7 @@ Mt Tolmic Fire-August 2005
 
 Oregon white oak mortality is rare following fire. The bark on mature trees is sufficient to withstand cambial kill from fire in open woodlands [2]. There are 2 reports of saplings over 10 feet (3 m) tall resisting top-kill in low-severity fires [135,148]. However, Thysell and Carey [141] observed fire-killed mature Oregon white oaks, although rarely, after a severe fire fueled by a dense understory of Oregon white oak, Douglas-fir, and Scotch broom in Fort Lewis, Washington.
 
-![Photo of sprout originating at base of Oregon white oak.]({{ site.baseurl }}/assets/images/species-reviews/quegar_feis-barksprout_quegar.jpg)
+![Photo of sprout originating at base of Oregon white oak.](https://research.fs.usda.gov/sites/default/files/styles/220px_wide/public/2026-01/feis-barksprout_quegar.jpg?itok=aatFEwkd)
 
 ## Postfire Regeneration Strategy
 

@@ -72,7 +72,7 @@ There is no evidence that Gunnison sage-grouse and greater sage-grouse interbree
 
 sage grouse, sage hen, sage chicken
 
-![Greater sage-grouse male displaying.]({{ site.baseurl }}/assets/images/species-reviews/cent_feis-cemi_male.jpg)
+![Greater sage-grouse male displaying.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cemi_male.jpg?itok=1_UVUnkf)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Creative Commons photo by Bryant Olsen
 
 Figure 1A. Greater sage-grouse male.
 
-![Greater sage-grouse female in grass.]({{ site.baseurl }}/assets/images/species-reviews/cent_feis-cemi_female.jpg)
+![Greater sage-grouse female in grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cemi_female.jpg?itok=lI9DF49R)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Photo courtesy of USFWS.
 
 Figure 1B. Greater sage-grouse female.
 
-![Gunnison sage-grouse male.]({{ site.baseurl }}/assets/images/species-reviews/cent_feis-ceur_male.jpg)
+![Gunnison sage-grouse male.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ceur_male.jpg?itok=9yc0tt5a)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Photo courtesy of USDI, BLM.
 
 Figure 2A. Gunnison sage-grouse male.
 
-![Gunnison sage-grouse female.]({{ site.baseurl }}/assets/images/species-reviews/cent_feis-ceur_female.jpg)
+![Gunnison sage-grouse female.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ceur_female.jpg?itok=69XYA1om)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Figure 2B. Gunnison sage-grouse female.
 
 ## General Distribution
 
-![Map of greater sage-grouse \(shades of green\) and Gunnison sage-grouse \(shades of brown\) potential presettlement and current \(as of 2016\) distributions in North America. ]({{ site.baseurl }}/assets/images/species-reviews/feis-cent_map.jpg)
+![Map of greater sage-grouse \(shades of green\) and Gunnison sage-grouse \(shades of brown\) potential presettlement and current \(as of 2016\) distributions in North America. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cent_map.jpg?itok=MaqTcRES)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ Males display and breed on a display area called a lek. Breeding occurs in late 
 
 Females typically visit a single lek over 2 to 3 days and mate only once, typically with a dominant male, although occasionally females visit >1 lek within a breeding season and mate multiple times [36,248]. Sage-grouse mating behaviors, which are complex, are summarized by Johnsgard [153].
 
-![Greater sage-grouse in a lek.]({{ site.baseurl }}/assets/images/species-reviews/feis-cent_lek.jpg)
+![Greater sage-grouse in a lek.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cent_lek.jpg?itok=oBZwMLcC)
 
 Photo Credit
 
@@ -635,7 +635,7 @@ Many researchers describe winter habitat as probably the most limiting seasonal 
 
 Sage-grouse occasionally use burns in winter, although their use is less than before fire. In southeastern Idaho, Robertson [236] studied migratory greater sage-grouse use the winter after a 4,900-acre (2,000 ha) August 1989 prescribed fire that removed 57% of the sagebrush cover. Before the prescribed fire, greater sage-grouse were located on the proposed treatment area 42% (1988) and 34% (1989) of the time. In autumn of 1989, only 6% of greater sage-grouse locations were found within the burned area. Greater sage-grouse apparently moved 1 to 6 miles (1-10 km) outside of the burn to areas with greater sagebrush cover [71,236]. Moritz [201] recorded "abundant" sage-grouse pellets in a burned area the second winter following a fire in Idaho, even though >90% of the sagebrush plants in the area were dead. The author suggested that burns may be used in mild winters [201]. Sage-grouse require access to sagebrush above the snow (see Winter habitat). Food and cover may be severely limited if fire occurs in critical winter rangeland and deep snow covers much of remaining unburned areas the following winter [67]. Loss of sagebrush in a relatively small area, but a relatively large portion of wintering habitat, was followed by a large decline in greater sage-grouse numbers in Montana [262]. Burned sagebrush communities may not provide adequate cover for wintering sage-grouse for decades following fire [25] (see Fire management considerations for fire frequency).
 
-![A burn in sage-grouse winter habitat.]({{ site.baseurl }}/assets/images/species-reviews/feis-cent_burn.jpg)
+![A burn in sage-grouse winter habitat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cent_burn.jpg?itok=3fz_I-Oo)
 
 Photo Credit
 

@@ -62,7 +62,7 @@ Beaked spikerush is widespread in the Americas from southern Canada south throug
 
 Beaked spikerush is an obligate wetland species [28]. It occurs in many types of alkaline wetlands including salt and brackish marshes, tidal flats, alkaline seeps, bogs, stream margins, hot spring edges, and swamps [12,13,21,23]. Beaked spikerush occurs near springs and seeps in desert areas of the Southwest [24,39]. The depth to the water table averages 2.2 inches (5.5 cm) for beaked spikerush sites in New York [29]. In Ohio, beaked spikerush forms solid mats in meadows where the water table is at or above the soil surface [8]. In northern Minnesota, beaked spikerush occurs 4 inches (10 cm) above the water table in spring-fen channels with peaty soil [10,11].
 
-[![A photo of a stand of rushes.]({{ site.baseurl }}/assets/images/species-reviews/eleros_eleros_stand.jpg)Photo Credit Photo by Paul Rothrock (CC BY-SA 4.0), accessed via SEINet, swbiodiversity.org. A stand of beaked spikerush growing in Indiana.](<https://creativecommons.org/licenses/by-sa/4.0/>)
+[![A photo of a stand of rushes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/eleros_stand.jpg?itok=MLORwn8i)Photo Credit Photo by Paul Rothrock (CC BY-SA 4.0), accessed via SEINet, swbiodiversity.org. A stand of beaked spikerush growing in Indiana.](<https://creativecommons.org/licenses/by-sa/4.0/>)
 
 In a fen in New York, beaked spikerush occurs on wet minerotrophic sites, nutrient-poor marl beds, and organic soils. (Marl beds are soils formed from calcium carbonate precipitates.) Average soil pH for all sites in New York was greater than 7.0 [30]. In the Minnesota spring-fen, groundwater discharge from calcareous till maintains a pH greater than 7.0 and calcium concentrations between 20 and 45 milligrams per liter [10,11]. Brotherson [3] studied soil characteristics of a common spikerush community in Utah in which beaked spikerush averaged 0.6 percent cover. Soil pH averaged 7.7, soluble salts averaged 4,003 parts per million, and organic matter averaged 32.7 percent. The mineral fraction averaged 13 percent sand, 48 percent silt, and 39 percent clay [3].
 
@@ -88,7 +88,7 @@ At a calcareous seep in Illinois with sparse to patchy ground cover, beaked spik
 
 Beaked spikerush is a native, tufted perennial sedge with short, stout, often ascending or nearly vertical rhizomes [4,13,21,26]. Roots are shallow; in a New York fen, 65 percent or more of beaked spikerush roots were in the top 4 inches (10 cm) of soil [30]. The flattened, wiry culms are mostly 1.3 to 3.3 feet (0.4-1.0 m) long. There are three types of culms: layering (which root at the tips upon contact with moist soil), fertile, and sterile. Spikes are 0.3 to 0.8 inches (0.8-2.0 cm) long and have many flowers [4,13,21,26].
 
-[![A photo of the reproductive spike of a spikerush being held, with a field and water in the background and two out-of-focus people walking in the field.]({{ site.baseurl }}/assets/images/species-reviews/feis-eleros_reproduction.jpeg)Photo Credit Photo by Nathan Aaron, iNaturalist (CC BY 4.0). Spike of beaked spikerush.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of the reproductive spike of a spikerush being held, with a field and water in the background and two out-of-focus people walking in the field.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-eleros_reproduction.jpeg?itok=dhamHse9)Photo Credit Photo by Nathan Aaron, iNaturalist (CC BY 4.0). Spike of beaked spikerush.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -102,7 +102,7 @@ Beaked spikerush generally flowers from July to September [21,26]. In the Rocky 
 
 Beaked spikerush regenerates vegetatively by sprouting and layering. It sprouts from short shallow rhizomes, and it has elongated layering culms which arch to the ground and root in moist soil from the apical bulbil [4,23,30,39]. Beaked spikerush does not have long creeping rhizomes so is not as colonial as common spikerush [13,21]. More biomass is allocated to reproduction on nutrient-poor sites than on more fertile sites [30].
 
-![A field with narrow stems growing horizontally across the forbs and grasses below.]({{ site.baseurl }}/assets/images/species-reviews/feis-eleros_culms.jpg)
+![A field with narrow stems growing horizontally across the forbs and grasses below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-eleros_culms.jpg?itok=ZM3jV5XV)
 
 Photo Credit
 

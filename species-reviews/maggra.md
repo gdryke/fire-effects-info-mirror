@@ -58,7 +58,7 @@ The range of southern magnolia extends from North Carolina along the Atlantic Co
 
 ## Site Characteristics
 
-![A woody plant with dark green, pointed leaves and a white flower growing in front of tall pine trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-maggra_habitat.jpeg)
+![A woody plant with dark green, pointed leaves and a white flower growing in front of tall pine trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-maggra_habitat.jpeg?itok=iPtyFdrz)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ No entry.
 
 ## Botanical Description
 
-![A large, white flower and a flower bud growing among dark green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-maggra_flower.jpg)
+![A large, white flower and a flower bud growing among dark green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-maggra_flower.jpg?itok=1SGpsTkk)
 
 Photo Credit
 

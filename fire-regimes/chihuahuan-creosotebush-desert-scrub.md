@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Chihuahuan creosotebush desert scrub commun
 
 ## Distribution
 
-![Image of a map showing New Mexico, eastern Arizona, and western Texas and the distribution of creosotebush and thorn scrub vegetation.]({{ site.baseurl }}/assets/images/fire-regimes/chihuahuan-creosotebush-desert-scrub_feis-ChihuahuanCreosotebush_FRR_map.jpg)
+![Image of a map showing New Mexico, eastern Arizona, and western Texas and the distribution of creosotebush and thorn scrub vegetation.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-ChihuahuanCreosotebush_FRR_map.jpg?itok=4c69x3K7)
 
 Photo Credit
 

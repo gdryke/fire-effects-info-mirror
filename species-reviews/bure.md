@@ -38,7 +38,7 @@ Tesky, Julie L. 1994. _Buteo regalis_ , ferruginous hawk. In: Fire Effects Infor
 
 The currently accepted scientific name for the ferruginous hawk is _Buteo regalis_ (Gray) [1]. There are no recognized subspecies or races.
 
-![A ferruginous hawk on the ground in an open area.]({{ site.baseurl }}/assets/images/species-reviews/feis-bure_ferruginous-hawk.jpg)
+![A ferruginous hawk on the ground in an open area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-bure_ferruginous-hawk.jpg?itok=_3U6acUC)
 
 Photo Credit
 

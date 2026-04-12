@@ -34,7 +34,7 @@ Anderson, Michelle D. 2002. _Pinus edulis_ , twoneedle pinyon. In: Fire Effects 
 
 ## Introduction
 
-![Photo of twoneedle pinyon cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinedu_cones.jpeg)
+![Photo of twoneedle pinyon cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinedu_cones.jpeg?itok=aA5-UHYx)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ Colorado pinyon, nut pine, pinyon pine, Rocky Mountain pinyon
 
 ## General Distribution
 
-![Map of the southwestern United States showing the distribution of twoneedle pinyon concentrated mostly in Utah, Arizona, New Mexico and Colorado, with additional occurrences in southern Wyoming, eastern Nevada, and southeastern California.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinedu_map.png)
+![Map of the southwestern United States showing the distribution of twoneedle pinyon concentrated mostly in Utah, Arizona, New Mexico and Colorado, with additional occurrences in southern Wyoming, eastern Nevada, and southeastern California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinedu_map.png?itok=d6Ws6Znx)
 
 Photo Credit
 
@@ -127,7 +127,7 @@ Classifications identifying twoneedle pinyon as a plant community dominant are l
 
 ## Botanical Description
 
-![Photo of open twoneedle pinyon cone with seeds.]({{ site.baseurl }}/assets/images/species-reviews/pinedu_feis-cones_pinedu.jpg)
+![Photo of open twoneedle pinyon cone with seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-cones_pinedu.jpg?itok=ZGab06fn)
 
 Photo Credit
 
@@ -157,7 +157,7 @@ Twoneedle pinyon regenerates solely from seed; asexual regeneration has not been
 
 ### Pollination and Breeding system
 
-![Photo of twoneedle pinyon pollen cones on tips of branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinedu_plant.jpg)
+![Photo of twoneedle pinyon pollen cones on tips of branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinedu_plant.jpg?itok=A8uVLrEp)
 
 Photo Credit
 

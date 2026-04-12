@@ -54,7 +54,7 @@ chinkapin oak, yellow chestnut oak, chestnut oak, rock chestnut oak, rock oak, y
 
 ## General Distribution
 
-![A map of the eastern half of the U.S. and northern Mexico, with areas highlighted in green where chinquapin oak occurs. A large portion of the eastern U.S. and small scattered areas in northern Mexico are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemue_map.jpg)
+![A map of the eastern half of the U.S. and northern Mexico, with areas highlighted in green where chinquapin oak occurs. A large portion of the eastern U.S. and small scattered areas in northern Mexico are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-quemue_map.jpg?itok=FRkOw2nf)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Chinquapin oak grows as a codominant with bur oak (Quercus macrocarpa) and hackb
 
 ## Botanical Description
 
-![A close up photo of a tree's foliage and nuts. The leaves are shiny green with serrated edges, and the nuts are small brown acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemue_plant.jpg)
+![A close up photo of a tree's foliage and nuts. The leaves are shiny green with serrated edges, and the nuts are small brown acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-quemue_plant.jpg?itok=zthvAYC2)
 
 Photo Credit
 

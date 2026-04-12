@@ -57,7 +57,7 @@ desert thorn, wolfberry,
 
 Berlandier's wolfberry ranges from Arizona to Texas and south into Mexico [23,31,41]. Lycium berlandieri var. berlandieri is common in southern Texas and is distributed from southern and western Texas to central Mexico. Lycium b. var. parviflorum is more common in the Trans-Pecos than the typical variety and is distributed from Arizona to western Texas and south to northern Mexico [31]. Lycium b. f. parviflorum occurs in Arizona and Mexico, L. b. var. longistylum is from southern Arizona, and L. b. var. brevilobum occurs in Texas and Mexico [41].
 
-![Map of the southern United States showing the distribution of Berlandier's wolfberry by county in Arizona, New Mexico, Texas, and Oklahoma.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycber_map.png)
+![Map of the southern United States showing the distribution of Berlandier's wolfberry by county in Arizona, New Mexico, Texas, and Oklahoma.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-lycber_map.png?itok=_LI7URLV)
 
 Photo Credit
 

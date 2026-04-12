@@ -64,7 +64,7 @@ and unnamed entities resulting from these crosses:
 
 Common names are used throughout this Species Review. For scientific names of plants and wildlife mentioned in this review see table A1 and table A2.
 
-![A photo of bright green grass stems with narrow, cylindrical panicles in front of soil and wood.]({{ site.baseurl }}/assets/images/species-reviews/feis-leyinn_plant.jpg)
+![A photo of bright green grass stems with narrow, cylindrical panicles in front of soil and wood.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-leyinn_plant.jpg?itok=_RDx3OzO)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Downy ryegrass is distributed from northern Alaska east to Nunavut and Ontario a
 
 The typical subspecies' distribution overlays that of the species (fig. 1) [52]. Populations of the typical subspecies in the Black Hills are disjunct from more continuous populations farther north [9]. Northern downy wildrye is the rarer of the two subspecies [7,9]. It occurs in Alaska, Yukon, the Northwest Territories [7,9,52], and Nunavut. It has been collected as far north as Banks Island, Nunavut, in the Canadian Arctic Archipelago [38].
 
-![A map of the United States and Canada, with some states and many provinces highlighted green from Colorado to Alaska.]({{ site.baseurl }}/assets/images/species-reviews/feis-leyinn_distribution.jpg)
+![A map of the United States and Canada, with some states and many provinces highlighted green from Colorado to Alaska.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-leyinn_distribution.jpg?itok=aZFgc-2X)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Downy ryegrass is a perennial grass. It is typically rhizomatous [2,41,43,50,60] and sod forming [83], but it sometimes forms clumps or tussocks [8,28]. Plants range from 10 to 160 cm tall [8,50,83]; plants 30 to 70 cm tall are reported in interior Alaska [110]. The leaves are rigid, coarse, and flat to spirally curled [83]. The inflorescence is a compact spike [35] from 6 to 14 cm long [60]. Downy ryegrass flowers characteristically have tall (10-15 mm), dense spikelets [2,47,83], pubescent lemmas, short (1-6 mm) awns [7,41,43,47,50,60], and densely hairy glumes [7,83] (fig. 2). Seeds range from 9.9 to 14.3 mm long [15]. The subspecies are distinguished from each other by the lengths of their spikes and lemma hairs [7]. Rhizomes are 2 to 3 mm in diameter [41].
 
-![A close-up photo of a grass panicle covered with short, fuzzy hairs.]({{ site.baseurl }}/assets/images/species-reviews/feis-leyinn_seedhead.jpg)
+![A close-up photo of a grass panicle covered with short, fuzzy hairs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-leyinn_seedhead.jpg?itok=ASewJSBk)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Uchytil, Ronald J. 1993. _Vaccinium corymbosum,_ highbush blueberry. In: Fire Ef
 
 ## Image Gallery
 
-![Photo of highbush blueberry with berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaccor_plant.jpeg) Highbush blueberry _Photo by kemper, iNaturalist.org, no rights reserved._
+![Photo of highbush blueberry with berries.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-vaccor_plant.jpeg) Highbush blueberry _Photo by kemper, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by kemper, iNaturalist.org, no rights reserved.
 
@@ -96,7 +96,7 @@ In the Appalachian Oak and Northern Hardwood Regions highbush-blueberry-dominate
 
 ## Botanical Description
 
-![Photo of highbush blueberry with berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaccor_plant.jpeg)
+![Photo of highbush blueberry with berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-vaccor_plant.jpeg?itok=9AxGl59z)
 
 Photo Credit
 

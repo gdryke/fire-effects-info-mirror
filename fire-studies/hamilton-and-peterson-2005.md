@@ -286,7 +286,7 @@ VIOGLA| pioneer violet| _Viola glabella_| **Life Form:** Plants/Forb
 
 ## Image Gallery
 
-![A photo of thinleaf huckleberry with red leaves growing on an open slope with scattered conifers. Green vegetation and dried grasses are scattered amongst the low, red vegetation, and the sun is setting behind lower mountains in the distance.]({{ site.baseurl }}/assets/images/fire-studies/hamilton-and-peterson-2005_feis-vacmem_hero.jpeg) Thinleaf huckleberry growing in Mount Spokane State Park, Washington (CC BY-NC 4.0). _Photo by Andrew Thomas, iNaturalist.org, some rights reserved._ 
+![A photo of thinleaf huckleberry with red leaves growing on an open slope with scattered conifers. Green vegetation and dried grasses are scattered amongst the low, red vegetation, and the sun is setting behind lower mountains in the distance.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-vacmem_hero.jpeg) Thinleaf huckleberry growing in Mount Spokane State Park, Washington (CC BY-NC 4.0). _Photo by Andrew Thomas, iNaturalist.org, some rights reserved._ 
  
 Photo Credit: Photo by Andrew Thomas, iNaturalist.org, some rights reserved.
 

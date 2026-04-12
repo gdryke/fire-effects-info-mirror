@@ -34,7 +34,7 @@ Tirmenstein, D. A. 1991. _Acer rubrum_ , red maple. In: Fire Effects Information
 
 ## Image Gallery
 
-![a close up image of a tree's leaves. The three-pointed leaves are bright red, yellow, and green.]({{ site.baseurl }}/assets/images/species-reviews/feis-acerub_plant.jpg) Red maple with fall foliage. _Photo by Robert L. Anderson, USDA Forest Service, Bugwood.org_
+![a close up image of a tree's leaves. The three-pointed leaves are bright red, yellow, and green.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-acerub_plant.jpg) Red maple with fall foliage. _Photo by Robert L. Anderson, USDA Forest Service, Bugwood.org_
 
 Photo Credit: Photo by Robert L. Anderson, USDA Forest Service, Bugwood.org
 
@@ -105,7 +105,7 @@ southern Ontario| general veg. cts| Smith & others 1975
 
 ## Botanical Description 
  
-![a close up image of a tree's leaves. The three-pointed leaves are bright red, yellow, and green.]({{ site.baseurl }}/assets/images/species-reviews/feis-acerub_plant.jpg)
+![a close up image of a tree's leaves. The three-pointed leaves are bright red, yellow, and green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acerub_plant.jpg?itok=Ny1bs-5o)
 
 Photo Credit
 

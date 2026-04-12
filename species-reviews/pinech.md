@@ -58,7 +58,7 @@ Shortleaf pine has the widest geographic range of any pine in the southeastern U
 
 ## Site Characteristics
 
-[![A photo of four tall pine trees rising above a shrubby understory. The trees have open crowns with sparse branches, and the trunks are mostly bare.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinech_habitat.jpg)Photo Credit Photo by John Ruter, University of Georgia, Bugwood.org, CC BY-NC 3.0 US. Shortleaf pine.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A photo of four tall pine trees rising above a shrubby understory. The trees have open crowns with sparse branches, and the trunks are mostly bare.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinech_habitat.jpg?itok=84t3AccK)Photo Credit Photo by John Ruter, University of Georgia, Bugwood.org, CC BY-NC 3.0 US. Shortleaf pine.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 Shortleaf pine is common in the Atlantic and Gulf coastal plains, the upper and lower Piedmont, and on floodplains. It ranges in elevation from 10 to 3,000 feet (3-910 m), and usually grows on south- or west-facing slopes. Shortleaf pine commonly grows on old agricultural fields [24,42].
 
@@ -81,7 +81,7 @@ southeast US| gen. forest cts| Sheffield and others 1989
 
 ## Botanical Description 
  
-[![A close up photo of a pine tree's needles and cones. The cones are round, open, and greyish, and the needles are light green, short and paired. The tree's brownish grey, furrowed bark is in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinech_cones.jpg)Photo Credit Photo by Jimmy Triplett, iNaturalist.org, CC BY-NC 4.0. Shortleaf pine with open cones, Calhoun Co., AL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a pine tree's needles and cones. The cones are round, open, and greyish, and the needles are light green, short and paired. The tree's brownish grey, furrowed bark is in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinech_cones.jpg?itok=rr_5dScM)Photo Credit Photo by Jimmy Triplett, iNaturalist.org, CC BY-NC 4.0. Shortleaf pine with open cones, Calhoun Co., AL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Shortleaf pine is a medium-sized, native, evergreen conifer with relatively short needles and medium-thick, flaky, black bark that becomes reddish brown with age [43]. Shortleaf pine attains a height of 100 feet (30 m) and a d.b.h. of 24 to 36 inches (61-91 cm). Individuals generally grow straight and have conical crowns. Shortleaf pine is capable of growing a deep taproot and is resistant to windthrow [24].
 
@@ -127,7 +127,7 @@ Because of thick bark, basal injury is not common. In areas with frequent fire, 
 
 ## Fire Adaptations
 
-[![A photo of a blackened, burned pine tree with small green clusters of needles sprouting from the trunk and the base of branches. There are some bunches of pale green grass on the ground, and some other trees in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinech_postfire.jpg)Photo Credit Photo by Eric Keith, iNaturalist.org, CC BY-NC 4.0. Shortleaf pine sprouting two months postfire, Montgomery Co., TX.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a blackened, burned pine tree with small green clusters of needles sprouting from the trunk and the base of branches. There are some bunches of pale green grass on the ground, and some other trees in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinech_postfire.jpg?itok=ivbJSiJk)Photo Credit Photo by Eric Keith, iNaturalist.org, CC BY-NC 4.0. Shortleaf pine sprouting two months postfire, Montgomery Co., TX.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Shortleaf pine is classified as fire-resistant [4]. It is more tolerant than loblolly pine [45] and less tolerant than pitch pine [16]. It has a low susceptibility to crown fire because of its moderately high and open crown and moderately open stand structure. It is able to endure some fire defoliation [4] but is not able to survive severe fires [28]. Shortleaf pine has medium-thick bark which protects the tree and the dormant buds within the bole and at the base. Shortleaf pines up to about 30 years of age will sprout from dormant basal buds if the crown is top-killed [28,31]. Shortleaf pine regenerates well after fire since exposed mineral soil and lack of competition facilitate seedling establishment.
 

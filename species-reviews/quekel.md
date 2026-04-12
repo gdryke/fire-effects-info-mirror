@@ -36,7 +36,7 @@ Fryer, Janet L. 2007._Quercus kelloggii_ , California black oak. In: Fire Effect
 
 ## Taxonomy
 
-![Photo showing a branch of California black oak with acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quekel_hero1.jpg)
+![Photo showing a branch of California black oak with acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quekel_hero1.jpg?itok=lH1JHLl9)
 
 Photo Credit
 
@@ -178,7 +178,7 @@ Published classifications naming California black oak as a dominant or indicator
 
 ## Botanical Description
 
-![Photo of an open savanna with a few oak trees and an open understory of low-growing grasses, with hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/quekel_feis-QUEKEL_habitat.jpg)
+![Photo of an open savanna with a few oak trees and an open understory of low-growing grasses, with hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-QUEKEL_habitat.jpg?itok=ztrXqcvT)
 
 Photo Credit
 
@@ -194,7 +194,7 @@ California black oak is typically 30 to 80 feet (9-25 m) in height and 1 to 4.5 
 
 ### Aboveground Morphology
 
-![Photo of large California black oak showing trunk with furrowed bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-quekel_trunk.jpg)
+![Photo of large California black oak showing trunk with furrowed bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quekel_trunk.jpg?itok=XKEGrxts)
 
 Photo Credit
 
@@ -340,7 +340,7 @@ Regelbrugge and Conard [201] present a model for predicting mortality of Califor
 
 ## Postfire Regeneration Strategy
 
-![Photo showing bright green oak sprouts, about 2 to 3 feet tall, among a stand of charred trees and bare soil.]({{ site.baseurl }}/assets/images/species-reviews/quekel_feis-QUEKEL_sprouts.jpg)
+![Photo showing bright green oak sprouts, about 2 to 3 feet tall, among a stand of charred trees and bare soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-QUEKEL_sprouts.jpg?itok=rWZlNul1)
 
 Photo Credit
 
@@ -371,7 +371,7 @@ McDonald [148] reports that sprouting starts in the first postfire growing seaso
 
 Season of burning affects California black oak sprout density. Individual California black oak grew significantly more sprouts after early fall and early spring prescribed fires compared to late fall and late spring prescribed fires in ponderosa pine and mixed-conifer forests on the Blodgett Forest Research Station, the Challenge Experimental Forest, and the Plumas National Forest. See the FEIS Research Project Summary of Kauffman and Martin's [108,109,110,111] study for further information on response of California black oak and other plants to those fires.
 
-![Photo of an oak seedling with several large oak-shaped leaves emerging from bare, gravelly soil.]({{ site.baseurl }}/assets/images/species-reviews/quekel_feis-QUEKEL_seedling.jpg)
+![Photo of an oak seedling with several large oak-shaped leaves emerging from bare, gravelly soil.](https://research.fs.usda.gov/sites/default/files/2026-02/feis-QUEKEL_seedling.jpg)
 
 Photo Credit
 

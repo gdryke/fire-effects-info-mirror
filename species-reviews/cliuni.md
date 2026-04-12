@@ -38,7 +38,7 @@ Meyer, Rachelle S. 2005. _Clintonia uniflora_ , bride's bonnet. In: Fire Effects
 
  _Clintonia uniflora_ (Menzies ex J.A. & J.H. Schultes) Kunth (Liliaceae) is the scientific name of bride's bonnet [30,56,57,60,92].
 
-![A photo of a bright white flower with six petals and two wide green leaves growing from its base.]({{ site.baseurl }}/assets/images/species-reviews/feis-cliuni_flower.jpg)
+![A photo of a bright white flower with six petals and two wide green leaves growing from its base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cliuni_flower.jpg?itok=pPycWN03)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Bride's bonnet occurs on a wide variety of soil types and site productivity leve
 
 ## Plant Communities
 
-![A photo of seven bright white flowers, each growing from a relatively short stem with two wide leaves about as tall as the flowering stem growing from their bases.]({{ site.baseurl }}/assets/images/species-reviews/feis-cliuni_habitat.jpeg)
+![A photo of seven bright white flowers, each growing from a relatively short stem with two wide leaves about as tall as the flowering stem growing from their bases.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cliuni_habitat.jpeg?itok=Z3nohKHh)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Classifications that use bride's bonnet as an understory dominant, associate, or
 
 ## Botanical and Ecological Characteristics
 
-![A photo of a forb comprised of three long, wide basal leaves growing as a rosette and a single bright blue fruit on top of a short leafless stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-cliuni_plant.jpg)
+![A photo of a forb comprised of three long, wide basal leaves growing as a rosette and a single bright blue fruit on top of a short leafless stem.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-cliuni_plant.jpg)
 
 Photo Credit
 

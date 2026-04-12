@@ -157,7 +157,7 @@ Scotch broom and striated broom are 2 of 4 nonnative invasive broom species that
 
 The following descriptions of Scotch and striated broom provide summaries of the range of characteristics described in several reviews [4,17,34,59,97] and florae [47,54,55,100,104,124,153]. They provide characteristics that may be relevant to fire ecology, and are not meant for identification. Keys for identification are available for Scotch broom (e.g. [47,54,55,104]) and striated broom (e.g. [54]).
 
-![A photo of a large shrub covered in bright yellow flowers, on the edge of a trail in a sunny, open location at the edge of a forest.]({{ site.baseurl }}/assets/images/species-reviews/cytspp_feis-cytsco_plant_0.jpg)
+![A photo of a large shrub covered in bright yellow flowers, on the edge of a trail in a sunny, open location at the edge of a forest.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-cytsco_plant_0.jpg?itok=8tBos6uL)
 
 Photo Credit
 
@@ -167,7 +167,7 @@ Scotch broom, Marin County, California. [(CC BY-NC 4.0)](<https://creativecommon
 
 Scotch broom is a long-lived, erect, bushy shrub with stiff, slender branches. It grows 6 to 12 feet (2-4 m) tall. Stems are hairy when young and glabrous as they mature. On young branches leaves are usually 1-foliate and sessile, becoming 3-foliolate and petiolate to subsessile on older branches. Leaflets are 0.3 to 0.7 inch (5-20 mm) long and 1.5 to 8 mm wide. Scotch broom's inflorescences are axillary clusters or terminal racemes. Axillary clusters have 1 to 2 pea-like flowers per cluster. Flowers are15 to 25 mm long, and occur singly or in pairs in leaf axils on short pedicels less than 0.5 inch (12 mm) long; or in elongated, terminal, leafy racemes. The fruit is a flat dehiscent legume, 1 to 3 inches (2.5-7 cm) long and 8 to 13 mm wide long, with hairs along the seam. Seeds occur 3 to 12 per pod, and bear elaiosomes. No information is available on the size of Scotch broom's root system, other than it is "deep" with a forked taproot.
 
-![A photo of an open hillside covered in dry grass, with two shrubs next to each other. One is green, and one is covered in bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/cytspp_feis-cytstr_plant_0.jpeg)
+![A photo of an open hillside covered in dry grass, with two shrubs next to each other. One is green, and one is covered in bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-cytstr_plant_0.jpeg?itok=uf4ZMu_B)
 
 Photo Credit
 
@@ -236,7 +236,7 @@ Scotch broom flowers are perfect. Vivipary has not been reported [97]. Scotch br
 
 #### Pollination
 
-![A close-up photo of a shrub with bright yellow pea-type flowers.]({{ site.baseurl }}/assets/images/species-reviews/cytspp_cytsco_flower_0_0_0.jpeg)
+![A close-up photo of a shrub with bright yellow pea-type flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/cytsco_flower_0_0_0.jpeg?itok=t4GRKp5_)
 
 Photo Credit
 
@@ -290,7 +290,7 @@ A biennial cycle of relatively low and high pod density was observed in Scotch b
 
 ### Seed Dispersal
 
-![Two photos side by side of seed pods on similar-looking shrubs. The pea-like seed pods on the left are longer, purple, and slightly downy. The ones on the rights are covered in white hairs.]({{ site.baseurl }}/assets/images/species-reviews/feis-cytspp_seedpods.jpg)
+![Two photos side by side of seed pods on similar-looking shrubs. The pea-like seed pods on the left are longer, purple, and slightly downy. The ones on the rights are covered in white hairs.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-01/feis-cytspp_seedpods.jpg?itok=ESqi4iAx)
 
 Photo Credit
 
@@ -538,7 +538,7 @@ Use of fire to restore Oregon white oak woodlands in Washington may promote esta
 
 ### Fire as a Control Agent
 
-![A photo of a pile of green weeds burning in an open forest setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-cytspp_burning_broom.jpg)
+![A photo of a pile of green weeds burning in an open forest setting.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2026-01/feis-cytspp_burning_broom.jpg?itok=3tIk7Bxw)
 
 Prescribed fire has been used in programs to control brooms and common gorse in Australia and New Zealand (e.g. [36,110]) and in North America (e.g. [18]) for many years with varied results. The successful use of fire to control broom species depends on the condition of the invaded community and the fire regime to which those native species are adapted (see Plant Response to Fire). Although a single prescribed fire can substantially reduce Scotch broom cover, follow-up treatment is needed to treat seedlings that emerge from the soil seed bank after fire. Agee [1] recommends a 2nd, "less intense" fire 2 to 3 years later, before Scotch broom seedlings begin to flower. Spot treatment, such as using a flamethrower in the winter, can remove remaining Scotch broom seedlings [1]. Repeated prescribed fire has been used to control French broom and associated Scotch broom in many locations in California for several years. Prescribed fire has also been used extensively on Fort Lewis Military Reservation in the Puget Trough of Washington to remove invading woody species (including Scotch broom) and maintain native species in Oregon white oak woodlands and Idaho fescue prairies, with mixed success [23,134,137]. Fire is also used to control Scotch broom in Australia and New Zealand (e.g. [36]). There are no reports on the use of fire to control striated broom Prescribed fire is effective in reducing the broom seed bank through direct mortality and stimulation of germination, and can be used to treat dense monocultures. A flame thrower or propane torch can be used for spot treatment of individual plants [160].
 
@@ -636,7 +636,7 @@ Scotch broom has been used to stabilize sand dunes and to bind soil in road cutt
 
 ## Impacts
 
-![A photo of a rolling hillside covered in large, bushy shrubs completely covered in yellow flowers. Conifer trees are visible on the hills behind.]({{ site.baseurl }}/assets/images/species-reviews/cytspp_feis-cytsco_infestation.jpg)
+![A photo of a rolling hillside covered in large, bushy shrubs completely covered in yellow flowers. Conifer trees are visible on the hills behind.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-cytsco_infestation.jpg?itok=bgwPf-M5)
 
 Photo Credit
 

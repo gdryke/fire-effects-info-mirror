@@ -52,7 +52,7 @@ Climate models suggest that North American warm deserts may become warmer and dr
 
 ## Taxonomy
 
-![A photo of bright pink flowers growing at the end of twigs of an intricately-branched shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_moreflowers.jpg)
+![A photo of bright pink flowers growing at the end of twigs of an intricately-branched shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-krabic_moreflowers.jpg?itok=_93xC6zp)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ chacate, cosahui, crimson-beak, Gray’s ratany, white rhatany
 
 White ratany is native to the warm deserts of North America—the Mojave [96], Sonoran [12], and Chihuahuan [122]—and the transition zone between desert scrub and Arizona chaparral [131]. It occurs in the southwestern United States and much of Mexico, from southern California and southern Nevada east to Ellis County, Texas (fig. 2), and south to Michoacán, Mexico [51]. Southern populations in Zacatecas, Jalisco, Michoacán, Nayarit, and Hidalgo are apparently disjunct from populations occurring in Sonora, Sinaloa, Baja California, and the United States [125].
 
-![A map of the contiguous United States showing states and counties. Southern counties in California and Nevada, western and southern counties of Arizona, and western counties of Texas are highlighted green. New Mexico is highlighted a paler green in its entirety, indicating the plant is present there, but county data is lacking.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_distribution1.jpg)
+![A map of the contiguous United States showing states and counties. Southern counties in California and Nevada, western and southern counties of Arizona, and western counties of Texas are highlighted green. New Mexico is highlighted a paler green in its entirety, indicating the plant is present there, but county data is lacking.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-krabic_distribution1.jpg?itok=cdgRwTv6)
 
 Figure 2—Distribution of white ratany in the United States. White ratany also occurs in Mexico [51]. Map courtesy of the U.S. Department of Agriculture, Natural Resources Conservation Service [142] [2 December 2025].
 
@@ -180,7 +180,7 @@ White ratany is a thorny and intricately branched [146] perennial shrub. Individ
 
 Attractive flowers grow at the end of branchlets and are comprised of five showy sepals, three spatulate upper petals, and two fleshy glandular petals [12,144] (fig. 3). The two fleshy glandular petals secrete oils to attract pollinators [124]. Fruits are roughly spherical and covered in many prickles, each of which ends in a whorl of barbs [41,150] (fig. 4).
 
-![A close-up photo of a white ratany flower, with bright pinkish purple, reflexed sepals; three narrow, pink and yellow flag petals, and two fleshy, orange glandular petals, and protruding yellow reproductive parts.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_flowers.jpg)
+![A close-up photo of a white ratany flower, with bright pinkish purple, reflexed sepals; three narrow, pink and yellow flag petals, and two fleshy, orange glandular petals, and protruding yellow reproductive parts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-krabic_flowers.jpg?itok=BXtm-5r0)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ Public domain photo by Cecelia Alexander, iNaturalist.org.
 
 Figure 3—A white ratany flower with reflexed, showy purplish sepals, three spatulate upper petals, and two orange, fleshy glandular petals.
 
-![A close-up photo of white ratany fruits. The surface of each round fruit is covered with straight prickles, each of which is tipped with a whorl of tiny barbs.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_fruits.jpeg)
+![A close-up photo of white ratany fruits. The surface of each round fruit is covered with straight prickles, each of which is tipped with a whorl of tiny barbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-krabic_fruits.jpeg?itok=D2L0NRys)
 
 Photo Credit
 
@@ -234,7 +234,7 @@ White ratany reproduces by seed [125]. It can also regenerate after being top-ki
 
 ### Pollination and Breeding System
 
-![A photo of white ratany with many bright pink flowers, each occurring at the end of a twig. A fuzzy bee clings to one of the flowers with its front legs, while its black, fuzzy back legs are splayed below it.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_centris.jpeg)
+![A photo of white ratany with many bright pink flowers, each occurring at the end of a twig. A fuzzy bee clings to one of the flowers with its front legs, while its black, fuzzy back legs are splayed below it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-krabic_centris.jpeg?itok=TvZ_rhZq)
 
 Photo Credit
 
@@ -302,7 +302,7 @@ Information on effects of heating or burning on white ratany seeds was not avail
 
 Many desert plants are poorly adapted to survive fire or to reproduce after fire [28,153], which is one reason fire is thought to have been historically rare in the North American warm deserts [77,156]. Although white ratany is likely to burn due to its densely-branched growth form and short stature, it may resprout after top-kill or damage from fire (fig. 6) [79,114,154]. Postfire resprouting in desert species may have evolved as a response to climatic or physical stressors, such as drought or flash flooding, rather than to fire [153]. Resprouting can help desert species such as white ratany persist with increased fire occurrence [154], although it is unclear what frequency of fire it can tolerate. The degree to which white ratany resprouts may be influenced by environmental factors [118]. Rates of resprouting in white ratany are often low, and sprouting may occur more frequently in Sonoran Desert communities than in Mojave Desert communities (see Plant Response to Fire).
 
-![A photo of a burned desert scrub community, with a pale green-gray shrub growing from the base of a charred stump. A 6-inch ruler reaches about halfway up the new growth. Charred cacti are visible to either side of the resprouting shrub, and a different shrub with green leaves is visible partly behind one of the cacti.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_resprout_burned2.jpg)
+![A photo of a burned desert scrub community, with a pale green-gray shrub growing from the base of a charred stump. A 6-inch ruler reaches about halfway up the new growth. Charred cacti are visible to either side of the resprouting shrub, and a different shrub with green leaves is visible partly behind one of the cacti.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-03/feis-krabic_resprout_burned2.jpg?itok=CWl-Jmuy)
 
 Photo Credit
 
@@ -376,7 +376,7 @@ Six years after four fires in 2005 in Beaver Dam Wash, Utah, ratany density was 
 
 Aboveground parts of white ratany are often consumed by fire due to their receptive fuel structure: low-statured plants with compact crowns in close proximity to surface fuels and finely divided branching habits (fig. 7) [31]. Invasive annual grasses, particularly annual brome species, often grow at higher densities under shrubs in desert scrub communities, and white ratany may be associated with high densities of these highly flammable grasses. The closely related littleleaf ratany, which has a similar growth habit and shares much the same range as white ratany, supports moderate [25] or high [3] densities of nonnative annual red brome.
 
-![A photo of a dense, intricately branched shrub with thin, woody branches ending in numerous branching twigs. Green annual plants grow near the shrub's base and behind, although with a cactus and another, greener shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-krabic_fuelchars.jpg)
+![A photo of a dense, intricately branched shrub with thin, woody branches ending in numerous branching twigs. Green annual plants grow near the shrub's base and behind, although with a cactus and another, greener shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-krabic_fuelchars.jpg?itok=oDmpqhWy)
 
 Photo Credit
 

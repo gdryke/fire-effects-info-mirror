@@ -50,7 +50,7 @@ witch-hazel
 
 ## General Distribution
 
-![A map of the eastern U.S. and Mexico, with areas highlighted in green where American witchhazel occurs. Most of the eastern U.S. is highlighted, small amounts of southeastern Canada, and one spot in Mexico.]({{ site.baseurl }}/assets/images/species-reviews/feis-hamvir_map.jpg)
+![A map of the eastern U.S. and Mexico, with areas highlighted in green where American witchhazel occurs. Most of the eastern U.S. is highlighted, small amounts of southeastern Canada, and one spot in Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hamvir_map.jpg?itok=lRNHRwCi)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ American witchhazel is found on a variety of sites but is most abundant in mesic
 
 In addition to those species listed in Table A1, common tree and shrub associates of American witchhazel include white ash (Fraxinus americana), blackgum, mountain laurel (Kalmia latifolia), blueberry (Vaccinium spp.), rhododendron (Rhododendron spp.), pepperbush (Clethra acuminata), sweetgum, flowering dogwood (Cornus florida), and eastern hophornbeam (Ostrya virginiana) [6,7,20,30].
 
-![A photo of a multistemmed shrub or small tree with small leaves at the end of the branches growing near a lake, with larger trees closer to the lake and dead leaves on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-hamvir_habitat.jpg)
+![A photo of a multistemmed shrub or small tree with small leaves at the end of the branches growing near a lake, with larger trees closer to the lake and dead leaves on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hamvir_habitat.jpg?itok=5ydMvWwb)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ American witchhazel is a deciduous shrub or small tree with a short trunk, beari
 
 ## Seasonal Development
 
-![A close up photo of a branch with two yellowing leaves and yellow, thin-petaled flowers along the branch. The background is blurry green forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-hamvir_flowers.jpg)
+![A close up photo of a branch with two yellowing leaves and yellow, thin-petaled flowers along the branch. The background is blurry green forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hamvir_flowers.jpg?itok=nI2pKEs4)
 
 Photo Credit
 

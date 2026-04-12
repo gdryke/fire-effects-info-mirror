@@ -55,7 +55,7 @@ tussock sedge
 
 Upright sedge occurs from Newfoundland south to the Carolinas and Tennessee and from Manitoba south to eastern Oklahoma and Texas [12,14,19,20].
 
-![A map of the United States and Canada with most eastern states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-carstr_distribution.jpg)
+![A map of the United States and Canada with most eastern states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carstr_distribution.jpg?itok=UzqgFgza)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Distribution of upright sedge.
 
 Upright sedge is found in bogs, wet meadows, floodplains, swales, marshes, and wet woodlands. It is found in areas where the soil is at or just above the water level [5,12].
 
-[![A photo of two sedge tussocks growing in shallow water.]({{ site.baseurl }}/assets/images/species-reviews/feis-carstr_plant.jpg)Photo Credit Photo by Stan Rullman, iNaturalist (CC BY 4.0). Upright sedge growing in shallow water in Massachusetts.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of two sedge tussocks growing in shallow water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carstr_plant.jpg?itok=c9iP-seI)Photo Credit Photo by Stan Rullman, iNaturalist (CC BY 4.0). Upright sedge growing in shallow water in Massachusetts.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Plant Communities
 
@@ -86,7 +86,7 @@ Common associates of upright sedge include blueberries (_Vaccinium_ spp.), huckl
 
 Upright sedge is a rhizomatous sedge reaching a height of about 3 feet (1 m) [16]. The long narrow leaves are 0.25 inches (0.6 cm) wide and about 2.5 feet (75 cm) long [19]. The wirelike rhizomes are usually found in the top 6 inches (15 cm) of the soil and are variable in length [5]. The fruit is an achene [14].
 
-[![A photo of a reproductive stem of a sedge.]({{ site.baseurl }}/assets/images/species-reviews/feis-carstr_reproduction.jpg)Photo Credit Photo by C. Ben Schwamb, iNaturalist (CC BY 4.0). Reproductive upright sedge.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a reproductive stem of a sedge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carstr_reproduction.jpg?itok=6vtU38kG)Photo Credit Photo by C. Ben Schwamb, iNaturalist (CC BY 4.0). Reproductive upright sedge.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

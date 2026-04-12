@@ -69,7 +69,7 @@ Sugar pine is found on a variety of sites from moist, steep, north- and east-fac
 
 ## Plant Communities
 
-[![A photo of a very large, tall, straight pine tree growing in a forest opening. There is some low green vegetation around the tree, and a conifer forest behind it.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinlam_tree.jpg)Photo Credit Photo by Jared Manninen. iNaturalist.org, CC BY-NC 4.0. Sugar pine, El Dorado County, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a very large, tall, straight pine tree growing in a forest opening. There is some low green vegetation around the tree, and a conifer forest behind it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinlam_tree.jpg?itok=r-Zo9gB9)Photo Credit Photo by Jared Manninen. iNaturalist.org, CC BY-NC 4.0. Sugar pine, El Dorado County, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sugar pine usually occurs in mixed-conifer forest stands with a wide variety of overstory associates including ponderosa and Jeffrey pine (Pinus ponderosa and P. jeffreyi), California red fir (Abies magnifica), white fir (A. concolor), noble fir (A. procera), and Douglas-fir (Pseudotsuga menziesii) [4,21]. In southern California, sugar pine is characteristically found in vegetation types of the woodland and timberland chaparral zones. Canyon live oak (Quercus chrysolepis) is found with sugar pine on more mesic sites, while at higher elevations sugar pine occurs with mountain whitethorn (Ceanothus cordulatus), Parry manzanita (Arctostaphylos parryana var. pinctorum), and bush chinquapin (Chrysolepsis sempervirens) [14].
 
@@ -85,7 +85,7 @@ California| forest (cts)| Thorne 1976
 
 ## Botanical Description 
  
-[![A photo of a pine tree branch with short, bunched needles and very large, open cones hanging from the tip of the branch. The background is green forest and mountainside.]({{ site.baseurl }}/assets/images/species-reviews/pinlam_feis-PINLAM_cones.jpg)Photo Credit Photo by Grigory Heaton, iNaturalist.org, CC BY-NC 4.0. Open sugar pine cones, Angeles National Forest, California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a pine tree branch with short, bunched needles and very large, open cones hanging from the tip of the branch. The background is green forest and mountainside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PINLAM_cones.jpg?itok=tkJg2pBw)Photo Credit Photo by Grigory Heaton, iNaturalist.org, CC BY-NC 4.0. Open sugar pine cones, Angeles National Forest, California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sugar pines may live 400 to 500 years and are second only to giant sequoia (Sequoia gigantea) in total volume. A record sugar pine in California measured 216 feet (66 m) tall and 122 inches (310 cm) in d.b.h. Trees up to 250 feet (76 m) tall and 10 feet (3 m) in diameter have been reported. Mature sugar pine cones are among the largest of all conifers, averaging 12 inches (30 cm) in length, and can reach 22 inches (56 cm) long. Its needles are 3 inches (7.5 cm) long and have five to a cluster. Sugar pine’s pyramidal crown has whorls of horizontal branches with several conspicuously longer than others. Its sap contains a sugary substance [7,16,21].
 
@@ -141,7 +141,7 @@ A fall prescribed fire in the Tharp Creek Watershed of Sequoia National Park pro
 
 ## Fire Adaptations
 
-[![A close up photo of a pine tree's thick, reddish-brown, furrowed bark. There are evergreen shrubs and conifer trees behind the trunk.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinlam_bark.jpg)Photo Credit Photo by Erik Erbes, iNaturalist.org, CC BY-NC 4.0. Sugar pine bark, Deschutes National Forest, OR.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a pine tree's thick, reddish-brown, furrowed bark. There are evergreen shrubs and conifer trees behind the trunk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinlam_bark.jpg?itok=qp_8HuRi)Photo Credit Photo by Erik Erbes, iNaturalist.org, CC BY-NC 4.0. Sugar pine bark, Deschutes National Forest, OR.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sugar pine is very resistant to low- to moderate-severity fires. It has adapted a thick, fire-resistant bark and open canopy that retards aerial fire spread. Young sugar pine seedlings prefer bare mineral seedbeds [2,3].
 

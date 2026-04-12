@@ -54,7 +54,7 @@ bush-honeysuckle, dwarf bush-honeysuckle, herbe bleue
 
 Northern bush honeysuckle occurs from Newfoundland west to Saskatchewan; south to Nova Scotia, New England, Delaware; and in the mountains to Virginia, North Carolina, and Tennessee; and west to Ohio, Indiana, Illinois, and Iowa [13,15,36].
 
-![Photo of map distribution of northern bush honeysuckle.]({{ site.baseurl }}/assets/images/species-reviews/feis-dielon_map.png)
+![Photo of map distribution of northern bush honeysuckle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-dielon_map.png?itok=4-lF9HSs)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Northern bush honeysuckle is not named as an understory dominant or indicator in
 
 ## Botanical Description
 
-![Photo of northern bush honeysuckle.]({{ site.baseurl }}/assets/images/species-reviews/feis-dielon_plant.jpeg)
+![Photo of northern bush honeysuckle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-dielon_plant.jpeg?itok=mZwnRkJD)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Gucker, Corey L. 2007. _Poa bulbosa_ , bulbous bluegrass. In: Fire Effects Infor
 
 ## Taxonomy
 
-![A photo of bright green grass with upright stems growing in a patch amongst other grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-poabul_habitat.jpg)
+![A photo of bright green grass with upright stems growing in a patch amongst other grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-poabul_habitat.jpg?itok=jmaV8KHg)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Bulbous bluegrass was likely a contaminant in grass and/or clover seed imported 
 
 Bulbous bluegrass is primarily described in disturbed, dry to moist habitats throughout its range. Low- to mid-elevation pastures, abandoned fields, and roadsides near low elevation chaparral, oak, sagebrush, pinyon-juniper, mixed conifer, meadow, and streambank communities are typical bulbous bluegrass habitat [25,28,56,66,86]. Growth is considered best on sites with moderately fertile soils that experience cool, moist growing seasons [81].
 
-![A photo of dried grass with large reproductive heads growing with weedy forbs along a trail. A populated valley is visible in the distance with snow-capped peaks rising in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-poabul_hillside.jpg)
+![A photo of dried grass with large reproductive heads growing with weedy forbs along a trail. A populated valley is visible in the distance with snow-capped peaks rising in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-poabul_hillside.jpg?itok=TbQexP-f)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ Photo and caption information by Matt Lavin, iNaturalist.org, some rights reserv
 
 Bulbous bluegrass growing along the Sypes Canyon Trail in Gallatin County, Montana. At this site, bulbous bluegrass occurs only along roads and trails and does not invade adjacent vegetation unless it is disturbed ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![A photo of a stand of grass with somewhat bushy reproductive stalks growing along a road and powerline, with a few other weedy plants growing in adjacent bare ground. Tree lines the road behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-poabul_powerline.jpg)
+![A photo of a stand of grass with somewhat bushy reproductive stalks growing along a road and powerline, with a few other weedy plants growing in adjacent bare ground. Tree lines the road behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-poabul_powerline.jpg?itok=7AqMoKWL)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 ### Aboveground Description
 
-![A photo of the reproductive parts of a grass, with several spikelets.]({{ site.baseurl }}/assets/images/species-reviews/poabul_feis-bulbils.jpg)
+![A photo of the reproductive parts of a grass, with several spikelets.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-bulbils.jpg)
 
 Photo Credit
 

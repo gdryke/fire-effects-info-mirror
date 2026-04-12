@@ -34,7 +34,7 @@ Reeves, Sonja L. 2006. _Hieracium albiflorum,_ white hawkweed. In: Fire Effects 
 
 ## Introduction
 
-![Photo of white hawkweed blossoms.]({{ site.baseurl }}/assets/images/species-reviews/feis-hiealb_plant.jpg)
+![Photo of white hawkweed blossoms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-10/feis-hiealb_plant.jpg?itok=R-pf_aRi)
 
 Photo Credit
 
@@ -123,7 +123,7 @@ White hawkweed's principal means of reproduction is through recruitment of windb
 
 ### Pollination
 
-![Photo of white hawkweed seed head showing individual seed capsules.]({{ site.baseurl }}/assets/images/species-reviews/hiealb_feis-seedhead_hiealb.jpg)
+![Photo of white hawkweed seed head showing individual seed capsules.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-10/feis-seedhead_hiealb.jpg?itok=02CeyuYG)
 
 Photo Credit
 

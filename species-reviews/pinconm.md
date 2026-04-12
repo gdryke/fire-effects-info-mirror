@@ -68,7 +68,7 @@ Sierra lodgepole pine occurs in the Cascade Range of southern Washington, Oregon
 
 Sierra lodgepole pine grows in areas with cold, wet winters and dry, warm summers [38,53]. In the southern part of its range, Sierra lodgepole pine grows under xeric conditions [23,56]. Annual precipitation ranges from 30 to 60 inches (750-1,500 mm), mostly in the form of snow [48,52].
 
-![A photo of a tall, straight, pyramidal pine tree on the edge of a lake, surrounded by white rock. A few small shrubs grow around but the ground is mostly bedrock. There is a little snow on the rocks across the small lake.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconm_lake.jpg)
+![A photo of a tall, straight, pyramidal pine tree on the edge of a lake, surrounded by white rock. A few small shrubs grow around but the ground is mostly bedrock. There is a little snow on the rocks across the small lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinconm_lake.jpg?itok=4BCtD4xU)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Sierra lodgepole pine is listed as a dominant or indicator species in the follow
 
 ## Botanical Description
 
-![A close up photo of a pine tree's short, stiff, light yellow needles and a small, open brown cone attached to a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconm_cone.jpeg)
+![A close up photo of a pine tree's short, stiff, light yellow needles and a small, open brown cone attached to a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinconm_cone.jpeg?itok=YiScXWzS)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Sierra lodgepole pine is fire sensitive [2,48]. After stand-replacing fire, it t
 
 ## Plant Response to Fire
 
-![A photo of a burned forest in bright sun, with small pine trees growing among the dead trees. No canopy trees are alive, there are just grey and black snags. The young pines are the only green visible other than some grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconm_postfire.jpg)
+![A photo of a burned forest in bright sun, with small pine trees growing among the dead trees. No canopy trees are alive, there are just grey and black snags. The young pines are the only green visible other than some grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinconm_postfire.jpg?itok=grY6sdMv)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Gucker, Corey. 2012. _Rubus parviflorus_ , thimbleberry. In: Fire Effects Inform
 
 ## Taxonomy
 
-![A photo of a leafy shrub with white flowers scattered on its top.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpar_habitat.jpg)
+![A photo of a leafy shrub with white flowers scattered on its top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rubpar_habitat.jpg?itok=M4XL9-h6)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ western thimbleberry
 
 In North America, thimbleberry occupies a discontinuous range. It is a widespread native throughout most of western North America, with disjunct populations to the east in the Black Hills of South Dakota and even farther east in the Great Lakes region [209,232]. Thimbleberry populations are large and widely distributed in western Canada and small and narrowly distributed in eastern Canada [17]. Thimbleberry ranges from Alaska to northern Mexico along the Pacific Coast and is particularly common in the understory of humid Pacific Northwest forests (review [199]).
 
-![A map of U.S. states and Canadian provinces, with many western states and provinces highlighted green and several northern midwest states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpar_map.png)
+![A map of U.S. states and Canadian provinces, with many western states and provinces highlighted green and several northern midwest states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rubpar_map.png?itok=Jh9ksPvB)
 
 Photo Credit
 
@@ -193,7 +193,7 @@ Yellow birch woodland with sugar maple and white spruce| n MI and ON| At 630-780
  
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [75,100,107,239]).
 
-![A photo of the upper portion of leafy stems, with large, star-shaped leaves and a cluster of a few white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpar_flowersleaves.jpg)
+![A photo of the upper portion of leafy stems, with large, star-shaped leaves and a cluster of a few white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rubpar_flowersleaves.jpg?itok=dNlO207T)
 
 Photo Credit
 
@@ -222,7 +222,7 @@ Thimbleberry reproduces sexually by seed [123,148] and asexually from rhizomes a
 
 Thimbleberry flowers are perfect [209,239] but self-incompatible ([122],Williams and Darrow 1940 cited in [71]). Flowers produced by species within the Rubus genus produce large quantities of nectar to attract pollinators [248].
 
-![A photo of a red fruit comprised of many seeds and a fleshy, raspberry-like texture and appearance.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpar_fruit.jpg)
+![A photo of a red fruit comprised of many seeds and a fleshy, raspberry-like texture and appearance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rubpar_fruit.jpg?itok=sYX_Ytb5)
 
 Photo Credit
 

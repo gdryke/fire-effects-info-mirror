@@ -80,7 +80,7 @@ In mountain shrublands of Utah and Colorado, bitterroot is associated with Gambe
 
 ## Botanical and Ecological Characteristics
 
-![Photo of flowering bitterroot]({{ site.baseurl }}/assets/images/species-reviews/feis-lewred.png)
+![Photo of flowering bitterroot](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-lewred.png?itok=XXZ2VdkL)
 
 Photo Credit
 

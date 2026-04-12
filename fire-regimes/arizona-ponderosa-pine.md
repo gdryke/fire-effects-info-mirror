@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for ponderosa pine communities in Arizona and w
 
 ## Distribution
 
-![A map showing the distribution of Arizona ponderosa pine communities in the southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/arizona-ponderosa-pine_feis-arizona_ponderosa_pine_locator.jpg)
+![A map showing the distribution of Arizona ponderosa pine communities in the southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-arizona_ponderosa_pine_locator.jpg?itok=_rT9T7SN)
 
 Photo Credit
 

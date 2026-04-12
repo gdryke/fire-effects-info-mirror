@@ -52,7 +52,7 @@ mountain oatgrass, slender oatgrass
 
 Flattened oatgrass occurs in the eastern United States and southeastern Canada. It occurs from extreme southeastern Ontario east through southern Quebec to Nova Scotia and south through New England and the Appalachian Mountain region to northern Georgia. In the southeastern United States, flattened oatgrass is restricted to the Appalachian Mountains [10,12,20]. It also occurs in Alaska.
 
-![A map of the northwestern U.S and Canada with Alaska highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-dancom_distributionwest.jpg)
+![A map of the northwestern U.S and Canada with Alaska highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-dancom_distributionwest.jpg?itok=E9lpsfM8)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Western distribution of flattened oatgrass.
 
-![A map of the eastern United States and Canada with many eastern states and several provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-dancom_distributioneast.jpg)
+![A map of the eastern United States and Canada with many eastern states and several provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-dancom_distributioneast.jpg?itok=FWAUE3bV)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ In the southern Appalachians, flattened oatgrass is a frequent species on grassy
 
 Flattened oatgrass occurs in forest openings, open woods, and mountain meadows.
 
-![Grasses growing in front of an old two-track road, with dense trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-dancom_habitat.jpeg)
+![Grasses growing in front of an old two-track road, with dense trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-dancom_habitat.jpeg?itok=E2MlGF13)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Flattened oatgrass is listed as a dominant species in the following publication:
 
 Flattened oatgrass is a native, perennial bunchgrass. The culms are slender, compressed, sometimes decumbent, and 12 to 32 inches (30-80 cm) tall. The leaves are mostly at or near the base and up to 8 to 10 inches (20-25 cm) long. The inflorescence is a panicle; slender branches bear two or three spikelets. The awn is bent and 0.2 to 0.3 inches (0.6-0.8 cm) long [4,10,12,20].
 
-[![A close-up of a grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-dancom_plant.jpeg)Photo Credit Photo by Eric M Powell, iNaturalist (CC BY-NC 4.0). Flattened oatgrass panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up of a grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-dancom_plant.jpeg?itok=whxQ555r)Photo Credit Photo by Eric M Powell, iNaturalist (CC BY-NC 4.0). Flattened oatgrass panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

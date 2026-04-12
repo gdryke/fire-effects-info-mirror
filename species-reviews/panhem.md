@@ -60,7 +60,7 @@ Maidencane occurs on the coastal plain from New Jersey south through Florida and
 
 Maidencane occurs in freshwater marshes [28], swamps [12], ponds [14], on wet shores [12], along riverbanks [6,20], ditches [28], drainage canals [15], and on wet disturbed sites [52].
 
-[![A shallowly flooded area with grasses growing in bunches. Trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-panhem_habitat.jpg)Photo Credit Photo by Graves Lovell, Alabama Department of Conservation and Natural Resources, Bugwood.org (CC BY-NC 3.0). Maidencane growing in Alabama.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A shallowly flooded area with grasses growing in bunches. Trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-panhem_habitat.jpg?itok=qSR9Zo8y)Photo Credit Photo by Graves Lovell, Alabama Department of Conservation and Natural Resources, Bugwood.org (CC BY-NC 3.0). Maidencane growing in Alabama.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 Maidencane is strictly a freshwater species [22,34]. It does not occur in marshlands that have even slightly brackish water [28,36]. It can occur as an emergent in water or as a terrestrial plant in moist areas [45,48]; it generally attains its greatest density on the drier sites [29].
 
@@ -90,7 +90,7 @@ Maidencane in southeastern Louisiana freshwater marshes can occur as a codominan
 
 Maidencane is a native, warm-season, rhizomatous, perennial grass [28]. Culms are stout, 1.6 to 6 feet (0.5-1.8 m) tall [20,28], and erect or sprawling [39]; culms often produce roots at lower submersed nodes [12,14]. Culms can be fertile or sterile [6]. Leaf blades are 8 to 12 inches (20-30 cm) long and 0.5 inches (1.3 cm) wide [28]. The inflorescence is a slender, compact panicle 2.4 to 12 inches (6-30 cm) long [14,20] with ascending branches [39]. The fruit is a caryopsis [17]. The extensive creeping rhizomes are elongated [15,28]; they often produce numerous sterile shoots with overlapping sheaths [20]. The canelike air-filled roots [43] form a compact mass 15 to 18 inches (38-46 cm) in thickness [34].
 
-[![Bright green grasses in front of olive-colored trees]({{ site.baseurl }}/assets/images/species-reviews/feis-panhem_plants.jpeg)Photo Credit Photo by Athena Philiips, iNaturalist (CC BY 4.0). Maidencane growing in Citrus County, Florida.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Bright green grasses in front of olive-colored trees](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-panhem_plants.jpeg?itok=h7IJud_v)Photo Credit Photo by Athena Philiips, iNaturalist (CC BY 4.0). Maidencane growing in Citrus County, Florida.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

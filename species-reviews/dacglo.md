@@ -82,7 +82,7 @@ Orchardgrass is listed as a dominant or codominant understory plant in the follo
 
 Orchardgrass is a cool-season, perennial bunchgrass, 1.4 to 4 feet (0.5-1.2 m ) tall with erect, glabrous culms and blades 4 to 16 inches (10-40 cm) long and 0.1 to 0.5 inch (0.2-1.1 cm) wide. The inflorescence is a panicle with two to six florets per spikelet, with the spikelets tightly clustered on one side of the branch. Orchardgrass is nonrhizomatous [21]. Most root development is in the upper 3 inches (8 cm) of soil but extends to at least 18 inches (46 cm) below the surface [23], producing a dense sod of medium-sized roots [26].
 
-![Green reproductive spikes of a grass. Grass stems and leaves dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/dacglo_dacglo_plant.jpg)
+![Green reproductive spikes of a grass. Grass stems and leaves dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/dacglo_plant.jpg?itok=-Jq8CZtC)
 
 Photo Credit
 
@@ -218,7 +218,7 @@ Some cultivars are more drought resistant than others [54,55]. The following lis
 
 Orchardgrass is a widely planted pasture grass [1,21,25,62] and is used to increase forage production on rangelands [48]. It is frequently part of mixtures that are seeded in mountain brush (especially Gambel oak (_Quercus gambelii_) types to improve rangeland. These mixtures are drilled or broadcast seeded after some type of surface preparation--usually removal of brush by burning or chaining, or by herbicide application [6,38]. Orchardgrass is used to stabilize ski slopes in Montana and to suppress annual weeds [5,39,40,41].
 
-![A grass growing next to a wire fence with wooden posts.]({{ site.baseurl }}/assets/images/species-reviews/dacglo_dacglo_habit.jpg)
+![A grass growing next to a wire fence with wooden posts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/dacglo_habit.jpg?itok=MTNhEmNw)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Van Deelen, Timothy R. 1991. _Kalmia angustifolia,_ sheep laurel. In: Fire Effec
 
 ## Introduction
 
-![Photo of sheep laurel in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-kalang_plant.jpg)
+![Photo of sheep laurel in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-kalang_plant.jpg?itok=ckZWXtb2)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ lambkill, sheepkill, calfkill, dwarf-laurel, wicky
 
 ## General Distribution
 
-![Photo of map distribution of sheep laurel.]({{ site.baseurl }}/assets/images/species-reviews/feis-kalang_map.png)
+![Photo of map distribution of sheep laurel.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-kalang_map.png?itok=l_v8RGZ_)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Published classification schemes listing sheep laurel as a dominant or codominan
 
 ## Botanical Description
 
-![Photo of sheep laurel in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-kalang_flowers.jpg)
+![Photo of sheep laurel in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-kalang_flowers.jpg?itok=ksJwO-WZ)
 
 Photo Credit
 

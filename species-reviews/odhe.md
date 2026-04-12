@@ -55,7 +55,7 @@ Black-tailed deer group:
  * _Odocoileus hemionus_ subsp. _columbianus_ (Richardson), Columbian black-tailed deer [121,215,363]
  * _Odocoileus hemionus_ subsp. _sitkensis_ Merriam, Sitka black-tailed deer [121,215,363]
 
-![Group of mule deer.]({{ site.baseurl }}/assets/images/species-reviews/feis-odhe_group.jpg)
+![Group of mule deer.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odhe_group.jpg?itok=q37KaOvE)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ black-tailed deer
 
 ## General Distribution
 
-![Mule deer habitat in the western United States. Blue indicates areas that are occassionally inhabitats and/or contain small populations of mule deer. Dark green indicates year-round populations. Light green indicates summer range. Purple indicates winter range. Yellow indicates other important habitats. Red indicates winter concentrations.]({{ site.baseurl }}/assets/images/species-reviews/feis-odhe_map.png)
+![Mule deer habitat in the western United States. Blue indicates areas that are occassionally inhabitats and/or contain small populations of mule deer. Dark green indicates year-round populations. Light green indicates summer range. Purple indicates winter range. Yellow indicates other important habitats. Red indicates winter concentrations.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odhe_map.png?itok=wGYLwC53)
 
 Photo Credit
 
@@ -310,7 +310,7 @@ Mule deer require water and forage—particularly grasses, forbs, and shrubs—t
 
 Slope, aspect, and elevation influence mule deer habitat use, particularly through effects on snow depth [135] and ambient temperature [327]. In general, high elevations tend to have more snow than low elevations, and south- and west-facing slopes tend to have less snow than other aspects due to solar radiation. Steep south-facing slopes are probably useable longer in fall, winter, and spring than shallow south-facing slopes or any north-facing slope. Shading, wind direction, and other topographical features are also important [66,135].
 
-![Mule deer herd on a snowy slope. ]({{ site.baseurl }}/assets/images/species-reviews/feis-odhe_winter.jpg)
+![Mule deer herd on a snowy slope. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odhe_winter.jpg?itok=KBtWBkVf)
 
 Photo Credit
 
@@ -368,7 +368,7 @@ Mule deer may avoid areas with abundant coarse woody debris. See Logging slash a
 
 #### Water
 
-![Mule deer buck at water.]({{ site.baseurl }}/assets/images/species-reviews/feis-odhe_individual.jpg)
+![Mule deer buck at water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odhe_individual.jpg?itok=4CLY2dJh)
 
 Photo Credit
 
@@ -421,7 +421,7 @@ Fire in grasslands may increase palatability and accessibility of some grasses. 
 
 ##### **Pacific Northwest Forests**
 
-![Mule deer harvested per hunter during the 13 years following a large wildfire on Vancouver Island]({{ site.baseurl }}/assets/images/species-reviews/feis-odhe_figure5.jpg)
+![Mule deer harvested per hunter during the 13 years following a large wildfire on Vancouver Island](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odhe_figure5.jpg?itok=cLDAn7iC)
 
 Figure 5. Mule deer harvested per hunter during the 13 years following a large wildfire on Vancouver Island. No data were collected during postfire year 8 [27].
 

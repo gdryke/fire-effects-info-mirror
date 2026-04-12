@@ -53,7 +53,7 @@ hurrahbush, staggerbush
 
 Fetterbush lyonia grows along the United States' southeastern Coastal Plain from southeastern Virginia, throughout south-central peninsular Florida, west to Louisiana. It also grows in Cuba [9,14].
 
-![Photo of map distribution of fetterbush lyonia in the United States. ]({{ site.baseurl }}/assets/images/species-reviews/feis-lyoluc_map.png)
+![Photo of map distribution of fetterbush lyonia in the United States. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lyoluc_map.png?itok=zijpGLrT)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Overstory associates include Atlantic white cedar (_Chamaecyparis thyoides_), va
 
 ## Botanical Description
 
-![Photo of fetterbush lyonia in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyoluc_plant.jpg)
+![Photo of fetterbush lyonia in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lyoluc_plant.jpg?itok=iByoOzek)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ No entry.
 
 ## Importance to Wildlife and Livestock
 
-![Photo of a cluster of multi-branched shrubs with green, oval-shaped leaves, and many branches bearing multiple white, bell-shaped flowers.]({{ site.baseurl }}/assets/images/species-reviews/lyoluc_feis-LYOLUC_plant1.jpg)
+![Photo of a cluster of multi-branched shrubs with green, oval-shaped leaves, and many branches bearing multiple white, bell-shaped flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-LYOLUC_plant1.jpg?itok=aIGFfn95)
 
 Photo Credit
 

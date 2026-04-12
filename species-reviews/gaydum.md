@@ -34,7 +34,7 @@ Coladonato, Milo 1992. _Gaylussacia dumosa_ , dwarf huckleberry In: Fire Effects
 
 ## Image Gallery
 
-![Photo of dwarf huckleberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-gaydum_plant.jpeg) Dwarf huckleberry. _Photo by Justin, iNaturalist.org, no rights reserved._
+![Photo of dwarf huckleberry in bloom.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-gaydum_plant.jpeg) Dwarf huckleberry. _Photo by Justin, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Justin, iNaturalist.org, no rights reserved.
 

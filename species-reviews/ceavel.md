@@ -68,7 +68,7 @@ _Ceanothus velutinus_ var. _hookeri_ grows on the west side of the Cascade Range
 
 Thickets of snowbrush ceanothus often occupy open rocky hillsides and partially shaded forests [37]. Plants are often found on moderately dry to moderately moist mountain slopes [70,130,132,136,154,197,209,240] and on steep canyon slopes [284]. Though found on all aspects [198,207,217,240,300], snowbrush ceanothus may be more likely to occur on south aspects [132,136,154,199,266], followed by west [132,136,154] and east slopes [207,217]. In the western redcedar-western hemlock zone of northern Idaho, frequency and percent cover of snowbrush ceanothus were significantly greater (p<0.01) on south aspects than on north aspects [198]. Though snowbrush ceanothus occurs on moist as well as relatively dry sites, it is more likely to dominate the vegetation on mesic sites [135,144,238].
 
-![A photo of a somewhat compact shrub with rounded, medium-sized leaves and clusters of white flowers. A rocky, grassy slope is just behind and a peak with patchy snow is in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceavel_habitat.jpg)
+![A photo of a somewhat compact shrub with rounded, medium-sized leaves and clusters of white flowers. A rocky, grassy slope is just behind and a peak with patchy snow is in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ceavel_habitat.jpg?itok=3vbXE7fF)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Snowbrush ceanothus is a native [37,38] evergreen [70,72,127,129,197,284,285] sh
 
 The leaves are alternate [70,285], 1 to 3 inches long [37,70,127,129,197,284,285], and 0.5 to 2 inches (1.5-5 cm) wide [70,82]. The inflorescence of snowbrush ceanothus is less than 5 inches (12 cm) long [70,127], and branched with many flowers [70,154,197]. The inflorescence is borne on axillary and terminal peduncles [70]. Fruit is shallowly 3-lobed [37,70,109,127,197,285], 0.12 to 0.16 inch (3-4 mm) thick [70,127,285], 0.27 inch (6 mm) across [197], and sticky [70,127]. Each lobe contains a single seed [197]. Seeds are about 0.1 inch (2.8 mm) long, 0.1 inch (2.3 mm) wide, and 0.08 inch (2.0 mm) thick [109].
 
-![A photo of of a shrub with dense clusters of small white flowers and green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceavel_flowers.jpg)
+![A photo of of a shrub with dense clusters of small white flowers and green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ceavel_flowers.jpg?itok=nQazc5RQ)
 
 Photo Credit
 
@@ -249,7 +249,7 @@ Early seral shrub layers dominated by snowbrush ceanothus form in grand fir/big 
 
 Snowbrush ceanothus establishes from seed [63,85,109,288] and sprouts from the root crown [40,41,59,65,66,81,90,163,213,217,240,256,295] after fire. Postfire recovery of snowbrush ceanothus can be expected within 2 to 5 years in the Intermountain region [295]. Snowbrush ceanothus usually increases following fire, often dramatically [40,41,65,75,90,140,295]. Snowbrush ceanothus seedlings often appear on sites following fire where it was previously uncommon or not present [75,164,165,167,194,217,223,251,256,269,293]. Following a severe fire in Douglas-fir in Oregon, snowbrush ceanothus seedlings were found on lightly and severely burned areas, but they were absent on adjacent, unburned areas [85]. Following fall prescribed burning in a quaking aspen stand in Idaho, biomass of snowbrush ceanothus increased substantially by sprouting [43].
 
-![A photo of charred ground with green sprouts of several graminoids, forbs, and shrubs. In the center of the photo, a bright green shrub resprouts from an incompletely burned base.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceavel_sprouts.jpg)
+![A photo of charred ground with green sprouts of several graminoids, forbs, and shrubs. In the center of the photo, a bright green shrub resprouts from an incompletely burned base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ceavel_sprouts.jpg?itok=sjPGTdp6)
 
 Photo Credit
 

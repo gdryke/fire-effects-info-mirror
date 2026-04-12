@@ -34,7 +34,7 @@ League, Kevin R. 2005. _Kalmia latifolia_ , mountain laurel. In: Fire Effects In
 
 ## Image Gallery
 
-![Photo of blooming mountain laurel in shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-kallat_plant.jpeg) Mountain laurel _Photo by Matt Schultz, iNaturalist.org, no rights reserved._
+![Photo of blooming mountain laurel in shade.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-kallat_plant.jpeg) Mountain laurel _Photo by Matt Schultz, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Matt Schultz, iNaturalist.org, no rights reserved.
 
@@ -128,7 +128,7 @@ Classifications describing plant communities in which mountain laurel is a domin
 
 ## Botanical and Ecological Characteristics
 
-![Photo of blooming mountain laurel in shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-kallat_plant.jpeg)
+![Photo of blooming mountain laurel in shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-kallat_plant.jpeg?itok=iQcM7iRb)
 
 Photo Credit
 

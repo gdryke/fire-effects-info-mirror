@@ -36,7 +36,7 @@ Scher, Janette S. 2002. _Juniperus scopulorum_ , Rocky Mountain juniper. In: Fir
 
 ## Taxonomy
 
-![A photo of a somewhat cone-shaped conifer with a rounded crown growing with an annual grass understory and dry cliffs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-junsco_plant.jpg)
+![A photo of a somewhat cone-shaped conifer with a rounded crown growing with an annual grass understory and dry cliffs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junsco_plant.jpg?itok=_YUnZEUk)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Distribution of Rocky Mountain juniper can also be accessed at The Plants Databa
 
 ### Topography
 
-![A photo of plant community on dry hills, with cliffs above. The foreground is a gentle slope with grasses and sagebrush plants growing with somewhat conical, bushy trees with rounded grows. The steeper hillslope has a moderate scattering of the same type of tree and a different type of shrub, with more bare ground than the lower areas.]({{ site.baseurl }}/assets/images/species-reviews/feis-junsco_habitat.jpg)
+![A photo of plant community on dry hills, with cliffs above. The foreground is a gentle slope with grasses and sagebrush plants growing with somewhat conical, bushy trees with rounded grows. The steeper hillslope has a moderate scattering of the same type of tree and a different type of shrub, with more bare ground than the lower areas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junsco_habitat.jpg?itok=s_evxeH6)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ Classifications describing plant communities in which Rocky Mountain juniper is 
 
 ## Botanical Description
 
-![A photo of a somewhat pyramidal tree growing on a grassy slope in low mountains. The grassy slope extends into the distance, with scattered patches of conifers and rocky outcrops.]({{ site.baseurl }}/assets/images/species-reviews/feis-junsco_tree.jpg)
+![A photo of a somewhat pyramidal tree growing on a grassy slope in low mountains. The grassy slope extends into the distance, with scattered patches of conifers and rocky outcrops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junsco_tree.jpg?itok=nazL5hZ1)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ Rocky Mountain juniper's morphological traits vary widely depending on climate, 
 
 ## Seasonal Development
 
-![A photo of scaly juniper foliage with blue cones growing amongst the leaves. The cones look berry-like.]({{ site.baseurl }}/assets/images/species-reviews/feis-junsco_cones.jpg)
+![A photo of scaly juniper foliage with blue cones growing amongst the leaves. The cones look berry-like.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junsco_cones.jpg?itok=GYU-jPpk)
 
 Photo Credit
 

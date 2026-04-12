@@ -77,7 +77,7 @@ In several parts of its US range there are reports of increases and spread in se
 
 ## Site Characteristics
 
-![A photo of a roadside leading into forest. A plant with tall upright green stems is growing densely along the road and below the trees further from the road.]({{ site.baseurl }}/assets/images/species-reviews/feis-lescun_roadside.jpg)
+![A photo of a roadside leading into forest. A plant with tall upright green stems is growing densely along the road and below the trees further from the road.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lescun_roadside.jpg?itok=z7lrcev1)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Tennessee| cedar glade edges| cedar glades are openings within eastern deciduous
  
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Sericea lespedeza may be confused with desirable native legumes, including several native lespedeza species. Slender lespedeza may be the easiest to confuse with sericea lespedeza [32,84,125]. Information useful in distinguishing the 2 species is provided online by the Kansas State Agricultural Experiment Station and Cooperative Extension Service and the Oklahoma State Cooperative Extension Service. The Missouri Department of Conservation provides information useful in distinguishing sericea lespedeza from roundhead lespedeza and hairy lespedeza (_L. hirta_). Keys for identification are available (e.g., [6,39,58,63,129,156,159,171,175,179]). Sericea lespedeza photos and descriptions are also available from the Multi-State Sericea Lespedeza Work Group website.
 
-![A photo of an upright plant with long stems covered in small round leaves and white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-lescun_flowers.jpeg)
+![A photo of an upright plant with long stems covered in small round leaves and white flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-lescun_flowers.jpeg?itok=EbV4Xiof)
 
 Photo Credit
 
@@ -245,7 +245,7 @@ Sericea lespedeza produced significantly more vegetative buds/ramet (_P_ <0.025)
 
 Predicting interactions between sericea lespedeza invasion and succession is hindered by a lack of information about which communities are most susceptible to invasion. Available literature suggests that sericea lespedeza often occurs in grasslands, pastures, old fields, or prairies that lack shrub or tree cover but is also found in open woodlands, savannas, or thickets. For more detailed information about invaded plant communities, see Plant Communities.
 
-![A photo of a shady forest with an upright leafy plant growing in the relatively open understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-lescun_forest.jpg)
+![A photo of a shady forest with an upright leafy plant growing in the relatively open understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lescun_forest.jpg?itok=ySYD1M9w)
 
 Photo Credit
 

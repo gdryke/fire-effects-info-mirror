@@ -48,7 +48,7 @@ swampbay, swamp laurel, sweetbay magnolia
 
 ## Distribution
 
-![Photo of sweetbay showing immature seed heads on branch tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-magvir_tree.jpg)
+![Photo of sweetbay showing immature seed heads on branch tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-magvir_tree.jpg?itok=nveplA_o)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Sweetbay is recognized as a dominant or important species in the following habit
 
 ## Botanical and Ecological Characteristics
 
-![Photo of sweetbay flower showing white petals and yellow stamens in the center. ]({{ site.baseurl }}/assets/images/species-reviews/feis-magvir_flower.jpeg)
+![Photo of sweetbay flower showing white petals and yellow stamens in the center. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-magvir_flower.jpeg?itok=RAOvPdCo)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Sweetbay leaves and flower ([CC BY 4.0](<https://creativecommons.org/licenses/by
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [38,42,104,112]).
 
-![Photo of the inside of a sweetbay flower showing the pistol and spent stamens.]({{ site.baseurl }}/assets/images/species-reviews/feis-magvir_flowerparts.jpeg)
+![Photo of the inside of a sweetbay flower showing the pistol and spent stamens.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-magvir_flowerparts.jpeg?itok=LIVMg7vv)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Sweetbay reproduces sexually through seed production and seedling establishment 
 
 Sweetbay produces perfect flowers [42]. No additional information on pollination or breeding system was available in the literature (2008).
 
-![Photo showing red seeds of sweetbay.]({{ site.baseurl }}/assets/images/species-reviews/feis-magvir_seeds1.jpg)
+![Photo showing red seeds of sweetbay.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-magvir_seeds1.jpg?itok=tBCTTipt)
 
 Photo Credit
 
@@ -267,7 +267,7 @@ Often the lack of fire in pine forests and flatwoods, cypress swamps, and Atlant
 
 The rate and path of secondary succession in potential sweetbay habitats is dependent on the predisturbance environment, the severity and/or frequency of the disturbance, as well as the postdisturbance environment. After studying succession in north-central Florida, Monk [89] indicated that "soil fertility seems more important in the direction of succession to different portions of the climax communities than as a limiting factor maintaining communities in a successional stage". In North Carolina, fire and hydroperiod were important in pocosin and bay forest development and maintenance. Mature vegetation developed rapidly on dry sites and more slowly on the wettest sites. The relationship among potential vegetation types, with hydrology and fire frequency in North Carolina's Green Swamp are illustrated below [18]:
 
-![Photo of graph illustrating the relationship between potential vegetation types along with fire frequency and hydrology in North Carolina's Green Swamp.]({{ site.baseurl }}/assets/images/species-reviews/feis-magvir_graph.jpg)
+![Photo of graph illustrating the relationship between potential vegetation types along with fire frequency and hydrology in North Carolina's Green Swamp.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-magvir_graph.jpg?itok=OUAJDLqL)
 
 Potential vegetation types of North Carolina's Green Swamp depending on fire frequency and hydroperiod [18].
 

@@ -36,7 +36,7 @@ McWilliams, Jack 2004. _Sonchus arvensis_ , field sowthistle. In: Fire Effects I
 
 ## Taxonomy
 
-![Photo of a field with a variety of green plants, the small clump in the center has long, narrow leaves with deep serrations concentrated near the base and becoming smaller and more sparse near the tops of the stems. The top of the stems branch into several yellow flowers and flower buds.]({{ site.baseurl }}/assets/images/species-reviews/sonarv_feis-SONARV_plants.jpg)
+![Photo of a field with a variety of green plants, the small clump in the center has long, narrow leaves with deep serrations concentrated near the base and becoming smaller and more sparse near the tops of the stems. The top of the stems branch into several yellow flowers and flower buds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SONARV_plants.jpg?itok=R7eeub0W)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Redmann [98] described plant communities along a soil salinity-moisture gradient
 
 ## Botanical Description
 
-![Photo of a hand holding the branched top of a green plant stem, with a yellow flower or unopened flowerbud at the end of each branch.]({{ site.baseurl }}/assets/images/species-reviews/sonarv_feis-SONARV_flowers.jpg)
+![Photo of a hand holding the branched top of a green plant stem, with a yellow flower or unopened flowerbud at the end of each branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SONARV_flowers.jpg?itok=dhXG31PS)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Flowering stems begin to develop when plants have 12 to 15 leaves [50,110]. Flow
 
 ## Regeneration Processes
 
-![Photo of the flowering top a green plant with long, narrow, deeply serrated leaves growing among other green plants. The flowers have mostly closed and gone to seed, which appear as fluffy, white, spherical bundles.]({{ site.baseurl }}/assets/images/species-reviews/sonarv_feis-SONARV_seeds.jpg)
+![Photo of the flowering top a green plant with long, narrow, deeply serrated leaves growing among other green plants. The flowers have mostly closed and gone to seed, which appear as fluffy, white, spherical bundles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SONARV_seeds.jpg?itok=h29Ou2DH)
 
 Photo Credit
 

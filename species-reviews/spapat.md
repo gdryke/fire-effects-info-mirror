@@ -38,7 +38,7 @@ The Research Project Summary titled "Vegetative response to fire exclusion and p
 
 ## Image Gallery
 
-![Several spikes of reproductive parts growing from a single grass stem, with more grass out of focus in the background.]({{ site.baseurl }}/assets/images/species-reviews/spapat_spapat_plant.jpeg) Saltmeadow cordgrass plant. _Public domain iNaturalist photo by Alan Weakley._
+![Several spikes of reproductive parts growing from a single grass stem, with more grass out of focus in the background.](https://research.fs.usda.gov/sites/default/files/2025-05/spapat_plant.jpeg) Saltmeadow cordgrass plant. _Public domain iNaturalist photo by Alan Weakley._
 
 Photo Credit: Public domain iNaturalist photo by Alan Weakley.
 
@@ -90,7 +90,7 @@ No entry.
 
 Saltmeadow cordgrass is a tufted, perennial, warm-season grass. Height ranges from 1 to 5 feet (0.3 to 1.5 m). Growth is solitary or in small clumps from widely spreading, slender, wiry rhizomes [9,28]. Root aerenchyma develop in response to flooding in existing and newly developed roots [4].
 
-![Several spikes of reproductive parts growing from a single grass stem, with more grass out of focus in the background.]({{ site.baseurl }}/assets/images/species-reviews/spapat_spapat_plant.jpeg)
+![Several spikes of reproductive parts growing from a single grass stem, with more grass out of focus in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spapat_plant.jpeg?itok=YkWJIMly)
 
 Photo Credit
 

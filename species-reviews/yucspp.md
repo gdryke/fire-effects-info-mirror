@@ -58,7 +58,7 @@ As of 2025, there is not a scientific consensus regarding Joshua tree taxonomy. 
 
 Hybridization between western and eastern Joshua trees occurs in Tikaboo Valley, Nevada—the only place where the ranges of the two species are known to overlap [133] (see General Distribution). Gene flow occurs primarily from eastern Joshua tree to western Joshua tree (i.e., western Joshua tree produces hybrid seeds, but eastern Joshua tree generally does not) due to behavioral and morphological differences of the two moth species that Joshua trees depend on for pollination [151]. For more information on this and related topics, see Breeding System and Pollination and the following sources: [44,142,151,193].
 
-![Single Joshua tree in the foreground of a desert scrub community, with several Joshua trees in the background, scattered small shrubs throughout, and a rock formation in the background.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure1.jpg)
+![Single Joshua tree in the foreground of a desert scrub community, with several Joshua trees in the background, scattered small shrubs throughout, and a rock formation in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure1.jpg?itok=TKHgAzW_)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Joshua tree, hunuvat chiy’a, humwichawa
 
 Joshua tree is endemic to the United States [11,120] and is sometimes considered endemic to the Mojave Desert [131,161,169]. However, Mojave Desert boundaries—with the Great Basin Desert in the north and the Sonoran Desert in the south—are influenced by changes in climate and geology and are transitional in nature. Thus, Joshua tree’s distribution extends into the Great Basin Desert at its northern extent [120,160] and into the Sonoran Desert at its southeastern extent [42,190].
 
-![Map of southeastern California, southern Nevada, southwestern Utah, and northwestern Arizona, showing the distribution of western Joshua tree, eastern Joshua tree, and known hybrid populations.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure2.jpg)
+![Map of southeastern California, southern Nevada, southwestern Utah, and northwestern Arizona, showing the distribution of western Joshua tree, eastern Joshua tree, and known hybrid populations.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure2.jpg?itok=yl0wgKi3)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ This alliance is characterized by an open or scattered emergent layer of Joshua 
 
 Joshua trees rarely provide the highest cover or density in communities where they occur [161], leading some to conclude that Joshua tree woodlands should not be considered a distinct community type. A study of vegetation dynamics of Joshua tree communities found that while Joshua trees grow in a variety of desert communities they rarely dominate cover or importance value, leading the author to conclude that the “so-called ‘Joshua tree woodland’ community type does not exist” [133]. However, a study of central Mojave Desert plant communities determined that Joshua trees are a “reasonably good indicator species” of the Joshua Tree Wooded Shrubland Alliance, despite a high degree of variation in the shrub and herbaceous understory [156]. Many management resources recognize a Joshua tree woodland community type [45,64,120,126,162]. Joshua trees may contribute over half of the total vegetation biomass in some communities [159].
 
-![A field of Joshua trees with a grassy understory in front of a rocky bluff.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure3.jpg)
+![A field of Joshua trees with a grassy understory in front of a rocky bluff.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure3.jpg?itok=k47oKY47)
 
 Photo Credit
 
@@ -183,7 +183,7 @@ Joshua tree’s distinctive and iconic form inspires poetic descriptions, from a
 
 ### Aboveground Characteristics
 
-![Close-up of a Joshua tree inflorescence, with tightly packed, cream-colored flowers surrounded by spiky green leaves.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure4.jpg)
+![Close-up of a Joshua tree inflorescence, with tightly packed, cream-colored flowers surrounded by spiky green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure4.jpg?itok=YcDIvhN8)
 
 Photo Credit
 
@@ -197,7 +197,7 @@ Flowers are tightly packed on a ≈30-cm-long peduncle [44] (fig. 4). Joshua tre
 
 Western Joshua tree generally grows to 5 m to 12 m [86,179] or rarely to 15 m [11,48,119] tall. One specimen, reported by the New York Botanic Gardens in 1932, was apparently over 24 m in height with a circumference of nearly 3 m, although this individual was set on fire and destroyed [73]. Western Joshua tree first branches at 2 to 3 m above the ground, generally at first flowering [179]. Branching is not truly dichotomous [86], but rather is sympodial [167]. Leaves are typically 15 cm to 35 cm long [69,179]. Flowers are nearly spherical, with broadly egg-shaped, fleshy, cream-colored petals that are strongly curved inward and never fully expand. Ovaries are cone-shaped and expand from the base, and fruits are ovoid [105].
 
-![Two images, one showing a close-up of four, black Joshua tree seeds with a hole in one of them; the other showing a cluster of Joshua tree fruits at the end of a branch covered by spiky green leaves. ]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure5.png)
+![Two images, one showing a close-up of four, black Joshua tree seeds with a hole in one of them; the other showing a cluster of Joshua tree fruits at the end of a branch covered by spiky green leaves. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure5.png?itok=bA7Qpw_N)
 
 Photo Credit
 
@@ -207,7 +207,7 @@ Figure 5—Left: Joshua tree seeds. The top left seed was presumably damaged by 
 
 Eastern Joshua tree typically grows to 3 to 6 m tall and first branches about 1 m above the ground [86,89,179]. Plants display true dichotomous branching when young [86] and initiate sympodial branching at first flowering [141]. Leaves are less than 22 cm long [70,179]. Flowers are narrowly bell-shaped, conspicuously swollen at the base, and somewhat constricted above. Their narrowly oblong petals are usually greenish and curved backward at the tips. Ovaries are narrowly egg-shaped, and fruits are ellipsoid [105].
 
-![Two images of the base of Joshua trees, both showing a widened base and one also showing fine roots emerging from the widened base, where the soil has been washed away.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure6.png)
+![Two images of the base of Joshua trees, both showing a widened base and one also showing fine roots emerging from the widened base, where the soil has been washed away.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure6.png?itok=piRNAuZ4)
 
 Photo Credit
 
@@ -217,7 +217,7 @@ Figure 6—Left: Exposed western Joshua tree roots, with roots originating from 
 
 ### Belowground Characteristics
 
-![Black and white image of a small Joshua tree showing the main stem roots and rhizomes.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure7.JPG)
+![Black and white image of a small Joshua tree showing the main stem roots and rhizomes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure7.JPG?itok=Dk0kW29d)
 
 Photo Credit
 
@@ -231,7 +231,7 @@ Rhizome production and clonal growth seem to be more common in western Joshua tr
 
 Joshua trees may also sprout from primary root axes [115] or from nodules formed slightly above the soil surface [179]. Nodules and sprouts apparently do not produce roots and rarely, if ever, reach the size expected of an adult Joshua tree [179] (fig. 8).
 
-![Person with a backpack and a clipboard examining a pair of Joshua trees emerging from the based of a long-dead, leafless Joshua tree trunk. The surroundings are a sparse, dry desert scrub community with little vegetation.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure8.jpg)
+![Person with a backpack and a clipboard examining a pair of Joshua trees emerging from the based of a long-dead, leafless Joshua tree trunk. The surroundings are a sparse, dry desert scrub community with little vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure8.jpg?itok=TIJyorR0)
 
 Photo Credit
 
@@ -322,7 +322,7 @@ Rodents, yucca moth larvae, and ants consume many—sometimes nearly all—Joshu
 
 ### Seed Dispersal
 
-![Small, cute rodent hanging out at the end of a Joshua tree branch, from which most of the fruits have been removed.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure9.jpg)
+![Small, cute rodent hanging out at the end of a Joshua tree branch, from which most of the fruits have been removed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure9.jpg?itok=iC6F74iL)
 
 Photo Credit
 
@@ -438,7 +438,7 @@ Joshua trees may recolonize some sites severely disturbed by agriculture and oth
 
 ## Immediate Fire Effects
 
-![A stand of Joshua trees burned by a wildfire, with a large, blackened Joshua tree fallen in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure10.jpg)
+![A stand of Joshua trees burned by a wildfire, with a large, blackened Joshua tree fallen in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure10.jpg?itok=ivVD3mQu)
 
 Photo Credit
 
@@ -469,7 +469,7 @@ Germination (%)| 61| 60| 0| 93| 57| 26| 0
 
 Joshua tree is generally not considered well-adapted to survive fire and regenerate in the postfire environment [74,99,139,144,148]. However, large, mature Joshua trees may survive low-intensity fire under some conditions because 1) bark is fire-resistant, 2) dead leaves near the base are shed (fig. 11), 3) growing points (i.e., apical meristems) are protected by a sheath of thick green leaves high above surface fuels, and 4) rhizomes are located a few inches to several feet below the soil surface [81,123,141,154] where they are well protected from heat during fire [64]. Small, young Joshua trees, on the other hand, lack fire-resistant bark and have persistent dead leaves along their stems that reach the ground (fig. 11), resulting in continuity of fuels between the surface and the crown, which makes them more vulnerable to scorching and fatal heat exposure during fire [49]. Mature eastern Joshua trees have branches closer to the ground and denser crowns than western Joshua trees and may be more susceptible to crown fires and higher postfire mortality as a result [47].
 
-![Two images, one image showing Joshua tree branches covered with dead, brown leaves along the length, with large clusters of green leaves emerging at the ends; the other image shows an older Joshua tree trunk with no leaves and covered with bark.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure11.png)
+![Two images, one image showing Joshua tree branches covered with dead, brown leaves along the length, with large clusters of green leaves emerging at the ends; the other image shows an older Joshua tree trunk with no leaves and covered with bark.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-05/feis-YUCSPP_Figure11.png?itok=X6WXk3jV)
 
 Photo Credit
 
@@ -479,7 +479,7 @@ Figure 11—Left: Green leaves and sheath of dead leaves along a Joshua tree bra
 
 Joshua tree seedlings may establish on burned sites from on- or off-site seed sources [123] after nurse plants have reestablished [106]. On-site seed sources may include seeds that survive in plant canopies or soil seed banks and seeds produced by resprouting branches (fig. 12), if yucca moths are present [106,115]. Seedlings may also establish from off-site seed sources [123], although this is likely limited by the distance of rodent caches from parent trees (typically <30 m) [170,173] (see Postfire Seedling Establishment).
 
-![A mostly denuded Joshua tree trunk, with a cluster of branches sprouting about midway up the trunk.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure12.jpg)
+![A mostly denuded Joshua tree trunk, with a cluster of branches sprouting about midway up the trunk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure12.jpg?itok=iEOsocw5)
 
 Photo Credit
 
@@ -503,7 +503,7 @@ Resprouting–from root crowns [81,106], rhizomes [172], or trunk and/or branche
 
 Unlike other Joshua tree populations, western Joshua tree populations with a clonal growth form (see Vegetative Reproduction and Regeneration) typically resprout prolifically [154,172] (fig. 13) and generally increase in cover and dominance after fire [23,154,172] (fig. 13). For example, near Big Bear City, California, burned Joshua trees of this form averaged 8.7 resprouts/burned plant [23]. All three studies that record increases in Joshua tree stem density or cover after fire appear to refer to this form [23,154,172].
 
-![Two images, both showing burned Joshua tree stems that appear to be dead, with several green sprouts emerging from the soil around their bases.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure13.png)
+![Two images, both showing burned Joshua tree stems that appear to be dead, with several green sprouts emerging from the soil around their bases.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-05/feis-YUCSPP_Figure13.png?itok=qiJPBeqB)
 
 Photo Credit
 
@@ -545,7 +545,7 @@ Low survival and slow regeneration of Joshua trees after fire may cause long-ter
 
 ## Fuel Characteristics
 
-![Firefighters digging a fireline in a Joshua tree woodland, with burned landscape on one side of the flames, and unburned Joshua trees with an understory of dense grass on the other side.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure14.jpg)
+![Firefighters digging a fireline in a Joshua tree woodland, with burned landscape on one side of the flames, and unburned Joshua trees with an understory of dense grass on the other side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure14.jpg?itok=hiSvfI-g)
 
 Photo Credit
 
@@ -606,7 +606,7 @@ Over the last several decades, nonnative invasive grasses have fueled wildfires 
 
 Fires carried by nonnative invasive annual grasses in the Mojave Desert may lead to long-term or permanent vegetation shifts to nonnative invasive plant-dominated communities, especially if fires are repeated or severe [76,96]. The likelihood of local Joshua tree extinction may be highest in areas near the warm and dry extents of its range, especially where populations may be vulnerable to successive fires and where growing human use increases the possibility of human-caused fires and impacts from other disturbances [43,74,153]. Models project that suitable habitat for Joshua tree within its current range will decrease as a result of climate change [43], and that self-sustaining populations of Joshua trees may be limited to climate refugia. Protecting existing populations is likely to be more effective at maintaining the species than natural or assisted migration [74,144]. Half of modeled climate change refugia in Joshua Tree National Park had already burned as of 2019, and risk of wildfire continues to be high for remaining refugia [153].
 
-![Desert landscape populated by Joshua trees, scattered small shrubs, and scattered bunch grasses, with a two-track road going down the middle. The landscape on the right is burned and on the left is unburned.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure15.jpg)
+![Desert landscape populated by Joshua trees, scattered small shrubs, and scattered bunch grasses, with a two-track road going down the middle. The landscape on the right is burned and on the left is unburned.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure15.jpg?itok=F3yGun9y)
 
 Photo Credit
 
@@ -656,7 +656,7 @@ For nutritional information of leaves and fruits, see Wallace and Romney (1972) 
 
 ### Cover Value
 
-![Large, many-branched Joshua tree with three bighorn sheep in its shade and surrounded by desert scrubland with many small shrubs and scattered Joshua trees.]({{ site.baseurl }}/assets/images/species-reviews/yucspp_feis-YUCSPP_Figure16.jpg)
+![Large, many-branched Joshua tree with three bighorn sheep in its shade and surrounded by desert scrubland with many small shrubs and scattered Joshua trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-YUCSPP_Figure16.jpg?itok=gdmYhdjW)
 
 Photo Credit
 

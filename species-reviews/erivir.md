@@ -61,7 +61,7 @@ green-keeled cottongrass, tassel cottongrass, thin-leaved cotton-grass, thinleav
 
 Thinleaf cottonsedge is native to northern North America. It occurs from Alaska south to Washington, east to New Jersey, and north to Newfoundland and Labrador. It has been extirpated from Illinois [26].
 
-![A map of U.S. states and Canadian provinces with many northern states and nearly all provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivir_distribution.png)
+![A map of U.S. states and Canadian provinces with many northern states and nearly all provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivir_distribution.png?itok=JQ8PPieb)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Distribution of thinleaf cottonsedge.
 
 Thinleaf cottonsedge occurs in mesic to hydric soils [19,27]. It is common in wetlands (see Plant Communities). It is considered an obligate wetland species (occurs in wetlands >99% of the time) in every region where it occurs [33]. Thinleaf cottonsedge does not grow in deep water. In fens in north-central Quebec near Schefferville, it was rarely found rooted in water that was ≥10 inches (25 cm) deep; on average, it was rooted in water that was 2.6 inches (6.7 cm) deep [9]. In southern Michigan fens, thinleaf cottonsedge was absent from the submerged plant zone (the deepest water zone) and the zone of water lilies (Nymphaea spp. (water up to 5 feet (1.5 m) deep)), but it was present in the floating sedge zone. In the floating sedge zone, the sedge (_Carex_ and _Eriophorum_ spp.) mat was "very firm" and about 18 inches (46 cm) thick. The dominant mat-forming plants were downy-fruited sedge (_C. tomentosa_) and fewseed sedge (_C. oligosperma_). Shallower water zones were dominated by shrubs and trees [7].
 
-![A photo of dropping, fluffy spikelets growing from a sedge stem, with shrubs around and conifers visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivir_wetland.jpg)
+![A photo of dropping, fluffy spikelets growing from a sedge stem, with shrubs around and conifers visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivir_wetland.jpg?itok=gyvLQm1h)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Thinleaf cottonsedge occurs in marshes, wet meadows, bogs, fens, wet woodlands, 
 
 Thinleaf cottonsedge is a perennial, tufted sedge with numerous basal leaves [5,10,13,21,21,23,27,44]. Leaves are 6 to 24 inches (15-61 cm) tall [5,13,21] with blades 0.08 to 0.24 inch (2-6 mm) wide [5,13,14,21,23,27,47]. Culms are 8 to 39 inches (20-100 cm) tall [13,13,14,21,27]. Culms bear 3 or more cymes composed of 3 to 30 drooping spikelets [3,5,13,14,21]. Each flower has 10 or more perianth bristles (strong, stiff, slender hairs [35]) that are 0.6 to 1.2 inch (15-30 mm) long and cottony, becoming more conspicuous as achenes mature [14,27,45]. Achenes are 0.10 to 0.14 inch (2.5-3.5 mm) long [14,21,27]. Thinleaf cottonsedge has slender, spreading rhizomes [1,27] and it forms extensive colonies [1]. According to Karlin and Bliss [25], thinleaf cottonsedge has a deep root system.
 
-![A close-up photo of several dangling fluffy white drooping spikelets growing from a sedge stem, with shrubs and conifers visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivir_plant.jpg)
+![A close-up photo of several dangling fluffy white drooping spikelets growing from a sedge stem, with shrubs and conifers visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivir_plant.jpg?itok=n47a61Ii)
 
 Photo Credit
 

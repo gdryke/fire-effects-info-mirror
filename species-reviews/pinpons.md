@@ -40,7 +40,7 @@ On 4 December 2015, additional varieties of ponderosa pine were listed in the Ta
 
 ## Taxonomy
 
-![A photo of a pine tree growing in a dry drainage, with dry reddish and gray soils to either side of the drainage and shrubs growing above the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpons_habitat.jpg)
+![A photo of a pine tree growing in a dry drainage, with dry reddish and gray soils to either side of the drainage and shrubs growing above the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinpons_habitat.jpg?itok=7gH0a7hb)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ interior ponderosa pine, pino real
 
 Ponderosa pine is the most widely distributed pine species in North America, ranging north-south from southern British Columbia to central Mexico and east-west from central Nebraska to the west coast [202]. Ponderosa pine ecosystems occupy about 38 million acres across 14 states [122]. Distributional maps of ponderosa pine by Little are available [here](<https://research.fs.usda.gov/feis/treedistributionmaps>). Distributions of Rocky Mountain and southwestern ponderosa pine are:
 
-![A map of the southwestern U.S. showing counties and states, with many counties in Arizona, Colorado, New Mexico, Nevada, and Utah highlighted green, as well as one Texas county.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpons_pinponb_map.jpg)
+![A map of the southwestern U.S. showing counties and states, with many counties in Arizona, Colorado, New Mexico, Nevada, and Utah highlighted green, as well as one Texas county.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinpons_pinponb_map.jpg?itok=bBpyCNqp)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Map from PLANTS: Maps courtesy of USDA, NRCS. 2015. The PLANTS Database. Nationa
 
 Southwestern ponderosa pine distribution.
 
-![A map of the U.S. and southern Canada, with many western mountain and adjacent states and BC highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpons_map.jpg)
+![A map of the U.S. and southern Canada, with many western mountain and adjacent states and BC highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinpons_map.jpg?itok=VhZID8Ys)
 
 Photo Credit
 
@@ -218,7 +218,7 @@ Rocky Mountain ponderosa pine has mostly 2-needle fascicles [16,73,310]. The var
 
 Stands were historically open with varied age class distributions [213,215]. Cooper [75] found that on the Fort Apache Reservation of east-central Arizona, where frequent prescribed burning is practiced, ponderosa pine grew in a mosaic of small (about 0.2-acre (0.08 ha)), even-aged groups that were maintained by fire. Trees were widely and randomly spaced. In contrast, structure in an unburned virgin stand on the Fort Valley Experimental Forest was uneven-aged with trees in small, uneven-aged groups. Pole-sized trees predominated, with scattered presettlement trees 14.5 to 41 inches (37-104 cm) DBH, and dense thickets of saplings [77]. (The Fire Ecology section of this report compares of pre- and postsettlement structure of this stand.) Laven and others [198] found presettlement stands on the central Colorado Front Range tended to have widely spaced, uneven-aged trees. Grouping patterns were not evident [77].
 
-![A photo of an open woodland of tall, straight pines, with bright green understory shrubs and low brown grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpons_trees.jpg)
+![A photo of an open woodland of tall, straight pines, with bright green understory shrubs and low brown grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinpons_trees.jpg?itok=Hj4Y7_zf)
 
 Photo Credit
 
@@ -318,7 +318,7 @@ McHugh and Kolb [217] reported that model using total crown damage by fire (scor
 
 Harrington and Hawksworth [148] conducted prescribed burning treatments to ponderosa pine on the South Rim of Grand Canyon National Park, Arizona. They found that mortality generally increased with decreasing tree size and increasing crown scorch, bole char, and southwestern dwarf-mistletoe infection. Trees with greater than 87% crown scorch experienced 100% mortality, even in the 30- to 36-inch (76-92 cm) size class. Severe bole char resulted in 67% mortality. Mortality by size class is indicated in the graph below [148].
 
-![A bar chart showing mortality on the y-axis and clusters of bars with various D.B.H, scorch, char, and dwarf mistletoe rating.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpons_graph.gif)
+![A bar chart showing mortality on the y-axis and clusters of bars with various D.B.H, scorch, char, and dwarf mistletoe rating.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinpons_graph.gif?itok=CdpUgO9J)
 
 Photo Credit
 
@@ -499,7 +499,7 @@ oak savanna| _Q. m./Andropogon gerardii-Schizachyrium scoparium_| 2-14 [231,300]
  
 ## Fire Management Considerations
 
-![A photo of a crew of firefighters in full gear standing by a truck with a grid of low flames burning in the open forest behind them, where they apparently lit the fire in lines.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpons_rxfire.jpg)
+![A photo of a crew of firefighters in full gear standing by a truck with a grid of low flames burning in the open forest behind them, where they apparently lit the fire in lines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinpons_rxfire.jpg?itok=WjTd8N9C)
 
 Grand Canyon National Park prescribed fire hand crews "stringing fire" in a North Rim burn unit, in cautious incremental strips, to keep burn severity to prescribed levels.
 

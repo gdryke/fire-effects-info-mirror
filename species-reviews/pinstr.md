@@ -59,7 +59,7 @@ Eastern white pine is distributed from Newfoundland west to extreme southeastern
 
 ## Site Characteristics
 
-![A landscape photo looking down at a forested valley with rolling hills in the distance. A large pine tree with two trunks frames the left side of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinstr_habitat.jpg)
+![A landscape photo looking down at a forested valley with rolling hills in the distance. A large pine tree with two trunks frames the left side of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinstr_habitat.jpg?itok=BEGfAYme)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Eastern white pine male strobili open and shed pollen in April through June, dep
 
 ## Regeneration Processes
 
-![A close up photo of a pine tree's upward-pointing, bunched green needles and drooping, long brown and white cones. The background is blurry vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinstr_cones.jpg)
+![A close up photo of a pine tree's upward-pointing, bunched green needles and drooping, long brown and white cones. The background is blurry vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinstr_cones.jpg?itok=BWw1BdFh)
 
 Photo Credit
 

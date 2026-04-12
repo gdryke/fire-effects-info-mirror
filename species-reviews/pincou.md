@@ -62,7 +62,7 @@ Coulter pine occurs from Contra Costa County, California, south through the Coas
 
 Coulter pine occurs in a mediterranean climate. Winter rains are infrequent, and the summer is dry with occasional summer thunderstorms [37,40,52].
 
-![A landscape photo of a lumpy, tan rock formation with pine trees growing on and around the outcropping. Other shrubs and small trees are growing around, and there are rolling hills in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincou_habitat.jpeg)
+![A landscape photo of a lumpy, tan rock formation with pine trees growing on and around the outcropping. Other shrubs and small trees are growing around, and there are rolling hills in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pincou_habitat.jpeg?itok=vwRV-sef)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Associated trees not mentioned in Table A1 include sugar pine (Pinus lambertiana
 
 ## Botanical Description
 
-![A photo of the branches of a pine tree with long, bunched, sage green needles and large, spiny cones hanging below the branches. The background is a forested hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincou_tree.jpg)
+![A photo of the branches of a pine tree with long, bunched, sage green needles and large, spiny cones hanging below the branches. The background is a forested hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pincou_tree.jpg?itok=1N0QJ4J9)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ Coulter pine seedling development is best in mineral soil in open areas [38]. Su
 
 ## Plant Response to Fire
 
-![A photo of two small pine seedlings growing out of the burned ground in front of a large, burned pine cone. The background is a burned hillside with little to no green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincou_postfire.jpg)
+![A photo of two small pine seedlings growing out of the burned ground in front of a large, burned pine cone. The background is a burned hillside with little to no green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pincou_postfire.jpg?itok=FBQQRP7m)
 
 Photo Credit
 

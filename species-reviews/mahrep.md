@@ -167,7 +167,7 @@ Creeping barberry is recognized as a dominant species in the following vegetatio
 
 ## Botanical Description
 
-![Photo of creeping barberry with yellow flowers growing on forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahrep_flower.jpg)
+![Photo of creeping barberry with yellow flowers growing on forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-mahrep_flower.jpg?itok=AiQlOWEh)
 
 Photo Credit
 
@@ -229,7 +229,7 @@ Leaves start to color/wither| 27-Sep| 24-Sep| 1-Oct| 2| 3
 Leaves start to fall| —| —| —| —| — 
 Leaves fallen/withered| —| —| —| —| — 
  
-![Photo of creeping barberry with purple berries growing on forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahrep_plant.jpg)
+![Photo of creeping barberry with purple berries growing on forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-mahrep_plant.jpg?itok=pnaEuXc3)
 
 Photo Credit
 
@@ -316,7 +316,7 @@ Creeping barberry is adapted to fire due to its well-developed rhizome systems [
 
 ## Plant Response to Fire
 
-![Photo of a small plant, with a few red leaves growing on a blackened soil and surrounded by bits of charcoal and scattered tree litter.]({{ site.baseurl }}/assets/images/species-reviews/mahrep_feis-sprout_mahrep.jpg)
+![Photo of a small plant, with a few red leaves growing on a blackened soil and surrounded by bits of charcoal and scattered tree litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-sprout_mahrep.jpg?itok=V4rMdvs3)
 
 Photo Credit
 

@@ -89,7 +89,7 @@ Norway maple is not a climax dominant or indicator species in habitat type class
 
 ## Botanical Description
 
-![A photo of a large, branching tree with many golden leaves shining in the sun. The tops of a few other trees in similar orange and yellow are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-acepla_tree.jpeg)
+![A photo of a large, branching tree with many golden leaves shining in the sun. The tops of a few other trees in similar orange and yellow are visible.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-acepla_tree.jpeg?itok=7UB7fxEF)
 
 Photo Credit
 
@@ -123,7 +123,7 @@ No information available on this topic.
 
 ### Seed Dispersal
 
-![A close up photo of a maple tree's wide green leaves and clusters of light green samaras \(seed pods\).]({{ site.baseurl }}/assets/images/species-reviews/feis-acepla_samaras.jpg)
+![A close up photo of a maple tree's wide green leaves and clusters of light green samaras \(seed pods\).](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-acepla_samaras.jpg?itok=vbg3pQoh)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Seeds germinate in spring [27,28], following an obligatory period of cold strati
 
 ### Seedling Establishment and Growth
 
-![A photo of a cluster of green leafy seedlings sprouting together. A few grasses, dead leaves, and bare soil are visible around the mass of seedlings.]({{ site.baseurl }}/assets/images/species-reviews/feis-acepla_seedlings.jpg)
+![A photo of a cluster of green leafy seedlings sprouting together. A few grasses, dead leaves, and bare soil are visible around the mass of seedlings.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-acepla_seedlings.jpg?itok=xYXBvEMy)
 
 Photo Credit
 

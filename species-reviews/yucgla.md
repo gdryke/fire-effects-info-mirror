@@ -36,7 +36,7 @@ Groen, Amy H. 2005. _Yucca glauca_ , soapweed yucca. In: Fire Effects Informatio
 
 ## Taxonomy
 
-![A photo of yucca soapweed, comprised of a dense cluster of large, spiky leaves and a flowering stalk with pale yellow blooms, growing on a steep, dry, somewhat rocky hillside with shrubs, bunchgrasses, and cacti.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucgla_plant2.jpg)
+![A photo of yucca soapweed, comprised of a dense cluster of large, spiky leaves and a flowering stalk with pale yellow blooms, growing on a steep, dry, somewhat rocky hillside with shrubs, bunchgrasses, and cacti.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucgla_plant2.jpg?itok=_R2FtL34)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Soapweed yucca tolerates a wide range of elevations:
 
 Throughout its range in Colorado soapweed yucca can often be found in plains grasslands in association with blue grama (_Bouteloua gracilis_) [32,96,105,121], needle-and-thread grass (_Hesperostipa comata_) [32,105], and in a variety of sagebrush (_Artemisia_ spp.) communities including Bigelow sagebrush (_Artemisia bigelovii_) [130] and mountain big sagebrush (_A. tridentata_ var. _vaseyana_) [31]. In 1906 it was reported as one of the most prominent plants in the region east of Pike's Peak and could be found alongside horned spurge (_Euphorbia brachycera_), mountain bladderpod (_Lesquerella montana_), nylon hedgehog cactus (_Echinocereus viridiflorus_), and prairie bluebells (_Mertensia lanceolata_ var. _lanceolata_) in what was termed the "_Yucca glauca_ society" [129]. It is often found among sandhill communities with prairie sandreed (_Calamovilfa longifolia_), sand sagebrush (_Artemisia filifolia_), and sandhill muhly (_Muhlenbergia pungens_) [96].
 
-![A photo of several soapweed yucca plants growing with grasses with a dramatic storm on the horizon.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucgla_habitat.jpg)
+![A photo of several soapweed yucca plants growing with grasses with a dramatic storm on the horizon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucgla_habitat.jpg?itok=1w2mkNSk)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Soapweed yucca is a native evergreen shrub [70] that grows to 3 feet (1 m) in height [137]. It supports short, branching, decumbent stems [91] and a taproot [142,143]. Root systems greater than 20 feet (6 m) in depth were reported in eastern Colorado [96]. Lateral roots extend 20 to 30 feet (6-9 m) [158]. Soapweed yucca supports 1 or 2 large diameter rhizomes from which a network of smaller oblique rhizomes protrude, forming a mat 4 to 24 inches (10 to 60 cm) below the soil surface [160].
 
-![A photo of a large soapweed yucca plant with reproductive stalks growing flower buds. Green forbs and grasses grow nearby, with intermittent shrubs growing behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucgla_plant.jpg)
+![A photo of a large soapweed yucca plant with reproductive stalks growing flower buds. Green forbs and grasses grow nearby, with intermittent shrubs growing behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucgla_plant.jpg?itok=fgOccrCN)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ Soapweed yucca has a raceme inflorescence [57] that is nearly sessile, 12 to 80 
 
 Soapweed yucca flowers in May and June in New Mexico [91] and May through July in the Great Plains region [57]. The fruit ripens in July and August, and seed disperses in September [3]. Ramets are produced from lateral buds or rhizomes near rosettes that have senesced in late summer [76].
 
-![A photo of a flowering stalk of soapweed yucca, with red rock outcrops behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucgla_flowering.jpg)
+![A photo of a flowering stalk of soapweed yucca, with red rock outcrops behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucgla_flowering.jpg?itok=TsjrdzqV)
 
 Photo Credit
 
@@ -334,7 +334,7 @@ Soapweed yucca is utilized by a variety of mammals, primarily during drought yea
 
 Mule deer consume soapweed yucca throughout the year [80] with heaviest use in spring [35]. Rumen samples in prairie habitat indicate consumption in summer, winter, and spring months [42]. In New Mexico, soapweed yucca makes up 0% to 3% of mule deer diets [88], accounting for 0.5% of their overall diet [103]. Bighorn sheep consume soapweed yucca in North Dakota [47] and the Colorado Rockies, where soapweed yucca constitutes an average of 5.3% of their diet [148]. Soapweed yucca is also utilized by mule deer in South Dakota [168], white-tailed deer in Montana [4], pronghorn [117,142], and bison [110].
 
-![A photo of a soapweed yucca with a reproductive stalk from a previous year. A gray and yellow bird perches on the stalk.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucgla_birb.jpeg)
+![A photo of a soapweed yucca with a reproductive stalk from a previous year. A gray and yellow bird perches on the stalk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucgla_birb.jpeg?itok=EPwxIm2-)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern white-cedar swamp communities has 
 
 ## Distribution
 
-![A map showing the distribution of northern white-cedar swamp communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-white-cedar-swamps_feis-northern_white_cedar_swamps_locator.jpg)
+![A map showing the distribution of northern white-cedar swamp communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_white_cedar_swamps_locator.jpg?itok=UHaRSLnX)
 
 Photo Credit
 

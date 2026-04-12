@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for desert riparian communities has not yet bee
 
 ## Distribution
 
-![A map showing the distribution of desert riparian communities in the southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/desert-riparian_feis-desert_riparian_locator.jpg)
+![A map showing the distribution of desert riparian communities in the southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-desert_riparian_locator.jpg?itok=_LimeGhb)
 
 Photo Credit
 

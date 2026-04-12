@@ -71,7 +71,7 @@ The U.S. Geological Survey provides a map of curlleaf mountain-mahogany's distri
 
 Curlleaf mountain-mahogany grows in scattered patches and in extensive pure stands on dry, rocky, steep slopes in the Intermountain West between lower conifer and desert steppe communities [25,38,41,80,114,143,198]. Sagebrush, pinyon-juniper (_Pinus-Juniperu_ s spp.), mountain brush, quaking aspen (_Populus tremuloides_), and fir-spruce (_Abies-Picea_ spp.) vegetation types are typical curlleaf mountain-mahogany habitat [56,83,228].
 
-![A photo of a scrubby tree with fluffy-looking seeds and widely spaced, small leaves growing out of a crack in a reddish rock, with lichen and a few other plants growing on the rock. Trees and a hill are behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerled_habitat2.jpeg)
+![A photo of a scrubby tree with fluffy-looking seeds and widely spaced, small leaves growing out of a crack in a reddish rock, with lichen and a few other plants growing on the rock. Trees and a hill are behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cerled_habitat2.jpeg?itok=Ooz-mX4_)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ California:
  * Sierra lodgepole pine-limber pine (_P. contorta_ var. _murrayana-P. flexilis_)-curlleaf mountain-mahogany in San Bernardino Mountains [136]
  * western juniper/curlleaf mountain-mahogany in Lava Beds National Monument [57]
 
-![A photo of a shrubby tree with fluffy, curly white seed attached in clusters and green leaves. Conifers and fall-colored deciduous trees are visible in the valley below, and cliffy mountains rise to either side of the valley.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerled_habitat1.jpeg)
+![A photo of a shrubby tree with fluffy, curly white seed attached in clusters and green leaves. Conifers and fall-colored deciduous trees are visible in the valley below, and cliffy mountains rise to either side of the valley.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cerled_habitat1.jpeg?itok=NVdhs6Uw)
 
 Photo Credit
 
@@ -245,7 +245,7 @@ Bark on curlleaf mountain-mahogany trees is thick and measures up to 1 inch (2.5
 
 Curlleaf mountain-mahogany flowers are perfect [85,198] and apetalous. Calyx tubes from 0.1 to 0.4 inch (3-10 mm) long are produced at the leaf axils of stem tips on 2nd-year wood [53,80,86]. Flowers occur singly or in clusters of up to 5, although clusters of 2 or 3 are most common [38,52,68,79,143,228]. Curlleaf mountain-mahogany produces achenes with a long, persistent, plumose style or tail. They are hard and narrow, with sharp tips. Seeds measure 0.2 to 0.4 inch (4-10 mm) long, and tails are often 1 to 3 inches (2.5-8 cm) long [19,79,83,85,86,105,143,198,228].
 
-![A close-up photo of seeds growing on a tree with clusters of small leaves. Seeds have a long, spiraling, plumose tail.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerled_seeds2.jpeg)
+![A close-up photo of seeds growing on a tree with clusters of small leaves. Seeds have a long, spiraling, plumose tail.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cerled_seeds2.jpeg?itok=x0LDl4dN)
 
 Photo Credit
 
@@ -282,7 +282,7 @@ West Coast| May-June| Typically earliest ripening; August-September [19]
 
 Curlleaf mountain-mahogany reproduces predominantly by seed. Sprouting occurs to "some extent" from the trunk base following cutting, but sprouts are rare after fire [212].
 
-![A photo of a tree with clusters of small leaves and seeds with long tails. The vegetation is wet with rain and red cliffs and conifers are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerled_seeds1.jpeg)
+![A photo of a tree with clusters of small leaves and seeds with long tails. The vegetation is wet with rain and red cliffs and conifers are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cerled_seeds1.jpeg?itok=y8OomS7I)
 
 Photo Credit
 
@@ -407,7 +407,7 @@ Curlleaf mountain-mahogany recolonizes burned sites predominantly through seedli
 
 Because curlleaf mountain-mahogany is commonly killed by fire, the rate of curlleaf mountain-mahogany recolonization of the site is highly dependent on seed bank survival or distance to the nearest seed source, both of which may vary with fire severity. Seed-producing plants may have survived low-severity burning or may escape fire in low fuel, fireproof refugia.
 
-![A photo of a grassy hillside, with some shrubby trees and bare ground between plants. Steep, rocky mountain slopes with variable tree cover dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerled_moosefire.jpeg)
+![A photo of a grassy hillside, with some shrubby trees and bare ground between plants. Steep, rocky mountain slopes with variable tree cover dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cerled_moosefire.jpeg?itok=f1O6DwAE)
 
 Photo Credit
 

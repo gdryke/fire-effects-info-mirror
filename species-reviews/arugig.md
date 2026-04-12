@@ -33,7 +33,7 @@ Taylor, Jane E. 2006. _Arundinaria gigantea_ , cane. In: Fire Effects Informatio
 
 ## Taxonomy
 
-![A photo of an upright stem that is given the appearance of zigzagging by pale bracts growing at an upright angle from nodes along the stem. Clusters of a few green leaves grow at regular intervals along the stem. Trees are visible behind and appear to provide full shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-arugig_plant.jpg)
+![A photo of an upright stem that is given the appearance of zigzagging by pale bracts growing at an upright angle from nodes along the stem. Clusters of a few green leaves grow at regular intervals along the stem. Trees are visible behind and appear to provide full shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-arugig_plant.jpg?itok=ZmqM4ijL)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Giant cane has a distribution similar to cane in general but does not occur in N
 
 ## Site Characteristics
 
-![A photo of a dense stand of cane growing in front of several trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-arugig_stand.jpg)
+![A photo of a dense stand of cane growing in front of several trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-arugig_stand.jpg?itok=sNkouSOZ)
 
 Photo Credit
 
@@ -180,7 +180,7 @@ In addition to the plant communities discussed above, where cane is a dominant o
 
 ## Botanical Description
 
-![A photo of a straight, thick stem with a bunch of leaves growing from a node.]({{ site.baseurl }}/assets/images/species-reviews/feis-arugig_leaves.jpg)
+![A photo of a straight, thick stem with a bunch of leaves growing from a node.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-arugig_leaves.jpg?itok=aiEOWLEV)
 
 Photo Credit
 
@@ -243,7 +243,7 @@ Cane sprouts prolifically from rhizomes, and aboveground stem regeneration is ra
 
 ## Successional Status
 
-![A photo of an upright cane stem with a leaning top growing beneath the canopy of moderately dense deciduous trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-arugig_understory.jpg)
+![A photo of an upright cane stem with a leaning top growing beneath the canopy of moderately dense deciduous trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-arugig_understory.jpg?itok=4le6PAMJ)
 
 Photo Credit
 

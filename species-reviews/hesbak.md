@@ -70,7 +70,7 @@ Modoc cypress is generally found at elevations from 3,795 to 7,042 feet (1,150-2
 
 ## Plant Communities
 
-![A photo looking up at a group of tall, straight, narrow conifer trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesbak_trees.jpg)
+![A photo looking up at a group of tall, straight, narrow conifer trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesbak_trees.jpg?itok=Yg8OGLCn)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Species not already mentioned that are commonly associated with Modoc cypress in
 
 ## Botanical Description
 
-![A close up photo of a conifer tree's yellow-brown scaled leaves and small pale cones. The background is an open mix of small conifer trees and shrubs, with some snow on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesbak_cones.jpeg)
+![A close up photo of a conifer tree's yellow-brown scaled leaves and small pale cones. The background is an open mix of small conifer trees and shrubs, with some snow on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesbak_cones.jpeg?itok=_Ndj4aLV)
 
 Photo Credit
 

@@ -56,7 +56,7 @@ Prescribed fire is only occasionally used in feltleaf willow communities. Fire p
 
 The scientific name of feltleaf willow is _Salix alaxensis_ Anderss. Cov. (Salicaceae) [17,52,70,72]. Two varieties, overlapping in geographic range but differing in physical characteristics [17,97], are recognized:
 
-![A photo of a gravelly riverbank with low, leafy trees and hills with low vegetation behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-salala_habitat.jpg)
+![A photo of a gravelly riverbank with low, leafy trees and hills with low vegetation behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salala_habitat.jpg?itok=Tg1vj7Ly)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Alaska willow [17]
 
 ## Distribution
 
-![A map of the United States and Canada, with many Canadian provinces and Alaska highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-salala_map.png)
+![A map of the United States and Canada, with many Canadian provinces and Alaska highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salala_map.png?itok=ZzXmNm2b)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Insects, such as bumblebees, pollinate feltleaf willows [148]. Feltleaf willow i
 
 ### Seed Production
 
-![A photo of upright willow catkins growing from twigs with clusters of shiny green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-salala_catkins.jpg)
+![A photo of upright willow catkins growing from twigs with clusters of shiny green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salala_catkins.jpg?itok=gpzWuLN7)
 
 Photo Credit
 

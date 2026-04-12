@@ -43,7 +43,7 @@ valley oak| _Quercus lobata_
 
 ## Distribution
 
-![A map showing the distribution of California coastal and valley hardwood communities in California.]({{ site.baseurl }}/assets/images/fire-regimes/california-coastal-and-valley-hardwoods_feis-california_coastal_and_valley_hardwoods_locator.jpg) 
+![A map showing the distribution of California coastal and valley hardwood communities in California.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-california_coastal_and_valley_hardwoods_locator.jpg?itok=Tv9KIehz) 
  
 Photo Credit
 
@@ -51,7 +51,7 @@ Map based on the LANDFIRE (2020) BpS data layer [1].
 
 Figure 1—Land cover distribution of California coastal and valley hardwood Biophysical Settings (BpS).
 
-![A photo of bushy, leafy green trees with some conifer trees in the background.]({{ site.baseurl }}/assets/images/fire-regimes/california-coastal-and-valley-hardwoods_feis-ca_coast_valley_hardwoods_umbcal.jpg)
+![A photo of bushy, leafy green trees with some conifer trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-04/feis-ca_coast_valley_hardwoods_umbcal.jpg?itok=FqLRZJWe)
 
 Photo Credit
 
@@ -59,7 +59,7 @@ Image © 2016 by Susan McDougal, www.treeslivehere.com. Used with permission.
 
 Figure 2—California bay woodland in Marin County.
 
-![A photo of an open wooded landscape with large, branching leafy trees and a grassy understory.]({{ site.baseurl }}/assets/images/fire-regimes/california-coastal-and-valley-hardwoods_feis-ca_coast_valley_hardwoods_quelob.jpg)
+![A photo of an open wooded landscape with large, branching leafy trees and a grassy understory.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-04/feis-ca_coast_valley_hardwoods_quelob.jpg?itok=hKTX9ugw)
 
 Photo Credit
 

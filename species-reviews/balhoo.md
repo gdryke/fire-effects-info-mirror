@@ -34,7 +34,7 @@ Munger, Gregory T. 2006. _Balsamorhiza hookeri,_ Hooker's balsamroot. In: Fire E
 
 ## Image Gallery
 
-![Photo of Hooker's balsamroot in boom.]({{ site.baseurl }}/assets/images/species-reviews/feis-balhoo_plant.jpg) Hooker's balsamroot. _Photo by Dwight Kingsbury, iNaturalist.org, no rights reserved._
+![Photo of Hooker's balsamroot in boom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-balhoo_plant.jpg) Hooker's balsamroot. _Photo by Dwight Kingsbury, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Dwight Kingsbury, iNaturalist.org, no rights reserved.
 
@@ -96,7 +96,7 @@ There are no published accounts of habitat types or plant communities in which H
 
 ## Botanical Description
 
-![Photo of Hooker's balsamroot in boom.]({{ site.baseurl }}/assets/images/species-reviews/feis-balhoo_plant.jpg)
+![Photo of Hooker's balsamroot in boom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-balhoo_plant.jpg?itok=lEjkeuS_)
 
 Photo Credit
 

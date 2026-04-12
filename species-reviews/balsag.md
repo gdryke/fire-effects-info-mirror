@@ -34,7 +34,7 @@ McWilliams, Jack. 2002. _Balsamorhiza sagittata_ , arrowleaf balsamroot. In: Fir
 
 ## Introduction
 
-![A photo of a nearly continuous blanket of bright yellow flowers growing in clusters with large basal leaves below, with a sparse canopy of conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-balsag_woodland.jpg)
+![A photo of a nearly continuous blanket of bright yellow flowers growing in clusters with large basal leaves below, with a sparse canopy of conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-balsag_woodland.jpg?itok=6ADQHo4-)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Arrowleaf balsamroot is strongly drought tolerant [113].
 
 ### Soils
 
-![A photo of a slope covered with large patches of yellow flowers and a few scattered conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-balsag_hillside.jpeg)
+![A photo of a slope covered with large patches of yellow flowers and a few scattered conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-balsag_hillside.jpeg?itok=XoaD0E5I)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ In native stands of the northern Intermountain Region and the Pacific Northwest 
 
 Arrowleaf balsamroot is a cool-season [113], large, long-lived, native, perennial forb 1 to 2 feet (0.3-0.6 m) in height [93]. Its fruit is a 4-angled, thickened, smooth, hairless achene [93,108,113]. Basal leaves are cordate to sagittate in outline with entire margins and wooly pubescence. They arise from a branched, underground caudex to form dense rosettes. Flowerheads are sunflower-like with strap-shaped ray flowers 1 to 2 inches (2.5-5 cm) long and tubular disc flowers [113]. Flowers are mostly solitary on long peduncles and the cauline leaves are mostly lanceolate, alternate, and much smaller than the basal leaves [83].
 
-![A photo of a plant with a dense cluster of large basal leave and many stems, each topped by a single large, yellow flower. Dramatic snowy peaks dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-balsag_plant.jpg)
+![A photo of a plant with a dense cluster of large basal leave and many stems, each topped by a single large, yellow flower. Dramatic snowy peaks dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-balsag_plant.jpg?itok=fBSHhJhD)
 
 Photo Credit
 
@@ -281,7 +281,7 @@ In a prescribed burn near Elko, Nevada, in August of 1980, a single arrowleaf ba
 
 ## Fire Adaptations
 
-![A photo of a plant with bright yellow flowers an large, green basal leaves growing below charred tree trunks, with a few more flowers behind and a few surviving conifers in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-balsag_postfire.jpg)
+![A photo of a plant with bright yellow flowers an large, green basal leaves growing below charred tree trunks, with a few more flowers behind and a few surviving conifers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-balsag_postfire.jpg?itok=CXmLjelP)
 
 Photo Credit
 

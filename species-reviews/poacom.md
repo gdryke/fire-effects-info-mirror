@@ -65,7 +65,7 @@ In North America, Canada bluegrass is distributed from Newfoundland to Alaska, a
 
 Canada bluegrass is unable to compete with other grasses on good soils and generally develops best on soils of low fertility or poor drainage [12,25]. It has moderate drought and salinity tolerances but is not shade tolerant [8,12,30]. It grows about anywhere Kentucky bluegrass grows but only achieves dominance on soils that are too acid, droughty, or nutrient-deficient for Kentucky bluegrass dominance [18]. It grows on disturbed sites in innumerable habitats across North America. In the Pacific Northwest, Canada bluegrass is commonly found in association with wheatgrasses (_Agropyron_ spp.) and hairgrasses (_Deshampsia_ spp.) and often grows in pure stands on poor soils [30].
 
-![A reproductive grass stem is in focus in the foreground. The background is out-of-focus grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-poacom_stand.jpg)
+![A reproductive grass stem is in focus in the foreground. The background is out-of-focus grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poacom_stand.jpg?itok=2uzKgfJn)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Wyoming| June–August
 
 Canada bluegrass reproduces by both seed and rhizomes [30]. There are 2.5 million cleaned seeds per pound (5.5 million/kg). Seeds require light for germination and germinate best at temperatures fluctuating between 59 and 86 degrees Fahrenheit (15 and 30 deg C). Germinative capacity is 75 to 80 percent [8].
 
-[![A grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-poacom_repro.jpg)Photo Credit Photo by aarongunnar, iNaturalist (CC BY 4.0). Reproductive Canada bluegrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poacom_repro.jpg?itok=yC4CYJ_w)Photo Credit Photo by aarongunnar, iNaturalist (CC BY 4.0). Reproductive Canada bluegrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Successional Status
 

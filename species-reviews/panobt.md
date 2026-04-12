@@ -67,7 +67,7 @@ Vine-mesquite is an indicator of moist microsites in arid environments. It is fo
 
 **Elevation:** Vine-mesquite generally grows in an elevational range of 1,000 to 6,000 feet (305-1,800 m) [24].
 
-![Sparse clusters of bright green bunch grasses against tan, dry soil.]({{ site.baseurl }}/assets/images/species-reviews/panobt_panobt_multiples_0.jpg)
+![Sparse clusters of bright green bunch grasses against tan, dry soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/panobt_multiples_0.jpg?itok=mA7jkSnQ)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Vine-mesquite is listed as an indicator or dominant species in the following veg
 
 Vine-mesquite is a native, perennial, warm season grass from 12 to 24 inches (35-70 cm) tall that produces rhizomes and stolons. The rhizomes are short and fibrous, whereas the stolons can be up to 10 feet (3 m) in length. The stolons have many rooting points at their swollen nodes. The inflorescence is a densely flowered, narrow panicle up to 5 inches (12 cm) in length; as it matures the seed turns brown [20,21,23].
 
-![Reproductive parts of a grass, with purple strands extruding from small green balls packed in several panicles along the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-panobt_plant.jpg)
+![Reproductive parts of a grass, with purple strands extruding from small green balls packed in several panicles along the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-panobt_plant.jpg?itok=7E01o4SB)
 
 Photo Credit
 

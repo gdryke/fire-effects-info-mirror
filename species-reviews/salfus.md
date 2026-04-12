@@ -34,7 +34,7 @@ Coladonato, Milo. 1993. _Salix fuscescens,_ Alaska bog willow. In: Fire Effects 
 
 ## Image Gallery
 
-![Photo of Alaska bog willow in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-salfus_plant.jpeg) Alaska bog willow. _Photo by Valeria Kovaleva, iNaturalist.org, some rights reserved._
+![Photo of Alaska bog willow in bloom.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-salfus_plant.jpeg) Alaska bog willow. _Photo by Valeria Kovaleva, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Valeria Kovaleva, iNaturalist.org, some rights reserved.
 
@@ -77,7 +77,7 @@ No entry.
 
 ## Botanical Description
 
-![Photo of Alaska bog willow in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-salfus_plant.jpeg)
+![Photo of Alaska bog willow in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salfus_plant.jpeg?itok=n0Ld9COt)
 
 Photo Credit
 

@@ -45,7 +45,7 @@ The scientific name of spiny phlox is _Phlox hoodii_ Richards. (Polemoniaceae) [
  * _Phlox hoodii_ ssp. _muscoides_(Nutt.) Wherry [57,70], moss phlox, musk phlox
  * _Phlox hoodii_ ssp. _viscidula_(Wherry) Wherry [57,70], carpet phlox
 
-![A close-up photo of white flowers of spiny phlox.]({{ site.baseurl }}/assets/images/species-reviews/feis-phlhoo_hero.jpg)
+![A close-up photo of white flowers of spiny phlox.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-phlhoo_hero.jpg?itok=C4Acogj_)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Plants Database provides a distributional map of spiny phlox and the following s
  * United States: AK AZ CA CO ID MT NE NV NM ND OR SD UT WA WY
  * Canada: AB BC SK YK
 
-![A photo of small, matted spiny phlox individuals covered in white flowers growing between widely-spaced sagebrush plants, with patchy bunchgrasses and forbs growing between.]({{ site.baseurl }}/assets/images/species-reviews/feis-phlhoo_sagebrush.jpg)
+![A photo of small, matted spiny phlox individuals covered in white flowers growing between widely-spaced sagebrush plants, with patchy bunchgrasses and forbs growing between.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-phlhoo_sagebrush.jpg?itok=0JgI60aV)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Wyoming big sagebrush| —| 7-12 inches; ~40% in growing season| moderate to fai
  
 ### Climate
 
-![A photo a desert plant community with forbs and small shrubs, including flowering spiny phlox, in an opening in a juniper woodland.]({{ site.baseurl }}/assets/images/species-reviews/phlhoo_phlhoo_habitat_1_0.jpg)
+![A photo a desert plant community with forbs and small shrubs, including flowering spiny phlox, in an opening in a juniper woodland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/phlhoo_habitat_1_0.jpg?itok=GxewUEZ6)
 
 Photo Credit
 
@@ -161,7 +161,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 ### Aboveground Description
 
-![A photo of a mat of flowers, with a few spiky leaves visible beneath the carpet of white, five-petaled flowers growing in sandy red dirt.]({{ site.baseurl }}/assets/images/species-reviews/feis-phlhoo_flowers.jpeg)
+![A photo of a mat of flowers, with a few spiky leaves visible beneath the carpet of white, five-petaled flowers growing in sandy red dirt.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-phlhoo_flowers.jpeg?itok=fwpT1Fpg)
 
 Photo Credit
 

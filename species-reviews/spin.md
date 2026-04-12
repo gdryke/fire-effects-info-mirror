@@ -59,7 +59,7 @@ The Great Basin spadefoot is distributed from south-central British Columbia sou
 
 ## Plant Communities
 
-![A photo of a small shallow pond in an open, scrubby desert environment.]({{ site.baseurl }}/assets/images/species-reviews/feis-spin_habitat.jpg)
+![A photo of a small shallow pond in an open, scrubby desert environment.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-spin_habitat.jpg?itok=LJFBkFZy)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Great Basin spadefoots occur in sagebrush (_Artemisia_ spp.), shadscale (_Atripl
 
 ## Biological Characteristics
 
-![A photo of a fat, round, tan-colored toad with orangish spots on its back. The toad is sitting in sandy soil with a few small plants growing nearby, and is covered in a thin layer of sand.]({{ site.baseurl }}/assets/images/species-reviews/feis-spin_sand.jpg)
+![A photo of a fat, round, tan-colored toad with orangish spots on its back. The toad is sitting in sandy soil with a few small plants growing nearby, and is covered in a thin layer of sand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-spin_sand.jpg?itok=SLKdUNcn)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Spadefoots extend their dormancy period during drought, and can apparently remai
 
 Each female produces several hundred eggs contained in a sticky gel. The female deposits her fertilized eggs in several different locations within the breeding water: on vegetation, rocks, or anything else that anchors the eggs. After mating, females return to their burrows. Males stay at the breeding pool and continue vocalizing until females stop arriving (presumably because all females in the vicinity have mated); then the males also return to their burrows [3].
 
-![Two photos side by side. In the left photo, a drop of water holds two tiny dark tadpoles. On the right, a dark-colored tadpole swims in water.]({{ site.baseurl }}/assets/images/species-reviews/feis-spin_development.jpg)
+![Two photos side by side. In the left photo, a drop of water holds two tiny dark tadpoles. On the right, a dark-colored tadpole swims in water.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-12/feis-spin_development.jpg?itok=E9yjbs3E)
 
 Photo Credit
 

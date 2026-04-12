@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Mojave mid-elevation mixed desert scrub com
 
 ## Distribution
 
-![Map of the far southwestern United States showing the distribution of Mojave mid-elevation mixed desert scrub communities, mostly in southeastern California, southern Nevada and northwestern Arizona, with other occurrences throughout Arizona and in Utah and New Mexico.]({{ site.baseurl }}/assets/images/fire-regimes/mojave-mid-elevation-mixed-desert-scrub_feis-MojaveMidelevationMixed_FRR_map.jpg)
+![Map of the far southwestern United States showing the distribution of Mojave mid-elevation mixed desert scrub communities, mostly in southeastern California, southern Nevada and northwestern Arizona, with other occurrences throughout Arizona and in Utah and New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-MojaveMidelevationMixed_FRR_map.jpg?itok=4f8XUG3O)
 
 Photo Credit
 

@@ -76,7 +76,7 @@ SASALB| sassafras| _Sassafras albidum_| **Life Form:** Plants/Shrub, Plants/Tree
 
 ## Image Gallery
 
-![Photo of table mountain pine branch with green needles and cones.]({{ site.baseurl }}/assets/images/fire-studies/waldrop-et-al-2007_feis-pinpun_hero.jpg) Table mountain pine (CC BY 4.0). _Photo by Kirk Gardner, iNaturalist.org, some rights reserved._ 
+![Photo of table mountain pine branch with green needles and cones.](https://research.fs.usda.gov/sites/default/files/2026-01/feis-pinpun_hero.jpg) Table mountain pine (CC BY 4.0). _Photo by Kirk Gardner, iNaturalist.org, some rights reserved._ 
  
 Photo Credit: Photo by Kirk Gardner, iNaturalist.org, some rights reserved.
 

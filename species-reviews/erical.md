@@ -48,7 +48,7 @@ mountain balm
 
 ## Distribution
 
-![Photo of map distribution of California yerba santa.]({{ site.baseurl }}/assets/images/species-reviews/feis-erical_map.png)
+![Photo of map distribution of California yerba santa.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-erical_map.png?itok=5CBa48mt)
 
 Photo Credit
 

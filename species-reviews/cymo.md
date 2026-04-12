@@ -34,7 +34,7 @@ Sullivan, Janet. 1994. _Cyrtonyx montezumae_ , Montezuma quail. In: Fire Effects
 
 ## Image Gallery
 
-![Montezuma quail with striking black and white head.]({{ site.baseurl }}/assets/images/species-reviews/feis-cymo_montezuma-quail.jpg) Montezuma quail in the Davis Mountains, Texas. _Photo by Greg Lasley and courtesy of iNaturalist, with some rights reserved (CC BY-NC)._
+![Montezuma quail with striking black and white head.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-cymo_montezuma-quail.jpg) Montezuma quail in the Davis Mountains, Texas. _Photo by Greg Lasley and courtesy of iNaturalist, with some rights reserved (CC BY-NC)._
 
 Photo Credit: Photo by Greg Lasley and courtesy of iNaturalist, with some rights reserved (CC BY-NC).
 

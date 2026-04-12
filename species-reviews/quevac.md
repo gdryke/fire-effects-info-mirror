@@ -61,7 +61,7 @@ Huckleberry oak is distributed along the Sierra Nevada and the Cascade Range fro
 
 ## Site Characteristics
 
-![Photo of huckleberry oak growing in a draw of Kennedy Canyon, Stanislaus National Forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-quevac_habitat.jpg)
+![Photo of huckleberry oak growing in a draw of Kennedy Canyon, Stanislaus National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-quevac_habitat.jpg?itok=bYr2j_SL)
 
 Photo Credit
 

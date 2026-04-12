@@ -77,7 +77,7 @@ European larch is a subalpine or montane species, occurring in the Alps with Swi
 
 ## Botanical Description
 
-![A photo of a broad, long-branched conifer tree with yellowish needles growing in a field of dry grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-lardec_tree.jpeg)
+![A photo of a broad, long-branched conifer tree with yellowish needles growing in a field of dry grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lardec_tree.jpeg?itok=KJqVHLhb)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ The growing season of European larch in North America is at least 100 days, long
 
 The female cones appear before leaf-out in early spring and pollination occurs from March to May or June [14,17]. The seed cones ripen from September to December of the same year, and the seeds are dispersed from September to spring [17]. In Great Britain, European larch cones do not open until spring [3]. European larch needles die and are abscised in early November in the British Isles; some are retained through December [15].
 
-![A photo of a conifer tree's drooping branches with yellowish needles and brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-lardec_cones.jpg)
+![A photo of a conifer tree's drooping branches with yellowish needles and brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lardec_cones.jpg?itok=LqcLIoEw)
 
 Photo Credit
 

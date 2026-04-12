@@ -85,7 +85,7 @@ Numerous classifications use wild sarsaparilla as a dominant or indicator unders
 
 Wild sarsaparilla is a native, dioecious, perennial forb [36,39]. It has long rhizomes that are between 1.2 and 4.7 inches (3-12 cm) deep in the mineral soil, with an average depth of 2.4 inches (6 cm) [42]. Wild sarsaparilla is acaulescent; vegetative shoots may be up to 27.6 inches (70 cm) tall with two to three compound leaves [34,36,54]. Reproductive shoots are shorter with two to seven umbels [39]. There is an average of five seeds per fruit [10,48].
 
-![Several pinnately compound, bright green leaves.]({{ site.baseurl }}/assets/images/species-reviews/aranud_aranud_leaves.jpg)
+![Several pinnately compound, bright green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/aranud_leaves.jpg?itok=LIiiXWc5)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Wild sarsaparilla leaves.
 
 Wild sarsaparilla emerges from leaf litter by mid-April or May, and leaves expand before the canopy closes [23,30]. It flowers from May to July throughout its range [76,110,120]. Fruits mature in about 32 days [56]. Leaves begin to drop by mid-September. Wild sarsaparilla is dormant during the winter [30].
 
-![A cluster of black fruits at the end of a branch with green foliage behind.]({{ site.baseurl }}/assets/images/species-reviews/aranud_aranud_fruits.jpeg)
+![A cluster of black fruits at the end of a branch with green foliage behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/aranud_fruits.jpeg?itok=t7sKoYyS)
 
 Photo Credit
 

@@ -138,7 +138,7 @@ Kentucky bluegrass is ubiquitous. Associated species in specific habitats are pr
 
 Kentucky bluegrass is an introduced, perennial, short to medium-tall, cool-season, sod-forming grass. The leaves are primarily basally attached and are usually 4 to 12 inches (10-30 cm) long [100]. Stems are numerous in a tuft and grow 12 to 36 inches (30-91 cm) high. The inflorescence is an open panicle. Kentucky bluegrass is shallow rooted and is intolerant of drought. Most roots and rhizomes are found within 3 inches (7.5 cm) of the soil surface [40].
 
-[![A photo of a grass growing amongst other low vegetation with shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-poapra_plant.jpg)Photo Credit Photo by Robert Vidéki, Doronicum Kft., Bugwood.org (CC BY-NC 3.0). Kentucky bluegrass.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A photo of a grass growing amongst other low vegetation with shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poapra_plant.jpg?itok=yRkCKYVF)Photo Credit Photo by Robert Vidéki, Doronicum Kft., Bugwood.org (CC BY-NC 3.0). Kentucky bluegrass.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -182,7 +182,7 @@ In the Intermountain West, aspen/Kentucky bluegrass communities are grazing-indu
 
 In ponderosa pine and bunchgrass habitat types, Kentucky bluegrass is often the herbaceous layer dominant on sites with a history of past grazing abuse. Daubenmire [25] called such sites a "zootic climax" because even after the grazing disturbance has been stopped for many years, there is no indication that Kentucky bluegrass will give way to the native climax species.
 
-[![Two fingers hold dried reproductive grass stems. A dry hillside is in the background, with a few trees visible over the top of the hill.]({{ site.baseurl }}/assets/images/species-reviews/poapra_poapra_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Kentucky bluegrass on a dry, south-facing road cut in Montana, growing with quackgrass (_Agropyron repens_).](<https://creativecommons.org/licenses/by/4.0/>)
+[![Two fingers hold dried reproductive grass stems. A dry hillside is in the background, with a few trees visible over the top of the hill.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/poapra_community.jpg?itok=65x7NLMI)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Kentucky bluegrass on a dry, south-facing road cut in Montana, growing with quackgrass (_Agropyron repens_).](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Fire Ecology and Management
 

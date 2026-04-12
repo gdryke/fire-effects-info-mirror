@@ -79,7 +79,7 @@ Red fescue is distributed circumboreally [4,44,87]. It occurs throughout the Uni
 
 Red fescue occurs on dry to wet sites [17,30] in open habitats [26] from sea level to high elevations [39]. It is found on sand dunes [39,42,47,51], dry beaches [1,18,23,67], and coastal headlands [23,39]. It occurs at the upper zone of tidal salt marshes [12,18,56,67]. It grows on freshwater shores [85], bogs, and marshes [30,41]. It occurs in mountain meadows and clearings [42]. It is found in fields, on roadsides [62,85], and on disturbed sites [58].
 
-[![A photo of a meadow with tall grasses and forbs, with deciduous trees in the background at a similar elevation and conifers covering the slopes of the hills. A person wearing a white shirt is standing in the meadow.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesrub_meadow.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). A meadow in the Carson Range in Nevada where red fescue is growing with a spreading, rhizomatous growth form.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a meadow with tall grasses and forbs, with deciduous trees in the background at a similar elevation and conifers covering the slopes of the hills. A person wearing a white shirt is standing in the meadow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fesrub_meadow.jpg?itok=tJaINkyI)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). A meadow in the Carson Range in Nevada where red fescue is growing with a spreading, rhizomatous growth form.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Red fescue tolerates spring flooding and some water logging and grows well under irrigation. It can grow on clay, loam, and sandy soils provided moisture is adequate. It is also able to withstand some drought. It tolerates low fertility soils fairly well [71].
 
@@ -99,7 +99,7 @@ Montana| 3,200–5,000| 975–1,524| [17]
 Oregon| 3,700–8,000| 1,128–2,438| [2, 38, 43] 
 Utah| 4,500–9,300| 1,372–2,835| [17] 
 Wyoming| 8,000| 2,438| [17] 
-[![A photo of grasses growing by a creek, with sagebrush scrub and a few cottonwood trees on the other side of the creek and a shrub-covered hillside in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesrub_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Red fescue growing in Yellowstone National Park, Wyoming.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grasses growing by a creek, with sagebrush scrub and a few cottonwood trees on the other side of the creek and a shrub-covered hillside in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fesrub_community.jpg?itok=L54LPO1u)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Red fescue growing in Yellowstone National Park, Wyoming.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Plant Communities
 
@@ -116,7 +116,7 @@ Red fescue is a dominant species in the following published classifications:
 
 Red fescue is a cool-season [83], perennial, loosely to densely tufted grass [26,30,42]. Red fescue culms are hollow, 12 to 39 inches (30-100 cm) tall [26,74], and erect from a curved base [44,87]. Young basal shoots emerge from leaf axils and break through the bases of leaf sheaths. The lower sheaths soon disintegrate into loose fibers [23,26]. Leaves are mostly basal [62,88]; blades are 2 to 6 inches (5-15 cm) long [4,30] and 0.04 to 0.09 inch (1-2 mm) wide [26,30]. The inflorescence is a narrow panicle 1.2 to 8 inches (3-20 cm) long [39,41]. Spikelets are three- to ten-flowered [23,26,30,62]. Lemmas are awnless to awned [56]; the awns are up to 0.16 inch (4 mm) long [4,39,59]. Red fescue may spread by strong rhizomes, forming a turf; plants with this growth form are called creeping red fescue. Red fescue may be without rhizomes, forming only tufts. It may also be intermediate, forming short rhizomes [53,71]. In some red fescue populations rhizome growth is a response to environmental conditions [1].
 
-[![A photo of a cluster of grass panicles, as if held but a hand is not visible in the photo, with an out-of-focus background of green vegetation and hills.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesrub_reproduction.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (C BY 4.0). Panicles of red fescue.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a cluster of grass panicles, as if held but a hand is not visible in the photo, with an out-of-focus background of green vegetation and hills.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fesrub_reproduction.jpg?itok=NAdYVn0E)Photo Credit Photo by Matt Lavin, iNaturalist (C BY 4.0). Panicles of red fescue.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Red fescue is long lived in northern latitudes and at high elevations. It can form dense cover [83].
 

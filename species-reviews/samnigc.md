@@ -74,7 +74,7 @@ Blue elderberry's range in western North America is from southern British Columb
 
 ## Site Characteristics
 
-![A shrubby tree with white flowers growing in a conifer forest, with conifer trees and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-samnigc_habitat.jpg)
+![A shrubby tree with white flowers growing in a conifer forest, with conifer trees and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-samnigc_habitat.jpg?itok=jrhJz-m7)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Associated Species: Blue elderberry tends to grow as individual plants among oth
 
 ## Botanical Description
 
-![a close up photo showing part of a shrubby plant with clusters of puffy white flowers growing in the shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-samnigc_flowers.jpg)
+![a close up photo showing part of a shrubby plant with clusters of puffy white flowers growing in the shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-samnigc_flowers.jpg?itok=apxOIasG)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Meyer, Rachelle. 2011. _Schinus terebinthifolius_ , Brazilian pepper. In: Fire E
 
 ## Taxonomy
 
-![A photo of a large, leafy shrub with multiple woody stems and clusters of red fruits at the ends of branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-schter_plant.jpg)
+![A photo of a large, leafy shrub with multiple woody stems and clusters of red fruits at the ends of branches.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-schter_plant.jpg)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ _Schinus terebinthifolius_ var. _raddianus_ is reported throughout Brazilian pep
 
 ## Site Characteristics
 
-![A photo of a dense stand of leafy shrubs with grasses growing in front and a few palm trees growing within or behind the shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-schter_stand.jpg)
+![A photo of a dense stand of leafy shrubs with grasses growing in front and a few palm trees growing within or behind the shrubs.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-schter_stand.jpg)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Brazilian pepper occupies mangrove swamps dominated by black mangrove (_Avicenni
 
 Brazilian pepper also inhabits shrub communities in Florida. Along the Atlantic Coast, Brazilian pepper occurred in scrub communities commonly comprised of saw-palmetto, sand live oak, cabbage palmetto, myrtle oak (_Quercus myrtifolia_), yaupon (_Ilex vomitoria_), and seagrape (_Coccoloba uvifera_) [62]. In southern Florida, species such as Brazilian pepper, button mangrove, buttonbush, and melaleuca may form "shrub islands" among graminoids like cordgrass, saltgrass (_Distichlis_ spp.), and stout rush (_Juncus nodatus_) [3].
 
-![A photo of several leafy stems with cluster of red berries, with still water behind with some wetland vegetation extending into the water.]({{ site.baseurl }}/assets/images/species-reviews/feis-schter_habitat.jpg)
+![A photo of several leafy stems with cluster of red berries, with still water behind with some wetland vegetation extending into the water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schter_habitat.jpg?itok=jZQ0hND7)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Little is published about Brazilian pepper distribution in Texas and California.
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [12,70,113]).
 
-![A photo of shiny, glabrous leaves comprised of relatively large leaflets, with small, somewhat inconspicuous pale-yellow flowers and light green unripe fruits growing on panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-schter_flower.jpg)
+![A photo of shiny, glabrous leaves comprised of relatively large leaflets, with small, somewhat inconspicuous pale-yellow flowers and light green unripe fruits growing on panicles.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-schter_flower.jpg)
 
 Photo Credit
 

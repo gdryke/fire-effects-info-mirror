@@ -133,7 +133,7 @@ Associated species: Slender wheatgrass associates are too numerous to list due t
 
 Slender wheatgrass is a perennial, cool-season, short-lived, coarse, tufted bunchgrass. Leaves are from 3 to 13 inches (8-33 cm) long and 0.25 to 0.5 inch (0.6-1.3 cm) wide, with basal leaves longer than upper leaves. The culms are erect, ranging from 6 to 48 inches (8-120 cm) in height, and bear terminal, erect spikes [37,55]. The root system is dense, consisting of coarse and fine fibrous roots which extend beyond 12 inches (30 cm) in depth. One author has reported this species as having short rhizomes [23]. The dense root system makes this species moderately drought tolerant [44].
 
-[![A green bunchgrass growing in brown, dried, cracked soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-elytra_plant.jpg)Photo Credit Photo by Matt Lavin (CC BY 4.0). Slender wheatgrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A green bunchgrass growing in brown, dried, cracked soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-elytra_plant.jpg?itok=U-3cIlAr)Photo Credit Photo by Matt Lavin (CC BY 4.0). Slender wheatgrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -154,7 +154,7 @@ Seeds disseminated| September–October| September–November
 
 **Sexual:** Slender wheatgrass is a self-pollinated or wind-pollinated species with heavy seed production [5,20,23]. Seed is disseminated by transport on animal hides. The seed, stored in seed banks, remains viable for 3 to 6 years, with a germination capacity of 80 to 90 percent. This species requires 1- to 2-month short night/long day stratification prior to germination. The temperature and light regime required for optimal germination fluctuates from a daily minimum of 59 degrees Fahrenheit (15 deg C) for 16 hours without light to a maximum of 77 degrees (25 deg C) for 8 hours with light [20,42]. Slender wheatgrass requires a moderately moist bare mineral or lightly mulched seedbed. It is a good competitor on disturbed sites for the first 2 to 3 years. Seedling establishment is often poor in older communities because seedlings to not grow well in thatch or other heavy litter [40]. Generally, seed dispersal and seedling establishment is the primary method of reproduction in this species [23]. Considerable variation, however, has been noted among northern ecotypes in both seed production and vegetative reproduction.
 
-[![Three green reproductive spikes of a grass in the foreground. The out-of-focus background shows a road extending into the distance through shrubby, rolling hills below blue skies.]({{ site.baseurl }}/assets/images/species-reviews/elytra_elytra_reproduction.jpg)Photo Credit Photo by Matt Lavin (CC BY 4.0). Reproductive slender wheatgrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Three green reproductive spikes of a grass in the foreground. The out-of-focus background shows a road extending into the distance through shrubby, rolling hills below blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/elytra_reproduction.jpg?itok=VuXY6WRP)Photo Credit Photo by Matt Lavin (CC BY 4.0). Reproductive slender wheatgrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 **Vegetative:** Slender wheatgrass reproduces asexually by tillering [23].
 

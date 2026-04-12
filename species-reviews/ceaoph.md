@@ -36,7 +36,7 @@ Sclafani, Christie J. 2012. _Ceanothus ophiochilus_ , Vail Lake ceanothus. In: F
 
 In August of 2012 an extensive search was done to locate information on Vail Lake ceanothus (see [FEIS's list of source literature](<https://research.fs.usda.gov/feis/sources>)). The following paragraphs provide details of the available information.
 
-![A photo of several branches of a shrub with narrow leaves and visible nodes.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceaoph_twig.jpg)
+![A photo of several branches of a shrub with narrow leaves and visible nodes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-ceaoph_twig.jpg?itok=jGj8VSBA)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ No entry.
 
 ## General Distribution
 
-![A map of California with the floristic province of the Peninsular Ranges highlighted pink. ]({{ site.baseurl }}/assets/images/species-reviews/feis-ceaoph_map.jpg)
+![A map of California with the floristic province of the Peninsular Ranges highlighted pink. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-ceaoph_map.jpg?itok=DTDpmGFm)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Vail Lake ceanothus grows in chaparral communities dominated or codominated by c
 
 ## Botanical Description
 
-![A photo of straight twigs with bumpy nodes and bright green, opposite leaves. White flowers grow in clusters from branch ends.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceaoph_hero.jpeg)
+![A photo of straight twigs with bumpy nodes and bright green, opposite leaves. White flowers grow in clusters from branch ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-ceaoph_hero.jpeg?itok=403WtM2k)
 
 Photo Credit
 

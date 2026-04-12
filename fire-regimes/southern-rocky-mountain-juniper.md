@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southern Rocky Mountain juniper communities
 
 ## Distribution
 
-![Map of the south-central United States showing the distribution of juniper woodland and savanna in southern Colorado, eastern New Mexico, northwestern Texas, and western Oklahoma.]({{ site.baseurl }}/assets/images/fire-regimes/southern-rocky-mountain-juniper_feis-SRM_juniper_FRR_map.jpg)
+![Map of the south-central United States showing the distribution of juniper woodland and savanna in southern Colorado, eastern New Mexico, northwestern Texas, and western Oklahoma.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-SRM_juniper_FRR_map.jpg?itok=ax91g23o)
 
 Photo Credit
 

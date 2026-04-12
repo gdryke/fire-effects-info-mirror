@@ -34,7 +34,7 @@ Taylor, Jane E. 2005. _Opuntia fragilis,_ brittle pricklypear. In: Fire Effects 
 
 ## Image Gallery
 
-![Two bright yellow flowers atop a spiny cactus.]({{ site.baseurl }}/assets/images/species-reviews/feis-opufra_flower.jpg) Brittle pricklypear cactus on a roadside near Savona, British Columbia. _Photo by Murray Foubister, Creative Commons Attribution-Share Alike 2.0._
+![Two bright yellow flowers atop a spiny cactus.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-opufra_flower.jpg) Brittle pricklypear cactus on a roadside near Savona, British Columbia. _Photo by Murray Foubister, Creative Commons Attribution-Share Alike 2.0._
 
 Photo Credit: Photo by Murray Foubister, Creative Commons Attribution-Share Alike 2.0.
 

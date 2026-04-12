@@ -34,7 +34,7 @@ Matthews, Robin F. 1993. _Lupinus sericeus_ , silky lupine. In: Fire Effects Inf
 
 ## Introduction
 
-![A photo of a light blue, flowering lupine raceme with blue and white flowers and sloping hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-lupser_habitat.jpg)
+![A photo of a light blue, flowering lupine raceme with blue and white flowers and sloping hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lupser_habitat.jpg?itok=3-NV1exX)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Aboveground portions of silky lupine are most likely destroyed by fire. Deeply b
  * Caudex, growing points in soil
  * Ground residual colonizer (on-site, initial community)
 
-![A photo of a blue flowering terminal raceme on a forb with palmate leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-lupser_controlledburn.jpg)
+![A photo of a blue flowering terminal raceme on a forb with palmate leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lupser_controlledburn.jpg?itok=dyOEVXCa)
 
 Photo Credit
 

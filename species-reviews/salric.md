@@ -34,7 +34,7 @@ Esser, Lora L. 1992. _Salix richardsonii_ , Richardson's willow. In: Fire Effect
 
 ## Image Gallery
 
-![Close up photo of a leafy branch with small twigs and narrow, light green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-salric_plant.jpg) Richardson's willow. (CC BY 4.0) _Photo by David McCorquodale, iNaturalist.org, some rights reserved._
+![Close up photo of a leafy branch with small twigs and narrow, light green leaves.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-salric_plant.jpg) Richardson's willow. (CC BY 4.0) _Photo by David McCorquodale, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by David McCorquodale, iNaturalist.org, some rights reserved. 
 

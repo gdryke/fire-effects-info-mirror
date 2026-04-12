@@ -60,7 +60,7 @@ Redberry juniper occurs in disjunct populations from western Texas (Trans-Pecos)
 
 ## Site Characteristics
 
-![A photo of a round, shrubby conifer tree growing in a rocky desert setting, with some prickly pear cactus in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncoa_habitat.jpg)
+![A photo of a round, shrubby conifer tree growing in a rocky desert setting, with some prickly pear cactus in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-juncoa_habitat.jpg?itok=HZhWDytO)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ A publication listing redberry juniper as a codominant species is as follows:
 
 ## Botanical Description
 
-![A photo of a conifer branch with tight, small needle-like leaves and reddish berries. The background is more branches and sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncoa_berries.jpg)
+![A photo of a conifer branch with tight, small needle-like leaves and reddish berries. The background is more branches and sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-juncoa_berries.jpg?itok=w8EXOyEI)
 
 Photo Credit
 

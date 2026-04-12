@@ -101,7 +101,7 @@ Pennsylvania sedge is a native, low-growing, grass-like rhizomatous plant [16,37
 
 Pennsylvania sedge occurs in clustered, resilient, persistent tufts [16,26]. It is characteristically found in extensive, pure stands [8].
 
-[![Low-growing sedges with apparent reproduction provide cover of a forest floor. A few trunks are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/carpes_carpes_plants.jpg)Photo Credit Photo by Byran Connolly, iNaturalist (CC BY 4.0) Pennsylvania sedge plants.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Low-growing sedges with apparent reproduction provide cover of a forest floor. A few trunks are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carpes_plants.jpg?itok=CxkisRta)Photo Credit Photo by Byran Connolly, iNaturalist (CC BY 4.0) Pennsylvania sedge plants.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -124,7 +124,7 @@ Pennsylvania sedge regenerates primarily by vegetative means [9]. Its long rhizo
 
 Pennsylvania sedge is wind pollinated and reproduces by seed; however, seedlings are rare [9,26].
 
-[![A green sedge with reproductive spikes. Spikes are black and cylindrical, and have bright yellow extrusions from spikes, giving the appearance of a tuft around each spike. A few dried fall leaves are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-carpes_reproduction.jpg)Photo Credit Photo by Brian Hunt, iNaturalist (CC BY 4.0). Reproductive Pennsylvania sedge plant.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A green sedge with reproductive spikes. Spikes are black and cylindrical, and have bright yellow extrusions from spikes, giving the appearance of a tuft around each spike. A few dried fall leaves are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carpes_reproduction.jpg?itok=aeFhs9oN)Photo Credit Photo by Brian Hunt, iNaturalist (CC BY 4.0). Reproductive Pennsylvania sedge plant.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Successional Status
 

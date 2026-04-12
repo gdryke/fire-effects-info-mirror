@@ -53,7 +53,7 @@ dwarf blueberry, Florida evergreen blueberry, ground blueberry, low blueberry, s
 
 Shiny blueberry grows along the southeastern Coastal Plain and Gulf Coast from South Carolina through southern Georgia and northern Florida to southwestern Alabama [18,42]. It extends southward to peninsular Florida [18]. Disjunct populations occur in the Metamorphic Hills of Alabama [42].
 
-![A map of the southeastern U.S. with areas highlighted in green where shiny blueberry occurs, mostly in Florida and some counties in adjacent states.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmys_map.jpg)
+![A map of the southeastern U.S. with areas highlighted in green where shiny blueberry occurs, mostly in Florida and some counties in adjacent states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacmys_map.jpg?itok=JQ3-IFFn)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Distribution of shiny blueberry.
 
 ## Plant Communities
 
-![A photo of two low, mounded shrubs with small leaves growing in front of a mixed forest. The ground is sandy and has blackened, burned patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmys_habitat.jpeg)
+![A photo of two low, mounded shrubs with small leaves growing in front of a mixed forest. The ground is sandy and has blackened, burned patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacmys_habitat.jpeg?itok=OtcTQDJm)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Shiny blueberry commonly grows in prairies, pine forests or barrens, and at the 
 
 ## Botanical Description
 
-![A photo of a shrub with many red berries growing in clusters. The shrub is growing closely among other shrubs and plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmys_fruit.jpg)
+![A photo of a shrub with many red berries growing in clusters. The shrub is growing closely among other shrubs and plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacmys_fruit.jpg?itok=sPoBnVuU)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Shiny blueberry is well able to persist despite periodic fires. Evidence suggest
 
 ## Plant Response to Fire
 
-![A photo of several small, bright green shrubs growing at the base of burned palm-like plants.]({{ site.baseurl }}/assets/images/species-reviews/vacmys_feis-vvacmys_postfire.jpg)
+![A photo of several small, bright green shrubs growing at the base of burned palm-like plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vvacmys_postfire.jpg?itok=CCmDmmZu)
 
 Photo Credit
 

@@ -53,7 +53,7 @@ creosote bush, greasewood
 
 ## General Distribution
 
-![Photo of map distribution of creosotebush.]({{ site.baseurl }}/assets/images/species-reviews/feis-lartri_map.png)
+![Photo of map distribution of creosotebush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-lartri_map.png?itok=Pad_YMgL)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Publications listing creosotebush as a dominant or codominant species include:
 
 ## Botanical Description
 
-![Photo of flowering creosote bush.]({{ site.baseurl }}/assets/images/species-reviews/feis-lartri_plant.jpeg)
+![Photo of flowering creosote bush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-lartri_plant.jpeg?itok=o_lbZTpY)
 
 Photo Credit
 

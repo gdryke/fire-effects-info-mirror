@@ -61,7 +61,7 @@ Austrian brome, awnless brome, bromegrass, Hungarian brome, Russian brome
 
 Smooth brome is native to Eurasia. In North America it occurs from Alaska and all the Canadian provinces and territories south to southern California and New Mexico, northern Oklahoma, and North Carolina [6,61,67,90,99,110].
 
-![Map showing smooth brome distribution in the United States and Canada, where it occurs in all but two states and every province, and it is both native and nonnative.]({{ site.baseurl }}/assets/images/species-reviews/feis-broine_map.jpg)
+![Map showing smooth brome distribution in the United States and Canada, where it occurs in all but two states and every province, and it is both native and nonnative.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-broine_map.jpg?itok=p8a0ymyR)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ No entry.
 
 ## Botanical Description
 
-![Smooth brome plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-broine_plant.jpg)
+![Smooth brome plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-broine_plant.jpg?itok=t23UQ539)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Due to cloning, smooth brome is a long-lived species. Plantings have persisted f
 
 Smooth brome undergoes fall green-up. Inflorescences are initiated during cool, short fall days [90]. In colder climates, smooth brome is dormant in winter. It may remain green year-round in southern climates [76]. Spring growth begins early in the season [110,107]. Lengthening culms expose the panicles in late spring to early summer [90], and smooth brome flowers in summer. In Minnesota, flowering occurred from early to late June [80,86]. It occurred in late May or early June in Ames, Iowa, with later, sporadic flowering [72]. Phenology is delayed in northern latitudes and high elevations. Smooth brome on the Wasatch Plateau of Utah flowers 85 to 102 days after snowmelt [44]. Seed matures in early to late summer [49]. Smooth brome grows throughout the growing season when soil water is adequate. Under dry soil conditions it becomes dormant, but it resumes growth when soils moisten [16].
 
-[![Close up photo of a grass panicle in a field, with mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/broine_feis-BROINE_plant.jpeg)Photo Credit Photo by Matt Berger, iNaturalist.org, (CC BY 4.0). Smooth brome panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Close up photo of a grass panicle in a field, with mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-BROINE_plant.jpeg?itok=6uaDaa56)Photo Credit Photo by Matt Berger, iNaturalist.org, (CC BY 4.0). Smooth brome panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Regeneration Processes
 
@@ -128,7 +128,7 @@ Smooth brome generally invades after disturbance and persists [19,20,37]. It is 
 
 Smooth brome tolerates moderate shade to full sun [49,56].
 
-[![Vast green field with a patch of flowering grasses in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/broine_feis-BROINE_habitat.jpeg)Photo Credit Photo by Caleb Catto, iNaturalist.org, (CC BY 4.0). Patch of smooth brome in Saskatchewan.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Vast green field with a patch of flowering grasses in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-BROINE_habitat.jpeg?itok=vm-3rr_A)Photo Credit Photo by Caleb Catto, iNaturalist.org, (CC BY 4.0). Patch of smooth brome in Saskatchewan.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Fire Ecology and Management
 

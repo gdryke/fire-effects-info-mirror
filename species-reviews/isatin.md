@@ -34,7 +34,7 @@ Zouhar, Kris. 2009. _Isatis tinctoria_ , Dyer's woad. In: Fire Effects Informati
 
 ## Introduction
 
-![Photo of two flowering stems with small yellow flowers at the end and pendulant, green seed pods below them against a gray background.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_flowering_stems.jpg)
+![Photo of two flowering stems with small yellow flowers at the end and pendulant, green seed pods below them against a gray background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_flowering_stems.jpg?itok=fbDoNJQZ)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ asp-of-Jerusalem
 
 ## General Distribution
 
-![Photo of an herbaceous plant with small leaves and abundant yellow flowers on top, growing in rocky soil with scattered, small herbs.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_plant2.jpg)
+![Photo of an herbaceous plant with small leaves and abundant yellow flowers on top, growing in rocky soil with scattered, small herbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_plant2.jpg?itok=lJd98d9b)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Specific root length (m/g)| 1.07*| 0.77
 
 Plant community associations of nonnative species are often difficult to describe accurately because detailed survey information is lacking, there are gaps in understanding of nonnative species' ecological relationships, and nonnative species may still be expanding their North American range. Dyer's woad likely occurs in plant communities other than those discussed here and listed in the Fire Regime Table (table A1).
 
-![Photo of scattered, herbaceous plants growing on a rocky hillside above a river flowing through forested land.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_habitat.jpg)
+![Photo of scattered, herbaceous plants growing on a rocky hillside above a river flowing through forested land.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_habitat.jpg?itok=Vvs55n87)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ As of 1991, a population of Dyer's woad had persisted for "many years" in a blue
 
 ## Botanical Description
 
-![Photo of an herbaceous plant with lance-shaped leaves mostly near the base of the stem and topped with abundant yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_plant.jpg)
+![Photo of an herbaceous plant with lance-shaped leaves mostly near the base of the stem and topped with abundant yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_plant.jpg?itok=RK2BQ_XK)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ A 1983 field survey of Dyer's woad in Idaho revealed some morphological variatio
 
 ### Belowground Description
 
-![Photo of excavated plants laying on a blue cloth, showing large taproots and smaller, branched roots.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_roots.jpg)
+![Photo of excavated plants laying on a blue cloth, showing large taproots and smaller, branched roots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_roots.jpg?itok=3aBGExMb)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ Dyer's woad plants collected from disturbed sites in Utah were nonmycorrhizal; t
  * Hemicryptophyte
  * Therophyte [64]
 
-![Photo of three small plant stems: one with small yellow flowers; one with green, pendulant seed pods; and one with brownish black, mature seed pods.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_seeds.jpg)
+![Photo of three small plant stems: one with small yellow flowers; one with green, pendulant seed pods; and one with brownish black, mature seed pods.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_seeds.jpg?itok=_wZTlzRr)
 
 Photo Credit
 
@@ -397,7 +397,7 @@ As of this writing (2009) no information was available in the literature regardi
 
 As of this writing (2009) no information was available in the literature regarding Dyer's woad response to fire. The photos taken by Steven Dewey (above) were taken in late May or early June of 1996 in the foothills east of Brigham City, Utah. Prior to the late summer 1995 wildfire at that site, the plant community was a mixture of sagebrush, rabbitbrush (_Chrysothamnus_ spp.), native forbs, cheatgrass and Dyer's woad. Relative canopy cover of Dyer's woad before the fire was estimated at less than 10%. Dyer's woad increased dramatically following the wildfire. These and other observations in northern Utah indicate that Dyer's woad often persists and spreads following wildfire in that area (Dewey 2009, personal communication [15]). Similarly, Asher and others [5] mention examples of "severe post-fire weed spread and impacts" that include "Dyer's woad at Perry, Utah", although no additional information is given.
 
-![Photo of hills which are covered with brown and green vegetation, and foothills, which are covered mostly by a yellow flowering plant. ]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_postfire2.jpg)
+![Photo of hills which are covered with brown and green vegetation, and foothills, which are covered mostly by a yellow flowering plant. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_postfire2.jpg?itok=etebjGB6)
 
 Photo Credit
 
@@ -405,7 +405,7 @@ Photo © Steve Dewey, Utah State University, Bugwood.org.
 
 Dyer's woad infestation (yellow) in the foothills east of Brigham City, Utah, 9 months after late summer wildfire in 1995.
 
-![Photo of hills which are covered with brown and green vegetation, and foothills, which are covered mostly by a yellow flowering plant. ]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_postfire1.jpg)
+![Photo of hills which are covered with brown and green vegetation, and foothills, which are covered mostly by a yellow flowering plant. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ISATIN_postfire1.jpg?itok=5L5Mpo7O)
 
 Photo Credit
 
@@ -486,7 +486,7 @@ As of this writing (2009), research regarding impacts of Dyer's woad invasion on
 
 Dyer's woad seems to be most invasive in the Intermountain West, where it can spread rapidly and form dense infestations that may reduce forage grass production (review by [12]). Field studies and a review of the literature by Farah [20] suggest that the invasiveness and rapid spread of Dyer's woad in northern Utah may be due to its efficient utilization of environmental resources. Specifically, because Dyer's woad germinates both in the fall and spring, overwinters as a rosette, initiates early spring growth, has deep taproots, and possesses summer dormancy mechanisms, it may escape many restrictions by which growth and spread of associated native species are regulated [20]. Laboratory studies from California that demonstrate an allelopathic potential in Dyer's woad [87] (see Successional Status for details) are cited as evidence that Dyer's woad may chemically inhibit germination and root elongation of some competing species [20].
 
-![Photo of a large, green, grassy field with several clumps of a yellow-flowered plant scattered throughout.]({{ site.baseurl }}/assets/images/species-reviews/isatin_feis-ISATIN_infestation.jpg)
+![Photo of a large, green, grassy field with several clumps of a yellow-flowered plant scattered throughout.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-ISATIN_infestation.jpg?itok=PSiJ_Apl)
 
 Photo Credit
 

@@ -96,7 +96,7 @@ Common overstory species associated with timothy not listed in Distribution and 
 
 Species commonly associated with timothy not already listed include chokecherry (_Prunus_ spp.), snowberry (_Symphoricarpos_ spp.), woods rose (_Rosa woodsii_), sedges (_Carex_ spp.), spike-rush (_Eleocharis_ spp.), rushes (_Juncus_ spp.), cicer milkvetch (_Astragalus cicer_), rambler alfalfa (_Medicago media_), sainfoin (_Onobrychis viciifolia_), common yarrow (_Achillea millefolium_), field horsetail (_Equisetum arvense_), yellow salsify (_Tragopogon dubius_), aster (_Aster_ spp.), borage (_Borago officianalis_), cinquefoil (_Potentilla_ spp.), dandelion (_Taraxacum officinale_), willowweed (_Epilobium_ spp.), and dock (_Rumex_ spp.) [10,19,74,84].
 
-![A photo of grasses growing in front of thin conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-phlpra_community.jpeg)
+![A photo of grasses growing in front of thin conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-phlpra_community.jpeg?itok=NmdCOxFF)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Timothy growing with a variety of other life forms at the edge of a field.
 
 Timothy is an introduced, cool-season, perennial bunchgrass that grows from 20 to 40 inches (51-102 cm) tall [114,129]. Culms emerge from a swollen or bulblike base and form large clumps. The flowering heads of timothy are cylindrical and spikelike, and about 6 inches (15 cm) long. The one-flowered spikelet produces seeds that are small and enclosed in awned, urn-shaped husks [23,90,139]. Leaves of timothy are flat and 3 to 13 inches (7.6-33 cm) long [119]. Timothy is generally short-lived (4 to 5 years) but can live up to 6 or 7 years [124]. Timothy has a moderately shallow and fibrous root system; roots can extend to 48 inches (120 cm) in depth [129,139]. Timothy is nonrhizomatous [114,119]. Timothy plants contain corms at their base which are annual, forming in early summer and dying the next year when the seed matures [47].
 
-![A single grass stalk with a cylindrical reproductive head.]({{ site.baseurl }}/assets/images/species-reviews/phlpra_phlpra_repro.jpg)
+![A single grass stalk with a cylindrical reproductive head.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/phlpra_repro.jpg?itok=HfKQ3LtF)
 
 Photo Credit
 

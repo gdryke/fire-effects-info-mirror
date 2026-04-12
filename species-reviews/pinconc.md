@@ -89,7 +89,7 @@ Shore pine is listed as an indicator in the following published classifications:
 
 ## Botanical Description
 
-![A photo of a flat, wide pine tree with branches spreading out along the ground. There is a dirt walking path in front of the tree and the ocean is in the background, and some grass growing around the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconc_plant.png)
+![A photo of a flat, wide pine tree with branches spreading out along the ground. There is a dirt walking path in front of the tree and the ocean is in the background, and some grass growing around the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinconc_plant.png?itok=GfXnyb5I)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Male and female strobili are initiated late in the growing season. Development c
 
 Shore pine does not reproduce by sprouting [40].
 
-![A close up photo of a partially open gray pine cone attached to a gray, spiky branch. There are some green needles in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconc_cone.jpeg)
+![A close up photo of a partially open gray pine cone attached to a gray, spiky branch. There are some green needles in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinconc_cone.jpeg?itok=qNDl4q7s)
 
 Photo Credit
 

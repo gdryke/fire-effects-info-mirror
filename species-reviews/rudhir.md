@@ -59,7 +59,7 @@ bristly coneflower
 
 Blackeyed Susan is found throughout most of North America, particularly east of the Rocky Mountains [45,51]. It has been sporadically introduced into the Pacific Northwest [35]. Blackeyed Susan has also been introduced in Europe as an ornamental and has naturalized [57].
 
-![Map of the United States and Canada showing showing the distribution of blackeyed Susan, where it is native in almost every state and all southern provinces, but introduced in Alaska.]({{ site.baseurl }}/assets/images/species-reviews/feis-rudhir_DistribMap.png)
+![Map of the United States and Canada showing showing the distribution of blackeyed Susan, where it is native in almost every state and all southern provinces, but introduced in Alaska.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-rudhir_DistribMap.png?itok=hCdfvI0e)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Associates of blackeyed Susan in Sequoia National Park, California, on sites adj
 
 ## Botanical and Ecological Characteristics
 
-![Blackeyed Susan in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-rudhir.jpg)
+![Blackeyed Susan in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-rudhir.jpg?itok=nIfVtbxB)
 
 Photo Credit
 

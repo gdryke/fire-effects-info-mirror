@@ -53,7 +53,7 @@ downy sweet cicely, sweet cicely, sweet jarvil, wooly sweet cicely
 
 In Canada, Clayton's sweetroot is found from southern Manitoba east to Quebec and south to Newfoundland [11,14,15,21,31]. In the United States, Clayton's sweetroot is distributed from the New England states west to the Great Plains, extending south into central Arkansas and northern Alabama [3,14,20,29,32].
 
-![A map of the United States and Canada with states and territories where Clayton's sweetroot occurs highlighted in green. Most of the eastern U.S. and Canada are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-osmcla_map.jpg)
+![A map of the United States and Canada with states and territories where Clayton's sweetroot occurs highlighted in green. Most of the eastern U.S. and Canada are highlighted.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-osmcla_map.jpg)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Associated overstory species are bur oak (Quercus macrocarpa), yellow-poplar (Li
 
 Clayton's sweetroot is a native perennial forb with thickened fibrous roots extending from a caudex [11]. Its solitary stem grows from 12 to 35 inches (30-90 cm) high with compound leaves [6,36]. Flower stalks have very small umbels, producing thin black seeds with stiffly hairy ribs [3].
 
-![A plant with pointed leaves and small white flowers growing with other herbaceous plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-osmcla_plant.jpg)
+![A plant with pointed leaves and small white flowers growing with other herbaceous plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-osmcla_plant.jpg?itok=zXqaLkHV)
 
 Photo Credit
 

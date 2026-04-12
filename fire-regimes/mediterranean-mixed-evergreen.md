@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for mediterranean mixed-evergreen communities h
 
 ## Distribution
 
-![A map showing the distribution of mediterranean mixed-evergreen communities in California and Oregon.]({{ site.baseurl }}/assets/images/fire-regimes/mediterranean-mixed-evergreen_feis-mediterranean_mixed_evergreen_locator.jpg)
+![A map showing the distribution of mediterranean mixed-evergreen communities in California and Oregon.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-mediterranean_mixed_evergreen_locator.jpg?itok=mxtrHRcm)
 
 Photo Credit
 

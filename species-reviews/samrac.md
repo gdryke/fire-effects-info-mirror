@@ -36,7 +36,7 @@ Fryer, Janet L. 2008. _Sambucus racemosa_ , red elderberry. In: Fire Effects Inf
 
 ## Taxonomy
 
-![Photo showing the bright red berries of red elderberry plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-samrac_berries.jpg)
+![Photo showing the bright red berries of red elderberry plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-samrac_berries.jpg?itok=Sns8aonB)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Red elderberry is native to North America and Eurasia [57,95,126,137]. In North 
 
 ## Site Characteristics
 
-![Photo of an expansive sea inlet bordered by mountains on either side, with dense, green leafy shrubs with red berries in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/samrac_feis-SAMRAC_habitat.jpg)
+![Photo of an expansive sea inlet bordered by mountains on either side, with dense, green leafy shrubs with red berries in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-SAMRAC_habitat.jpg?itok=N1EXTSvZ)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ Vegetation classifications describing plant communities in which red elderberry 
 
 ## Botanical Description
 
-![Photo of red edlerberry with white flowers in panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-samrac_plant.jpeg)
+![Photo of red edlerberry with white flowers in panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-samrac_plant.jpeg?itok=JGGEoCug)
 
 Photo Credit
 
@@ -248,7 +248,7 @@ Closed canopies or browsing can reduce red elderberry flower and fruit productio
 
 ### Seed Dispersal
 
-![Photo of a small brown and black bird perched atop a cluster of red berries against the backdrop of a green, leafy shrub.]({{ site.baseurl }}/assets/images/species-reviews/samrac_feis-SAMRAC_alderflycatcher.jpg)
+![Photo of a small brown and black bird perched atop a cluster of red berries against the backdrop of a green, leafy shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-SAMRAC_alderflycatcher.jpg?itok=kMZ5Vxse)
 
 Photo Credit
 
@@ -481,7 +481,7 @@ None
 
 Information on state- and province-level protection status of red elderberry and its varieties in the United States and Canada is available at NatureServe.
 
-![Photo showing a small brown bird with a black "mask" and black wing feathers tipped with red perched on a cluster of green berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-samrac_waxwing.jpeg)
+![Photo showing a small brown bird with a black "mask" and black wing feathers tipped with red perched on a cluster of green berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-samrac_waxwing.jpeg?itok=Pz11CcyD)
 
 Photo Credit
 

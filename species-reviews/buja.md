@@ -46,7 +46,7 @@ The currently accepted scientific name for the red-tailed hawk is _Buteo jamaice
  * _B. jamaicensis_ spp. _kirderii_ Hoopes, Krider's hawk
  * _B. jamaicensis_ ssp. _umbrinus_ Bangs, Florida red-tailed hawk
 
-![A red-tailed hawk perched on a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-buja_bird.jpg)
+![A red-tailed hawk perched on a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-buja_bird.jpg?itok=kLHvqG2W)
 
 Photo Credit
 

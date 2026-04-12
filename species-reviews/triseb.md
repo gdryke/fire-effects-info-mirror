@@ -34,7 +34,7 @@ Meyer, Rachelle. 2011. _Triadica sebifera_ , Chinese tallow. In: Fire Effects In
 
 ## Introduction
 
-![A photo of somewhat round leaves turning orange in the fall with a cluster of white berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-triseb_seeds.jpg)
+![A photo of somewhat round leaves turning orange in the fall with a cluster of white berries.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-triseb_seeds.jpg)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ Chinese tallow is a native of China and Japan [52,112,113,125,210,214]. It has b
 
 ## Site Characteristics
 
-![A photo of shrubby trees along a waterway.]({{ site.baseurl }}/assets/images/species-reviews/feis-triseb_habitat.jpg)
+![A photo of shrubby trees along a waterway.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-triseb_habitat.jpg)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ In California, Chinese tallow is known to occur in riparian areas [24] including
 
 ## Botanical Description
 
-![A photo of a relatively young deciduous tree taken from above, with mostly green, oval-shaped leaves and young leaves at the tips ends of branches turning red.]({{ site.baseurl }}/assets/images/species-reviews/feis-triseb_hero.jpeg)
+![A photo of a relatively young deciduous tree taken from above, with mostly green, oval-shaped leaves and young leaves at the tips ends of branches turning red.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-triseb_hero.jpeg?itok=wxH4CG16)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ Chinese tallow regenerates by seed and by sprouting from the roots, particularly
 
 ### Pollination and Breeding System
 
-![A photo of somewhat round, green leaves with small flowers clustered along terminal spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-triseb_flower.jpg)
+![A photo of somewhat round, green leaves with small flowers clustered along terminal spikes.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-triseb_flower.jpg)
 
 Photo Credit
 
@@ -372,7 +372,7 @@ Preventing invasive plants from establishing in weed-free burned areas is the mo
 
 ### Use of Prescribed Fire as a Control Agent
 
-![A photo of dried grass and leafless trees with charred ground on one side and rather low flames reaching partway up the tree trunk.]({{ site.baseurl }}/assets/images/species-reviews/feis-triseb_burn.jpg)
+![A photo of dried grass and leafless trees with charred ground on one side and rather low flames reaching partway up the tree trunk.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-triseb_burn.jpg)
 
 Photo Credit
 

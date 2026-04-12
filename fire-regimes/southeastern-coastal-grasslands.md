@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southeastern coastal grassland communities 
 
 ## Distribution
 
-![A map showing the distribution of southeastern coastal grassland communities along the southern gulf coast of the U.S.]({{ site.baseurl }}/assets/images/fire-regimes/southeastern-coastal-grasslands_feis-southeastern_coastal_grasslands_locator.jpg)
+![A map showing the distribution of southeastern coastal grassland communities along the southern gulf coast of the U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southeastern_coastal_grasslands_locator.jpg?itok=oONfNUAs)
 
 Photo Credit
 

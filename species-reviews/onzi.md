@@ -34,7 +34,7 @@ Snyder, S. A. 1993. _Ondatra zibethicus_ , common muskrat. In: Fire Effects Info
 
 ## Image Gallery
 
-![Photo of a brown rodent with a beaver-like tail resting on a log above a body of water.]({{ site.baseurl }}/assets/images/species-reviews/onzi_feis-ONZI_individual_1.jpg) Common muskrat at Port Louisa National Wildlife Refuge. _Bolser, Jessica/USFWS, Public Domain, https://www.fws.gov/media/muskrat-0_
+![Photo of a brown rodent with a beaver-like tail resting on a log above a body of water.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-ONZI_individual_1.jpg) Common muskrat at Port Louisa National Wildlife Refuge. _Bolser, Jessica/USFWS, Public Domain, https://www.fws.gov/media/muskrat-0_
 
 Photo Credit: Bolser, Jessica/USFWS, Public Domain, https://www.fws.gov/media/muskrat-0
 

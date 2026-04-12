@@ -50,7 +50,7 @@ bitterbrush, antelope bush, buckbrush, deerbrush, quininebrush
 
 ## General Distribution
 
-![Photo of antelope bitterbrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-purtri_plant.jpg)
+![Photo of antelope bitterbrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-purtri_plant.jpg?itok=0rYVfKUA)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ References describing antelope bitterbrush as a community dominant or co-dominan
 
 ## Botanical Description
 
-![Photo of flowering antelope bitterbrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-purtri_flower.jpg)
+![Photo of flowering antelope bitterbrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-purtri_flower.jpg?itok=0IcMIaU7)
 
 Photo Credit
 

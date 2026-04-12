@@ -36,7 +36,7 @@ Zouhar, Kristin. 2002. _Carduus nutans_ , musk thistle. In: Fire Effects Informa
 
 ## Taxonomy
 
-![Close-up photo of a large purple flower with spiny bracts.]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_flower.jpg)
+![Close-up photo of a large purple flower with spiny bracts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_flower.jpg?itok=7J7ATooG)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ The biogeographic classification systems shown in table A1 are presented as a gu
 
 ## Site Characteristics
 
-![Photo of the top of a multi-stemmed, prickly green plant with purple flowers at the end of each stem. ]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_site.jpg)
+![Photo of the top of a multi-stemmed, prickly green plant with purple flowers at the end of each stem. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_site.jpg?itok=LmN8kVOg)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ In the western United States, musk thistle may be found spreading into sagebrush
 
 ## Botanical Description
 
-![Photo of a prickly green stem.]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_stem.jpg)
+![Photo of a prickly green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_stem.jpg?itok=Uf6cz9j2)
 
 Photo Credit
 
@@ -191,7 +191,7 @@ The first flowerheads to emerge (terminal and topmost branch) are usually solita
 
 ### Seed Dispersal
 
-![Photo of a mult-stemmed plant with purple flowerheads and fluffy white seedheads in a green field.]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_flowers%26seeds.jpg)
+![Photo of a mult-stemmed plant with purple flowerheads and fluffy white seedheads in a green field.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_flowers%26seeds.jpg?itok=bPtgYr3c)
 
 Photo Credit
 
@@ -219,7 +219,7 @@ In the laboratory, germination of musk thistle seed is initiated under moist con
 
 ### Seedling Establishment and Growth
 
-![Photo looking down on a prickly green rosette atop brown litter, including a dried thistle head.]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_rosette.jpg)
+![Photo looking down on a prickly green rosette atop brown litter, including a dried thistle head.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_rosette.jpg?itok=WBglb0qS)
 
 Photo Credit
 
@@ -249,7 +249,7 @@ Musk thistle may or may not be killed by fire. A review by Heidel [50] summarize
 
 It is unclear what effects fire has on musk thistle seeds in the soil, although incidents of rapid colonization after fire suggest that musk thistle seeds may have either dispersed from off-site sources, or could have been present in the soil at the time of the fire and survived to germinate after the overstory was removed [34,39,50].
 
-![Photo of a large, green plant with purple flowers and seedheads atop prickly stems in a field with brown plants.]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_plant.jpg)
+![Photo of a large, green plant with purple flowers and seedheads atop prickly stems in a field with brown plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_plant.jpg?itok=cFA1gHId)
 
 Photo Credit
 
@@ -423,7 +423,7 @@ The thistles have long been associated with humans, and have been used as both f
 
 ## Impacts
 
-![Photo of a dense patch of prickly plants with purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/carnut_feis-CARNUT_infestaton.jpg)
+![Photo of a dense patch of prickly plants with purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CARNUT_infestaton.jpg?itok=gz0yKdSP)
 
 Photo Credit
 

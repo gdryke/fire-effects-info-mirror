@@ -36,7 +36,7 @@ Sonoran desert scrub communities are not resilient to frequent, large, or severe
 
 ## Introduction
 
-![Landscape view of several Sonoran desert scrub communities.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure1.jpg)
+![Landscape view of several Sonoran desert scrub communities.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-sonoran-desert-scrub_Figure1.jpg?itok=qgvTaN28)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Common names are used throughout this synthesis. For a complete list of common a
 
 The three Sonoran desert scrub BpSs covered by this synthesis occur in the northern and central Sonoran Desert, from southeastern California eastward throughout southern Arizona (fig. 2) and into northwestern Sonora, Mexico [90]. They occur primarily in the Arizona Upland subdivision of the Sonoran Desert [125] along the northern and eastern edge of the Sonoran Desert from the Buckskin Mountains, Arizona, southeastward to about Altar, Sonora, Mexico [125]. Granite outcrop and paloverde-mixed cacti desert scrub communities also occur in scattered areas within the Lower Colorado River Valley subdivision in the northwestern part of the Sonoran Desert [71,90].
 
-![Distribution of Sonoran desert scrub communities based on Biophysical Settings and Existing Vegetation Type. A comparison of the images indicates that LANDFIRE Biophysival Settings maps do not accurately reflect the distribution of paloverde-mixed cacti desert scrub \(pink color\) or granite outcrop desert scrub \(brown color\)—under representing the former and over representing the latter.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure2.jpg)
+![Distribution of Sonoran desert scrub communities based on Biophysical Settings and Existing Vegetation Type. A comparison of the images indicates that LANDFIRE Biophysival Settings maps do not accurately reflect the distribution of paloverde-mixed cacti desert scrub \(pink color\) or granite outcrop desert scrub \(brown color\)—under representing the former and over representing the latter.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-05/feis-sonoran-desert-scrub_Figure2.jpg?itok=LgVHdd6-)
 
 Figure 2—Distribution of Sonoran desert scrub communities based on A) LANDFIRE (2020) Biophysical Settings (BpS) data layer [69], and B) LANDFIRE Existing Vegetation Type (EVT) data layer [70]. 
 
@@ -87,7 +87,7 @@ LANDFIRE maps of these BpSs (fig. 2A) do not accurately reflect the distribution
 
 Paloverde-mixed cacti desert scrub communities are a characteristic feature of the Arizona Upland subdivision [71,90] (fig. 3). West of the Colorado River in California, variants of paloverde-mixed cacti desert scrub (e.g., lacking saguaro and yellow paloverde) occur on upper bajadas on the northeastern side of the Chuckwalla and Chocolate mountains, and along the southern sides of the Little San Bernardino, Eagle, McCoy, and Palen mountains [13]. Sonoran mid-elevation desert scrub communities occur mostly in a narrow elevational band along the lower slopes of the Mogollon Rim/Central Highlands region, and in Perris Valley and the Cahuilla Mountains in southern California [91]. Granite outcrop desert scrub communities are widespread in the foothills and mountains of Sonora, reaching their northern extent in extreme southern Arizona (fig. 2) [70,71,90].
 
-![Map of Sonoran Desert subdivisions with elevation shown in colors indicating elevation ranging from lowest elevation \(blue\) to highest elevation \(white\).]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure3.jpg)
+![Map of Sonoran Desert subdivisions with elevation shown in colors indicating elevation ranging from lowest elevation \(blue\) to highest elevation \(white\).](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-06/feis-sonoran-desert-scrub_Figure3.jpg?itok=Y4OoTG21)
 
 Photo Credit
 
@@ -181,7 +181,7 @@ Undisturbed, uninvaded Sonoran desert scrub stands are composed of patches of sp
 
 Woody canopy layers can be sparse to moderately dense (1%–50% cover) and are codominated by medium- to tall-statured, drought-deciduous and evergreen shrubs or small trees (mostly about 0.5–5 m tall) over one to several open layers of smaller (<0.5 m tall) shrubs, subshrubs, and succulents [90,125]. Tall, woody cacti are often present [91], and many paloverde-mixed cacti stands are characterized by a sparse, emergent tree layer of saguaro, 3- to 16-m tall [90,125]. Canopy cover and composition varies with site characteristics. For example, saguaro density may be lower and shrub cover higher (reaching 50% or more) on northern aspects [93]. Because disturbances are rare and dominant plants are long-lived, age structures are skewed toward a low density of large, old plants [56].
 
-![Various landscapes in Sonoran desert scrub communities showing structural variability.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure4.jpg)
+![Various landscapes in Sonoran desert scrub communities showing structural variability.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-06/feis-sonoran-desert-scrub_Figure4.jpg?itok=Pw5EyzWb)
 
 Photo Credit
 
@@ -213,7 +213,7 @@ Historical fuel characteristics in Sonoran desert scrub communities are inferred
 
 Amount and seasonality of precipitation are important large-scale drivers of fire in North American deserts due to their effects on fuels [33,67,104]—fires are generally less frequent in drier deserts because less fuel is produced [62]. Average and below-average precipitation result in sparse and discontinuous fine fuels in most desert scrub ecosystems, and this likely precludes fire spread on many sites [104]. During years of above-average precipitation, especially 2 or more consecutive years, establishment of annual forbs and grasses can result in relatively thick and continuous patches of fine fuels that are sufficient to carry fire (fig. 5) [71,84,85,88,100,104,114,137], and thus increases the likelihood of fire ignition and spread on those sites [7,28,58,71] for one or more fire seasons [114].
 
-![Dense patch of desert Indianwheat.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure5.jpeg)
+![Dense patch of desert Indianwheat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-sonoran-desert-scrub_Figure5.jpeg?itok=NrV3S5fg)
 
 Photo Credit
 
@@ -277,7 +277,7 @@ Nonnative invasive plants can add abundant and novel fuels to desert scrub ecosy
 
 ### Species of Concern
 
-![Photos depicting various invasive annual grasses that cover large areas in the Sonoran Desert.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure6.jpg)
+![Photos depicting various invasive annual grasses that cover large areas in the Sonoran Desert.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-05/feis-sonoran-desert-scrub_Figure6.jpg?itok=BhPwfqZz)
 
 Photo Credit
 
@@ -289,7 +289,7 @@ Nonnative species of greatest concern with regard to altered fuel characteristic
 
 The invasive annual grasses red brome and Mediterranean grass are the most abundant plants below 1,250 m elevation over large areas in the northern Sonoran Desert. Red brome is especially invasive in the Arizona Upland subdivision where Sonoran desert scrub communities are common, while Mediterranean grass is more invasive in creosotebush communities in the Lower Colorado River Valley subdivision. Both can dominate herbaceous layers and have the potential to establish more horizontally continuous, flammable, and persistent fuel beds than native annual plants [28,48,104].
 
-![Dense nonnative invasive perennial grasses.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure7.jpg)
+![Dense nonnative invasive perennial grasses.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-05/feis-sonoran-desert-scrub_Figure7.jpg?itok=4woqJwE8)
 
 Photo Credit
 
@@ -299,7 +299,7 @@ Figure 7—Nonnative invasive perennial grasses form dense patches of fine fuels
 
 Nonnative invasive perennial grasses are increasingly prevalent in the monsoonal regions of the Sonoran Desert, and land managers and scientists share a growing concern over their spread and effects on fuel characteristics and fire regimes in invaded communities [47,134]. Buffelgrass, for example, is especially invasive in the Arizona Upland Subdivision, often in Sonoran desert scrub communities [8,44,77,128]. Buffelgrass populations in these communities have rapidly increased in extent since its introduction [49], filling in bare areas between native plants and spreading rapidly to displace native vegetation [83,95,96]. Rapid spread of buffelgrass has been observed in Saguaro National Park [83,95,96], in the Santa Catalina Mountains [95], at the Desert Laboratory in Tucson [19], and at Organ Pipe Cactus National Monument [111]. See the FEIS Species Review on buffelgrass for more details [63]. Crimson fountaingrass, lovegrass, and soft feather pappusgrass also have the potential to invade Sonoran desert scrub communities and alter fuel characteristics [16,130]. Crimson fountaingrass is an ornamental perennial and a close relative of buffelgrass. It has escaped cultivation and is abundant and widespread at Organ Pipe Cactus National Monument, and it has spread into both districts of Saguaro National Park [54,134]. Lovegrass was widely used for postfire reclamation on the Tonto National Forest in the 1960s and 1970s, and subsequently established in saguaro communities on the Tonto National Monument, where they likely helped carry repeated fires [103]. Soft feather pappusgrass was first observed in the Finger Rock Canyon Watershed of the Santa Catalina Mountains, Arizona, in 1990, and has since been increasing rapidly in distribution and abundance [16].
 
-![Nonnative invasive annual forbs can form dense patches.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure8.jpg)
+![Nonnative invasive annual forbs can form dense patches.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-05/feis-sonoran-desert-scrub_Figure8.jpg?itok=EMc6VwDo)
 
 Photo Credit
 
@@ -381,7 +381,7 @@ Because fine fuel loads and continuity vary dramatically from year to year (e.g.
  * In 2005, at least 25 fires >400 ha occurred in the Sonoran Desert [44,88,115,130] after 3 years of above-average precipitation, including exceptionally high rainfall in the winter of 2004–2005 (nearly 4 times the mean in some areas) [127]. In spring 2005, large areas of the Sonoran Desert were dominated by dense stands of the native forb, desert Indianwheat, and lesser amounts of nonnative Mediterranean grass [44,50,88,130].
  * In 2019, 2020, and 2021, large fires in Arizona and California that included areas of desert scrub (fig. 9) were preceded by periods of above-average precipitation. Heavy rains in October 2018 and 2 to 3 inches of snow in January 2019 led to dense patches of red brome, which fueled the 50,100-ha Woodbury Fire in June 2019 [72,115]. The following wet winter and early spring (2019–2020) resulted in abundant winter annuals in the Sonoran Desert—about half of which were native species and half red brome. This was followed by a delayed and dry monsoon season, periodic strong winds, and the hottest summer in Tucson’s 125-year weather record [133], as well as the 48,600-ha Bighorn Fire [133] and the 78,300-ha Bush Fire [72,115] in Arizona, and the 17,500-ha Dome Fire in southeastern California [133]. In June 2021, the Telegraph Fire was ignited in desert scrub and eventually burned a total of 73,150 ha, including >3,200 ha of desert scrub on the Tonto National Forest [72].
 
-![Burned Sonoran desert scrub.]({{ site.baseurl }}/assets/images/fire-regimes/feis-sonoran-desert-scrub_Figure9.jpg)
+![Burned Sonoran desert scrub.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-05/feis-sonoran-desert-scrub_Figure9.jpg?itok=RVYROYZJ)
 
 Photo Credit
 

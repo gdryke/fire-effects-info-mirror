@@ -64,7 +64,7 @@ Sargent's cypress occurs only in California and has the widest distribution of a
 
 ## Site Characteristics
 
-![A landscape photo of a rocky slope with a stand of round-topped conifer trees descending the slope. The background is more dry mountains and blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-hessar_habitat.jpeg)
+![A landscape photo of a rocky slope with a stand of round-topped conifer trees descending the slope. The background is more dry mountains and blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hessar_habitat.jpeg?itok=lj7AyOuC)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Sargent's cypress is a native, evergreen tree with a slender main trunk. On expo
 
 Cypress pollination occurs in late fall and spring [30]. Seeds mature 15 to 18 months after pollination. Ovulate cones remain closed until opened by heat or age [15,30].
 
-![A photo of a conifer tree's round grey cones and short scaled needles. Some of the cones are open.]({{ site.baseurl }}/assets/images/species-reviews/feis-hessar_cones.jpg)
+![A photo of a conifer tree's round grey cones and short scaled needles. Some of the cones are open.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hessar_cones.jpg?itok=s6FEcolp)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Most severe fires probably kill Sargent's cypress. Cypress thickets are conduciv
 
 Sargent's cypress is a fire-adapted, fire-dependent species [20,29]. It has slightly fire-resistant bark and serotinous cones, although its low branching habit makes it susceptible to crown fires [1,4,30]. Successful cypress (_Hesperocyparis_ spp.) reproduction is generally restricted to burned sites [29]. The serotinous cones persist on the trees for years [1,32]. Some Sargent's cypress cones have remained closed on trees for over 8 years [29]. Cone opening is erratic, slow, and almost negligible except when cones are exposed to extreme heat; then it is rapid and uniform [22,32]. When opened by the heat of a fire, the seeds fall on exposed mineral soil [19,30]. Most seed falls in the first few months following fire [32]. Fires that occur in late summer and fall and are followed by winter rains ensure seed dissemination on bare mineral substrates and moist conditions for germination [29].
 
-![A photo of burned trees with many small conifer seedlings growing below the burned trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-hessar_postfire.jpg)
+![A photo of burned trees with many small conifer seedlings growing below the burned trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hessar_postfire.jpg?itok=5iHMK5SP)
 
 Photo Credit
 

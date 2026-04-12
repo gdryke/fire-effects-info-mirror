@@ -38,7 +38,7 @@ Munger, Gregory T. 2006. _Fragaria vesca_ , woods strawberry. In: Fire Effects I
 
 The scientific name of woods strawberry is _Fragaria vesca_ L. (Rosaceae) [27,37,47,48,49,51,61,62,63,78,79,80,89,102,111,126,133,155,162,167,173,176]. The following subspecies are also recognized:
 
-![Photo showing a cluster of woods strawberry plants with blossoms.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraves_plant.jpg)
+![Photo showing a cluster of woods strawberry plants with blossoms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fraves_plant.jpg?itok=KDBPPcb5)
 
 Photo Credit
 
@@ -239,7 +239,7 @@ Results from a laboratory experiment suggest that cold stratification may induce
 
 To date (2007), not much information has been published about woods strawberry seedling establishment and growth. However, there is some indication that seedling establishment occurs mainly apart from established populations, perhaps following some type of soil disturbance. A review by Eriksson [53] suggests that seedling establishment in preestablished populations of adult woods strawberry clones is rare, and that seedlings mainly contribute to establishment of new populations apart from established clones. Anecdotal evidence provided by Jurik [88] concurs, noting not only that seedlings do not seem to establish in preexisting populations, but that seedlings were observed only where the original vegetation was removed and mineral soil exposed. Steele and Geier-Hayes [148,150,151] noted that woods strawberry seedling establishment apparently requires bare shaded soil.
 
-![Photo of dense patch of woods strawberry plants.]({{ site.baseurl }}/assets/images/species-reviews/fraves_feis-plant_fraves.jpg)
+![Photo of dense patch of woods strawberry plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-plant_fraves.jpg?itok=USgwglBo)
 
 Photo Credit
 

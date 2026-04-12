@@ -34,7 +34,7 @@ Walsh, Roberta A. 1994. _Ratibida columnifera_ , upright prairie coneflower. In:
 
 ## Image Gallery
 
-![Patch of flowers on tall stems with yellow petals surrounding a columnar-shaped central disk.]({{ site.baseurl }}/assets/images/species-reviews/feis-ratcol_plants.jpg) Mass of upright prairie coneflower plants in flower. _Dave Powell, USDA Forest Service (retired), Bugwood.org (CC BY-NC 3.0 US)._
+![Patch of flowers on tall stems with yellow petals surrounding a columnar-shaped central disk.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-ratcol_plants.jpg) Mass of upright prairie coneflower plants in flower. _Dave Powell, USDA Forest Service (retired), Bugwood.org (CC BY-NC 3.0 US)._
 
 Photo Credit: Dave Powell, USDA Forest Service (retired), Bugwood.org (CC BY-NC 3.0 US).
 

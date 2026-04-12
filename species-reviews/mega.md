@@ -34,7 +34,7 @@ Snyder, S. A. 1992. _Meleagris gallopavo_ , wild turkey. In: Fire Effects Inform
 
 ## Image Gallery
 
-![Photo of an adult male wild turkey in a field surrounded by wildflowers.]({{ site.baseurl }}/assets/images/species-reviews/mega_feis-MEGA_adult_male.jpg) Turkey with wildflowers at Turnbull National Wildlife Refuge in late May. _John Crowley, USDI Fish and Wildlife Service, https://www.fws.gov/media/turnbull-nwr-turkey-wildflowers_
+![Photo of an adult male wild turkey in a field surrounded by wildflowers.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-MEGA_adult_male.jpg) Turkey with wildflowers at Turnbull National Wildlife Refuge in late May. _John Crowley, USDI Fish and Wildlife Service, https://www.fws.gov/media/turnbull-nwr-turkey-wildflowers_
 
 Photo Credit: John Crowley, USDI Fish and Wildlife Service, https://www.fws.gov/media/turnbull-nwr-turkey-wildflowers
 

@@ -55,7 +55,7 @@ soft-stem bulrush, soft-stem clubrush, great bulrush, giant bulrush, bullwhip, c
 
 Softstem bulrush occurs throughout North America from central Alaska south to Mexico, east to the Maritime Provinces of Canada, and south through Florida. It does not occur through central and southern California [8]. It is native on the Hawaiian Islands of Niihau, Oahu, Molokai, and Hawaii [34].
 
-![A map of the U.S. and Canada with every state and most provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/schtab_schtab_distribution.jpg)
+![A map of the U.S. and Canada with every state and most provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/schtab_distribution.jpg?itok=hlySBLqt)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Distribution of softstem bulrush.
 
 Softstem bulrush grows in marshes, along lake and stream shores, and in wet meadows. It grows in fresh or brackish water [5,16,23]. Soils are usually poorly-drained [5], or continually saturated [12]. Softstem bulrush grows in silty or peaty soils [18]. Under greenhouse conditions softstem bulrush produced more aboveground biomass in silty clay soils than in clay or sand alone [1]. Belowground biomass was equal in silty clays and clays, and lower in sandy soils. Softstem bulrush seems to grow better in saline conditions than in fresh water, and it tolerates a wide range of salinity [32].
 
-[![A photo of several bulrush plants growing in still water with shrubs behind and grasses in front.]({{ site.baseurl }}/assets/images/species-reviews/feis-schtab_sitechars.jpg)Photo Credit Photo by Mark Pollock, iNaturalist (CC BY 4.0). Softstem bulrush growing near Rockford, Illinois.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of several bulrush plants growing in still water with shrubs behind and grasses in front.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schtab_sitechars.jpg?itok=vzBZc_cN)Photo Credit Photo by Mark Pollock, iNaturalist (CC BY 4.0). Softstem bulrush growing near Rockford, Illinois.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Plant Communities
 
@@ -83,7 +83,7 @@ Softstem bulrush is a dominant in the following classification type:
 
 Some species associated with softstem bulrush are smartweed (_Polygonum_ spp.), sedge (_Carex_ spp.), common cattail, reed (_Phragmites_ spp.), water hemlock (_Circuta maculata_), spikerush (_Eleocharis calva_), fowl mannagrass (_Glyceria striata_), tufted hairgrass (_Deschampsia caespitosa_), beggartick (_Bidens_ spp.), narrowlieaf burreed (_Sparganium eurycarpum_), common arrowhead (_Sagittaria latifolia_), sego pondweed (_Potamogeton pectinatus_), and nodding waternymph (_Najas flexilis_) [4,6,19].
 
-[![A photo of dense, flowering bulrushes in the foreground with out-of-focus water and a shoreline in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schtab_stand.jpg)Photo Credit Photo by Andrew Murray, iNaturalist (CC BY 4.0). A stand of softstem bulrush in Ontario, Canada.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of dense, flowering bulrushes in the foreground with out-of-focus water and a shoreline in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schtab_stand.jpg?itok=ElcxXcmG)Photo Credit Photo by Andrew Murray, iNaturalist (CC BY 4.0). A stand of softstem bulrush in Ontario, Canada.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
@@ -91,7 +91,7 @@ Some species associated with softstem bulrush are smartweed (_Polygonum_ spp.), 
 
 Softstem bulrush is a tall, leafless marsh plant 1.5 to 9 feet (0.5-3 m) high and 0.12 to 0.8 inches (0.3-2 cm) thick with scaly, stout, horizontal rhizomes [11]. The stems are obscurely three-sided and spongy [17]. Spikes occur near the stem tips in branched clusters [8]. The fruit is an achene [11].
 
-[![The inside of a bulrush stem held against a metal ruler. The interior of the stems has whitish blocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-schtab_spongy.jpg)Photo Credit Photo by Mark Pollock, iNaturalist (CC BY 4.0). The spongy interior of softstem bulrush.](<https://creativecommons.org/licenses/by/4.0/>)
+[![The inside of a bulrush stem held against a metal ruler. The interior of the stems has whitish blocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schtab_spongy.jpg?itok=mHn7PzAq)Photo Credit Photo by Mark Pollock, iNaturalist (CC BY 4.0). The spongy interior of softstem bulrush.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -101,7 +101,7 @@ Softstem bulrush is a tall, leafless marsh plant 1.5 to 9 feet (0.5-3 m) high an
 
 Because of the wide distribution of softstem bulrush, its growing seasons varies with latitude. In the northeast softstem bulrush flowers from July through August [23]. Flowering lasts from 5 to 6 months in wetland prairies of Nebraska [28]. Fernald [11] reported fruits generally ripening from June through September.
 
-[![A photo of the flowering spike of a bulrush, with the spike extending as a spray from the main stem, with tiny, acorn-like flowers at the end of each flower stem.]({{ site.baseurl }}/assets/images/species-reviews/schtab_schtab_repro.jpg)Photo Credit Photo by David McCorquodale, iNaturalist (CC BY 4.0). Flowering softstem bulrush.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of the flowering spike of a bulrush, with the spike extending as a spray from the main stem, with tiny, acorn-like flowers at the end of each flower stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/schtab_repro.jpg?itok=U4SF9ULe)Photo Credit Photo by David McCorquodale, iNaturalist (CC BY 4.0). Flowering softstem bulrush.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Regeneration Processes
 

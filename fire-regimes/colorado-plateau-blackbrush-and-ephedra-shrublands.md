@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Colorado Plateau blackbrush and ephedra shr
 
 ## Distribution
 
-![Image of a map of the southwestern United States showing the distribution of blackbrush and ephedra shrublands concentrated on the Colorado Plateau in northern Arizona, southeastern Utah, and northwestern New Mexico.]({{ site.baseurl }}/assets/images/fire-regimes/colorado-plateau-blackbrush-and-ephedra-shrublands_feis-CO_PlateauBlackbrushEphedra_map.jpg)
+![Image of a map of the southwestern United States showing the distribution of blackbrush and ephedra shrublands concentrated on the Colorado Plateau in northern Arizona, southeastern Utah, and northwestern New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-CO_PlateauBlackbrushEphedra_map.jpg?itok=gPRlYLr0)
 
 Photo Credit
 

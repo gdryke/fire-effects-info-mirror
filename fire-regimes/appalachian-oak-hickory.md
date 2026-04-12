@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Appalachian oak-hickory communities has not
 
 ## Distribution
 
-![A map showing the distribution of Appalachian oak-hickory communities in the eastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/appalachian-oak-hickory_feis-appalachian_oak_hickory_locator.jpg)
+![A map showing the distribution of Appalachian oak-hickory communities in the eastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-appalachian_oak_hickory_locator.jpg?itok=grFgOdp8)
 
 Photo Credit
 

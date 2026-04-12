@@ -34,7 +34,7 @@ Tirmenstein, D. 1999. _Ericameria nauseosa,_ rubber rabbitbrush. In: Fire Effect
 
 ## Image Gallery
 
-![Flowering rubber rabbitbrush]({{ site.baseurl }}/assets/images/species-reviews/feis-erinau.jpg) Rubber Rabbitbrush _Mary Ellen (Mel) Harte, Bugwood.org_
+![Flowering rubber rabbitbrush](https://research.fs.usda.gov/sites/default/files/2025-05/feis-erinau.jpg) Rubber Rabbitbrush _Mary Ellen (Mel) Harte, Bugwood.org_
 
 Photo Credit: Mary Ellen (Mel) Harte, Bugwood.org
 
@@ -190,7 +190,7 @@ Rubber rabbitbrush occurs as a dominant to minor component in many types of plan
 
 ## Botanical and Ecological Characteristics
 
-![Flowering rubber rabbitbrush]({{ site.baseurl }}/assets/images/species-reviews/feis-erinau.jpg)
+![Flowering rubber rabbitbrush](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-erinau.jpg?itok=Jbz8VGec)
 
 Photo Credit
 

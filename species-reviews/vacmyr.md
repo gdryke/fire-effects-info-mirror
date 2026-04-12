@@ -62,7 +62,7 @@ Canada: AB BC
 
 ## Site Characteristics
 
-![A photo of an upright, low shrub spreading over a fallen log.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmyr_habitat.jpeg)
+![A photo of an upright, low shrub spreading over a fallen log.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacmyr_habitat.jpeg?itok=VPLpNIMA)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Published classifications listing whortleberry as an indicator or dominant in ha
 
 ## Botanical Description
 
-![A close up photo of a shrub with small leaves and round, blueberry-like fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmyr_fruit.jpg)
+![A close up photo of a shrub with small leaves and round, blueberry-like fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacmyr_fruit.jpg?itok=_YxQLtRt)
 
 Photo Credit
 

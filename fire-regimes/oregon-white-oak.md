@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Oregon white oak communities has not yet be
 
 ## Distribution
 
-![A map showing the distribution of Oregon white oak communities in northern California, Oregon, and Washington.]({{ site.baseurl }}/assets/images/fire-regimes/oregon-white-oak_feis-oregon_white_oak_locator.jpg)
+![A map showing the distribution of Oregon white oak communities in northern California, Oregon, and Washington.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-oregon_white_oak_locator.jpg?itok=0sBb3ucd)
 
 Photo Credit
 

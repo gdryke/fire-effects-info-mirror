@@ -104,7 +104,7 @@ Today, range expansions indicate that coyotes can be successful in any plant com
 
 ## Biological Characteristics
 
-![A photo of a coyote pouncing in the air in a winter grassland with patchy snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-cala_pounce.jpeg)
+![A photo of a coyote pouncing in the air in a winter grassland with patchy snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cala_pounce.jpeg?itok=NNnzRVig)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ A coyote pouncing for prey, Malheur Nation Wildlife Refuge, Harney County, Orego
 
 **Age at first breeding:** Both males and females are capable of breeding as yearlings [4]. However, many coyotes do not breed until their second year [63]. Generally, about 60 to 90 percent of adult females and 0 to 70 percent of female yearlings produce litters [12]. In years when food is abundant, more females (especially yearlings) breed. In years when rodent populations are high, as many as 75 percent of yearling females may breed [4].
 
-![A photo of a group of four tan coyote pups playing with a black glove among large dead wood and fresh green grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-cala_pups.jpg)
+![A photo of a group of four tan coyote pups playing with a black glove among large dead wood and fresh green grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cala_pups.jpg?itok=23eZa0gf)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Mountain lions (Felis concolor) sometimes kill and eat coyotes [4]. Other predat
 
 ### Diet
 
-![A photo of a coyote pulling on meat from a deer carcass on a flat landscape of ice and snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-cala_deercarcass.jpeg)
+![A photo of a coyote pulling on meat from a deer carcass on a flat landscape of ice and snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cala_deercarcass.jpeg?itok=9Ed7FUVe)
 
 Photo Credit
 

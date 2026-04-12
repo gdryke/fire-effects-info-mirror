@@ -52,7 +52,7 @@ Prescribed fire is infrequently used in tussock cottongrass communities in North
 
 ## Taxonomy
 
-![A photo of a tussock-forming sedge with white cotton ball-like tufts at the end of reproductive stems. Conifers are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivag_plant.jpg)
+![A photo of a tussock-forming sedge with white cotton ball-like tufts at the end of reproductive stems. Conifers are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivag_plant.jpg?itok=EjRa9-8O)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ cotton-grass, sheathed cottonsedge, hare's tail, hare's-tail grass
 
 ## General Distribution
 
-![A map of U.S. states and Canadian provinces with all provinces and some northern states highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivag_distribution.png)
+![A map of U.S. states and Canadian provinces with all provinces and some northern states highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivag_distribution.png?itok=6d7KOKB0)
 
 Photo Credit
 
@@ -501,7 +501,7 @@ Soil moisture may affect succession in arctic tussock cottongrass communities. I
 
 In tussock tundra, the seed bank is usually sufficient to completely revegetate disturbed sites [123], so productivity returns to that of undisturbed tundra within about 10 years [62]. For more information, see Seedling establishment and plant growth after fire.
 
-![A photo of burned, small conifers, with blackened stems and some remaining red needles at the top of trees. Ground covered is comprised mostly of tussock-forming sedges with cottonball-like ends to reproductive stems and blackened vegetation between them.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivag_burn.jpg)
+![A photo of burned, small conifers, with blackened stems and some remaining red needles at the top of trees. Ground covered is comprised mostly of tussock-forming sedges with cottonball-like ends to reproductive stems and blackened vegetation between them.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivag_burn.jpg?itok=h3sUOoLb)
 
 Photo Credit
 
@@ -568,7 +568,7 @@ No field studies have examined the effects of fire on tussock cottongrass seeds.
  * Initial off-site colonizer (off site, initial community)
  * Secondary colonizer (on- or off-site seed sources)
 
-![A photo of a burned tundra with blackened, knee-high "stumps" that are burned tussocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivag_burn1.jpg)
+![A photo of a burned tundra with blackened, knee-high "stumps" that are burned tussocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivag_burn1.jpg?itok=MuiApmpa)
 
 Photo Credit
 
@@ -576,7 +576,7 @@ Photo courtesy of Adrian Rocha.
 
 Figure 4. Burned tussock cottongrass tussocks 1 year after the Anaktuvuk River Fire, North Slope, Alaska.
 
-![A photo of what appears to be a field of cottonballs growing from green, tussock-forming sedges, extending into the far distance. In the foreground, the charred bases of the sedges are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-erivag_flowering_0.jpg)
+![A photo of what appears to be a field of cottonballs growing from green, tussock-forming sedges, extending into the far distance. In the foreground, the charred bases of the sedges are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-erivag_flowering_0.jpg?itok=OoqaYW5M)
 
 Photo Credit
 

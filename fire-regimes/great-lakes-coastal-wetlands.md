@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Lakes coastal wetland communities has
 
 ## Distribution
 
-![A map showing the distribution of Great Lakes coastal wetland communities in the northern U.S., surrounding the Great Lakes.]({{ site.baseurl }}/assets/images/fire-regimes/great-lakes-coastal-wetlands_feis-great_lakes_coastal_wetlands_locator.jpg)
+![A map showing the distribution of Great Lakes coastal wetland communities in the northern U.S., surrounding the Great Lakes.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-great_lakes_coastal_wetlands_locator.jpg?itok=rXdVWQDc)
 
 Photo Credit
 

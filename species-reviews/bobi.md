@@ -52,7 +52,7 @@ bison, plains bison, wood bison, prairie bison, woodland bison, mountain bison
 
 Historically, American bison were widespread in North America from Alaska and western California across the United States and into northern New Mexico [11,53,66]. Today, American bison occur in geographically isolated populations in parks and preserves, other public lands, and on private ranches. The only large herds of American bison in North America are in Yellowstone National Park, Montana and Wyoming, Wood Buffalo National Park, Alberta, and Mackenzie Bison Sanctuary and the Slave River Lowlands, Northwest Territories [11,27,53]. Smaller herds occur in Alaska; northeastern British Columbia; near Nahanni Butte, Northwest Territories; northwestern Saskatchewan; Elk Island National Park, Alberta; Grand Teton National Park, Wyoming; National Bison Range and Crow Reservation, Montana; Wind Caves National Park, South Dakota; Wichita Mountains Wildlife Refuge and the Tallgrass Prairie Preserve, Oklahoma; Theodore Roosevelt National Park, North Dakota; Henry Mountains, southern Utah; northeastern Colorado; Nebraska; and Kansas [11,35,51,53,83,84,91,93,96].
 
-![A group of 7 or 8 bison walk across dry grass plains with snowy mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-bobi_hero.jpeg)
+![A group of 7 or 8 bison walk across dry grass plains with snowy mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bobi_hero.jpeg?itok=AtcY41Ju)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ In Yellowstone National Park, American bison inhabit meadows with sedge and gras
 
 **Age at sexual maturity:** Sexual maturity most commonly occurs at 2 to 4 years of age. However, some females breed as yearlings [11,53]. In Wood Buffalo National Park, a small proportion of the yearling bulls, approximately one-third of the 2-year-olds, and virtually all American bison 3 years of age and older were sexually mature [11]. Bulls attain sexual maturity well in advance of becoming part of the active breeding population [52]. In the Hayden Valley American bison herd, Yellowstone National Park, bulls 8 years old and older were the most active sexually [51].
 
-![A group of 7 bison including 3 small, light brown calves stand in a cluster among some large, mossy rocks. There is green grass where the group is standing, and a forested hillside in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-bobi_calves.jpg)
+![A group of 7 bison including 3 small, light brown calves stand in a cluster among some large, mossy rocks. There is green grass where the group is standing, and a forested hillside in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bobi_calves.jpg?itok=djtnzw1P)
 
 Photo Credit
 

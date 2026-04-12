@@ -50,7 +50,7 @@ western wolfberry, wolfberry, buckbrush
 
 ## General Distribution
 
-![A photo of an upright stem with pink and white flowers growing amongst leaves at the top of the stem, and larger leaves occurring in pairs down the length of the stem. More stems of the same species occur around, and vegetation blurs in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-symocc_hero.jpeg)
+![A photo of an upright stem with pink and white flowers growing amongst leaves at the top of the stem, and larger leaves occurring in pairs down the length of the stem. More stems of the same species occur around, and vegetation blurs in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-symocc_hero.jpeg?itok=IlZ7GoNF)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ Western snowberry is described as a dominant species in the following vegetation
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [23,56,60,71,78,79,100,144,147,159,167]).
 
-![A photo of white flowers and pink buds occurring in clusters on a leafy stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-symocc_plant.jpg)
+![A photo of white flowers and pink buds occurring in clusters on a leafy stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-symocc_plant.jpg?itok=11_WoXqv)
 
 Photo Credit
 
@@ -486,7 +486,7 @@ The fruits of western snowberry are an important source of food for some small m
 
 ### Ungulates
 
-![A photo of goats amongst shrubby vegetation that reaches intermittently to their heads. Some bare stems are visible, although most shrubs retain many leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-symocc_browsing.jpg)
+![A photo of goats amongst shrubby vegetation that reaches intermittently to their heads. Some bare stems are visible, although most shrubs retain many leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-symocc_browsing.jpg?itok=kyukSXaJ)
 
 Photo Credit
 

@@ -173,7 +173,7 @@ Many of the citations used in this section are reviews [7,8,9,10,39,44,45,54,105
 
 ## Life History
 
-![A gopher tortoise eatting grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-gopo_eating-tortoise.jpg)
+![A gopher tortoise eatting grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gopo_eating-tortoise.jpg?itok=RXPPTSIk)
 
 Photo Credit
 
@@ -356,7 +356,7 @@ The gopher tortoise is typically solitary (see Social interactions); however, 2 
 
 **Burrow Distribution:** Gopher tortoise burrow distribution within available habitat varies across sites and is poorly understood [39]. Many authors describe clusters of gopher tortoise burrows [3,9,10,103], while others demonstrate a random or regular distribution of burrows throughout an area [3,80]. In ruderal and pine-oak sandhills habitats in northern peninsular Florida, the burrow distribution varied from widely scattered, approximately uniform dispersion to distinctly clumped aggregations [3]. A review speculated that varying degrees of aggregation may reflect historical, sociological, or environmental differences among the areas surveyed or may simply reflect random variation in burrow placement [39]. Gopher tortoise burrows in longleaf pine-oak habitat at the Southlands Experiment Forest were aggregated. At this site, gopher tortoise movements were concentrated on a small area (about 2.5 acres (1 ha)) during the breeding season, when a few dominant males occupied the burrows closest to female burrows and excluded juvenile males from the immediate colony area. After the breeding season, gopher tortoises were more widely dispersed, shifting activity from the interior to the periphery of the colony [103]. In longleaf pine/pineland threeawn habitat at Ichauway, all burrows were clumped (Z=2.602, P<0.05), possibly reflecting the use of multiple burrows by a single individual. Active burrows were randomly dispersed (Z=1.225, P>0.05), possibly "related to the distribution of optimal habitat patches", which also appeared randomly dispersed. This researcher expected to find reproductive advantages for females in aggregations, but found no difference in the frequency of interactions, courts, or mounts between aggregated and isolated individuals [13]. She suggested that burrow distribution may be more closely associated with open canopy cover than with any particular social advantage. In habitats where gopher tortoises are forced into marginal areas or where suitable habitat patches are small and isolated, burrows may be clumped due to increased gopher tortoise density, a pattern noted for an island population in south Florida [80] and other sites throughout Florida [102].
 
-![A gopher tortoise burrow in the sand of the grassy understory of a longleaf pine forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-gopo_habitat.jpg)
+![A gopher tortoise burrow in the sand of the grassy understory of a longleaf pine forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gopo_habitat.jpg?itok=fUiKtKB_)
 
 Photo Credit
 

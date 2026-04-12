@@ -38,7 +38,7 @@ Hauser, A. Scott. 2006. _Carex filifolia_ , threadleaf sedge. In: Fire Effects I
 
 The currently accepted scientific name of threadleaf sedge is _Carex filifolia_ Nutt. (Cyperaceae) [3,17,44,52,53,54,69,89,90,96,99,100,102,108,116,180,181,182]. There are no recognized varieties.
 
-![A photo of a flowering sedge, with long, pale threads extending from the reproductive spikes at the tops of stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-carfil_plant.jpg)
+![A photo of a flowering sedge, with long, pale threads extending from the reproductive spikes at the tops of stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carfil_plant.jpg?itok=3Y8JHpz3)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ Threadleaf sedge has a contiguous distribution. It occurs from California, north
  * United States: AK AZ CA CO ID KS MN MT NE NV NM ND OR SD UT WA WY
  * Canada: AB BC MB NT SK YK
 
-![A photo of bunched sedges growing in soil at the bottom of a depression sounded by slabs of large, pale rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-carfil_habitat.jpg)
+![A photo of bunched sedges growing in soil at the bottom of a depression sounded by slabs of large, pale rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carfil_habitat.jpg?itok=JnM_ahaW)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ Threadleaf sedge is listed as a dominant species in the following vegetation cla
  * Cherry County (codominant with needle-and-thread grass) [171]
  * Cedar Point Biological Station (codominant with blue grama) [101]
 
-![A photo of a bunched sedge growing near the bottom of the photo, amongst large stones. Sagebrush is interspersed with sedges and possibly other graminoids, with a few pine trees growing behind and conifers dominating the slopes in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-carfil_community.jpg)
+![A photo of a bunched sedge growing near the bottom of the photo, amongst large stones. Sagebrush is interspersed with sedges and possibly other graminoids, with a few pine trees growing behind and conifers dominating the slopes in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carfil_community.jpg?itok=PJ4_VZMs)
 
 Photo Credit
 
@@ -221,7 +221,7 @@ Threadleaf sedge growing with sagebrush and pine in Grant County, Oregon ([CC BY
 
 ## Botanical Description
 
-![A photo of the reproductive spikes of a sedge, with threadlike stamens and styles attached to the spikes at the end of the narrow, green stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-carfil_repro.jpg)
+![A photo of the reproductive spikes of a sedge, with threadlike stamens and styles attached to the spikes at the end of the narrow, green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carfil_repro.jpg?itok=z88YEKFL)
 
 Photo Credit
 

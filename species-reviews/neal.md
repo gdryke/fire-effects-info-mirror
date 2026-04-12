@@ -174,7 +174,7 @@ In general, western white-throated woodrats occupy desert grasslands [19], semia
 
 ## Biological Characteristics
 
-![A photo of a gray rat with round ears peeking out from behind the paddles of a prickly pear cactus.]({{ site.baseurl }}/assets/images/species-reviews/feis-neal_cactus.jpg)
+![A photo of a gray rat with round ears peeking out from behind the paddles of a prickly pear cactus.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-neal_cactus.jpg?itok=EuLtLPQM)
 
 Photo Credit
 
@@ -318,7 +318,7 @@ Houses and dens enclose a system of runways and chambers, including the western 
 
 #### Building Materials
 
-![a photo of a large pile of sticks and cactus parts with a hole at the center, at the base of a scrubby tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-neal_nest.jpg)
+![a photo of a large pile of sticks and cactus parts with a hole at the center, at the base of a scrubby tree.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-neal_nest.jpg?itok=--E6O9ku)
 
 Photo Credit
 

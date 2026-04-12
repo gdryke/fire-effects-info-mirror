@@ -60,7 +60,7 @@ None
 
 ## General Distribution
 
-![Photo honey mesquite foliage.]({{ site.baseurl }}/assets/images/species-reviews/feis-progla_plant.jpeg)
+![Photo honey mesquite foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-progla_plant.jpeg?itok=4f2Ve7rF)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ Riparian woodland| 1%| Goodding willow, other willows (_Salix_ spp.) desert will
 
 ## Botanical Description 
  
-![Photo of honey mesquite raceme.]({{ site.baseurl }}/assets/images/species-reviews/feis-progla_flower.jpeg)
+![Photo of honey mesquite raceme.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-progla_flower.jpeg?itok=3YZnYLZk)
 
 Photo Credit
 

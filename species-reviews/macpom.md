@@ -58,7 +58,7 @@ Osage-orange is native to a narrow belt in eastern Texas, southeastern Oklahoma,
 
 ## Site Characteristics
 
-![A photo of a tree in a forest with several large trunks, one of which is laid against the ground with branches growing upward, and other smaller branches are arching down toward the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-macpom_tree.jpg)
+![A photo of a tree in a forest with several large trunks, one of which is laid against the ground with branches growing upward, and other smaller branches are arching down toward the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-macpom_tree.jpg?itok=VuPSWXee)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Osage-orange is a small, native, deciduous tree that averages 30 feet (9 m) in h
 
 Osage-orange generally flowers from April to June and the fruit ripens from September to October [2,4]. It flowers in mid-May in Kansas and Nebraska [28].
 
-![A photo of many large, neon yellow, lumpy, round fruits laying on the forest floor. The ground is covered in brown dry leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-macpom_fruits.jpg)
+![A photo of many large, neon yellow, lumpy, round fruits laying on the forest floor. The ground is covered in brown dry leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-macpom_fruits.jpg?itok=Bp00LgnC)
 
 Photo Credit
 

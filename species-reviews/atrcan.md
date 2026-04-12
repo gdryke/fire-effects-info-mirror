@@ -36,7 +36,7 @@ Howard, Janet L. 2003. _Atriplex canescens_ , fourwing saltbush. In: Fire Effect
 
 ## Taxonomy
 
-![A sunrise photo of a gray-green shrub with a thick, woody base. Shrubs dominate the vegetation behind, with bare ground visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrcan_plant.jpg)
+![A sunrise photo of a gray-green shrub with a thick, woody base. Shrubs dominate the vegetation behind, with bare ground visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-atrcan_plant.jpg?itok=ytYjlXoB)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ four-wing saltbush, chamiso, chamiza, thinleaf fourwing saltbush (_Atriplex cane
 
 Fourwing saltbush is the most widely distributed native woody species in North America [108,136,185]. Its native range extends north-south from southern Alberta to central Mexico and east-west from the Missouri River to the Pacific Coast [98,107,135,177,219]. Fourwing saltbush is widely planted in temperate regions of North America as an ornamental, and is locally naturalized east of the plains grasslands, its native boundary [108]. Plants database provides a distributional map of fourwing saltbush and its infrataxa.
 
-![A photo of several large shrubs growing with grasses and visible bare ground with visible salt accumulation on the soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrcan_habitat.jpg)
+![A photo of several large shrubs growing with grasses and visible bare ground with visible salt accumulation on the soil.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-atrcan_habitat.jpg)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Utah| 2,200-7,810 (670-2,380 m) [213]
 
 Fourwing saltbush is an important species in Great Basin, Intermountain, Great Plains, and southwestern desert communities. More often an associate than a plant community dominant [17,25], it may dominate some sites [85]. It is commonly dominant in sand dune communities of the Great Basin, Mojave, and Sonoran deserts [116].
 
-![A photo of the distinctive, four-winged fruits that give fourwing saltbush its name at the end of branches with narrow, gray-green leaves. Desert mountains rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrcan_fruits.jpg)
+![A photo of the distinctive, four-winged fruits that give fourwing saltbush its name at the end of branches with narrow, gray-green leaves. Desert mountains rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-atrcan_fruits.jpg?itok=ad7DJtaW)
 
 Photo Credit
 
@@ -174,7 +174,7 @@ Vegetation classifications describing communities dominated by fourwing saltbush
 
 ## Botanical Description
 
-![A line drawing of fourwing saltbush leaves and the four-winged fruits that give it its common name.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrcan_botchars.jpg)
+![A line drawing of fourwing saltbush leaves and the four-winged fruits that give it its common name.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-atrcan_botchars.jpg)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ Fourwing saltbush is a native woody shrub [136]. As a general pattern, fourwing 
 
 Fourwing saltbush is extremely variable in leaf and fruiting bract morphology [108,136,213]. Leaves range from 0.8 to 2 inches (2-5 cm) long. Young leaves are covered with scales that protect against water loss [136]. Mature leaves have epidermal trichomes (hairlike epidermal outgrowths) that concentrate and exude salts, and on saline sites leaves become covered with a salty covering or scurf [196,208]. Plants are evergreen (in warm climate) to winter-deciduous (in cold climates) [140,208]. Staminate flowers are borne in dense, 2- to 3-mm-wide spikes, and pistillate flowers form 2- to 16-inch-long (5-40-cm) panicles [52,136,213]. The fruits are 0.3- to 0.4-inch-long (0.8-1 cm) utricles, with 0.4- to 1-inch-square (9-25 mm2) bracts [180,213]. Fourwing saltbush is the only species in the genus with 4 large wings on the fruits [108]. Seeds are tightly contained within the utricles, and do not separate from the utricles at dispersal. Seeds measure approximately 1 × 2 mm [180,213], with 17 to 120 seeds/fruit [19].
 
-![A photo of a somewhat scraggly shrub with green-gray leaves and pale fruits growing along a bank where soil has been eroded. Much of the root system is visible and consists of a taproot and much thinner lateral roots.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrcan_roots.jpg)
+![A photo of a somewhat scraggly shrub with green-gray leaves and pale fruits growing along a bank where soil has been eroded. Much of the root system is visible and consists of a taproot and much thinner lateral roots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-atrcan_roots.jpg?itok=wVyqEVed)
 
 Photo Credit
 

@@ -70,7 +70,7 @@ Creeping bentgrass is native to Eurasia and North Africa [59]. It was probably i
 
 Creeping bentgrass occurs in a wide variety of habitats including woodlands, forest openings, grasslands, shrublands, prairies, sandhills, meadows, marshes, bogs, vernal pools, and stream and lake margins [7,9,30,35,36,59]. It is most commonly found in moist places such as recently exposed sand and gravel bars, wet meadows, and along streams [4,22,23,24,34]. Creeping bentgrass grows on disturbed sites such as in ditches or along roadsides, and in pastures and hayfields [19,23,44,58]. It also grows in salt marshes [7,61].
 
-[![A photo of reproductive panicles of a grass with a meadow and open woodlands extending up a hillside behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrsto_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Creeping bentgrass growing near Anaconda, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of reproductive panicles of a grass with a meadow and open woodlands extending up a hillside behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrsto_community.jpg?itok=JPiwUlJr)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Creeping bentgrass growing near Anaconda, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Creeping bentgrass grows best on moist to semiwet soils, but is tolerant of poorly drained and subirrigated conditions, submergence, and frequent flooding [4,24]. It grows best on loam, clay-loam, and sandy soils, but occurs on gravelly and rocky substrates as well [4,6,15,24]. It is moderately tolerant of drought [4].
 
@@ -108,7 +108,7 @@ Species not previously mentioned but commonly associated with creeping bentgrass
 
 Creeping bentgrass is a stoloniferous perennial and is sometimes mat-forming or tufted [19,21,22,23,44]. Culms are prostrate, usually 1.3 to 3.3 feet (0.4-1 m) long [19,21,26,41]. The blades are flat to folded, 0.08-inch to 0.4-inch (2-10 mm) wide, and 0.8 to 4 inches (2-10 cm) long [23,26]. The panicle is open to somewhat narrow, and up to 16 inches (40 cm) tall [59].
 
-[![A photo of two purplish grass panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrsto_reproduction.jpg)Photo Credit Photo by palr76, iNaturalist (CC BY-NC 4.0). Creeping bentgrass panicles.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of two purplish grass panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrsto_reproduction.jpg?itok=lrCqpkpg)Photo Credit Photo by palr76, iNaturalist (CC BY-NC 4.0). Creeping bentgrass panicles.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -123,7 +123,7 @@ Creeping bentgrass flowers from June to August in the Upper Great Plains [21]. I
 
 Creeping bentgrass reproduces by seed and by stolons [14,53]. It can set seed in one growing season, thus sometimes functioning as an annual. In southern Ontario, creeping bentgrass seed has a 52 percent germination rate after 30 days under approximate optimal germination conditions; seeds were cold stratified for 9 months prior to planting [53]. Grasses in the genus Agrostis are seed-banking species [60]. In pastures and meadows of Europe, creeping bentgrass seeds can survive in the soil for at least 1 year [48]. In a northern subarctic community in Manitoba, Canada, creeping bentgrass is a persistent perennial that spreads vegetatively to form clumps or large patches but sometimes fails to reproduce by seed, although flowering is observed [53].
 
-[![A photo of a mat of grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrsto_plants.jpeg)Photo Credit Photo by runcator, iNaturalist (CC BY-NC 4.0). A mat of creeping bentgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a mat of grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrsto_plants.jpeg?itok=umljTFCi)Photo Credit Photo by runcator, iNaturalist (CC BY-NC 4.0). A mat of creeping bentgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Successional Status
 

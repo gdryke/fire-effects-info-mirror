@@ -71,7 +71,7 @@ Climate varies throughout the range of wax currant. Lava Beds National Monument 
 
 ## Plant Communities
 
-![A photo of a scraggly shrub with small pink flowers growing in front of a forest. Smooth pale tree trunks fill the background of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribcer_habitat.jpg)
+![A photo of a scraggly shrub with small pink flowers growing in front of a forest. Smooth pale tree trunks fill the background of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ribcer_habitat.jpg?itok=Y8kuWMr1)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Species commonly associated with wax currant but not previously mentioned includ
 
 ## Botanical Description
 
-![A photo of a bumblebee pollinating a pink, tube-shaped flower on a shrubby branch. There are many other flowers and small lobed green leaves on the branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribcer_flowers.jpg)
+![A photo of a bumblebee pollinating a pink, tube-shaped flower on a shrubby branch. There are many other flowers and small lobed green leaves on the branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ribcer_flowers.jpg?itok=KM27Obn4)
 
 Photo Credit
 

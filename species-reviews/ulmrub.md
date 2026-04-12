@@ -54,7 +54,7 @@ red elm, gray elm, soft elm
 
 Slippery elm's range extends from southwestern Maine west to extreme southern Quebec, southern Ontario, New York, northern Michigan, central Minnesota, eastern North Dakota; south through eastern South Dakota, central Nebraska, southwestern Oklahoma, and central Texas; then east to northwestern Florida and Georgia. Slippery elm is uncommon in the part of its range south of Kentucky; it is most abundant in the southern part of the Lake States and in the cornbelt of the Midwest [10,12,24].
 
-![A photo of a large tree with a buttressed trunk growing in a forest. Much smaller, thinner trees are growing around it and the ground is mostly bare soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-ulmrub_habitat.jpg)
+![A photo of a large tree with a buttressed trunk growing in a forest. Much smaller, thinner trees are growing around it and the ground is mostly bare soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ulmrub_habitat.jpg?itok=wj_BoDJH)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ In addition to those species in Table A1, common associates of slippery elm incl
 
 ## Botanical Description
 
-![A close up photo of a thin branch with three clusters of green, papery flowers. The branch has leaf buds but no leaves; the background is blurry blue sky and trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-ulmrub_flowers.jpeg)
+![A close up photo of a thin branch with three clusters of green, papery flowers. The branch has leaf buds but no leaves; the background is blurry blue sky and trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ulmrub_flowers.jpeg?itok=AkZ9IT69)
 
 Photo Credit
 

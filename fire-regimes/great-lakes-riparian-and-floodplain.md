@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Lakes riparian and floodplain communi
 
 ## Distribution
 
-![A photo showing the distribution of Great Lakes riparian and floodplain communities in the northern U.S., surrounding the Great Lakes.]({{ site.baseurl }}/assets/images/fire-regimes/great-lakes-riparian-and-floodplain_feis-great_lakes_riparian_and_floodplain_locator.jpg)
+![A photo showing the distribution of Great Lakes riparian and floodplain communities in the northern U.S., surrounding the Great Lakes.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-great_lakes_riparian_and_floodplain_locator.jpg?itok=qHCNnBLy)
 
 Photo Credit
 

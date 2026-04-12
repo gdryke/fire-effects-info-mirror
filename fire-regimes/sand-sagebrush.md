@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for sand sagebrush communities has not yet been
 
 ## Distribution
 
-![A map showing the distribution of sand sagebrush communities in the south central U.S.]({{ site.baseurl }}/assets/images/fire-regimes/sand-sagebrush_feis-sand_sagebrush_locator.jpg)
+![A map showing the distribution of sand sagebrush communities in the south central U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-sand_sagebrush_locator.jpg?itok=38T7kRgD)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Esser, Lora L. 1995. _Rumex acetosella_ , common sheep sorrel. In: Fire Effects 
 
 ## Image Gallery
 
-![Distribution map of common sheep sorrel.]({{ site.baseurl }}/assets/images/species-reviews/feis-rumace_map.jpg) Distribution of common sheep sorrel. _Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, June 5] [88]._
+![Distribution map of common sheep sorrel.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-rumace_map.jpg) Distribution of common sheep sorrel. _Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, June 5] [88]._
 
 Photo Credit: Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, June 5] [88].
 
@@ -60,7 +60,7 @@ red sorrel, sheep sorrel
 
 Common sheep sorrel is a forb of Eurasian origin that has naturalized throughout much of temperate North America [46,75,95].
 
-![Distribution map of common sheep sorrel.]({{ site.baseurl }}/assets/images/species-reviews/feis-rumace_map.jpg)
+![Distribution map of common sheep sorrel.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-rumace_map.jpg?itok=PsMC9pTD)
 
 Photo Credit
 

@@ -102,7 +102,7 @@ The 4 moonworts covered in this review are native to North America [21]. All are
 
 **Common Moonwort:** Common moonwort occurs in North America, South America, Eurasia, Australia, New Zealand, and the Pacific islands [21,30,77]. In North America, it occurs from arctic Alaska [11] east to the southern tip of Greenland and south to California, New Mexico, the Dakotas, and Pennsylvania [12,21,70,77]. It is rare throughout most of its North American distribution, but it has scattered pockets of abundance in the Rocky Mountains [35].
 
-![Map showing distribution of common moonwort in the western and northern United States and throughout Canada.]({{ site.baseurl }}/assets/images/species-reviews/botspp_botlunmap_fig1.png)
+![Map showing distribution of common moonwort in the western and northern United States and throughout Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/botlunmap_fig1.png?itok=LBDe6jgT)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Figure 1—Common moonwort's distribution in the United States and Canada.
 
 **Daisy-leaf Moonwort:** Daisy-leaf moonwort occurs in eastern North America, Eurasia [21,42,59], Patagonia [22], Australia, and New Zealand [42]. In North America, it occurs from Manitoba east to Labrador and south to the Dakotas, Tennessee, and North Carolina [35,70]. It is the most common moonwort in the Great Lakes and Northeast regions [19], but it is rare on the western edges of its distribution [35].
 
-![Map showing distribution of daisy-leaf moonwort in the northeastern United States and eastern Canada.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botmatmap_fig2.png)
+![Map showing distribution of daisy-leaf moonwort in the northeastern United States and eastern Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botmatmap_fig2.png?itok=IB_xgOGn)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Figure 2—Daisy-leaf moonwort's distribution in the United States and Canada.
 
 **Mountain Moonwort:** Mountain moonwort has a scattered distribution in the western United States [21,35,70]. It also occurs in British Columbia [35,70] and Alaska. Except in Washington, it is rare throughout its distribution [35].
 
-![Map showing mountain moonwort distribution in the western United States and British Columbia.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botmonmap_fig3.png)
+![Map showing mountain moonwort distribution in the western United States and British Columbia.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botmonmap_fig3.png?itok=6UriCAoe)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ Figure 3—Mountain moonwort's distribution in the United States and Canada.
 
 **Peculiar Moonwort:** Peculiar moonwort has a scattered distribution in the western United States and southwestern Canada [21,35]. It is rare throughout its distribution [35].
 
-![Map showing distribution of peculiar moonwort in northwestern United States and western Canada.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botparmap_fig4.jpg)
+![Map showing distribution of peculiar moonwort in northwestern United States and western Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botparmap_fig4.jpg?itok=8Zs_9cRO)
 
 Photo Credit
 
@@ -178,7 +178,7 @@ Common moonwort grows mostly in open communities in the conterminous United Stat
 
 **Mountain Moonwort** : Mountain moonwort grows in dark, moist habitats. This, and its gray-green color, earns it the alternate common name "western goblin" [19]. It grows in conifer forests, usually in or near riparian zones [19,21,49,74], and in moist meadows, seeps, and fens [19,74]. Mountain moonwort has been found on calcareous soils [19]. Across its range, it occurs from 3,000 to 6,500 feet (1,000-2,000 m) elevation [21]. In Washington, it prefers old-growth western redcedar riparian forests and is uncommon in other plant communities. Western redcedar forests with mountain moonwort occupy upper terraces near small to moderate-sized streams. Soils are moist, with high concentrations of organic matter and minerals [19]. Surveyors on the Kootenai National Forest found mountain moonwort exclusively in mature second-growth and old-growth western redcedar and western hemlock forests [72]. In California, mountain moonwort occurred in conifer forests at 5,000 to 6,000 feet (1,500-1,800 m), growing mostly in the southern Cascade Range [69]. Specimens were collected near a stream in Butte and Tehama counties, in a mixed-conifer forest of incense-cedar, white fir, sugar pine, and Pacific ponderosa pine [19,76]. Farrar [19] suggested that litter from the Cupressaceae family, which includes western redcedar and incense-cedar, favors mountain moonwort growth. Additionally, mycorrhizae associated with Cupressaceae are also associated with Botrychium [9,19].
 
-![Forest understory with scattered dead and down wood and patchy green ground plants.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botmonhabitat_fig5.jpg)
+![Forest understory with scattered dead and down wood and patchy green ground plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botmonhabitat_fig5.jpg?itok=lJs5KuIg)
 
 Photo Credit
 
@@ -198,7 +198,7 @@ Descriptions in this review cover characteristics that may be relevant to fire e
 
 Moonworts have two distinct generations: the gametophyte (n) and sporophyte (2n) [2,48]. The gametophyte spends its life entirely below ground. The gametophyte generation is longest and is little studied. The sporophyte develops and spends most of its life below ground [48]. Its frond emerges above ground at sexual maturity, and the frond is featured in identification keys. Both generations require mycorrhizae for development [34,67]; the gametophyte is entirely dependent on mycorrhizae for water and nutrients [2,34]. Persistence of associated mycorrhizae is likely the most important factor in persistence of moonwort populations (Johnson-Groh 1999 cited in [2]). See Regeneration Processes for further discussion of the moonwort life cycle.
 
-![Microphotograph of a bean-shaped, fuzzy cutleaf grapefern gametophyte.]({{ site.baseurl }}/assets/images/species-reviews/feis-botspp_gametophyte_fig6.jpg)
+![Microphotograph of a bean-shaped, fuzzy cutleaf grapefern gametophyte.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botspp_gametophyte_fig6.jpg?itok=djZysDzu)
 
 Photo Credit
 
@@ -220,7 +220,7 @@ Mycorrhizae infect moonwort stems, roots, and rhizoids (Campbell 1908, Bower 192
 
 **Common Moonwort** : Common moonwort's fleshy frond arises from a caudex [31] about 5 mm thick [49]. The frond is long (up to 10 inches (25 cm)) and somewhat leathery [12,54]. Frond leaflets are highly variable in form. Environmental conditions during elongation, such as early-season freezing temperatures, affect the morphology of fully extended leaflets [29]. Electron micrographs showed endophytic fungi infecting common moonwort gametophytes but not sporophytes. The gametophytes were 0.1 to 0.3 mm in diameter, with a few rhizoids [61].
 
-![Bright green common moonwort stalk with clasping leaves and green sporangia.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botlunplant_fig7.jpg)
+![Bright green common moonwort stalk with clasping leaves and green sporangia.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botlunplant_fig7.jpg?itok=KfUsddaq)
 
 Photo Credit
 
@@ -230,7 +230,7 @@ Figure 7—Common moonwort.
 
 **Daisy-leaf Moonwort** : Daisy-leaf moonwort's frond is relatively long (≥4 inches (10 cm)) and membranous to fleshy [12,21]. The sporophyte has short rhizomes and thick roots. In France, daisy-leaf moonwort fronds emerged when plants averaged about 10 years old. Sporophytes lived another 2 (rarely 3) years after reaching sexual maturity. Over 4 years, an average of 50% of sporophytes were not relocated in surveys (and presumed dead) [48].
 
-![Daisy-leaf moonwort frond with many brown sporangia on upper branches and leaves on lower stalk.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botmatplant_fig8.jpg)
+![Daisy-leaf moonwort frond with many brown sporangia on upper branches and leaves on lower stalk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botmatplant_fig8.jpg?itok=B2MkOjkX)
 
 Photo Credit
 
@@ -240,7 +240,7 @@ Figure 8—Daisy-leaf moonwort frond, showing sporangia-bearing, fertile (upper)
 
 **Mountain Moonwort** : Mountain moonwort's frond is somewhat succulent. It may reach 5 inches (12 cm) tall, although it is often shorter [49].
 
-![Two small, pale green mountain moonwort stalks bearing a few light yellow sporangia and one leaf each.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botmonplant_fig9.jpg)
+![Two small, pale green mountain moonwort stalks bearing a few light yellow sporangia and one leaf each.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botmonplant_fig9.jpg?itok=9rE9tG05)
 
 Photo Credit
 
@@ -250,7 +250,7 @@ Figure 9—Mountain moonwort.
 
 **Peculiar Moonwort** : Peculiar moonwort's frond has 2 spore-bearing segments; unlike other moonworts, this species lacks a sterile frond segment. Mature sporophytes usually range from 3 to 5 inches (7-15 cm) tall in open sun but are shorter in shade [21,49]. Vesicular-arbuscular mycorrhizae [79] and/or ectomycorrhizae [21,49] infect peculiar moonwort's roots and rhizoids. In Waterton Lakes National Park, peculiar moonwort sporophytes lived 6 years or less [39].
 
-![Small, light green peculiar moonwort sporophyte emerging from a gravelly surface.]({{ site.baseurl }}/assets/images/species-reviews/botspp_feis-botparplant_fig10.jpg)
+![Small, light green peculiar moonwort sporophyte emerging from a gravelly surface.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botparplant_fig10.jpg?itok=OQ-9mTL6)
 
 Photo Credit
 
@@ -303,7 +303,7 @@ Across range| Fronds desiccate| Mid-late summer [49]
 
 The life cycle of moonworts is similar to that of ferns in the class Filicopsida, but it is only partially understood for moonworts [62]. Spores (meiospores) produced by the sporophyte germinate below ground. The resulting gametophyte forms a caudex and grows for several years. When mature, the gametophyte produces female archegonia and antheridia with eggs and sperm, respectively [17]. Fertilization occurs below ground [17,67,79]. Sperm require wet soil to swim to eggs [2,39]; free-swimming sperm may fertilize eggs from either their parent or adjacent gametophytes [39]. After fertilization, the resulting sporophyte remains attached to the gametophyte. After several years of development, the sporophyte frond stalk emerges above ground, and the frond leaf expands [39,79]. Length of time required for gametophytes to develop from spores, and for sporophytes to develop and emerge above ground, is little studied. Little is known of the gametophyte portion of the life cycle in general [39].
 
-![Graphic showing a moonwort life cycle.]({{ site.baseurl }}/assets/images/species-reviews/feis-botspp_figure11.jpg)
+![Graphic showing a moonwort life cycle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botspp_figure11.jpg?itok=HiE-2EPU)
 
 Photo Credit
 
@@ -400,7 +400,7 @@ Favorable conditions for postfire moonwort regeneration include presence of appr
 
 In a pilot study in Great Smoky Mountains National Park, dormant-season (early spring) prescribed fire or raking increased daisy-leaf moonwort density over prefire densities. The Park had 2 known daisy-leaf moonwort populations, 1 with about 42 emerged sporophytes and other with about 114, depending on the year. The populations grew in second-growth yellow-poplar-red maple-eastern hemlock forests, and disturbed leaf litter appeared to favor the daisy-leaf moonwort populations. The larger population was selected for study; it was on a north-facing slope of 5% to 50% at 2,250 feet (686 m) elevation. Daisy-leaf moonwort sporophytes in the larger population were mapped along 2 transects the year prior to treatments (1997). Three 7- × 10-m² plots (1 prescribed fire,1 raked, and 1 control) were established in 1998; treatments were enacted in March 1998. In posttreatment year 1 (1999), daisy-leaf moonwort density increased 35% on the prescribed fire plot and 33% on the raked plot compared to prefire densities (see Figure 12). Total increase on all plots was from 23 emerged daisy-leaf moonworts sporophytes in 1997 to 144 in 1999. The untreated control plot showed no increase during that time. The author concluded that reducing leaf litter favors daisy-leaf moonwort, and that prescribed burning or raking in spring—while daisy-leaf moonwort is still dormant—are effective management tools for maintaining daisy-leaf moonwort populations [57]. Further published studies are needed to confirm trends suggested by this pilot study.
 
-![Four bar graphs showing number of daisy-leaf moonworts before and after prescribed fire or raking.]({{ site.baseurl }}/assets/images/species-reviews/feis-botspp_figure12.png)
+![Four bar graphs showing number of daisy-leaf moonworts before and after prescribed fire or raking.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-botspp_figure12.png?itok=Lp4gPeDu)
 
 Photo Credit
 

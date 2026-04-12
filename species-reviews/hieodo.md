@@ -58,7 +58,7 @@ sweet grass, bison grass
 
 Sweetgrass is circumboreal [1,18] and is common above 40 degrees north latitude in Asia, Europe, and North America [20]. In North America, sweetgrass occurs from Newfoundland to Alaska [7,15,27]. Its range extends south to New Jersey and west to Colorado, New Mexico, Arizona, and northern California [10,12,14,19].
 
-![A map of the United States and Canada with all Canadian provinces and some eastern U.S. states highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-hieodo_distribution.jpg)
+![A map of the United States and Canada with all Canadian provinces and some eastern U.S. states highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-hieodo_distribution.jpg?itok=_AViZXJY)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ See the Appendix for a list of cover types and plant associations in which this 
 
 Sweetgrass is a native, rhizomatous perennial grass [7,12,34]. Rhizomes are slender and creeping [7,15]. Culms are hollow, erect [11], and 8 to 24 inches (20-60 cm) tall [9,12,15,16]; they arise from among the dead foliage of the previous year [7,22]. Cauline leaves are few and short; leaves of sterile shoots are 4 to 12 inches (10-30 cm) long [11,12]. The inflorescence is an open pyramidal panicle 1.6 to 4.7 inches (4-12 cm) long, with slender branches [12,15,22]. Spikelets are three-flowered [22,34]; lemmas are awnless [7,9]. The fruit is a caryopsis [22]. Rhizomes and roots form a dense mat beneath the soil surface [20].
 
-[![A close-up photo of a grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-hieodo_panicle.jpg)Photo Credit Photo by Rob Routledge, Sault College, Bugwood.org (CC BY-NC 3.0 US). Sweetgrass panicle.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A close-up photo of a grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-hieodo_panicle.jpg?itok=ITWvPpPs)Photo Credit Photo by Rob Routledge, Sault College, Bugwood.org (CC BY-NC 3.0 US). Sweetgrass panicle.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

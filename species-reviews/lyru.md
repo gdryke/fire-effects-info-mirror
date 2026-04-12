@@ -89,7 +89,7 @@ Common tree and shrub species of bobcat habitat in the Intermountain West includ
 
 **Life span:** In the wild, most bobcats live 2 to 5 years; some individuals live 15 years [9,11].
 
-![A photo of a bobcat sitting in lush understory vegetation, looking at the camera.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyru_portrait_2.jpg)
+![A photo of a bobcat sitting in lush understory vegetation, looking at the camera.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-lyru_portrait_2.jpg?itok=Kujlbf8Y)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Bobcats are opportunistic and will attempt to take almost any prey available, in
 
 Cottontail rabbits appear to be the principal prey of bobcats throughout bobcat's range [6,7,38]. Primary exceptions occur from Minnesota to New England, where white-tailed deer (_Odocoileus virginianus_) and snowshoe hare (_Lepus americanus_) increase in importance [6].
 
-![A photo of a bobcat crouched in front of tall grass with a large rat in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyru_withprey.jpeg)
+![A photo of a bobcat crouched in front of tall grass with a large rat in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-lyru_withprey.jpeg?itok=VpMdpx3R)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Habitat management favoring bobcats is possible in areas managed for timber prod
 
 **Response to human activities:** Bobcats appear capable of dealing with moderate human influence on the environment. Their populations are stable in the United States, except in areas of intensive farming and dense human populations, such as in the Midwest and along the central Atlantic coast in Delaware and New Jersey. In Canada, bobcats are expanding their range into many areas that previously supported only lynx [7].
 
-![A photo of a bobcat with two kittens and a dead rabbit, lying against a brick wall. One of the kittens is biting the rabbit.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyru_family_and_prey.jpeg)
+![A photo of a bobcat with two kittens and a dead rabbit, lying against a brick wall. One of the kittens is biting the rabbit.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-lyru_family_and_prey.jpeg?itok=p_DxJr-6)
 
 Photo Credit
 

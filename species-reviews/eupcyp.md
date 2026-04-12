@@ -127,7 +127,7 @@ Cypress spurge occupies similar habitats in Europe and North America, although i
 
 ### Native Habitats
 
-![A photo of an upright herbaceous plant with yellow flowers growing in a sunny, rocky area.]({{ site.baseurl }}/assets/images/species-reviews/feis-eupcyp_hungary.jpg)
+![A photo of an upright herbaceous plant with yellow flowers growing in a sunny, rocky area.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2026-02/feis-eupcyp_hungary.jpg?itok=eIeCmjB2)
 
 Although generally most common in dry to moderately moist pastures, meadows, stream banks, heathlands, forest edges, and open woodlands in Europe ([82,89,95], Hegi 1930 cited in [57]), cypress spurge also occurs in dense shrublands and forests. In central and southern Europe, cypress spurge is common in forb-grasslands [30,51], spurge-sheep fescue (_Euphorbia_ spp.-_Festuca ovina_) meadows [92], erect brome (_Bromus erectus_) grasslands [58], and dry calcareous grasslands [89]. Cypress spurge also occurred in _Quercus coccifera_ shrublands [104], thermophilous oak woodlands [13], and sparse to dense coniferous forests [58]. When research sites throughout Europe were evaluated, cypress spurge was often associated with moderate to high levels of grass and forb species and relatively low productivity [76].
 
@@ -147,7 +147,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground Description
 
-![A photo of an upright, leafy green plant with yellow flowers at the tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-eupcyp_plant.jpeg)
+![A photo of an upright, leafy green plant with yellow flowers at the tips.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-02/feis-eupcyp_plant.jpeg?itok=P91Rjd7S)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ _Euphorbia_ × _pseudoesula_ plant height, leaf size, and leaf abundance are gen
 
 ### Belowground Description
 
-![A photo of a plant with yellow flowers that has been dug up and placed on a piece of cardboard. Roots extend horizontally and three smaller plants are growing from different points on the root.]({{ site.baseurl }}/assets/images/species-reviews/feis-eupcyp_rootsprouts.jpg)
+![A photo of a plant with yellow flowers that has been dug up and placed on a piece of cardboard. Roots extend horizontally and three smaller plants are growing from different points on the root.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-eupcyp_rootsprouts.jpg?itok=1n0GFxAK)
 
 Photo Credit
 
@@ -383,7 +383,7 @@ Historically, cypress spurge latex has been used to treat skin conditions includ
 
 ## Impacts
 
-![A photo of an open grassy area covered in mounded green plants with yellow flowers. A conifer forest is visible at the edge of the opening.]({{ site.baseurl }}/assets/images/species-reviews/feis-eupcyp_field.jpg)
+![A photo of an open grassy area covered in mounded green plants with yellow flowers. A conifer forest is visible at the edge of the opening.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-02/feis-eupcyp_field.jpg?itok=r2gmXn0k)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Coladonato, Milo. 1993. _Viburnum acerifolium,_ mapleleaf viburnum. In: Fire Eff
 
 ## Image Gallery
 
-![Photo of mapleleaf viburnum.]({{ site.baseurl }}/assets/images/species-reviews/feis-vibace_plant.jpg) Mapleleaf viburnum. _Photo by Charlie O'Brien, iNaturalist.org, no rights reserved._
+![Photo of mapleleaf viburnum.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-vibace_plant.jpg) Mapleleaf viburnum. _Photo by Charlie O'Brien, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Charlie O'Brien, iNaturalist.org, no rights reserved.
 
@@ -79,7 +79,7 @@ Mapleleaf viburnum is a dominant or codominant understory species in many beech-
 
 ## Botanical Description
 
-![Photo of mapleleaf viburnum.]({{ site.baseurl }}/assets/images/species-reviews/feis-vibace_plant.jpg)
+![Photo of mapleleaf viburnum.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-vibace_plant.jpg?itok=RLHAx08y)
 
 Photo Credit
 

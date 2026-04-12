@@ -61,7 +61,7 @@ The range of Emory oak extends from central Arizona eastward through southern Ne
 
 Emory oak occurs in arid to semiarid climates with low amounts of biseasonal rainfall. The climate has mild, wet winters and hot, wet summers [34,66,85,109].
 
-![A photo of a low, spreading tree in front of red rock canyon walls. Low shrubs are growing nearby.]({{ site.baseurl }}/assets/images/species-reviews/feis-queemo_habitat.jpg)
+![A photo of a low, spreading tree in front of red rock canyon walls. Low shrubs are growing nearby.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queemo_habitat.jpg?itok=HX1XPT9Y)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Succulent species associated with Emory oak but not mentioned in Table A1 includ
 
 ## Botanical Description
 
-![A close up photo of an oak tree's small, oval leaves and one elongated brown acorn.]({{ site.baseurl }}/assets/images/species-reviews/feis-queemo_acorn.jpg)
+![A close up photo of an oak tree's small, oval leaves and one elongated brown acorn.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queemo_acorn.jpg?itok=ypDRD4Wy)
 
 Photo Credit
 

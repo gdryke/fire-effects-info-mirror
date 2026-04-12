@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for red alder landslide communities has not yet
 
 ## Distribution
 
-![A map showing the distribution of red alder landslide communities in Oregon and Washington states.]({{ site.baseurl }}/assets/images/fire-regimes/red-alder-landslide_feis-red_alder_landslide_locator.jpg)
+![A map showing the distribution of red alder landslide communities in Oregon and Washington states.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-red_alder_landslide_locator.jpg?itok=MJsRzObJ)
 
 Photo Credit
 

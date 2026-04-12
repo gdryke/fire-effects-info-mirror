@@ -59,7 +59,7 @@ Texas persimmon is endemic to southern and central Texas and northern Mexico. In
 
 ## Site Characteristics
 
-![A photo of two shrubs or small trees with green leaves growing out of a red rock slope. Few other plants are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-diotex_habitat.jpeg)
+![A photo of two shrubs or small trees with green leaves growing out of a red rock slope. Few other plants are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-diotex_habitat.jpeg?itok=L3WPZmXW)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ Texas persimmon may become codominant in the netleaf hackberry-huisache associat
 
 ## Botanical Description
 
-![A photo of part of a tree showing leathery, oval leaves and round, fuzzy-skinned green fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-diotex_fruits.jpeg)
+![A photo of part of a tree showing leathery, oval leaves and round, fuzzy-skinned green fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-diotex_fruits.jpeg?itok=WiFLGJ_W)
 
 Photo Credit
 

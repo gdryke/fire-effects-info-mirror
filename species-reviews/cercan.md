@@ -61,7 +61,7 @@ Texas redbud occurs from southern Oklahoma south to eastern, southern, and Trans
 
 ## Site Characteristics
 
-![A photo of trees growing along a roadside, including several trees covered in small pink flowers, a tree with larger white flowers, and several taller round pine trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-cercan_habitat.jpeg)
+![A photo of trees growing along a roadside, including several trees covered in small pink flowers, a tree with larger white flowers, and several taller round pine trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cercan_habitat.jpeg?itok=S9gTNlUN)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ It very commonly occurs with flowering dogwood (_Cornus florida_) [54].
 
 ## Botanical Description
 
-![A shallow-focus photo of a tree's thin branches, all covered with small pink flowers. Leaves are just beginning to open at the tips of the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-cercan_flowers.jpg)
+![A shallow-focus photo of a tree's thin branches, all covered with small pink flowers. Leaves are just beginning to open at the tips of the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cercan_flowers.jpg?itok=gqwyEFBC)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Eastern redbud flowers appear before the leaves from as early as February in the
 
 ## Regeneration Processes
 
-![A close up photo of a plant's heart-shaped leaves and hanging flat seed pods.]({{ site.baseurl }}/assets/images/species-reviews/feis-cercan_seedpods.jpeg)
+![A close up photo of a plant's heart-shaped leaves and hanging flat seed pods.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cercan_seedpods.jpeg?itok=-rK01__W)
 
 Photo Credit
 

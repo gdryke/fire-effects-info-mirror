@@ -34,7 +34,7 @@ Zouhar, Kristin. 2002. _Cirsium vulgare_ , bull thistle. In: Fire Effects Inform
 
 ## Introduction
 
-![Close-up photo of a purple flower emerging from a spiny calyx.]({{ site.baseurl }}/assets/images/species-reviews/cirvul_feis-CIRVUL_Flower.jpg)
+![Close-up photo of a purple flower emerging from a spiny calyx.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRVUL_Flower.jpg?itok=kqT-pldk)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Utah| 4,420 to 9,060 feet (1,340-2,745 m)| [161]
  
 ## Plant Communities
 
-![Photo looking up the Yosemite Valley showing a dark green, prickly patch of vegetation in the foreground, with forest and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/cirvul_feis-CIRVUL_infestation.jpg)
+![Photo looking up the Yosemite Valley showing a dark green, prickly patch of vegetation in the foreground, with forest and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRVUL_infestation.jpg?itok=n9Ie0fI3)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Bull thistle often establishes in Sierra Nevada mixed-conifer forests after clea
 
 ## Botanical Description
 
-![Photo of a spiny, brownish-red stem with spiny green leaves.]({{ site.baseurl }}/assets/images/species-reviews/cirvul_feis-CIRVUL_Stem.jpg)
+![Photo of a spiny, brownish-red stem with spiny green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRVUL_Stem.jpg?itok=3eD3sbHd)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ Bull thistle reproduces and spreads entirely from seeds [80]. A detailed descrip
 
 ### Pollination and Breeding System
 
-![Close-up photo of bee on top of a purple flowerhead with spiky bracts.]({{ site.baseurl }}/assets/images/species-reviews/cirvul_feis-CIRVUL_Flower%26Bee.jpg)
+![Close-up photo of bee on top of a purple flowerhead with spiky bracts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRVUL_Flower%26Bee.jpg?itok=-gStNaL0)
 
 Photo Credit
 
@@ -219,7 +219,7 @@ Bull thistle seeds germinate well over a wide range of temperatures [50]. Germin
 
 ### Seedling Establishment and Growth
 
-![Overhead photo of a plant with a spiny, green rosette.]({{ site.baseurl }}/assets/images/species-reviews/cirvul_feis-CIRVUL_Rosette.jpg)
+![Overhead photo of a plant with a spiny, green rosette.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRVUL_Rosette.jpg?itok=-qaTU7Nh)
 
 Photo Credit
 
@@ -251,7 +251,7 @@ More research is needed to determine the immediate effects of fire on bull thist
 
 It is also unclear what effects fire has on bull thistle seeds in the soil. Incidents of rapid colonization after fire [10,16,102] suggest that either bull thistle seeds were present in the soil at the time of the fire and survived to germinate after the overstory was removed, or that bull thistle seeds were dispersed after fire from off-site seed sources. However, when experimental heat treatments including 6 combinations of temperature, duration, and soil moisture were applied to bull thistle seeds from an old-growth Douglas-fir forest seed bank, researchers concluded that even low-severity fire could kill bull thistle seeds. Seed survival was lower in wet soil than in dry soil. In wet soil, 35% of the bull thistle seeds tested survived 122 degrees Fahrenheit (50 °C) for 60 minutes, and 0 seeds survived 167 degrees Fahrenheit (75 °C) or 212 degrees Fahrenheit (100 °C) for 15 minutes. In dry soil, 44% survived 122 degrees Fahrenheit (50 °C) for 60 minutes, 32% survived 167 degrees Fahrenheit (75 °C) for 15 minutes, and 6% survived 212 degrees Fahrenheit (100 °C) for 15 minutes [25].
 
-![Photo of a cluster of thistle flowers, some purple and emerging from a spiny calyx, and some turned to a cluster of white, fluffy seeds.]({{ site.baseurl }}/assets/images/species-reviews/cirvul_feis-CIRVUL_Flowers%26Seeds.jpg)
+![Photo of a cluster of thistle flowers, some purple and emerging from a spiny calyx, and some turned to a cluster of white, fluffy seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRVUL_Flowers%26Seeds.jpg?itok=w_bl02MO)
 
 Photo Credit
 

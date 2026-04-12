@@ -38,7 +38,7 @@ Zouhar, Kris. 2009. _Euonymus fortunei_ , winter creeper. In: Fire Effects Infor
 
 The scientific name of winter creeper is _Euonymus fortunei_ (Turcz.) Hand.-Maz. (Celastraceae) [3,18,22,33,42,46,73,76].
 
-![A photo of a stem with dark green, shiny leaves and a few red berries in small clusters.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_fruit.jpg)
+![A photo of a stem with dark green, shiny leaves and a few red berries in small clusters.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-euofor_fruit.jpg)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Winter creeper may also occur in more open plant communities (personal communica
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [22,46,73]).
 
-![A photo of a narrow green stem with a brownish bulge at a node.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_rootlets.jpg)
+![A photo of a narrow green stem with a brownish bulge at a node.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-euofor_rootlets.jpg)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ Winter creeper plants can form dense groundcover [1,29,43,52] trailing to 20 or 
 
 When growing as a groundcover, independent winter creeper plants originate from rootlets at short intervals along procumbent stems. Established populations appear as a dense mat of vegetation (reviews by [1,12,52]) that may impede the growth of native seedlings. As a liana, winter creeper may climb rocks, trees, or other supporting structures. It may overtop trees, covering tree leaves and preventing photosynthesis (review by [52]). See Impacts for additional information.
 
-![A photo of a cluster of narrow, leafy, green stems growing close together.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_on_ground.jpg)
+![A photo of a cluster of narrow, leafy, green stems growing close together.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-euofor_on_ground.jpg)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Photo by James H. Miller, USDA Forest Service, Bugwood.org.
 
 Winter creeper growing as groundcover.
 
-![A photo of a leafy, green vine climbing the side of a tree with grayish, furrowed bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_on_tree.jpg)
+![A photo of a leafy, green vine climbing the side of a tree with grayish, furrowed bark.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-euofor_on_tree.jpg)
 
 Photo Credit
 
@@ -208,7 +208,7 @@ As of 2009, no information was available regarding germination of winter creeper
 
 No information is available on requirements for winter creeper seedling establishment, but it is capable of establishing on disturbed, relatively inhospitable sites (see photo below).
 
-![A photo of a viny plant growing out of crumbling asphalt. Cracked by not crumbling asphalt is visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_seedling.jpg)
+![A photo of a viny plant growing out of crumbling asphalt. Cracked by not crumbling asphalt is visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-euofor_seedling.jpg?itok=Nkct96P1)
 
 Photo Credit
 
@@ -224,7 +224,7 @@ Winter creeper cultivar 'Coloratus' plants damaged by rabbits in fall and winter
 
 Insect damage and water stress can both influence winter creeper growth. Field experiments using the winter creeper cultivar 'Coloratus' suggest that euonymus scales, primarily the males feeding on the leaves, damage the leaf tissue so that the leaves have a higher than normal diffusive resistance and a lower transpiration rate, which eventually leads to increased leaf abscission and impaired growth of root tissue, especially when compounded by water stress [10]. The euonymus scale is native to eastern Asia and is associated with _Euonymus_ spp. throughout most of their native and cultivated range (review by [10]). A greenhouse and field study found that both scale-infested and water-stressed winter creeper plants abscised leaves whereas uninfested, unstressed plants did not; and there was a synergistic effect on leaf abscission from the 2 stresses combined [10]. Winter creeper may abscise a few leaves throughout the year, but most abscission occurs in early spring (unpublished data cited by [10]). Greenhouse experiments using the winter creeper cultivar 'Emerald and Gold' found that leaves began to abscise from water-stressed plants 61 days after infestation and 2 days after the soil water potential reached -1.7 MPa. Feeding by 2 generations of scales on non-water-stressed plants did not reduce total stem growth or significantly reduce intact leaf tissue, but infested plants had lower mean root weight than controls (P=0.05). Water-stressed plants—both infested and uninfested— were shorter, had lower mean root weight, and lower mean intact leaf weight than unstressed plants. Scale infestation significantly decreased the amount of leaf tissue remaining on water-stressed plants (P=0.05). Plants subjected to both water stress and scale infestation abscise more leaves than those exposed to either stress alone, apparently because scale feeding damage causes a heightened sensitivity to other stresses [10].
 
-![A photo of a narrow green stem with sets of opposite buds growing along it.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_buds.jpg)
+![A photo of a narrow green stem with sets of opposite buds growing along it.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-euofor_buds.jpg)
 
 Photo Credit
 
@@ -339,7 +339,7 @@ No information is available on this topic.
 
 As of this writing (2009), no studies were found in the available literature on the impacts of winter creeper invasion; however, several reviews [12,29,35,52,54,62,64,67] and personal communications [9,38,63] indicate that winter creeper is persistent, competitive, and difficult to control in some areas. A review by Remaley [52] suggests that the traits that make it a desirable ornamental plant, such as rapid growth, evergreen nature, and tolerance of variable site conditions, also make it a threat to natural areas. Reviews suggest that winter creeper outcompetes and displaces native groundlayer plants (e.g., [12,52,62]) and may form single-species stands (review by [54]). Decreased native plant diversity may negatively impact native fauna (e.g., butterflies) [54]. Based on observations in Illinois, Hutchison [29] states that winter creeper is a serious potential threat because it spreads rapidly and replaces spring ephemerals. In mesic and dry-mesic woods at Fern Rocks Nature Preserve, winter creeper covered the ground and eliminated native groundcover species in many places [29]. Reviews suggest that winter creeper may overtop and block sunlight to trees [12,52], possibly smothering and killing them [54], especially smaller trees (up to about 20 feet (6 m) tall) (personal communication [63]).
 
-![Two photos. The left photo show woody branches with green leaves growing over the trunk of a different plant. The right photo shows a several-inch-thick trunk with woody branches growing from it.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_liana_diameter.jpg)
+![Two photos. The left photo show woody branches with green leaves growing over the trunk of a different plant. The right photo shows a several-inch-thick trunk with woody branches growing from it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-euofor_liana_diameter.jpg?itok=zVcEdyJz)
 
 Photo Credit
 
@@ -404,7 +404,7 @@ Intense seasonal browsing with domestic goats and/or sheep is being investigated
 
 On winter creeper populations that are too large to control by hand-pulling or digging, foliar or cut-stem applications of herbicides may be effective (reviews by [1,12,30,52,54]). Cut stem application of herbicides is effective in areas where lianas are well established on or around nontarget plants or where they have grown into tree canopies or other vertical surfaces. Subsequent foliar application of herbicides will likely be required for adequate control [1,52]. Foliar applications of herbicide may be used to control large populations of winter creeper. It may be necessary to precede foliar sprays with cut stem treatments to reduce the risk of damage to nontarget plants [1,52]. Whichever method is used, multiple herbicide treatments are needed to control winter creeper (personal communications [38,63]) because it sprouts following top-kill.
 
-![A photo of forbs with pink flowers in from of a wooden walkway and bridge, with more flowers and various shrubs, grasses, and forbs behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-euofor_bridge.jpg)
+![A photo of forbs with pink flowers in from of a wooden walkway and bridge, with more flowers and various shrubs, grasses, and forbs behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-euofor_bridge.jpg?itok=SjMdHfqR)
 
 Photo Credit
 

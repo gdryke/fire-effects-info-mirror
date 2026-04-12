@@ -50,7 +50,7 @@ None
 
 ## General Distribution
 
-![A photo of several tall, thin, straight pine trees with no branches along most of the trunk, and horizontal branches near the crown. There is blue sky in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsyl_habitat.jpeg)
+![A photo of several tall, thin, straight pine trees with no branches along most of the trunk, and horizontal branches near the crown. There is blue sky in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinsyl_habitat.jpeg?itok=9Yma_ZMr)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ In Europe and Asia, Scots pine forms a boreal forest type with Norway spruce (_P
 
 ## Botanical Description
 
-![A close up photo of a pine tree's long, paired needles and single pointed brown cone. The background is more blurry needles and cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsyl_cone.jpg)
+![A close up photo of a pine tree's long, paired needles and single pointed brown cone. The background is more blurry needles and cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinsyl_cone.jpg?itok=UWUs1Ct0)
 
 Photo Credit
 

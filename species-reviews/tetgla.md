@@ -34,7 +34,7 @@ Howard, Janet L. 2002. _Tetradymia glabrata_ , littleleaf horsebrush. In: Fire E
 
 ## Introduction
 
-![A photo of several upright stem of a shrub, only showing the top of the plant. Stems are pale and woody and have relatively dense clusters of small, dark green leaves, with clusters yellow aster flowers growing at their tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetgla_habitat.jpg)
+![A photo of several upright stem of a shrub, only showing the top of the plant. Stems are pale and woody and have relatively dense clusters of small, dark green leaves, with clusters yellow aster flowers growing at their tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tetgla_habitat.jpg?itok=7KSrnJnV)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Littleleaf horsebrush grows on dry, open valleys, plains, and foothills. It is g
 
 Littleleaf horsebrush occurs on skeletal, sand, fine-loam, and clay soils in the Great Basin [4,5,6,18,49]. The soils are often saline or alkaline. They may be shallow to deep, and sometimes have durapans [49]. Bare ground or desert pavement may account for considerable (10-45%) cover on some sites [4,5,18], and litter cover may be scant. Litter cover in big sagebrush and shadscale communities with a littleleaf horsebrush component ranged from 10 to 30% in west-central Nevada [4,5].
 
-![A photo of a shrub with pale stems and clusters of narrow green leaves, topped by yellow flowers. A shrubland extends behind, with dry hills rising in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetgla_community.jpg)
+![A photo of a shrub with pale stems and clusters of narrow green leaves, topped by yellow flowers. A shrubland extends behind, with dry hills rising in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tetgla_community.jpg?itok=sXM8gsIZ)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Plant communities dominated by littleleaf horsebrush are rare. Blackburn and oth
 
 ## Botanical Description
 
-![A photo of pale, woody stems with clusters of very small, linear, and somewhat fleshy leaves growing evenly spaced along each stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetgla_stems.jpg)
+![A photo of pale, woody stems with clusters of very small, linear, and somewhat fleshy leaves growing evenly spaced along each stem.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-tetgla_stems.jpg)
 
 Photo Credit
 

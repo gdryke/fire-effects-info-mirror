@@ -34,7 +34,7 @@ Gucker, Corey L. 2004. _Asarum caudatum_ , British Columbia wildginger. In: Fire
 
 ## Introduction
 
-![A photo of a forb with green stems with a few fuzzy hairs. A flower with long, reddish petals and a whitish tube grows from the end of the stem. heart-shaped leaves are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-asacau_plant.jpg)
+![A photo of a forb with green stems with a few fuzzy hairs. A flower with long, reddish petals and a whitish tube grows from the end of the stem. heart-shaped leaves are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-asacau_plant.jpg?itok=rwShXt9o)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ British Columbia wildginger is found in California, Oregon, Washington, Idaho, w
 
 ## Site Characteristics
 
-![A photo of a forest with moss-covered woody debris and forest floor, ferns, and trees behind. Heart-shaped forbs grow in a cluster in front of a moss-covered tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-asacau_habitat2.jpg)
+![A photo of a forest with moss-covered woody debris and forest floor, ferns, and trees behind. Heart-shaped forbs grow in a cluster in front of a moss-covered tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-asacau_habitat2.jpg?itok=hGnRTuL7)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ The western hemlock/British Columbia wildginger habitat type, considered the mos
 
 British Columbia wildginger is a common understory species and is used to identify habitat types within western redcedar (_Thuja plicata_), western hemlock (_Tsuga heterophylla_), grand fir (_Abies grandis_), and Pacific yew (_Taxus brevifolia_) forest types [14,15,28]. British Columbia wildginger is also found in western white pine (_Pinus monticola_), Douglas-fir (_Pseudotsuga menziesii_) [13], western larch (_Larix occidentalis_) [22,23], white fir (_A. concolor_) [51], and red alder (_Alnus rubra_) [11] communities.
 
-![A photo of close-growing low, green forbs with heart-shaped leaves covering a forest floor with some clover and other low vegetation, with a few scattered downed tree trunks or large branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-asacau_habitat.jpg)
+![A photo of close-growing low, green forbs with heart-shaped leaves covering a forest floor with some clover and other low vegetation, with a few scattered downed tree trunks or large branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-asacau_habitat.jpg?itok=4ujWu2Bp)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ British Columbia wildginger is recognized as a dominant species in many vegetati
 
 Provided is a general description of British Columbia wildginger characteristics that may relate to its fire ecology. Keys for identification are available: [26,27,34,37,46,48].
 
-![A photo of several dark green, heart-shaped leaves growing with other low forbs.]({{ site.baseurl }}/assets/images/species-reviews/feis-asacau_leaves.jpg)
+![A photo of several dark green, heart-shaped leaves growing with other low forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-asacau_leaves.jpg?itok=xO_8Hi0F)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ In low elevation sites of northern California, the British Columbia wildginger f
 
 ## Regeneration Processes
 
-![A photo of heart-shaped green leaves growing around and over moss-covered logs with two fuzzy flowers with long, narrow, red petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-asacau_plants.jpg)
+![A photo of heart-shaped green leaves growing around and over moss-covered logs with two fuzzy flowers with long, narrow, red petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-asacau_plants.jpg?itok=LuCDzMHC)
 
 Photo Credit
 

@@ -100,7 +100,7 @@ Classification and management of riparian and wetland sites in northwestern Mont
 
 ## Botanical Description
 
-![Photo of flowering rose spirea.]({{ site.baseurl }}/assets/images/species-reviews/feis-spidou_plant.jpg)
+![Photo of flowering rose spirea.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-spidou_plant.jpg?itok=Ow6dD9XW)
 
 Photo Credit
 

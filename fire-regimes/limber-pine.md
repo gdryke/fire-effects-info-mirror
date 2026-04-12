@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for limber pine communities has not yet been pu
 
 ## Distribution
 
-![A map showing the distribution of limber pine communities in the interior western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/limber-pine_feis-limber_pine_locator.jpg)
+![A map showing the distribution of limber pine communities in the interior western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-limber_pine_locator.jpg?itok=FLR4GfC3)
 
 Photo Credit
 

@@ -62,7 +62,7 @@ Common names are used throughout this synthesis. For a complete list of common a
 
 ## Distribution and Plant Community Composition
 
-![A map of the western U.S. including all of California, Nevada, and Orgeon, and parts of adjacent states. Open water is highlighted blue, including coastal and lake environments, barren areas are colored black, and California montane riparian systems are colored red.]({{ site.baseurl }}/assets/images/fire-regimes/montane-riparian-communities-california-and-southwestern-oregon_feis-ca_montane_riparian_mapa.jpg)
+![A map of the western U.S. including all of California, Nevada, and Orgeon, and parts of adjacent states. Open water is highlighted blue, including coastal and lake environments, barren areas are colored black, and California montane riparian systems are colored red.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ca_montane_riparian_mapa.jpg?itok=TdK0ha4j)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ California's montane riparian plant communities are often highly diverse (e.g., 
 
 Foothill riparian woodlands are dominated by hardwoods, conifers, or mixes including white alder, bigleaf maple, Pacific dogwood, interior live oak [100], gray pine, Pacific ponderosa pine, and/or sugar pine [37,89]. Higher-elevation riparian communities in the Sierra Nevada are dominated by water birch, quaking aspen, willows [19,28,39], coast Douglas-fir [55], giant sequoia, incense-cedar [19], white fir [19,28,39], red fir [19], and/or Sierra lodgepole pine [19,28,39]. In the North Coast Ranges, riparian mixed-evergreen forests are dominated by white or red alder, tanoak, Pacific madrone, bigleaf maple, California bay [89], coast live oak [37], coast Douglas-fir, grand fir, western hemlock, Sitka spruce, Port-Orford cedar, and/or redwood [37,59]. Bigcone Douglas-fir and incense-cedar are dominant riparian conifers in the Central and South Coast ranges [35], and oaks, especially coast live oak and canyon live oak, become more important than in the North Coast Ranges [89]. Coulter pine/chaparral communities occur in riparian corridors on the Los Padres National Forest [19].
 
-![A photo of a reflective river flowing through steep, conifer-covered slopes, with mountain peaks in the background.]({{ site.baseurl }}/assets/images/fire-regimes/montane-riparian-communities-california-and-southwestern-oregon_feis-ca_montane_riparian_klamath.jpg)
+![A photo of a reflective river flowing through steep, conifer-covered slopes, with mountain peaks in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ca_montane_riparian_klamath.jpg?itok=_3XCFL9O)
 
 Photo Credit
 
@@ -197,7 +197,7 @@ There are 4 general patterns of fire severity in western riparian systems [54]:
 
 High fuels loads in riparian areas can increase fire spread and severity by acting as "wicks". Fuel loads higher than those of surrounding vegetation may be due to natural succession, fire exclusion, tree harvesting, or fuel treatments in uplands [54]. During the 2007 Angora Fire on the Tahoe National Forest, heavy dead woody debris in the Angora Creek stream-riparian corridor helped fuel a mixed surface and active crown fire that raced down the corridor and up Angora Ridge [58]. The community type was Jeffrey pine/manzanita-antelope bitterbrush [58,72].
 
-![A photo of a large, charred downed log, with a small amount of muddy water pooled below if and charred tree trunks in the background. The ground is mostly burned or covered with woody debris, but a few sprouting green plants are visible.]({{ site.baseurl }}/assets/images/fire-regimes/montane-riparian-communities-california-and-southwestern-oregon_feis-ca_montane_riparian_angorafire.jpg)
+![A photo of a large, charred downed log, with a small amount of muddy water pooled below if and charred tree trunks in the background. The ground is mostly burned or covered with woody debris, but a few sprouting green plants are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ca_montane_riparian_angorafire.jpg?itok=GDQczjkc)
 
 Photo Credit
 

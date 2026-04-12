@@ -53,7 +53,7 @@ California bay
 
 ## General Distribution
 
-![A map of the western U.S. with areas highlighted in southwest Oregon and scattered through California where California laurel occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-umbcal_map.jpg)
+![A map of the western U.S. with areas highlighted in southwest Oregon and scattered through California where California laurel occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-umbcal_map.jpg?itok=FlkgrNQ3)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ California laurel occurs in the Klamath, Siskiyou, and Coast Ranges from Douglas
 
 ## Site Characteristics
 
-![A photo of a large, round shrub growing in an open area with bare rock and grass on the ground. The sky is mostly cloudy.]({{ site.baseurl }}/assets/images/species-reviews/feis-umbcal_habitat.jpg)
+![A photo of a large, round shrub growing in an open area with bare rock and grass on the ground. The sky is mostly cloudy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-umbcal_habitat.jpg?itok=1XVI1Kpl)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Subcanopy and understory associates include California sycamore (Plantanus racem
 
 California laurel is a highly-branched native evergreen tree that typically grows from 40 to 80 feet (12-24 m) in height [31]. The largest recorded tree is in Mendocino County California, and measures feet 108 feet (33 m) in height and 119 feet (36 m) in spread [51]. On poor sites the tree grows in scrub form [7,31]. The fruit is a drupe containing one large seed with a thin seedcoat [42]. The bark is thin and smooth on young trees, while older trees have thin, scaly bark that is continually shed. Authorities disagree on the rooting habit of California laurel. Roots are described as either shallow or as deep and wide-spreading. Rootwads of windthrown trees in southern Oregon were found to be limited in extent with no taproot, and 100 percent of California laurel trees excavated in the Berkeley Hills of California had their roots confined to the top 36 inches (90 cm) of soil [9].
 
-![A photo of a plant's long, pointed green leaves arranged around clusters of pinkish white flower buds. The background is dark.]({{ site.baseurl }}/assets/images/species-reviews/feis-umbcal_buds.jpg)
+![A photo of a plant's long, pointed green leaves arranged around clusters of pinkish white flower buds. The background is dark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-umbcal_buds.jpg?itok=6S5FihVQ)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Seed disseminated| November-January| November-January
 
 **Sexual:** California laurel begins reproducing by seed at 30 to 40 years of age [7,9,31]. Seed crops are abundant in most years. Seed is disseminated by animals, water, and gravity. Limited research suggests that seed viability is retained over winter but diminishes rapidly after that time [42]. Some fresh seed will slowly germinate over a 3-month period without stratification or scarification. Germination rates improve, however, after a 2- to 3-month cold stratification at 40 degrees Fahrenheit (4 deg C). Scarified seed has a slightly higher germination rate than unscarified seed [9,42]. Germination is hypogeal. Germination and seedling establishment are favored in riparian areas where seed is buried by silt deposition or high water [27]. Seedling establishment is poor in drier environments unless the ground is disturbed [9]. Seedlings are good competitors against other species and grow under moderately dense canopies. Seedling recruitment is poor under other California laurel trees, however [9].
 
-![A photo of the base of a multi-stemmed shrub, with a clump of sprouted vegetation coming from the base. The ground is open and rocky.]({{ site.baseurl }}/assets/images/species-reviews/feis-umbcal_sprouting.jpeg)
+![A photo of the base of a multi-stemmed shrub, with a clump of sprouted vegetation coming from the base. The ground is open and rocky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-umbcal_sprouting.jpeg?itok=QTHUiWzW)
 
 Photo Credit
 

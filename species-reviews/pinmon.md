@@ -36,7 +36,7 @@ Zouhar, Kristin L. 2001. _Pinus monophylla_ , singleleaf pinyon . In: Fire Effec
 
 ## Taxonomy
 
-![Photo of singleleaf pinyon branch tips in sunlight.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmon_plant.jpg)
+![Photo of singleleaf pinyon branch tips in sunlight.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pinmon_plant.jpg?itok=EXZ1aWhv)
 
 Photo Credit
 
@@ -59,7 +59,7 @@ nut pine, piñon
 
 ## Distribution
 
-![A map of the southwestern United States showing the distribution of singleleaf pinyon in mountainous areas of the Great Basin of Utah and Nevada and into California.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmon_map1.jpg)
+![A map of the southwestern United States showing the distribution of singleleaf pinyon in mountainous areas of the Great Basin of Utah and Nevada and into California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pinmon_map1.jpg?itok=Z2YAabbD)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Hybrids of Colorado and singleleaf pinyon occur in 3 geographical zones along th
 
 Singleleaf pinyon is adapted to a wide variety of sites. It usually grows on pediments, dry, rocky slopes, ridges, and alluvial fans and is rarely found on valley floors [124,187]. It is frost resistant, tolerant of drought, and requires full sunlight for maximum growth [122]. On favorable sites where past mismanagement has not been severe, the woodland may form a dense cover with trees 30 to 40 feet (9-12 m) tall. On drier sites spacing widens and tree size diminishes [120]. Old-growth or climax stands of singleleaf pinyon often occupy rocky hillslopes where the sparse understory will not carry fire [110]. At the northern end of its range, singleleaf pinyon is found primarily on south-facing slopes and outcrops of decomposed granite. At the southern end of its range it occurs only on north-facing slopes [59,121,151].
 
-![Photo of a small pine tree growing out of a hillside composed of medium to large boulders and very little other vegetation.]({{ site.baseurl }}/assets/images/species-reviews/pinmon_feis-PINMON_habitat1.jpeg)
+![Photo of a small pine tree growing out of a hillside composed of medium to large boulders and very little other vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-PINMON_habitat1.jpeg?itok=5WAB5e85)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Mexico| 3,500- 6,600 feet (1070-2000 m)| 12-24 inches (300-600mm)| [120,168]
  
 Pinyon-juniper woodlands occur on many types of soils and parent materials. Singleleaf pinyon typically grows on shallow, well-drained, low fertility soils, although it has been found on more productive soils as well [58,80,81]. Singleleaf pinyon in shallow soils tend to grow more slowly than those in deeper soils [215]. Surface soil pH usually is between 6.0 and 8.0 [80]. A study in the Great Basin found singleleaf pinyon was most common on granitic parent material (33% cover), followed by alluvial parent material (9.5% cover), and finally limestone parent material (0.3% cover). It was not found on quartzite or sandstone. Singleleaf pinyon was most commonly found on soils that contained 15-35% skeletal material by volume [89].
 
-![Photo of a large pine tree with a round crown, with a slope of similar looking pine trees behind it. The understory has a sparse cover of small shrubs and bunchgrasses on a gravelly soil.]({{ site.baseurl }}/assets/images/species-reviews/pinmon_feis-PINMON_habitat4.jpg)
+![Photo of a large pine tree with a round crown, with a slope of similar looking pine trees behind it. The understory has a sparse cover of small shrubs and bunchgrasses on a gravelly soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-PINMON_habitat4.jpg?itok=l8hgtKsb)
 
 Photo Credit
 
@@ -131,7 +131,7 @@ Classifications describing plant communities in which singleleaf pinyon is a dom
 
 Pinyons (Cembroides) typically grow in association with juniper (_Juniperus_ spp.), with juniper dominating the lower elevations of their range and pinyons the upper. In fully stocked pinyon-juniper stands, understory species comprise a very small portion of the total biomass, though they may be important forage species and the plants most likely to reclaim the site following disturbance [62]. In general, coverage of understory vegetation associated with singleleaf pinyon woodlands varies with geographic area, site quality, and successional stage. Singleleaf pinyon occurs in 3 general regions: the Great Basin, southern California and northern Baja, and parts of Arizona and New Mexico south of the Mogollon Rim.
 
-![Photo of a small pine tree with a sparse crown over a moderate cover of small shrubs and bunchgrasses. The soils is gravelly and there is a rocky hillslope in the background.]({{ site.baseurl }}/assets/images/species-reviews/pinmon_feis-PINMON_habitat3.jpg)
+![Photo of a small pine tree with a sparse crown over a moderate cover of small shrubs and bunchgrasses. The soils is gravelly and there is a rocky hillslope in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-PINMON_habitat3.jpg?itok=ROpFFS04)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ In the southern Arizona and southwestern New Mexico, singleleaf pinyon occurs at
 
 ## Botanical Description
 
-![Photo of singleleaf pinyon cone in the sunlight.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmon_cone.jpeg)
+![Photo of singleleaf pinyon cone in the sunlight.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pinmon_cone.jpeg?itok=w7kxcOjb)
 
 Photo Credit
 
@@ -177,7 +177,7 @@ Hybrids are diagnosed by frequency of monophylly and leaf resin canal number [75
 
  * Phanerophyte [170]
 
-![Photo of a cluster of pine branches with reddish brown, scaly lumps near the ends.]({{ site.baseurl }}/assets/images/species-reviews/pinmon_feis-PINMON_pollen_cones.jpg)
+![Photo of a cluster of pine branches with reddish brown, scaly lumps near the ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-PINMON_pollen_cones.jpg?itok=qIwqAxMI)
 
 Photo Credit
 
@@ -201,7 +201,7 @@ Seed production and survival may be affected by several insect pests of cones an
 
 ### Seed Dispersal
 
-![Close up photo of a cluster of pine cones at the end of a branch. The cones are open to reveal numerous large, brown seeds inside.]({{ site.baseurl }}/assets/images/species-reviews/pinmon_feis-PINMON_seeds.jpeg)
+![Close up photo of a cluster of pine cones at the end of a branch. The cones are open to reveal numerous large, brown seeds inside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-PINMON_seeds.jpeg?itok=wYbnQ-un)
 
 Photo Credit
 
@@ -319,7 +319,7 @@ Canyon live oak| _Quercus chrysolepis_| <35 to 200 [24]
 
 Prescribed fire may be used in singleleaf pinyon stands to reduce overstory trees and reestablish understory species in the successional cycle [25,60,107,109], to prevent invasion of trees into adjacent grass and shrublands [22,108,186], to reduce the effects of allelopathic chemicals in the litter [60,239,241], to improve big game winter range (mule deer, bighorn sheep, pronghorn, and elk) [108], to create mosaics of woodland and openings [165], to remove slash [58], to reduce fuel loads [85], and to control new tree regeneration [165]. Some primary considerations for prescribed burning in singleleaf pinyon stands are the number and species of trees present, nature of the understory vegetation, and weather conditions [58]. These elements determine if and how a stand will burn, and may help predict the ecological effects of burning.
 
-![Photo of a large, living pine tree on a rocky hill top, with dead tree skeletons visible on the slope behind it.]({{ site.baseurl }}/assets/images/species-reviews/pinmon_feis-PINMON_postfire.jpg)
+![Photo of a large, living pine tree on a rocky hill top, with dead tree skeletons visible on the slope behind it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-PINMON_postfire.jpg?itok=b10GcuMN)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Anderson, Michelle D. 2003. _Juniperus virginiana_ , eastern redcedar. In: Fire 
 
 ## Taxonomy
 
-![Photo of a tree branch with coarse, dark green, needle-like leaves and blue, berry-like cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-junvir_branch.jpeg)
+![Photo of a tree branch with coarse, dark green, needle-like leaves and blue, berry-like cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-junvir_branch.jpeg?itok=QXMEQnnk)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ red cedar, aromatic cedar
 
 Eastern redcedar is native to the eastern United States and Canada. Its range extends from Nova Scotia west to Ontario, south through the northern Great Plains to eastern Texas, and east to northern Florida and the Atlantic coast [29,72,80,83]. The typical variety (_J. v._ var. _virginiana_) occurs throughout eastern redcedar's range [69,72]. Southern redcedar (_J. v._ var. _silicicola_) is restricted to coastal dunes and river sandbanks of Alabama, Mississippi, Louisiana, Georgia, North and South Carolina, and northern Florida [3,72].
 
-![Map of the United States and Canada showing the distribution of eastern redcedar mostly in the eastern part of both countries.]({{ site.baseurl }}/assets/images/species-reviews/junvir_feis-JUNVIRV_map.jpg)
+![Map of the United States and Canada showing the distribution of eastern redcedar mostly in the eastern part of both countries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-JUNVIRV_map.jpg?itok=o6rze4-f)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Map courtesy of the U.S. Department of Agriculture, Natural Resources Conservati
 
 Distribution of eastern redcedar in North America.
 
-![Map of the eastern United States showing the distribution of southern redcedar in the southeastern states.]({{ site.baseurl }}/assets/images/species-reviews/feis-junvir_map_sil_0.png)
+![Map of the eastern United States showing the distribution of southern redcedar in the southeastern states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-junvir_map_sil_0.png?itok=TpB2JNjz)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ Classifications identifying eastern redcedar as a plant community dominant inclu
 
 ## Botanical Description
 
-![Photo of a tree branch with coarse, needle-like leaves, and an abundance of grayish-blue, berry-like cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-junvir_plant_berries.jpeg)
+![Photo of a tree branch with coarse, needle-like leaves, and an abundance of grayish-blue, berry-like cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-junvir_plant_berries.jpeg?itok=rybsuWuF)
 
 Photo Credit
 

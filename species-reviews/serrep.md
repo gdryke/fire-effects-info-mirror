@@ -50,7 +50,7 @@ None.
 
 ## General Distribution
 
-![A map of the southeastern U.S. with areas highlighted in green where saw palmetto occurs. Almost all of Florida is highlighted, along with some small parts of adjacent states.]({{ site.baseurl }}/assets/images/species-reviews/feis-serrep_map.jpg)
+![A map of the southeastern U.S. with areas highlighted in green where saw palmetto occurs. Almost all of Florida is highlighted, along with some small parts of adjacent states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-serrep_map.jpg?itok=OHgFy_pV)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Saw palmetto grows in a humid, subtropical to warm-temperate climate [19]. Withi
 
 Saw palmetto usually grows on dry, very well-drained soils [2,30], and avoids swamps and poorly drained river terraces [10]. Preferred soils are "sterile" [30] and have very little mineral or organic content, as typified by fine quartose sands [5]. Soil descriptions are not absolute. Saw palmetto may also grow on peaty [40] and poorly drained sites [15].
 
-![A photo of a forest with dappled shade, and the ground is almost completely covered with short, fanned palms.]({{ site.baseurl }}/assets/images/species-reviews/feis-serrep_habitat.jpg)
+![A photo of a forest with dappled shade, and the ground is almost completely covered with short, fanned palms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-serrep_habitat.jpg?itok=r-tgDghx)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Saw palmetto is exceptionally fire resistant [10] and thrives on frequently burn
 
 ## Plant Response to Fire
 
-![A photo of a burned palm close to the ground, with blackened stems and burned ground. In the center of the burned plant there is a bright green fanned palm leaf and a spray of white flowers. More similar plants and some grasses are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-serrep_sprouting.jpg)
+![A photo of a burned palm close to the ground, with blackened stems and burned ground. In the center of the burned plant there is a bright green fanned palm leaf and a spray of white flowers. More similar plants and some grasses are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-serrep_sprouting.jpg?itok=jkP5RFVO)
 
 Photo Credit
 

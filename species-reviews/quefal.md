@@ -75,7 +75,7 @@ bottomland red oak, swamp red oak, swamp Spanish oak, Elliott oak
 
 ## General Distribution
 
-![A photo of a tree branch with many dissected green leaves, against a dark green blurry background.]({{ site.baseurl }}/assets/images/species-reviews/feis-quefal_foliage.jpg)
+![A photo of a tree branch with many dissected green leaves, against a dark green blurry background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quefal_foliage.jpg?itok=NlfrAY8p)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ The following published classifications list southern red oak as a dominant or c
 
 ## Botanical Description
 
-![A photo of a tree's broad, palmate, green leaves. The leaves are wet with raindrops.]({{ site.baseurl }}/assets/images/species-reviews/quefal_feis-quepag_foliage.jpg)
+![A photo of a tree's broad, palmate, green leaves. The leaves are wet with raindrops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quepag_foliage.jpg?itok=LXa0iSwx)
 
 Photo Credit
 

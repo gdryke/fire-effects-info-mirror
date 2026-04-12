@@ -36,7 +36,7 @@ Luensmann, Peggy. 2007. _Rangifer tarandus_ , caribou. In: Fire Effects Informat
 
 ## Taxonomy
 
-![A photo of a large brown caribou with huge antlers walking in an open tundra.]({{ site.baseurl }}/assets/images/species-reviews/feis-rata_male.jpg)
+![A photo of a large brown caribou with huge antlers walking in an open tundra.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-12/feis-rata_male.jpg?itok=v9lY24jM)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Peripheral populations of caribou within the United States have been eradicated.
 
 ## Plant Communities
 
-![An aerial photo of an open tundra with small patches of snow, dotted with hundreds of pale caribou. A mountain range is visible in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-rata_herd.jpg)
+![An aerial photo of an open tundra with small patches of snow, dotted with hundreds of pale caribou. A mountain range is visible in the distance.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-12/feis-rata_herd.jpg?itok=aghXjNlT)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ Food availability influences food selection. Caribou prefer vascular plants and 
 
 Lichens are prominent in the caribou diet throughout the year, but reach greatest importance in winter [27,80,96,101]. Lichens commonly eaten are reindeer lichen, star reindeer lichen, spineless reindeer lichen, tree reindeer lichen (_Cladonia arbuscula_), other reindeer lichens (_Cladonia_ spp.), cup lichens (_C. amaurocraea_ and _C. uncialis_), cetraria lichen (_Flavocetraria nivalis_), Iceland-moss (_Cetraria islandica_), felt lichen (_Peltigera canina_), and snow lichens (_Stereocaulon_ spp.) [2,12,14,26,80,99,101,108]. Other lichens, including witch's hair lichens (_Alectoria jubata_ , _A. sarmentosa_ , and _A. ochroleuca_) and brittle lichens (_Cornicularia_ spp.) are locally important food sources when available [2,26]. In British Columbia, horsehair lichens (_Bryoria_ spp.), which are highly valued as forage in the area, are more abundant on subalpine fir and Engelmann spruce than on whitebark pine (_Pinus albicaulis_), lodgepole pine, or alpine larch (_Larix lyallii_) [60].
 
-![A photo of a group of pale brown caribou, some with large antlers, standing in snow with snowy mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rata_snow.jpg)
+![A photo of a group of pale brown caribou, some with large antlers, standing in snow with snowy mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-rata_snow.jpg?itok=gpuwYLaL)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ During northward migration in Saskatchewan in mid-February, barren ground caribo
 
 **Caribou outside the Columbia Mountains:** Caribou primarily occupy boreal and subboreal forests in North America [24,74,99]. Herds in northern Canada and northern Alaska summer in arctic tundra and winter in boreal forest [99]. Major tree species within caribou habitat include black spruce, white spruce, jack pine, balsam fir, Engelmann spruce, subalpine fir, lodgepole pine, tamarack, and white birch [6,24,74,101]. In Saskatchewan and Manitoba, caribou foraged exclusively in and around spruce stands in mid- to late winter [78]. In Manitoba, barren ground caribou use upland semi-open to open black spruce stands most heavily for midwinter foraging. During northward migration in Saskatchewan in mid-February, barren ground caribou feed primarily on uplands in semi-open to dense black spruce and in isolated white birch stands [80]. Mature (≥70 years) balsam fir forests are used extensively by woodland caribou in Quebec [82].
 
-![A photo of an open conifer forest with narrow, sparsely needled trees and an open understory of white flowers and low vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-rata_borealforest.jpg)
+![A photo of an open conifer forest with narrow, sparsely needled trees and an open understory of white flowers and low vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-rata_borealforest.jpg?itok=fwW6urL5)
 
 Photo Credit
 

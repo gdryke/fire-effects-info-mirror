@@ -211,7 +211,7 @@ The American marten is a long, slender-bodied weasel about the size of a mink wi
 
 Martens have a roughly triangular head and sharp nose. Their long, silky fur ranges in color from pale yellowish buff to tawny brown to almost black. Their head is usually lighter than the rest of their body, while the tail and legs are darker. Martens usually have a characteristic throat and chest bib ranging in color from pale straw to vivid orange (review by [39]). Sexual dimorphism is pronounced, with males averaging about 15% larger than females in length and as much as 65% larger in body weight (review by [39]). Body length ranges from 1.5 to 2.2 feet (0.5-0.7 m). Adult weight ranges from 1.1 to 3.1 pounds (0.5-1.4 kg) and varies by age and location. Other than size, sexes are similar in appearance (review by [28]). American martens and Pacific martens are differentiated based on cranial characters, fossil history [39], and mitochondrial DNA analyses [31].
 
-![A Pacific martin on the stub of a branch in a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-mart_treedmarten.JPG)
+![A Pacific martin on the stub of a branch in a tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-mart_treedmarten.JPG?itok=J3IrmoXk)
 
 Photo Credit
 
@@ -451,7 +451,7 @@ Total| 31| 26
 
 Martens travel to maintain territories, forage, and find resting sites (review by [27]). Though they can climb trees, martens travel mostly on the ground. In winter, tracks in snow follow circuitous routes covering an individual's entire home range. Travel routes stay close to areas with overhead cover, with travel interrupted by frequent investigations where coarse woody debris penetrates the snow surface and provides subnivean access (review by [28]). In northeastern California, movements were variously influenced by cover and topography (e.g., forest-meadow edges, open ridgetop, lakeshores), and negatively influenced by the presence of other Pacific marten [155].
 
-![An American martin in the snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-mart_marten-snow.jpg)
+![An American martin in the snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-mart_marten-snow.jpg?itok=_DEaVhKS)
 
 Photo Credit
 

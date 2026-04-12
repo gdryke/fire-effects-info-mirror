@@ -120,7 +120,7 @@ Smoky Mountains| general veg. cts| Whittaker 1956
 
 ## Botanical Description 
  
-![A photo looking up at a tall, straight tree with furrowed brown bark and wide, lobed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-quealb_tree.jpg)
+![A photo looking up at a tall, straight tree with furrowed brown bark and wide, lobed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-quealb_tree.jpg?itok=8SqGkxts)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ Seed: White oak produces good acorn crops at erratic intervals. Good crops have 
 
 Seeds of white oak do not store well [16]. Seed longevity is less than 1 year; white oak is not considered a seed banker [60]. Viability in storage declines from 90 percent for fresh seed to 7.0 percent for seed stored for 6 months [16]. Only 14 to 18 percent of the total seed produced may be sound [148]. Many acorns are damaged or destroyed by insects [144] or bird and mammal seed predators. Several studies have reported that animals consumed 72 to 83 percent of all white oak acorns [135]. In years of poor acorn production, the entire seed crop may be eliminated [148].
 
-[![A close up photo of a tree's dark green lobed leaves, with a cluster of three green acorns at the center with bumpy brown caps.]({{ site.baseurl }}/assets/images/species-reviews/feis-quealb_acorn.jpg)Photo Credit Photo by Paul Wray, Iowa State University, Bugwood.org, CC BY 3.0 US. White oak acorns.](<https://creativecommons.org/licenses/by/3.0/us/>)
+[![A close up photo of a tree's dark green lobed leaves, with a cluster of three green acorns at the center with bumpy brown caps.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-quealb_acorn.jpg?itok=OpfncQl8)Photo Credit Photo by Paul Wray, Iowa State University, Bugwood.org, CC BY 3.0 US. White oak acorns.](<https://creativecommons.org/licenses/by/3.0/us/>)
 
 Acorn production: Acorn production varies annually with the individual tree or stand [148]. Certain trees tend to produce larger acorn crops on a consistent basis [119]. Weather conditions, and tree size and vigor, also influence acorn production. An individual oak 69 feet (21 m) tall with a d.b.h. of 25 inches (63.5 cm) produced more than 23,000 acorns in a favorable year [148]. However, most forest-grown trees produce less than 10,000 acorns annually. Annual yields may range from 0 to 202,000 acorns per acre (500,000/ha) [148]. Acorn production may be reduced by cool April temperatures [119] and drought [118].
 
@@ -312,7 +312,7 @@ White oak is difficult to transplant and grows slowly [148]. It can be readily p
 
 ## Other Uses
 
-![A photo looking up at the leaves of a tree. The lobed leaves are bright red, orange, yellow and light green and the sun is shining through them. There is blue sky in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-quealb_foliage.jpg)
+![A photo looking up at the leaves of a tree. The lobed leaves are bright red, orange, yellow and light green and the sun is shining through them. There is blue sky in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-quealb_foliage.jpg?itok=-_VDKpcr)
 
 Photo Credit
 

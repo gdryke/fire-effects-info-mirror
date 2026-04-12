@@ -77,7 +77,7 @@ Dense clay| Poor
 
 Bush muhly occurs in desert grasslands, desert shrub, within and above interior chaparral, and as an understory component of the Madrean evergreen woodland in central Arizona. It occurs mainly along drainages in the Great Basin [3].
 
-[![A photo of a large, bushy bunchgrass growing in the foreground, with shrubs and grasses in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhpor_plant.jpg)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Bush muhly growing in Socorro County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a large, bushy bunchgrass growing in the foreground, with shrubs and grasses in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhpor_plant.jpg?itok=su-nVrTK)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Bush muhly growing in Socorro County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Bush muhly is commonly found in association with velvet mesquite (_Prosopis velutina_), creosotebush (_Larrea tridentata_) and Joshua tree (_Yucca brevifolia_). Common grass associates of bush muhly include bristlegrass (_Seraria leucopila_), plains bristlegrass (_S. macrostachya_), plains lovegrass (_Eragrostis intermedia_), cane beardgrass (_Bothriochloa barbinodis_), green sprangletop (_Leptochloa dubia_), Arizona cottontop (_Digitaria californica_), and Lehmann lovegrass (_Eragrostis lehmanniana_) [4].
 
@@ -87,7 +87,7 @@ Bush muhly is commonly found in association with velvet mesquite (_Prosopis velu
 
 Bush muhly is a drought-resistant, native perennial bunchgrass. Plants reach up to 3 feet (1 m) in height and are often highly branched [22,44,30].
 
-[![A photo of several large bunchgrasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhpor_plants.jpg)Photo Credit Photo by Teresa Jegelwicz Mayfield-Meyer, iNaturalist (CC BY 4.0). Bush muhly plants growing in Bernalillo County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of several large bunchgrasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhpor_plants.jpg?itok=sYc2b_Ok)Photo Credit Photo by Teresa Jegelwicz Mayfield-Meyer, iNaturalist (CC BY 4.0). Bush muhly plants growing in Bernalillo County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

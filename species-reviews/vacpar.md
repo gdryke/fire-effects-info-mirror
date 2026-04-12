@@ -34,7 +34,7 @@ Tirmenstein, Debra A. 1990. _Vaccinium parvifolium_ , red huckleberry. In: Fire 
 
 ## Image Gallery
 
-![Photo of red huckleberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacpar_plant.jpeg) Red huckleberry. _Photo by Quilipede, iNaturalist.org, no rights reserved._
+![Photo of red huckleberry with fruit.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-vacpar_plant.jpeg) Red huckleberry. _Photo by Quilipede, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Quilipede, iNaturalist.org, no rights reserved.
 
@@ -100,7 +100,7 @@ Published classifications listing red huckleberry as an indicator or codominant 
 
 ## Botanical Description
 
-![Photo of red huckleberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacpar_plant.jpeg)
+![Photo of red huckleberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacpar_plant.jpeg?itok=wAiP5ZMy)
 
 Photo Credit
 

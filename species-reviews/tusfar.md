@@ -133,7 +133,7 @@ Coltsfoot is a rhizomatous perennial forb [36,43,57] that is 2 to 20 inches (5-5
 
 ### Reproductive Structures
 
-![A close up photo of a plant growing out of muddy ground, with yellow, dandelion-like flowers at the tops of the stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-tusfar_flowers.jpg)
+![A close up photo of a plant growing out of muddy ground, with yellow, dandelion-like flowers at the tops of the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-tusfar_flowers.jpg?itok=51LLF-zQ)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ Coltsfoot seeds are achenes with a small pappus, resembling that of the common d
 
 ### Leaves
 
-![A photo looking down at a low-growing ground cover plant with round green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-tusfar_plant.jpg)
+![A photo looking down at a low-growing ground cover plant with round green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-tusfar_plant.jpg?itok=WZV4isY_)
 
 Photo Credit
 
@@ -198,7 +198,7 @@ Coltsfoot may self-pollinate, but it is principally cross-pollinated [4,34,62] b
 
 ### Seed Production
 
-![A photo of an upright green plant with puffy white tops, similar to a dandelion.]({{ site.baseurl }}/assets/images/species-reviews/feis-tusfar_seeds.jpg)
+![A photo of an upright green plant with puffy white tops, similar to a dandelion.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-tusfar_seeds.jpg?itok=soLcm1cg)
 
 Photo Credit
 
@@ -413,7 +413,7 @@ Coltsfoot may provide erosion control [61]. Coltsfoot traditionally served a num
 
 ## Impacts
 
-![A photo of a shady forest with a dense ground cover layer made up of a low-growing plant with rounded, green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-tusfar_forest.jpg)
+![A photo of a shady forest with a dense ground cover layer made up of a low-growing plant with rounded, green leaves.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-03/feis-tusfar_forest.jpg?itok=Z93TrDrr)
 
 Photo Credit
 

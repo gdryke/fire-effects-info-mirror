@@ -102,7 +102,7 @@ California| redwood & north coast forest cts| Zinke 1977
 
 ## Botanical Description 
  
-[![A close-up photo of the needles and cones on the tip of a conifer tree. The needles are silvery-green, and there are small reddish cones pointing up, and larger brown cones pointing down. The background is blurry green forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemenm_plant.jpeg)Photo Credit Photo by John D. Reynolds, iNaturalist.org, CC BY 4.0. Coast Douglas-fir with male and female cones.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of the needles and cones on the tip of a conifer tree. The needles are silvery-green, and there are small reddish cones pointing up, and larger brown cones pointing down. The background is blurry green forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-psemenm_plant.jpeg?itok=Cl7CvCeT)Photo Credit Photo by John D. Reynolds, iNaturalist.org, CC BY 4.0. Coast Douglas-fir with male and female cones.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Coast Douglas-fir is a large, coniferous, evergreen tree. Adapted to a moist, mild climate, it grows bigger and more rapidly than the inland variety. Trees 5 to 6 feet (150-180 cm) in diameter (150-180 cm) and 250 feet (76 m) or more in height are common in old-growth stands [31]. These trees commonly live more than 500 years and occasionally more than 1,000 years [31]. Old individuals typically have a narrow, cylindric crown beginning 65 to 130 feet (20-40 m) above a branch-free bole [20]. Self-pruning is generally slow and trees retain their lower limbs for a long period. Young, open-grown trees typically have branches near the ground. It often takes 77 years for the bole to be clear to a height of 17 feet (5 m) and 107 years to be clear to a height of 33 feet (10 m) [31]. In wet coastal forests, nearly every surface of old-growth coast Douglas-fir is covered by epiphytic mosses and lichens [20].
 
@@ -140,7 +140,7 @@ Germination and seedling establishment are best on mineral soil seedbeds. Organi
 
 ## Successional Status
 
-[![A photo of the base of a very large tree trunk with thick, furrowed brown bark surrounded by other similar trees. There is moss and ferns growing on the base of the tree, and a light dusting of snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemenm_oldgrowth.jpeg)Photo Credit Photo by Milli Vedder, iNaturalist.org, CC BY-NC 4.0. Mature coast Douglas-fir, Vancouver Island, British Columbia, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of the base of a very large tree trunk with thick, furrowed brown bark surrounded by other similar trees. There is moss and ferns growing on the base of the tree, and a light dusting of snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-psemenm_oldgrowth.jpeg?itok=L0SZmuqN)Photo Credit Photo by Milli Vedder, iNaturalist.org, CC BY-NC 4.0. Mature coast Douglas-fir, Vancouver Island, British Columbia, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Coast Douglas-fir is a major, long-lived seral dominant of low and middle elevation moist forests from southwestern British Columbia to northwestern California [21]. In these forests it is shade intolerant and requires stand-destroying disturbance (wildfire, logging, extensive windthrow) to initiate a new cohort of seedlings. Today, extensive areas of western Washington and Oregon are covered by seral, nearly pure stands of Douglas-fir that seeded in rapidly following logging and wildfire [21]. This species is extremely long-lived. Stands 350 to 750 years old are subclimax and may contain a significant component of Douglas-fir for several more centuries [20]. Without disturbance, these stands will eventually give way to shade-tolerant associates such as western hemlock, western redcedar (Thuja plicata), and Pacific silver fir, but it may take 1,000 or more years for Douglas-fir to be fully replaced [20,21]. This longevity allows Douglas-fir to persist until the next disturbance, ensuring a seed supply for postdisturbance establishment.
 
@@ -152,7 +152,7 @@ In the Cascades, Douglas-fir is seral throughout most of the western hemlock zon
 
 ## Immediate Fire Effects
 
-![A landscape photo of a stream at the bottom of a ravine, with black, burned trees on both hillsides leading to the stream. All the trees seem dead, but there is lots of green growth on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemenm_postfire.jpeg)
+![A landscape photo of a stream at the bottom of a ravine, with black, burned trees on both hillsides leading to the stream. All the trees seem dead, but there is lots of green growth on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-psemenm_postfire.jpeg?itok=FM1OxhLl)
 
 Photo Credit
 

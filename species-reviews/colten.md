@@ -79,7 +79,7 @@ Common associates of soil jelly lichen in desert shrub or desert grassland habit
 
 ## Botanical and Ecological Characteristics
 
-![Photo of soil jelly lichen growing on a rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-colten_lichen_hero.jpeg)
+![Photo of soil jelly lichen growing on a rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-colten_lichen_hero.jpeg?itok=HgG0UNRl)
 
 Photo Credit
 

@@ -52,7 +52,7 @@ No entry.
 
 Mountain muhly occurs from Montana and Wyoming to western Texas and south through Mexico to Guatemala. It extends west through Utah and Arizona. It is also found in northern and Sierra Nevadan California [16,25,34,40,42,46].
 
-[![A photo of a grassy hillside with a few widely spaced conifers. The grass in the foreground is moderately erect and bright green.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhmon_community.jpg)Photo Credit Photo by Stephen Hornbeck, iNaturalist (CC BY 4.0). Mountain muhly growing in Larimer County, Colorado.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grassy hillside with a few widely spaced conifers. The grass in the foreground is moderately erect and bright green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-muhmon_community.jpg?itok=V4bfVlEI)Photo Credit Photo by Stephen Hornbeck, iNaturalist (CC BY 4.0). Mountain muhly growing in Larimer County, Colorado.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### States and Provinces
 
@@ -99,7 +99,7 @@ Mountain muhly is an indicator or dominant species in the following published cl
 
 ## Botanical Description
 
-[![A photo of an erect grass panicle with shrubs visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhmon_panicle.jpeg)Photo Credit Photo by Greg Pappas, iNaturalist (CC BY-NC 4.0). A mountain muhly panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of an erect grass panicle with shrubs visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-muhmon_panicle.jpeg?itok=wG7zt8_7)Photo Credit Photo by Greg Pappas, iNaturalist (CC BY-NC 4.0). A mountain muhly panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Mountain muhly is a native, perennial, warm-season bunchgrass [6,23]. Culms are branched at the base [82] and densely tufted [40,60]; they are usually erect and 4 to 32 inches (10-80 cm) tall [16,34,40,82]. Leaves are mostly basal and densely clustered; there are also some culm leaves [16,82]. Leaf blades are 2 to 10 inches (5-25 cm) long [16,34,82]. Leaf sheaths become papery and loose from the culm [38] and are persistent, often becoming flattened with age [82]. The inflorescence is a narrow, oblong, erect or nodding panicle 2 to 6 inches (5-15 cm) long [16,34,40]; the branches are 0.4 to 3.5 inches (1-9 cm) long, and erect to moderately spreading [82]. Spikelets are one flowered [16]. Lemma awns are 0.24 to 0.79 inch (6-20 mm) long [16,34,40]. The fruit is a caryopsis [34].
 
@@ -130,7 +130,7 @@ California| June–August| [60]
 Colorado| July–September| [23, 68] 
 Wyoming| July–September| [23] 
 Intermountain west| July–September| [16] 
-[![A photo of an erect, green grass with several panicles, growing in reddish gravelly soil. Layered mountains are visible in the distance.]({{ site.baseurl }}/assets/images/species-reviews/muhmon_muhmon_habitat.jpeg)Photo Credit Photo by Audrey Spencer, iNaturalist (CC BY-NC 4.0). Mountain muhly growing in full sun in Park County, Colorado.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of an erect, green grass with several panicles, growing in reddish gravelly soil. Layered mountains are visible in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/muhmon_habitat.jpeg?itok=02Fl71md)Photo Credit Photo by Audrey Spencer, iNaturalist (CC BY-NC 4.0). Mountain muhly growing in full sun in Park County, Colorado.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Regeneration Processes
 

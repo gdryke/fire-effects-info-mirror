@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for pond cypress swamp communities has not yet 
 
 ## Distribution
 
-![A map showing the distribution of pond cypress swamp communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/pond-cypress-swamps_feis-pond_cypress_swamps_locator.jpg)
+![A map showing the distribution of pond cypress swamp communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pond_cypress_swamps_locator.jpg?itok=uxeOP3N2)
 
 Photo Credit
 

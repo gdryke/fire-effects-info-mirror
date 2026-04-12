@@ -93,7 +93,7 @@ Bigtooth aspen is listed as a dominant or codominant species in the following pu
 
 ## Botanical Description
 
-![A photo of a tree's wide, pointed leaves with large, irregular teeth along the leaf edges. The leaves have water droplets on them and the background is lush vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-popgra_leaves.jpg)
+![A photo of a tree's wide, pointed leaves with large, irregular teeth along the leaf edges. The leaves have water droplets on them and the background is lush vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-popgra_leaves.jpg?itok=kLyGZ1Hj)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Photo by Daniel Ward, iNaturalist.org, some rights reserved.
 
 Bigtooth aspen leaves, Acadia National Park, Maine. [(CC BY-NC 4.0)](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
-![A photo of a stand of tall, thin trees with pale, smooth bark and many light green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-popgra_stand.jpg)
+![A photo of a stand of tall, thin trees with pale, smooth bark and many light green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-popgra_stand.jpg?itok=WHv5GyKR)
 
 Photo Credit
 

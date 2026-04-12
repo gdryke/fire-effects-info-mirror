@@ -40,7 +40,7 @@ The scientific name of Mojave yucca is _Yucca schidigera_ Roezl ex Ortgies (Agav
 
 Mojave yucca × banana yucca (_Y. baccata_) hybrids that are intermediate to the parent forms occur in the Mojave Desert [49,91].
 
-![A photo of flowering Mojave yucca in a desert shrubland, with widely spaced low shrubs and patchy grasses. Snow-capped desert peaks rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucsch_habitat.jpg)
+![A photo of flowering Mojave yucca in a desert shrubland, with widely spaced low shrubs and patchy grasses. Snow-capped desert peaks rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucsch_habitat.jpg?itok=_sxzvjgb)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Mojave yucca is rarely a community dominant in terms of abundance but may be the
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g. [27,36,42,65,66,92]).
 
-![A photo of a tall Mojave yucca with flowering stems of various heights.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucsch_leaves_0.jpg)
+![A photo of a tall Mojave yucca with flowering stems of various heights.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucsch_leaves_0.jpg?itok=Geu6nWca)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ Mojave yucca is an evergreen shrub or small tree with a variable growth habit. T
 
 Mojave yucca is long-lived and grows slowly. Plant age can be estimated by number of vascular bundles, number of leaf blades, or height [89]. Mojave yucca produces 6 leaves at a time and produces 2 to 4 sets annually. Using leaf number to age plants in Nevada's Mercury Valley, the oldest Mojave yuccas were up to 200 years old [77]. Cardiff [15] reports that Mojave yucca increases in height just 0.4 inch (1 cm)/year. Rowlands [76] reports growth rates of 0.8 inch (2 cm)/year in Nevada. In the Rancho Santa Ana Botanic Garden, the average annual growth rate was 1 inch (2.6 cm) [91]. At the Deep Canyon Desert Research Center, about 50% of Mojave yucca clones were estimated at 500 or more years old using a 0.4 inch (1 cm)/year growth rate and a clonal new shoot production rate of 130 years. Few clones were younger than 200 years old [47].
 
-![A photo of a large Mojave yucca, with exposed bark on the lower third of the plant, dead reflexed leaves on the middle third of the plant, and live green leaves on the top third of the plant. Desert slopes are dominated by low shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucsch_bark.jpg)
+![A photo of a large Mojave yucca, with exposed bark on the lower third of the plant, dead reflexed leaves on the middle third of the plant, and live green leaves on the top third of the plant. Desert slopes are dominated by low shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucsch_bark.jpg?itok=Ph9Rcl6Y)
 
 Photo Credit
 
@@ -279,7 +279,7 @@ Mojave yucca is top-killed by fire. As of 2007, reports of aboveground tissue su
  * Rhizomatous shrub, rhizome in soil
  * Secondary colonizer (on-site or off-site seed sources) [81]
 
-![A photo of several burned Mojave yucca stems with green leaves emerging from their bases.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucsch_fire.jpg)
+![A photo of several burned Mojave yucca stems with green leaves emerging from their bases.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucsch_fire.jpg?itok=h4tySRks)
 
 Photo Credit
 
@@ -331,7 +331,7 @@ Mojave yucca cover was lower on burned than control transects 9 months following
 
 In coastal sage scrub dominated by brittle bush (_Encelia farinosa_) in San Bernardino County, Mojave yucca cover was 0.1% before and 0.1% in the 2nd postfire growing season after a mid-July fire described as "intense". The site had last burned 23 years earlier. At the time of burning, air temperature was 97 °F (36 °C) and relative humidity was 31%. Using a modeling program based on fire weather and fuel characteristics, fire intensity was an estimated 170 kcal/s/m, and total heat released from dead fuels after passage of the fire front was an estimated 3660 kcal/m. Researchers suggested that Mojave yucca would sprout following fires that exceed 170 kcal/s/m intensity [93].
 
-![A photo of an old desert burn. Small shrubs dominate the hillside with bare ground between shrubs. Tall stems of Mojave yucca are burned and in some cases toppled, but green resprouts occur at the base of most burned Mojave yucca stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucsch_hero.jpg)
+![A photo of an old desert burn. Small shrubs dominate the hillside with bare ground between shrubs. Tall stems of Mojave yucca are burned and in some cases toppled, but green resprouts occur at the base of most burned Mojave yucca stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucsch_hero.jpg?itok=LLSahtQl)
 
 Photo Credit
 

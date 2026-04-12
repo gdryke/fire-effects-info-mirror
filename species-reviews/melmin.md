@@ -34,7 +34,7 @@ Hauser, A. Scott. 2008. _Melinis minutiflora_ , molassesgrass. In: Fire Effects 
 
 ## Introduction
 
-![A photo of a grass with a mix of open and closed purplish panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-melmin_plant.jpg)
+![A photo of a grass with a mix of open and closed purplish panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-melmin_plant.jpg?itok=f0_c5p60)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ No information was found in the available literature that described habitat type
 
 ### Hawaii
 
-![A photo of a perennial grass with upright reproductive stalks with a green valley and tree-covered slopes in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-melmin_habitat.jpg)
+![A photo of a perennial grass with upright reproductive stalks with a green valley and tree-covered slopes in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-melmin_habitat.jpg?itok=6miUF10u)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 ### Aboveground Description
 
-![A close-up photo of a creeping grass with leaves growing from low stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-melmin_stolons.jpg)
+![A close-up photo of a creeping grass with leaves growing from low stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-melmin_stolons.jpg?itok=XsUVkEyH)
 
 Photo Credit
 

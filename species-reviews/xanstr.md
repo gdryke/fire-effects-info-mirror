@@ -34,7 +34,7 @@ Uchytil, Ronald J. 1992. _Xanthium strumarium_ , rough cocklebur. In: Fire Effec
 
 ## Image Gallery
 
-![A green, leafy plant with many prickly burs growing from its top.]({{ site.baseurl }}/assets/images/species-reviews/xanstr_xanstr_plant.jpg) Rough cocklebur plant. _Photo by Robert Vidéki, Doronicum Kft., Bugwood.org._
+![A green, leafy plant with many prickly burs growing from its top.](https://research.fs.usda.gov/sites/default/files/2025-05/xanstr_plant.jpg) Rough cocklebur plant. _Photo by Robert Vidéki, Doronicum Kft., Bugwood.org._
 
 Photo Credit: Photo by Robert Vidéki, Doronicum Kft., Bugwood.org.
 

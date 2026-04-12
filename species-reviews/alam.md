@@ -59,7 +59,7 @@ None
 
 ## General Distribution
 
-![A cow moose with two calves in a shrubby area.]({{ site.baseurl }}/assets/images/species-reviews/feis-alam_calves.jpg)
+![A cow moose with two calves in a shrubby area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-alam_calves.jpg?itok=XGSUyH8p)
 
 Photo Credit
 
@@ -246,7 +246,7 @@ Moose most commonly select closed-canopy communities in late summer and late win
 
 **Winter:** During winter, snow depth is often a major determinant of moose distribution because it reduces forage availability and restricts movement (see Physical description). During mild winter weather, moose often use forests with patchy tree cover and shrubs, where forage is abundant. Moose shift to closed-canopy conifer habitats if snow conditions become severe [79,133]. A 1996 review reported that 14 studies indicated increased use of, and movement into, microsites with dense conifer cover when snow was deep and encrusted [20].
 
-![A moose foraging for food buried under the snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-alam_snow.jpg)
+![A moose foraging for food buried under the snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-alam_snow.jpg?itok=yXLPOX7h)
 
 Photo Credit
 
@@ -288,7 +288,7 @@ Several researchers attributed high variability in calving site choice to differ
 
 **Aquatic Habitats:** In North America, particularly in eastern and central parts of the moose's range, moose commonly use aquatic habitats such as lakes, ponds, rivers, marshes, bogs, and muskegs [206,280]. Moose use aquatic habitats primarily to feed on sodium-rich aquatic plants (see Diet) [280]. Moose may also use aquatic habitats to drink water, avoid biting insects, thermoregulate, and avoid potential predators [15,86,206,258]. However, some moose populations exhibit little or no use of aquatic habitats [40,206]. Regional differences in moose use of aquatic habitats are in part related to the availability of aquatic habitats and aquatic plants within those habitats [206]. The availability of alternative sodium sources such as lick sites may also influence aquatic habitat use [86]. Through feeding activity, moose can alter density and composition of aquatic vegetation by reducing the availability of preferred aquatic plants, by trampling plants, or by increasing turbidity (see Moose foraging effects) [86,87,200].
 
-![Aerial view of two moose standing in water.]({{ site.baseurl }}/assets/images/species-reviews/feis-alam_aerial.jpg)
+![Aerial view of two moose standing in water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-alam_aerial.jpg?itok=mL_M_93H)
 
 Photo Credit
 
@@ -384,7 +384,7 @@ Fire's effects on moose habitats are complex and not thoroughly understood but d
 
 ### Moose Population Response to Postfire Vegetation Changes
 
-![A mosse standing in a burned forest with abundant coarse woody debris and on the forest floor and grasses in the understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-alam_burn.jpg)
+![A mosse standing in a burned forest with abundant coarse woody debris and on the forest floor and grasses in the understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-alam_burn.jpg?itok=3WZQTHKp)
 
 Photo Credit
 
@@ -597,7 +597,7 @@ Moose generally avoid large clearcuts and browse is far from concealment cover. 
 
 Roadways facilitate access for hunters. Increased road access can lead to higher harvest rates and population declines [79]. Studies in south-central Ontario reported disproportionately high moose harvests associated with increased road access in recently clearcut boreal forests [73,74]. Landscape-level analyses in Ontario covering 19 years suggested that if large-scale forest disturbance such as logging or fire occurs concurrently with hunter access, then moose density decreases across the landscape, but moose density increases if disturbance occurs without hunter access. These results suggested that increasing habitat alone may not increase moose density if hunting is not restricted in those areas [230]. Conversely, researchers in Quebec reported that increased accessibility as a result of new logging road creation had a minor impact on moose harvest rates [53,221].
 
-[![A bull moose lays in grasses next to the Green River.]({{ site.baseurl }}/assets/images/species-reviews/feis-alam_bull-moose.jpg)Photo Credit U.S. Fish and Wildlife photo by Tom Koerner A bull moose in August on Seedskadee National Wildlife Refuge, Wyoming.](<https://digitalmedia.fws.gov/digital/collection/natdiglib/id/28898/rec/1>)
+[![A bull moose lays in grasses next to the Green River.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-alam_bull-moose.jpg?itok=65XJe3yz)Photo Credit U.S. Fish and Wildlife photo by Tom Koerner A bull moose in August on Seedskadee National Wildlife Refuge, Wyoming.](<https://digitalmedia.fws.gov/digital/collection/natdiglib/id/28898/rec/1>)
 
 **Water Management:** Riparian communities maintained by periodic flooding are important moose habitats [49,93,117]. Because flooding helps maintain quality moose habitats, active management of riparian areas is generally not recommended where flooding occurs regularly [49]. Thus, Child [47] recommended that natural flooding regimes be maintained where possible.
 

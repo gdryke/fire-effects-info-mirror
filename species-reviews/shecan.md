@@ -34,7 +34,7 @@ Walkup, Crystal J. 1991. _Shepherdia canadensis_ , russet buffaloberry. In: Fire
 
 ## Image Gallery
 
-![Photo of russet buffaloberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-shecan_plant.jpg) Russet buffaloberry. _Photo by Jamie Latham, iNaturalist.org, no rights reserved._
+![Photo of russet buffaloberry.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-shecan_plant.jpg) Russet buffaloberry. _Photo by Jamie Latham, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Jamie Latham, iNaturalist.org, no rights reserved.
 
@@ -112,7 +112,7 @@ West| 19 May| 14 June| 15 May–3 June| 9 July| —| 11 Sept–4 Oct
  
 ## Regeneration Processes
 
-![Photo of russet buffaloberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-shecan_plant.jpg)
+![Photo of russet buffaloberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-shecan_plant.jpg?itok=rkzzywCG)
 
 Photo Credit
 

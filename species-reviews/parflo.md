@@ -60,7 +60,7 @@ Blue paloverde is distributed through the Sonoran Desert. Its range extends from
 
 ## Site Characteristics
 
-![A photo of a large, bushy shrub or small tree growing in a rocky, sandy desert. Scattered small shrubs and plants grow nearby but no other large shrubs or trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-parflo_habitat.jpeg)
+![A photo of a large, bushy shrub or small tree growing in a rocky, sandy desert. Scattered small shrubs and plants grow nearby but no other large shrubs or trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-parflo_habitat.jpeg?itok=Vx-Diy6G)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Species associated with blue paloverde but not mentioned in table A1 include des
 
 ## Botanical Description
 
-![A close up photo of sprays of yellow flowers growing along the stems of a shrub or small tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-parflo_flowers.jpeg)
+![A close up photo of sprays of yellow flowers growing along the stems of a shrub or small tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-parflo_flowers.jpeg?itok=2IJJHCSR)
 
 Photo Credit
 

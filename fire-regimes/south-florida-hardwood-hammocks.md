@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South Florida hardwood hammock communities 
 
 ## Distribution
 
-![A map showing the distribution of South Florida hardwood hammock communities in southern Florida.]({{ site.baseurl }}/assets/images/fire-regimes/south-florida-hardwood-hammocks_feis-south_florida_hardwood_hammocks_locator.jpg)
+![A map showing the distribution of South Florida hardwood hammock communities in southern Florida.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-south_florida_hardwood_hammocks_locator.jpg?itok=XQfZIsax)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Chihuahuan succulent desert scrub communiti
 
 ## Distribution
 
-![Image of a map of New Mexico, Arizona, western Texas.]({{ site.baseurl }}/assets/images/fire-regimes/chihuahuan-succulent-desert-scrub_feis-Chichuahuan_succulent_FRR.jpg)
+![Image of a map of New Mexico, Arizona, western Texas.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-Chichuahuan_succulent_FRR.jpg?itok=9HbWioGJ)
 
 Photo Credit
 

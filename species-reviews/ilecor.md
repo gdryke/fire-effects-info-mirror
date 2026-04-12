@@ -76,7 +76,7 @@ Large gallberry is a dominant understory species in the longleaf-slash pine fore
 
 ## Botanical Description
 
-![A close up image of small white flowers on a shrub with stifff green pointed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilecor_plant.jpeg)
+![A close up image of small white flowers on a shrub with stifff green pointed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ilecor_plant.jpeg?itok=cZwGrhhV)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Large gallberry has very flammable foliage. Most fires top-kill the plant [18].
  * survivor species; on site surviving rhizomes
  * off site colonizer; seed carried by animals or water; post fire yr 1&2
 
-![A shrub with light green leaves growing in a recently burned forest. The ground is grey ash with brown pine needles, and there are two burned pine tree trunks behind the shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilecor_postfire.jpg)
+![A shrub with light green leaves growing in a recently burned forest. The ground is grey ash with brown pine needles, and there are two burned pine tree trunks behind the shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ilecor_postfire.jpg?itok=p9rU0rw-)
 
 Photo Credit
 

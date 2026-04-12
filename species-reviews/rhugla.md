@@ -34,7 +34,7 @@ Johnson, Kathleen A. 2000. _Rhus glabra_ , smooth sumac. In: Fire Effects Inform
 
 ## Introduction
 
-![A photo of a somewhat small tree with medium-sized opposite leaves growing along branches and bunches of small reddish fruits. A conifer grows behind and dried forbs grow in front.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhugla_plant.jpg)
+![A photo of a somewhat small tree with medium-sized opposite leaves growing along branches and bunches of small reddish fruits. A conifer grows behind and dried forbs grow in front.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhugla_plant.jpg?itok=Gv6sFTYL)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ Smooth sumac is distributed widely throughout most of the contiguous U.S. and in
  * Canada: AB BC MB ON PQ SK
  * Mexico
 
-![A photo of smooth sumac plants growing in a dense strip on a hillside, with bare rocks above and trees and shrubs below. A river winds through the valley below.]({{ site.baseurl }}/assets/images/species-reviews/rhugla_rhugla_hillside.jpg)
+![A photo of smooth sumac plants growing in a dense strip on a hillside, with bare rocks above and trees and shrubs below. A river winds through the valley below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/rhugla_hillside.jpg?itok=_9GZNr-g)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ Plant classifications naming smooth sumac as a dominant species are:
 
 ## Botanical Description
 
-![A close-up photo of leaves and flowers of smooth sumac.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhugla_flowers.jpg)
+![A close-up photo of leaves and flowers of smooth sumac.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhugla_flowers.jpg?itok=d_skzgdu)
 
 Photo Credit
 
@@ -266,7 +266,7 @@ None
 
 None
 
-![A photo of a small black and white bird perched on the dense panicle of many reddish fruits of a smooth sumac with reddish leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhugla_chickadee.jpg)
+![A photo of a small black and white bird perched on the dense panicle of many reddish fruits of a smooth sumac with reddish leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhugla_chickadee.jpg?itok=FSgVRi7x)
 
 Photo Credit
 

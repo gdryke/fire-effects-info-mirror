@@ -56,7 +56,7 @@ round-leaved sundew
 
 ## General Distribution
 
-![A map of the United States and Canada with states and territories highlighted in green where roundleaf sundew occurs. All of Canada and most states are highlighted, except for some states in the central and southern U.S.]({{ site.baseurl }}/assets/images/species-reviews/feis-drorot_map.jpg)
+![A map of the United States and Canada with states and territories highlighted in green where roundleaf sundew occurs. All of Canada and most states are highlighted, except for some states in the central and southern U.S.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drorot_map.jpg?itok=lmfGlBql)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ The root system of roundleaf sundew is usually shallow (less than 2.4 inches [6 
 
 Roundleaf sundew compensates for the low available nutrients in its habitat by catching and digesting insects [8,45,49,54]. Insects are caught with the sticky glandular leaf hairs, and the leaf then folds around the prey. The hairs secrete proteolytic enzymes which digest the insect and enable the plant to absorb nutrients through its leaves [37,45,52]. Insect capture is generally believed to enhance growth and reproduction of roundleaf sundew [8,24,29,46,56]. It is significantly correlated (p<0.01) with total leaf number, number of new leaves formed, and total leaf area [46]. However, Stewart [50] determined that roundleaf sundew did not benefit from insect capture in field experiments in the Jefferson National Forest, Virginia. The benefits of insectivory may be site-dependent; roundleaf sundew may benefit most from insect capture on the most nutrient-poor sites.
 
-![A small plant growing out of damp soil, with flat lobed leaves surrounded by sticky-looking pink hairs.]({{ site.baseurl }}/assets/images/species-reviews/feis-drorot_plant.jpg)
+![A small plant growing out of damp soil, with flat lobed leaves surrounded by sticky-looking pink hairs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drorot_plant.jpg?itok=QcCNQ64e)
 
 Photo Credit
 

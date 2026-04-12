@@ -34,7 +34,7 @@ Coladonato, Milo. 1993. _Trifolium repens_ , white clover. In: Fire Effects Info
 
 ## Image Gallery
 
-![Many small plants with puffy white flowers growing in an open grassy setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-trirep_habitat.jpg) White clover is common in California's annual grasslands. _Photo by Br. Alfred Brousseau, Saint Mary's College._
+![Many small plants with puffy white flowers growing in an open grassy setting.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-trirep_habitat.jpg) White clover is common in California's annual grasslands. _Photo by Br. Alfred Brousseau, Saint Mary's College._
 
 Photo Credit: Photo by Br. Alfred Brousseau, Saint Mary's College.
 
@@ -77,7 +77,7 @@ White clover is an introduced species and is therefore not used in habitat typin
 
 ## Botanical Description
 
-![Many small plants with puffy white flowers growing in an open grassy setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-trirep_habitat.jpg)
+![Many small plants with puffy white flowers growing in an open grassy setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-trirep_habitat.jpg?itok=X-JKI9ZM)
 
 Photo Credit
 

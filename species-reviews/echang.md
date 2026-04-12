@@ -36,7 +36,7 @@ Groen, Amy H. 2005. _Echinacea angustifolia_ , purple coneflower. In: Fire Effec
 
 ## Taxonomy
 
-![A photo of a green hillside with bright blue skies above and a single pinkish purple flower with a bulbous, browish center.]({{ site.baseurl }}/assets/images/species-reviews/feis-echang_flower.jpg)
+![A photo of a green hillside with bright blue skies above and a single pinkish purple flower with a bulbous, browish center.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-echang_flower.jpg?itok=5hDx4xUA)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ narrow-leaved coneflower
 
 ## General Distribution
 
-![A photo of purple coneflower growing in the foreground and green, rocky slopes behind, with a flat river curving below.]({{ site.baseurl }}/assets/images/species-reviews/feis-echang_habitat2.jpg)
+![A photo of purple coneflower growing in the foreground and green, rocky slopes behind, with a flat river curving below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-echang_habitat2.jpg?itok=7HpxBsYi)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ Purple coneflower has been observed in scattered and open interior ponderosa pin
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [8,30,45,54,70].
 
-![A photo of a relatively large forb growing amongst grasses. The forb has long, green basal leaves and is topped by pinkish flowers with bulbous orangish center.]({{ site.baseurl }}/assets/images/species-reviews/feis-echang_plant.jpg)
+![A photo of a relatively large forb growing amongst grasses. The forb has long, green basal leaves and is topped by pinkish flowers with bulbous orangish center.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-echang_plant.jpg?itok=n4Xmq8z8)
 
 Photo Credit
 
@@ -250,7 +250,7 @@ None
 
 In Wyoming, purple coneflower has been assigned a state ranking of 3 and a global ranking of 4, with 1 being rare and 5 being abundant [39]. In Missouri, purple coneflower is listed as critically imperiled at the state level and as a long-term concern at the global level [72].
 
-![A photo of a sloping green grassland with scattered flowers in the foreground with pale pinkish petals and bulbous brownish-purple centers. Rolling hills are visible in the background with patches of trees.]({{ site.baseurl }}/assets/images/species-reviews/echang_echang_habitat.jpg)
+![A photo of a sloping green grassland with scattered flowers in the foreground with pale pinkish petals and bulbous brownish-purple centers. Rolling hills are visible in the background with patches of trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/echang_habitat.jpg?itok=HjHPPYdd)
 
 Photo Credit
 

@@ -50,7 +50,7 @@ Pinchot juniper, redberry juniper, red-berry juniper, Texas juniper, Christmas b
 
 ## Distribution
 
-![Photo of map distribution of Pinchot's juniper showing locations in New Mexico, Texas, and Oklahoma.]({{ site.baseurl }}/assets/images/species-reviews/feis-junpin_map.png)
+![Photo of map distribution of Pinchot's juniper showing locations in New Mexico, Texas, and Oklahoma.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-junpin_map.png?itok=wmxsP5Sq)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Pinchot's juniper is listed as a dominant species in the following locations and
 
 ## Botanical and Ecological Characteristics
 
-![Photo of Pinchot's juniper tree growing in the sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-junpin_tree.jpg)
+![Photo of Pinchot's juniper tree growing in the sun.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-junpin_tree.jpg?itok=y6ERIRK7)
 
 Photo Credit
 

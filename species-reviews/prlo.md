@@ -86,7 +86,7 @@ Northern raccoons occur across Canada from Nova Scotia to British Columbia, thro
 
 ## Plant Communities
 
-![A photo of three raccoons wading chest deep in still water, with a muddy or sandy shore visible.]({{ site.baseurl }}/assets/images/species-reviews/prlo_feis-PRLO_swimming.jpg)
+![A photo of three raccoons wading chest deep in still water, with a muddy or sandy shore visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-PRLO_swimming.jpg?itok=rFuGpH4Y)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Northern raccoons are omnivorous. They eat carrion, garbage, birds, mammals, ins
 
 Wild cherries (_Prunus_ spp.), apples (_Malus_ spp.), persimmons (_Diospyros_ spp.), and grapes (_Vitis_ spp.) and other berries of all kinds are eaten whenever they are available. Cultivated fruits such as peaches (_P. persica_), plums (_P. augustifolia_), figs (_Ficus carica_), citrus fruits (_Citrus_ spp.), and watermelons (_Citrullus vulgaris_) are taken on occasion. Nuts, especially acorns, are important seasonal foods. American beech (_Fagus grandifolia_), hickory (_Carya_ spp.), and pecan (_Carya illinoensis_) nuts, and walnut (_Juglans_ spp.) fruits are also eaten. Corn is the most important item in the diet in some areas [6,26,30].
 
-![A photo of a raccoon peeking around a tree trunk with a crayfish in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/prlo_feis-PRLO_crayfish.jpeg)
+![A photo of a raccoon peeking around a tree trunk with a crayfish in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-PRLO_crayfish.jpeg?itok=Wy5ftRC3)
 
 Photo Credit
 

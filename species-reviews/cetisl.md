@@ -79,7 +79,7 @@ In arctic coastal plain habitats, C. islandica is found with bluegrass (Poa spp.
 
 ## Botanical and Ecological Characteristics
 
-![Photo showing island cetraria growing on rock.]({{ site.baseurl }}/assets/images/species-reviews/cetisl_feis-lichen1_cetisl.jpg)
+![Photo showing island cetraria growing on rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lichen1_cetisl.jpg?itok=gwEX2KJy)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ No entry.
 
 Cetraria islandica produces ascospores, but sexual reproduction is infrequent [25]. Reproduction mainly occurs by means of thallus fragmentation or the dispersal of isidia and soredia. Wind or animals may play an important role in the dispersal of these vegetative propagules [1,27].
 
-![Photo of island cetraria lichen growing in leave litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-cetisl_hero.jpg)
+![Photo of island cetraria lichen growing in leave litter.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-cetisl_hero.jpg?itok=zdyZCloG)
 
 Photo Credit
 

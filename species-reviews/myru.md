@@ -34,7 +34,7 @@ Tesky, Julie L. 1994. _Myodes rutilus_ , northern red-backed vole. In: Fire Effe
 
 ## Image Gallery
 
-![A northern red-backed vole tucked in amongst rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-myru_in-rocks.jpeg) Northern red-backed vole. _Photo by Julien Renoult and courtest of Wikimedia Commons, with some rights reserved (CC BY 4.0)._
+![A northern red-backed vole tucked in amongst rocks.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-myru_in-rocks.jpeg) Northern red-backed vole. _Photo by Julien Renoult and courtest of Wikimedia Commons, with some rights reserved (CC BY 4.0)._
 
 Photo Credit: Photo by Julien Renoult and courtest of Wikimedia Commons, with some rights reserved (CC BY 4.0).
 

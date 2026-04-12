@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southeastern marsh communities has not yet 
 
 ## Distribution
 
-![A map showing the distribution of southeastern marsh communities on the southeastern U.S. coast.]({{ site.baseurl }}/assets/images/fire-regimes/southeastern-marsh_feis-southeastern_marsh_locator.jpg)
+![A map showing the distribution of southeastern marsh communities on the southeastern U.S. coast.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southeastern_marsh_locator.jpg?itok=ZA3seE47)
 
 Photo Credit
 

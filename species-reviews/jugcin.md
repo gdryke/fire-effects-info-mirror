@@ -78,7 +78,7 @@ No entry.
 
 ## Botanical Description
 
-![A close up photo of the tip of a tree branch, with small pink flowers pointing up, long green catkins hanging below, and green pointed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugcin_flowers.jpg)
+![A close up photo of the tip of a tree branch, with small pink flowers pointing up, long green catkins hanging below, and green pointed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugcin_flowers.jpg?itok=TsTEtLF-)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Butternut flowers from April to June, depending on location. The fruit matures i
 
 Commercial seed-bearing age begins at 20 years and is optimum from 30 to 60 years. Good crops of seed can be expected every 2 to 3 years. A high percentage of seeds are sound, but high seed losses occur due to consumption by birds, insects, and rodents. Natural pollination failures often occur due to the lack of pollinated trees in immediate vicinity [4,24]. Upon ripening, seeds are dispersed by gravity, squirrels, and other rodents. [9,24].
 
-![A branch of a tree with green, pointed, opposite leaves, and clusters of light brown nuts hanging down.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugcin_plant.jpg)
+![A branch of a tree with green, pointed, opposite leaves, and clusters of light brown nuts hanging down.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugcin_plant.jpg?itok=R30PK2AA)
 
 Photo Credit
 

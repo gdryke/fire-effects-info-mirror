@@ -34,7 +34,7 @@ Esser, Lora L. 1992. _Salix hastata_ , Halberd willow. In: Fire Effects Informat
 
 ## Introduction
 
-![Close-up photo of will catkins emerging at the ends of small branches and surrounded by small, light green leaves.]({{ site.baseurl }}/assets/images/species-reviews/salhas_feis-SALHAS_catkins1.jpg)
+![Close-up photo of will catkins emerging at the ends of small branches and surrounded by small, light green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-SALHAS_catkins1.jpg?itok=8tQKr5Ec)
 
 Photo Credit
 
@@ -59,7 +59,7 @@ None
 
 ## Distribution
 
-![Map of northwestern North America showing the distribution of Halberd willow in Alaska, Yukon, and Northwest territories.]({{ site.baseurl }}/assets/images/species-reviews/salhas_feis-SALHAS_map.jpg)
+![Map of northwestern North America showing the distribution of Halberd willow in Alaska, Yukon, and Northwest territories.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-SALHAS_map.jpg?itok=9A_jgP2Z)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Halberd willow is a common thicket-forming shrub on streambanks and moist slopes
 
 ## Botanical Description
 
-![Photo of flowering Halberd willow.]({{ site.baseurl }}/assets/images/species-reviews/feis-salhas_plant.jpeg)
+![Photo of flowering Halberd willow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-salhas_plant.jpeg?itok=EwAbwWvH)
 
 Photo Credit
 

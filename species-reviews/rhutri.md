@@ -121,7 +121,7 @@ Common associates in mixed-prairie communities are thickspike wheatgrass (_Elymu
 
 Skunkbush sumac is frequently found with sagebrushes (_Artemisia_ spp.) and rabbitbrushes (_Chrysothamnus_ spp.) [150]. In mountain shrub communities, skunkbush sumac is associated with Gambel oak (_Quercus gambelii_), chokecherry (_P. virginiana_), true mountain-mahogany (_Cercocarpus montanus_), bluegrass (_Poa_ spp.), needlegrass (_Nassella_ spp.), Indian ricegrass, and broom snakeweed (_Gutierrezia sarothrae_) [72]. In Colorado steppe communities, common associates include sleepygrass (_Achnatherum robustum_), western wheatgrass, blue grama, buffalo grass (_Buchloe dactyloides_), fourwing saltbush (_Atriplex canescens_), and rubber rabbitbrush (_Chrysothamnus nauseous_) [101].
 
-![A photo of a dense, green, leafy shrub growing much larger than surrounding sagebrush plants, with a sparse understory of mostly annual grasses. Desert conifers comprise a desert woodland in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhutri_community.jpg)
+![A photo of a dense, green, leafy shrub growing much larger than surrounding sagebrush plants, with a sparse understory of mostly annual grasses. Desert conifers comprise a desert woodland in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-rhutri_community.jpg?itok=NLFRKWmV)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Plant community codominants include Arizona white oak (_Q. arizonica_), Colorado
 
 ## Botanical Description
 
-![A photo of a leafy stem of a shrub with clusters of red, fleshy berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhutri_fruits.jpg)
+![A photo of a leafy stem of a shrub with clusters of red, fleshy berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-rhutri_fruits.jpg?itok=4eHrmeoH)
 
 Photo Credit
 

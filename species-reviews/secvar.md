@@ -68,7 +68,7 @@ In the Midwest and eastern United States, studies have documented crownvetch spr
 
 Throughout its North American range, crownvetch is most common in disturbed areas including fields, former dwellings, roadsides, rights-of-way, and stream banks [7,89,105,113,119,133,166,169]. For a discussion of areas where crownvetch is invasive, see Impacts.
 
-![A photo of a hillside with a thick growth of plants with pink flowers growing on most of the hill.]({{ site.baseurl }}/assets/images/species-reviews/feis-secvar_field.jpeg)
+![A photo of a hillside with a thick growth of plants with pink flowers growing on most of the hill.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-secvar_field.jpeg?itok=JSSTLti1)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Crownvetch is a mostly hairless, perennial forb with weak spreading stems from a short branching caudex [8,41,105,109,155]. Crownvetch lacks tendrils that are characteristic of true vetches (_Vicia_ spp.) [139]. In flower, crownvetch plants may be 3 or more feet (1 m) tall, but plants are generally just 1 foot (0.3 m) tall in their vegetative state [8,162]. Crownvetch produces trailing stems that may reach 6 feet (2 m) long [139] and often appears as a heavy mat of stems [3]. Crownvetch is often described as "long-lived" [56,162], but precise life expectancy was rarely reported. One report indicates that crownvetch plants live up to 20 years [31]. Another report indicates that crownvetch has survived in the same location for over 50 years [3].
 
-![A close up photo of a leafy green plant with puffs of pale pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-secvar_flowers.jpg)
+![A close up photo of a leafy green plant with puffs of pale pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-secvar_flowers.jpg?itok=OndNfKId)
 
 Photo Credit
 
@@ -207,7 +207,7 @@ Crownvetch seedling establishment is best on open sites lacking other vegetation
 
 Crownvetch produces extensive vegetative growth from multibranched rhizomes (weed and forage management handbooks by [121,162]) and is capable of regenerating from stem and rhizome fragments [85]. Once established, crownvetch plants can form a dense mat of vegetation that "gradually chokes out" other vegetation [162]. A weed management guide reports that crownvetch rhizomes can reach 10 feet (3 m) long, and a single plant may cover 750 to 1,100 feet² (70-100 m²) in 4 years (review by [119]). On a cut slope in West Virginia, an 8-month-old crownvetch plant had rhizomes over 7 feet (2 m) long that supported 87 stems. On this site, soils were moist, loose, and had "ample" phosphorus [100]. Field observations made in central Bohemia, Czech Republic, indicated that within a year, vegetative offspring rarely occurred more than 1.5 feet (0.5 m) from the parent crownvetch plant [103].
 
-![A photo looking down at a mat of green leafy plants with pink flowers on some of the plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-secvar_densegrowth.jpeg)
+![A photo looking down at a mat of green leafy plants with pink flowers on some of the plants.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-secvar_densegrowth.jpeg?itok=0XxZBIu4)
 
 Photo Credit
 

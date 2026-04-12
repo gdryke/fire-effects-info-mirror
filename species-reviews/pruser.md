@@ -83,7 +83,7 @@ Black cherry occurs as scattered individuals in numerous forest types of the Eas
 
 ## Botanical Description
 
-![A photo of the brown, scaly bark of a tree in a forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruser_bark.jpg)
+![A photo of the brown, scaly bark of a tree in a forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-pruser_bark.jpg?itok=L7-17aKP)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Seedfall| late August-October| June-early July| —
 
 In natural stands maximum seed production occurs on 30- to 100-year-old trees. Some seed is produced almost every year, with good crops produced at 1- to 5-year intervals [39]. In Pennsylvania, large seed crops occur about every other year [8]. There are about 4,800 cleaned seeds per pound (10,560/kg) [39].
 
-![A close up photo of a tree's pointed green leaves and a cluster of small, shiny, dark red fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruser_plant.jpg)
+![A close up photo of a tree's pointed green leaves and a cluster of small, shiny, dark red fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-pruser_plant.jpg?itok=bJtNrrDH)
 
 Photo Credit
 

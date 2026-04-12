@@ -34,7 +34,7 @@ Fryer, Janet L. 2008. _Arctostaphylos rubra,_ red fruit bearberry. In: Fire Effe
 
 ## Image Gallery
 
-![Photo of a low growing plant with oval, green leaves and round red fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcrub_plant.jpg) Red fruit bearberry with fruit. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
+![Photo of a low growing plant with oval, green leaves and round red fruits.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-arcrub_plant.jpg) Red fruit bearberry with fruit. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Kallum McDonald, iNaturalist.org, no rights reserved.
 
@@ -133,7 +133,7 @@ The following vegetation classifications describe plant communities in which red
 
 ## Botanical and Ecological Characteristics
 
-![Photo of a low growing plant with oval, green leaves and round red fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcrub_plant.jpg)
+![Photo of a low growing plant with oval, green leaves and round red fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-arcrub_plant.jpg?itok=wsh8Vyh1)
 
 Photo Credit
 

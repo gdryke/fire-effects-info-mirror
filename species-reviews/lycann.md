@@ -36,7 +36,7 @@ Matthews, Robin F. 1993. _Lycopodium annotinum,_ stiff clubmoss. In: Fire Effect
 
 ## Taxonomy
 
-![A photo from the side of spikes of clubmoss growing with a few single leaves with some fallen leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycann_habitat.jpg)
+![A photo from the side of spikes of clubmoss growing with a few single leaves with some fallen leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lycann_habitat.jpg?itok=wrVXJwD7)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Stiff clubmoss is a circumboreal species that is widely distributed from Greenla
 
 ## Site Characteristics
 
-![A photo of a forest floor covered with small spikes of clubmoss with a few ferns.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycann_hero.jpg)
+![A photo of a forest floor covered with small spikes of clubmoss with a few ferns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lycann_hero.jpg?itok=kbAS9Lck)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Other associated vegetation includes heartleaf arnica (_Arnica cordifolia_), bun
 
 ## Botanical Description
 
-![A side photo of an upright club moss with moss and forest floor detritus blurry in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycann_plant.jpg)
+![A side photo of an upright club moss with moss and forest floor detritus blurry in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lycann_plant.jpg?itok=yWXIfnru)
 
 Photo Credit
 

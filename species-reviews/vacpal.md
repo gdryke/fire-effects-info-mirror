@@ -52,7 +52,7 @@ hillside blueberry
 
 ## General Distribution
 
-![Photo of mistribution of Blue Ridge blueberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacpal_map.png)
+![Photo of mistribution of Blue Ridge blueberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacpal_map.png?itok=rR_jkRJf)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Old-growth forests within the Piedmont of South Carolina [30]
 
 ## Botanical Description
 
-![Photo of Blue Ridge blueberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacpal_plant.jpg)
+![Photo of Blue Ridge blueberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacpal_plant.jpg?itok=uYX81vEP)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ New England| May 10 - June 14| —| Seymour 1985
 
 Blue Ridge blueberry can regenerate through seed or by vegetative means.
 
-![Photo of Blue Ridge blueberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacpal_flowers.jpg)
+![Photo of Blue Ridge blueberry in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacpal_flowers.jpg?itok=IhN3Xf2Q)
 
 Photo Credit
 

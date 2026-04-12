@@ -73,7 +73,7 @@ Lehmann lovegrass has persisted and spread primarily in desert shrub and desert 
 
 Lehmann lovegrass is an introduced, warm-season, perennial bunchgrass growing from 1.5 to 2 feet (45-61 cm) in height [16]. Its bunch habit is somewhat open in that individuals do not form a compact crown with numerous stembases. Furthermore, although more or less erect, some stems are procumbent and these often root at the nodes. This often results in somewhat continuous stands where individuals are difficult to identify [30]. Lehmann lovegrass has short, involuted leaves, which are about 0.06 inch (1.5 mm) wide and 2 to 6 inches (5-15 cm) long.
 
-[![A dense stand of green bunchgrasses with airy reproductive spikes dominate the foreground, with dramatic mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/eraleh_eraleh_stand.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Lehmann lovegrass dominates the understory near Big Bend, Texas.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A dense stand of green bunchgrasses with airy reproductive spikes dominate the foreground, with dramatic mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/eraleh_stand.jpg?itok=Um4-9Ej5)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Lehmann lovegrass dominates the understory near Big Bend, Texas.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -87,7 +87,7 @@ Seed of Lehmann lovegrass matures earlier than seed of native perennial grasses 
 
 **Sexual Reproduction:** Lehmann lovegrass is a good seed producer. The seeds are small, with 4.2 to 6.5 million per pound (9.2-14.3 million/kg) [1,32]. Nearly all fresh seeds are dormant, requiring at least 6 to 9 months of afterripening. In the laboratory, dry heat treatments of 158 degrees Fahrenheit (70 deg C) scarify the seedcoat and increases the rate of inbibition [15]. Under natural conditions, seed on the ground may be scarified by fire or by high summertime seedbed temperatures [27]. Most seeds require exposure to red light to germinate; thus, little germination occurs when seeds are deeply buried in soil or are under a dense herbaceous canopy. In southeastern Arizona, high seedling emergence typically occurs following summer rains on sites where the canopy has been removed such as by burning, mowing, or grazing [25].
 
-[![Several airy reproductive grass spikes. Rocks and grasses dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/eraleh_eraleh_reproductive.jpeg)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Reproductive Lehmann lovegrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Several airy reproductive grass spikes. Rocks and grasses dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/eraleh_reproductive.jpeg?itok=DyoVaUy0)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Reproductive Lehmann lovegrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 **Vegetative Regeneration:** Lehmann lovegrass is described as weakly stoloniferous. Stems that come in contact with the ground may root at the nodes [30].
 

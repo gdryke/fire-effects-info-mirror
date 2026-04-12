@@ -58,7 +58,7 @@ Knowlton's hophornbeam is found in southeastern Utah, northern Arizona, southeas
 
 ## Site Characteristics
 
-![A photo of a large multi-stemmed shrub or small tree growing on the edge of a rock cliff, with views of southwestern rock canyonlands in the distance. A pine tree is visible to the right.]({{ site.baseurl }}/assets/images/species-reviews/feis-ostkno_habitat.jpg)
+![A photo of a large multi-stemmed shrub or small tree growing on the edge of a rock cliff, with views of southwestern rock canyonlands in the distance. A pine tree is visible to the right.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ostkno_habitat.jpg?itok=jkiCwai8)
 
 Photo Credit
 
@@ -76,7 +76,7 @@ Knowlton's hophornbeam is commonly found in oak (_Quercus_ spp.) woodlands, piny
 
 ## Botanical Description
 
-![A photo of a shrub with small green leaves and hanging, cream-colored flowers shaped like hops, growing in front of a red rock canyon wall.]({{ site.baseurl }}/assets/images/species-reviews/feis-ostkno_flowers.jpg)
+![A photo of a shrub with small green leaves and hanging, cream-colored flowers shaped like hops, growing in front of a red rock canyon wall.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ostkno_flowers.jpg?itok=b4qPMU0b)
 
 Photo Credit
 

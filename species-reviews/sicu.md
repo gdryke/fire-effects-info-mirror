@@ -66,7 +66,7 @@ Breeding mountain bluebirds have been sighted in Wisconsin [43]. Transient and w
 
 ## Plant Communities
 
-![A photo of a blue bird with a light blue and white belly sitting on a wooden post. The background is blurry green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/sicu_feis-SICU_onpost.jpg)
+![A photo of a blue bird with a light blue and white belly sitting on a wooden post. The background is blurry green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-SICU_onpost.jpg?itok=fCVZoc2C)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ In Arizona mountain bluebirds were active nesters in old-growth ponderosa pine a
 
 **Spring Migration:** Mountain bluebirds and western bluebirds arrive in south-central Washington at the same time of year (February to March) in mixed flocks with approximately equal sex ratios [29]. Power [46] however, reported that males usually arrive on Montana breeding grounds first, from only few days to as many as 30 days before the females. The median arrival date for males was April 8; for females, April 25 [46]. In southwestern Manitoba mountain bluebirds usually arrive in late March [37]. In Zion National Park mountain bluebirds are summer residents above 8,000 feet (2,438 m) elevation but move to lower elevations in winter [8].
 
-![A photo of a flock of 10 blue and grey birds, plus one brown bird, in a small tree without leaves. The tree is growing in an open field surrounded by dry, brown grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-sicu_flock.jpeg)
+![A photo of a flock of 10 blue and grey birds, plus one brown bird, in a small tree without leaves. The tree is growing in an open field surrounded by dry, brown grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-sicu_flock.jpeg?itok=0u-VfZvp)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Mountain bluebirds are preyed upon by many raptors including Cooper's hawk (_Acc
 
 ## Habitat
 
-![A photo of a blue bird with a spiny caterpillar in its mouth, perched on a snag with patches of burned bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-sicu_caterpillar.jpg)
+![A photo of a blue bird with a spiny caterpillar in its mouth, perched on a snag with patches of burned bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-sicu_caterpillar.jpg?itok=arLJ-KHB)
 
 Photo Credit
 

@@ -48,7 +48,7 @@ None
 
 ## Distribution
 
-![A photo of a stand of tall, straight conifer trees with horizontal branches growing on a steep rocky mountainside.]({{ site.baseurl }}/assets/images/species-reviews/feis-tsucar_habitat.jpeg)
+![A photo of a stand of tall, straight conifer trees with horizontal branches growing on a steep rocky mountainside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tsucar_habitat.jpeg?itok=iaaG9RH3)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Other associates of Carolina hemlock in addition to the those listed in Table A1
 
 Carolina hemlock is a native, slow-growing, coniferous, evergreen tree usually 40 to 70 feet (12-21 m) tall and 8 to 12 inches (20-30 cm) in d.b.h. [4,8,15]. Heights of 150 to 180 feet (46-55 m) and diameters of 5 to 6 feet (1.5-1.8 m) have been reported [8].
 
-![A close up photo of a conifer tree's short, stiff needles and small, drooping, open brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-tsucar_cone.jpg)
+![A close up photo of a conifer tree's short, stiff needles and small, drooping, open brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tsucar_cone.jpg?itok=qQ_PpLa8)
 
 Photo Credit
 

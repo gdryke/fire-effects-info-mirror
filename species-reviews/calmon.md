@@ -38,7 +38,7 @@ Hauser, A. Scott. 2006. _Calamagrostis montanensis_ , plains reedgrass. In: Fire
 
 The currently accepted scientific name of plains reedgrass is _Calamagrostis montanensis_ Scribn. ex Vasey (Poaceae) [33,34,35,43,52,53,55,91].
 
-![A photo of a few grass stems with somewhat open, yellowish reproductive panicles and green leaves growing in front of a large sagebrush. Sloping, grassy hills in the background have intermittent swaths of conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-calmon_sagebrush.jpg)
+![A photo of a few grass stems with somewhat open, yellowish reproductive panicles and green leaves growing in front of a large sagebrush. Sloping, grassy hills in the background have intermittent swaths of conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-calmon_sagebrush.jpg?itok=afOIGFK1)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Plains reedgrass has a contiguous distribution. It occurs from British Columbia 
 
 Plains reedgrass occurs on dry open areas of grasslands [16,25,26,27,45], sagebrush benchlands [12,13,46], and foothills and mountains [24,76,98] of the northern Great Plains and Great Basin.
 
-![A photo of somewhat evenly spaced grasses growing as tall, individual plants with several leaves or in small bunches. Reproductive stems are reddish or tan.]({{ site.baseurl }}/assets/images/species-reviews/feis-calmon_disturbed.jpg)
+![A photo of somewhat evenly spaced grasses growing as tall, individual plants with several leaves or in small bunches. Reproductive stems are reddish or tan.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-calmon_disturbed.jpg?itok=KfB5rAXI)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Mountain valley grasslands along the east slope of the Rocky Mountains, particul
 
 ## Botanical Description
 
-![A photo of a somewhat open, golden-colored grass panicle with a green stem. More grasses grow behind, with some bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-calmon_plant.jpg)
+![A photo of a somewhat open, golden-colored grass panicle with a green stem. More grasses grow behind, with some bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-calmon_plant.jpg?itok=lobCLKxS)
 
 Photo Credit
 

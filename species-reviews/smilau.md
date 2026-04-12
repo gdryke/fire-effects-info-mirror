@@ -38,7 +38,7 @@ Van Deelen, Timothy R. 1991. _Smilax laurifolia_ , laurelleaf greenbrier. In: Fi
 
 The currently accepted scientific name for laurelleaf greenbrier is _Smilax laurifolia_ L. There are no recognized infrataxa [11,18,19,24].
 
-![A photo of the growing end of a vine with upright leaves and clusters of yellowish white flowers with narrow petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-smilau_hero.jpg)
+![A photo of the growing end of a vine with upright leaves and clusters of yellowish white flowers with narrow petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-smilau_hero.jpg?itok=dkjgnGEm)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Underground, the stems of laurelleaf greenbrier form thick, heavy, tuberous rhiz
 
 Laurelleaf greenbrier leaves are evergreen, rounded, and leathery. Short, twisted petioles hold the leaves erect from the stems. Laurelleaf greenbrier flowers are small regular and borne in axillary umbels. The fruit is a berry which is shiny-black at maturity. The fruits ripen the second season after fruit-set and often persist into or through their second winter. Berry production is prodigious [6,9,11,19].
 
-![A photo of bright green, somewhat oval-shaped, opposite leaves along a narrow green stem with clusters of dark purple berries growing along the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-smilau_fruits.jpg)
+![A photo of bright green, somewhat oval-shaped, opposite leaves along a narrow green stem with clusters of dark purple berries growing along the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-smilau_fruits.jpg?itok=vnmPxI1e)
 
 Photo Credit
 

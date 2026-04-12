@@ -34,7 +34,7 @@ Reeves, Sonja L. 2005. _Calypso bulbosa_ , fairy slipper. In: Fire Effects Infor
 
 ## Introduction
 
-![Photo of a shaded forest floor covered with litter \(pine needles and twigs\), with two purplish stems arising from a single spade-shaped leaf and topped with a complex purple, yellow, and white flower that resembles a slipper.]({{ site.baseurl }}/assets/images/species-reviews/calbul_feis-CALBUL_litter.jpg)
+![Photo of a shaded forest floor covered with litter \(pine needles and twigs\), with two purplish stems arising from a single spade-shaped leaf and topped with a complex purple, yellow, and white flower that resembles a slipper.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-CALBUL_litter.jpg?itok=krvji-iE)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Common understory associates of fairy slipper include western yarrow (_Achillea 
 
 This description provides characteristics of the fairy slipper that may be relevant to its fire ecology, and is not meant for identification. Keys for identification are available [20,21,30,37,39,43,56,73].
 
-![Photo of fairy slipper.]({{ site.baseurl }}/assets/images/species-reviews/feis-calbul_plant.jpeg)
+![Photo of fairy slipper.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-calbul_plant.jpeg?itok=horS_GfV)
 
 Photo Credit
 

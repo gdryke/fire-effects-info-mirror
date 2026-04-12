@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for eastern black spruce communities has not ye
 
 ## Distribution
 
-![A map showing the distribution of eastern black spruce communities in the northern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/eastern-black-spruce_feis-eastern_black_spruce_locator.jpg)
+![A map showing the distribution of eastern black spruce communities in the northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-eastern_black_spruce_locator.jpg?itok=HOdJupKU)
 
 Photo Credit
 

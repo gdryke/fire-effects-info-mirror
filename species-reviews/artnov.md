@@ -36,7 +36,7 @@ Fryer, Janet L. 2009. _Artemisia nova_ , black sagebrush. In: Fire Effects Infor
 
 ## Taxonomy
 
-![A photo of a gray-green shrub with dense foliage on woody stems. Upright, reproductive branches are green or gold. Dry, reddish soil is visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artnov_plant.jpg)
+![A photo of a gray-green shrub with dense foliage on woody stems. Upright, reproductive branches are green or gold. Dry, reddish soil is visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artnov_plant.jpg?itok=EdKCl2mC)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Expert opinion and historical evidence from pioneer journals support the idea th
 
 ## Site Characteristics
 
-![A photo of a low, rounded shrub with upright reproductive stems. Individuals of the same species occur at regular intervals and cover the plains behind. Much of the interspaces between shrubs are covered with low grass, but some bare ground is visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-artnov_habitat2.jpg)
+![A photo of a low, rounded shrub with upright reproductive stems. Individuals of the same species occur at regular intervals and cover the plains behind. Much of the interspaces between shrubs are covered with low grass, but some bare ground is visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artnov_habitat2.jpg?itok=vQm5TBTE)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Black sagebrush tolerates slightly saline soil [218]. Within salt-desert shrub c
 
 #### Soil Texture
 
-![A photo of woody shrubs with gray-green foliage and dried reproductive stalks growing on light grayish soils, with large stretches of bare ground between most plants. Some large rocks and a single juniper sit just behind the shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-artnov_rockyhabitat.jpg)
+![A photo of woody shrubs with gray-green foliage and dried reproductive stalks growing on light grayish soils, with large stretches of bare ground between most plants. Some large rocks and a single juniper sit just behind the shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artnov_rockyhabitat.jpg?itok=MlI_kh1a)
 
 Photo Credit
 
@@ -160,7 +160,7 @@ Besides being the most widely distributed species in cold-desert, dwarf-shrub pl
 
 ### Black Sagebrush Communities
 
-![A photo of a dry slope covered with low, evenly spaced, dense shrubs with gray-green foliage with bunchgrasses interspersed in shrub interspaces. Gravelly bare ground is visible between plants. A few shrubby juniper trees are visible in the near distance, and dry hills rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artnov_habitat.jpg)
+![A photo of a dry slope covered with low, evenly spaced, dense shrubs with gray-green foliage with bunchgrasses interspersed in shrub interspaces. Gravelly bare ground is visible between plants. A few shrubby juniper trees are visible in the near distance, and dry hills rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artnov_habitat.jpg?itok=fJYYeRWS)
 
 Photo Credit
 
@@ -256,7 +256,7 @@ Black sagebrush closely resembles and often grows near low sagebrush and subspec
 
 ### Form and Architecture
 
-![A photo of a small shrub with a gnarled, woody base and gray-green foliage above. Golden and green reproductive stalks grow erect from the top of the shrub. Yellow flowers and rocky, bare soil are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artnov_withflowers.jpg)
+![A photo of a small shrub with a gnarled, woody base and gray-green foliage above. Golden and green reproductive stalks grow erect from the top of the shrub. Yellow flowers and rocky, bare soil are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artnov_withflowers.jpg?itok=dS6hXQ3L)
 
 Photo Credit
 
@@ -444,7 +444,7 @@ Black sagebrush × silver sagebrush hybrids may sprout after fire. Genetics stud
 
 ## Fuels
 
-![A photo of several dense shrubs growing in mostly unvegetated sand dunes. Desert mountains rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artnov_fuelhabitat.jpg)
+![A photo of several dense shrubs growing in mostly unvegetated sand dunes. Desert mountains rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artnov_fuelhabitat.jpg?itok=fNGQ22yo)
 
 Photo Credit
 

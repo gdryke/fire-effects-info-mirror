@@ -84,7 +84,7 @@ Alligator juniper most commonly grows between 4,000 and 6,000 ft (1,220-1,830 m)
 
 Alligator juniper occurs in pinyon-juniper (Pinus-Juniperus spp.), pine-oak (Pinus-Quercus spp.), juniper-oak, Madrean evergreen, and riparian woodlands, and in ponderosa pine (P. ponderosa) forest. It rarely grows in dense stands. Typically, it occurs in small groves or as individuals interspersed with other junipers, ponderosa pine, oaks, or various understory species [6,86,103]. Alligator juniper is a common component of pinyon-juniper woodlands with pinyon (P. edulis) and/or singleleaf pinyon (P. monophylla). It occurs at somewhat higher elevations than oneseed or Utah juniper [26,72,86]. Pinyon-juniper woodlands make up more than one half of New Mexico's forested lands, and alligator juniper represents approximately 7% of all trees within that area [24].
 
-![A photo of a tree against an open, desert background, The tree has some needles on the upper branches, but most of the lower branches look dead. A desert plant is growing next to the tree with a tall bloom spike, otherwise the tree is surrounded by small shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-jundep_habitat.jpeg)
+![A photo of a tree against an open, desert background, The tree has some needles on the upper branches, but most of the lower branches look dead. A desert plant is growing next to the tree with a tall bloom spike, otherwise the tree is surrounded by small shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-jundep_habitat.jpeg?itok=jO5mZh3w)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Alligator juniper is named as a dominant or indicator species in several pinyon-
 
 ## Botanical Description
 
-![A photo of a tree's bark. The bark is grey and divided into squares, resembling the back of an alligator.]({{ site.baseurl }}/assets/images/species-reviews/feis-jundep_bark.jpeg)
+![A photo of a tree's bark. The bark is grey and divided into squares, resembling the back of an alligator.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-jundep_bark.jpeg?itok=B9dTuErN)
 
 Photo Credit
 

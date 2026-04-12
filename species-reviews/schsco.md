@@ -44,7 +44,7 @@ The currently accepted scientific name of little bluestem is _Schizachyrium scop
 
  _Schizachyrium scoparium_ var. _stoloniferum_ is called creeping bluestem, and S. s. var. divergens is referred to as pinehill bluestem. Frequent changes in taxonomy have resulted in a number of synonyms and taxa that are no longer recognized. When little bluestem was included in the _Andropogon_ genus, many varieties were recognized. After its classification in the _Schizachyrium_ genus, many of the varieties continued being recognized. There was difficulty in discerning varieties because of clinal variation and, subsequently, many varieties were reorganized into the 3 currently recognized varieties [127,160]. Additionally, some varieties became recognized as separate species.
 
-![A photo of a grassland with several bunchgrasses growing with other grasses and forbs.]({{ site.baseurl }}/assets/images/species-reviews/schsco_schsco_plant.jpeg)
+![A photo of a grassland with several bunchgrasses growing with other grasses and forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/schsco_plant.jpeg?itok=y699FqaA)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ broom bluestem, broom beardgrass, creeping bluestem
 
 Little bluestem's range extends from Maine and Nova Scotia south to Florida, west to Arizona, north to Montana and Alberta and east across most of southern Canada. It also grows in much of central Mexico [273]. Little bluestem is now found in every one of the lower 48 states except Nevada [160]. It is most prominent in the Great Plains and in open canopy areas in the eastern United States. Historically little bluestem did not grow in California, Idaho, Washington, or British Colombia but it has become naturalized on disturbed sites in this region [273].
 
-![A photo of a grassland with distinctive bunches of reddish grass with white, tufted seeds growing with other bunchgrasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-schsco_community.jpg)
+![A photo of a grassland with distinctive bunches of reddish grass with white, tufted seeds growing with other bunchgrasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-schsco_community.jpg?itok=wkn3nv7r)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Little bluestem is dominant in the true prairie of eastern Kansas where mean ann
 
 Little bluestem is a dominant understory species occurring in open-growing pine stands including interior ponderosa pine (_Pinus ponderosa_ var. _scopulorum_) in the western United States and longleaf pine (_P. palustris_), pitch pine (_P. rigida_), loblolly pine (_P. taeda_), slash pine (_P. elliottii_), shortleaf pine (_P. echinata_), and Virginia pine (_P. virginiana_) in the eastern and central parts of the country. Little bluestem is also important in tallgrass, mixed-grass, coastal, and bluestem prairies. Prairie communities often occur in a mosaic with oak (_Quercus_ spp.) savannas and forests and eastern redcedar (_Juniperus virginiana_) glades. The species is most well-known where it occurs in the prairie of Kansas and Nebraska. In these areas it is 1 of the most prominent species of intermediate height. For a description of plant associations related to specific fire regimes see Fire Regimes.
 
-![A photo of a hillside dominated by low, blue-green bunchgrasses with bare ground between plants, with slopes and a small canyon behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-schsco_community2.jpg)
+![A photo of a hillside dominated by low, blue-green bunchgrasses with bare ground between plants, with slopes and a small canyon behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-schsco_community2.jpg?itok=8gOas-t5)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Classification systems describing plant communities in which little bluestem is 
 
 Little bluestem is an erect, native, warm-season, perennial, solid-stemmed grass that exhibits both a caespitose and a sod-forming habit [10,127,155,283,284,287]. Little bluestem is generally nonrhizomatous [94], but occasionally on wet sites it may form an open or loose sod with short rhizomes connecting small tufts [292]. Under dry conditions little bluestem grows erect in distinct clumps, usually 4 to 10 inches (10-25 cm) in diameter and 5 to 10 inches (13-25 cm) apart [10,284,288]. Even in nearly pure stands on upland sites, little bluestem maintains the caespitose form with bare ground between plants [155].
 
-![A photo of a field dominated by bunchgrasses with fuzzy, white seeds clustered along reproductive spikes. Widely spaced shrubs grow in the field in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schsco_stand.jpeg)
+![A photo of a field dominated by bunchgrasses with fuzzy, white seeds clustered along reproductive spikes. Widely spaced shrubs grow in the field in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-schsco_stand.jpeg?itok=0ntQA5wh)
 
 Photo Credit
 
@@ -200,7 +200,7 @@ Wyoming| August| September
  
 Severe frost ends the growing season and causes dormancy [10]. Leaves are red and brown at maturity and red in fall or winter [273]. However, in southern latitudes plants may not go completely dormant. In Texas, Dyksterhuis [101] observed that although plants appeared dormant, new shoots continued to originate at the base from October to December, and portions of the plant remained green throughout winter. During fall and winter, a portion of total nitrogen is translocated belowground. Adams and Wallace [6] found that at time of flowering, aboveground plant parts had 55.6% nitrogen compared with 44.4% in belowground organs. After the growing season, these values changed to 35.6% in aboveground parts and 64.4% in belowground organs. In the northern part of its range, little bluestem loses some leaves during flowering (approximately August) but resumes growth after flowering and becomes dormant with frost in October [123,183]. In the southern part of its range, flowering takes place as late as November; dormancy is shortly thereafter and may be incomplete [101,115].
 
-![A photo of fruiting spikes of a gras, with most seed having a bent awn and a white tuft, lending the reproductive spikes a fluffy look.]({{ site.baseurl }}/assets/images/species-reviews/feis-schsco_repro.jpeg)
+![A photo of fruiting spikes of a gras, with most seed having a bent awn and a white tuft, lending the reproductive spikes a fluffy look.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-schsco_repro.jpeg?itok=QLUrezf7)
 
 Photo Credit
 
@@ -281,7 +281,7 @@ Fire removes litter, standing dead plant material, and living leaves and culms f
 
 ## Fire Adaptations
 
-![A photo of blue-green bunchgrasses with upright reproductive stems growing in a forest with visibly charred tree trunks. The blue-green grass dominates the understory with a few small forbs and possibly resprouting shrubs growing between. There are wide patches of bare ground between many plants, mostly covered with reddish pine needles with scattered pinecones.]({{ site.baseurl }}/assets/images/species-reviews/feis-schsco_postfire.jpeg)
+![A photo of blue-green bunchgrasses with upright reproductive stems growing in a forest with visibly charred tree trunks. The blue-green grass dominates the understory with a few small forbs and possibly resprouting shrubs growing between. There are wide patches of bare ground between many plants, mostly covered with reddish pine needles with scattered pinecones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-schsco_postfire.jpeg?itok=mMzG7hMZ)
 
 Photo Credit
 

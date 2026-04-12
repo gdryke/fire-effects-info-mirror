@@ -38,7 +38,7 @@ Matthews, Robin F. 1994. _Sclerocactus papyracanthus,_ paperspine fishhook cactu
 
 The scientific name of paperspine fishhook cactus is _Sclerocactus papyracanthus_(Engelm.) N.P. Taylor (Cactaceae) [16].
 
-![A photo of la cactus with three large, light-yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-sclpap_hero.jpeg)
+![A photo of la cactus with three large, light-yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sclpap_hero.jpeg?itok=SKNT6-7d)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ paperspined cactus, grama-grass cactus
 
 Paperspine fishhook cactus is found in the southern portion of Navajo County, Arizona, and from southeast Rio Arriba County and McKinley County to Grant and Dona Ana counties in New Mexico [1,2]. Additional populations have been located in Hudspeth County, Texas [1,13]. Paperspine fishhook cactus is inconspicuous and probably irregular in occurrence; it may be more widespread than presently known [1,2].
 
-![Map of the southwestern United States showing distribution of paperspine fishhook cactus by county in Arizona and New Mexico.]({{ site.baseurl }}/assets/images/species-reviews/sclpap_map.jpg)
+![Map of the southwestern United States showing distribution of paperspine fishhook cactus by county in Arizona and New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/map.jpg?itok=wVCr-D0z)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Paperspine fishhook cactus grows in pinyon-juniper woodlands and in desert grass
 
 Paperspine fishhook cactus is a native stem succulent with solitary stems 1 to 3 inches (2.5-7.5 cm) tall and 0.4 to 0.8 inch (1-2 cm) in diameter. It has no ribs and tubercles are elongate. Areoles are 0.04 to 0.06 inch (0.1-0.15 cm) in diameter and generally 0.12 inch (0.3 cm) apart. The spines are dense, often obscuring the surface of the stem. The central spines are up to 1.2 inches (3 cm) long and strongly flattened. Radial spines lie parallel to the stem surface and are up to 0.12 inch (0.3 cm) long. Flowers are found on new growth of the current season and are therefore near the apex of the stem. The fruit is green, often changing to tan, and is dry at maturity. The fruits are dehiscent along a dorsal slit and around the circumscissile apex [2,17]. Paperspine fishhook cactus has fibrous roots that are 2 to 4 inches (5-10 cm) long [4].
 
-![A small cluster of paperspine fishhook cactus in bloom with white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-sclpap1.jpg)
+![A small cluster of paperspine fishhook cactus in bloom with white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-sclpap1.jpg?itok=-is6IxEd)
 
 Photo Credit
 

@@ -26,7 +26,7 @@ U.S. Department of Agriculture, Forest Service, Missoula Fire Sciences Laborator
 
 ## Image Gallery
 
-![A photo of a dry mountain grassland dotted with conifer trees.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-and-subalpine-grasslands_feis-ca_montane_subalpine_sonorapasspinconminvas.jpg) Figure 2—A subalpine meadow near Sonora Pass on the Stanislaus National Forest. Lodgepole pine encroachment is discussed in the Pacific Southwest Research Station paper. _Photo by Janet Fryer, USDA, Forest Service._
+![A photo of a dry mountain grassland dotted with conifer trees.](https://research.fs.usda.gov/sites/default/files/2026-04/feis-ca_montane_subalpine_sonorapasspinconminvas.jpg) Figure 2—A subalpine meadow near Sonora Pass on the Stanislaus National Forest. Lodgepole pine encroachment is discussed in the Pacific Southwest Research Station paper. _Photo by Janet Fryer, USDA, Forest Service._
 
 Photo Credit: Photo by Janet Fryer, USDA, Forest Service.
 
@@ -51,7 +51,7 @@ The Pacific Southwest Research Station, Forest Service, U.S. Department of Agric
 
 The literature review of fire regimes occurs in the in the "Key indicators of natural range of variation" section of this publication. The Fire Regime Reports on California low-elevation grasslands and Great Basin desert grasslands cover grassland communities of California not covered here.
 
-![A photo of a dry mountain grassland dotted with conifer trees.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-and-subalpine-grasslands_feis-ca_montane_subalpine_sonorapasspinconminvas.jpg)
+![A photo of a dry mountain grassland dotted with conifer trees.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-04/feis-ca_montane_subalpine_sonorapasspinconminvas.jpg?itok=1oCM8jIy)
 
 Photo Credit
 
@@ -63,7 +63,7 @@ Figure 2—A subalpine meadow near Sonora Pass on the Stanislaus National Forest
 
 The BpSs included in this Fire Regime Report cover all of California. Figure 1 shows where these BpSs occur. Information in the synthesis of the historical range of variability (Gross 2016 [2]) only includes grasslands in the Sierra Nevada and southern Cascades.
 
-![A map showing the distribution of California montane and subalpine grassland communities in California and a small area of western Nevada.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-and-subalpine-grasslands_feis-california_montane_and_subalpine_grasslands_locator.jpg)
+![A map showing the distribution of California montane and subalpine grassland communities in California and a small area of western Nevada.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-california_montane_and_subalpine_grasslands_locator.jpg?itok=uuA2vGqj)
 
 Photo Credit
 

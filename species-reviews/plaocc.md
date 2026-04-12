@@ -52,7 +52,7 @@ sycamore, plane tree, buttonball tree
 
 ## General Distribution
 
-![A map of the eastern half of the U.S. with a large swath of the eastern states highlighted in green, where American sycamore occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-plaocc_map.jpg)
+![A map of the eastern half of the U.S. with a large swath of the eastern states highlighted in green, where American sycamore occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-plaocc_map.jpg?itok=RsNfoUyZ)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ American sycamore is primarily a species of alluvial soils along streams and in 
 
 American sycamore occurs on a variety of wet sites, including shallow swamps, sloughs, and very wet riverbottoms where soil is saturated 2 to 4 months during the growing season [39]. American sycamore seedlings survived almost 2 months of continuously waterlogged soils [46]. In a greenhouse experiment, after experiencing 60 days of completely waterlogged soils, about half of current-year seedlings died shortly after their removal from the water; none died with shorter treatment periods [41]. American sycamore is more tolerant of poorly drained soils in the northern parts of its range. It was given an adaptation value of 7.5 (out of a maximum of 10) for moisture tolerance [1]. American sycamore has a recommended lower pH range of 4.0 to 4.5 [77]
 
-![A photo of a tall, leafy tree with two large trunks growing in a lush forest. ]({{ site.baseurl }}/assets/images/species-reviews/feis-plaocc_tree.jpeg)
+![A photo of a tall, leafy tree with two large trunks growing in a lush forest. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-plaocc_tree.jpeg?itok=8fxquqBh)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ American sycamore is listed as a dominant or indicator species in the following 
 
 ## Botanical Description
 
-![A photo of a tree's five-pointed, broad green leaves against blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-plaocc_foliage.jpg)
+![A photo of a tree's five-pointed, broad green leaves against blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-plaocc_foliage.jpg?itok=EPAWt9j3)
 
 Photo Credit
 

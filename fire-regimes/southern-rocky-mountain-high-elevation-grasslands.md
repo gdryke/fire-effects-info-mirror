@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southern Rocky Mountain high-elevation gras
 
 ## Distribution
 
-![A map showing the distribution of southern Rocky Mountain high-elevation grassland communities in the interior southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/southern-rocky-mountain-high-elevation-grasslands_feis-southern_rocky_mountain_high_elevation_grasslands_locator.jpg)
+![A map showing the distribution of southern Rocky Mountain high-elevation grassland communities in the interior southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southern_rocky_mountain_high_elevation_grasslands_locator.jpg?itok=bZOIAG_Z)
 
 Photo Credit
 

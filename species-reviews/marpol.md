@@ -34,7 +34,7 @@ Matthews, Robin F. 1993. _Marchantia polymorpha_ , common liverwort. In: Fire Ef
 
 ## Image Gallery
 
-![A photo of green lichens growing on rocks with small, tree-shaped "sprouts".]({{ site.baseurl }}/assets/images/species-reviews/feis-marpol_hero.jpg) Common lichen growing in Alberta, Canada (CC BY-NC 4.0). _Photo by Hunter Jackson, iNaturalist.org, some rights reserved._
+![A photo of green lichens growing on rocks with small, tree-shaped "sprouts".](https://research.fs.usda.gov/sites/default/files/2025-07/feis-marpol_hero.jpg) Common lichen growing in Alberta, Canada (CC BY-NC 4.0). _Photo by Hunter Jackson, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Hunter Jackson, iNaturalist.org, some rights reserved.
 

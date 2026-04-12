@@ -50,7 +50,7 @@ perennial pepperweed, tall whitetop
 
 ## General Distribution
 
-![Photo of the flowering top of a plant showing dense clusters of small white flowers.]({{ site.baseurl }}/assets/images/species-reviews/leplat_feis-LEPLAT_flowers.jpg)
+![Photo of the flowering top of a plant showing dense clusters of small white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LEPLAT_flowers.jpg?itok=BXIh4J6u)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ Broadleaved pepperweed is less common in the **eastern U.S.** On the Atlantic co
 
 The following description of broadleaved pepperweed is a compilation of information from several sources [31,38,39,40,41,90] unless otherwise cited. It provides characteristics that may be relevant to fire ecology, and is not meant for identification. Correct identification of nonnative invasive species is critical before control measures are implemented. Keys for identification of broadleaved pepperweed are available (e.g., [23,31,33,40,45]). According to Young and others [104], none of the _Lepidium_ species native to North America is similar in size and growth habit to broadleaved pepperweed.
 
-![Photo of a variety of green plants, the one in the center is tall, with alternating, narrow leaves; the stem branches at the top and each branch terminates in an inflorescence of small, white flowers.]({{ site.baseurl }}/assets/images/species-reviews/leplat_feis-LEPLAT_plant.jpeg)
+![Photo of a variety of green plants, the one in the center is tall, with alternating, narrow leaves; the stem branches at the top and each branch terminates in an inflorescence of small, white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LEPLAT_plant.jpeg?itok=da1_WtzK)
 
 Photo Credit
 
@@ -238,7 +238,7 @@ Once established, it seems that broadleaved pepperweed plants grow and spread ra
 
 A conceptual model of broadleaved pepperweed spread is presented by Blank and Young [11]. Broadleaved pepperweed seeds are dispersed, plants establish and spread by creeping roots, establishing single-species colonies. A visual estimate of broadleaved pepperweed coverage at this initial stage of invasion would be about 2%. The colonies expand and eventually merge (see Successional Status) [11].
 
-![Close-up, overhead photo of a row of small green plant rosettes emerging from a gravelly soil.]({{ site.baseurl }}/assets/images/species-reviews/leplat_feis-LEPLAT_juveniles.jpg)
+![Close-up, overhead photo of a row of small green plant rosettes emerging from a gravelly soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LEPLAT_juveniles.jpg?itok=9zCWV0b5)
 
 Photo Credit
 
@@ -252,7 +252,7 @@ In a study to determine the rate of spread of broadleaved pepperweed at 3 locati
 
 ### Vegetative Reproduction and Regeneration
 
-![Photo of an excavated plant against a blue background showing several stems emerging from the same horizontal roots.]({{ site.baseurl }}/assets/images/species-reviews/leplat_feis-LEPLAT_roots.jpg)
+![Photo of an excavated plant against a blue background showing several stems emerging from the same horizontal roots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LEPLAT_roots.jpg?itok=HaUMlDgg)
 
 Photo Credit
 
@@ -437,7 +437,7 @@ In a pharmacological screening for diuretic activity in rats using an aqueous ex
 
 ## Impacts
 
-![Photo of a large green field with large patches of a plant with white flowers. ]({{ site.baseurl }}/assets/images/species-reviews/leplat_feis-LEPLAT_infestation.jpg)
+![Photo of a large green field with large patches of a plant with white flowers. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LEPLAT_infestation.jpg?itok=zCIcDNfQ)
 
 Photo Credit
 

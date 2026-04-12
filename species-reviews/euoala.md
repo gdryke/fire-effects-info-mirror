@@ -36,7 +36,7 @@ Fryer, Janet L. 2009. _Euonymus alatus_ , burningbush. In: Fire Effects Informat
 
 ## Taxonomy
 
-![A photo of a shrub with bright red leaves with some remaining green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-euoala_hero.jpeg)
+![A photo of a shrub with bright red leaves with some remaining green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-euoala_hero.jpeg?itok=YLcvmYsU)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Burningbush is a rounded shrub that grows to 8.2 feet (2.5 m) tall [5,19]. The branches typically have prominent, corky wings [5,19,34,42,49], although stem wings are reduced to ridges or absent on some plants [4,16,33,38]. Burningbush is deciduous [5,19,49], with opposite leaves [34]. The inflorescence is a long-peduncled cyme with perfect flowers [34]. The fruit is a dehiscent capsule [19] containing up to 4 seeds [33] that are enclosed in an aril [19]. A fact sheet describes burningbush's root system as deep and fibrous [38].
 
-![A photo of several red fruits growing from a green stem with leaves behind. The fruits emerge from opened capsule.]({{ site.baseurl }}/assets/images/species-reviews/feis-euoala_arils.jpg)
+![A photo of several red fruits growing from a green stem with leaves behind. The fruits emerge from opened capsule.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-euoala_arils.jpg)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Photo © Steve Baskauf.
 
 Split burningbush capsules, showing orange arils within.
 
-![A close-up photo of a stem with corky wings on either side.]({{ site.baseurl }}/assets/images/species-reviews/feis-euoala_wing.jpg)
+![A close-up photo of a stem with corky wings on either side.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-euoala_wing.jpg)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Cover (%) of burningbush in a mixed-hardwood forest in Long Island, New York [22
 
  * Phanerophyte [37]
 
-![A photo of a shrub with bright red leaves with some green leaves remaining and small plants of the same species growing in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-euoala_fallseedlings.jpg)
+![A photo of a shrub with bright red leaves with some green leaves remaining and small plants of the same species growing in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-euoala_fallseedlings.jpg?itok=WLejD-Ek)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ No information is available on this topic.
 
 Passage through a bird's digestive system may increase germination rates [33], although this has not been confirmed experimentally. Commercial burningbush seeds are stratified to increase germination rates in the nursery and in the field [48].
 
-![A photo of seedlings emerging from a layer of litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-euoala_seedlings.jpg)
+![A photo of seedlings emerging from a layer of litter.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-euoala_seedlings.jpg)
 
 Photo Credit
 
@@ -246,7 +246,7 @@ No information is available on this topic.
 
 Burningbush is widely cultivated for its brilliant autumn foliage and distinctive branches [49].
 
-![A photo of somewhat dense tree trunks with red-leaved shrubs in the understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-euoala_habitat.jpg)
+![A photo of somewhat dense tree trunks with red-leaved shrubs in the understory.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-euoala_habitat.jpg)
 
 Photo Credit
 

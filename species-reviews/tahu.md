@@ -59,7 +59,7 @@ The range of the red squirrel extends from Quebec and Ontario west to Alaska; so
 
 ## Plant Communities
 
-![A photo of a red squirrel with a white belly laying on a branch, with its tail laid over its back. The background is blurry green.]({{ site.baseurl }}/assets/images/species-reviews/feis-tahu_branch.jpg)
+![A photo of a red squirrel with a white belly laying on a branch, with its tail laid over its back. The background is blurry green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tahu_branch.jpg?itok=enhA_M-c)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Red squirrels tend to disperse and establish territories in relation to major re
 
 ### Development and Reproduction
 
-![A photo of a red squirrel poking its head out of a hole in a tree trunk.]({{ site.baseurl }}/assets/images/species-reviews/feis-tahu_nest.jpeg)
+![A photo of a red squirrel poking its head out of a hole in a tree trunk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tahu_nest.jpeg?itok=RGGbkNUz)
 
 Photo Credit
 

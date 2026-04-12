@@ -34,7 +34,7 @@ Snyder, S. A. 1991. _Symphoricarpos mollis_ , creeping snowberry. In: Fire Effec
 
 ## Image Gallery
 
-![Photo of creeping snowberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-symmol_plant.jpg) Creeping snowberry. _Photo by Irene, iNaturalist.org, no rights reserved._
+![Photo of creeping snowberry in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-symmol_plant.jpg) Creeping snowberry. _Photo by Irene, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Irene, iNaturalist.org, no rights reserved.
 
@@ -100,7 +100,7 @@ Location| Flowering dates
 Oregon:| June through July [11] 
 Southern California:| March through August [6] 
  
-![Photo of creeping snowberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-symmol_plant.jpg)
+![Photo of creeping snowberry in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-symmol_plant.jpg?itok=Y_UUviMu)
 
 Photo Credit
 

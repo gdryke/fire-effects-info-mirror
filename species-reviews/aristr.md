@@ -66,7 +66,7 @@ Pineland threeawn is the principal grass of longleaf and slash pine savannas and
 
 Pineland threeawn is the dominant grass cover in xeric longleaf pine (_Pinus palustris_) savannas and nearly all slash pine (_P. elliottii_) flatwoods [7,8]. It is also a major component of many grass-sedge (_Carex_ spp.)-pitcher plant (_Sarracenia_ spp.) bogs [8].
 
-![Evenly spaced golden-colored bunchgrasses in a forest of evenly and somewhat widely-spaced straight trees.]({{ site.baseurl }}/assets/images/species-reviews/aristr_aristr_stand.jpeg)
+![Evenly spaced golden-colored bunchgrasses in a forest of evenly and somewhat widely-spaced straight trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/aristr_stand.jpeg?itok=mZELXT00)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Published classifications that describe pineland threeawn community types includ
 
 Pineland threeawn is a native, densely tufted, cool-season, perennial bunchgrass. It grows in large clumps that are up to 6 inches (15 cm) across at the base. Hundreds of stiff but flexible leaves arise from each clump. The narrow leaves are strongly inrolled, resembling a fine wire, and may attain lengths of 20 inches (0.5 m) [8]. Most leaves die within 1 year of their formation but are persistent; thus plants contain much dead material [31]. Seedstalks are rare and occur only after fire. They are about 3 feet (1 m) tall, erect, with a spikelike terminal panicle about 12 inches (30 cm) long [14].
 
-![A tufty bunchgrass with green and gold foliage. Evenly-spaced tree trunks and more bunch grasses dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/aristr_aristr_plant.jpg)
+![A tufty bunchgrass with green and gold foliage. Evenly-spaced tree trunks and more bunch grasses dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/aristr_plant.jpg?itok=yGWqw2it)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Growth begins in January in south Florida, and in March in Georgia. Leaf blades 
 
 Pineland threeawn sexual reproduction is extremely rare. Plants flower in the summer or fall only if defoliation (i.e., fire, grazing, mowing) has occurred within the previous 9 months. Season and type of defoliation greatly affect flowering vigor. In general, late spring or summer burning results in the most vigorous flowering, and sometimes abundant seed production [5,31]. Plants may flower following fire at other times of the year, but seeds are rarely formed.
 
-![Reproductive awns on a couple of reproductive grass stems. The awns are bent near the stem and create a "stacked" look.]({{ site.baseurl }}/assets/images/species-reviews/aristr_aristr_seed.jpeg)
+![Reproductive awns on a couple of reproductive grass stems. The awns are bent near the stem and create a "stacked" look.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/aristr_seed.jpeg?itok=GN4vuNMF)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Pineland threeawn is a fire-adapted species. Its meristems are located about 1 t
 
 **Vegetative Growth:** Following fire, pineland threeawn quickly initiates new top-growth from undamaged underground regenerative structures. The leaves grow rapidly, and prefire cover is regained within a few months. In southern Florida, pineland threeawn grew to a height of 8.6 to 9.4 inches (22-24 cm) 30 days after burning in March and May. Sixty days after burning, plant heights were 10 inches (25 cm) on March burns, and 12.6 inches (32 cm) on May burns [40].
 
-![The charred old base of a bunchgrass sprouts bright green new stems.]({{ site.baseurl }}/assets/images/species-reviews/aristr_aristr_reprout.jpg)
+![The charred old base of a bunchgrass sprouts bright green new stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/aristr_reprout.jpg?itok=J_JUFxYy)
 
 Photo Credit
 

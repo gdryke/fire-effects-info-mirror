@@ -69,7 +69,7 @@ Algerita grows in a variety of habitats including flat pastureland, lower alluvi
 
 ## Plant Communities
 
-![A photo of a large, bushy shrub with gray-green, pointed leaves growing in a forest with gnarled trees and grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahtri_habitat.jpeg)
+![A photo of a large, bushy shrub with gray-green, pointed leaves growing in a forest with gnarled trees and grasses.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-mahtri_habitat.jpeg?itok=QpU1hjuC)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Algerita has been listed as a dominant in the following community type classific
 
 ## Botanical Description
 
-![A close up photo of a shrub's three-pointed, spined grayish leaves and clusters of bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahtri_flowers.jpg)
+![A close up photo of a shrub's three-pointed, spined grayish leaves and clusters of bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-mahtri_flowers.jpg?itok=iAJj7G4C)
 
 Photo Credit
 

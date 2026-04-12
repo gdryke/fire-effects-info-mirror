@@ -34,7 +34,7 @@ Anderson, Michelle D. 2002. _Leymus cinereus_ , basin wildrye. In: Fire Effects 
 
 ## Introduction
 
-![A photo of a lush-looking, green bunchgrass with thick leaves and somewhat taller reproductive stems. Dry cliffs rise behind, and invasive annual grasses grow at its base.]({{ site.baseurl }}/assets/images/species-reviews/feis-leycin_plant.jpg)
+![A photo of a lush-looking, green bunchgrass with thick leaves and somewhat taller reproductive stems. Dry cliffs rise behind, and invasive annual grasses grow at its base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leycin_plant.jpg?itok=U4JMyNxJ)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Tree and shrub codominants occurring with basin wildrye include singleleaf pinyo
 
 Grass codominants occurring with basin wildrye include saltgrass (_Distichlis spicata_), cheatgrass (_Bromus tectorum_), California brome (_Bromus carinatus_), and Sandberg bluegrass (_Poa secunda_) [21,34,70,91].
 
-![A photo of a tall gold and green grass with tall reproductive stems with narrow spikes. Blue-green sagebrush plants are growing behind the grass and pinyon and/or juniper growing behind. Bare ground is visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-leycin_community.jpg)
+![A photo of a tall gold and green grass with tall reproductive stems with narrow spikes. Blue-green sagebrush plants are growing behind the grass and pinyon and/or juniper growing behind. Bare ground is visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leycin_community.jpg?itok=j6irr0pb)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ Photo by Michelle Skip Vasquez, iNaturalist.org, some rights reserved.
 
 Basin wildrye growing with sagebrush in Inyo County, California ([CC BY-NC 4.0](<https://creativecommons.org/licenses/by-nc/4.0/>)).
 
-![A photo of a shrubland community with large bunchgrasses growing in a cluster and somewhat widely spaced shrubs growing behind. Desert mountains rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-leycin_community2.jpg)
+![A photo of a shrubland community with large bunchgrasses growing in a cluster and somewhat widely spaced shrubs growing behind. Desert mountains rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leycin_community2.jpg?itok=0v2-cCYD)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Classifications describing plant communities in which basin wildrye is a dominan
 
 ## Botanical Description
 
-![A photo of a dried, narrow reproductive spike of a grass against a black background.]({{ site.baseurl }}/assets/images/species-reviews/feis-leycin_spike.jpg)
+![A photo of a dried, narrow reproductive spike of a grass against a black background.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-leycin_spike.jpg)
 
 Photo Credit
 
@@ -219,7 +219,7 @@ Basin wildrye is tolerant of partial shade in shrublands and woodlands [129]. It
 
 ## Immediate Fire Effects
 
-![A photo of a firefighter in a yellow jacket and red hat pouring flame from a canister to ignite low vegetation. A tall grass is in flames just behind him, and another firefighter walks next to a line of flame in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-leycin_rx.jpg)
+![A photo of a firefighter in a yellow jacket and red hat pouring flame from a canister to ignite low vegetation. A tall grass is in flames just behind him, and another firefighter walks next to a line of flame in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leycin_rx.jpg?itok=EfOKx7md)
 
 Photo Credit
 

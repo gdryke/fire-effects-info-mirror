@@ -100,7 +100,7 @@ Resin birch grows in a variety of soils, ranging from sandy and gravelly loam on
 
 ## Plant Communities
 
-![Photo of a large, open area with patches of low-statured, green shrubs and ground cover plants on a grayish, lichen-covered soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-betgla_habitat.jpg)
+![Photo of a large, open area with patches of low-statured, green shrubs and ground cover plants on a grayish, lichen-covered soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-betgla_habitat.jpg?itok=j4PLOKGC)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ resin birch-mountain cranberry-cloudberry (_Vaccinium vitis-idaea-Rubus chamaemo
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [31,48,60,75,76,77,159,162,168]).
 
-![Close-up photo of gray, woody stems covered with round green leaves, with dense gray branches in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-betgla_hero_0.jpeg)
+![Close-up photo of gray, woody stems covered with round green leaves, with dense gray branches in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-betgla_hero_0.jpeg?itok=2R0y7bm3)
 
 Photo Credit
 
@@ -229,7 +229,7 @@ Resin birch reproduces by seed and vegetatively by branch layering and sprouting
 
 ### Pollination and Breeding System
 
-![Photo of the end of two slender, gray branches, with a few round, green leaves, and several catkins extending upward.]({{ site.baseurl }}/assets/images/species-reviews/feis-betgla_catkins.jpeg)
+![Photo of the end of two slender, gray branches, with a few round, green leaves, and several catkins extending upward.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-betgla_catkins.jpeg?itok=xdrYV1gQ)
 
 Photo Credit
 
@@ -345,7 +345,7 @@ Resin birch density (stems/ha) after wildfire in heavily and lightly burned area
  
 The response of resin birch to fire in a valley-bottom floodplain in the Rocky Mountains of Alberta varied with fire severity. Resin birch stem density increased for 2 years after a spring prescribed, low-severity fire in 1984 due to abundant sprouting. Following high-severity burns in 1987 and 1993, however, both stem density and canopy cover sharply declined. Results of this study are given in the figure below [29].
 
-![Bar graph showing canopy cover and stem density of resin birch from 1984 to 1994, with burns occurring in 1984, 1987, and 1993. Cover and density increased after the first fire, and generally decreased immediately after each subsequent fire and began to increase in the second postfire year.]({{ site.baseurl }}/assets/images/species-reviews/betgla_feis-barchart_betgla.jpg)
+![Bar graph showing canopy cover and stem density of resin birch from 1984 to 1994, with burns occurring in 1984, 1987, and 1993. Cover and density increased after the first fire, and generally decreased immediately after each subsequent fire and began to increase in the second postfire year.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-barchart_betgla.jpg?itok=YN3eybd8)
 
 Canopy cover and stem density of resin birch before and after 3 prescribed fires in a valley-bottom floodplain in Alberta, Canada.
 

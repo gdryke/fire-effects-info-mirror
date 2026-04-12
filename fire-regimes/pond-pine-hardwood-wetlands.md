@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for pond pine-hardwood wetland communities has 
 
 ## Distribution
 
-![A map showing the distribution of pond pine-hardwood wetland communities in the eastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/pond-pine-hardwood-wetlands_feis-pond_pine_hardwood_wetlands_locator.jpg)
+![A map showing the distribution of pond pine-hardwood wetland communities in the eastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pond_pine_hardwood_wetlands_locator.jpg?itok=kY-KNoib)
 
 Photo Credit
 

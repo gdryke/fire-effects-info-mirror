@@ -34,7 +34,7 @@ Anderson, Michelle D. 2004. _Prunus pensylvanica_ , pin cherry. In: Fire Effects
 
 ## Introduction
 
-![Photo of pin cherry branches with green foliage.]({{ site.baseurl }}/assets/images/species-reviews/feis-prupen_plant.jpg)
+![Photo of pin cherry branches with green foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-prupen_plant.jpg?itok=8Ji9xmnw)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Classifications identifying pin cherry as a plant community dominant are listed 
 
 ## Botanical Description
 
-![Photo of pin cherry branches with green leaves and red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-prupen_leaves.jpg)
+![Photo of pin cherry branches with green leaves and red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-prupen_leaves.jpg?itok=EqkMACkv)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Flower buds form in August or September [59,143] and flowers bloom with the expa
 
 ## Regeneration Processes
 
-![Photo of pin cherry with white blooms.]({{ site.baseurl }}/assets/images/species-reviews/feis-prupen_plant_0.jpg)
+![Photo of pin cherry with white blooms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-prupen_plant_0.jpg?itok=4GwAyKuQ)
 
 Photo Credit
 

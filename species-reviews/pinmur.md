@@ -55,7 +55,7 @@ Bishop's pine, prickle-cone pine, California swamp pine
 
 ## General Distribution
 
-![A map of California and Oregon, with counties highlighted in green where Bishop pine occurs. Counties along the California and southern Oregon coasts are highlighted, along with one county in interior California.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmur_map.jpg)
+![A map of California and Oregon, with counties highlighted in green where Bishop pine occurs. Counties along the California and southern Oregon coasts are highlighted, along with one county in interior California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinmur_map.jpg?itok=3HJ579Uv)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Soils in which Bishop pine grows are sometimes shallow and poorly drained [44]. 
 
 Bishop pine is frequently dominant in closed-cone pine forests [15,27,37,42,44]. Stands are open with little or no understory on dry, rocky sites, with a more dense understory on moist sites [15]. Bishop pine also occurs in mesic border areas of woodlands and savannas [27].
 
-![A photo of pine trees growing above a bay with clear blue water. One of the pines is taller with a straight trunk, the others are small and contorted, with sparse branches and needles at the tops of the trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmur_habitat.jpeg)
+![A photo of pine trees growing above a bay with clear blue water. One of the pines is taller with a straight trunk, the others are small and contorted, with sparse branches and needles at the tops of the trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinmur_habitat.jpeg?itok=avsooCYy)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Associated canopy species not previously mentioned include Gowen cypress (Hesper
 
 ## Botanical Description
 
-![A photo of four gray, closed pine cones on a gray branch. There are green and brown needles and other gray twigs surrounding the main branch, with lichen on the branches and cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmur_cones.jpg)
+![A photo of four gray, closed pine cones on a gray branch. There are green and brown needles and other gray twigs surrounding the main branch, with lichen on the branches and cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinmur_cones.jpg?itok=7YZf8pbb)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Taylor, Jane E. 2005. _Psathyrostachys juncea_ , Russian wildrye. In: Fire Effec
 
 ## Introduction
 
-![A photo of golden, upright reproductive stalks of a grass in front of a rolling field apparently dominated by the same grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-psajun_plant.jpg)
+![A photo of golden, upright reproductive stalks of a grass in front of a rolling field apparently dominated by the same grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-psajun_plant.jpg?itok=cPMBaTiO)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ UT| 4,200 to 9,400 feet (1,280-2,870 m) [116,132,164]
  
 ## Plant Communities
 
-![A photo of a monotypic stand of bunchgrasses, with low, green leaves forming a tussock, and tall reproductive stalks rising well above the leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-psajun_stand.jpg)
+![A photo of a monotypic stand of bunchgrasses, with low, green leaves forming a tussock, and tall reproductive stalks rising well above the leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-psajun_stand.jpg?itok=gc6oCspS)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Russian wildrye is a nonnative species and is therefore not used for habitat typ
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Several florae provide keys for identifying Russian wildrye [45,46,59,61,162,163,164].
 
-![A photo of bunchgrasses with green and gold leaves and tall reproductive stems grow somewhat densely with patches of dry, bare ground visible between plants. A barbed wire fence stretches across one corner of the photo, and a low hill is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-psajun_stand2.jpg)
+![A photo of bunchgrasses with green and gold leaves and tall reproductive stems grow somewhat densely with patches of dry, bare ground visible between plants. A barbed wire fence stretches across one corner of the photo, and a low hill is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-psajun_stand2.jpg?itok=tnrOM0wP)
 
 Photo Credit
 
@@ -262,7 +262,7 @@ None
 
 ## Other Status
 
-![A photo of bunchgrass growing with weeds with bare ground visible between plants near a calving shed.]({{ site.baseurl }}/assets/images/species-reviews/feis-psajun_bozoisky-select.jpg)
+![A photo of bunchgrass growing with weeds with bare ground visible between plants near a calving shed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-psajun_bozoisky-select.jpg?itok=tfNd5leX)
 
 Photo Credit
 

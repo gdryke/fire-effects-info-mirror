@@ -34,7 +34,7 @@ Abrahamson, Ilana L. 2013. _Goodyera repens_ , lesser rattlesnake plantain. In: 
 
 ## Introduction
 
-![A photo of a plant comprised of a small basal rosette of overlapping, somewhat fleshy-looking leaves and a single flowering stem, with small white flowers loosely clustered at the top of the stem. The plant is growing in litter and moss.]({{ site.baseurl }}/assets/images/species-reviews/feis-goorep_plant.jpg)
+![A photo of a plant comprised of a small basal rosette of overlapping, somewhat fleshy-looking leaves and a single flowering stem, with small white flowers loosely clustered at the top of the stem. The plant is growing in litter and moss.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-goorep_plant.jpg)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ creeping rattlesnake plantain, dwarf rattlesnake plantain, northern rattlesnake 
 
 Lesser rattlesnake plantain is native to North America [28] and Eurasia [87]. This review describes lesser rattlesnake plantain as it occurs in North America. Lesser rattlesnake plantain is transcontinental in Canada and occurs in continuous and discontinuous populations in the United States. Its northern range occurs in Alaska, Yukon, and Newfoundland. In the eastern United States, its southern range reaches North Carolina and Tennessee; in the West, it occurs in disjunct populations in Arizona, New Mexico, and Colorado [28].
 
-![A map of the United States and Canada, with a gray polygon extending from southeast Alaska to the east coast, including much of Canada and portions of northeastern U.S. states. Disjunct polygons occur at high-elevation areas of some western states, including Colorado, New Mexico, Arizona, and Montana.]({{ site.baseurl }}/assets/images/species-reviews/feis-goorep_map.jpg)
+![A map of the United States and Canada, with a gray polygon extending from southeast Alaska to the east coast, including much of Canada and portions of northeastern U.S. states. Disjunct polygons occur at high-elevation areas of some western states, including Colorado, New Mexico, Arizona, and Montana.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-goorep_map.jpg)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ See Table 1 for additional descriptions of plant communities and site characteri
 
 ## Botanical Description
 
-![Two photos side by side. On the left, close-up photo of a cluster of overlapping, variegated basal leaves growing in litter. On the right, small white flowers grow from a green stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-goorep_leavesflowers.png)
+![Two photos side by side. On the left, close-up photo of a cluster of overlapping, variegated basal leaves growing in litter. On the right, small white flowers grow from a green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-goorep_leavesflowers.png?itok=4IW721mu)
 
 Photo Credit
 

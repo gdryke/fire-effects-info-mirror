@@ -38,7 +38,7 @@ Sclafani, Christie J. 2013. _Dodecahema leptoceras_ , slenderhorn spineflower. I
 
 In November of 2012 an extensive search was done to locate information on slenderhorn spineflower (see FEIS's list of source literature), with few results. The following paragraphs provide details of the available information.
 
-![A photo of a reddish forb with a small cluster of a few basal leaves and relatively long stems branching and ending in tufts of small, pale flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-dodlep_plant.jpg)
+![A photo of a reddish forb with a small cluster of a few basal leaves and relatively long stems branching and ending in tufts of small, pale flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dodlep_plant.jpg?itok=Yn6FS6vO)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ slender-horned spineflower
 
 ## Distribution
 
-![A map of California with pink and purple highlighting in the southwesternmost portion of the state.]({{ site.baseurl }}/assets/images/species-reviews/feis-dodlep_map.png)
+![A map of California with pink and purple highlighting in the southwesternmost portion of the state.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dodlep_map.png?itok=YiR7r-Fq)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Slenderhorn spineflower grows at elevations from 656 to 2,296 feet (200-700 m) [
 
 Slenderhorn spineflower occurs in various vegetation types. Surveys on 8 sites found no indicator species that consistently cooccurred with slenderhorn spineflower [1], although California broomsedge (_Lepidospartum squamatum_) is considered an indicator for alluvial scrub habitats in general [19]. Slenderhorn spineflower is apparently not restricted by vegetation type; its habitats are characterized by edaphic factors [1,6].
 
-![A photo of a small forb with a basal cluster of several green leaves and reddish stems ending in clusters of white flowers with long, spiked involucres.]({{ site.baseurl }}/assets/images/species-reviews/feis-dodlep_habitat.jpg)
+![A photo of a small forb with a basal cluster of several green leaves and reddish stems ending in clusters of white flowers with long, spiked involucres.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dodlep_habitat.jpg?itok=sWUJA25y)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ See the Fire Regime Table (table A1) for a list of plant communities in which sl
 
 ## Botanical Description
 
-![A close-up photo of a cluster of small white flowers with spiked involucres. The drying basal leaves of the plant are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-dodlep_flowers.jpg)
+![A close-up photo of a cluster of small white flowers with spiked involucres. The drying basal leaves of the plant are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dodlep_flowers.jpg?itok=56UYWV6M)
 
 Photo Credit
 

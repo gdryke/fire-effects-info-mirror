@@ -34,7 +34,7 @@ Waggy, Melissa A. 2009. _Solanum viarum_ , tropical soda apple. In: Fire Effects
 
 ## Introduction
 
-![A photo of a large, bushy forb with large green leaves. Low grass grows behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-solvia_plant.jpg)
+![A photo of a large, bushy forb with large green leaves. Low grass grows behind.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-solvia_plant.jpg)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground Characteristics
 
-![A photo of two dark and light green marbled tropical soda apple fruits and leaves with large spines growing along veins.]({{ site.baseurl }}/assets/images/species-reviews/feis-solvia_hero.jpg)
+![A photo of two dark and light green marbled tropical soda apple fruits and leaves with large spines growing along veins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-solvia_hero.jpg?itok=UeO1Ukax)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ In Florida, tropical soda apple flowers and produces fruit throughout the year [
 
 ## Regeneration Processes
 
-![A close-up photo of marbled dark and light green fruits growing in clusters along the green, spiny stem with large green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-solvia_fruit.jpg)
+![A close-up photo of marbled dark and light green fruits growing in clusters along the green, spiny stem with large green leaves.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-solvia_fruit.jpg)
 
 Photo Credit
 

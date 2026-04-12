@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Ericameria paniculata,_ Mohave rabbitbrush. In: Fire Effe
 
 ## Image Gallery
 
-![Photo of Mohave rabbitbrush]({{ site.baseurl }}/assets/images/species-reviews/feis-eripan_plant.jpg) Mohave rabbitbrush. _Photo by Sigrid Jakob, iNaturalist.org, no rights reserved._
+![Photo of Mohave rabbitbrush](https://research.fs.usda.gov/sites/default/files/2025-07/feis-eripan_plant.jpg) Mohave rabbitbrush. _Photo by Sigrid Jakob, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Sigrid Jakob, iNaturalist.org, no rights reserved.
 
@@ -76,7 +76,7 @@ Mohave rabbitbrush is often found in creosotebush (Larrea tridentata) scrub, Jos
 
 ## Botanical Description
 
-![Photo of Mohave rabbitbrush]({{ site.baseurl }}/assets/images/species-reviews/feis-eripan_plant.jpg)
+![Photo of Mohave rabbitbrush](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-eripan_plant.jpg?itok=xFD8E0zZ)
 
 Photo Credit
 

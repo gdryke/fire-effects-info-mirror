@@ -34,7 +34,7 @@ Meyer, Rachelle. 2005. _Atriplex lentiformis_ , big saltbush. In: Fire Effects I
 
 ## Introduction
 
-![A photo of a somewhat scraggly, leafy shrub with airy tufts of small seeds at the ends of some branches. Water is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrlen_plant.jpg)
+![A photo of a somewhat scraggly, leafy shrub with airy tufts of small seeds at the ends of some branches. Water is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-atrlen_plant.jpg?itok=RakcS_rW)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Big saltbush can also tolerate irrigation with saline water. Electrical conducti
 
 ## Plant Communities
 
-![A photo of dense scrub, with bare ground and mulch in front of it and taller, leafless riparian shrubs and small trees behind. The scrub in the front is comprised of gray-green, somewhat rounded shrub with clusters of tan seeds.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrlen_habitat.jpeg)
+![A photo of dense scrub, with bare ground and mulch in front of it and taller, leafless riparian shrubs and small trees behind. The scrub in the front is comprised of gray-green, somewhat rounded shrub with clusters of tan seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-atrlen_habitat.jpeg?itok=VzUCzv3M)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ When big saltbush is included in classification schemes it is typically as an as
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [56,57,119,123].
 
-![A close-up photo of the end of a branch with a pale stem and gray-green leaves and pinkish yellow, somewhat inconspicuous flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrlen_flowering.jpg)
+![A close-up photo of the end of a branch with a pale stem and gray-green leaves and pinkish yellow, somewhat inconspicuous flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-atrlen_flowering.jpg?itok=1qa3LBa6)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Appalachian dry oak-pine communities has no
 
 ## Distribution
 
-![A map showing the distribution of Appalachian dry oak-pine communities in the central eastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/appalachian-dry-oak-pine_feis-appalachian_dry_oak_pine_locator.jpg)
+![A map showing the distribution of Appalachian dry oak-pine communities in the central eastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-appalachian_dry_oak_pine_locator.jpg?itok=XuAf5ZiD)
 
 Photo Credit
 

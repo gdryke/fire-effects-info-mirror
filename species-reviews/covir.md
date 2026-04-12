@@ -46,7 +46,7 @@ Habitat management for masked bobwhites focuses on creating and/or maintaining a
 
 ## Taxonomy
 
-![Male masked bobwhite walking on bare ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_male.jpg)
+![Male masked bobwhite walking on bare ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_male.jpg?itok=U6OIxx82)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ None
 
 ## Distribution
 
-![Distribution of masked bobwhite in Arizona and Sonora as of 2006 in black and historical distribution in hash marked area. ]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_map.png)
+![Distribution of masked bobwhite in Arizona and Sonora as of 2006 in black and historical distribution in hash marked area. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_map.png?itok=a0yuA8UY)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Masked bobwhites were extirpated from Arizona in the early 1900s and subsequentl
 
 ## Plant Communities
 
-![Landscape with semidesert grasslands in the foreground and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_banwr_semidesertgrassland.jpg)
+![Landscape with semidesert grasslands in the foreground and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_banwr_semidesertgrassland.jpg?itok=MJXSo2o1)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ This review includes information covering many aspects of the masked bobwhite’
 
 Because much of the biology and ecology of the masked bobwhite is poorly understood, information about other northern bobwhite subspecies is used to supplement information about masked bobwhites. Much of this information comes from a literature review about northern bobwhites in Birds of the World by Brennan et al. (2020) [15].
 
-![Three masked bobwhites in dense grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_densecover.jpg)
+![Three masked bobwhites in dense grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_densecover.jpg?itok=-Qs0CcU7)
 
 Photo Credit
 
@@ -269,7 +269,7 @@ Masked bobwhites, like northern bobwhites, require protective cover that provide
 
 Only one study reported information on area requirements of masked bobwhites. In this study, home ranges for reintroduced masked bobwhites at the BANWR averaged 10.9 ha (min–max: 5.2–14.6 ha), and home range sizes were not different between breeding and covey seasons. Home ranges had an average maximum width of 586 m, except for one pair that travelled 2.4 km from their home range and returned the following day. Core areas (i.e., areas where 50% of locations were aggregated) averaged 1.1 ha (min–max: 0.2–2.7 ha). Masked bobwhite mean home range size was consistent with home range sizes reported for other subspecies of northern bobwhites [92] (see the FEIS Species Review about northern bobwhites). The only nesting female masked bobwhite in the study restricted her activity to about 2% of the total home range while nesting. Home ranges of nesting pairs overlapped [92].
 
-![A pair of masked bobwhites in dead grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_pair.jpg)
+![A pair of masked bobwhites in dead grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_pair.jpg?itok=TJBYlc4a)
 
 Photo Credit
 
@@ -301,7 +301,7 @@ Masked bobwhites use habitats with low to moderate amounts of woody cover. Woody
 
 Low to moderate cover of the nonnative invasive perennial grasses buffelgrass and Lehmann lovegrass may provide suitable masked bobwhite habitat, but high nonnative grass cover lacks important food for masked bobwhites [64,66]. At the BANWR during covey season, the frequency of occurrence of Lehmann lovegrass was higher at masked bobwhite sites (59.4% of total grasses) than at available sites (36.4%), but during the breeding season, frequency of occurrence of Lehmann lovegrass was similar between masked bobwhite sites (31.9%–36.2%) and available sites (33.7%–40.0%), suggesting that remaining areas of native grass at the BANWR may not provide sufficiently dense structure for masked bobwhites during winter [59]. In Rancho Grande, masked bobwhites were more common in pastures with buffelgrass than pastures with native annual grasses. The buffelgrass pastures averaged 63% grass cover (primarily buffelgrass), 11% forb cover, and 11% woody cover, while the native grasslands were 1% perennial grass cover, 1% perennial forb cover, and 33% woody cover. They did not use extensive monocultures of buffelgrass but used areas where buffelgrass was mixed with other grasses and forbs (Mills and Reichenbacher 1982, cited in [92]). In addition, northern bobwhites have been observed in high abundance on Texas rangelands characterized by moderately dense stands of buffelgrass interspersed with native grasses, forbs, and open ground [56]. In a review of the impact of nonnative invasive grasses on quail in the Southwest, Kuvlesky et al. (2002) noted that while masked bobwhites use plant communities with Lehmann lovegrass and buffelgrass, particularly during drought and when native plant communities are lacking, these plant communities are likely useful only as protective cover, and thus, food must be located nearby [66].
 
-![Landscape with desert plant communities in the foreground and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_banwr_landscape.jpg)
+![Landscape with desert plant communities in the foreground and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_banwr_landscape.jpg?itok=DcdyOf3f)
 
 Photo Credit
 
@@ -325,7 +325,7 @@ Some woody plants important to masked bobwhites sprout after fire (e.g. mesquite
 
 Nonnative perennial grasses, such as Lehmann lovegrass and buffelgrass, may recover quickly and increase in abundance after fire, often dominating postfire communities (e.g., [3,13,58,88,90,100]). Dominance of semidesert grasslands by these invasive grasses increases fire risk (see Contemporary Fire Regimes and Fuels).
 
-![Landscape with desert scrub in the foreground and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_banwr_desertscrub.jpg)
+![Landscape with desert scrub in the foreground and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_banwr_desertscrub.jpg?itok=rpLqe2_V)
 
 Photo Credit
 
@@ -399,7 +399,7 @@ According to NatureServe, masked bobwhites are critically imperiled in Arizona [
 
 Masked bobwhites were extirpated from the United States by about 1900 probably because of habitat degradation caused by overgrazing by cattle and drought [18]. Tens of thousands of masked bobwhite individuals have since been released from captive-rearing programs [26,52], and a small number of reintroduced masked bobwhites currently occur in the wild in and around the BANWR [6]. Population estimates of masked bobwhites in 2023 suggest approximately 200 individuals occur on the refuge [102], but an active captive-rearing program in the United States and Mexico is critical to maintaining wild populations [98]. The U.S. Fish and Wildlife Service’s 5-year review of the species’ endangered status (2014) [99] concluded that masked bobwhite populations at the BANWR are not self-sustaining. See Hernandez et al. (2006) for information on distribution, population size, and recovery efforts for masked bobwhites, including history of translocations and releases of captive-reared birds [56]. Only a few populations may exist in Sonora, but their status is poorly known [79]. A survey for masked bobwhites in Sonora from 2013 to 2015 failed to observe any individuals [46]. The status of masked bobwhite populations in the United States and Mexico is considered “precarious at best” [56] and captive populations remain critical to their conservation and recovery [98].
 
-![A stand of dense Johnsongrass.]({{ site.baseurl }}/assets/images/species-reviews/feis-covir_banwr_johnsongrass.jpg)
+![A stand of dense Johnsongrass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-covir_banwr_johnsongrass.jpg?itok=mnU7wvd5)
 
 Photo Credit
 

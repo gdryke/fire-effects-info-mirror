@@ -86,7 +86,7 @@ This duck commonly inhabits wetland communities dominated by bulrush (Scirpus sp
  * Migration - Blue-winged teal are generally the first ducks south in the fall and the last ones north in the spring [1]. Adult drakes depart the breeding grounds well before adult hens and immatures. Most blue-winged teal flocks seen after mid-September are composed largely of adult hens and immatures [1].
  * The northern regions experience a steady decline in blue-winged teal populations from early September until early November. Blue-winged teal in central migration areas tend to remain through September, then diminish rapidly during October, with small numbers remaining until December. Large numbers of blue-winged teal appear on wintering grounds in Florida, Louisiana, and Texas in September [1].
 
-![Blue-winged teals.]({{ site.baseurl }}/assets/images/species-reviews/feis-spdi_pair.jpg)
+![Blue-winged teals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-spdi_pair.jpg?itok=KuAKsxY_)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Fire can remove blue-winged teal nesting cover [19]. Although blue-winged teal d
 
 For fire regime information, search FEIS for this species by entering the species name on the Advanced Search page and selecting “Fire Regime” as the publication type.
 
-![A female blue-winged teal's body reflects in the water.]({{ site.baseurl }}/assets/images/species-reviews/feis-spdi_hen.jpg)
+![A female blue-winged teal's body reflects in the water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-spdi_hen.jpg?itok=o4BtXmnR)
 
 Photo Credit
 

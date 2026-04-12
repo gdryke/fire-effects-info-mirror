@@ -96,7 +96,7 @@ Associates: In Idaho, yellow willow is generally confined to Wyoming big sagebru
 
 ## Botanical Description
 
-![A shrubby tree with pointed green leaves grows in an open grassy, meadow-like setting with blue sky above.]({{ site.baseurl }}/assets/images/species-reviews/feis-sallut_tree.jpg)
+![A shrubby tree with pointed green leaves grows in an open grassy, meadow-like setting with blue sky above.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2025-04/feis-sallut_tree.jpg?itok=s-Z0VZL-)
 
 Yellow willow is a deciduous shrub, or rarely, a small tree up to 23 feet (7 m) tall, with stems diameters up to 8 inches (20 cm) [7,11,44]. The silvery-gray bark of older twigs distinguishes it from many closely related willows [11]. The leaves are alternate, simple, pinnately veined, mostly lanceolate, with finely serrate margins, dark green to yellow-green above and pale or glaucus beneath, with conspicuous stipules usually present [7,11,19,44]. Male and female flowers occur on separate plants as catkins. Staminate catkins are .8-2 inches (2-5 cm) long, and pistillate catkins are .8-2.7 inches (2-7 cm) long, but mostly under 1.5 inches (4 cm) [7,19,37].
 
@@ -117,7 +117,7 @@ May| August| Wyoming
  
 ## Regeneration Processes
 
-![A shrub with pointed green leaves and cottony white tufts of seeds.]({{ site.baseurl }}/assets/images/species-reviews/feis-sallut_plant.jpg)
+![A shrub with pointed green leaves and cottony white tufts of seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-sallut_plant.jpg?itok=ykPsSrG6)
 
 Photo Credit
 

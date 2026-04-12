@@ -38,7 +38,7 @@ Covington, Daniel. 2000. _Danthonia spicata_ , poverty oatgrass. In: Fire Effect
 
 The currently accepted scientific name of poverty oatgrass is _Danthonia spicata_ (L.) Beauv. ex. Roem. & Schult. (Poaceae) [20,21,25,27,57].
 
-![A photo of a relatively small bunchgrass with reproductive stems growing with moss and small forbs on a rock outcrop, with a conifer overstory.]({{ site.baseurl }}/assets/images/species-reviews/feis-danspi_plant.jpeg)
+![A photo of a relatively small bunchgrass with reproductive stems growing with moss and small forbs on a rock outcrop, with a conifer overstory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danspi_plant.jpeg?itok=tYJtdRWP)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Poverty oatgrass inhabits much of the United States. It is distributed from Brit
 
 Poverty oatgrass most commonly inhabits low fertility, sandy or rocky, well-drained soils of old fields, pastures, roadsides, and woodland margins characterized by low soil moisture [11,14,15,22,28]. Poverty oatgrass also inhabits clearcuts, burns, and trampled ground of flat and mountainous areas throughout much of the eastern United States [10]. Poverty oatgrass tends to inhabit shallow A horizons overlying substrates such as limestone, marble rock, sandstone, granite, siltstone, clay, and chert [7,23,26,36].
 
-![A photo of grasses and moss growing in little soil with distinct edge on top of a rock. A creek is visible to the left and conifers grow behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-danspi_hero.jpeg)
+![A photo of grasses and moss growing in little soil with distinct edge on top of a rock. A creek is visible to the left and conifers grow behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danspi_hero.jpeg?itok=xsikQAHI)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Poverty oatgrass is a component in many grass, shrub, and forest habitats. Despi
 
 ## Botanical Description
 
-![A photo of grasses growing in a forest clearing, with conifers growing behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-danspi_habitat.jpg)
+![A photo of grasses growing in a forest clearing, with conifers growing behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danspi_habitat.jpg?itok=PABx7E_w)
 
 Photo Credit
 

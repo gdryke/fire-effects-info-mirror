@@ -50,7 +50,7 @@ buffaloberry, thorny buffaloberry
 
 ## General Distribution
 
-![Map of distribution of silver buffaloberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-shearg_map.png)
+![Map of distribution of silver buffaloberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-shearg_map.png?itok=gYPPtZLY)
 
 Photo Credit
 
@@ -106,13 +106,13 @@ Species not previously mentioned but commonly associated with silver buffaloberr
 
 ## Botanical Description
 
-![Photo of fruiting silver buffaloberry.]({{ site.baseurl }}/assets/images/species-reviews/shearg_shearg_fruit_0_0.jpg)
+![Photo of fruiting silver buffaloberry.](https://research.fs.usda.gov/sites/default/files/styles/220px_wide/public/2025-05/shearg_fruit_0_0.jpg?itok=jXhH-D9x)
 
 Silver buffaloberry is a native, deciduous, thicket-forming small tree or large shrub with spreading to ascending thorny aboveground branches and belowground rhizomes [47,32,87,85]. It grows from 3.3 to 20 feet (1-6 m) tall [25,33,41,54]. Leaves are 0.8 to 2.0 inches (2-5 cm) long and 0.28 to 0.4 inch (7-10 mm) wide [25,71]. The drupelike, ovoid fruit is 0.16 to 0.24 inch (4-6 mm) long [36,47] and is one seeded [71]. In western North Dakota, rooting patterns of 323 silver buffaloberry shrubs were examined. On 12-year-old silver buffaloberry shrubs that were 12 feet (3.6 m) tall, 97 percent of the total roots were found in the first 4 feet (1.2 m) of soil. The longest root was 22 feet (6.6 m) long. The maximum depth of root penetration was 5.8 feet (1.74 m). Silver buffaloberry has thin, exfoliating bark with shallow furrows and flat-topped ridges [71].
 
 A study on relatively undisturbed sites in North Dakota showed that silver buffaloberry stems were 1 to 32 years old, with an average age of 7.62 years [39].
 
-![Photo of a silver buffaloberry sprout emerging from a rhizome.]({{ site.baseurl }}/assets/images/species-reviews/feis-shearg_sprout.jpg)
+![Photo of a silver buffaloberry sprout emerging from a rhizome.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-shearg_sprout.jpg?itok=bWFEK1Tb)
 
 Photo Credit
 

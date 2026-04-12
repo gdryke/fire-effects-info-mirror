@@ -59,7 +59,7 @@ Texas madrone grows from the Edwards Plateau of south-central Texas to Trans-Pec
 
 ## Site Characteristics
 
-![A small tree with pointy green leaves and smooth red bark growing on a rocky, dry hillside. There is blue sky in the background and other desert-type plants growing out of the sand and rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-arbxal_habitat.jpeg)
+![A small tree with pointy green leaves and smooth red bark growing on a rocky, dry hillside. There is blue sky in the background and other desert-type plants growing out of the sand and rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-arbxal_habitat.jpeg?itok=OMt7_E0m)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Texas: Brewster County| General veg. cts| Denyes 1956
 
 ## Botanical Description 
  
-![A shrubby tree with dusty green leaves, and pinkish stems, and smooth pale tan trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-arbxal_plant.jpeg)
+![A shrubby tree with dusty green leaves, and pinkish stems, and smooth pale tan trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-arbxal_plant.jpeg?itok=W_gD3ToY)
 
 Photo Credit
 

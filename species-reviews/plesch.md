@@ -52,7 +52,7 @@ feather moss, red-stemmed feather moss, Schreber's moss
 
 Schreber's big red stem moss is a widespread and common moss ranging from Greenland to Alaska south (principally in uplands) to North Carolina, Tennessee, Arkansas, South Dakota, Colorado and west to Washington, California and Oregon. It also is found in South America, Europe, and Asia [16,35]. It occurs in the Cordilleran Ranges and southward to Costa Rica, Columbia, Ecuador, Peru, and Patagonia [35]. Schreber's big red stem moss is new to Mexico, where it has been found on the Cofre de Perote Volcano [18].
 
-![Map of the United States and Canada showing widespread distribution of Schreber's big redstem moss.]({{ site.baseurl }}/assets/images/species-reviews/plesch_plesch_distribution_map.jpg)
+![Map of the United States and Canada showing widespread distribution of Schreber's big redstem moss.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/plesch_distribution_map.jpg?itok=jwFOrDn9)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Capsules may persist on stems for at least twelve months after dehiscing [24].
 
 Sexual reproduction: Schreber's big red stem moss is a dioecious, pleurocarpous (producing the sporophytes laterally from short, lateral, specialized branches rather that at the stem tip) moss. The spores are shed 9 to 12 months after fertilization [24]. The period of gametangial (structure containing the gametes) development in Schreber's big red stem moss is approximately 7 months for archegonia (female gametophyte) and 9 months for antheridia (male gametophtye). The timing of gametangial development in spring may be influenced by the duration or severity of the winter [24].
 
-![Close up image of Schreber's big red stem moss filaments supporting capsules, both reddish brown.]({{ site.baseurl }}/assets/images/species-reviews/plesch_plesch_capsules.jpg)
+![Close up image of Schreber's big red stem moss filaments supporting capsules, both reddish brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/plesch_capsules.jpg?itok=S-viTsD-)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Wikimedia image By Hermann Schachner.
 
 Schreber's big red stem moss capsules.
 
-![Close-up image of green spores from Schreber's beg red stem moss.]({{ site.baseurl }}/assets/images/species-reviews/plesch_plesch_spores.jpg)
+![Close-up image of green spores from Schreber's beg red stem moss.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/plesch_spores.jpg?itok=YS3SIt7p)
 
 Photo Credit
 

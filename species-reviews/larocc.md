@@ -110,7 +110,7 @@ Western larch has moderate to high resistance to wind throw because its root sys
 
 ## Plant Communities
 
-![A photo of a stand of conifers taken from the near distance, with some trees bright yellow and the rest dark green.]({{ site.baseurl }}/assets/images/species-reviews/feis-larocc_fallstand.jpg)
+![A photo of a stand of conifers taken from the near distance, with some trees bright yellow and the rest dark green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-larocc_fallstand.jpg?itok=AlMXZaPn)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ Western larch is not considered a climax species, but it is a long-lived early s
 
 ## Botanical Description
 
-![A photo of pole-aged trees growing in a somewhat open stand with a grassy understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-larocc_youngstand.jpg)
+![A photo of pole-aged trees growing in a somewhat open stand with a grassy understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-larocc_youngstand.jpg?itok=9P3eAEaP)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Clusters of 15 to 30 slender, soft, spirally-arranged needles 1 to 2 inches (2.5
 
 Male western larch cones are 0.4 inch (1 cm) long [71,157]. Ovulate cones are papery, 1 to 1.5 inches long (2.5-3.5 cm) and 0.5 to 0.6 inch (1.3-1.6 cm) wide with long subtending bracts [12,50,71,72,157]. Seeds are 0.1 inch (3 mm) long with 0.2 inch (6 mm) wings [50,71,72,157].
 
-![A photo of a tree twig, with tight clusters of short needles along its length and two reddish cones growing partway down the twig. More branches and twigs are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-larocc_leaves_cone.jpg)
+![A photo of a tree twig, with tight clusters of short needles along its length and two reddish cones growing partway down the twig. More branches and twigs are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-larocc_leaves_cone.jpg?itok=fMEbtVXE)
 
 Photo Credit
 
@@ -258,7 +258,7 @@ In the absence of disturbance, shade tolerant associates form understories that 
 
 ## Immediate Fire Effects
 
-![A photo of several tall conifers in the foreground with no low branches, charred bark about a quarter of the way up their trunks, and green foliage on their top halves. Several younger trees in front appear to have been scorched for their entire height.]({{ site.baseurl }}/assets/images/species-reviews/feis-larocc_prescribedburn.jpg)
+![A photo of several tall conifers in the foreground with no low branches, charred bark about a quarter of the way up their trunks, and green foliage on their top halves. Several younger trees in front appear to have been scorched for their entire height.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-larocc_prescribedburn.jpg?itok=WVUrBZU2)
 
 Photo Credit
 
@@ -470,7 +470,7 @@ Though many insects and diseases can affect western larch, damage is usually mor
 
 Dwarf mistletoe (_Arceuthobium laricis_) is the most serious parasite that affects western larch. Diseases include sporadic needle blight (_Hypodermella laricis_), needlecast (_Meria laricis_), and root and stem rots [46,52,116,151].
 
-![A photo of a tree branch with tight clusters of needles. About half of the clusters are bright green and the other half are orange.]({{ site.baseurl }}/assets/images/species-reviews/feis-larocc_leafblight.jpg)
+![A photo of a tree branch with tight clusters of needles. About half of the clusters are bright green and the other half are orange.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-larocc_leafblight.jpg?itok=R1ulIFc2)
 
 Photo Credit
 

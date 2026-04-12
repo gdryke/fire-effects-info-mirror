@@ -41,7 +41,7 @@ The scientific name of sagebrush buttercup is _Ranunculus glaberrimus_ Hook. (Ra
  * _Ranunculus glaberrimus_ var. _ellipticus_ (Greene) Green, elliptical buttercup
  * _Ranunculus glaberrimus_ var. _glaberrimus_ , typical variety
 
-![A photo of a forb with delicate rounded green leaves and 3 five-petaled yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-rangla_plant.jpg)
+![A photo of a forb with delicate rounded green leaves and 3 five-petaled yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rangla_plant.jpg?itok=tPxvWT9M)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ shiny-leaved buttercup, early buttercup
 
 ## General Distribution
 
-![A map of the United States and Canada, with most western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-rangla_map.png)
+![A map of the United States and Canada, with most western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rangla_map.png?itok=-eokRl24)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ The main differences in appearance between the varieties are related to leaf sha
 
 ## Seasonal Development
 
-![A photo of a yellow flower with five shiny petals emerging from a gap in melting snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-rangla_season.jpg)
+![A photo of a yellow flower with five shiny petals emerging from a gap in melting snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rangla_season.jpg?itok=lGxs3lVP)
 
 Photo Credit
 

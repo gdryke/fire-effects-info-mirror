@@ -99,7 +99,7 @@ Western rattlesnake plantain also occurs with Alaska-cedar (Chamaecyparis nootka
 
 ## Botanical and Ecological Characteristics
 
-![Photo of western rattlesnake plantain raceme.]({{ site.baseurl }}/assets/images/species-reviews/feis-gooobl_flower.jpg)
+![Photo of western rattlesnake plantain raceme.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-gooobl_flower.jpg?itok=7HAZBQU0)
 
 Photo Credit
 

@@ -65,7 +65,7 @@ Western white pine occurs in the Pacific Northwest. The northern boundary of its
 
 Western white pine is restricted to climates characterized by dry summers and a predominance of winter precipitation [72]. The most extensive and best stands of western white pine are found in the river bottoms and less steep lower slopes of the Priest, Coeur d'Alene, St. Joe, and Clearwater River basins [72]. In British Columbia, western white pine is a minor species on moderately dry to wet, nutrient-medium to nutrient-rich sites in the maritime and submaritime climates [23]. Here, western white pine requires sites fairly rich in calcium and magnesium [25]. However, in the coastal Northwest, western white pine becomes abundant only on poor sites, where it can outcompete Douglas-fir (Pseudotsuga menziesii) and other conifers. It does well on unproductive, gravelly soils in the Puget Sound area and reportedly thrives at the edges of bogs on the Olympic Peninsula [1].
 
-![A photo of a large, tall pine tree with a thick trunk and plated bark growing out of bare, rocky ground. The tree is in an opening growing near some boulders, but there are many more conifer trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmot_habitat.jpg)
+![A photo of a large, tall pine tree with a thick trunk and plated bark growing out of bare, rocky ground. The tree is in an opening growing near some boulders, but there are many more conifer trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinmot_habitat.jpg?itok=UEgrX0NS)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Western white pine is a native, evergreen, long-lived (400+ years), monoecious t
 
 The root system consists of a taproot and lateral roots which can spread up to 26 feet (8 m). Most (75 percent) of the lateral roots are in the upper 24 inches (60 cm) of soil [11].
 
-![A close up photo of a pine tree's bunched green needles, large brown seed cones, and small yellow pollen cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinmot_cones.jpg)
+![A close up photo of a pine tree's bunched green needles, large brown seed cones, and small yellow pollen cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinmot_cones.jpg?itok=sWNAoe-s)
 
 Photo Credit
 

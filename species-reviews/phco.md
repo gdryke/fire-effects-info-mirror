@@ -34,7 +34,7 @@ Tesky, Julie L. 1995. _Phasianus colchicus_ , ring-necked pheasant. In: Fire Eff
 
 ## Image Gallery
 
-![Photo of a brown bird with a colorful head and long, pointed tail feathers standing in field of cut, brown grass.]({{ site.baseurl }}/assets/images/species-reviews/phco_feis-PHCO.Photo_.jpg) Adult ring-necked pheasant. _Photo by Tom Koerner, U.S. Fish and Wildlife Service, Public Domain_
+![Photo of a brown bird with a colorful head and long, pointed tail feathers standing in field of cut, brown grass.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-PHCO.Photo_.jpg) Adult ring-necked pheasant. _Photo by Tom Koerner, U.S. Fish and Wildlife Service, Public Domain_
 
 Photo Credit: Photo by Tom Koerner, U.S. Fish and Wildlife Service, Public Domain
 
@@ -79,7 +79,7 @@ Thickets, interspersed with native grasslands and agricultural lands, are import
 
 ### Development and Reproduction
 
-![Photo of a brown bird with a colorful head and long, pointed tail feathers standing in field of cut, brown grass.]({{ site.baseurl }}/assets/images/species-reviews/phco_feis-PHCO.Photo_.jpg)
+![Photo of a brown bird with a colorful head and long, pointed tail feathers standing in field of cut, brown grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-PHCO.Photo_.jpg?itok=mMr_iIM5)
 
 Photo Credit
 

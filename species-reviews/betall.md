@@ -62,7 +62,7 @@ The range of yellow birch extends from southern Newfoundland, Cape Breton Island
 
 ## Site Characteristics
 
-![A photo of a river with a rocky cliff on one side, and a series of trees with yellow leaves growing out of the edge of the cliff and over the water. The cliff is covered in moss and other plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-betall_habitat.jpeg)
+![A photo of a river with a rocky cliff on one side, and a series of trees with yellow leaves growing out of the edge of the cliff and over the water. The cliff is covered in moss and other plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-betall_habitat.jpeg?itok=SykygAEG)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Publications listing yellow birch as a dominant or codominant species in vegetat
 
 ## Botanical Description
 
-![A photo of the bottom of a tree's trunk, with shining, golden bark. A root extends across the ground, with moss, ferns, and dead leaves on the ground around the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-betall_bark.jpg)
+![A photo of the bottom of a tree's trunk, with shining, golden bark. A root extends across the ground, with moss, ferns, and dead leaves on the ground around the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-betall_bark.jpg?itok=7r3DnlRY)
 
 Photo Credit
 

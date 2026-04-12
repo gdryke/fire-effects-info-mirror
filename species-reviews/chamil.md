@@ -48,7 +48,7 @@ fernbush, tansy bush
 
 ## Distribution
 
-![Photo of desert sweet plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-chamil_plant.jpg)
+![Photo of desert sweet plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-chamil_plant.jpg?itok=ciW76ONU)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ At upper elevations of the singleleaf pinyon (P. ,omophylla)-Utah juniper (J. os
 
 ## Botanical Description
 
-![Photo of flowering fernbush.]({{ site.baseurl }}/assets/images/species-reviews/feis-chamil_plant.jpeg)
+![Photo of flowering fernbush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-chamil_plant.jpeg?itok=6NKrcXVT)
 
 Photo Credit
 

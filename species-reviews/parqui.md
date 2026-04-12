@@ -34,7 +34,7 @@ Coladoanto, Milo. 1991. _Parthenocissus quinquefolia_ , Virginia creeper. In: Fi
 
 ## Image Gallery
 
-![A photo of a leafy vine growing across a rooftop. Leaves are divided into five leaflets.]({{ site.baseurl }}/assets/images/species-reviews/feis-parqui_hero.jpg) Virginia creeper growing in Maryland (CC BY 4.0). _Photo by Chesapeake, some rights reserved._
+![A photo of a leafy vine growing across a rooftop. Leaves are divided into five leaflets.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-parqui_hero.jpg) Virginia creeper growing in Maryland (CC BY 4.0). _Photo by Chesapeake, some rights reserved._
 
 Photo Credit: Photo by Chesapeake, some rights reserved.
 
@@ -87,7 +87,7 @@ Common associates include southern magnolia (_Magnolia grandiflora_), greenbrier
 
 Virginia creeper is a deciduous liana that climbs by tendrils to a height of 60 feet (18 m). The leaves are palmately compound, containing five leaflets, and have acuminate tips [29,32]. The twigs are orange brown, finely pubescent with pinnately branched tendrils ending in adhesive discs. The fruit is a dark purple berry containing four seeds. The flowers are green, perfect, and borne in panicles of compound cymes [13,27].
 
-![A photo of a leafy vine growing across a rooftop. Leaves are divided into five leaflets.]({{ site.baseurl }}/assets/images/species-reviews/feis-parqui_hero.jpg)
+![A photo of a leafy vine growing across a rooftop. Leaves are divided into five leaflets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-parqui_hero.jpg?itok=Gljbz0Bf)
 
 Photo Credit
 

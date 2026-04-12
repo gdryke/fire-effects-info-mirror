@@ -66,7 +66,7 @@ Snow geese inhabit tundra communities and wetlands composed of cattail (Typha sp
 
 ## Biological Characteristics
 
-![Snow goose flock.]({{ site.baseurl }}/assets/images/species-reviews/feis-ance_flock.jpg)
+![Snow goose flock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ance_flock.jpg?itok=27eVQ6lH)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Snow goose flock.
  * Fledge- 42 days
  * Maturity- 2 years but often not successful nesters until 3 years [7,13,16]
 
-![Blue color phase of the snow goose.]({{ site.baseurl }}/assets/images/species-reviews/feis-ance_bluephase.jpg)
+![Blue color phase of the snow goose.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ance_bluephase.jpg?itok=Kl6xy9mB)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Snow geese feed primarily on emergent marsh vegetation. Some species include sal
 
 Snow geese prefer coastal lagoons and marshes, agricultural land and adjacent prairies, tidal flats, estuaries, and tundra areas [15]. They roost in large flocks on dry, flat land on wintering grounds and feed on inland lakes and marshes or large estuaries. During cold weather snow geese will roost in places with tall marsh vegetation, such as common reed (Phragmites australis) [15]. Sometimes geese create their own roost sites by grazing vegetation so low that they are able to make their own holes in the ground; these holes eventually turn into small ponds. Snow geese tend to feed on tidal flats and deltas that have the newest sediment deposits and where water is shallow (about 7.9 inches [20 cm] deep). They will move inland with flooding or cool, windy weather [15]. Lesser snow geese breed within 6 miles (10 km) of water in low tundra, while greater snow geese choose rockier sites on the lee side of mountains in wet tundra [16]. Snow geese often feed on agricultural land when the tide is in or when crops are just emerging [8].
 
-![White color phase of the snow goose.]({{ site.baseurl }}/assets/images/species-reviews/feis-ance_whitephase.jpg)
+![White color phase of the snow goose.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ance_whitephase.jpg?itok=O6ReRxMp)
 
 Photo Credit
 

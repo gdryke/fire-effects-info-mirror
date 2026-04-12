@@ -36,7 +36,7 @@ Meyer, Rachelle. 2009. _Potentilla hippiana_ , woolly cinquefoil. In: Fire Effec
 
 ## Taxonomy
 
-![Photo of a low growing, leafy green plant with a small, five-petaled yellow flower.]({{ site.baseurl }}/assets/images/species-reviews/pothip_feis-POTHIP_plant1.jpg)
+![Photo of a low growing, leafy green plant with a small, five-petaled yellow flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-POTHIP_plant1.jpg?itok=YR6Mh0uZ)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Sites with woolly cinquefoil are often open [32,37,48,53] (see Successional Stat
 
 ### Soils
 
-![Photo of a small plant with a few finely toothed leaves and a small cluster of yellow flowers at the end of a short stem. The plant is surrounded by small, fine grasses on a very rocky, sparsely vegetated soil.]({{ site.baseurl }}/assets/images/species-reviews/pothip_feis-POTHIP_site1.jpg)
+![Photo of a small plant with a few finely toothed leaves and a small cluster of yellow flowers at the end of a short stem. The plant is surrounded by small, fine grasses on a very rocky, sparsely vegetated soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-POTHIP_site1.jpg?itok=H7_SXQ3u)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Woolly cinquefoil is a perennial forb from 4 to 20 inches (10-50 cm) tall [1,12,21,35,44,75]. It has a stout, branched caudex [12,21,64,75] over a thick taproot [12]. Its basal leaves range from 1 to 7.5 inches long (2.5-19 cm) or more [75]. They are odd-pinnately divided, typically with 7 to 13 toothed leaflets [1,12,21,23,26,35,44,75] from 0.8 to 2.0 inches (2-5 cm) long [1,75]. The perfect flowers [1,12,75] occur in a branching cyme [1,26,64] and range from 5 to 9.5 mm wide [1,75]. Leaf pubescence is variable, ranging from almost hairless [44], to hirsute [1], sericeous [29,44], or tomentose [1,44,75]. In _Potentilla_ _hippiana_ var. _hippiana_ , the upper surface of the leaf may be less hairy than the underside [29,44]. Woolly cinquefoil produces numerous achenes [12,75] from 1.4 to 1.9 mm long [21,75].
 
-![Photo of woolly cinquefoil in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-pothip_plant_0.jpeg)
+![Photo of woolly cinquefoil in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pothip_plant_0.jpeg?itok=Kpxvjgwq)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ Photo by Craig Martin, iNaturalist.org, no rights reserved
 
 Woolly cinquefoil
 
-![Photo of a small green, leafy plant with purplish brown, fuzzy stems and small, five-petaled yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/pothip_feis-POTHIP_plant2.jpg)
+![Photo of a small green, leafy plant with purplish brown, fuzzy stems and small, five-petaled yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-POTHIP_plant2.jpg?itok=61h9htyr)
 
 Photo Credit
 
@@ -211,7 +211,7 @@ Woolly cinquefoil may grow faster on certain disturbed sites and in warm areas o
 
 Woolly cinquefoil is most often reported in open, mature, and climax communities but may occur in early-seral vegetation and communities that generally have closed canopies.
 
-![Photo of a cluster of leafy vegetation with a few, scattered small, yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/pothip_feis-POTHIP_cluster1.jpg)
+![Photo of a cluster of leafy vegetation with a few, scattered small, yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-POTHIP_cluster1.jpg?itok=Vs825cHo)
 
 Photo Credit
 

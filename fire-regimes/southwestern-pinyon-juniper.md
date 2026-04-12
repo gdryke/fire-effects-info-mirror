@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southwestern pinyon-juniper communities has
 
 ## Distribution
 
-![Image of a map of the southwestern United States showing the distribution of pinyon-juniper communities in Utah, Colorado, New Mexico, and Arizona.]({{ site.baseurl }}/assets/images/fire-regimes/southwestern-pinyon-juniper_feis-SW_P-J_FRR_map.jpg)
+![Image of a map of the southwestern United States showing the distribution of pinyon-juniper communities in Utah, Colorado, New Mexico, and Arizona.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-SW_P-J_FRR_map.jpg?itok=rvXPcGVK)
 
 Photo Credit
 

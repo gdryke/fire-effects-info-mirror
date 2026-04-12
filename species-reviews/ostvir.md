@@ -63,7 +63,7 @@ Hophornbeam is found from Prince Edward's Island to Nova Scotia west through Ont
 
 Hophornbeam grows on a wide variety of sites but is most common on dry-mesic and mesic valley bottoms and lower slopes. Best development occurs on loamy soils in ravines, on lower slopes, and on well-drained floodplains of major rivers. The lowest slope that it occupies is determined by its intolerance to flooding [25,29,31]. Soil pH ranges from 4.2 to 7.6 in the northern half of its range and 4.6 to 5.6 in the southern half. Elevation ranges from 250 to 750 feet (75-230 m) in Quebec to 5,000 feet (1,520 m) in the southern Appalachians, but the species is most common at elevations ranging from 2,800 to 3,200 feet (850-980 m) [2,23,41].
 
-![A photo of a rounded, spreading tree with many green, yellow, and orange pointed leaves. Many small brown fruits hang below the leaves all over the tree. The tree is surrounded by other, larger trees in a forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-ostvir_tree.jpg)
+![A photo of a rounded, spreading tree with many green, yellow, and orange pointed leaves. Many small brown fruits hang below the leaves all over the tree. The tree is surrounded by other, larger trees in a forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ostvir_tree.jpg?itok=IW-4Tdx2)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Hophornbeam most commonly occurs as a subordinate species in Maple (Acer spp.)-b
 
 ## Botanical Description
 
-![A close up photo of a tree's branch with green pointed leaves, and light tan hoplike fruits hanging down. The background is blurry green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-ostvir_fruit.jpg)
+![A close up photo of a tree's branch with green pointed leaves, and light tan hoplike fruits hanging down. The background is blurry green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ostvir_fruit.jpg?itok=KtjDv-iB)
 
 Photo Credit
 

@@ -80,7 +80,7 @@ Slender hairgrass grows best on fine-textured sandy or gravelly soils derived fr
 
 Slender hairgrass occurs in a wide variety of habitats including maple (_Acer_ spp.), aspen (_Populus_ spp.), fir-spruce (_Abies-Picea_ spp.), ponderosa pine (_Pinus ponderosa_), and lodgepole pine (_P. contorta_). It also occurs in alpine, subalpine forest, riparian forest, meadow, and coastal prairie communities [13,17,24,30,35].
 
-![A photo of a grassy field in front of tall trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-deselo_community.jpg)
+![A photo of a grassy field in front of tall trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-deselo_community.jpg?itok=eUP0qJZ_)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Species not previously mentioned but commonly associated with slender hairgrass 
 
 Slender hairgrass is a native, perennial bunchgrass. Culms are slender, erect, densely tufted, and usually 12 to 48 inches (30-120 cm) tall [11,15,25,35]. The leaves have flat or folded blades from 0.04 to 0.06 inch (1-1.5 mm) wide [11,25,35]. The panicle is narrow and from 4 to 12 inches (10-30 cm) tall [11,35].
 
-[![A photo of a grass panicle held by two fingers.]({{ site.baseurl }}/assets/images/species-reviews/feis-deselo_plant.jpg)Photo Credit Photo by Dan Antonaccio, iNaturalist (CC BY-NC 4.0). Panicle of slender hairgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a grass panicle held by two fingers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-deselo_plant.jpg?itok=2yR-_pQc)Photo Credit Photo by Dan Antonaccio, iNaturalist (CC BY-NC 4.0). Panicle of slender hairgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

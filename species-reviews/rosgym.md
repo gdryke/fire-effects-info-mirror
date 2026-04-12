@@ -34,7 +34,7 @@ Reed, William R. 1993. _Rosa gymnocarpa,_ dwarf rose. In: Fire Effects Informati
 
 ## Image Gallery
 
-![Photo of dwarf rose in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosgym_plant.jpeg) Dwarf rose. _Photo by Erin Springinotic, iNaturalist.org, no rights reserved._
+![Photo of dwarf rose in bloom.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-rosgym_plant.jpeg) Dwarf rose. _Photo by Erin Springinotic, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Erin Springinotic, iNaturalist.org, no rights reserved.
 
@@ -81,7 +81,7 @@ Common associates include dwarf Oregon grape (Mahonia nervosa), salal (Gaultheri
 
 ## Botanical Description
 
-![Photo of dwarf rose in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosgym_plant.jpeg)
+![Photo of dwarf rose in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-rosgym_plant.jpeg?itok=Sk2iWIOg)
 
 Photo Credit
 

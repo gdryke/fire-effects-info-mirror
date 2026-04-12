@@ -38,7 +38,7 @@ Anderson, Michelle D. 2001. _Ilex glabra_ , inkberry. In: Fire Effects Informati
 
 The currently accepted name of inkberry is _Ilex glabra_ (L.) Gray (Aquifoliaceae) [101].
 
-![A photo of the tops of leafy shrubs with white flowers, with some deadwood in the shrubs and trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilegla_plant.jpg)
+![A photo of the tops of leafy shrubs with white flowers, with some deadwood in the shrubs and trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ilegla_plant.jpg?itok=3iMR0d2W)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Classifications identifying inkberry as a plant community dominant are as follow
 
 Inkberry is a native evergreen shrub [51,58,71,100,101,153,181,192] with dense foliage [100], growing 2 to 12 feet (0.5-4 m) tall [15,47,71,192] and 6.5 to 10 feet (2-3 m) wide [47]. The persistent leaves of inkberry are 1.2 to 1.8 inches (3-4.6 cm) long and 0.6 to 0.8 inch (1.5-2 cm) wide [71].
 
-![A close-up photo of clusters of 6-petaled white flowers growing from the stem of a shrub, leaves appear to grow singularly and somewhat haphazardly from the stem, and are leathery with a few knicks from their margins near their tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilegla_flowers.jpg)
+![A close-up photo of clusters of 6-petaled white flowers growing from the stem of a shrub, leaves appear to grow singularly and somewhat haphazardly from the stem, and are leathery with a few knicks from their margins near their tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ilegla_flowers.jpg?itok=msGIR5JY)
 
 Photo Credit
 
@@ -212,7 +212,7 @@ Inkberry survives fire by sprouting from the root crown and rhizomes [1,29,68,81
 
 ## Plant Response to Fire
 
-![A photo of several leafy stems growing, with charred small woody debris and pine needles behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilegla_sprout.jpg)
+![A photo of several leafy stems growing, with charred small woody debris and pine needles behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ilegla_sprout.jpg?itok=PiA9lHNT)
 
 Photo Credit
 

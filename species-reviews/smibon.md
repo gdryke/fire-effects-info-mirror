@@ -46,7 +46,7 @@ The currently accepted scientific name for saw greenbrier is _Smilax bona-nox_ L
 
 Throughout this write-up, the term 'greenbrier' will be used to refer to cases where other _Smilax_ species are treated with saw greenbrier, or where _Smilax_ species are undifferentiated.
 
-![A close-up photo of spotted green leaves with stiff prickles growing around leaf margins and along stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-smibon_hero.jpg)
+![A close-up photo of spotted green leaves with stiff prickles growing around leaf margins and along stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-smibon_hero.jpg?itok=cnxvoWnV)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Saw greenbrier occurs in a wide variety of habitat and community types, and is n
 
 Saw greenbrier is a native, evergreen [8] to semievergreen [16] or deciduous [7], rhizomatous liana up to 26 feet (8 m) in length [12]. The quadrate stems and branches have scattered to numerous stiff prickles [7,12]. There are two forms of rhizomes: ligneous, thickened, knotty tubers 0.8 to 2.4 inches (2-6 cm) thick in clusters up to 7.9 inches (20 cm) across [23], and more slender rhizomes which give rise to the erect stems [7,12,16,23]. The inflorescence is an umbel borne on an axillary peduncle. The fruit is a one-seeded drupe [30].
 
-![A photo of woody tubers with aboveground stems and belowground roots attached.]({{ site.baseurl }}/assets/images/species-reviews/feis-smibon_belowgroundstructure.jpg)
+![A photo of woody tubers with aboveground stems and belowground roots attached.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-smibon_belowgroundstructure.jpg?itok=ZafvFq0T)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Saw greenbrier flowers from April to May [17,19,30], April to June [41], or May 
 
 Saw greenbrier reproduces by seed and by rhizomes. The seeds are animal dispersed and can be carried long distances by birds [8].
 
-![A photo of a leafy vine growing amongst the leaves of a tree and shrubs. The vine has dense clusters of dark purple berries growing along it.]({{ site.baseurl }}/assets/images/species-reviews/feis-smibon_fruits.jpg)
+![A photo of a leafy vine growing amongst the leaves of a tree and shrubs. The vine has dense clusters of dark purple berries growing along it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-smibon_fruits.jpg?itok=MOKgwK3B)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Gambel oak communities has not yet been pub
 
 ## Distribution
 
-![A map showing the distribution of Gambel oak communities in the southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/gambel-oak_feis-gambel_oak_locator2.jpg)
+![A map showing the distribution of Gambel oak communities in the southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-gambel_oak_locator2.jpg?itok=ot2XhdNL)
 
 Photo Credit
 

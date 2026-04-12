@@ -45,7 +45,7 @@ The currently accepted scientific name of pipsissewa is _Chimaphila umbellata_ (
  * _Chimaphila umbellata_ subsp. _domingensis_(S.F. Blake) Dorr (Dominican Republic) [84]
  * _Chimaphila umbellata_ subsp. _mexicana_ (DC.) Hulten (Mexico) [41]
 
-![A photo of a low shrub with serrated dark green leaves and erects stems topped by clusters of pink, drooping flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-chiumb_flower.jpeg)
+![A photo of a low shrub with serrated dark green leaves and erects stems topped by clusters of pink, drooping flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chiumb_flower.jpeg?itok=E7BD7LZh)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Pipsissewa is a circumboreal species that is widely distributed in the northern 
 
 Pipsissewa is found in a wide variety of soils and soil moisture regimes. It most commonly occurs in mixed woods and coniferous forests [17,24,35,38,44] on dry, well-drained, rocky or sandy soils [7,18,24,26]. In coastal regions of British Columbia, pipsissewa is an indicator of dry to very dry, nutrient-poor soils in montane boreal, temperate, and cool mesothermal climates. Its occurrence decreases with increasing elevation and precipitation, and increases with continentality [47]. In Ontario, pipsissewa most often occurs on sandy or rocky soil on well-drained sites, on gravel terraces, and in jack pine (_Pinus banksiana_) barrens [70]. In red pine (_P. resinosa_)-white pine (P. strobus) forests of Voyageurs National Park, Minnesota, pipsissewa is found on dry, shallow, well-drained, nutrient poor to medium loamy sand to sandy loam soils [51]. In the nearby Boundary Waters Canoe area, pipsissewa is found on shallow, sandy soils to deep soils with a high clay content [59].
 
-![A photo of a low shrub with whrols of dark green leaves and erect stems with clusters of fruits at their ends. Conifer needles and several logs cover the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-chiumb_moreplants.jpg)
+![A photo of a low shrub with whrols of dark green leaves and erect stems with clusters of fruits at their ends. Conifer needles and several logs cover the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chiumb_moreplants.jpg?itok=gWxiq7Yy)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Associated species are well described for the Northwest and include baldhip rose
 
 Pipsissewa is a native evergreen low shrub or perennial rhizomatous herb. The woody stems are usually 4 to 12 inches (10-30 cm) tall and the leathery, whorled leaves are sharply serrate. The fertile stems are generally erect and may have 2 to 15 flowers. Fruits are depressed, globose capsules which often persist through the winter [25,39,57,70,72,82].
 
-![A photo of low clusters of serrated green leaves, with brownish erect stems topped by the previous year's fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-chiumb_plants.jpeg)
+![A photo of low clusters of serrated green leaves, with brownish erect stems topped by the previous year's fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chiumb_plants.jpeg?itok=DxLxHmaj)
 
 Photo Credit
 

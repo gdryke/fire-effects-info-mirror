@@ -42,7 +42,7 @@ The scientific name of sixweeks grass is _Vulpia octoflora_ (Walt.) Rydb. (Poace
  * _Vulpia octoflora_ (Walt.) Rydb. var. _hirtella_ (Piper) Henrard [49,57,68,97,112,133,134,137], hairy sixweeks grass
  * _Vulpia octoflora_ (Walt.) Rydb. var. _octoflora_ [49,57,77,97,112,133,134,137], sixweeks grass
 
-![A photo of a small grass growing as a tuft with reproductive spikes longer than the short stems. The substrate is large, pale granules. A ruler is behind the grass showing centimeters. The grass is about 2 cm wide and slightly taller than it is wide.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuloct_plant.jpg)
+![A photo of a small grass growing as a tuft with reproductive spikes longer than the short stems. The substrate is large, pale granules. A ruler is behind the grass showing centimeters. The grass is about 2 cm wide and slightly taller than it is wide.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vuloct_plant.jpg?itok=Ejqj1wM4)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ six-weeks grass, common sixweeks grass, eight-flower sixweeks grass, sixweeks fe
 
 Sixweeks grass is widely distributed in North America, occurring from British Columbia east to Quebec and south to Baja California Norte, Mexico, the Texas panhandle, and central Florida [111,134,232,240]. Of the varieties, slender sixweeks grass is most common in the northern United States and southern Canada, although its distribution extends to the southern United States. Hairy sixweeks grass occurs in the western United States, Baja California, and Florida. The typical variety (_V. octoflora_ var. _octoflora_) is most common in the Southeast but occurs across southwestern Canada and all of the United States except the extreme Northeast [111,134]. Grass Manual on the Web provides a map of sixweeks grass's distribution in Canada and the United States. Plants database provides distributional maps of sixweeks grass and its varieties in the United States.
 
-![A photo of short grasses growing mostly as individual stems on moist ground with some litter. A few small forbs are interspersed with the grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuloct_plants.jpg)
+![A photo of short grasses growing mostly as individual stems on moist ground with some litter. A few small forbs are interspersed with the grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vuloct_plants.jpg?itok=nRt4PXpN)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Baja California| low elevations [240]
  
 ### Soils
 
-![A photo of tiny grasses growing as tufts in a sandy substrate. Small forbs, including blazingstar and woolly sunflower, grow with the grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuloct_soil.jpg)
+![A photo of tiny grasses growing as tufts in a sandy substrate. Small forbs, including blazingstar and woolly sunflower, grow with the grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vuloct_soil.jpg?itok=ENGodgF7)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ Sixweeks grass is not usually named as a dominant species in vegetation classifi
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for species identification are available (e.g. [86,97,134,176,245]). Lonard [134] provides a detailed key for distinguishing the varieties.
 
-![A photo of short tufts of bright green grass, each with several reproductive spikes, growing in a coarse substrate, with litter including small branches and smaller pieces on the left side of the photo and less litter on the right side of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuloct_tufts.jpg)
+![A photo of short tufts of bright green grass, each with several reproductive spikes, growing in a coarse substrate, with litter including small branches and smaller pieces on the left side of the photo and less litter on the right side of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vuloct_tufts.jpg?itok=GyPnUzFe)
 
 Photo Credit
 

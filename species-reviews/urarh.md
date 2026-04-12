@@ -34,7 +34,7 @@ Snyder, S. A. 1991. _Ursus arctos horribilis_ , grizzly bear. In: Fire Effects I
 
 ## Image Gallery
 
-![A grizzly bear amongst brightly colored autumn vegetation in Denali National Park and Preserve.]({{ site.baseurl }}/assets/images/species-reviews/urarh_feis-uramh_grizzly_denali.jpg) A grizzly bear in Denali National Park and Preserve. _Photo by Jean-Pierre Lavoie and courtesy of Wikimedia Commons with some rights reserved (CC BY-SA 3.0)._
+![A grizzly bear amongst brightly colored autumn vegetation in Denali National Park and Preserve.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-uramh_grizzly_denali.jpg) A grizzly bear in Denali National Park and Preserve. _Photo by Jean-Pierre Lavoie and courtesy of Wikimedia Commons with some rights reserved (CC BY-SA 3.0)._
 
 Photo Credit: Photo by Jean-Pierre Lavoie and courtesy of Wikimedia Commons with some rights reserved (CC BY-SA 3.0).
 

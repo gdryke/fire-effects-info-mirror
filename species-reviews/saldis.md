@@ -103,7 +103,7 @@ The most typical pussy willow habitats include seral communities that dominate a
 
 ## Botanical and Ecological Characteristics
 
-![Photo showing green pussy willow foliage.]({{ site.baseurl }}/assets/images/species-reviews/feis-saldis_foliage.jpeg)
+![Photo showing green pussy willow foliage.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-saldis_foliage.jpeg?itok=mQmoFd57)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Pussy willow branches and leaves. ([CC BY-NC](<https://creativecommons.org/licen
 
 ## Botanical Description
 
-![Photo of yellow pussy willow catkins on branch tip. ]({{ site.baseurl }}/assets/images/species-reviews/feis-saldis_blooms.jpg)
+![Photo of yellow pussy willow catkins on branch tip. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-saldis_blooms.jpg?itok=94926dDo)
 
 Photo Credit
 

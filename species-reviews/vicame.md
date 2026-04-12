@@ -62,7 +62,7 @@ American vetch is widely distributed across North America. It occurs from centra
 
 ## Site Characteristics
 
-![A dusty green trailing plant with pink/purple flowers at the tip growing on a sunny forest floor surrounded by dry brown pine needles and bleached dead wood.]({{ site.baseurl }}/assets/images/species-reviews/feis-vicame_habitat.jpg)
+![A dusty green trailing plant with pink/purple flowers at the tip growing on a sunny forest floor surrounded by dry brown pine needles and bleached dead wood.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-vicame_habitat.jpg?itok=lnGYmOhj)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Some common forb associates of American vetch include western yarrow (Achillea m
 
 American vetch is a native rhizomatous, single-stemmed ascending or climbing perennial forb up to 30 inches (75 cm) tall [35]. The inflorescence is a raceme with up to 10 flowers that are 0.5 to 1.5 inches (1.25-3.75 cm) long, each producing a pod 1 to 1.5 inches (2.5-3.75 cm) long and containing two to several pealike seeds [32,35,36]. American vetch has a moderate to deeply branched taproot which reaches a maximum depth of about 40 inches (100 cm) [37]. It has strong drought tolerance [35].
 
-![A trailing green plant with three small pink flowers, small oval leaves, and tendrils extending into the air. The background is grassy and the plant is in the sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-vicame_plant.jpg)
+![A trailing green plant with three small pink flowers, small oval leaves, and tendrils extending into the air. The background is grassy and the plant is in the sun.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-vicame_plant.jpg?itok=BVtHa73X)
 
 Photo Credit
 

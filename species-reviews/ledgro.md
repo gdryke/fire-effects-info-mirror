@@ -63,7 +63,7 @@ Nature Serve Explorer provides a distributional map of bog Labrador tea.
 
 ## Site Characteristics
 
-![Photo showing patch of bog Labrador tea growing in L'Anse aux Meadow, Newfoundland, Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-ledgro_habitat.jpeg)
+![Photo showing patch of bog Labrador tea growing in L'Anse aux Meadow, Newfoundland, Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ledgro_habitat.jpeg?itok=sCI_T203)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ The lists in the Appendix (table A1) illustrate bog Labrador tea's overstory ass
 
 ## Botanical Description
 
-![Photo showing white blossoms of bog Labrador tea.]({{ site.baseurl }}/assets/images/species-reviews/feis-ledgro_hero.jpeg)
+![Photo showing white blossoms of bog Labrador tea.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ledgro_hero.jpeg?itok=3Y06ZUlw)
 
 Photo Credit
 
@@ -257,7 +257,7 @@ Bog Labrador tea clonal growth by layering is extensive, and sprout production i
 
 ## Successional Status
 
-![Photo showing bog Labrador tea after a fire.]({{ site.baseurl }}/assets/images/species-reviews/ledgro_feis-burn_ledgro.jpg)
+![Photo showing bog Labrador tea after a fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-burn_ledgro.jpg?itok=XHXUe3Sn)
 
 Photo Credit
 

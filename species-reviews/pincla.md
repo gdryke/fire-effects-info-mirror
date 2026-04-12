@@ -81,7 +81,7 @@ Florida| General forest community types| Waggoner 1975
 
 ## Botanical Description 
  
-[![A photo of a short, round, shrubby pine tree with branches all the way to the ground. The tree is growing on sand, in a sunny open area with some scattered small shrubs and grasses, and a few tall pine trees in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincla_habitat.jpeg)Photo Credit Photo by Steven Kistler, iNaturalist.org, CC BY-NC 4.0. Sand pine, Big Lagoon State Park, Escambia Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a short, round, shrubby pine tree with branches all the way to the ground. The tree is growing on sand, in a sunny open area with some scattered small shrubs and grasses, and a few tall pine trees in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pincla_habitat.jpeg?itok=OZvK6e1n)Photo Credit Photo by Steven Kistler, iNaturalist.org, CC BY-NC 4.0. Sand pine, Big Lagoon State Park, Escambia Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sand pine is a small, narrow, evergreen conifer with a dense, pointed crown of highly divided branches. Sand pines grown on productive sites attain heights of 66 feet (20 m) and diameters of 18 to 20 inches (45-50 cm), but smaller trees are more common [1,16]. Sand pine rarely reaches 100 years in age. Individuals can be gnarled, leaning, or stunted. The thin gray bark is fibrous and brittle, and cones have short, stout spines [10]. Seedlings grown in sand have a fine root system with numerous laterals.
 
@@ -95,7 +95,7 @@ Flower buds form in early summer and become visible by early autumn. The Ocala v
 
 ## Regeneration Processes
 
-[![A close up photo of a pine tree's round, brown, woody, open cones. They are surrounded by long, thin, light green needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincla_cones.jpeg)Photo Credit Photo by Sean Patton, iNaturalist.org, CC BY-NC 4.0. Sand pine with open cones, Sarasota Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a pine tree's round, brown, woody, open cones. They are surrounded by long, thin, light green needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pincla_cones.jpeg?itok=gw8aEOhH)Photo Credit Photo by Sean Patton, iNaturalist.org, CC BY-NC 4.0. Sand pine with open cones, Sarasota Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 **Seed production and dissemination:** Sand pine is monoecious. Trees can begin producing cones at 5 years of age [1] and can form two or three whorls of cones per year [7,12]. The Ocala variety produces an abundant cone crop almost every year. Ocala cones are predominantly serotinous, although 20 percent or more of the individuals in Ocala stands may have at least some open cones [16]. The closed cones persist in the crown for 10 or more years [10]. The Choctawhatchee variety has mostly nonserotinous cones that open when mature. A good cone crop occurs every 4 to 6 years. The winged seeds of both varieties are dispersed short distances by wind [1,10].
 
@@ -121,7 +121,7 @@ Sand pine is killed by moderate- to high-severity fires [16]. Low-severity groun
 
 ## Fire Adaptations
 
-[![A close up photo of a pine tree's trunk, with plated, scaly, brown to tan bark. The background is blurry light green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincla_bark.jpg)Photo Credit Photo by Christopher J. Earle, iNaturalist.org, CC BY-NC 4.0. Bark of a mature sand pine, Polk Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a pine tree's trunk, with plated, scaly, brown to tan bark. The background is blurry light green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pincla_bark.jpg?itok=ercYrYPk)Photo Credit Photo by Christopher J. Earle, iNaturalist.org, CC BY-NC 4.0. Bark of a mature sand pine, Polk Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sand pine is classified as fire-resistant because it regenerates profusely through seeds after fire. Mature trees have a low tolerance to fire because of thin bark [14].
 

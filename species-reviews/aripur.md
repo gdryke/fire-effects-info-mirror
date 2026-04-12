@@ -78,7 +78,7 @@ Purple threeawn is distributed from Iowa and Minnesota west to British Columbia 
 
 ## Site Characteristics
 
-[![A bunchgrass growing on red, rocky soil with bluffs visible in the background and widely-spaced shrubs with bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-aripur_habitat2.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Purple threeawn growing in Carbon County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A bunchgrass growing on red, rocky soil with bluffs visible in the background and widely-spaced shrubs with bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-aripur_habitat2.jpeg?itok=0PkPylBU)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Purple threeawn growing in Carbon County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Purple threeawn is most common on coarse-grained, xeric soils [15,16]. In the Intermountain region, it often dominates grassland communities on gravelly or sandy soils [16,28]. Purple threeawn is also common on disturbed sites such as roadsides and railway rights-of-way [28]. In Colorado and the Southwest, purple threeawn is a relatively minor species generally confined to xeric sites. It is also described as a minor species in the Pacific Northwest, usually occurring on sandy and gravelly soils [16].
 
@@ -117,7 +117,7 @@ North-central Texas: Associates of Wright's and purple threeawn (_A. purpurea_ v
 
 ## Botanical Description
 
-[![A photo of a bunchgrass growing at the base of a shrub with gravelly, dry bare ground visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-aripur_habitat.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Fendler threeawn growing in the sagebrush steppe in Taos Gorge, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass growing at the base of a shrub with gravelly, dry bare ground visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-aripur_habitat.jpg?itok=oXWXsIn5)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Fendler threeawn growing in the sagebrush steppe in Taos Gorge, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Purple threeawn is a warm-season, native perennial bunchgrass [5,8,22,26]. It is a mid-grass, with 6- to 12-inch (15-30.5 cm) culms. Leaves primarily grow in basal tufts, but there are a few culm leaves. The inflorescence is a panicle. Florets have sharp-pointed lemmas with stiff, hairy calluses and three-parted awns. Awns are 1 to 5 inches (2.5-13 cm) long [15,25,56]. Roots are moderately deep. On widely scattered sites on short- and mixed-grass prairies from South Dakota to Kansas, Weaver [58] found that maximum depth of purple threeawn roots averaged 4 feet (1.2 m).
 
@@ -143,7 +143,7 @@ Seedlings rapidly grow deep roots. Greenhouse seedlings attained a primary root 
 
 ## Successional Status
 
-[![A photo of bunchgrasses growing with visible dry bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-aripur_plants.jpg)Photo Credit Photo by Daniel McNair, iNaturalist (CC BY 4.0). Purple threeawn plants growing in Pinal County, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of bunchgrasses growing with visible dry bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-aripur_plants.jpg?itok=COWePrYp)Photo Credit Photo by Daniel McNair, iNaturalist (CC BY 4.0). Purple threeawn plants growing in Pinal County, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Purple threeawn is seral on most sites but is a component of stable plant communities on some sites. It is one of the first grasses to establish on abandoned fields and other disturbed sites [25]. In creosotebush (_Larrea tridentata_) communities of southwestern Nevada, it was more common on disturbed sites than on undisturbed sites [20]. In eastern Washington, it invaded and dominated an abandoned roadway in a bluebunch wheatgrass-sand dropseed habitat type [31]. In northeastern Arizona, purple threeawn was one of the first grasses to colonize volcanic cinders [15].
 

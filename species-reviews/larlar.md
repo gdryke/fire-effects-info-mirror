@@ -65,7 +65,7 @@ Tamarack is distributed across most of northern North America. It occurs from Ne
 
 Tamarack is most commonly found on cold, wet to moist, poorly drained sites such as swamps, bogs, and muskegs [22,26,44]. It is also found along streams, lakes, swamp borders, and occasionally on upland sites. It becomes more common on drier sites in the northern portion of its range where it is found on ridges and benches and other upland locations [26]. In British Columbia, it grows as an upland tree on cool, moist north slopes as well as on wet organic sites [26]. In interior Alaska, tamarack is generally restricted to wet and cold sites underlain by shallow permafrost but occasionally grows in warmer, well-drained floodplains and upland forests dominated by white spruce (Picea glauca) [4].
 
-![A conifer tree with bright yellow needles growing from a small rock island in the middle of a calm, glassy lake. There are green conifers around the edge of the lake.]({{ site.baseurl }}/assets/images/species-reviews/feis-larlar_lake.jpg)
+![A conifer tree with bright yellow needles growing from a small rock island in the middle of a calm, glassy lake. There are green conifers around the edge of the lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-larlar_lake.jpg?itok=yak38oPN)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Quebec: St. Lawrence Valley| general veg. pas, cts| Dansereau 1959
 
 ## Botanical Description 
  
-![A close up photo of a conifer tree in front of a lake, with small brown cones hanging from the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-larlar_plant.jpg)
+![A close up photo of a conifer tree in front of a lake, with small brown cones hanging from the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-larlar_plant.jpg?itok=ZGvC80GB)
 
 Photo Credit
 

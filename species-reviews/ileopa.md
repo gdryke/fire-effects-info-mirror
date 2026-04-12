@@ -63,7 +63,7 @@ From the maritime forests of Massachusetts, American holly is scattered along th
 
 ## Site Characteristics
 
-![A tall, thin shrub/tree with spiky green leaves growing in the understory of a pine forest. There are not many other plants in the understory, it is mostly dry pine needles on open ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-ileopa_habitat.jpg)
+![A tall, thin shrub/tree with spiky green leaves growing in the understory of a pine forest. There are not many other plants in the understory, it is mostly dry pine needles on open ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ileopa_habitat.jpg?itok=J-GkjpYF)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ No entry.
 
 ## Botanical Description
 
-![A close-up photo of a woody plant with shiny, spiny leaves and bright red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-ileopa_plant.jpg)
+![A close-up photo of a woody plant with shiny, spiny leaves and bright red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ileopa_plant.jpg?itok=A0wcN57k)
 
 Photo Credit
 

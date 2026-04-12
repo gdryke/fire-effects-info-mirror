@@ -108,7 +108,7 @@ Bud sagebrush is a xeric plant occurring in many desert shrub communities. It is
 
 In the Surprise Valley of California, Young and others [40] list a community type of spiny hopsage (_Grayia spinosa_)/bud sagebrush/Indian ricegrass (_Achnatherum hymenoides_).
 
-![A photo of a bud sagebrush plant growing on red, rocky soil with bare ground between widely-spaced shrubs. Dried grass stems occur in sparse patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-picdes_plant.jpg)
+![A photo of a bud sagebrush plant growing on red, rocky soil with bare ground between widely-spaced shrubs. Dried grass stems occur in sparse patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-picdes_plant.jpg?itok=BMozzoVB)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Bud sagebrush occurs in several ecosystems. Its more common associates in some o
 
 ## Botanical and Ecological Characteristics
 
-![A close-up photo of a short, woody desert shrub with fuzzy, tightly clustered green leaves and ball-shaped yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-picdes_flowers.jpg)
+![A close-up photo of a short, woody desert shrub with fuzzy, tightly clustered green leaves and ball-shaped yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-picdes_flowers.jpg?itok=VeAzUGqA)
 
 Photo Credit
 

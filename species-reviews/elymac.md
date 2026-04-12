@@ -58,7 +58,7 @@ thickspike wheatgrass, thickspike wildrye, thick-spike wild-rye
 
 Tufted wheatgrass occurs in northwestern North America from subarctic Alaska east to the Yukon Territory and the Northwest Territories. It also occurs in eastern Siberia [6,10].
 
-![A map of the northwestern United States can Canada, with Alaska and several Canadian provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-elymac_distribution.jpg)
+![A map of the northwestern United States can Canada, with Alaska and several Canadian provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-elymac_distribution.jpg?itok=MzoIl3RM)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Distribution of tufted wheatgrass in North America.
 
 Tufted wheatgrass occurs on alluvial flats, riverbanks, sand and gravel bars, and less commonly on hillsides with good drainage and abundant moisture. It also occurs on coastal precipices, swales in willow woodlands, roadsides, and gravel banks [8,10,13,15].
 
-![A grass grows on gravel with bright pink flowers behind. A hillside and wispy cloudy in the background.]({{ site.baseurl }}/assets/images/species-reviews/elymac_elymac_community.jpeg)
+![A grass grows on gravel with bright pink flowers behind. A hillside and wispy cloudy in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/elymac_community.jpeg?itok=fqLpl_vU)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Tufted wheatgrass is not used in habitat type classifications. It occurs in ripa
 
 Tufted wheatgrass is a native, perennial grass. It is loosely tufted and sometimes forms short rhizomes. It grows from 15 to 30 inches (40-80 cm) tall. The culms are erect, and the spike is slender and narrow [6,10].
 
-[![A green grass growing on a reddish hillside with blue skies behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-elymac_habit.jpeg)Photo Credit Photo by Игорь Поспелов, iNaturalist (CC BY-NC 4.0) Tufted wheatgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A green grass growing on a reddish hillside with blue skies behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-elymac_habit.jpeg?itok=B5NOv0_i)Photo Credit Photo by Игорь Поспелов, iNaturalist (CC BY-NC 4.0) Tufted wheatgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -108,7 +108,7 @@ No entry.
 
 Tufted wheatgrass reproduces by seed, with seed set rates from 83 to 100 percent [8,9]. It is self-fertile [9].
 
-[![A close-up of a reproductive grass spike.]({{ site.baseurl }}/assets/images/species-reviews/feis-elymac_repro.jpeg)Photo Credit Photo by Mihail Knjasev, iNaturalist (CC BY-NC 4.0). Thickspike wheatgrass in fruit.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up of a reproductive grass spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-elymac_repro.jpeg?itok=SWPWFZDk)Photo Credit Photo by Mihail Knjasev, iNaturalist (CC BY-NC 4.0). Thickspike wheatgrass in fruit.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Vegetative reproduction occurs through rhizomes [6].
 

@@ -42,7 +42,7 @@ The currently accepted scientific name for golden currant is _Ribes aureum_ Purs
  * _Ribes aureum_ var. _gracillimum_ (Coville & Britt.) Jepson (golden currant)
  * _Ribes aureum_ var. _villosum_ DC. (fragrant golden currant, buffalo currant)
 
-![A photo of a leafy shrub with clusters of bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribaur_hero.jpg)
+![A photo of a leafy shrub with clusters of bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ribaur_hero.jpg?itok=9sqOm2Kp)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ In addition to the plant associations and cover types listed in preceding slots,
 
 Golden currant is a native, deciduous, rhizomatous shrub [53] growing from 3.3 to 10 feet (1-3 m) tall. Its numerous, stiff, erect branches are smooth-barked. The orbicular, three-lobed (three- to five-lobed for _Ribes aureum_ var. _villosum_) leaves are 0.24 to 1.9 inch (0.6-4.7 cm) long and 0.4 to 2.7 inches (1-6.7 cm) wide. Drooping racemes are five- to fifteen-flowered. Globose berries, 0.24 to 0.36 inch (6-9 mm) in diameter, contain numerous seeds [11,15,19,22].
 
-![A close-up photo of a cluster of yellow flowers at the end of a shrub's branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribaur_flower.jpg)
+![A close-up photo of a cluster of yellow flowers at the end of a shrub's branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ribaur_flower.jpg?itok=ZvaY3dsO)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Golden currant reproduces vegetatively by rhizomes [8,50]; it sprouts after cutt
 
 _Ribes_ spp. begin fruiting after 3 years [3]. Many seeds fall beneath the parent plant; they are also dispersed by birds and mammals. Fallen seeds may remain viable in the soil and duff for many years [45,46]. Seed germination is generally enhanced by scarification [1,45,46]; however, 63 percent germination was obtained in the laboratory by stratifying golden currant seeds at 28 and 36 degrees Fahrenheit (-2.2 and 2.2 deg C) for 60 days without scarification [34].
 
-![A photo of a shrub with somewhat sparse, lobed green leaves and dense clusters of yellow berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribaur_fruit.jpg)
+![A photo of a shrub with somewhat sparse, lobed green leaves and dense clusters of yellow berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ribaur_fruit.jpg?itok=NQmisKYD)
 
 Photo Credit
 

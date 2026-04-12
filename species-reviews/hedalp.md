@@ -36,7 +36,7 @@ Gucker, Corey L. 2007. _Hedysarum alpinum_ , alpine sweetvetch. In: Fire Effects
 
 ## Taxonomy
 
-![A photo of a bushy forb with bright pink flowers at the ends of upright stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-hedalp_habitat.jpg)
+![A photo of a bushy forb with bright pink flowers at the ends of upright stems.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-hedalp_habitat.jpg)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Alpine sweetvetch is a circumpolar species [1]. In North America, it is widely d
 
 The distribution of _Hedysarum alpinum_ var. _alpinum_ is not well described. Gillett and others [26] indicate that it occurs in Canada's Nunavut and Northwest Territories, and Thilenius [62] describes it on Alaska's Copper River Delta. This may not describe the entire range occupied by _H. alpinum_ var. _alpinum_.
 
-![A photo of the flowering stems of a low forb with bright pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-hedalp_hero.jpg)
+![A photo of the flowering stems of a low forb with bright pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hedalp_hero.jpg?itok=hrpBgmaQ)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Canada:
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [1,8,17,27,28]).
 
-![A close-up photo of bright pink flowers growing from a narrow green stem.]({{ site.baseurl }}/assets/images/species-reviews/hedalp_hedalp_flower_0_0.jpg)
+![A close-up photo of bright pink flowers growing from a narrow green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/hedalp_flower_0_0.jpg?itok=nzfpz9hK)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ Alpine sweetvetch flowers between June and August throughout its range [27,28]. 
 
 ## Regeneration Processes
 
-![A close-up photo of several stems with many slim green pods with constrictions between the seeds inside.]({{ site.baseurl }}/assets/images/species-reviews/feis-hedalp_legume.jpg)
+![A close-up photo of several stems with many slim green pods with constrictions between the seeds inside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hedalp_legume.jpg?itok=CoTyjKyV)
 
 Photo Credit
 

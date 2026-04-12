@@ -34,7 +34,7 @@ League, Kevin R. 2005. _Ceanothus cuneatus_ , buckbrush. In: Fire Effects Inform
 
 ## Introduction
 
-![Photo of the cut end of a narrow branch with elliptical, green leaves and short flowering branchlets with white flowers.]({{ site.baseurl }}/assets/images/species-reviews/ceacun_feis-CEACUN_FloweringTwig.jpg)
+![Photo of the cut end of a narrow branch with elliptical, green leaves and short flowering branchlets with white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CEACUN_FloweringTwig.jpg?itok=yWldBQck)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ California| San Diego| 10 inches (250 mm)| [77]
  
 Buckbrush occurs in chaparral vegetation types in California and Oregon and is commonly associated with poor, rocky soils [41,61]. Buckbrush is more frequently found growing on nonserpentine soils of sandstone origins than on serpentine soils [92]. However, buckbrush can be found on both types of soils and is considered an indicator species for field identification of serpentine soil conditions in California and Oregon [68].
 
-![Photo of a hilly landscape, with a large, round, gray-green shrub in the foreground of an open grassy area with scattered shrubs, and hills in the background with red soils, denser cover of shrubs, and scattered trees; all under a blue sky.]({{ site.baseurl }}/assets/images/species-reviews/ceacun_feis-CEACUN_RedHills.JPG)
+![Photo of a hilly landscape, with a large, round, gray-green shrub in the foreground of an open grassy area with scattered shrubs, and hills in the background with red soils, denser cover of shrubs, and scattered trees; all under a blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CEACUN_RedHills.JPG?itok=Sag6X1Q8)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ In California small populations of buckbrush are found on **inland dune** locati
 
 ## Botanical Description
 
-![Photo of a flowering shrub growing on a shrub-covered hillside.]({{ site.baseurl }}/assets/images/species-reviews/ceacun_feis-CEACUN_habitat.jpg)
+![Photo of a flowering shrub growing on a shrub-covered hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CEACUN_habitat.jpg?itok=vfxVSd2O)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ Buckbrush is an actinorrhizal plant that has the ability to fix atmospheric nitr
 
 ## Immediate Fire Effects
 
-![Photo of a flowering branch emerging from a hillside with a valley and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/ceacun_feis-CEACUN_Flowers.jpg)
+![Photo of a flowering branch emerging from a hillside with a valley and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CEACUN_Flowers.jpg?itok=OnJEZ-iE)
 
 Photo Credit
 

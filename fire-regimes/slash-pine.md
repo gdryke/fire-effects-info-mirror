@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for slash pine communities has not yet been pub
 
 ## Distribution
 
-![A map showing the distribution of slash pine communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/slash-pine_feis-slash_pine_locator.jpg)
+![A map showing the distribution of slash pine communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-slash_pine_locator.jpg?itok=BV6xXTHU)
 
 Photo Credit
 

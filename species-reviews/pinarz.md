@@ -36,7 +36,7 @@ Howard, Janet L. 2003. _Pinus arizonica_ , Arizona pine. In: Fire Effects Inform
 
 ## Taxonomy
 
-![Photo of Arizona pine branches with cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinarz_plant.jpg)
+![Photo of Arizona pine branches with cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinarz_plant.jpg?itok=T6rMjBoR)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ None
 
 ## General Distribution
 
-![Map of the southwestern United States showing the distribution of Arizona pine in extreme southern Arizona, New Mexico, and Texas.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinarz_map.png)
+![Map of the southwestern United States showing the distribution of Arizona pine in extreme southern Arizona, New Mexico, and Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinarz_map.png?itok=-VCQQcW1)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Climate is semiarid to arid with bimodal rainfall. Winter rains occur from Decem
 
 ## Plant Communities
 
-![Photo of Arizona pine on the Coconino National Forest.]({{ site.baseurl }}/assets/images/species-reviews/pinarz_feis-stand_pinarz.jpg)
+![Photo of Arizona pine on the Coconino National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-stand_pinarz.jpg?itok=_0FtLxwq)
 
 Photo Credit
 
@@ -221,7 +221,7 @@ Rocky Mountain Douglas-fir*| _Pseudotsuga menziesii_ var. _glauca_| 25-100 [9]
  
 ## Fire Management Considerations
 
-![Photo of Arizona pine underburn on the Coronado National Forest.]({{ site.baseurl }}/assets/images/species-reviews/pinarz_feis-rxfire_pinarz.jpg)
+![Photo of Arizona pine underburn on the Coronado National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rxfire_pinarz.jpg?itok=l0vBjAXW)
 
 Photo Credit
 

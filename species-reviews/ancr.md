@@ -92,7 +92,7 @@ Within the above associations, green-winged teal commonly inhabit wetland commun
 
 Common predators of green-winged teal include humans, skunks (Mephitis and Spilogale spp.), red foxes (Vulpes vulpes), raccoons (Pryon lotor), crows (Corvus spp.), and magpies (Pica spp.) [1,6].
 
-![A male and female green-winged teal pair.]({{ site.baseurl }}/assets/images/species-reviews/feis-ancr_pair.jpg)
+![A male and female green-winged teal pair.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ancr_pair.jpg?itok=AwNrAzB0)
 
 Photo Credit
 

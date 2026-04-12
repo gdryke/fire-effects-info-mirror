@@ -62,7 +62,7 @@ Black willow is found throughout the eastern United States, adjacent parts of Ca
 
 ## Site Characteristics
 
-![A photo of a tree with long, thin leaves hanging over a river. There are some caterpillar webs visible in the tree and the bank of the river is muddy. Many other trees and shrubs line the river's edge.]({{ site.baseurl }}/assets/images/species-reviews/feis-salnig_habitat.jpg)
+![A photo of a tree with long, thin leaves hanging over a river. There are some caterpillar webs visible in the tree and the bank of the river is muddy. Many other trees and shrubs line the river's edge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salnig_habitat.jpg?itok=W-fTYr1y)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Arkansas, Mississippi: Lower Mississippi Valley| cts| Shelford 1954
 
 ## Botanical Description
 
-![A close up photo of a shrub or tree with long, thin, pointed green leaves and long, curving yellowish catkins. The background shows more leaves, branches, and blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-salnig_plant.jpeg)
+![A close up photo of a shrub or tree with long, thin, pointed green leaves and long, curving yellowish catkins. The background shows more leaves, branches, and blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salnig_plant.jpeg?itok=CLrrtLWq)
 
 Photo Credit
 

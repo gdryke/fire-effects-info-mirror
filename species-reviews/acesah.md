@@ -65,7 +65,7 @@ The range of silver maple extends from New Brunswick to west to northern Michiga
 
 ## Site Characteristics
 
-![A photo of a large, broad, leafy tree growing on the edge of a lake or river. The surrounding vegetation is thick and lush.]({{ site.baseurl }}/assets/images/species-reviews/feis-acesah_habitat.jpeg)
+![A photo of a large, broad, leafy tree growing on the edge of a lake or river. The surrounding vegetation is thick and lush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acesah_habitat.jpeg?itok=CLBJAyRh)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Silver maples can live to 130 years or longer [16]. The national champion silver
 
 ## Seasonal Development
 
-![A close up photo of clusters of small, puffy white and yellow flowers growing along thin, bare branches. The background is blurry branches and blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-acesah_flowers.jpeg)
+![A close up photo of clusters of small, puffy white and yellow flowers growing along thin, bare branches. The background is blurry branches and blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acesah_flowers.jpeg?itok=3Atn8k5g)
 
 Photo Credit
 

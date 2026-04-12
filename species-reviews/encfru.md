@@ -56,7 +56,7 @@ brittlebush, bush encelia
 
 Button brittlebush occurs in the Mojave and Colorado deserts of southern California, westward to eastern San Diego County [16]. Its range extends eastward through central and southern Nevada to southern Utah and Arizona [11,16,26]. 
 
-![Photo of map distribution of button brittlebush in the United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfru_map.png)
+![Photo of map distribution of button brittlebush in the United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-encfru_map.png?itok=ztkfA70H)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Button brittlebush occurs as isolated individuals or in small groups on talus an
 
 ## Botanical Description
 
-![Photo of button brittlebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfru_plant_0.jpg)
+![Photo of button brittlebrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-encfru_plant_0.jpg?itok=rHydPBFe)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Flowering occurs from February to May in California [17] and from January to Sep
 
 ## Regeneration Processes
 
-![Photo of button brittlebush.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfru_plant.jpg)
+![Photo of button brittlebush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-encfru_plant.jpg?itok=j-Zw3fce)
 
 Photo Credit
 

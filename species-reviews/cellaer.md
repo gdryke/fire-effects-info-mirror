@@ -53,7 +53,7 @@ hackberry, palo blanco, western hackberry
 
 ## General Distribution
 
-![A map of the western United States and Canada with areas highlighted in green where netleaf hackberry occurs. Most highlighted areas are in the southwestern U.S. and northern Mexico, with scattered areas further south in Mexico and north into the Pacific Northwest.]({{ site.baseurl }}/assets/images/species-reviews/feis-cellaer_map.jpg)
+![A map of the western United States and Canada with areas highlighted in green where netleaf hackberry occurs. Most highlighted areas are in the southwestern U.S. and northern Mexico, with scattered areas further south in Mexico and north into the Pacific Northwest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cellaer_map.jpg?itok=_kxGU4ce)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ eastern Washington, northern Idaho| steppe hts| Daubenmire 1970a
 
 ## Botanical Description 
  
-![A photo looking up at the crown of a tree with light green pointed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-cellaer_tree.jpg)
+![A photo looking up at the crown of a tree with light green pointed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cellaer_tree.jpg?itok=zTWl_9A1)
 
 Photo Credit
 

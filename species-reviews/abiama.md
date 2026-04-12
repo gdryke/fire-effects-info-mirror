@@ -83,7 +83,7 @@ Overstory associates include noble fir (Abies procera), Alaska cedar (Chamaecypa
 
 ## Botanical Description
 
-![A photo of a mountain landscape with several tall, narrow, pyramidal conifer trees sticking up in the middle of the photo. The mountains in the background are jagged and rocky, with conifers on the lower parts.]({{ site.baseurl }}/assets/images/species-reviews/feis-abiama_habitat.jpeg)
+![A photo of a mountain landscape with several tall, narrow, pyramidal conifer trees sticking up in the middle of the photo. The mountains in the background are jagged and rocky, with conifers on the lower parts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abiama_habitat.jpeg?itok=xAQjQZ2O)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Fertilization occurs in early July, 4 to 5 weeks after pollination. In early Aug
 
 ## Regeneration Processes
 
-![A close up photo of the tip of a conifer tree with large, closed, gray-blue cones in a cluster. The tops of the cones are covered in sap. The background is blue sky and a forested hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-abiama_cones.jpeg)
+![A close up photo of the tip of a conifer tree with large, closed, gray-blue cones in a cluster. The tops of the cones are covered in sap. The background is blue sky and a forested hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abiama_cones.jpeg?itok=NYQGGtKx)
 
 Photo Credit
 

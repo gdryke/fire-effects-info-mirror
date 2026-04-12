@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Columbia Plateau grasslands and steppe comm
 
 ## Distribution
 
-![A map showing the distribution of Columbia Plateau grasslands and steppe communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-plateau-grasslands-and-steppe_feis-columbia_plateau_steppe_and_grassland_locator.jpg)
+![A map showing the distribution of Columbia Plateau grasslands and steppe communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-columbia_plateau_steppe_and_grassland_locator.jpg?itok=Jjj8S512)
 
 Photo Credit
 

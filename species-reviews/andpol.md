@@ -36,7 +36,7 @@ Taylor, Jane E. 2007. _Andromeda polifolia_ , bog rosemary. In: Fire Effects Inf
 
 ## Taxonomy
 
-![A photo of a rosemary plant with narrow, dark green leaves with a pale underside. Somewhat bell-shaped, bright white flowers grow in small, downward-facing clusters.]({{ site.baseurl }}/assets/images/species-reviews/feis-andpol_plant.jpg)
+![A photo of a rosemary plant with narrow, dark green leaves with a pale underside. Somewhat bell-shaped, bright white flowers grow in small, downward-facing clusters.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-andpol_plant.jpg?itok=ZFGUm17h)
 
 Photo Credit
 
@@ -170,7 +170,7 @@ Bog rosemary typically occurs in boreal and polar sphagnum (_Sphagnum_ spp.)- an
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification of bog rosemary are available (e.g. [42,49,50,69,92,100]).
 
-![A photo of a plant with narrow, straight, somewhat fleshy dark green leaves, slightly curved under at the edges and with pale undersides. Clusters of pink, circular bell-shaped flowers grow on stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-andpol_plant_0.jpg)
+![A photo of a plant with narrow, straight, somewhat fleshy dark green leaves, slightly curved under at the edges and with pale undersides. Clusters of pink, circular bell-shaped flowers grow on stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-andpol_plant_0.jpg?itok=xodkUqvu)
 
 Photo Credit
 

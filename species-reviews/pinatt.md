@@ -87,7 +87,7 @@ Publications listing knobcone pine as a dominant species are as follows:
 
 ## Botanical Description
 
-[![A close up photo of a conifer branch with sparse green needles and cones attached directly to the branch. Some cones are closed and pointed, some are open and round.]({{ site.baseurl }}/assets/images/species-reviews/pinatt_pinatt_cones.jpg)Photo Credit Photo by Christian Schwarz, iNaturalist.org, CC BY-NC 4.0 Knobcone pine branch with closed and open cones, Siskiyou County, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a conifer branch with sparse green needles and cones attached directly to the branch. Some cones are closed and pointed, some are open and round.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/pinatt_cones.jpg?itok=b0dA2NEV)Photo Credit Photo by Christian Schwarz, iNaturalist.org, CC BY-NC 4.0 Knobcone pine branch with closed and open cones, Siskiyou County, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Knobcone pine is a rapidly growing, native tree from 20 to 40 feet (6-12 m) tall and 13.5 to 23 inches (34-58 cm) in d.b.h. [13,41]. The crown is dense and broad when young, becoming open when mature. Trees typically have multiple trunks with thin bark [36,42]. Excavation of knobcone pine roots in the Santa Ana Mountains showed that vertical roots grew to bedrock in the shallow soil. Average root depth was 10.4 inches (26.2 cm) [41]. Roots in less restrictive sites are reported as "wide and deep" [36].
 
@@ -117,7 +117,7 @@ Knobcone pine is a shade-intolerant pioneer species [9,36,40]. Fire creates the 
 
 ## Immediate Fire Effects
 
-[![A photo of a stand of severely burned trees. All the trees are black and appear dead, and all have round, open cones attached to the trunk and stems. There are some live trees in the distance. The ground is ash.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinatt_postfire.jpeg)Photo Credit Photo by Ken Koll, iNaturalist.org, CC BY 4.0. Dead knobcone pines with open cones the spring after the 2020 CZU Lightning Complex fires in Santa Cruz County, CA.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a stand of severely burned trees. All the trees are black and appear dead, and all have round, open cones attached to the trunk and stems. There are some live trees in the distance. The ground is ash.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinatt_postfire.jpeg?itok=ZjnQLZk6)Photo Credit Photo by Ken Koll, iNaturalist.org, CC BY 4.0. Dead knobcone pines with open cones the spring after the 2020 CZU Lightning Complex fires in Santa Cruz County, CA.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Crown fire kills knobcone pine of all size classes and vaporizes the resin sealing their cones [13,41]. The effect of surface fires on mature trees is undocumented. The thin bark, however, probably provides little protection from all but low-severity surface fire. Saplings are killed by surface fire. Fire is not a threat to young trees, however, since the preceding stand-replacing fire has removed most of the fuel load [30]. Cones are extremely fire resistant and are seldom consumed by fire [41].
 
@@ -134,7 +134,7 @@ Fire creates seedbed conditions favorable for germination and seedling recruitme
 
 ## Plant Response to Fire
 
-![A photo of a hillside with many small conifers growing over almost the entire visible area. There are some tall, grey snags visible showing evidence of a previous fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinatt_regen.jpeg)
+![A photo of a hillside with many small conifers growing over almost the entire visible area. There are some tall, grey snags visible showing evidence of a previous fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinatt_regen.jpeg?itok=bYJubp09)
 
 Photo Credit
 

@@ -41,7 +41,7 @@ The currently accepted scientific name of white fir is _Abies concolor_ (Gord. &
  * _Abies concolor_ var. _concolor_ Rocky Mountain white fir
  * _Abies concolor_ var. _lowiana_ (Gord.) Lemm. California white fir
 
-![A photo of several conifers in the foreground and conifers densely growing in a drainage up the slope behind and growing more widely scattered across the open hillsides. The trees extend nearly to the top of the slope behind, but the top of the rocky ridgeline is treeless.]({{ site.baseurl }}/assets/images/species-reviews/feis-abicon_plant.jpg)
+![A photo of several conifers in the foreground and conifers densely growing in a drainage up the slope behind and growing more widely scattered across the open hillsides. The trees extend nearly to the top of the slope behind, but the top of the rocky ridgeline is treeless.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abicon_plant.jpg?itok=L3ofZXIX)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ California white fir, Rocky Mountain white fir
 
 White fir occurs from Oregon in the Blue Mountains and southern Cascade range, south throughout California and into the San Pedro de Mátir in northern Baja, California; west through parts of southern Idaho, to Wyoming; and south throughout the Colorado Plateau and southern Rocky Mountains in Utah and Colorado, and into the isolated mountain ranges of southern Arizona, New Mexico and northern Mexico [145,310]. A distributional map of white fir is available [here](<https://research.fs.usda.gov/feis/treedistributionmaps>).
 
-![A photo of a conifer with many cones clustered near the top of the tree, with rocky, snow-covered peaks behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-abicon_habitat.jpg)
+![A photo of a conifer with many cones clustered near the top of the tree, with rocky, snow-covered peaks behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abicon_habitat.jpg?itok=Y7wbeFCO)
 
 Photo Credit
 
@@ -207,7 +207,7 @@ Radial growth begins before height growth in white fir, and lasts longer. Height
 
 White fir reproduction is by seed, and it shows no tendency to reproduce by sprouting or layering. Cuttings can, however, be rooted with or without hormones [178]. White fir is monoecious. The male strobili are 0.2 to 0.4 inches (6-9 mm) long and are densely grouped on the underside of 1-year-old twigs about mid-crown. Female cones are 3 to 5 inches (7-12 cm) long and borne erect on 1-year-old branches, usually in the uppermost crown.
 
-![A close-up photo of a conifer, with green needles and clusters of small cones along the bottom of small branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-abicon_malecones1.jpg)
+![A close-up photo of a conifer, with green needles and clusters of small cones along the bottom of small branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abicon_malecones1.jpg?itok=krEMKjdf)
 
 Photo Credit
 
@@ -219,7 +219,7 @@ Male strobili grouped on the underside of white fir twigs ([CC BY-NC 4.0](<https
 
 Cone and seed production vary with tree size, age and dominance. White fir trees can begin bearing cones at 40 years and continue beyond 300 years [178]. The best producers are mature, healthy dominants in the 12 to 35 inch (30-89 cm) dbh range [120,178]. Cone production is higher on trees near openings [119] and on trees following release [178]. Immature trees can produce heavy seed crops, but their production is more erratic than that of mature trees [119,178]. Pole-sized trees in dense stands will not produce cones unless their leaders reach full sunlight. In mixed conifer forests of California only 4% of understory white fir between 3.6 and 7.5 inches (9.1-19 cm) in diameter produce cones [104]. In Oregon and California, heavy seed crops in white fir are borne on a 3- to 9- year cycle, with fair to good crops occurring every 2 to 5 years, and bumper crops every 5 to 9 years [178]. In the Rocky Mountains, medium to heavy seed crops are produced every 2 to 4 years [104]. Cone production patterns may be different on extreme sites [110,120,157,178]. Because cones are borne on the uppermost part of the crown, any top damage caused by insects, diseases or mechanical agents (e.g. wind and snow) directly reduces cone production. Cones produce about 185 to 295 seeds apiece [104,119]. Seed numbers can reach 600,000/acre (1.5 million/ha) or more where white fir is a site dominant [112,178], and as many as 220,000 where white fir is a minor overstory component [181].
 
-![A photo of a conifer treetop with cones with papery-looking layers.]({{ site.baseurl }}/assets/images/species-reviews/feis-abicon_cones.jpg)
+![A photo of a conifer treetop with cones with papery-looking layers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abicon_cones.jpg?itok=8VIf3YXT)
 
 Photo Credit
 
@@ -251,7 +251,7 @@ Once established, white fir grows best in full sun [178]. Shade-tolerant white f
 
 California white fir is a major climax component throughout the mixed conifer forests within its range [178,225]. White fir reproduces abundantly under conditions of dense shade, and it is an aggressive pioneer species as well [201]. Successional relationships of white fir are complicated by floristic differences over its large range of occurrence [188].
 
-![A photo of a somewhat young conifer with branches reach to the ground growing in between much taller conifers that lack branches near the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-abicon_shade.jpg)
+![A photo of a somewhat young conifer with branches reach to the ground growing in between much taller conifers that lack branches near the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abicon_shade.jpg?itok=aiHWPII6)
 
 Photo Credit
 

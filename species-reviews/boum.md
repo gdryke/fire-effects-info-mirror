@@ -69,7 +69,7 @@ In addition to quaking aspen stands [29,96,195], ruffed grouse in the West occur
 
 ## Botanical and Ecological Characteristics
 
-![A ruffed grouse on the snowy ground.]({{ site.baseurl }}/assets/images/species-reviews/boum_feis-BOUM_individual.jpg)
+![A ruffed grouse on the snowy ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-BOUM_individual.jpg?itok=VG15fbQJ)
 
 Photo Credit
 
@@ -158,7 +158,7 @@ Predation [5,104] is a commonly suggested driver of ruffed grouse population cyc
 
 Weather has also been suggested as a driver of ruffed grouse population cycles. Detrimental winter conditions in northern Minnesota resulted in low reproductive output by ruffed grouse the following spring [61]. Since there were too few recruits to replace ruffed grouse lost during the winter, the population declined. Based on ruffed grouse census data from 1927 to 1955 in the same area, an increase of 1 °F in maximum temperature in early July was associated with an increase in ruffed grouse density of 0.15 ruffed grouse/mile² the next April, while a 1 °F increase in maximum temperature in mid-February was associated with a decrease of 0.1 ruffed grouse/mile² the next April [117]. Winter predation can alter predicted effects of temperature. For instance, in 1961 high predation rates during winter undermined a potential increase from productive nesting the previous season [61].
 
-![A ruffed grouse chick on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/boum_feis-BOUM_chick.jpg)
+![A ruffed grouse chick on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-BOUM_chick.jpg?itok=xJI5iv0W)
 
 Photo Credit
 
@@ -261,7 +261,7 @@ Ruffed grouse may be limited to higher elevations in the South. Based on ruffed 
 
 ### Plant Associations Used as Habitat
 
-![An aspen forest with an open understory.]({{ site.baseurl }}/assets/images/species-reviews/boum_feis-BOUM_aspen-habitat.jpg)
+![An aspen forest with an open understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-BOUM_aspen-habitat.jpg?itok=sdas3xIc)
 
 Photo Credit
 

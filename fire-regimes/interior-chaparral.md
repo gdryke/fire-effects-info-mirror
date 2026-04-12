@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for interior chaparral communities has not yet 
 
 ## Distribution
 
-![A map showing the distribution of interior chaparral communities in the southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/interior-chaparral_feis-interior_chaparral_locator.jpg)
+![A map showing the distribution of interior chaparral communities in the southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-interior_chaparral_locator.jpg?itok=FbvuIkMk)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Howard, Janet L. 1992._Chrysolepis sempervirens_ , bush chinquapin. In: Fire Eff
 
 ## Image Gallery
 
-![Photo of bush chinquapin.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrsem_plants.jpg) Bush chinquapin. _Photo by Jesse Rorabaugh, iNaturalist.org, no rights reserved._
+![Photo of bush chinquapin.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-chrsem_plants.jpg) Bush chinquapin. _Photo by Jesse Rorabaugh, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Jesse Rorabaugh, iNaturalist.org, no rights reserved.
 
@@ -98,7 +98,7 @@ Herbaceous associates include bracken fern (_Pteridium aquilinum_), feather Solo
 
 ## Botanical Description
 
-![Photo of bush chinquapin.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrsem_plants.jpg)
+![Photo of bush chinquapin.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chrsem_plants.jpg?itok=Uz4X4Dnu)
 
 Photo Credit
 

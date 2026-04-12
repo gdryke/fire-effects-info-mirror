@@ -64,7 +64,7 @@ Saharan mustard, African mustard, Asian mustard
 
 ## General Distribution
 
-![Distribution of Sahara mustard. Yellow indicates distribution determined by literature. Blue indicates distribution determined by observations. Green indicates distribution indicated by both literature and observations.]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-eddmapswithlegend.jpg)
+![Distribution of Sahara mustard. Yellow indicates distribution determined by literature. Blue indicates distribution determined by observations. Green indicates distribution indicated by both literature and observations.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-eddmapswithlegend.jpg?itok=NU17h_y5)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ One analysis of herbarium records from North America suggested two lag phases an
  * United States: AZ, CA, NM, NV, TX, UT [68,78,111,214]
  * Mexico: Baja California, Baja California Sur [48], Sonora [48,138], Chihuahua [222], Toluca, and Puebla [225]
 
-![The current and potential distribution of Sahara mustard as of 2021. The current distribution is indicated by hash marks. The potential distribution is indicated by shades of red from low certainty of climatic suitability \(light red\) to very high certainty of climatic suitability \(dark red\).]({{ site.baseurl }}/assets/images/species-reviews/bratou_currentpotentialdistribution.jpg)
+![The current and potential distribution of Sahara mustard as of 2021. The current distribution is indicated by hash marks. The potential distribution is indicated by shades of red from low certainty of climatic suitability \(light red\) to very high certainty of climatic suitability \(dark red\).](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/currentpotentialdistribution.jpg?itok=bbI3m0pC)
 
 Photo Credit
 
@@ -172,7 +172,7 @@ In the El Pinacate and Gran Desierto de Altar Biosphere Reserve in Sonora, Mexic
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Identification keys are available for North America (e.g., [15,99,101,119,233]). Keys from outside North America are also available (e.g., [29,195,210]).
 
-![Sahara mustard rosette growing in bare, rocky soil.]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-rosette.jpg)
+![Sahara mustard rosette growing in bare, rocky soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-rosette.jpg?itok=HBQbMeiT)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Sahara mustard is an annual forb (e.g., [10,15,29,76,78,92,101,119,195]). In ear
 
 At the base, leaves and stems have dense, stiff hairs or bristles [10,64,76,146,150] (fig. 5) and basal leaves are densely hairy underneath [15,92,101,119]. Basal leaves are toothed and pinnately lobed [15,64], with up to 14 lobed pairs [10,64,78,92,101,195], which is more than most other mustards [64]. Basal leaves are up to 56 cm long [15,76,92,101,119,150] and 10 cm wide [101,229]. Leaves quickly reduce in size upward on the stems, so that in the inflorescence only minute bracts are present [15,29,150]. Upper leaves are not lobed [10].
 
-![Minute hairs on Sahara mustard stems and leaf.]({{ site.baseurl }}/assets/images/species-reviews/bratou_hairsatbase.jpg)
+![Minute hairs on Sahara mustard stems and leaf.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/hairsatbase.jpg?itok=0Chn2Eg8)
 
 Photo Credit
 
@@ -194,7 +194,7 @@ Image courtesy of Joseph M. DiTomaso, University of California - Davis, Bugwood.
 
 **Figure 5—** Hairs on Sahara mustard stems and leaf.
 
-![A Sahara mustard seed pod.]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-fruit.jpg)
+![A Sahara mustard seed pod.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-fruit.jpg?itok=lMBoCBlX)
 
 Photo Credit
 
@@ -362,7 +362,7 @@ Sahara mustard seedling mortality can be high during dry weather and lower durin
 
 Young Sahara mustard plants are intolerant of freezing temperatures. In Organ Pipe Cactus National Monument, Arizona, Sahara mustard seedlings were “killed off” by a hard freeze during mid-winter (S. Rutman, personal communication cited in [92]). Cold temperatures limit the distribution of Sahara mustard in North America [55]. For information on how weather affects Sahara mustard abundance, see Climate and Weather.
 
-![Sahara mustard plant established on bare ground. ]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-site.jpeg)
+![Sahara mustard plant established on bare ground. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-site.jpeg?itok=UMQcqBqF)
 
 Photo Credit
 
@@ -518,7 +518,7 @@ For detailed information, see the following publications: [18,37,87,215].
 
 ### Fire as a Control Agent
 
-![A June prescribed fire on a steep slope in a Sahara mustard stand.]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-rxfire.jpg)
+![A June prescribed fire on a steep slope in a Sahara mustard stand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-rxfire.jpg?itok=Ppa3e-VP)
 
 Photo Credit
 
@@ -596,7 +596,7 @@ The leaves, shoots, seeds, and oil can be consumed by humans [51,79,93]. The hig
 
 ## Impacts
 
-![Sahara mustard spreading across the landscape in Joshua Tree National Park.]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-landscape.jpg)
+![Sahara mustard spreading across the landscape in Joshua Tree National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-landscape.jpg?itok=e3w4Hu1d)
 
 Photo Credit
 
@@ -726,7 +726,7 @@ No matter what method is used to kill Sahara mustard plants (see Control), estab
 
 ## Management Under a Changing Climate
 
-![Distribution of the modeled future range \(about 2050\) of Sahara mustard in the United States. Orange is predicted expansion in range. Violet is predicted stability in range. Purple is predicted retraction in range.]({{ site.baseurl }}/assets/images/species-reviews/bratou_feis-futurerangewithlegend.png)
+![Distribution of the modeled future range \(about 2050\) of Sahara mustard in the United States. Orange is predicted expansion in range. Violet is predicted stability in range. Purple is predicted retraction in range.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-futurerangewithlegend.png?itok=zLHBsE3e)
 
 Photo Credit
 

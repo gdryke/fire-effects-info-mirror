@@ -50,7 +50,7 @@ alternate-leaved dogwood
 
 ## General Distribution
 
-![A map of the eastern U.S. with a large area of the east and northeast highlighted in green, where alternateleaf dogwood occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-coralt_map.jpg)
+![A map of the eastern U.S. with a large area of the east and northeast highlighted in green, where alternateleaf dogwood occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-coralt_map.jpg?itok=yYsjr8EO)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Common associates of alternateleaf dogwood include chokecherry (_Prunus virginia
 
 ## Botanical Description
 
-![A close up photo of a plant's wide, pointed leaves and two clusters of white flowers beginning to open. The background is dark.]({{ site.baseurl }}/assets/images/species-reviews/feis-coralt_flower.jpg)
+![A close up photo of a plant's wide, pointed leaves and two clusters of white flowers beginning to open. The background is dark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-coralt_flower.jpg?itok=EA3HzoZQ)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Alternateleaf dogwood flowers from May to July. The fruit ripens from July throu
 
 ## Regeneration Processes
 
-![A photo of a large shrub or small tree with lush green leaves and many white flowers. Tree trunks are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-coralt_habitat.jpg)
+![A photo of a large shrub or small tree with lush green leaves and many white flowers. Tree trunks are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-coralt_habitat.jpg?itok=4Em_KeBZ)
 
 Photo Credit
 

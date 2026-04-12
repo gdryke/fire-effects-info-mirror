@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for western alpine communities has not yet been
 
 ## Distribution
 
-![A map showing the distribution of western alpine communities across the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/western-alpine_feis-western_alpine_locator.jpg)
+![A map showing the distribution of western alpine communities across the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-western_alpine_locator.jpg?itok=xN5639Fx)
 
 Photo Credit
 

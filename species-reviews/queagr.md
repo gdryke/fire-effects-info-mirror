@@ -36,7 +36,7 @@ Steinberg, Peter D. 2002. _Quercus agrifolia_ , coastal live oak. In: Fire Effec
 
 ## Taxonomy
 
-![Photo of coastal live oak foliage.]({{ site.baseurl }}/assets/images/species-reviews/feis-queagr_plant.jpg)
+![Photo of coastal live oak foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-queagr_plant.jpg?itok=gn49Gxm9)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Classification systems describing communities where coast live oak is dominant a
 
 ## Botanical Description
 
-![Photo of coastal live oak acorn in the sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-queagr_acorn.jpg)
+![Photo of coastal live oak acorn in the sun.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-queagr_acorn.jpg?itok=Nu-PMrwn)
 
 Photo Credit
 

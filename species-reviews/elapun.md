@@ -34,7 +34,7 @@ Gucker, Corey L. 2011. _Elaeagnus pungens_ , thorny-olive. In: Fire Effects Info
 
 ## Introduction
 
-![A photo of a dense, somewhat viny shrub with tall vine-like stems emerging from the bulk of the shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-elapun_growthform.jpg)
+![A photo of a dense, somewhat viny shrub with tall vine-like stems emerging from the bulk of the shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-elapun_growthform.jpg?itok=GJ4Laph4)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Based on the little information available (as of February 2011), thorny-olive oc
 
 In Asia, thorny-olive is primarily reported in open areas or shrublands. The Flora of China indicates that thorny-olive occurs on open slopes, along roadsides, and in thickets [59]. In limestone areas of Skikoku, Japan, thorny-olive is common in _Quercus phillyraeoides-Pittoporum tobira_ scrub [61].
 
-![A photo of large, freely branched shrubs with somewhat viny stems growing in the understory of a deciduous forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-elapun_habitat.jpeg)
+![A photo of large, freely branched shrubs with somewhat viny stems growing in the understory of a deciduous forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-elapun_habitat.jpeg?itok=lV6Ltcny)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Because primary literature and original research on thorny-olive were generally 
 
 ## Botanical Description
 
-![A photo of a woody twig with green leaves with olive-like fruits growing from the stem and opposite, simple green leaves also growing along the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-elapun_fruit.jpg)
+![A photo of a woody twig with green leaves with olive-like fruits growing from the stem and opposite, simple green leaves also growing along the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-elapun_fruit.jpg?itok=8dtjdBoz)
 
 Photo Credit
 
@@ -246,7 +246,7 @@ Thorny-olive has been used as an herbal treatment for asthma and chronic bronchi
 
 Thorny-olive's growth rate and habit suggest that infestations could exclude native vegetation and restrict human and wildlife movements. Rapid thorny-olive growth has been reported by many [5,15,37]. One horticultural reference suggests that "fast" is an inadequate description of thorny-olive's growth rate [15], while another describes growth as "aggressive" and "rampant" [21]. Thorny-olive produces dense, thorny stems, which can climb into other vegetation. Dirr [15] described the thorny-olive growth form as "a genuine horror" and observed thorny-olive stems growing 30 feet (9 m) into nearby tree branches.
 
-![A photo of densely-growing, tall shrubs below power lines.]({{ site.baseurl }}/assets/images/species-reviews/feis-elapun_hedgerow.jpg)
+![A photo of densely-growing, tall shrubs below power lines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-elapun_hedgerow.jpg?itok=ThazDcEa)
 
 Photo Credit
 

@@ -141,7 +141,7 @@ Adult females form nanny groups or nursery bands with kids and 1- and 2-year-old
 
 Mother-offspring groups are the most common aggregation and persist after weaning and the birth of a new kid. On Caw Ridge, yearlings commonly associated with their mothers, and occasionally older offspring (2- and 3-year-olds) remained closely associated with their mothers. Females without a kid present were most likely to associate with their older offspring [34]. Nannies generally do not tolerate close proximity of unrelated young [19,34]. On Caw Ridge, although adult females preferentially associated with related young, they did not appear to preferentially associate with related adults. Thus, mountain goat bands consisted of both related and unrelated individuals [34]. Adult females associated more often with adult females of similar social rank than with individuals that were distant in the dominance hierarchy [23].
 
-![Nursery band in Jasper National Park.]({{ site.baseurl }}/assets/images/species-reviews/feis-oram_group.jpg)
+![Nursery band in Jasper National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-oram_group.jpg?itok=XynC2NtL)
 
 Photo Credit
 
@@ -211,7 +211,7 @@ Sources of mountain goat mortality include severe weather, predators, hunting, a
 
 Kid production appears to be negatively associated with winter severity and spring snow conditions, particularly in increasing populations [2,67,78,128,129]. Several researchers in Idaho, Montana, and Alaska found lower age ratios (kids:older animals)—a measure of reproductive success—after severe winters. Their studies suggest high in-utero or neonatal losses due to severe winter weather [17,21,63,111,119]. In an increasing introduced population in the Sawatch Range of Colorado, Adams and Bailey [2] found a negative correlation between summer age ratios (kids:older animals) and previous spring (1 May) snow depths at high elevation during 13 years (P<0.10). However, a subsequent study of the same population covering 24 years reported that the correlation did not persist after the population stabilized. Although previous spring snow depths were not related to mountain goat summer age ratios over the 24-year period, snow depth 2 springs prior to birth was positively related to mountain goat summer age ratios (R²=0.69, P=0.01) [10]. During a 5-year study of an introduced population on Klahhane Ridge, a positive relationship was found between reproductive rate and total winter precipitation 2 winters prior to birth (r=0.93, P<0.05) [127]. The amount of snow 2 winters or springs prior to birth may possibly affect the quality and/or availability of forage prior to ovulation [10,127]. During 6 years of below-average snow depth in the Sawtooth Range of northwestern Montana, there was no correlation between snow depth and kid:older animal ratios; thus, low snow depths apparently had little effect on kid survival [79]. While there are hazards in interpreting reproductive success from kid:adult ratios [34], this information may allow detection of large differences in reproduction [78].
 
-![Solitary mountain goat.]({{ site.baseurl }}/assets/images/species-reviews/feis-oram_glacier.jpg)
+![Solitary mountain goat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-oram_glacier.jpg?itok=J7_OnUin)
 
 Photo Credit
 
@@ -247,7 +247,7 @@ In winter, forage availability, and thus mountain goat diet, changes with snow d
 
 Deep snow may be particularly deleterious to young mountain goats. Young mountain goats have difficulty pawing through deep and/or crusted snow and often feed and bed in craters pawed and utilized by older animals, particularly their mothers. Kids and yearlings were frequently observed feeding after older mountain goats had bedded following a feeding session [21]. On Klahhane Ridge, yearling mountain goats spent more time feeding and less time bedding than any other age class. Kids spent less time feeding and more time bedding than other age classes [126].
 
-![Mountain goat kid.]({{ site.baseurl }}/assets/images/species-reviews/feis-oram_kid.jpg)
+![Mountain goat kid.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-oram_kid.jpg?itok=VTxKYui0)
 
 Photo Credit
 

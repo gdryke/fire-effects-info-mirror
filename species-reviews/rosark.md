@@ -92,7 +92,7 @@ Texas| 3,500 to 8,500 feet [132]
  
 ### Soil
 
-![Photo showing a small rose plant with a single pink flower growing in gravel.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosark_plant.jpg)
+![Photo showing a small rose plant with a single pink flower growing in gravel.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-rosark_plant.jpg?itok=Nu7EHbNO)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Prairie rose is recognized as a dominant species in the following vegetation cla
 
 ## Botanical Description
 
-![Close-up photo of a bright pink rose flower with a circle of yellow stamens and pollinating insect in the center and dense green foliage in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosark_flower.jpg)
+![Close-up photo of a bright pink rose flower with a circle of yellow stamens and pollinating insect in the center and dense green foliage in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-rosark_flower.jpg?itok=eiqLZzJK)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ British Columbia| June to August [62]
 
 Prairie rose regenerates from seeds [42,43,44,58,121,122] and by sprouting from the root crown [51,62].
 
-![Close-up photo of a rose branch showing a cluster of three fruits \(rose hips\) at the end of the branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosark_hips.jpg)
+![Close-up photo of a rose branch showing a cluster of three fruits \(rose hips\) at the end of the branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-rosark_hips.jpg?itok=v2TP7-Qd)
 
 Photo Credit
 

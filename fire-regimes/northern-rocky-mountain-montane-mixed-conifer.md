@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain montane mixed-conifer commun
 
 ## Distribution
 
-![A map showing the distribution of northern Rocky Mountain montane mixed-conifer communities in the interior northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-montane-mixed-conifer_feis-northern_rocky_mountain_montane_mixed_conifer_locator.jpg)
+![A map showing the distribution of northern Rocky Mountain montane mixed-conifer communities in the interior northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_rocky_mountain_montane_mixed_conifer_locator.jpg?itok=tagsXYNm)
 
 Photo Credit
 

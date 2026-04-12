@@ -58,7 +58,7 @@ Alaska blueberry occurs from the Cascade Range in northern Oregon and Washington
  * United States: AK OR WA
  * Canada: BC
 
-![Map of northwestern United States showing the distribution of Alaska blueberry in Alaska, Washington, and Oregon.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacala_map.png)
+![Map of northwestern United States showing the distribution of Alaska blueberry in Alaska, Washington, and Oregon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacala_map.png?itok=3_Nx78oA)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Distribution of Alaska blueberry.
 
-![Map of Washington and Oregon showing the distribution of Alaska blueberry by county.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacala_map_us.png)
+![Map of Washington and Oregon showing the distribution of Alaska blueberry by county.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacala_map_us.png?itok=eZZTcR__)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Pacific Northwest| noble fir ht| Franklin 1983
 
 ## Botanical Description 
  
-![Photo of Alaska blueberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacala_plant.jpeg)
+![Photo of Alaska blueberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacala_plant.jpeg?itok=JgmT1jTO)
 
 Photo Credit
 

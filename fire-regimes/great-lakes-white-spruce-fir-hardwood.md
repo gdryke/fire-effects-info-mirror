@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Lakes white spruce-fir-hardwood commu
 
 ## Distribution
 
-![A map showing the distribution of Great Lakes white spruce-fir-hardwood communities in the Great Lakes region.]({{ site.baseurl }}/assets/images/fire-regimes/great-lakes-white-spruce-fir-hardwood_feis-great_lakes_white_spruce_fir_hardwood_locator.jpg)
+![A map showing the distribution of Great Lakes white spruce-fir-hardwood communities in the Great Lakes region.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-great_lakes_white_spruce_fir_hardwood_locator.jpg?itok=OkJM5Chk)
 
 Photo Credit
 

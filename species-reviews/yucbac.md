@@ -42,7 +42,7 @@ The currently accepted scientific name for banana yucca is _Yucca baccata_ Torr.
  * _Yucca baccata_ var. _brevifolia_(Schott ex Torr.) L. Benson & Darrow [66,136]
  * _Yucca baccata_ var. _vespertina_ (McKelvey) [38,58,66,67,91,98,145]
 
-![A photo of a banana yucca comprised of a single cluster of dense, stiff leaves]({{ site.baseurl }}/assets/images/species-reviews/feis-yucbac_habitatb.jpg)
+![A photo of a banana yucca comprised of a single cluster of dense, stiff leaves](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucbac_habitatb.jpg?itok=kT5LcAr0)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Banana yucca constitutes 3.1% of canopy cover in the Dutchwoman Butte area of ce
 
 In southeastern Arizona banana yucca occurs in 3 community types: Emory oak-pointleaf Manzanita-sacahuista (_Nolina microcarpa_), shrub live oak-sacahuista-oneseed juniper (_J. monosperma_), and desert ceanothus-birchleaf mountain-mahogany (_C. betuloides_)-littleleaf sumac (_Rhus microphylla_) [140]. Throughout the state it can be found with stemless four-nerve daisy (_Tetraneurisa caulis_), and bitterroot (_Lewisia rediviva_) [118]. Leaves of banana yucca have been found in fossilized woodrat middens on Picacho Peak where the shrub no longer grows [134].
 
-![A photo of many banana yucca plants with flowering stalks growing amongst other shrubby vegetation with some rocky outcrops.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucbac_hero.jpg)
+![A photo of many banana yucca plants with flowering stalks growing amongst other shrubby vegetation with some rocky outcrops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucbac_hero.jpg?itok=EDvPqznc)
 
 Photo Credit
 
@@ -148,7 +148,7 @@ In **desert plains grasslands** banana yucca can be found with honey mesquite, w
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available [38,54,58,87,91,98,136,142,145].
 
-![A photo of a reddish cluster of leaf-like bracts at the tip of a short stem emerging from the midst of a cluster of basal yucca leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucbac_stalk.jpg)
+![A photo of a reddish cluster of leaf-like bracts at the tip of a short stem emerging from the midst of a cluster of basal yucca leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucbac_stalk.jpg?itok=9alQpqOv)
 
 Photo Credit
 
@@ -171,7 +171,7 @@ The flowers of banana yucca are in dense panicles [143,144] found mostly among t
 
 Banana yucca builds up carbohydrate stores through the summer and early spring months to utilize during the reproductive period in late spring [85]. Flowering dates for banana yucca range from March to July [38,54,67,98,122,136,138,150] with plants at higher elevation flowering later in the season [142].
 
-![A photo of dropping white flowers covering the stalk they grow from.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucbac_flower.jpg)
+![A photo of dropping white flowers covering the stalk they grow from.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucbac_flower.jpg?itok=E-O2hQZW)
 
 Photo Credit
 

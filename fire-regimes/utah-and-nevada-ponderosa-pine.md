@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Utah and Nevada ponderosa pine communities 
 
 ## Distribution
 
-![A map showing the distribution of Utah and Nevada ponderosa pine communities.]({{ site.baseurl }}/assets/images/fire-regimes/utah-and-nevada-ponderosa-pine_feis-utah_and_nevada_ponderosa_pine_locator.jpg)
+![A map showing the distribution of Utah and Nevada ponderosa pine communities.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-utah_and_nevada_ponderosa_pine_locator.jpg?itok=dIViqKyc)
 
 Photo Credit
 

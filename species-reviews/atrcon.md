@@ -34,7 +34,7 @@ Simonin, Kevin A. 2001. _Atriplex confertifolia_ , shadscale saltbush. In: Fire 
 
 ## Introduction
 
-![A photo of the leaves of a shrub with pink plant parts.]({{ site.baseurl }}/assets/images/species-reviews/atrcon_feis-artcon_plant.jpg)
+![A photo of the leaves of a shrub with pink plant parts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-artcon_plant.jpg?itok=qsS94rhI)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ spiny saltbush, sheep-fat
 
 ## Distribution
 
-![A map of the western United States, with most western states highlighted green except Washington. Texas and North Dakota are also highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/atrcon_feis-artcon_map.jpg)
+![A map of the western United States, with most western states highlighted green except Washington. Texas and North Dakota are also highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-artcon_map.jpg?itok=yuafzFuL)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ Vegetation classifications describing plant communities dominated by shadscale s
 
 ## Botanical Description
 
-![A photo of a green, low shrub occurring with widely spaced shrubs with bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrcon_plant.jpg)
+![A photo of a green, low shrub occurring with widely spaced shrubs with bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-atrcon_plant.jpg?itok=6kizwrp_)
 
 Photo Credit
 

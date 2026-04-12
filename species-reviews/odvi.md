@@ -108,7 +108,7 @@ White-tailed deer habitats in the South-central United States consist largely of
 
 Numerous reviews describing the biology of white-tailed deer are available and cited frequently in this review. These include the following sources: [79,131,156,302,318]. Among these sources, this review relies most heavily on Biology and Management of White-tailed Deer (compiled and edited by Hewitt [156]), particularly the following chapters: [3,19,55,70,92,94,95,98,122,146,155,157,179,182,286,392,430]. This review includes information for many aspects of white-tailed deer biology but focuses on those most relevant to fire.
 
-![White-tailed deer doe moving through shallow water.]({{ site.baseurl }}/assets/images/species-reviews/feis-odvi_water.jpg)
+![White-tailed deer doe moving through shallow water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odvi_water.jpg?itok=hBoR8T7c)
 
 Photo Credit
 
@@ -240,7 +240,7 @@ Diet composition varies by sex and age of individual animals, which may result f
 
 White-tailed deer are sometimes called "keystone herbivores" [136,349,350,442] or "ecosystem engineers" [17,71] because of their foraging impacts under high population densities. Because white-tailed deer forage selectively, they can influence plant species composition and diversity by consuming palatable species, which may allow unpalatable species to gain dominance and eventually alter plant community dynamics and succession [70,71,144,298,349,350,354,392,430,442]. Overabundant populations commonly reduce tree diversity in boreal and temperate forests [71]. They can influence rates of nutrient cycling by altering litter quantity and quality and via urination and defecation [70,71,350,354,392]. Also, white-tailed deer may affect plant growth [71,354]. They exert cascading effects on animals by competing directly for resources with other herbivores and by modifying the composition and structure of habitats [6,17,70,71,136,329,350,392,442]. Maximum animal species diversity in a stand often appears to occur at moderate browsing levels, whereas heavy white-tailed deer browsing reduces vegetative cover and diversity in the understory, which may lead to reduced habitat availability for other animals [71]. Studies have shown that heavy white-tailed deer foraging is correlated with declines in native plant abundance and increases in nonnative plant abundance [70,105]. Reviews describing white-tailed deer foraging effects are available: [24,70,71,349,354,392]. For information about white-tailed deer effects on postfire succession, see Effects of herbivory on vegetation.
 
-![Yearling white-tailed deer doe.]({{ site.baseurl }}/assets/images/species-reviews/feis-odvi_yearling.jpg)
+![Yearling white-tailed deer doe.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odvi_yearling.jpg?itok=toc5DI3D)
 
 Photo Credit
 
@@ -452,7 +452,7 @@ Postlogging site preparation practices in Rocky Mountain forests often include p
 
 In Northern Great Plains grasslands white-tailed deer often use recently burned areas more than unburned areas. For example, the number of white-tailed deer fawns was greater on burned than unburned grasslands the 2nd summer following a late May prescribed fire in east-central North Dakota on the Woodworth Study Area in the midgrass prairie vegetation zone. No fawns were found on an unburned 124-acre (50 ha) area, compared to 4 fawns each during the 2nd growing season on nearby burned areas of 135 acres (55 ha) and 121 acres (49 ha) [195]. At the Crescent Lake National Wildlife Refuge in the Nebraska Sandhills, white-tailed deer were found closer to burned areas than to random points. Six areas, from 20 to 700 acres (8-283 ha), were burned under prescription in April. All of the burns were in native sandreed (Calamovilfa spp.)-bluestem grasslands. Three burns were in grasslands that were either subirrigated or seasonally flooded. Although concealment cover was reduced in May and June following the fire, it returned to prefire levels by July. Results indicated that prescribed burning did not negatively affect white-tailed deer [223]. In contrast, in another study in Nebraska Sandhills prairie, white-tailed deer used burned areas about 8% of the time during the year of the fire and about 5% the following year, suggesting that use declined. However, no data on control or prefire use were provided [462].
 
-![White-tailed deer feeding in prairie.]({{ site.baseurl }}/assets/images/species-reviews/feis-odvi_windcaveburn.jpg)
+![White-tailed deer feeding in prairie.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odvi_windcaveburn.jpg?itok=vQHWzXGk)
 
 Photo Credit
 
@@ -648,7 +648,7 @@ White-tailed deer body condition may improve after fire in pocosin. Johnson and 
 
 **Pine Rocklands:** Prescribed fire is frequently used in pine rocklands as management for Key deer (e.g., [56,57]). Deterioration of habitat quality due to fire exclusion is thought to be a factor in Key deer population declines [57]. Plants in pine rocklands are well-adapted to and require fire for continued existence (i.e., to prevent establishment of and shading by hardwoods) [56]. Succession of pine rocklands to hardwood hammock communities in the absence of fire occurs in 2 to 3 decades on the mainland of southern Florida but may take twice as long on the drier Keys. Taylor (1980 cited in [56]) stated that historical fire intervals may have averaged only about 8 years in southern Florida pine rocklands. See the Fire Regime Table for information on historical fire regimes associated with pine rocklands.
 
-![A key der in a burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-odvi_keydeer.jpg)
+![A key der in a burned area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-odvi_keydeer.jpg?itok=Wzufah9p)
 
 Photo Credit
 

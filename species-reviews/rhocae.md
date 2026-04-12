@@ -34,7 +34,7 @@ Carey, Jennifer H. 1994. _Rhododendron calendulaceum_ , flame azalea. In: Fire E
 
 ## Image Gallery
 
-![Photo of blooming flame azalea.]({{ site.baseurl }}/assets/images/species-reviews/rhocae_rhocae_plant_0.jpg) Flame azalea. _Photo by Diane. Available: https://www.iNaturalist.org. [2025 June 5]._
+![Photo of blooming flame azalea.](https://research.fs.usda.gov/sites/default/files/2025-06/rhocae_plant_0.jpg) Flame azalea. _Photo by Diane. Available: https://www.iNaturalist.org. [2025 June 5]._
 
 Photo Credit: Photo by Diane. Available: https://www.iNaturalist.org. [2025 June 5].
 

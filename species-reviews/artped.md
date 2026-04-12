@@ -38,7 +38,7 @@ Taylor, Jane E. 2006. _Artemisia pedatifida_ , birdfoot sagebrush. In: Fire Effe
 
 The scientific name of birdfoot sagebrush is _Artemisia pedatifida_ Nutt. (Asteraceae) [10,14,15,24].
 
-![A photo of a low-growing sagebrush with blue-green leaves shaped somewhat like a birds' foot, with short budding stalks. Bunchgrasses are visible in the background, with bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-artped_plant.jpg)
+![A photo of a low-growing sagebrush with blue-green leaves shaped somewhat like a birds' foot, with short budding stalks. Bunchgrasses are visible in the background, with bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artped_plant.jpg?itok=X8GaWWi-)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Birdfoot sagebrush grows in small, isolated stands on dry hills, mesas, ridges, 
 
 Birdfoot sagebrush is most common on mountain and plains grasslands. A birdfoot sagebrush/Idaho fescue (_Festuca idahoensis_) habitat type occurs in southwestern Montana on dry, alkaline, alluvial soils. Bluebunch wheatgrass (_Pseudoroegneria spicata_) is a common associate in this habitat type [33]. In the Cheyenne River Basin, Wyoming, a birdfoot sagebrush/western wheatgrass (_Pascopyrum smithii_) habitat type occurs on saline-alkali uplands with impeded drainage. Also in the Cheyenne River Basin, a birdfoot sagebrush dwarf-shrub vegetation type occurs where the occasional associates are buckwheat (_Eriogonum pauciflorum_) and Gardner's saltbush (_Atriplex gardneri_) and winterfat (_Krascheninnikovia lanata_) [45]. This is usually a single-layered plant community where the herbaceous layer is minimal. A birdfoot sagebrush-Gardner saltbush/Hood's phlox (_Phlox hoodii_) habitat type occurs throughout Wyoming in low spots in areas that have been heavily grazed [8].
 
-![A photo of low sagebrush plants growing with rocky bare ground between plants and scattered bunchgrasses. There is an abrupt transition to more, taller bunchgrasses growing with somewhat sparse, larger sagebrush plants with no visible bare ground, but large stones scattered. An oddly-shaped peak rises in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artped_habitat.jpg)
+![A photo of low sagebrush plants growing with rocky bare ground between plants and scattered bunchgrasses. There is an abrupt transition to more, taller bunchgrasses growing with somewhat sparse, larger sagebrush plants with no visible bare ground, but large stones scattered. An oddly-shaped peak rises in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artped_habitat.jpg?itok=xWEAU7R_)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Photo by Matt Lavin, iNaturalist.org, some rights reserved.
 
 Birdfoot sagebrush growing in Park County, Wyoming ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![A photo dry, rolling hills with vegetation dominated by low-growing sagebrush and bunchgrasses with bare ground between plants. Low mountains rise in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-artped_habitat2.jpg)
+![A photo dry, rolling hills with vegetation dominated by low-growing sagebrush and bunchgrasses with bare ground between plants. Low mountains rise in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artped_habitat2.jpg?itok=WqGNkTac)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Birdfoot sagebrush is a native, dwarf, somewhat mat-forming perennial subshrub that grows from 2.0 to 5.9 inches (5.0-15.0 cm) in height [6,18,46]. Numerous erect stems arise from a branching woody base [11,32]. The root is described as tough and woody [20,27]. Leaves are mainly basal, tufted, and 0.4 to 0.8 inches (1-2 cm) long [6,10]. The inflorescence is raceme- or spikelike, growing from 0.4 to 2.7 inches (1-7 cm) long [20]. Four to seven marginal pistillate ray flowers are produced as well as 5 to 10 perfect but sterile staminate disc flowers [22]. The fruit is a one-seeded achene [29].
 
-![A photo of a low-growing sagebrush with somewhat wispy leaves shaped a bit like a bird's foot. Flowering stalks exceed the leaves and have inconspicuous yellow flowers growing along them. Rocky, bare soil is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artped_flowering.jpg)
+![A photo of a low-growing sagebrush with somewhat wispy leaves shaped a bit like a bird's foot. Flowering stalks exceed the leaves and have inconspicuous yellow flowers growing along them. Rocky, bare soil is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artped_flowering.jpg?itok=IjYQqXr2)
 
 Photo Credit
 

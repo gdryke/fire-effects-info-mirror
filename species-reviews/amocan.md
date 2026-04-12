@@ -34,7 +34,7 @@ Fryer, Janet L. 2011. _Amorpha canescens_ , leadplant. In: Fire Effects Informat
 
 ## Introduction
 
-![A photo of a shrubs with somewhat erect stems originating from the root crown topped with dense clusters of purple flowers and gray-green leaves along stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-amocan_plant.jpg)
+![A photo of a shrubs with somewhat erect stems originating from the root crown topped with dense clusters of purple flowers and gray-green leaves along stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-amocan_plant.jpg?itok=Zlz96boY)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ lead plant, downy indigobush
 
 ## Distribution
 
-![A map of the United States and Canada with many central states, Manitoba, and Ontario highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-amocan_map.jpg)
+![A map of the United States and Canada with many central states, Manitoba, and Ontario highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-amocan_map.jpg?itok=4sE1UfiO)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ In eastern New Mexico, leadplant is an occasional to important member of plains 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (for example, [10,38,48,84,117,138]).
 
-![A photo of densely clustered racemes of purple flowers of a leadplant, with gray-green compound leaves visible below inflorescences.]({{ site.baseurl }}/assets/images/species-reviews/feis-amocan_flowers.jpg)
+![A photo of densely clustered racemes of purple flowers of a leadplant, with gray-green compound leaves visible below inflorescences.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-amocan_flowers.jpg?itok=Z6cuO3fl)
 
 Photo Credit
 

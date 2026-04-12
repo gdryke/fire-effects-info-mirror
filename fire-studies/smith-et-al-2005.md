@@ -102,7 +102,7 @@ THEDIV| spreadfruit goldenbanner| _Thermopsis divaricarpa_| **Life Form:** Plant
 
 ## Image Gallery
 
-![A photo of several tall, scattered pines growing with a cluster of bright yellow aspen trees. The understory is dominated by dry grasses.]({{ site.baseurl }}/assets/images/fire-studies/smith-et-al-2005_feis-smith_1993_hero.jpeg) A stand of aspens growing with pines in Larimer County, Colorado (CC BY-NC 4.0). _Photo by Matt Webb, iNaturalist.org, some rights reserved._ 
+![A photo of several tall, scattered pines growing with a cluster of bright yellow aspen trees. The understory is dominated by dry grasses.](https://research.fs.usda.gov/sites/default/files/2026-02/feis-smith_1993_hero.jpeg) A stand of aspens growing with pines in Larimer County, Colorado (CC BY-NC 4.0). _Photo by Matt Webb, iNaturalist.org, some rights reserved._ 
  
 Photo Credit: Photo by Matt Webb, iNaturalist.org, some rights reserved.
 

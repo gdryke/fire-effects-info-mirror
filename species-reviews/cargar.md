@@ -62,7 +62,7 @@ Elk sedge occurs from Quebec south to New York and west to Indiana. From Quebec 
 
 Elk sedge is found in swamps, on the margins of ponds [6], and in wet places [7]. It is found on calcareous sands, gravels, and ledges, especially near the Great Lakes [4,10,15]. In Michigan it occurs on wet sandy, gravelly, or marly shores, interdunal flats, rock crevices, and at the edges of northern white-cedar (_Thuja occidentalis_) thickets [15]. In Maine it occurs on riverbanks [12].
 
-[![A photo of a sedge growing out of a crack in a gray rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargar_habit.jpeg)Photo Credit Photo by Erin Haase, iNaturalist (CC BY-NC 4.0). Elk sedge growing in a rock crevice in Ontario, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a sedge growing out of a crack in a gray rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cargar_habit.jpeg?itok=JY-mJMLb)Photo Credit Photo by Erin Haase, iNaturalist (CC BY-NC 4.0). Elk sedge growing in a rock crevice in Ontario, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Plant Communities
 
@@ -74,7 +74,7 @@ See the Appendix for a list of cover types and plant associations in which elk s
 
 Elk sedge is a native, perennial, monoecious graminoid. It is loosely caespitose. Culms are 19.7 to 27.6 inches (0.5-0.7 m) tall [1], firm, and triangular [6]. Leaves are shorter to much taller than the culms [4], and 0.8 to 0.16 inches (2-4 mm) wide. The terminal inflorescence is 0.24 to 0.79 inches (6 to 20 mm) long [1]. The achene is 0.06 inches (1.5 mm) long. The perigynia surrounding the achene is lenticular and 0.8 to 0.12 inches (2-3 mm) long [1]. Elk sedge is stoloniferous or rhizomatous, the rhizome being elongated [1,6].
 
-[![A photo of reproductive spikes of a sedge.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargar_reproduction.jpg)Photo Credit Photo by er-birds, iNaturalist (CC BY 4.0). Reproductive elk sedge.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of reproductive spikes of a sedge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cargar_reproduction.jpg?itok=uLatPkg1)Photo Credit Photo by er-birds, iNaturalist (CC BY 4.0). Reproductive elk sedge.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

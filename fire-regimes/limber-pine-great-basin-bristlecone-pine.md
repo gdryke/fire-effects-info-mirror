@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for limber pine-Great Basin bristlecone pine co
 
 ## Distribution
 
-![A map showing the distribution of limber pine-Great Basin bristlecone pine communities in the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/limber-pine-great-basin-bristlecone-pine_feis-limber_pine_great_basin_bristlecone_pine_locator.jpg)
+![A map showing the distribution of limber pine-Great Basin bristlecone pine communities in the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-limber_pine_great_basin_bristlecone_pine_locator.jpg?itok=LYqsH4Kx)
 
 Photo Credit
 

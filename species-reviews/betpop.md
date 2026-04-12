@@ -60,7 +60,7 @@ The range of gray birch extends west from Nova Scotia to southern Ontario, and s
 
 ## Site Characteristics
 
-![A photo of a tree with smooth white bark growing out of a rocky area in an open, meadow or field-like setting. There are no leaves on the tree. Surrounding vegetation is low shrubs and grasses.]({{ site.baseurl }}/assets/images/species-reviews/betpop_betpop_habitat_0_0.jpeg)
+![A photo of a tree with smooth white bark growing out of a rocky area in an open, meadow or field-like setting. There are no leaves on the tree. Surrounding vegetation is low shrubs and grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/betpop_habitat_0_0.jpeg?itok=6gdYpFCh)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Gray birch is listed as a common associate of the aspen-birch (Populus spp.-Betu
 
 ## Botanical Description
 
-[![A close up photo of the leaves of a tree. The leaves are green, pointed, and have serrated edges. The leaves are in dappled sun, with other green leaves in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-betpop_foliage.jpeg)Photo Credit Photo by Lynn Harper, iNaturalist.org, CC BY-NC 4.0. Gray birch foliage.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of the leaves of a tree. The leaves are green, pointed, and have serrated edges. The leaves are in dappled sun, with other green leaves in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-betpop_foliage.jpeg?itok=xh9p21An)Photo Credit Photo by Lynn Harper, iNaturalist.org, CC BY-NC 4.0. Gray birch foliage.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Gray birch is a fast-growing, short-lived, deciduous tree commonly attaining heights of 20 to 30 feet (6-9 m) [5]. Its short, slender, contorted branches form a narrow pyramidal crown. The alternate leaves occur singly or in pairs on thin, gray twigs. The leaves are long and pointed with double-toothed margins. The male flowers are borne on yellow catkins hanging from the twigs. The female catkins are erect on the stems which develop into drooping, stalked cones with many small nutlike winged seeds. The trunk is dark, rough, and irregularly broken by shallow fissures. The roots are shallow [6,7,9,17].
 

@@ -94,7 +94,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Japanese climbing fern fronds are from 3.3 to 100 feet (1-30.5 m) in length [1,3,27], and small-leaf climbing fern fronds grow to 90 feet (27 m) long [15]. In Japanese climbing ferns, pinnae (groups of leaflets) are up to 12 inches (30 cm) wide, and are subdivided into 2 or 3 pinnules (leaflets) up to 3 inches (8 cm) long and 6 inches (15 cm) wide [27,28]. Small-leaf climbing fern pinnae are 2 to 5 inches (5-13 cm) long with several pairs of pinnules [15]. Fertile pinnules of small-leaf climbing fern are fringed with tiny lobes of enrolled leaf tissue along the margin, which cover the reproductive tissues [15]. Japanese climbing fern sporangia are borne on narrow, fingerlike segments of the pinnae [3].
 
-![Close up of dark green fern frond.]({{ site.baseurl }}/assets/images/species-reviews/lygspp_feis-lygjap_foliage1.jpg)
+![Close up of dark green fern frond.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-lygjap_foliage1.jpg?itok=FfQmDueI)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Japanese climbing fern fronds.
 
 In addition to their photosynthetic and reproductive functions, adult climbing fern fronds are analogous to the twining shoots of flowering plants, spreading along the ground, over shrubs, or climbing by twining around other structures, such as trees and other vines [3,15,18,27]. Twining growth is indeterminate and occurs at a steady rate [18,19,26]. Annual height increase averaged (± SE) 3.81 ± 0.07 feet (1.16 ± 0.02 m) for small-leaf climbing fern growing on infested trees in Jonathon Dickinson State Park and Big Cypress Seminole Indian Reservation, southern Florida [38].
 
-![Close up of light green fern fronds.]({{ site.baseurl }}/assets/images/species-reviews/lygspp_feis-lygmic_foliage1.jpg)
+![Close up of light green fern fronds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-lygmic_foliage1.jpg?itok=srKekvFU)
 
 Photo Credit
 
@@ -258,7 +258,7 @@ Climbing ferns were originally imported and sold in the United States as ornamen
 
 Although there are few studies documenting the impacts of climbing ferns on native plants and ecosystems in the southeastern U.S., their invasion is likely to have deleterious effects. Nauman and Austin [21] reported that climbing ferns are established, persistent, and spreading in Florida, Japanese climbing fern in the north and small-leaf climbing fern in the south. A review by Ferriter [5] suggested that climbing ferns don't require "human disturbance in order to spread and become established."
 
-![Forest in the background and opening in the foreground, with every tree and every plant covered by an invasive fern.]({{ site.baseurl }}/assets/images/species-reviews/lygspp_feis-lygmic_invasive1.jpg)
+![Forest in the background and opening in the foreground, with every tree and every plant covered by an invasive fern.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-lygmic_invasive1.jpg?itok=lDA5MJ2z)
 
 Photo Credit
 
@@ -270,7 +270,7 @@ Most accounts of impacts associated with climbing fern invasion (e.g. reviews by
 
 Of particular concern may be climbing fern impacts on native vegetation within many of the region's high-quality natural areas. A review by Pemberton and others [23] indicated that, as of 2004, small-leaf climbing fern was rapidly spreading in southern Florida, including in Everglades National Park. Volin and other [38] expressed concern that efforts to restore Everglades hydrology to approximate a "pre-drainage environment," while perhaps reducing establishment and spread of many important nonnative plant invaders, may "improve the ecological conditions for small-leaf climbing fern." Lott and others [16] reported that small-leaf climbing fern "has been observed overtopping tree canopies among tree islands in the Arthur R. Marshall Loxahatchee National Wildlife Refuge" [16]. Volin and others [38] recorded an average of 14 small-leaf climbing fern infestations (defined as contiguous growth that had climbed above the shrub layer on 1 or more trees) per km2 along transects in the Big Cypress National Preserve and Big Cypress Seminole Indian Reservation. The most heavily infested transect contained 58 infestations per km 2.
 
-![Close-up of dark green fern frond.]({{ site.baseurl }}/assets/images/species-reviews/lygspp_feis-lygjap_invasive1.jpg)
+![Close-up of dark green fern frond.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-lygjap_invasive1.jpg?itok=e8ntThzf)
 
 Photo Credit
 

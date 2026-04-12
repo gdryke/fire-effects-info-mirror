@@ -69,7 +69,7 @@ Purple reedgrass occurs from Greenland to Alaska, and south to California in the
 
 Purple reedgrass typically grows near or above timberline on open ridges, dry rocky hills, and dry woods, as well as in moist parks and meadows [12,14,23,25,30]. It generally occurs from 8,000 to over 13,000 feet (2,591-3,962 m) in elevation [9]. This grass grows on sandy to coarse textured soils [14,16]. It mostly occurs on basic soils and will tolerate mildly saline sites and drought conditions. Purple reedgrass grows best in full sunlight but will survive at reduced vigor under partial shade [14].
 
-[![Bunchgrass spaced relatively closely together on rocky soils. The legs of two people in jeans and hiking boots are at the right side of the image.]({{ site.baseurl }}/assets/images/species-reviews/calpur_calpur_stand.jpg)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Purple reedgrass plants.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Bunchgrass spaced relatively closely together on rocky soils. The legs of two people in jeans and hiking boots are at the right side of the image.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/calpur_stand.jpg?itok=rQTQ28Ij)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Purple reedgrass plants.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Plant Communities
 
@@ -90,7 +90,7 @@ Purple reedgrass is commonly associated with the following species: limber pine 
 
 Purple reedgrass is an erect, densely tufted, native perennial grass [14,17,19,23]. The culms, which are rough and rather stiff, generally grow 1 to 3 feet (30-100 cm) tall. Old blades are typically persistent at the base of the plant [23,17,19]. The roots are fibrous, and the rhizomes are short and thick [14,23,30].
 
-[![A small bunchgrass on rocky soils.]({{ site.baseurl }}/assets/images/species-reviews/calpur_calpur_plant.jpg)Photo Credit Photo by Chloe and Trevor Van Loon, iNaturalist (CC BY 4.0). A purple reedgrass plant.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A small bunchgrass on rocky soils.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/calpur_plant.jpg?itok=8FC-EDca)Photo Credit Photo by Chloe and Trevor Van Loon, iNaturalist (CC BY 4.0). A purple reedgrass plant.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -105,7 +105,7 @@ Spring bud break of purple reedgrass in Colorado occurs in early to mid-May [1].
 
 **Sexual Reproduction:** Purple reedgrass compact heads are wind pollinated, [28], and the seeds are wind dispersed [15]. Seed viability varies each year because of the severe and unpredictable nature of its environment [4]. Seeds collected from the Beartooth Plateau, Montana, had a mean viability of 79 percent [5]. No significant response to light conditions has been observed, but seeds have been found to germinate better under wet-cold conditions than dry-cold conditions [5].
 
-![A closeup of two purple-ish reproductive spikes of a grass.]({{ site.baseurl }}/assets/images/species-reviews/calpur_calpur_reproduction.jpg)
+![A closeup of two purple-ish reproductive spikes of a grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/calpur_reproduction.jpg?itok=X-Bn08sV)
 
 Photo Credit
 

@@ -64,7 +64,7 @@ The primary geographic focus of this review is Alaska; however, information from
 
 ## Distribution and Plant Community Composition
 
-![Distribution of tundra landcover within Alaska based on the LANDFIRE Biophysical Settings data layer]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-tundra_feis-mapb.jpg)
+![Distribution of tundra landcover within Alaska based on the LANDFIRE Biophysical Settings data layer](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-mapb.jpg?itok=aatp6Sul)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Little has been reported in published literature about fire intensity in tundra 
 
 Climate, terrain, and vegetation strongly influence the pattern and size of fires in tundra communities [2]. Fires in tundra communities often burn discontinuously, resulting in a mosaic of unburned, lightly burned, and severely burned areas (e.g., [2,27,46,57,58,89]). Racine [57] described the 1971 and 1977 Seward Peninsula fires as generally patchy with unburned patches within burned areas and with <50% of the organic soil layer removed. The 2002 Kougarok River area fire resulted in severe (i.e., soil organic material completely or nearly consumed down to the mineral soil) to moderate (organic layer partially consumed) burns with a few unburned patches [46]. Near Kaminak Lake, Nunavut, turf rims surrounding mudboils burned but their centers were left unburned, resulting in a mosaic fire (Figure3) [68].
 
-![An aerial view of a 1973 tundra wildfire near Kaminak Lake, Nunavut, shortly after being extinguished]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-tundra_feis-nunavutfire.jpg)
+![An aerial view of a 1973 tundra wildfire near Kaminak Lake, Nunavut, shortly after being extinguished](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-nunavutfire.jpg?itok=FUibc4Ob)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ Photo courtesy of Ross Wein, Natural Resources Canada, Geological Survey of Cana
 
 **Figure 3—** An aerial view of a 1973 tundra wildfire near Kaminak Lake, Nunavut, shortly after being extinguished. This glacial till plain is densely ornamented with mudboils. The rims of many of the mudboils have burned, while the centers were unburned, leaving behind a ring of boulders, ash, and baked fine sediments. 
 
-![Ground view of mudboils.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-tundra_feis-mudboils.jpg)
+![Ground view of mudboils.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-mudboils.jpg?itok=8uk3nTGc)
 
 Photo Credit
 
@@ -172,7 +172,7 @@ Photo courtesy of William Shilts, Natural Resources Canada, Geological Survey of
 
 **Figure 4—** A ground view of the burned mudboils shown in Figure 3 [67]. The centers of mudboils are mineral soil with only scattered plants [91]. The turf fringes around the mudboils were 0.5- to 1.0 m-tall ridges of vegetation which enclosed and hid the boulders that were exposed by burning. The burned borders of the mudboils now form depressions, along which surface drainage is focused.
 
-![A close-up view of a burning turf ring around a mudboil.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-tundra_feis-AK_tundra_closeup.jpg)
+![A close-up view of a burning turf ring around a mudboil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-AK_tundra_closeup.jpg?itok=o7tgbPCI)
 
 Photo Credit
 

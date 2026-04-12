@@ -47,7 +47,7 @@ The currently accepted scientific name for the genus tamarisk is _Tamarix_ L. (T
 
 For the purposes of this review, the common name tamarisk will be used when discussing characteristics common to all 4 species, or when it is unclear which of the species was studied. When referring to individual species, the common names listed above will be used to represent the respective currently accepted scientific name. The common name saltcedar will refer to either _T. chinensis_ or _T. ramosissima_.
 
-![A photo of cylindrical clusters of pinkish white flowers growing from green stems.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tamram_flowers_jmr.jpg)
+![A photo of cylindrical clusters of pinkish white flowers growing from green stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tamram_flowers_jmr.jpg?itok=0eoVgJkv)
 
 Photo Credit
 
@@ -55,7 +55,7 @@ Photo by ©John M. Randall/The Nature Conservancy
 
 Saltcedar flowers.
 
-![A photo of bright green tamarisk plants that are much-branched and growing so close together as to be impenetrable or close to it. A rocky spire rises behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-tamspp_dense_growth_jmr.jpg)
+![A photo of bright green tamarisk plants that are much-branched and growing so close together as to be impenetrable or close to it. A rocky spire rises behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tamspp_dense_growth_jmr.jpg?itok=PYlt587A)
 
 Photo Credit
 
@@ -63,7 +63,7 @@ Photo by ©John M. Randall/The Nature Conservancy
 
 A dense thicket of tamarisk.
 
-![A photo of pink flowers growing in somewhat cylindrical arrangements along green twigs growing from brown stems.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tampar_flower_portrait_bar.jpg)
+![A photo of pink flowers growing in somewhat cylindrical arrangements along green twigs growing from brown stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tampar_flower_portrait_bar.jpg?itok=6Y6Gdix-)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Photo by ©Barry A. Rice/The Nature Conservancy.
 
 Small-flowered tamarisk.
 
-![A photo of tamarisk plants growing individually along a waterway with green grass and deciduous trees dominating lower slopes and conifers dominating above.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tampar_infestation_jmr.jpg)
+![A photo of tamarisk plants growing individually along a waterway with green grass and deciduous trees dominating lower slopes and conifers dominating above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tampar_infestation_jmr.jpg?itok=PzS1PoRZ)
 
 Photo Credit
 
@@ -183,7 +183,7 @@ Changes in nutrient concentrations in surface waters are also brought about by t
 
 ## Plant Communities
 
-![Saltcedar shrubs grow as a somewhat dense thicket with a few other shrubs growing among them. Dried grasses dominated with more widely spaced shrubs on the side of the drainage.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tamram_thicket.jpeg)
+![Saltcedar shrubs grow as a somewhat dense thicket with a few other shrubs growing among them. Dried grasses dominated with more widely spaced shrubs on the side of the drainage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tamram_thicket.jpeg?itok=i5wQQYFT)
 
 Photo Credit
 
@@ -243,7 +243,7 @@ The following description of tamarisk provides characteristics that may be relev
 
 Allred [3] distinguishes 4 species of tamarisk in New Mexico: athel tamarisk (_T. aphylla_), small-flowered tamarisk, saltcedar, and French tamarisk. Of these, only athel tamarisk can be separated by traits readily observable in the field (i.e. leaves conspicuously sheathing the stems and not scale-like, branchlets drooping, and foliage not deciduous). Athel tamarisk is not included in this review. The other species are similar in most traits, differing slightly in floral and leaf morphology [3,156].
 
-![A photo of a stem of a shrub with scale-like leaves and somewhat cylindrical clusters of small pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tamchi_flowering.jpg)
+![A photo of a stem of a shrub with scale-like leaves and somewhat cylindrical clusters of small pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tamchi_flowering.jpg?itok=vQehS69L)
 
 Photo Credit
 
@@ -300,7 +300,7 @@ Phenological observations along the Rio Grande valley indicate that development 
 
 On sand flats of the south Canadian River in central Oklahoma, tamarisk seedling establishment began June 15 [252]. In western Utah initial growth of established plants began in early April [27].
 
-![A photo many small saltcedar sprouts - probably seedlings - growing with reeds or a similar wetland vegetation in a small puddle of stagnant water and wet soil around. The drainage behind is dominated by grasses, with some trees along the channel. Red cliffs rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tamram_sprouts.jpg)
+![A photo many small saltcedar sprouts - probably seedlings - growing with reeds or a similar wetland vegetation in a small puddle of stagnant water and wet soil around. The drainage behind is dominated by grasses, with some trees along the channel. Red cliffs rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tamram_sprouts.jpg?itok=9YZPYAc7)
 
 Photo Credit
 
@@ -401,7 +401,7 @@ Evidence for specialized adaptation to fire in tamarisk remains unclear, despite
 
 Saltcedar leaves are not highly flammable due to high moisture content, even though they contain volatile oils. Saltcedar flammability increases with the build-up of dead and senescent woody material within the plant, and dense stands of tamarisk can be highly flammable [43,116,185,231]. When plants burn under conditions of high fuel loads, fire tends to be more severe, top-killing more tamarisk plants in a stand and increasing the likelihood of killing the root crown of some individuals (e.g., [80,116]).
 
-![A photo of a shrubby tree with red stems and bright green scale-like leaves growing on stems originating from the base of the plant.]({{ site.baseurl }}/assets/images/species-reviews/tamspp_feis-tamram_resprout.jpeg)
+![A photo of a shrubby tree with red stems and bright green scale-like leaves growing on stems originating from the base of the plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tamram_resprout.jpeg?itok=J3v9KmUN)
 
 Photo Credit
 

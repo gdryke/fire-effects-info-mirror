@@ -40,7 +40,7 @@ The scientific name of pygmy sagebrush is _Artemisia pygmaea_ Gray (Asteraceae) 
 
 Based on specialized morphology, pygmy sagebrush was formerly placed in the monotypic section Pygmaeae, in subgenus Seriphidium by Rydberg (1916) [3,21]. Later systematists have placed it in section Tridentatae based on its completely woody nature, North American distribution, molecular genetics, chemistry, and fertile, homogamous perfect disc flowers [3,20,21,28,29,34,35]. Despite numerous investigations, the origin and relationship of Tridentatae remains unresolved. Pygmy sagebrush is probably the most difficult _Artemisia_ species to place taxonomically because it is morphologically, anatomically and chemically distinct from all other species of section Tridentatae [3,12,29].
 
-![A photo of low, dry slopes with pale substrates on the hills with patchy shrubs with bare ground between plants. Desert hills rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpyg_habitat.jpg)
+![A photo of low, dry slopes with pale substrates on the hills with patchy shrubs with bare ground between plants. Desert hills rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artpyg_habitat.jpg?itok=4PGMzeB1)
 
 Photo Credit
 
@@ -48,7 +48,7 @@ Photo courtesy of Jan Nachlinger.
 
 Pygmy sagebrush habitat on the clay hills of White Pine County, NV.
 
-![A photo of a dense, low sagebrush plant with dry, clayey bare ground around.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpyg_plant.jpg)
+![A photo of a dense, low sagebrush plant with dry, clayey bare ground around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artpyg_plant.jpg?itok=nh5i21_u)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Pygmy sagebrush is restricted to desert calcareous soils in the Great Basin and 
 
 Mean annual precipitation within the range of pygmy sagebrush is approximately 7.9 to 11.8 inches (200-300 mm) [33].
 
-![A photo of a desert plant community with small, low shrubs growing with large amount of bare ground between them. Patches of grayish dead vegetation occur between shrubs, as well. Cliffy, dry hills rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpyg_habitat2.jpg)
+![A photo of a desert plant community with small, low shrubs growing with large amount of bare ground between them. Patches of grayish dead vegetation occur between shrubs, as well. Cliffy, dry hills rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artpyg_habitat2.jpg?itok=xKxtSOjX)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ In Nevada, it occurs with halophytic threadleaf rubber rabbitbrush (_C. nauseosu
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [3,6,7,8,12,15,18,19,53,54,55,56].
 
-![A photo of a low shrub with inconspicuous yellow flowers growing along upright stems. Widely spaced green shrubs are out of focus in the background. Desert mountains rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpyg_plant2.jpeg)
+![A photo of a low shrub with inconspicuous yellow flowers growing along upright stems. Widely spaced green shrubs are out of focus in the background. Desert mountains rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artpyg_plant2.jpeg?itok=T5LnoIEn)
 
 Photo Credit
 

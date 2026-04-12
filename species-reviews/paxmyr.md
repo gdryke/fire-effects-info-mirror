@@ -53,7 +53,7 @@ boxwood, false-box, Montana-box, mountain-box, mountain-lover, myrtle boxwood, m
 
 Oregon boxleaf occurs from British Columbia south into California and Mexico and east through the Rocky Mountains [24,52].
 
-![A map of U.S. states and southern Canadian provinces, with many western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-paxmyr_map.jpg)
+![A map of U.S. states and southern Canadian provinces, with many western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-paxmyr_map.jpg?itok=rQPk-VL8)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Distribution of Oregon boxleaf.
 
 Oregon boxleaf grows on dry to moist sites in shaded mountain areas as high as subalpine habitats, but can be found at sea level in California [29,31]. It can grow in frost pockets in steep ravines or in open woods, ridgetops, and glades [12,22,28,29]. Oregon boxleaf can occur on well-drained, shallow, gravelly soils, in clay and silt loams, and cobbly clay [22]. In British Columbia Oregon boxleaf occurs on Podzols and Regosols [36].
 
-![A photo of a shrub with green leaves and small red flowers growing out of an eroded bank or steep hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-paxmyr_plant.jpg)
+![A photo of a shrub with green leaves and small red flowers growing out of an eroded bank or steep hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-paxmyr_plant.jpg?itok=uPdPP1Is)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Eastern WA, northern ID| forest habitat type| Daubenmire and Daubenmire 1968
 
 ## Botanical and Ecological Characteristics
 
-![A photo of a twig with dark green, opposite leaves towards it base and several sets of bright green new leaves at the twig end. Small reddish flowers are tucked at the base of older leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-paxmyr_twig.jpg) 
+![A photo of a twig with dark green, opposite leaves towards it base and several sets of bright green new leaves at the twig end. Small reddish flowers are tucked at the base of older leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-paxmyr_twig.jpg?itok=A-cI0C1S) 
  
 Photo Credit
 
@@ -155,7 +155,7 @@ Oregon boxleaf is an indicator species in several western habitat types and plan
 
 Oregon boxleaf can survive low- to moderate-severity fires that do not consume the duff or raise the soil temperature too high [10]. It can, however, be killed by severe fires [9].
 
-![A photo of bright green leaves and pinkish flower buds growing on the tops of several stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-paxmyr_plant2.jpg)
+![A photo of bright green leaves and pinkish flower buds growing on the tops of several stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-paxmyr_plant2.jpg?itok=nBXfdmQF)
 
 Photo Credit
 

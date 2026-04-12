@@ -61,7 +61,7 @@ American mountain-ash occurs in northeastern North America from Newfoundland and
 
 ## Site Characteristics
 
-![A photo of a view from a mountainside over rolling, forested hills and some developed areas. In the foreground, two small trees with opposite leaves and clusters of red berries frame the photo on both sides. The sky is blue with puffy clouds.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorame_habitat.jpg)
+![A photo of a view from a mountainside over rolling, forested hills and some developed areas. In the foreground, two small trees with opposite leaves and clusters of red berries frame the photo on both sides. The sky is blue with puffy clouds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-sorame_habitat.jpg?itok=MUzmVFJm)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ American mountain-ash is listed as codominant with balsam fir (_Abies balsamea_)
 
 ## Botanical Description
 
-![A photo of a shrub or tree with green, pointed, opposite leaves, and flat clusters of white flowers. The background is blurry dark forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorame_flowers.jpg)
+![A photo of a shrub or tree with green, pointed, opposite leaves, and flat clusters of white flowers. The background is blurry dark forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-sorame_flowers.jpg?itok=Ufy1BbiR)
 
 Photo Credit
 

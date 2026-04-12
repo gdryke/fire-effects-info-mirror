@@ -45,7 +45,7 @@ bastard elm, nettle-tree, northern hackberry
 
 ## Distribution
 
-![Photo showing map distribution of common hackberry indicating concentrations in the northeast, north central, & southeast.]({{ site.baseurl }}/assets/images/species-reviews/celocc_feis-map_celocc.jpg)
+![Photo showing map distribution of common hackberry indicating concentrations in the northeast, north central, & southeast.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-map_celocc.jpg?itok=w27FU3Qs)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Common hackberry trees are unlikely to survive 4 years of continual flooding. On
 
 ## Plant Communities
 
-![Photo showing the green overstory foliage of common hackberry.]({{ site.baseurl }}/assets/images/species-reviews/celocc_feis-habitat_celocc.jpg)
+![Photo showing the green overstory foliage of common hackberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-habitat_celocc.jpg?itok=CJ9FOKuJ)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ In the northern Great Lakes area, common hackberry is described in dry habitats.
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [69,72,178,200]).
 
-![Photo showing green foliage of common hackberry]({{ site.baseurl }}/assets/images/species-reviews/feis-celocc_leaves.jpg)
+![Photo showing green foliage of common hackberry](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-celocc_leaves.jpg?itok=CcANs0cc)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Common hackberry ([CC BY-NC 4.0](<https://creativecommons.org/licenses/by-nc/4.0
 
 Common hackberry typcially grows as a broad tree measuring around 50 feet (15 m) tall and 20 inches (50 cm) in diameter [54,150,174]; however, size and growth form can vary with site conditions [26,57,69,72]. Common hackberry trees may reach 110 feet (35 m) tall and 6 feet (1.8 m) in diameter [52]. However, reports of trees this large were rare, and even on well-suited sites, trees 80 feet (24 m) tall and 24 inches (61 cm) in diameter were considered large [150]. In bottomland hardwood forests along major rivers in Missouri, Iowa, and Illinois, the largest common hackberry tree was 85.3 feet (26 m) tall with a 19.5-inch (50 cm) DBH [35]. Common hackberry bark is thick, deeply furrowed, and develops warty cork projections with age [52,174].
 
-![Photo showing close-up of deeply furrowed common hackberry bark.]({{ site.baseurl }}/assets/images/species-reviews/celocc_feis-bark_celocc.jpg)
+![Photo showing close-up of deeply furrowed common hackberry bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-bark_celocc.jpg?itok=vkiuWkog)
 
 Photo Credit
 
@@ -170,7 +170,7 @@ Common hackberry reproduces by seed and can regenerate from sprouts following to
 
 ### Pollination and Breeding System
 
-![Photo showing close-up of common hackberry berry.]({{ site.baseurl }}/assets/images/species-reviews/feis-celocc_berry.jpg)
+![Photo showing close-up of common hackberry berry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-celocc_berry.jpg?itok=E7g5QMhS)
 
 Photo Credit
 

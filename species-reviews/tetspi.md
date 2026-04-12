@@ -36,7 +36,7 @@ Howard, Janet L. 2002. _Tetradymia spinosa_ , shortspine horsebrush. In: Fire Ef
 
 ## Taxonomy
 
-![A photo of a desert plant community with a mix of mid-sized shrubs and tall succulents, with desert mountains in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetspi_habitat.jpg)
+![A photo of a desert plant community with a mix of mid-sized shrubs and tall succulents, with desert mountains in the distance.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-tetspi_habitat.jpg)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Shortspine horsebrush occurs from southeastern Oregon east to Wyoming and south 
 
 Shortspine horsebrush occurs on dry, open foothills, plains, and alkali sinks [16,34]. It grows on skeletal to deep soils [5,24] with clay and loam textures [5,59]. Sites with a large shortspine horsebrush component are often mostly bare ground. In west-central Colorado, a shortspine horsebrush community showed 15% plant cover (9% of which was shortspine horsebrush), 8% litter cover, and 77% bare soil. Although the soil was moist, it was the saltiest of 13 plant communities studied. Researchers speculated that most soil water was lost to evaporation [7]. A northeastern Utah study found shortspine horsebrush dominance was correlated with bare ground and soils with poor cation exchange and high concentrations of soluble salts [10].
 
-![A photo of a green shrub on pale soil below blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetspi_plant.jpeg)
+![A photo of a green shrub on pale soil below blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tetspi_plant.jpeg?itok=nLgh3TzC)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Although shortspine horsebrush is fairly constant in desert plant communities, i
 
 ## Botanical Description
 
-![A close-up photo of the relatively short, narrow leaves and spines of shortspine horsebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetspi_plant.jpg)
+![A close-up photo of the relatively short, narrow leaves and spines of shortspine horsebrush.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-tetspi_plant.jpg)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Shortspine horsebrush is a native subshrub or shrub with semiwoody to woody stem
 
 Shortspine horsebrush flowers from April to June [16]; occasionally flowering extends into August [34]. Colonies usually have synchronous flowering [37,53]. Failure to flower or develop seed is apparently triggered by low rainfall. In very dry years, some individuals -- or entire colonies -- may not flower, or will flower and not set seed [53]. Shortspine horsebrush is drought deciduous, shedding the secondary leaves 1st [23,53].
 
-![A photo of yellow flowers and clusters of small leaves along the stems of shortspine horsebrush..]({{ site.baseurl }}/assets/images/species-reviews/feis-tetspi_flowers.jpg)
+![A photo of yellow flowers and clusters of small leaves along the stems of shortspine horsebrush..](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tetspi_flowers.jpg?itok=Q8kJFTub)
 
 Photo Credit
 

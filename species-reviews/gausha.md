@@ -59,7 +59,7 @@ Salal grows along the Pacific Coast inland to the western slope of the Cascades 
 
 ## Site Characteristics
 
-![A photo of a mounded, spreading shrub growing in the understory of a conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-gausha_habitat.jpeg)
+![A photo of a mounded, spreading shrub growing in the understory of a conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-gausha_habitat.jpeg?itok=J1l1Z3qm)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Salal grows as an understory dominant in a variety of lowland to montane, conife
 
 Salal is an erect to spreading, clonal evergreen shrub or subshrub which grows 1.3 to 10 feet (0.4-3 m) in height [16,67,80,98]. This loosely to densely branched shrub often forms dense, nearly impenetrable thickets [45]. Stems are pilose to hirsute [67] and branchlets glandular to pubescent [98]. Twigs are reddish-brown with shredding bark [130]. Most biomass is concentrated below ground [102] and an extensive, but variable network of roots and rhizomes [24] occupies the top layer of soil [79].
 
-![A close up photo of a shrub's wet, shiny, oval leaves and hanging, white, bell-shaped flowers on pink stems. The background is a mossy tree trunk.]({{ site.baseurl }}/assets/images/species-reviews/feis-gausha_flowers.jpg)
+![A close up photo of a shrub's wet, shiny, oval leaves and hanging, white, bell-shaped flowers on pink stems. The background is a mossy tree trunk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-gausha_flowers.jpg?itok=NNHcLaIN)
 
 Photo Credit
 

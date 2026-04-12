@@ -81,7 +81,7 @@ The long-toed salamander occupies a wide variety of habitats including grassland
 
 ## Botanical and Ecological Characteristics
 
-![A photo of a small, dark brown salamander with bright yellow markings down its back. The salamander is standing in wet brown forest litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-amma_montana.jpg)
+![A photo of a small, dark brown salamander with bright yellow markings down its back. The salamander is standing in wet brown forest litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-amma_montana.jpg?itok=-KCMCp6k)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Life histories of long-toed salamanders vary with temperature and moisture condi
 
 **Santa Cruz long-toed salamanders:**__Living in a mediterranean climate, Santa Cruz long-toed salamanders experience one of the driest environments of the species. Larval development is completed within one season. In drought years, rainfall is sometimes insufficient to allow normal breeding and larval development to occur. In wetter years, migration to breeding ponds begins with late fall and winter rains. Santa Cruz long-toed salamanders only migrate on rainy nights. Subadults move to ponds after light rains, but adults migrate only after heavy, ground-soaking rains. Breeding occurs from January to mid-February and eggs hatch from late February to mid-March. Time from breeding to larval transformation and pond shrinkage varies from about 90 to 140 days. Santa Cruz long-toed salamanders are sexually mature at age 2 [2].
 
-![A photo of an aquatic salamander with frilly gills in a glass jar.]({{ site.baseurl }}/assets/images/species-reviews/amma_amma_aquatic_0_0_0_0.jpeg)
+![A photo of an aquatic salamander with frilly gills in a glass jar.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/amma_aquatic_0_0_0_0.jpeg?itok=NUF-5zPF)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ In summer, proteins and fats are stored in the tails of long-toed salamanders. T
 
 Eastern long-toed salamander larvae in Oregon have been observed feeding on hatchling Pacific treefrog (_Hyla regilla_) larvae. Cascades frog (_Rana cascadae_) larvae and fairy shrimp (_Anostraca_) were other potential prey in the breeding pond [31].
 
-![Two photos side by side; the photo on the left is a clear blue mountain lake with conifer trees and bare rock surrounding the lake. The photo on the right is a ditch on the edge of a railroad partially filled with water.]({{ site.baseurl }}/assets/images/species-reviews/feis-amma_habitats.jpg)
+![Two photos side by side; the photo on the left is a clear blue mountain lake with conifer trees and bare rock surrounding the lake. The photo on the right is a ditch on the edge of a railroad partially filled with water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-amma_habitats.jpg?itok=puODPGkV)
 
 Photo Credit
 

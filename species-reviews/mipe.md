@@ -66,7 +66,7 @@ The meadow vole has the widest distribution of any North American species of Mic
 
 ## Plant Communities
 
-![A photo of a small, round, brown vole with a long thin tail. The vole is sitting on the edge of some vegetation.]({{ site.baseurl }}/assets/images/species-reviews/mipe_feis-MIPE_sitting2.jpg)
+![A photo of a small, round, brown vole with a long thin tail. The vole is sitting on the edge of some vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-MIPE_sitting2.jpg?itok=YifHgCbx)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Normal population cycles do not occur when dispersal is prevented; under normal 
 
 ### Predators
 
-![A photo of a brown and white owl in flight with a brown rodent in its talons. The background is tall dry grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-mipe_shortearedowl.jpg)
+![A photo of a brown and white owl in flight with a brown rodent in its talons. The background is tall dry grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-mipe_shortearedowl.jpg?itok=JEjcOHVF)
 
 Photo Credit
 

@@ -73,7 +73,7 @@ In Florida, habitats dominated by Brazilian peppertree (_Schinus terebinthifoliu
 
 ## Biological Characteristics
 
-![A photo of a brown and yellow turtle with red eyes standing in short grass, with leafy shrubs or trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/teca_feis-TECA_grass2.jpg)
+![A photo of a brown and yellow turtle with red eyes standing in short grass, with leafy shrubs or trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-TECA_grass2.jpg?itok=TM_7yxyj)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Sexual maturity for the eastern box turtle is reached at 5 to 10 years of age [5
 
 ### Predators
 
-![A photo of a turtle with an orange and black shell on bare soil with its shell completely closed on all sides. Shrubby vegetation is in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-teca_closed.jpeg)
+![A photo of a turtle with an orange and black shell on bare soil with its shell completely closed on all sides. Shrubby vegetation is in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-teca_closed.jpeg?itok=1VGulbjj)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Eastern box turtles do not appear to be territorial because they are commonly fo
 
 Forest floor components utilized by eastern box turtles include litter, natural depressions, soft soils, brush, and woody debris. Eastern box turtles often seek shelter by digging a form in moist soil or leaf litter. They sleep within forms at night and rest in them during the day. Their carapaces are partially to completely covered by soil, litter, or vegetation while in the form [71]. The average depth of forms in Arkansas was 0.21 inch (0.53 cm) below the surface [63]. Other cover, such as brush piles, woody debris, briar patches, and tangled vines is utilized throughout the day [71]. Hatchling and juvenile eastern box turtles often hide under leaf litter, which does not offer protection against fire [34]. The microhabitat in which neonate eastern box turtles were found had significantly more leaf litter (p=0.007), less herbaceous cover (p<0.001), and shorter vegetation (p<0.001) than random sites. Neonate eastern box turtles were found at microsites with high light intensity and low canopy cover, which led to higher temperatures than at nearby microsites [38].
 
-![A photo of a pine forest with an open understory and lots of pine needle and leaf litter, with a brown turtle in the middle. The turtle is well camouflaged with the litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-teca_habitat.jpeg)
+![A photo of a pine forest with an open understory and lots of pine needle and leaf litter, with a brown turtle in the middle. The turtle is well camouflaged with the litter.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-teca_habitat.jpeg?itok=ARBzgxku)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ The most important habitat features for hibernating eastern box turtles include 
 
 ## Direct Fire Effects
 
-![A photo of a turtle shell sitting on burned ground. Half of the shell is burned and blistered black.]({{ site.baseurl }}/assets/images/species-reviews/feis-teca_burnedshell.jpg)
+![A photo of a turtle shell sitting on burned ground. Half of the shell is burned and blistered black.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-teca_burnedshell.jpg?itok=LaIuBLK-)
 
 Photo Credit
 

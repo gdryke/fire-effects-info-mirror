@@ -108,7 +108,7 @@ Wisconsin, northern| forest hts| Kotar and others 1988
  
 Common ladyfern is an introduced deciduous perennial fern. Tufted, erect fronds may grow to 6.6 feet (2 m). They spread vegetatively from stout, chaffy rhizomes. Common ladyfern is often confused with wood fern (Dryopteris carthusiana) but can be readily distinguished by its elongate, sometimes curved (rather than round) sori, which are covered by an indusium attached on one side [12].
 
-![Common ladyfern frond.]({{ site.baseurl }}/assets/images/species-reviews/athfil_athfil_plant.jpg)
+![Common ladyfern frond.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/athfil_plant.jpg?itok=0-hLq_X_)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Common ladyfern fronds began dropping in early October in Oregon, apparently as 
 
 ## Regeneration Processes
 
-![Common ladyfern spores on the underside of a leaf.]({{ site.baseurl }}/assets/images/species-reviews/feis-athfil_spores.jpg)
+![Common ladyfern spores on the underside of a leaf.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/feis-athfil_spores.jpg?itok=Q5F1SK-U)
 
 Photo Credit
 

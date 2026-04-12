@@ -60,7 +60,7 @@ American mink range across Canada, excepting the high Arctic, west through Alask
 
 ## Plant Communities
 
-![A photo of a dark brown weasel swimming in blue water.]({{ site.baseurl }}/assets/images/species-reviews/feis-vivi_swimming.jpg)
+![A photo of a dark brown weasel swimming in blue water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-vivi_swimming.jpg?itok=BvEUhX97)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ American mink occur in a wide variety of plant communities. They are associated 
 
 **Breeding season:** In most areas the mating period occurs from late February to early April, peaking in March [1,23]. In southern Florida, however, American mink mate in the late wet season (autumn). Hydroperiod determines prey abundance and availability in southern Florida, which appear to determine breeding season. Female American mink were found to be lactating in March and April, slightly earlier than populations farther north [19].
 
-![A photo of a dark brown weasel poking its head out of a hole in a tree at the water's edge, with a small baby weasel in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-vivi_movingyoung.jpg)
+![A photo of a dark brown weasel poking its head out of a hole in a tree at the water's edge, with a small baby weasel in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-vivi_movingyoung.jpg?itok=73RpciWh)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ American mink mortality due to predators other than humans is not substantial. O
 
 ### Diet
 
-![A photo of a dark brown, wet weasel walking on gravel with a wet mouse in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-vivi_mouse.jpg)
+![A photo of a dark brown, wet weasel walking on gravel with a wet mouse in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-vivi_mouse.jpg?itok=RBRgHZ58)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ American mink are almost exclusively carnivorous. They are excellent swimmers an
 
 In Idaho fish comprised 59 percent of American mink diets [27]. Birds are important prey where fish and crayfish are scarce. In Louisiana crayfish are so prominent in American mink diets that their abundance largely determines American mink population size [1]. In Alaska coastal populations of American mink tend to be higher than inland populations due to the ready availability of prey in tide pools [1]. Eberhardt and Sargeant [12] reported that American mink diets in North Dakota prairie marshes were dominated by birds (78%); other prey included mammals (19%), amphibians (2%), and reptiles (1%). Of the avian prey, the majority were waterfowl including American coot (_Fulica americana_), ducks (Anatidae), and grebes (Podicipedidae) [12]. In southern Manitoba mink are important nest predators of waterfowl [11]. In North Dakota American mink predation on ducklings typically occurs in semipermanent wetlands [1].
 
-![A photo of a dark brown weasel standing on rocks along a lakeshore with a fish in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-vivi_fish.jpg)
+![A photo of a dark brown weasel standing on rocks along a lakeshore with a fish in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-vivi_fish.jpg?itok=VHu93AQ8)
 
 Photo Credit
 

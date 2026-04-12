@@ -78,7 +78,7 @@ No entry.
 
 ## Botanical Description
 
-![A photo of two large tree trunks in front of a green, leafy forest. The trunks are straight, brown, thick and furrowed.]({{ site.baseurl }}/assets/images/species-reviews/feis-carcor_habitat.jpg)
+![A photo of two large tree trunks in front of a green, leafy forest. The trunks are straight, brown, thick and furrowed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carcor_habitat.jpg?itok=utpBYEYU)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Bitternut hickory flowers in April or May. The fruit ripens in September and Oct
 
 Bitternut hickory does not produce abundant seed until the tree is approximately 30 years old [16]. Optimum seed production extends from 50 to 125 years; trees that are more than 175 years old seldom produce seed crops. Good seed crops appear at 3- to 5-year intervals, with light seed crops borne in the intervening years. Bitternut hickory seed is estimated to be from 75 to 85 percent viable. Seed dissemination is almost entirely by gravity [26].
 
-![A close up photo of the tip of a tree branch with a light green, ridged nut at the end of the branch. The dark green, opposite leaves are long, thin and pointed. The background is dark.]({{ site.baseurl }}/assets/images/species-reviews/feis-carcor_seed.jpeg)
+![A close up photo of the tip of a tree branch with a light green, ridged nut at the end of the branch. The dark green, opposite leaves are long, thin and pointed. The background is dark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carcor_seed.jpeg?itok=zN4IcC-l)
 
 Photo Credit
 

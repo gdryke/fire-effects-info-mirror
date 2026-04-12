@@ -49,7 +49,7 @@ Common names are used throughout this synthesis. For a complete list of common a
 
 This review describes ponderosa pine communities in the Black Hills region of South Dakota and Wyoming and surrounding areas. The Black Hills are an isolated mountain range in the Great Plains of southwestern South Dakota and northeastern Wyoming. They cover an uplifted area of more than two million acres (800,000 ha) extending roughly northwest to southeast [73]. From north to south, the uplift is about 124 miles (200 km) long and from east to west, it is 62 miles (100 km) wide [52,73]. The Black Hills rise more than 3,280 feet (1,000 m) above the surrounding, relatively flat Great Plains [25,52]. The surrounding areas covered by this synthesis include portions of southeastern Montana; southwestern North Dakota; northeastern Wyoming; and northern Nebraska, including the Pine Ridge escarpment and the canyon of the central Niobrara River (figure 1).
 
-![Map of north-central United States, showing the distribution of four ponderosa pine community types in the Black Hills of South Dakota and surrounding areas.]({{ site.baseurl }}/assets/images/fire-regimes/black-hills-ponderosa-pine_feis-BlackHillsMap_Figure1.jpg)
+![Map of north-central United States, showing the distribution of four ponderosa pine community types in the Black Hills of South Dakota and surrounding areas.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-05/feis-BlackHillsMap_Figure1.jpg?itok=z4YZtz7G)
 
 Figure 1—Land cover distribution of ponderosa pine communities of the Black Hills and surrounding areas based on the 2008 LANDFIRE Biophysical Settings (BpS) data layer [68]. Numbers indicate LANDFIRE map zones. LANDFIRE did not map every BpS in this group. 
 
@@ -59,7 +59,7 @@ The Black Hills uplift is a unique mountain range jutting out of the surrounding
 
 Rocky Mountain ponderosa pine (hereafter, ponderosa pine) dominates many plant communities in the Black Hills region [28,36,73,86,117]. See the FEIS Species Review of Rocky Mountain ponderosa pine for detailed information on the natural history and fire ecology of this species. Ponderosa pine grows prolifically [14], particularly at mid to high elevations [73], and dominates 95% of the Black Hills' forests and woodlands [87,108] (figures 2A and 2B). Favorable moisture conditions and frequent seed crops help ponderosa pine grow very densely in many areas of the Black Hills if not thinned by disturbance [80]. Grasslands are extensive at low elevations and include both dry and mesic mixed-grass and mesic tallgrass prairies [48,72,83].
 
-![Landscape view of ponderosa pine forest.]({{ site.baseurl }}/assets/images/fire-regimes/feis-black-hills-ponderosa-pine_frs_figure2a.jpg)
+![Landscape view of ponderosa pine forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-black-hills-ponderosa-pine_frs_figure2a.jpg?itok=9IYjAl71)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ US Forest Service [42].
 
 **Figure 2A—** Ponderosa pine grows prolifically in the Black Hills. 
 
-![Ponderosa pine stand in the Black HIlls.]({{ site.baseurl }}/assets/images/fire-regimes/feis-black-hills-ponderosa-pine_frs_figure2b.jpg)
+![Ponderosa pine stand in the Black HIlls.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-black-hills-ponderosa-pine_frs_figure2b.jpg?itok=MQ4jubBP)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ American Indians contributed to frequent presettlement burning in the Black Hill
 
 Locations of the fire history studies reviewed in this synthesis are shown in figure 3, and summary data from these studies are shown in table A1. Study sites were assigned to one of the three ponderosa pine community types using plant community descriptions when available, and using location, elevation, and/or aspect information when plant community descriptions were not given. We analyzed composite MFRIs from each study site to reveal fire frequency patterns (figures 4 and 5); only one MFRI was assigned to each study site (i.e., when multiple studies used the same fire-scar data from the same sites, only one MFRI was included in our analyses). For example, Brown [19] compiled fire chronologies from over 1,000 trees collected at over 50 locations throughout the Black Hills and calculated MFRIs between 1700 and 1900 at 19 intensively sampled sites. Fire history data from some of these sites are referenced and analyzed in other studies by Brown and others (e.g., [18,20,22,24,25]), as noted in table A1. For each site included in table A1, the MFRI from the longest time period studied was used in the analyses. Sites that did not report MFRIs were excluded from fire frequency analyses.
 
-![Map of north-central United States, showing the locations of fire history studies conducted in ponderosa pine communities of the Black Hills region.]({{ site.baseurl }}/assets/images/fire-regimes/black-hills-ponderosa-pine_feis-BlackHills_Figure3.jpg)
+![Map of north-central United States, showing the locations of fire history studies conducted in ponderosa pine communities of the Black Hills region.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-05/feis-BlackHills_Figure3.jpg?itok=q9YTXvkR)
 
 Figure 3—Locations of fire history studies conducted in ponderosa pine communities of the Black Hills region. See table A1 for study details. Some site locations are approximate and based on study descriptions. 
 
@@ -149,7 +149,7 @@ Low-severity wildfires were frequent in Black Hills ponderosa pine communities f
 
 Historical fire frequency generally decreased with increasing latitude and elevation [19,23] (figure 4). At northern latitudes and higher elevations, shorter growing seasons and generally cooler conditions reduced fire likelihood, resulting in longer intervals between fires [18,23]. Longer intervals between fires provided more time for fuels to build up and denser stands to form, resulting in a greater potential for high-severity crown fires [18]. In a widespread study throughout the Black Hills, researchers found that surface fires burned at 10- to 12-year intervals in low-elevation ponderosa pine savannas, and at about 20- to 33-year intervals in high-elevation, mesic forests in the northern and central Black Hills [19]. In the central Rocky Mountains of Colorado and Wyoming, fires became less frequent with increasing latitude from 1600 to 1800 (P < 0.0001), but not from 1700 to 1900 (P = 0.21), suggesting that fire frequencies vary through time as a result of long-term climate variation [23].
 
-![Relationship between mean fire-return interval and elevation for all study sites.]({{ site.baseurl }}/assets/images/fire-regimes/feis-black-hills-ponderosa-pine_frs_figure4.png)
+![Relationship between mean fire-return interval and elevation for all study sites.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-05/feis-black-hills-ponderosa-pine_frs_figure4.png?itok=jj2fxEc9)
 
 Figure 4—Relationship between mean fire-return interval and elevation for all study sites (n = 26) (table A1). The MFRI from the longest time period studied for each site was used in this analysis.
 
@@ -171,7 +171,7 @@ Several studies found evidence of more frequent fire just before and during the 
 
 Guyette et al. [45] developed a model to estimate MFRIs for the presettlement period from about 1650 to 1850 for National Park units throughout the Great Plains region using fire history, temperature, and precipitation datasets. We report their results for individual National Park units that fall within the geographic range covered by this synthesis in the sections below. The 95% confidence intervals were 2.3 years for all MFRIs. Because no empirical data were collected for this model, it was not included in the fire history summary table A1.
 
-![Mean fire interval data reported for fire history study sites in ponderosa pine communities covered by this synthesis.]({{ site.baseurl }}/assets/images/fire-regimes/feis-black-hills-ponderosa-pine_frs_figure5.jpg)
+![Mean fire interval data reported for fire history study sites in ponderosa pine communities covered by this synthesis.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-05/feis-black-hills-ponderosa-pine_frs_figure5.jpg?itok=yLye4Pj1)
 
 Figure 5—MFRI data reported for fire history study sites in ponderosa pine communities covered by this synthesis: Savanna (n=8 sites, yellow), low- to mid-elevation woodland and forest (Woodland, n=14; green), and high-elevation forest (Forest, n=4; blue). Box plots show median MFRIs (horizontal line), MFRI ranges (whiskers), and outliers (black dots). For each site included in table A1, the MFRI from the longest time period studied was used in these analyses.
 
@@ -231,7 +231,7 @@ The absence of frequent surface fires and the selective harvesting of large, old
 
 Large trees used to account for most of the basal area in Black Hills forests, whereas currently, most of the basal area is comprised of small- to medium-size trees [21,26]. From 1874 to 1994, both density and basal area of small (< 8 inch (1-20 cm) size class) ponderosa pines in the southern Black Hills increased along with a more than 5-fold increase in density overall (P < 0.03) [74]. There was a similar increase in density and basal area from 1870 to 2005 in the ponderosa pine forests at Mount Rushmore National Memorial. Average basal area increased by 30% and tree density increased more than 4-fold mainly due to a large increase in trees less than 8 inches (20 cm) in diameter (P < 0.01) [26]. On average, ponderosa pines throughout the Black Hills were larger in 1900 (20-24 inches (51-61 cm) DBH) than in contemporary forests (14-17 inches (36-45 cm) DBH) (P < 0.05) [21].
 
-![Estimated trees killed annually by mountain pine beetles in the Black Hills.]({{ site.baseurl }}/assets/images/fire-regimes/feis-black-hills-ponderosa-pine_frs_figure6.png)
+![Estimated trees killed annually by mountain pine beetles in the Black Hills.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-05/feis-black-hills-ponderosa-pine_frs_figure6.png?itok=Kmu41kok)
 
 Figure 6—Estimated trees killed annually by mountain pine beetles in the Black Hills since 1896 illustrating several large epidemics over time [42]. 
 
@@ -285,7 +285,7 @@ Increasing temperatures and drought are affecting fire regimes and fire seasons 
 
 Throughout the West, wildfire activity has increased in conjunction with warmer spring temperatures and earlier snowmelt [119,120]. A study that examined large wildfire activity on federal lands in the western United States from 1970 to 2003 found that earlier spring snowmelt dates strongly correlated with increased annual wildfire frequency and area burned, especially in mid- to high-elevation forests [119]. They found that most areas, including the Black Hills, were vulnerable to warmer spring temperatures and thus earlier snowmelt dates, which lead to greater cumulative moisture deficit (i.e., drier fuels). Overall, 56% of wildfires and 72% of area burned occurred in early snowmelt years (versus 11% and 4% respectively in late snowmelt years) [119]. In the Middle Rockies Ecoregion (which includes the Black Hills), earlier spring snowmelt was correlated with above-average annual area burned between 1984 and 2012 [84]. On western federal forest lands, both wildfire frequency and area burned increased (>500% and >1200%, respectively) between 2003 and 2012 compared to 1973 to 1982 [120]. A substantial increase in wildfire frequency and area burned was observed in all decades since the 1970s when compared to the preceding decade. Ongoing increase in large wildfire frequency, longer fire seasons and fire duration, and earlier snowmelt are contributing to the overall increase in area burned [120].
 
-![A fire burns in South Dakota.]({{ site.baseurl }}/assets/images/fire-regimes/feis-black-hills-ponderosa-pine_frs_figure7.jpg)
+![A fire burns in South Dakota.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-05/feis-black-hills-ponderosa-pine_frs_figure7.jpg?itok=pDnVaucp)
 
 Photo Credit
 

@@ -52,7 +52,7 @@ silver willow
 
 ## General Distribution
 
-![A map of the Western U.S. and southwest Canada with scattered areas highlighted in green where Geyer willow occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgey_map.jpg)
+![A map of the Western U.S. and southwest Canada with scattered areas highlighted in green where Geyer willow occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-salgey_map.jpg?itok=BHdHhLqk)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Yellowstone NP| wetland hts| Mattson 1984
 
 ## Botanical Description 
  
-![A photo of part of a shrub with silvery green pointed leaves, growing in a sunny location with a conifer tree in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgey_plant.jpg)
+![A photo of part of a shrub with silvery green pointed leaves, growing in a sunny location with a conifer tree in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-salgey_plant.jpg?itok=4FkPVi11)
 
 Photo Credit
 

@@ -131,7 +131,7 @@ SOLELA| Silverleaf nightshade| _Solanum elaeagnifolium_| **Life Form:** Plants/F
 
 ## Image Gallery
 
-![A photo of patchy bunchgrasses growing on a dry flatland with scattered shrubs growing in the near distance.]({{ site.baseurl }}/assets/images/fire-studies/heirman-and-wright-2012_feis-heirman_wright_1973_hero.jpg) Tobosagrass growing in southern New Mexico (CC BY-NC 4.0). _Photo by Connor Keeney, iNaturalist.org, some rights reserved._ 
+![A photo of patchy bunchgrasses growing on a dry flatland with scattered shrubs growing in the near distance.](https://research.fs.usda.gov/sites/default/files/2026-02/feis-heirman_wright_1973_hero.jpg) Tobosagrass growing in southern New Mexico (CC BY-NC 4.0). _Photo by Connor Keeney, iNaturalist.org, some rights reserved._ 
  
 Photo Credit: Photo by Connor Keeney, iNaturalist.org, some rights reserved.
 

@@ -49,7 +49,7 @@ The genus _Vulpia_ is distinguished by annual life form and cleistogamous breedi
 
 ### Synonyms
 
-![A photo of a grassland dominated by dried grasses, with green hills behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmic_grassland.jpg)
+![A photo of a grassland dominated by dried grasses, with green hills behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmic_grassland.jpg?itok=nM9PB3-r)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ Small sixweeks grass is most important in California's annual grassland communit
 
 ### California Grasslands
 
-![A photo of a grassland or large meadow dominated by grasses and forbs, with patches of green grass amongst golden grasses, and yellow flowers scattered throughout. Conifers and mountains are visible in the distance at the horizon.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmic_habitat.jpg)
+![A photo of a grassland or large meadow dominated by grasses and forbs, with patches of green grass amongst golden grasses, and yellow flowers scattered throughout. Conifers and mountains are visible in the distance at the horizon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmic_habitat.jpg?itok=9TeNh57G)
 
 Photo Credit
 
@@ -160,7 +160,7 @@ In 1913, Weaver [110] recorded Pacific small sixweeks grass as the dominant annu
 
 ## Botanical Description
 
-![A photo of the top of a grass stem with long-awned spikelets clustered in several spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmic_panicle.jpeg)
+![A photo of the top of a grass stem with long-awned spikelets clustered in several spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmic_panicle.jpeg?itok=E3b6yROn)
 
 Photo Credit
 

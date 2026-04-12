@@ -59,7 +59,7 @@ Swamp titi occurs in swamps on the Atlantic and Gulf coastal plains from eastern
 
 ## Site Characteristics
 
-[![A photo of branches of a shrub hanging over water. The plant has large oval leaves, and long sprays of white flowers. The water is dark and still, with some reflections of trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyrrac_flowers.jpeg)Photo Credit Photo by Lauren Clark, iNaturalist.org, CC BY 4.0. Swamp titi flowers, Jasper Co., TX.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of branches of a shrub hanging over water. The plant has large oval leaves, and long sprays of white flowers. The water is dark and still, with some reflections of trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cyrrac_flowers.jpeg?itok=xeN1ABx2)Photo Credit Photo by Lauren Clark, iNaturalist.org, CC BY 4.0. Swamp titi flowers, Jasper Co., TX.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Swamp titi is usually restricted to low elevation areas along streambanks, river swamps, and bottomlands [3,7]. Swamp titi grows well where moisture is abundant and fairly permanent [6,10].
 
@@ -79,7 +79,7 @@ South Carolina| general veg. cts| Nelson 1986
 
 ## Botanical Description 
  
-![A photo of a shrub or tree with hanging sprays of small brown seeds. There are some dark green, shiny, pointed leaves, but most of the stems are bare. The plant is in the sun and the background is an open forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyrrac_seeds.jpeg)
+![A photo of a shrub or tree with hanging sprays of small brown seeds. There are some dark green, shiny, pointed leaves, but most of the stems are bare. The plant is in the sun and the background is an open forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cyrrac_seeds.jpeg?itok=ZnSYro3m)
 
 Photo Credit
 

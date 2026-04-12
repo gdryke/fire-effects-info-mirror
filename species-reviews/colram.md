@@ -70,7 +70,7 @@ Blackbrush individuals alter the soil chemistry around their bases [16,17,121]. 
 
 ## Plant Communities
 
-![A photo of a blackbrush community with relatively short eastern Joshua trees occurring somewhat widely spaced, but common overall. A burned slope in the background appears to have few shrubs growing on it.]({{ site.baseurl }}/assets/images/species-reviews/feis-colram_yujacoracommunity.jpeg)
+![A photo of a blackbrush community with relatively short eastern Joshua trees occurring somewhat widely spaced, but common overall. A burned slope in the background appears to have few shrubs growing on it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-colram_yujacoracommunity.jpeg?itok=9mWSoOLj)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ In California, blackbrush occurs as a subdominant species in the Mojave mixed wo
  * Northern Mojave: singleleaf pinyon (_P. monophylla_)/blackbrush/blue grama (_Bouteloua gracilis_); singleleaf pinyon/blackbrush/wavyleaf Indian paintbrush (_Castilleja applegatei_); singleleaf pinyon/blackbrush/ Sandberg bluegrass (_Poa secunda_); Utah juniper (_J. osteosperma_)/blackbrush/blue grama, Utah juniper/blackbrush/Indian ricegrass (_Achnatherum hymenoides_); Utah juniper/blackbrush/mutton grass (_Poa fendleriana_)
  * Southeastern Great Basin: Utah juniper/blackbrush/bottlebrush squirreltail (_Elymus elymoides_)
 
-![A photo of a blackbrush community, with bare ground between plants and few shrubs other than blackbrush. In the near distance, junipers are interspersed with blackbrush, and desert mountains rise in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-colram_hero.jpg)
+![A photo of a blackbrush community, with bare ground between plants and few shrubs other than blackbrush. In the near distance, junipers are interspersed with blackbrush, and desert mountains rise in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-colram_hero.jpg?itok=bWjUp6bv)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Publications describing blackbrush-dominated plant communities are:
 
 Blackbrush is a native, aromatic shrub with soft wood [109], growing from 1 to 6 feet (0.3-2 m) tall [16,27,38,79,84,85,90,117,123]. It shows compact, erect growth, with a symmetrically round form [16,118]. The scientific name refers to the unusual sheath or torus around the ovary (_Coleogyne_) and to its many-branched morphology (_ramosissima_) [17]. The common name is derived from the color of the dense branches, which have gray bark that turns black with age or when wet [8,16,17,90]. The terminal branches grow for a few years then die, drying back for several centimeters from the tip and resulting in the characteristically tangled spinescence of blackbrush [16,17,79,84,85]. Apical dominance is removed when the terminal buds die, allowing development of lateral branches [16,78,79,84,85]. The shrub undergoes stem-splitting, in which the main stem splits into several smaller portions [16,17]. These clusters of multi-stemmed segments also correspond to separate segments of the root system [118].
 
-![A photo of yellow flowers growing from a woody shrub with green leaves, with other shrubs and bare ground visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-colram_flowers.jpg)
+![A photo of yellow flowers growing from a woody shrub with green leaves, with other shrubs and bare ground visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-colram_flowers.jpg?itok=21BSmm2U)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ Blackbrush is killed by fire and does not resprout. It is very susceptible to fi
 
 Blackbrush is a nonsprouter after fire and does not aggressively return to burned sites [8,17,20,36,124,125,129,129]. A number of common desert shrubs and annuals occupy blackbrush sites after a fire, but very few blackbrush seedlings are usually present [17]. Fire destroys the short-lived blackbrush seedbank [72], and blackbrush may take 60 years or more to reestablish after fire [17,72]. Blackbrush reinvades so slowly following fire that even after 35 years it may not be an important component of the vegetation [37].
 
-![A photo of a desert with a medium-sized blackbrush individual in the foreground and native bunchgrasses with some flowering forbs dominating vegetation behind. Widely space Joshua trees occur in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-colram_survivor.jpg)
+![A photo of a desert with a medium-sized blackbrush individual in the foreground and native bunchgrasses with some flowering forbs dominating vegetation behind. Widely space Joshua trees occur in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-colram_survivor.jpg?itok=3XDZfs15)
 
 Photo Credit
 

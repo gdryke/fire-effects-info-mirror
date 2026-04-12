@@ -58,7 +58,7 @@ Yaupon grows along the Gulf and Atlantic coastal plains of the southeastern Unit
 
 ## Site Characteristics
 
-![A photo of a shrubby tree covered in small green leaves and many small, bright red fruits. The shrub is growing in part sun, below tall pine trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilevom_habitat.jpeg)
+![A photo of a shrubby tree covered in small green leaves and many small, bright red fruits. The shrub is growing in part sun, below tall pine trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ilevom_habitat.jpeg?itok=PvgIV5sB)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ No entry.
 
 ## Botanical Description
 
-![A close up photo of a branch with many bright red, round berries along the stems. The leaves are small and oval, and the background is a mix of blurry blue sky and vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-ilevom_plant.jpg)
+![A close up photo of a branch with many bright red, round berries along the stems. The leaves are small and oval, and the background is a mix of blurry blue sky and vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ilevom_plant.jpg?itok=3IRpS01f)
 
 Photo Credit
 

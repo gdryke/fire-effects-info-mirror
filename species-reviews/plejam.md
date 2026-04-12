@@ -38,7 +38,7 @@ Simonin, Kevin A. 2000. _Pleuraphis jamesii_ , James' galleta. In: Fire Effects 
 
 The scientific name of James' galleta is _Pleuraphis jamesii_ Torr. (Poaceae) [46,56].
 
-![A photo of a low, spreading grass with green and pale yellow leaves. Reproductive stems grow above the leaves and are topped with reddish spikes. Fine-textured, dry ground surrounds the plant with a few rocks and some litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-plejam_plant.jpg)
+![A photo of a low, spreading grass with green and pale yellow leaves. Reproductive stems grow above the leaves and are topped with reddish spikes. Fine-textured, dry ground surrounds the plant with a few rocks and some litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plejam_plant.jpg?itok=PZNK08M4)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ New Mexico| 3,500 to 7,500 feet (1,067-2,286 m) [36]
  
 ## Plant Communities
 
-![A photo of Jaes' galleta dominating the graminoid layer with two trees, likely junipers, behind and low shrubs growing around. Rocky bare ground is visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-plejam_community2.jpg)
+![A photo of Jaes' galleta dominating the graminoid layer with two trees, likely junipers, behind and low shrubs growing around. Rocky bare ground is visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plejam_community2.jpg?itok=ILi67nDs)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ In Arizona James' galleta occurs in pinyon-juniper, shortgrass, and sagebrush pl
 
 ### Common Plant Associates
 
-![A photo of several spreading bunchgrasses with reproductive stems much taller than the leaves. A variety of shrubs and forbs grow at widely spaced intervals, with rocky bare ground around plants and desert hills rising in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-plejam_community.jpeg)
+![A photo of several spreading bunchgrasses with reproductive stems much taller than the leaves. A variety of shrubs and forbs grow at widely spaced intervals, with rocky bare ground around plants and desert hills rising in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plejam_community.jpeg?itok=gIO7hPmG)
 
 Photo Credit
 

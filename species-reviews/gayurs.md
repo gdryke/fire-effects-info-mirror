@@ -76,7 +76,7 @@ Mixed deciduous| 2,297 to 2,953 feet (700-900 m) [9,10]
 
 ## Plant Communities
 
-![A photo of a forest with light filtering down on to a dense shrub understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-gayurs_habitat.jpg)
+![A photo of a forest with light filtering down on to a dense shrub understory.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-gayurs_habitat.jpg?itok=DP7QZkki)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Bear huckleberry is also common in the eastern hemlock (_Tsuga canadensis_) fore
 
 ## Botanical Description
 
-![A photo of a leafy shrub with bright green leaves and tiny white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-gayurs_plant.jpg)
+![A photo of a leafy shrub with bright green leaves and tiny white flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-gayurs_plant.jpg?itok=nt7s1dhz)
 
 Photo Credit
 

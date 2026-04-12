@@ -49,7 +49,7 @@ ahuehuete, pentamon, cipres, sabino, yucu-ndatura
 
 ## Distribution
 
-![A map of the southern U.S. and Mexico, with areas highlighted in green where Montezuma bald cypress occurs. Almost all of the highlighted areas are in Mexico, with a tiny sliver in south Texas.]({{ site.baseurl }}/assets/images/species-reviews/taxmuc_feis-TAXMUC_map.jpg)
+![A map of the southern U.S. and Mexico, with areas highlighted in green where Montezuma bald cypress occurs. Almost all of the highlighted areas are in Mexico, with a tiny sliver in south Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-TAXMUC_map.jpg?itok=2niLvZZ0)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Montezuma bald cypress occurs in the riparian zone of a desert shrub community a
 
 ## Botanical Description
 
-![A photo of the base of two trees, with wide, buttressed trunks. The ground is cobbles and gravel, with some standing water on the right.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxmuc_boles.jpg)
+![A photo of the base of two trees, with wide, buttressed trunks. The ground is cobbles and gravel, with some standing water on the right.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-taxmuc_boles.jpg?itok=-QAcm0uD)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Montezuma bald cypress has a broad, spreading crown with strong, horizontal bran
 
 ## Seasonal Development
 
-![A landscape photo of a large river with a flat-topped, wide-branched conifer tree growing on the edge. Other shrubs and trees are on both sides of the river but no other large conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxmuc_habitat.jpg)
+![A landscape photo of a large river with a flat-topped, wide-branched conifer tree growing on the edge. Other shrubs and trees are on both sides of the river but no other large conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-taxmuc_habitat.jpg?itok=iBPaUuya)
 
 Photo Credit
 

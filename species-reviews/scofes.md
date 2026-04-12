@@ -53,7 +53,7 @@ whitetop rivergrass, sprangletop
 
 Common rivergrass has a circumpolar distribution. In North America, it occurs primarily in the Northern Great Plains and Prairie Pothole region of the United States and Canada from Nebraska and Iowa north through Manitoba, Saskatchewan, and Alberta to the Northwest Territories. Disjunct populations occur in eastern Oregon, Utah, Wyoming, Montana, and Alaska [13,14,16,17,19,23].
 
-![A map of the northern United States and Canada, with many western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-scofes_distribution.jpg)
+![A map of the northern United States and Canada, with many western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-scofes_distribution.jpg?itok=hpOdLl_e)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Distribution of common rivergrass in North America.
 
 Common rivergrass grows in northern climates where the winters are cold. It occurs in seasonally flooded wetlands including wet depressed meadows, prairie potholes, and lake and river margins [4,20,36]. Common rivergrass shoots have been observed elongating in 32 degree Fahrenheit (0 deg C) water [36]. Common rivergrass occurs in freshwater and saline wetlands, with optimal occurrence in oligosaline water [20,26]. Common rivergrass germination is substantially reduced by soil sodium chloride concentrations of 1,000 parts per million and higher [11,38]. Optimal seedling emergence occurred in soil containing 250 parts per million sodium chloride. Seedling emergence decreased steadily as magnesium chloride concentrations increased from 0 to 6,000 parts per million [38]. Common rivergrass has been reported in water with specific conductivity as low as 0.1 and as high as 12.1 millisiemens per centimeter, with a mean of 3.4 [20,38]. Common rivergrass occurs in the shallow marsh zone which is inundated by snowmelt water until June or July [36]. The soil surface does not dry out except possibly at the end of the growing season [26]. The thick, corky epidermis of the rhizomes prevents desiccation by drying or freezing [36]. Established common rivergrass is generally tolerant of continuous flooding for 1 to 2 years, with individual plants surviving as many as 5 to 6 years [31]. Common rivergrass grows on mineral soils high in clay with some organic matter [15,36]. In the Peace-Athabasca Delta of Alberta, average particle distribution of the mineral fraction of common rivergrass sites was 5 percent sand, 49 percent silt, and 46 percent clay. Organic content in the upper 12 inches (30 cm) averaged 23 percent, and soil pH averaged 6 [4].
 
-[![A photo of golden and green grasses with open panicles. A dragonfly sits on a grass stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-scofes_community.jpeg)Photo Credit Photo by J. Burke Korol, iNaturalist (CC BY-NC 4.0). Common rivergrass growing on the margin of Candle Lake in Saskatchewan, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of golden and green grasses with open panicles. A dragonfly sits on a grass stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-scofes_community.jpeg?itok=T_8nYXJn)Photo Credit Photo by J. Burke Korol, iNaturalist (CC BY-NC 4.0). Common rivergrass growing on the margin of Candle Lake in Saskatchewan, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Plant Communities
 
@@ -96,7 +96,7 @@ Common rivergrass is an emergent, perennial, rhizomatous cool-season grass which
 
 Common rivergrass shoot emergence is initiated from mid-April to mid-May while the ground is still inundated with water. Deeply submerged plants break the water surface at the same time as plants in shallow water. Flowers develop in May. Seeds mature from mid-June to late July. Germination of 1-year-old or older seeds occurs from mid-July to late August when the ground surface is no longer inundated. Rhizomes are produced from late August to mid-September. Dormancy begins in late September and early October [36].
 
-[![A photo of a green, open grass panicle with green grasses and lakeshore in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-scofes_panicle.jpeg)Photo Credit Photo by Tucker James, iNaturalist (CC BY-NC 4.0). Common rivergrass panicle in Saskatchewan, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a green, open grass panicle with green grasses and lakeshore in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-scofes_panicle.jpeg?itok=8ieDSXGS)Photo Credit Photo by Tucker James, iNaturalist (CC BY-NC 4.0). Common rivergrass panicle in Saskatchewan, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Regeneration Processes
 

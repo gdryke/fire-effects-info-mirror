@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northeastern spruce-fir communities has not
 
 ## Distribution
 
-![A map showing the distribution of northeastern spruce-fir communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northeastern-spruce-fir_feis-northeastern_spruce_fir_locator.jpg)
+![A map showing the distribution of northeastern spruce-fir communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-northeastern_spruce_fir_locator.jpg?itok=PlA2Ywb6)
 
 Photo Credit
 

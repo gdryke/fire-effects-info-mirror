@@ -34,7 +34,7 @@ Anderson, Michelle D. 2004. _Sarcobatus vermiculatus_ , black greasewood. In: Fi
 
 ## Introduction
 
-![A photo of a much-branching green shrub with somewhat small, succulent leaves and visible dry woody stems and twigs. Bare expanses of sandy soil occur between plants, and dense, dry, gray-green shrubs dominate behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarver_plant.jpg)
+![A photo of a much-branching green shrub with somewhat small, succulent leaves and visible dry woody stems and twigs. Bare expanses of sandy soil occur between plants, and dense, dry, gray-green shrubs dominate behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-sarver_plant.jpg?itok=9hxY5uQs)
 
 Photo Credit
 
@@ -128,7 +128,7 @@ Black greasewood is phreatophytic [40,48], and its distribution is well correlat
 
 On saline sites black greasewood may grow in nearly pure stands [15,16,48,96] or in association with saltbushes (_Atriplex_ spp.) [15,128]. On less saline sites it may occur with several other shrub species [128]. Shrubs commonly codominant with black greasewood are rubber rabbitbrush (_Chrysothamnus nauseosus_), budsage (_Artemisia spinescens_), big sagebrush (_A. tridentata_), fourwing saltbush (_Atriplex canescens_), and shadscale (_A. confertifolia_) [7,13,38,93,96,128,141,142]. Other shrub associates include spiny hopsage (_Grayia spinosa_), winterfat (_Krascheninnikovia lanata_), black sagebrush (_Artemisia nova_), and snakeweeds (_Gutierrezia_ spp.) [96].
 
-![A photo of a desert flatland community, with dense, much-branched shrubs occurring in clusters and a patch of tall, yellow grasses growing between some of the shrubs. Bare ground is visible in between patches of shrubs. Desert mountains rise in the distance below blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarver_habitat.jpg)
+![A photo of a desert flatland community, with dense, much-branched shrubs occurring in clusters and a patch of tall, yellow grasses growing between some of the shrubs. Bare ground is visible in between patches of shrubs. Desert mountains rise in the distance below blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-sarver_habitat.jpg?itok=mI83fdXi)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ The following description of black greasewood provides characteristics that may 
 
 Black greasewood is a native flowering perennial [83,107,112,116]. Its growth form is erect to low and spreading, reaching 10 feet (3 m) tall [5,15,16,47,48,66,74,96,103,107,112,116] and 3 to 6 feet (0.9-1.8 m) across [78]. The multiple branches are brittle and spinescent; the ends of smaller branches taper to sharp thorns [15,16,17,47,48,50,66,74,96,103,107,116]. Deciduous leaves are fleshy and narrow, and are 0.4 to 1.6 inches (1-4 cm) long [15,16,17,47,48,50,66,66,74,96,103,103,107,116]. Black greasewood seeds have long wings and are 0.16 to 0.2 inch (4-5 mm) long and 0.39 inch (1 cm) wide (including wing margin) [17,66].
 
-![A photo of pinkish, upright, catkin-like clusters of inconspicuous flowers growing from the ends of stems, with long, narrow, fleshy, upright green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarver_flowers.jpg)
+![A photo of pinkish, upright, catkin-like clusters of inconspicuous flowers growing from the ends of stems, with long, narrow, fleshy, upright green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-sarver_flowers.jpg?itok=ePdLWOxM)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Tollefson, Jennifer E. 2006. _Bromus carinatus_ ; California brome, mountain bro
 
 ## Taxonomy
 
-![A photo of a somewhat open grass panicle with narrow stems. Leaves are not visible in the photo. Yellow flowers are scattered in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-brocar_plant.jpg)
+![A photo of a somewhat open grass panicle with narrow stems. Leaves are not visible in the photo. Yellow flowers are scattered in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-brocar_plant.jpg?itok=xrpES62B)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ California brome is adapted to sites where the minimum winter temperature is abo
 
 ## Plant Communities
 
-![A photo of a grass panicle on somewhat narrow stems with dense spikes. A green, rolling slope is dominated by grasses with some pink flowers behind. The ocean is visible in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-brocar_community.jpg)
+![A photo of a grass panicle on somewhat narrow stems with dense spikes. A green, rolling slope is dominated by grasses with some pink flowers behind. The ocean is visible in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-brocar_community.jpg?itok=wJAJPkr5)
 
 Photo Credit
 
@@ -235,7 +235,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 _Bromus carinatus_ is a cool-season, perennial bunchgrass [87,103,114,117,148,178,231,255,262]. It is sometimes described as an annual [117,190,217,289] or a biennial [110,117,190]. It is a rapid-growing and short-lived species [48,49,93,108,178,239,262,265,289]. The lifespan of Bromus carinatus is approximately 3 to 10 years, although strong self-seeding habits may allow a stand to persist longer [227,231,272]. If seeding does not occur, _Bromus carinatus_ is likely to be replaced by longer-lived species [178].
 
-![A photo of a flowering grass panicle, with yellow anthers drooping from spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-brocar_flowering.jpeg)
+![A photo of a flowering grass panicle, with yellow anthers drooping from spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-brocar_flowering.jpeg?itok=Tc483Xkw)
 
 Photo Credit
 
@@ -401,7 +401,7 @@ Seedling establishment after a fire is likely related to the amount of viable se
 
 ## Plant Response to Fire
 
-![A photo of a grass with wide leaves and somewhat narrow panicles growing with bare ground around the plant, but many other grasses, shrubs, and forbs growing around. Standing and fallen burned tree trunks are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-brocar_burn.jpg)
+![A photo of a grass with wide leaves and somewhat narrow panicles growing with bare ground around the plant, but many other grasses, shrubs, and forbs growing around. Standing and fallen burned tree trunks are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-brocar_burn.jpg?itok=AfXa1s2I)
 
 Photo Credit
 

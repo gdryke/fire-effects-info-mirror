@@ -36,7 +36,7 @@ Fryer, Janet L. 2007. _Quercus douglasii,_ blue oak. In: Fire Effects Informatio
 
 ## Taxonomy
 
-![Photo of a single blue oak tree growing in a sunny grassland.]({{ site.baseurl }}/assets/images/species-reviews/feis-quedou_tree.jpg)
+![Photo of a single blue oak tree growing in a sunny grassland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quedou_tree.jpg?itok=VvNle_eB)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Blue oak typically occurs below 3,900 feet (1,200 m) elevation [114]. Its elevat
 
 ## Plant Communities
 
-![Photo of a blue oak woodland with large boulders in foreground.]({{ site.baseurl }}/assets/images/species-reviews/quedou_feis-stand_quedou.jpg)
+![Photo of a blue oak woodland with large boulders in foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-stand_quedou.jpg?itok=zUvFMEII)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ The following vegetation typings describe blue-oak dominated communities. Typing
 
 ## Botanical Description
 
-![Photo of blue oak foliage in the sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-quedou_hero.jpeg)
+![Photo of blue oak foliage in the sun.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quedou_hero.jpeg?itok=kw2V-uGD)
 
 Photo Credit
 
@@ -203,7 +203,7 @@ Blue oak is monoecious and rarely self fertile. Since blue oak is mostly outcros
 
 ### Seed Production
 
-![Photo of a green, unripe acorn.]({{ site.baseurl }}/assets/images/species-reviews/feis-quedou_acorn_0.jpeg)
+![Photo of a green, unripe acorn.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quedou_acorn_0.jpeg?itok=_wQduVgW)
 
 Photo Credit
 
@@ -416,11 +416,11 @@ Lower southeastern slope| 45ac| 9| 50ab| 50a| 64| 5| 8
 Upper southeastern slope| 54c| 6| 50ab| 100b| 40| 9| 24 
 *Within columns, numbers with different letters are significantly different (_P_ <0.05). 
  
-![Graph of new scar formation on blue oaks after a wildfire in Sequoia National Park.]({{ site.baseurl }}/assets/images/species-reviews/feis-quedou_graph_scar.jpg)
+![Graph of new scar formation on blue oaks after a wildfire in Sequoia National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quedou_graph_scar.jpg?itok=qI-1jhWM)
 
 New scar formation on blue oaks after a wildfire in Sequoia National Park [102].
 
-![Graph of percent crown scorched blue oak after a wildfire in Sequoia National Park.]({{ site.baseurl }}/assets/images/species-reviews/feis-quedou_graph_sprout.jpg)
+![Graph of percent crown scorched blue oak after a wildfire in Sequoia National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-quedou_graph_sprout.jpg?itok=047IYk5R)
 
 Crown sprouting in scorched blue oak wildfire in Sequoia National Park [102].
 

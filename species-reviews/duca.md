@@ -34,7 +34,7 @@ Sullivan, Janet. 1994. _Dumetella carolinensis_ , gray catbird. In: Fire Effects
 
 ## Image Gallery
 
-![Gray catbird perched on the branch of a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-duca_bird.jpg) Gray catbird. _Photo by Iwoldartist and courtesy of Wikimedia Commons, with some rights reserved (CC BY 2.0)._
+![Gray catbird perched on the branch of a tree.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-duca_bird.jpg) Gray catbird. _Photo by Iwoldartist and courtesy of Wikimedia Commons, with some rights reserved (CC BY 2.0)._
 
 Photo Credit: Photo by Iwoldartist and courtesy of Wikimedia Commons, with some rights reserved (CC BY 2.0).
 

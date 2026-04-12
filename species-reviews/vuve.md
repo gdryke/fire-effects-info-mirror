@@ -36,7 +36,7 @@ Meyer, Rachelle. 2009. _Vulpes velox_ , swift fox. In: Fire Effects Information 
 
 ## Taxonomy
 
-![A swift fox sits amongst grasses.]({{ site.baseurl }}/assets/images/species-reviews/vuve_feis-SwiftFox.jpg)
+![A swift fox sits amongst grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-SwiftFox.jpg?itok=Yy_XglSi)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ None
 
 According to reviews published in 2003 [1] and 2005 [63,106], swift foxes occur from northern Texas and eastern New Mexico north through eastern Colorado and western Kansas to Wyoming, southeastern Montana, and southwestern South Dakota. A map of the swift fox's core range is available at NatureServe. Reintroductions of swift fox along the southern border of Saskatchewan and Alberta and in northern Montana have resulted in isolated populations in these areas [3,10,63]. Despite increases in abundance and geographic extent since the 1950s and 1960s [1,106], swift foxes are rare in some northerly portions of their range, and their current distribution does not extend as far north or east as their historical distribution [1,10,122].
 
-![A landscape view of shortgrass prairie in Wyoming with rolling hills and golden grasses.]({{ site.baseurl }}/assets/images/species-reviews/vuve_feis-shortgrassWY1.jpg)
+![A landscape view of shortgrass prairie in Wyoming with rolling hills and golden grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-shortgrassWY1.jpg?itok=s1nDwP9t)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Data from southeastern Colorado suggest that swift foxes do not breed every year
 
 Sex ratios of swift fox populations in Colorado [95] and New Mexico [31] were similar to 1:1. A review also notes that sex ratio is typically 1:1 [21].
 
-![Four swift fox pups lounge around their den.]({{ site.baseurl }}/assets/images/species-reviews/vuve_feis-pups.jpg)
+![Four swift fox pups lounge around their den.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pups.jpg?itok=RATH1Tus)
 
 Photo Credit
 
@@ -192,7 +192,7 @@ More research is needed to determine the geographic extent and degree of influen
 
 Swift foxes are den dependent, relying on dens year-round for shelter, escape from predators, and rearing of young. Swift fox dens typically occur in flat areas of shortgrass prairies. Swift foxes occasionally den in rangelands and croplands [21,37]. A review notes the occurrence of swift fox dens in cemeteries [21]. Swift foxes build their own dens in suitable soil or modify those of species such as American badgers (Taxidea taxus) and ground squirrels (Spermophilus spp.) [10]. The relation of dens to water is uncertain. Dens are often near roads. Den location may also be influenced by the use of an area by coyotes and prairie dogs. For a thorough review of swift fox den selection see Harrison and Whitaker-Hoagland [34].
 
-![A swift fox at its den.]({{ site.baseurl }}/assets/images/species-reviews/vuve_feis-AtDen1.jpg)
+![A swift fox at its den.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-AtDen1.jpg?itok=HbRuntXg)
 
 Photo Credit
 
@@ -392,7 +392,7 @@ There is limited evidence of exclusion of swift foxes by red foxes [34], which s
 
 The loss and degradation of shortgrass prairie habitat by grazing, urbanization, or conversion to agriculture are also major threats to swift foxes [10,93,106,122]. Conversion of habitat to irrigated agricultural land was probably the major cause of the extirpation of a swift fox population near Denver, Colorado [59]. Grazing can have both positive and negative impacts on swift foxes (see Habitat Management, below). However, reviews note that overgrazing degrades habitat and results in increased shrub cover [34,122]. In addition to habitat-related impacts, agriculture [100] and grazing [11] can result in accidental swift fox deaths.
 
-![A swift fox stands in a grassy field.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuve_field.jpg)
+![A swift fox stands in a grassy field.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-vuve_field.jpg?itok=bsKp5HD8)
 
 Photo Credit
 

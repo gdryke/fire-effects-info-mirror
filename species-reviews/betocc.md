@@ -38,7 +38,7 @@ Gucker, Corey. 2012. _Betula occidentalis_ , water birch. In: Fire Effects Infor
 
 The scientific name of water birch is _Betula occidentalis_ Hook. (Betulaceae) [31,61].
 
-![A photo of long, dangling catkins and short, upright catkins, with small, new leaves growing from twig ends.]({{ site.baseurl }}/assets/images/species-reviews/feis-betocc_hero.jpeg)
+![A photo of long, dangling catkins and short, upright catkins, with small, new leaves growing from twig ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-betocc_hero.jpeg?itok=wyepBGVk)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ mountain birch, river birch, western birch
 
 Water birch occurs primarily in western North America. Populations are especially common throughout the Rocky Mountains and reach as far east as northwestern Ontario [31]. Water birch does not occur east of 82° W in Canada [123].
 
-![A map of the United States and Canada, with a shaded polygon extending from eastern Alaska and Ontario in the north to California and New Mexico in the south.]({{ site.baseurl }}/assets/images/species-reviews/feis-betocc_map.gif)
+![A map of the United States and Canada, with a shaded polygon extending from eastern Alaska and Ontario in the north to California and New Mexico in the south.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-betocc_map.gif?itok=U7z6cbp6)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ The western North American distributions for water birch hybrids (Eastwood's bir
 
 ## Site Characteristics
 
-![A photo of a small, shrubby tree growing on the bank of a creek, with conifers growing across the creek.]({{ site.baseurl }}/assets/images/species-reviews/feis-betocc_habitat.jpg)
+![A photo of a small, shrubby tree growing on the bank of a creek, with conifers growing across the creek.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-betocc_habitat.jpg?itok=UB-e7JNl)
 
 Photo Credit
 
@@ -180,7 +180,7 @@ See the Fire Regime Table for a list of plant communities in which water birch m
 
 ## Botanical and Ecological Characteristics
 
-![A photo of a somewhat oval-shaped leaf with fine, doubly-serrate margins.]({{ site.baseurl }}/assets/images/species-reviews/feis-betocc_leaves.jpg)
+![A photo of a somewhat oval-shaped leaf with fine, doubly-serrate margins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-betocc_leaves.jpg?itok=m518fwuR)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ Photo © Tom DeGomez, University of Arizona, Bugwood.org.
 
 Water birch leaves
 
-![A close-up photo of two small catkins with overlapping scales, with the serrate margins of two leaves visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-betocc_catkins.jpg)
+![A close-up photo of two small catkins with overlapping scales, with the serrate margins of two leaves visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-betocc_catkins.jpg?itok=E9ATGxET)
 
 Photo Credit
 

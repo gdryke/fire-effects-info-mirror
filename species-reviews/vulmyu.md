@@ -64,7 +64,7 @@ Rattail sixweeks grass is native to Eurasia. It is nonnative in North America [1
 
 In western North America, rattail sixweeks grass occurs from Alaska south to southern Mexico and east to Nevada and Arizona. It is occasional in the central United States and common in the East [46]. Based on early vegetation surveys, rattail sixweeks grass was probably first introduced in California before the 1800s [92,147] and was well established across the West by the 1890s. It is sometimes identified as a native annual (for example, [87,107,147,167]) in literature written before synonymy of V. myuros and V. megalura was widely accepted (see Taxonomy). Grass Manual on the Web provides a distributional map of rattail sixweeks grass in the United States and Canada.
 
-![A photo of a sandstone shelf with a narrow patch of soil where brownish grasses occur on almost all of the soil. Some leafy branches of a shrub are visible on one side.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmyu_zion.jpg)
+![A photo of a sandstone shelf with a narrow patch of soil where brownish grasses occur on almost all of the soil. Some leafy branches of a shrub are visible on one side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmyu_zion.jpg?itok=GIf9g7EY)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ As of 2006, only California grassland vegetation typings described rattail sixwe
 
 ## Botanical Description
 
-![A photo of a bright green grass panicle in fruit with long awns.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmyu_repro.jpg)
+![A photo of a bright green grass panicle in fruit with long awns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmyu_repro.jpg?itok=JsVk3BgF)
 
 Photo Credit
 
@@ -231,7 +231,7 @@ Disturbance favors rattail sixweeks grass [11,36]. East of the West Coast states
 
 Although it is not confined to disturbed sites, rattail sixweeks grass occupies some of the most highly disturbed sites on the West Coast. It was present on xeric rock mound tops on the banks of the Merced River of California. Rocks were piled when the river was dredged for gold from 1910 to 1950, and postdredge vegetation surveys were conducted in the early 1980s [216]. Rattail sixweeks grass also grows on toxic mine spoils (see discussion of Heeraman's [90] sulfur mine spoils study in Soils). Rattail sixweeks grass was a component of "highly disturbed" logging sites in bigleaf maple/western sword fern and red huckleberry/salal communities of northwestern Oregon [11].
 
-![A photo of a large flat area where a highway curves around two sides. Yellowing grasses dominate the flat area, with patches of bare ground and denser patches of greener grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmyu_disturbed.jpg)
+![A photo of a large flat area where a highway curves around two sides. Yellowing grasses dominate the flat area, with patches of bare ground and denser patches of greener grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmyu_disturbed.jpg?itok=0l7_izYV)
 
 Photo Credit
 
@@ -275,7 +275,7 @@ Germination of rattail sixweeks grass seed exposed to 5 minutes of heat [194].**
 
 Rattail sixweeks grass establishes from the seed bank after fire kills adult plants [17,76,213]. Soil-stored seeds that survive fire may germinate and establish in early postfire succession [116,123,124,179,194,209]. Postfire establishment from off-site wind-, animal-, water-, and machinery-dispersed seed is also possible [117,152,209,209].
 
-![A photo of an annual grassland with dense, brownish grasses. A charred stump extends across the left side of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-vulmyu_burned.jpg)
+![A photo of an annual grassland with dense, brownish grasses. A charred stump extends across the left side of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-vulmyu_burned.jpg?itok=FxeUNHjY)
 
 Photo Credit
 

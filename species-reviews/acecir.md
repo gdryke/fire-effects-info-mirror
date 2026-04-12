@@ -61,7 +61,7 @@ Vine maple occurs in the Pacific Northwest. It ranges from the Cascade Mountains
 
 Vine maple is typically found as an understory shrub or small tree that grows in moist forests composed of Douglas-fir, western hemlock, western redcedar, Sitka spruce, Port Orford-cedar, or Pacific silver fir [1,3,4,18,24,67]. It is also common along streambanks and alluvial terraces, in forest openings and clearcuts, and on talus slopes and the lower portions of open slopes [18,22,31,52].
 
-![A photo of a waterfall running between moss covered cliffs below tall trees. A vine maple, flat-topped shrub with bright yellow leaves, extends over the water.]({{ site.baseurl }}/assets/images/species-reviews/feis-acecir_habitat.jpg)
+![A photo of a waterfall running between moss covered cliffs below tall trees. A vine maple, flat-topped shrub with bright yellow leaves, extends over the water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acecir_habitat.jpg?itok=DeGT6CoG)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Vine maple is a long-lived, shade-tolerant, deciduous shrub or small tree which 
 
 The bark of vine maple is thin, smooth, and bright reddish brown [20]. The leaves are round to cordate, palmately seven- to nine-lobed, serrate, and 1.2 to 2.4 inches (3-6 cm) long [19]. The fruit is a rose-colored double samara. The 0.5- to 1-inch-long (1.2-2.5 cm) wings are widely divergent in a nearly straight line.
 
-![A photo of bright green maple leaves with rose-tinged yellow double samaras growing from some stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-acecir_fruits.jpg)
+![A photo of bright green maple leaves with rose-tinged yellow double samaras growing from some stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acecir_fruits.jpg?itok=JRwXBRUa)
 
 Photo Credit
 

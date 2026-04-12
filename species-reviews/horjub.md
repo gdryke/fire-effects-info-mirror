@@ -72,7 +72,7 @@ Foxtail barley is indigenous to the western United States [35]. It has become na
 
 Foxtail barley grows chiefly on grassland types on the plains and lower foothills but also extends upward to subalpine elevations in the spruce belt. It is very common throughout the West, especially along roadsides and other waste places, and in grain and hay fields [17,23,31,35]. It reaches its greatest abundance on the edges of sloughs and salt marshes, grassy slopes, and flatlands in the western prairies [4]. It is also abundant in overgrazed sagebrush margins and irrigated meadows [14]. In sagebrush, pinyon-juniper, salt-desert shrub, and plains grasslands communities, it generally occurs in areas where extra water has accumulated, such as sloughs and around stock-water developments [38].
 
-[![Grasses growing in standing water.]({{ site.baseurl }}/assets/images/species-reviews/horjub_horjub_water.jpeg)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Foxtail barley growing where extra water has accumulated.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Grasses growing in standing water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/horjub_water.jpeg?itok=r_W2g6C_)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Foxtail barley growing where extra water has accumulated.](<https://creativecommons.org/licenses/by/4.0/>)
 
 **Soils and Salt Tolerance:** Foxtail barley grows well on a variety of soil textures ranging from sandy loam to clay, with clay content varying from 17 percent to 56 percent [34,45]. It requires fairly moist conditions and cannot sustain itself during long dry periods [8,34]. Foxtail barley commonly occurs on soils with moderate salinity but can also grow and reproduce under nonsaline conditions [34,45]. Foxtail barley has a broad tolerance to variations in pH. It occurs in areas with a pH from 6.4 to 9.5, with a median value of 8.1 in the surface soils [34].
 
@@ -91,7 +91,7 @@ Foxtail barley is a common riparian dominance type at low to mid-elevations thro
 
 Foxtail barley may occur in relatively pure stands in moderately saline communities or as a codominant with inland saltgrass (_Distichlis stricta_ var. _stricta_) and spearleaf saltweed (_Atriplex patula_ var. _hastata_) [34]. Foxtail barley is also commonly associated with coastal saltgrass (_Distichlis spicata_), nutka alkaligrass (_Puccinellia nutkaensis_), Pursh seepweed (_Suaeda depressa_), heath aster (_Aster ericoides_), field sowthistle (_Sonchus arvensis_), curly dock (_Rumex crispus_), bluegrass (_Poa_ spp.), and wheatgrass (_Agropyron_ spp.) [6,13,15,34].
 
-![Grasses wave in the foreground, with purplish reproductive spikes catching the sun. Mountains and blue skies dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/horjub_horjub_stand2.jpg)
+![Grasses wave in the foreground, with purplish reproductive spikes catching the sun. Mountains and blue skies dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/horjub_stand2.jpg?itok=aPOM83tO)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Foxtail barley dominates a flatland near Logan, Utah.
 
 Foxtail barley is a short-lived, native, perennial, cool-season grass [1,14,26,32]. It has erect, slender stems, 1 to 2 feet (0.3-0.6 m) tall, growing in thick bunches or tufts [23,26,38]. The roots are fibrous [35].
 
-[![A dense stand of grasses.]({{ site.baseurl }}/assets/images/species-reviews/horjub_horjub_stand.jpeg)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Foxtail barley.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A dense stand of grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/horjub_stand.jpeg?itok=xYMr9HEb)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Foxtail barley.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

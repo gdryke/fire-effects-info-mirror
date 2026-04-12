@@ -75,7 +75,7 @@ Other associates include bluejoint reedgrass (Calamagrostis canadensis), sheathe
 
 ## Botanical and Ecological Characteristics
 
-![Photo showing common freckle pelt growing in litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-pelaph_plant.jpg)
+![Photo showing common freckle pelt growing in litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-pelaph_plant.jpg?itok=4AZniWBY)
 
 Photo Credit
 

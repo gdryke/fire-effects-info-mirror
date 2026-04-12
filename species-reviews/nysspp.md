@@ -57,7 +57,7 @@ for swamp tupelo: sourgum, pepperidge, tupelo, tupelo-gum, yellow gum
 
 ## General Distribution
 
-![Two maps of the eastern United States and Canada, with areas highlighted in green where blackgum \(left\) and swamp tupelo \(right\) occur. Most of the eastern U.S. and Canada are highlighted on the left map, and the southeastern U.S. is highlighted on the right.]({{ site.baseurl }}/assets/images/species-reviews/nysspp_feis-nyssyl_maps.jpg)
+![Two maps of the eastern United States and Canada, with areas highlighted in green where blackgum \(left\) and swamp tupelo \(right\) occur. Most of the eastern U.S. and Canada are highlighted on the left map, and the southeastern U.S. is highlighted on the right.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-nyssyl_maps.jpg?itok=KX81LmI5)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Swamp tupelo is most common on the Coastal Plain swamps and estuaries from Maryl
 
 ## Site Characteristics
 
-[![A photo of a stand of trees growing in standing water, with trunks that widen at the base. There are no visible leaves on the trees.]({{ site.baseurl }}/assets/images/species-reviews/nysspp_feis-nysbif_habitat.jpg)Photo Credit Photo by Ed Fulton, iNaturalist.org, CC BY-NC 4.0. Swamp tupelo, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a stand of trees growing in standing water, with trunks that widen at the base. There are no visible leaves on the trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-nysbif_habitat.jpg?itok=kS6o5WpU)Photo Credit Photo by Ed Fulton, iNaturalist.org, CC BY-NC 4.0. Swamp tupelo, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Blackgum is adapted to a wide variety of sites, from the creek bottoms of the southern Coastal Plain to altitudes of 3,000 feet (915 m) in North Carolina. Blackgum will tolerate brief spring flooding on alluvial sites and is common on the relatively dry upper and middle slopes in the Appalachian Mountains. On the drier uplands, blackgum will survive but with a slower growth rate [4,26]. Swamp tupelo is found in and on the banks of swamps, ponds, and estuaries of the Coastal Plain, and in low coves and seepages which remain wet year-round [1,19,44].
 
@@ -95,7 +95,7 @@ Southeastern North Carolina| general veg. cts| Kologiski 1977
 
 ## Botanical Description 
  
-[![A photo of a large tree with a rounded crown and reddish-orange leaves. It is the tallest tree, surrounded by smaller trees.]({{ site.baseurl }}/assets/images/species-reviews/nysspp_feis-nyssyl_tree.jpeg)Photo Credit Photo by Roger Debenham, iNaturalist.org, CC BY-NC 4.0. Blackgum, Massachusetts.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a large tree with a rounded crown and reddish-orange leaves. It is the tallest tree, surrounded by smaller trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-nyssyl_tree.jpeg?itok=dblUcedF)Photo Credit Photo by Roger Debenham, iNaturalist.org, CC BY-NC 4.0. Blackgum, Massachusetts.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Blackgum is a medium- to large-sized, native, deciduous tree, frequently 60 to 80 feet high (18-24 m) [22,31]. In the forest it typically has a dense foliage with a conical crown on an erect trunk which extends continuously into the top. The simple, alternate leaves are leathery, and densely clustered at the branchlets. The small greenish white flowers are borne singly or in capitate clusters. The bark is reddish brown and broken into deep irregular ridges and diamond-shaped plates. On old trunks, the bark may be an inch (2.5 cm) or more thick [12,15].
 
@@ -185,7 +185,7 @@ No entry.
 
 ## Importance to Wildlife and Livestock
 
-[![A close up photo of a branch with reddish pointed leaves and many small, dark blue fruits. The background is blurry with more similar colored leaves.]({{ site.baseurl }}/assets/images/species-reviews/nysspp_feis-nyssyl_fruits.jpeg)Photo Credit Photo by Mary Birrer, iNaturalist.org, CC BY-NC 4.0. Blackgum fruits.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a branch with reddish pointed leaves and many small, dark blue fruits. The background is blurry with more similar colored leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-nyssyl_fruits.jpeg?itok=s3g7FC2R)Photo Credit Photo by Mary Birrer, iNaturalist.org, CC BY-NC 4.0. Blackgum fruits.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Blackgum sprouts are commonly browsed by white-tailed deer but lose palatability with age [8,16,30]. The fruit is high in nutrients and is eaten by a variety of birds and mammals [4,27,37].
 

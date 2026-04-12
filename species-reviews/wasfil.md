@@ -79,7 +79,7 @@ California palm forms open to dense groves in moist areas, often providing 100 p
 
 ## Botanical Description
 
-![A photo of a group of palm trees in a rocky desert. One palm is quite tall, while the others are short. All have shaggy dried fronds hanging down their trunks and green tops. A cactus and a few small shrubs are visible in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/wasfil_feis-wasfiil_habitat.jpg)
+![A photo of a group of palm trees in a rocky desert. One palm is quite tall, while the others are short. All have shaggy dried fronds hanging down their trunks and green tops. A cactus and a few small shrubs are visible in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-wasfiil_habitat.jpg?itok=QRXqv_5y)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ California palm is moderately shade tolerant when young, becoming intolerant wit
 
 ## Immediate Fire Effects
 
-![A photo of a group of tall palm trees growing in the desert. All but one of the palms have shaggy dried fronds all along their trunks. The closest palm has no dried fronds along the trunk and part of the trunk is black and burned, but it is still alive at the top.]({{ site.baseurl }}/assets/images/species-reviews/feis-wasfil_flammable.jpg)
+![A photo of a group of tall palm trees growing in the desert. All but one of the palms have shaggy dried fronds all along their trunks. The closest palm has no dried fronds along the trunk and part of the trunk is black and burned, but it is still alive at the top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-wasfil_flammable.jpg?itok=K4yST9Vm)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ Fire releases saplings suppressed by the shade of shrubs. Young palms, freed fro
 
 Flower and fruit production nearly doubles in crown-scorched trees during the first postfire growing season [8,32].
 
-![A photo of a stand of severely burned palm trees. All the trunks are black, nothing is growing on the ground. Small bits of green are visible on the tops of some of the palms.]({{ site.baseurl }}/assets/images/species-reviews/feis-wasfil_postfire1.jpeg)
+![A photo of a stand of severely burned palm trees. All the trunks are black, nothing is growing on the ground. Small bits of green are visible on the tops of some of the palms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-wasfil_postfire1.jpeg?itok=ID79Cv1Z)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Photo by Cameron W. Barrows, iNaturalist.org, some rights reserved.
 
 A stand of severely burned California palms less than a month after the February 2024 Palmas Fire, Riverside County, California. [(CC BY-NC 4.0)](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
-![A photo of a stand of palm trees with black, burned trunks and green, living fronds on top.]({{ site.baseurl }}/assets/images/species-reviews/feis-wasfil_postfire2.jpeg)
+![A photo of a stand of palm trees with black, burned trunks and green, living fronds on top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-wasfil_postfire2.jpeg?itok=BTnjhL8B)
 
 Photo Credit
 

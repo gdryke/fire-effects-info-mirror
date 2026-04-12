@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South Texas floodplain and riparian communi
 
 ## Distribution
 
-![Image of a map of southern Texas showing where where floodplain and riparian communities occur.]({{ site.baseurl }}/assets/images/fire-regimes/south-texas-floodplain-and-riparian_feis-SouthTexasFloodplain_FRR_map.jpg)
+![Image of a map of southern Texas showing where where floodplain and riparian communities occur.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-SouthTexasFloodplain_FRR_map.jpg?itok=9m_HQoG1)
 
 Photo Credit
 

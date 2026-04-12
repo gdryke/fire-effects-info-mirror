@@ -52,7 +52,7 @@ None
 
 Trumpeter swans were once abundant and widespread in North America. Their breeding range extended from Alaska east to Ontario and south to Oregon, the Rocky Mountains, Nebraska, and northern Missouri [20]. Now only two major populations remain [4,17,20]. The Pacific population breeds in Alaska and British Columbia, and winters along the Pacific Coast from Alaska to northern Oregon [20,23]. The mid-continental population nests in Alberta, British Columbia, Yukon, Northwest Territories, Saskatchewan, and the Greater Yellowstone region [20,23]. Overhunting of trumpeter swans destroyed most of their traditional migration patterns to southerly winter habitats. As a result, virtually all mid-continental trumpeter swans, regardless of their summer range, now winter in the Greater Yellowstone Ecosystem [23].
 
-![Trumpeter swans in a portion of the Green River on Seedskadee National Wildlife Refuge that remains open during the winter. ]({{ site.baseurl }}/assets/images/species-reviews/feis-cybu_trumpeter-swans.jpg)
+![Trumpeter swans in a portion of the Green River on Seedskadee National Wildlife Refuge that remains open during the winter. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-cybu_trumpeter-swans.jpg?itok=fdWszb_8)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Trumpeter swans are generally found in wetland areas among aquatic and emergent 
 
 ## Botanical and Ecological Characteristics
 
-![Trumpeter swan family swims on calm waters at Kenai National Wildlife Refuge in Alaska.]({{ site.baseurl }}/assets/images/species-reviews/feis-cybu_trumpeter-swan-family.jpg)
+![Trumpeter swan family swims on calm waters at Kenai National Wildlife Refuge in Alaska.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-cybu_trumpeter-swan-family.jpg?itok=S1Rf2fBH)
 
 Photo Credit
 

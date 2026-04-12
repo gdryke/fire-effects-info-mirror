@@ -148,7 +148,7 @@ Red spruce-Fraser fir (Abies fraseri)| Breeding| —| —| M| M
 
 ## Biological Characteristics
 
-![American woodcock walking on the forest floor, which is covered with small woody debris.]({{ site.baseurl }}/assets/images/species-reviews/feis-scmi_groundcover.jpg)
+![American woodcock walking on the forest floor, which is covered with small woody debris.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scmi_groundcover.jpg?itok=TRdM5HV1)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ American woodcock singing grounds are typically open or brushy areas in early-su
 
 Many male American woodcocks do not display [46,60,175]. Studies suggest that nondisplaying males may be subordinate to displaying males and may display after the dominant individuals are removed [35,155,175]. Subadult males become sexually active at the same time as adult males (see Reproduction and development), yet adults are more common on established singing grounds during the first part of the breeding season. This suggests that old males establish and maintain territories more successfully than young males, perhaps because old males arrive earlier and claim territories sooner or are better able to defend territories than young males [35,60,105,140,175]. For more information on this topic, see the review by Keppie and Whiting [70].
 
-![An American woodcock on her nest in grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-scmi_nest.jpg)
+![An American woodcock on her nest in grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scmi_nest.jpg?itok=ls1Vdy91)
 
 Photo Credit
 
@@ -502,7 +502,7 @@ Brood habitat use varies as broods mature and become increasingly mobile. Initia
 
 Several researchers reported that broods were often found in poorly drained areas [12,155,173]. Wenstrom [173] reported that broods were found close to standing water and relatively farther from openings than were nests. In Boone County, Missouri, on average, broods were in areas with greater canopy closure and basal area of trees, deeper litter, and greater soil moisture than nest sites (P<0.05 for all variables) [111]. In Oswego County, New York, brood sites differed from random sites by having greater vegetative cover, greater earthworm densities, and denser overstory vegetation [123]. In northeastern Minnesota, brooding female American woodcocks were positively associated with upland sites. After brood break-up, juveniles and adult females shifted from upland sites to lowland sites coincident with a general decrease in soil moisture across habitats. The author suggested that lowland sites too moist for nesting in spring became suitable while upland sites suitable in spring became desiccated and earthworm numbers declined [173]. At the Moosehorn National Wildlife Refuge, 7 young American woodcock broods (<10 days old) occurred in hardwood forest with open to moderate-density ground vegetation and intermediate drainage, and 4 young broods occurred in lowland alder forest with moderate-density ground vegetation [132].
 
-![An American woodcock camouflaged amongst grasses and forbs.]({{ site.baseurl }}/assets/images/species-reviews/feis-scmi_habitat_0.jpg)
+![An American woodcock camouflaged amongst grasses and forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scmi_habitat_0.jpg?itok=KVnMCxbL)
 
 Photo Credit
 

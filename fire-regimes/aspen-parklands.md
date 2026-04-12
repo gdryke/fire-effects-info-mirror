@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for aspen parkland communities has not yet been
 
 ## Distribution
 
-![A map showing the distribution of aspen parkland communities in the far northern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/aspen-parklands_feis-aspen_parklands_locator.jpg)
+![A map showing the distribution of aspen parkland communities in the far northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-aspen_parklands_locator.jpg?itok=0-kbHwn0)
 
 Photo Credit
 

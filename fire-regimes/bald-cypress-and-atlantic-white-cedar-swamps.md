@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for bald cypress and Atlantic white-cedar swamp
 
 ## Distribution
 
-![A map showing the distribution of bald cypress and Atlantic white-cedar swamp communities in the eastern and central U.S.]({{ site.baseurl }}/assets/images/fire-regimes/bald-cypress-and-atlantic-white-cedar-swamps_feis-bald_cypress_and_atlantic_white_cedar_swamps_locator.jpg)
+![A map showing the distribution of bald cypress and Atlantic white-cedar swamp communities in the eastern and central U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-bald_cypress_and_atlantic_white_cedar_swamps_locator.jpg?itok=91Xoub7e)
 
 Photo Credit
 

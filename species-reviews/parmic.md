@@ -72,7 +72,7 @@ little-leaf paloverde, foothill paloverde
 
 Yellow paloverde is native to the Sonoran Desert. It is common on bajadas, plains, and hillslopes in the Sonoran Desert regions of Arizona, southeastern California, the state of Sonora [89], and the Baja Peninsula (fig. 1) [144]. On the Baja peninsula, yellow paloverde occurs at low abundance on the gulf (east) side [157,180] and only very rarely on the Pacific (west) side [180]. Yellow paloverde also grows on many of the islands in the Gulf of California [144]. However, it does not extend to the extreme southern portions of the Sonoran Desert, either on the Mexican mainland or in Baja, California [157,177].
 
-![Map of yellow paloverde distribution.]({{ site.baseurl }}/assets/images/species-reviews/feis-parmic_fig1_0.png)
+![Map of yellow paloverde distribution.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-parmic_fig1_0.png?itok=IqPT6LRI)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Yellow paloverde is dominant in three NatureServe Terrestrial Ecological Systems
 
 This system occurs on hillsides, mesas and upper bajadas in southern Arizona and extreme southeastern California. The vegetation is characterized by a diagnostic sparse, emergent layer of saguaro (3-16 m tall) and/or a sparse to moderately dense canopy codominated by xeromorphic deciduous and evergreen tall shrubs yellow paloverde and creosote bush, with species of mesquite, desert ironwood, and ocotillo less prominent. The sparse herbaceous layer is composed of perennial grasses and forbs with annuals seasonally present and occasionally abundant. On slopes, plants are often distributed in patches around rock outcrops where suitable habitat exists.
 
-![Yellow paloverde shelters cacti.]({{ site.baseurl }}/assets/images/species-reviews/feis-parmic_Fig%202.jpg)
+![Yellow paloverde shelters cacti.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-parmic_Fig%202.jpg?itok=HVex0F7n)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 **Aboveground:** Yellow paloverde is a multi-stemmed shrub or small tree that often grows to 6 m tall but occasionally may grow to 10 m [157,180]. The short trunk branches into two or three main stems at 10 to 25 cm from the ground, after which the crown branches prolifically, but not densely [157]. Stems are 15 to 20 cm in diameter [126]. The relatively thin bark (3-4 mm) is mostly smooth and green, covering all twigs and branches, except for occasional patches where scars have formed gray bark over wounds [157]. Gray bark also surrounds the base of the trunk. Stem tips end in spines [180].
 
-![Yellow paloverde leaf next to ruler.]({{ site.baseurl }}/assets/images/species-reviews/feis-parmic_3a.jpg)
+![Yellow paloverde leaf next to ruler.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-parmic_3a.jpg?itok=j9-qjgIj)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Photo by Sue Rutman, used with permission.
 
 Figure 3—a) Bipinnate leaf structure of yellow paloverde.
 
-![Yellow paloverde branches and leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-parmic_3b.jpg)
+![Yellow paloverde branches and leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-parmic_3b.jpg?itok=HKFAlql7)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Yellow paloverde leaves are between 2 cm [175] and 7 cm [56] long and are pinnat
 
 Flowers are less than 10 mm long [80], with four yellow petals and one white [157] (fig. 4a). Seed pods are 3 to 13 cm long [152] and are somewhat constricted between each of the 1 to 5 seeds (fig. 4b) [193]. Seed pods end in a flat triangular or sword-shaped spine [80]. Seeds are 6 to 9 mm long, slightly flattened, and have a thick, waxy coat [157].
 
-![Yellow paloverde flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-parmic_4a.jpg)
+![Yellow paloverde flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-parmic_4a.jpg?itok=LI828149)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Photo by Johnida Dockens, used with permission.
 
 Figure 4—a) Yellow paloverde flower.
 
-![Yellow paloverde seed pods.]({{ site.baseurl }}/assets/images/species-reviews/feis-parmic_4b.jpg)
+![Yellow paloverde seed pods.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-parmic_4b.jpg?itok=ZaVauVxW)
 
 Photo Credit
 

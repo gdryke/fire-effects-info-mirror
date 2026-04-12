@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southwestern grassland and steppe communiti
 
 ## Distribution
 
-![Image of a map of the southwestern United States showing the distribution of grassland and steppe communities mostly concentrated in New Mexico and western Texas with fewer occurrences in Arizona, Utah, and Colorado.]({{ site.baseurl }}/assets/images/fire-regimes/southwestern-grassland-and-steppe_feis-SW_Grassland%26Steppe_FRR_map.jpg)
+![Image of a map of the southwestern United States showing the distribution of grassland and steppe communities mostly concentrated in New Mexico and western Texas with fewer occurrences in Arizona, Utah, and Colorado.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-SW_Grassland%26Steppe_FRR_map.jpg?itok=5AUurum3)
 
 Photo Credit
 

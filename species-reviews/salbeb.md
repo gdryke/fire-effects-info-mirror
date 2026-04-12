@@ -100,7 +100,7 @@ Arizona & New Mexico| Riparian & scrubland cts| Szaro 1990
 
 ## Botanical Description 
  
-![A photo of a large shrub with green, pointed leaves growing in rocky, sandy soil on the edge of a large lake.]({{ site.baseurl }}/assets/images/species-reviews/feis-salbeb_habitat.jpg)
+![A photo of a large shrub with green, pointed leaves growing in rocky, sandy soil on the edge of a large lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salbeb_habitat.jpg?itok=ObVKBdRM)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Wyoming| June-August
 Montana| April-June 
 North Dakota| April-May 
  
-![A photo of a branch with green, pointed leaves and white, puffy catkins on the branch. The background is lush green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-salbeb_flowers.jpeg)
+![A photo of a branch with green, pointed leaves and white, puffy catkins on the branch. The background is lush green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salbeb_flowers.jpeg?itok=3hz2e-Zy)
 
 Photo Credit
 

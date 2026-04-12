@@ -58,7 +58,7 @@ Sierra juniper was formerly classified as a subspecies of western juniper (_Juni
 
 Western juniper hybridizes with Utah juniper [85] and Rocky Mountain juniper. Hybridization in the _Juniperus_ genus "abounds", so hybridization between western juniper and other juniper species is likely where western juniper and other juniper species cooccur [26].
 
-![A photo of two somewhat triangular trees with branches to their base and scale-like leaves growing with low, scrubby vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_plant.jpg)
+![A photo of two somewhat triangular trees with branches to their base and scale-like leaves growing with low, scrubby vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_plant.jpg?itok=Ve5M8EwZ)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ No entry.
 
 ## General Distribution
 
-![A map of some western states in the U.S., with counties of northern California and Nevada, southern Idaho, eastern Oregon, and southeastern Washington highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_distribution.jpg)
+![A map of some western states in the U.S., with counties of northern California and Nevada, southern Idaho, eastern Oregon, and southeastern Washington highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_distribution.jpg?itok=dnh23WvV)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ They use a fourth category describe postsettlement shrub steppes succeeding to j
 
  * Woodland transitional; these are western juniper-big sagebrush communities in successional stages ranging from open stands of juniper with shrub and herb understories (early succession) to nearly closed canopies with sparse understories (late succession); herein, referred to as woodland transitional communities.
 
-![A photo of a sagebrush steppe, with shrubs spaced somewhat close together but not touching, and forbs and grasses in interspaces with some grass visible. A hill rises in the background and is covered in shrubby trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_centralor.jpg)
+![A photo of a sagebrush steppe, with shrubs spaced somewhat close together but not touching, and forbs and grasses in interspaces with some grass visible. A hill rises in the background and is covered in shrubby trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_centralor.jpg?itok=sIbqH70C)
 
 Photo Credit
 
@@ -170,7 +170,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Western juniper has a rounded or pointed form (fig. 4). It typically grows 15 to 30 feet (4.5-9 m) tall [201] and rarely exceeds 60 feet (18.3 m) tall. The largest recorded specimen grows in Oregon; it is 78 feet tall (24 m), with a circumference of 19 feet (5.5 m) and crown spread of 42 feet (13 m) [4]. Trees develop full crowns and heavy lateral branches at maturity [49]. Bark is furrowed and shreddy [62]. It is thin on young trees, becoming thicker as trees age [54,201]. Foliage of mature trees grows in scales [91]. The female (seed) cones resemble berries. They typically contain 1 to 4 (rarely up to 12) seeds each [137].
 
-![A photo of a conifer nearly as wide as it is tall growing on somewhat rocky bare ground, with grasses and low shrubs growing behind and similar trees partially visible to either side in the foreground. Dry hills rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_foreeoldgrowth.jpg)
+![A photo of a conifer nearly as wide as it is tall growing on somewhat rocky bare ground, with grasses and low shrubs growing behind and similar trees partially visible to either side in the foreground. Dry hills rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_foreeoldgrowth.jpg?itok=QYLZW8Fq)
 
 Photo Credit
 
@@ -178,7 +178,7 @@ Forest Service images by Janet Fryer.
 
 Figure 4a—Presettlement tree with rounded form and widespread lateral branches.
 
-![A photo of several Christmas tree-shaped conifers growing somewhat close together, with a pointed crown. Shrubs and grasses dominate the understory with some bare ground, and a low, dry hill is visible behind the trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_paintedhillsyounggrowth.jpg)
+![A photo of several Christmas tree-shaped conifers growing somewhat close together, with a pointed crown. Shrubs and grasses dominate the understory with some bare ground, and a low, dry hill is visible behind the trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_paintedhillsyounggrowth.jpg?itok=40e4FfZc)
 
 Photo Credit
 
@@ -224,7 +224,7 @@ Mature western junipers produce seeds nearly every year [200], although seedcrop
 
 Gravity, water runoff, and animals disperse western juniper seeds [137,145]. Many seeds fall beneath or near the parent tree (fig. 5). In southwestern Idaho, seeds dispersed an average of 4.7 feet (1.4 m) downslope and 2.0 feet (0.6 m) upslope over 4 months (summer-early fall), with an average dispersal distance of 4.2 feet (1.3 m) over 6 months. Dispersal from water runoff accounts for most downslope seed movement. Spring runoff traveling across frozen soil may account for high densities of western junipers along waterways [57] (fig. 6).
 
-![A photo of blue berry-like cones on moist ground with a thin layer of junipers leaves and small sticks.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_seeddisp.jpg)
+![A photo of blue berry-like cones on moist ground with a thin layer of junipers leaves and small sticks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_seeddisp.jpg?itok=pvzF05M9)
 
 Photo Credit
 
@@ -232,7 +232,7 @@ Forest Service image by Janet Fryer.
 
 Figure 5—Western juniper female cones that fell in litter beneath the parent tree.
 
-![A photo of a drainage between two hills, with relatively large shrubby trees growing in the upper portion of the drainage and on the hilltop, and smaller trees growing at the lower portion of the drainage. Several small, widely spaced trees are growing on the hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_seedlingestab.jpg)
+![A photo of a drainage between two hills, with relatively large shrubby trees growing in the upper portion of the drainage and on the hilltop, and smaller trees growing at the lower portion of the drainage. Several small, widely spaced trees are growing on the hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_seedlingestab.jpg?itok=dlvfpH9L)
 
 Photo Credit
 
@@ -316,7 +316,7 @@ Herbaceous cover usually declines with canopy closure [145,153]. Studies in nort
 
 Stages of succession in woodland transitional western juniper/mountain big sagebrush communities in Oregon.
 
-![A photo of a sagebrush shrubland with small trees widely but regularly spaced across the hillside, and two larger trees growing at the base of the hill. The young trees are relatively conical and are taller than the sagebrush shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_phase1a.jpg)
+![A photo of a sagebrush shrubland with small trees widely but regularly spaced across the hillside, and two larger trees growing at the base of the hill. The young trees are relatively conical and are taller than the sagebrush shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_phase1a.jpg?itok=8q2RJyxY)
 
 Photo Credit
 
@@ -324,7 +324,7 @@ Forest Service image by Janet Fryer.
 
 Figure 7a—Phase I. Early succession in a potential western juniper/mountain big sagebrush community in central Oregon. Cover is mostly sagebrush with scattered juniper seedlings and saplings.
 
-![A photo of a drainage with evenly spaced shrubby conifers growing with shrubs, with some relatively dense patches of conifers. Mountains rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_phase2a.jpg)
+![A photo of a drainage with evenly spaced shrubby conifers growing with shrubs, with some relatively dense patches of conifers. Mountains rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_phase2a.jpg?itok=EfRhC2qS)
 
 Photo Credit
 
@@ -332,7 +332,7 @@ Bureau of Land Management, U.S. Department of the Interior image by Todd Forbes.
 
 Figure 7b—Phase II. Midsuccession in a western juniper/mountain big sagebrush community near Lakeview, Oregon. Cover is about an even mix of sagebrush and juniper.
 
-![A photo of mature conifers with several dead trunks on the ground and a few scattered sagebrush plants. Bunchgrasses dominate the understory with bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_phase3.jpg)
+![A photo of mature conifers with several dead trunks on the ground and a few scattered sagebrush plants. Bunchgrasses dominate the understory with bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_phase3.jpg?itok=qwuJBPff)
 
 Photo Credit
 
@@ -340,7 +340,7 @@ Agricultural Research Service, U.S. Department of Agriculture image.
 
 Figure 7c—Phase III. A western juniper-mountain big sagebrush woodland on Steens Mt., Oregon. Sagebrush cover is minimal.
 
-![A photo of mature conifers growing relatively close together with an understory of annual and perennial grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_phase4.jpg)
+![A photo of mature conifers growing relatively close together with an understory of annual and perennial grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_phase4.jpg?itok=EJJgHH7T)
 
 Photo Credit
 
@@ -352,7 +352,7 @@ Figure 7d—Phase IV. Late succession in a western juniper/mountain big sagebrus
 
 ## Immediate Fire Effects
 
-![A photo of a bare, burned tree at the right foreground of the photo and two trees with red foliage on the left side of the photo, with grasses dominating the slope behind and a few unburned trees in the background..]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_bluebasinsnagburn.jpg)
+![A photo of a bare, burned tree at the right foreground of the photo and two trees with red foliage on the left side of the photo, with grasses dominating the slope behind and a few unburned trees in the background..](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_bluebasinsnagburn.jpg?itok=wU1hPMFA)
 
 Photo Credit
 
@@ -406,7 +406,7 @@ Heat content without ash (mJ/kg)| 24.7| 23.79| 24.51| 20.31-20.66
  
 Several authors have developed regressions estimating western juniper leaf area, leaf biomass, and total standing crop using tree basal and sapwood areas [79,148]. Field guides [203,215] for estimating fuel loads in sagebrush steppe and western juniper woodlands are also available.
 
-![A photo of green sagebrush in the foreground, with a hill rising just behind with green grass and red dirt, with a few clusters of shrubs. A low peak is covered with widely spaced conifers in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_sagecheat.jpg)
+![A photo of green sagebrush in the foreground, with a hill rising just behind with green grass and red dirt, with a few clusters of shrubs. A low peak is covered with widely spaced conifers in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_sagecheat.jpg?itok=k2zPOd13)
 
 Photo Credit
 
@@ -538,7 +538,7 @@ In the late 19th and 20th centuries, expansion rate of western juniper into adja
 
 Loss of steppe communities to western juniper woodland transitional communities can have negative impacts on ecosystem function [59,145,233]. These changes are not well understood or researched but may include changes in fire regimes [37,82,152,157,231]; hydrologic function, loss of soil organic matter and nutrients [127,145]; increased erosion due to loss of understory vegetation [16,127,145,179]; and reduced productivity, forage availability, and diversity of rangelands [15,17,141,226].
 
-![A photo of low, green rolling hills with some patches of rocks, two large trees, and several young trees of various ages. Three black cows are in the foreground, with two looking at the camera and the third a nursing calf. Three brown cows stand just behind - a mother and two calves. A fourth black cow looks at the camera from halfway up a hill.]({{ site.baseurl }}/assets/images/species-reviews/feis-junocc_rangeland.jpg)
+![A photo of low, green rolling hills with some patches of rocks, two large trees, and several young trees of various ages. Three black cows are in the foreground, with two looking at the camera and the third a nursing calf. Three brown cows stand just behind - a mother and two calves. A fourth black cow looks at the camera from halfway up a hill.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junocc_rangeland.jpg?itok=QJVh6s8P)
 
 Photo Credit
 

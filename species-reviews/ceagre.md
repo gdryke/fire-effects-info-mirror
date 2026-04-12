@@ -36,7 +36,7 @@ Zouhar, Kristin L. 2000. _Ceanothus greggii_ , desert ceanothus. In: Fire Effect
 
 ## Taxonomy
 
-![A photo of flowering desert ceanothus in front of dramatic snowy mountains.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceagre_habitat.jpg)
+![A photo of flowering desert ceanothus in front of dramatic snowy mountains.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceagre_habitat.jpg?itok=yqDaX5UM)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Desert ceanothus occurs from Trans-Pecos, Texas, through southern New Mexico, Ar
 
 Desert ceanothus grows on dry, rocky slopes, foothills, canyons, gullies, and in erosion channels [84,92,127,137]. It flourishes on a variety of soil types, is tolerant of both basic and acidic soils, and most often grows on dry, poorly developed soils [43,96,126,129]. It is most commonly found in areas with 20 to 30 inches (500-750 mm) precipitation [140]. Desert ceanothus is a chaparral species that grows in several different community types in several geographic locations, each with specific site characteristics. Attempts to ascribe site preferences for most chaparral species have generally produced weak correlations and indicate that preferences may change with the region [54].
 
-![A photo of a desert ceanothus shrub in the foreground with yucca, desert conifers, and other shrubs growing on the slope behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceagre_community.jpg)
+![A photo of a desert ceanothus shrub in the foreground with yucca, desert conifers, and other shrubs growing on the slope behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceagre_community.jpg?itok=JGYfeTgu)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ _Ceanothus greggii_ var. _vestitus_ is described as occurring in montane chaparr
 
 ## Botanical Description
 
-![A close-up photo of opposite leaf clusters of desert ceanothus.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceagre_leaves.jpg)
+![A close-up photo of opposite leaf clusters of desert ceanothus.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceagre_leaves.jpg?itok=J_zBW6wr)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ Fruits| July| May-June
 
 Desert ceanothus relies on production of numerous seedlings to maintain dominance or subdominance in chaparral communities [14,47,53,55]. It regenerates almost exclusively from long-lived seeds that accumulate in the soil [92,146] and germinate prolifically following fire [12]. It is, therefore, fire dependent, with sharp population increases after fire and an intervening period during which there is mortality but little establishment [146]. Minnich and Howard [73] report the establishment of _Ceanothus greggii_ var. _vestitus_ , en masse, after pinyon fires, despite the absence of adults previous to the burn. There are some reports of desert ceanothus sprouting from the stem or root crown after fire or mechanical removal, although sprout survival is poor [56,73,94,97,98].
 
-![A photo of dense clusters of small white flowers, with clusters of leaves along branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceagre_flowers.jpg)
+![A photo of dense clusters of small white flowers, with clusters of leaves along branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceagre_flowers.jpg?itok=9bXCTf9-)
 
 Photo Credit
 

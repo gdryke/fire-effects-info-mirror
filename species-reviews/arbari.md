@@ -59,7 +59,7 @@ Arizona madrone has a limited distribution. It is found in the foothills and low
 
 ## Site Characteristics
 
-![A photo of a tree along a pale, dusty desert trail. The tree has a thick trunk but is broken and regrown with pointed green leaves all over the crown. Other desert shrubs and trees are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-arbari_habitat.jpg)
+![A photo of a tree along a pale, dusty desert trail. The tree has a thick trunk but is broken and regrown with pointed green leaves all over the crown. Other desert shrubs and trees are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-arbari_habitat.jpg?itok=L15EqOzM)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Common associated species are New Mexico locust (_Robina neomexicana_), silverle
 
 ## Botanical Description
 
-![A close up photo of a plant's straight, pointed green leaves and clusters of red berries. The background is blurry gray and orangey branches and bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-arbari_berries.jpeg)
+![A close up photo of a plant's straight, pointed green leaves and clusters of red berries. The background is blurry gray and orangey branches and bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-arbari_berries.jpeg?itok=tURoESGv)
 
 Photo Credit
 

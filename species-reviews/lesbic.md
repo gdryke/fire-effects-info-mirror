@@ -84,7 +84,7 @@ In the southeastern United States, shrub lespedeza occurs in old fields, thicket
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [32,54,66,92]).
 
-![A photo of a narrow green stem with leaves comprised of three oval leaflets and several bright pink, pea-like flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-lesbic_flower.jpg)
+![A photo of a narrow green stem with leaves comprised of three oval leaflets and several bright pink, pea-like flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-lesbic_flower.jpg?itok=bsIAw8rr)
 
 Photo Credit
 
@@ -191,7 +191,7 @@ A study from the Piedmont of South Carolina illustrates that increases in shrub 
 
 While shrub lespedeza seedlings may be common on burned sites, postfire sprouting may also contribute to population increases. Kang and Iizumi [46] reported in a review that postfire sprouting often produces dense shrublands on frequently burned demilitarized zones in Korea. Rosene [70] reported that shrub lespedeza produced many root crown sprouts after a winter fire, and on sites with "sufficient fertility", burned plants were "thicker" than unburned plants.
 
-![A photo of mostly leafless, dense shrubs growing with widely spaced pines.]({{ site.baseurl }}/assets/images/species-reviews/feis-lesbic_fuels.jpg)
+![A photo of mostly leafless, dense shrubs growing with widely spaced pines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-lesbic_fuels.jpg?itok=hS5V0JQg)
 
 Photo Credit
 
@@ -278,7 +278,7 @@ No information is available on this topic.
 
 ## Impacts
 
-![A photo of dense shrubs with upright, leafy stems about the height of the man standing next to them. Straight tree trunks of pines are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-lesbic_infestation.jpg)
+![A photo of dense shrubs with upright, leafy stems about the height of the man standing next to them. Straight tree trunks of pines are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-lesbic_infestation.jpg?itok=oGNsSoOM)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for longleaf pine communities has not yet been 
 
 ## Distribution
 
-![A map showing the distribution of longleaf pine plant communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/longleaf-pine_feis-longleaf_pine_locator.jpg)
+![A map showing the distribution of longleaf pine plant communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-longleaf_pine_locator.jpg?itok=ahZCG9ik)
 
 Photo Credit
 

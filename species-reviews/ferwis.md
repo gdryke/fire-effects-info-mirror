@@ -34,7 +34,7 @@ Matthews, Robin F. 1994. _Ferocactus wislizeni,_ candybarrel cactus. In: Fire Ef
 
 ## Image Gallery
 
-![Two candybarrel cacti in bloom with yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/ferwis_feis-plant1.jpg) Candybarrel cactus. _Wikimedia Commons image by By Bernard Gagnon._
+![Two candybarrel cacti in bloom with yellow flowers.](https://research.fs.usda.gov/sites/default/files/2025-02/feis-plant1.jpg) Candybarrel cactus. _Wikimedia Commons image by By Bernard Gagnon._
 
 Photo Credit: Wikimedia Commons image by By Bernard Gagnon.
 

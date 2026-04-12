@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Ovis canadensis_ , bighorn sheep. In: Fire Effects Inform
 
 ## Image Gallery
 
-![Two male bighorn sheep exhibit the flehmen response, where males inhale with their mouth open and upper lip curled to better gather the scent of breeding females. They also stretch their neck and hold their head high.]({{ site.baseurl }}/assets/images/species-reviews/feis-ovca_bighorn-sheep.jpg) Two male bighorn sheep on the National Elk Refuge, Wyoming, exhibit the flehmen response, where males inhale with their mouth open and upper lip curled to better gather the scent of breeding females during the breeding season. _Photo by Lori Iverson, U.S. Fish and Wildlife Service._
+![Two male bighorn sheep exhibit the flehmen response, where males inhale with their mouth open and upper lip curled to better gather the scent of breeding females. They also stretch their neck and hold their head high.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-ovca_bighorn-sheep.jpg) Two male bighorn sheep on the National Elk Refuge, Wyoming, exhibit the flehmen response, where males inhale with their mouth open and upper lip curled to better gather the scent of breeding females during the breeding season. _Photo by Lori Iverson, U.S. Fish and Wildlife Service._
 
 Photo Credit: Photo by Lori Iverson, U.S. Fish and Wildlife Service.
 

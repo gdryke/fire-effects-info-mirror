@@ -56,7 +56,7 @@ black rush, black needlerush, needlerush, needle rush
 
 Needlegrass rush is primarily restricted to coastal marshes and estuaries of the South Atlantic and Gulf Coast states. Its distribution is continuous from New Jersey to southern Florida, and westward to southeastern Texas. Scattered outlying populations also occur in Connecticut, New York, Mexico, and the Caribbean Islands [4].
 
-![An image of the southeastern United States, with coastal states Texas through Delaware highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-junroe_distribution.jpg)
+![An image of the southeastern United States, with coastal states Texas through Delaware highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-junroe_distribution.jpg?itok=8DbFr-Z0)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Needlegrass rush inhabits coastal tidal marshes and may extend as far as 10 to 1
 
 Needlegrass rush is one of the dominant marsh species of the southern Atlantic and Gulf coasts. In northwest Florida, it has been estimated that 60 percent of the salt marshes are covered with monospecific stands of this species [19]. In many situations, monospecific stands of smooth cordgrass (_Spartina alterniflora_) form a seaward zone that borders needlegrass rush. The boundary between these communities is usually distinct and abrupt [4,19].
 
-[![A field of yellowish rush stems with blue skies above.]({{ site.baseurl }}/assets/images/species-reviews/feis-junroe_stand.jpeg)Photo Credit Photo by harrier, iNaturalist (CC BY 4.0). A stand of needlegrass rush.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![A field of yellowish rush stems with blue skies above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-junroe_stand.jpeg?itok=5g1u5uD1)Photo Credit Photo by harrier, iNaturalist (CC BY 4.0). A stand of needlegrass rush.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 Needlegrass rush-dominated communities have been separated into three generalized categories based upon elevation and soil salinity influences [25]. The number of species associated with needlegrass rush tends to increase as water salinity decreases [4]. The three categories of needlegrass rush marsh are presented below:
 
@@ -89,7 +89,7 @@ Needlegrass rush-dominated communities have been separated into three generalize
  2. Brackish marsh, where tidal waters are routinely diluted before flooding the marsh. Associates include smooth cordgrass, giant cordgrass, saltmeadow cordgrass, sealavender (_Limonium caroliniana_), Olney threesquare, and common arrowhead (_Sagittaria latifolia_).
  3. Intermediate marsh, which is transitional between brackish and freshwater marsh. Associates include common reed (_Phragmites australis_), sawgrass (_Cladium jamaicense_), softstem bulrush (_Scirpus validus_), and Virginia iris (_Iris virginica_).
 
-![Tall pines and low vegetation near a body of water.]({{ site.baseurl }}/assets/images/species-reviews/junroe_junroe_loblolly.jpg)
+![Tall pines and low vegetation near a body of water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/junroe_loblolly.jpg?itok=K1KvcxU6)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Mean height (inches/cm)| 40/102| 35/88| 31/78
  
 Rhizomes average about 0.35 inch (9 mm) in diameter and are primarily located within 4 inches (10 cm) of the soil surface [5,28].
 
-[![Green, live and grayish, dead rush stems, with a yellow spray of flowers extending from the middle of a green stem.]({{ site.baseurl }}/assets/images/species-reviews/junroe_junroe_plant.jpeg)Photo Credit Photo by Caleb Catto, iNaturalist (CC BY 4.0). Needlegrass rush.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![Green, live and grayish, dead rush stems, with a yellow spray of flowers extending from the middle of a green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/junroe_plant.jpeg?itok=NgpZ1tLR)Photo Credit Photo by Caleb Catto, iNaturalist (CC BY 4.0). Needlegrass rush.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

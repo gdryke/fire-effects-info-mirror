@@ -77,7 +77,7 @@ Publications listing mountain misery as a dominant understory species are as fol
  * Profiles of California vegetation [7]
  * Montane and subalpine vegetation of the Sierra Nevada and Cascade Ranges [28].
 
-![Photo of mountain misery sprouts flowering 15 months after the 2013 Rim Fire on the Stanislaus National Forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-chafol_habitat.jpg)
+![Photo of mountain misery sprouts flowering 15 months after the 2013 Rim Fire on the Stanislaus National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chafol_habitat.jpg?itok=eFFHQvOY)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Fire top-kills mountain misery [15].
 
 The resinous, finely divided leaves of mountain misery are highly flammable, especially when draped with fallen pine needles and other forest debris. Mountain misery will carry surface fire, and the species is an important element of fuel loads in California's mixed coniferous and ponderosa pine forests. Expert opinions on natural fire frequencies in these forests vary. Fire scar studies show average frequencies of 8 years [4]. Some authorities, however, feel this method gives results that are too conservative. Biswell [4] estimated a natural fire occurrence of about every 4 years in mixed coniferous forests. Biswell [4] thought ponderosa pine forests of California burned approximately every 2 to 3 years. Prior to fire suppression, fires in mixed coniferous and ponderosa pine forests were almost always surface fires, carried in large part by highly concentrated fine fuels composed of mountain misery and coniferous needles, cones, and twigs caught in its foliage and tangled woody stems [4,32].
 
-![Photo of small green sprouts with flowers emerging from the soil next to a charred stump.]({{ site.baseurl }}/assets/images/species-reviews/feis-chafol_flower.jpg)
+![Photo of small green sprouts with flowers emerging from the soil next to a charred stump.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chafol_flower.jpg?itok=4nd_sjmL)
 
 Photo Credit
 
@@ -180,7 +180,7 @@ Nutritive value is reported to lessen in winter months [29], but quantitative nu
 
 Mountain misery provides cover for small birds and mammals.
 
-![Photo of mountain quail nest hidden in mountain misery.]({{ site.baseurl }}/assets/images/species-reviews/feis-chafol_nesta.jpg)
+![Photo of mountain quail nest hidden in mountain misery.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chafol_nesta.jpg?itok=bLjU-ip7)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ U.S. Forest Service images by Christopher Scott Brush.
 
 A mountain quail nest hidden in mountain misery.
 
-![Photo of mountain quail nest hidden in mountain misery.]({{ site.baseurl }}/assets/images/species-reviews/feis-chafol_nestb.jpg)
+![Photo of mountain quail nest hidden in mountain misery.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chafol_nestb.jpg?itok=RzBqURQK)
 
 Photo Credit
 

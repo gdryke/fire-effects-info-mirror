@@ -34,7 +34,7 @@ Zlatnik, Elena. 1999. _Amelanchier utahensis_ , Utah serviceberry. In: Fire Effe
 
 ## Image Gallery
 
-![Photo of flowering Utah serviceberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-ameuta.jpeg) Flowering Utah serviceberry. _(c) Steve Ganley, some rights reserved (CC BY-NC); iNaturalist.org_
+![Photo of flowering Utah serviceberry.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-ameuta.jpeg) Flowering Utah serviceberry. _(c) Steve Ganley, some rights reserved (CC BY-NC); iNaturalist.org_
 
 Photo Credit: (c) Steve Ganley, some rights reserved (CC BY-NC); iNaturalist.org
 
@@ -105,7 +105,7 @@ Hess and Wasser [17], have described a Quercus gambelii-Prunus virginiana (commo
 
 ## Botanical Description
 
-![Photo of flowering Utah serviceberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-ameuta.jpeg)
+![Photo of flowering Utah serviceberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ameuta.jpeg?itok=E3raLARA)
 
 Photo Credit
 

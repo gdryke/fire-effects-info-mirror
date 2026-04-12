@@ -85,7 +85,7 @@ The following publication lists pin oak as a dominant species:
 
 ## Botanical Description
 
-![A photo of a pyramid-shaped tree growing in a grassy area next to a small road. The tree is uniformly covered in green leaves, creating deep shade below the tree. There are other trees behind and blue sky with some clouds.]({{ site.baseurl }}/assets/images/species-reviews/feis-quepal_tree.jpg)
+![A photo of a pyramid-shaped tree growing in a grassy area next to a small road. The tree is uniformly covered in green leaves, creating deep shade below the tree. There are other trees behind and blue sky with some clouds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quepal_tree.jpg?itok=lYXgkXQD)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Seedlings develop a strong taproot in well-aerated soils. As trees become older,
 
 ## Seasonal Development
 
-![A close up photo of a tree's dark red, multi-pointed leaves. Blurry green and red vegetation is visible in the background]({{ site.baseurl }}/assets/images/species-reviews/feis-quepal_fallfoliage.jpeg)
+![A close up photo of a tree's dark red, multi-pointed leaves. Blurry green and red vegetation is visible in the background](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quepal_fallfoliage.jpeg?itok=A-A3g-Eh)
 
 Photo Credit
 

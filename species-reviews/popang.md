@@ -34,7 +34,7 @@ Simonin, Kevin A. 2001. _Populus angustifolia_ , narrowleaf cottonwood. In: Fire
 
 ## Introduction
 
-![Photo of narrowleaf cottonwood branches with leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-popang_tree.jpeg)
+![Photo of narrowleaf cottonwood branches with leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popang_tree.jpeg?itok=kXmdpVHH)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Published classifications listing narrowleaf cottonwood as an indicator or domin
 
 ## Botanical and Ecological Characteristics
 
-![Photo of leaves of narrowleaf cottonwood.]({{ site.baseurl }}/assets/images/species-reviews/feis-popang_leaves.jpg)
+![Photo of leaves of narrowleaf cottonwood.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popang_leaves.jpg?itok=tf1WXxkX)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for aspen-birch communities has not yet been pu
 
 ## Distribution
 
-![A map showing the distribution of aspen-birch communities in northern Minnesota and surrounding states.]({{ site.baseurl }}/assets/images/fire-regimes/aspen-birch_feis-aspen_birch_locator.jpg)
+![A map showing the distribution of aspen-birch communities in northern Minnesota and surrounding states.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-aspen_birch_locator.jpg?itok=gWTpjVZW)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Howard, Janet L. 1994. _Asio flammeus_ , short-eared owl. In: Fire Effects Infor
 
 ## Image Gallery
 
-![A flying short-eared owl.]({{ site.baseurl }}/assets/images/species-reviews/feis-asfl_flying.jpg) Short-eared owl. _Tom Koerner, U.S. Fish and Wildlife Service_
+![A flying short-eared owl.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-asfl_flying.jpg) Short-eared owl. _Tom Koerner, U.S. Fish and Wildlife Service_
 
 Photo Credit: Tom Koerner, U.S. Fish and Wildlife Service
 

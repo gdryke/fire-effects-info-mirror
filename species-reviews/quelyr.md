@@ -63,7 +63,7 @@ Overcup oak occurs on the Coastal Plain from southern Virginia south to Georgia 
 
 ## Site Characteristics
 
-![A photo of a large, broad tree with spreading branches growing on the edge of a large lake.]({{ site.baseurl }}/assets/images/species-reviews/feis-quelyr_habitat.jpeg)
+![A photo of a large, broad tree with spreading branches growing on the edge of a large lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quelyr_habitat.jpeg?itok=u1-YHIVm)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Tree associates not mentioned previously include laurel oak (_Q. laurifolia_), A
 
 ## Botanical Description
 
-![A close up photo of an oak tree's large, divided, light green leaves and three acorns. The cup of the acorns covers most of the nut.]({{ site.baseurl }}/assets/images/species-reviews/feis-quelyr_acorns.jpeg)
+![A close up photo of an oak tree's large, divided, light green leaves and three acorns. The cup of the acorns covers most of the nut.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quelyr_acorns.jpeg?itok=mOamk5UA)
 
 Photo Credit
 

@@ -72,7 +72,7 @@ Split bluestem in western Louisiana grew in pitcher plant bogs. Elevation was 19
 
 Split bluestem in east-central Texas grew on fine sandy loam of good quality [1].
 
-[![A photo of golden grasses growing in a field under blue skies, some with tufts at the end of reproductive stems. A few larger shrubs or trees can be seen in the background.]({{ site.baseurl }}/assets/images/species-reviews/andtert_andtert_community2.jpeg)Photo Credit Photo by mustardlypid, iNaturalist (CC BY-NC 4.0). Split bluestem growing in Texas.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of golden grasses growing in a field under blue skies, some with tufts at the end of reproductive stems. A few larger shrubs or trees can be seen in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/andtert_community2.jpeg?itok=BjKvAQaj)Photo Credit Photo by mustardlypid, iNaturalist (CC BY-NC 4.0). Split bluestem growing in Texas.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Split bluestem in central Oklahoma occurred on naturally revegetated abandoned cropland and depleted ranges. Soil was low in nitrogen, phosphorus, potassium, and organic matter [28].
 
@@ -94,7 +94,7 @@ Associates of split bluestem are listed for naturally revegetated central Oklaho
 
 Split bluestem is a native, warm-season, perennial bunchgrass [13,16,19,24] which forms bunches 2 to 8 inches (5-20 cm) or more in diameter [24]. Culms are 20 to 47 inches (50-120 cm) tall [13,19]. The upper half to two-thirds of the culm is branching [19,24]; the branches are long, slender and erect [19]. The inflorescence has three to six pairs of racemes [13,16,19]. Spikelets are paired: The sessile fertile spikelet is 0.20 to 0.28 inches (5-7 mm) long; the pedicel of the rudimentary spikelet is long-villous [19]. The awn on the fertile lemma is 0.63 to 0.98 inches (16-25 mm) long [16,29]. The fruit is a caryopsis [16].
 
-[![A photo of paired, fuzzy, cylindrical reproductive racemes of a grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-andtert_reproduction.jpg)Photo Credit Photo by denisedeckert, iNaturalist (CC BY-NC). Racemes of split bluestem.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of paired, fuzzy, cylindrical reproductive racemes of a grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-andtert_reproduction.jpg?itok=4TxeinlQ)Photo Credit Photo by denisedeckert, iNaturalist (CC BY-NC). Racemes of split bluestem.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Split bluestem roots in sandy, oldfield soil on the Coastal Plain of South Carolina went no deeper than 6 inches (15 cm). They did not extend laterally beyond the aerial portion of the plant [5].
 
@@ -122,7 +122,7 @@ Split bluestem occurred in a mid-successional South Carolina coastal plain old-f
 
 Split bluestem was found in the Piedmont region of the Carolinas on fields abandoned because of soil erosion and deterioration. Where several inches of topsoil remained, the herbaceous plant succession began with annual weeds, passed rapidly through a perennial weed stage, and culminated, usually within 5 years, in a bluestem (_Andropogon_ spp.) community which included split bluestem. This stage persisted until invading loblolly pine and shortleaf pine (_Pinus echinata_) developed a closed canopy which shaded out the grasses. If most of the A horizon of the soil was lost, succession remained in the annual weed stage until soil improved enough to support the bluestem community. In these conditions pines sometimes followed annuals directly, and the bluestem stage was excluded [26].
 
-[![A photo of reddish-gold grasses in a field. Conifers grow behind.]({{ site.baseurl }}/assets/images/species-reviews/andtert_andtert_community.jpeg)Photo Credit Photo by margotlester, iNaturalist (CC BY-NC 4.0). Split bluestem growing in North Carolina.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of reddish-gold grasses in a field. Conifers grow behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/andtert_community.jpeg?itok=v11GB5bF)Photo Credit Photo by margotlester, iNaturalist (CC BY-NC 4.0). Split bluestem growing in North Carolina.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Fire Ecology and Management
 

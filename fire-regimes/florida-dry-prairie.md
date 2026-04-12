@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Florida dry prairie communities has not yet
 
 ## Distribution
 
-![A map showing the distribution of Florida dry prairie communities in south Florida.]({{ site.baseurl }}/assets/images/fire-regimes/florida-dry-prairie_feis-florida_dry_prairie_locator.jpg)
+![A map showing the distribution of Florida dry prairie communities in south Florida.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-florida_dry_prairie_locator.jpg?itok=4_hoaQ6e)
 
 Photo Credit
 

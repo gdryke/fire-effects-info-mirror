@@ -54,7 +54,7 @@ alkali bulrush, bulrush, leafy three-cornered sedge, saltmarsh bulrush, seacoast
 
 Sturdy bulrush is distributed along the East Coast of North America from Nova Scotia south through Florida, and along the Gulf Coast into Mexico [9]. Populations exist in California along the coast and in inland deserts [24,29].
 
-![Map of the United States and Canada showing the distribution of sturdy bulrush in several eastern and southern states.]({{ site.baseurl }}/assets/images/species-reviews/feis-bolrob_map.jpg)
+![Map of the United States and Canada showing the distribution of sturdy bulrush in several eastern and southern states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-bolrob_map.jpg?itok=WQ1D2Iev)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Common associated plants of sturdy bulrush include common reed (Phragmites commu
 
 Sturdy bulrush is a native, rhizomotous, perennial sedge [9,20,29]. Its triangular culms are 2.3 to 5 feet (0.7-1.5 m) tall, with narrow leaves. It has from one to five spikelets that are 0.4 to 1 inch (1-2.5 cm) long [9,19]. Spikelets have been described as reddish-brown near the coast and more straw-colored inland [19]. Seed heads are brown and occur in dense, conical clusters [6].
 
-![Sturdy bulrush plant. ]({{ site.baseurl }}/assets/images/species-reviews/feis-bolrob_plant.jpg)
+![Sturdy bulrush plant. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-bolrob_plant.jpg?itok=20sGQXwl)
 
 Photo Credit
 

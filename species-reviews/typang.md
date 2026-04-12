@@ -63,7 +63,7 @@ Narrowleaf cattail occurs from Nova Scotia south through parts of New England al
 
 Narrowleaf cattail is tolerant of saline environments [15,31]. Where _T. angustifolia_ and _T. latifolia_ occur together, _T. angustifolia_ usually colonizes the deeper waters (31.5 in. [80 cm] or more) [16].
 
-[![A photo of cattails growing in a dense cluster, with low yellow flowers in front and a field of dry grass behind.]({{ site.baseurl }}/assets/images/species-reviews/typang_typang_stand.jpeg)Photo Credit Photo by Alexis Tinker-Tsavalas, iNaturalist (CC BY 4.0). A stand of narrowleaf cattail.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of cattails growing in a dense cluster, with low yellow flowers in front and a field of dry grass behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/typang_stand.jpeg?itok=wzsDRDGx)Photo Credit Photo by Alexis Tinker-Tsavalas, iNaturalist (CC BY 4.0). A stand of narrowleaf cattail.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In Utah, narrowleaf cattail occurs in peaty soils of salt marshes and colonizes deep sloughs and sloping marsh perimeters [5].
 
@@ -83,7 +83,7 @@ Some associates of narrowleaf cattail include sedges (_Carex_ spp.), bulrushes (
 
 Narrowleaf cattail is an erect, rhizomatous perennial that grows 3 to 6 feet (1-2 m) tall [15]. Its lateral rhizomes, produced at the leaf base, can grow up to 27.6 inches (70 cm) long and 0.8 to 1.6 inches (2-4 cm) in diameter [15]. Its leaves are 2 to 5 feet (0.6-1.5 m) long, very narrow, and flattened [10,12]. Flowers grow on erect stalks, and the fruits are cigar-shaped and 2 to 6 inches (5-15 cm) long. Fruits contain soft, downy seeds [10].
 
-[![A photo of the cigar-shape fruits of a cattail, with the tops of a few green stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-typang_reproduction.jpeg)Photo Credit Photo by Michael Newlon, iNaturalist (CC BY 4.0). The cigar-shaped fruits of narrowleaf cattail.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of the cigar-shape fruits of a cattail, with the tops of a few green stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-typang_reproduction.jpeg?itok=zbJeQzBF)Photo Credit Photo by Michael Newlon, iNaturalist (CC BY 4.0). The cigar-shaped fruits of narrowleaf cattail.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -106,7 +106,7 @@ Cattails reproduce by seed and rhizomes. Their primary means of colonizing is by
 
 Narrowleaf cattail is considered an early to mid-seral species and a dominant in disturbed wetlands [15]. In the absence of disturbance, narrowleaf cattail dominates marshes in dense, monotypic stands [18]. Under these conditions productivity is lowered because of litter buildup, and narrowleaf cattail outcompetes other species. Narrowleaf cattail replaces cordgrass (_Spartina_ spp.) in marshes where coastal wetlands are diked or tidally restricted [2,23].
 
-[![A stand of dried cattails fills a low small drainage, with green tree leaves visible in the background under cloudy skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-typang_stand2.jpeg)Photo Credit Photo by Matt Mui, iNaturalist (CC BY 4.0). A monotypic stand of narrowleaf cattail growing in a drainage in South Dakota.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A stand of dried cattails fills a low small drainage, with green tree leaves visible in the background under cloudy skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-typang_stand2.jpeg?itok=eMlLyAMd)Photo Credit Photo by Matt Mui, iNaturalist (CC BY 4.0). A monotypic stand of narrowleaf cattail growing in a drainage in South Dakota.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Fire Ecology and Management
 

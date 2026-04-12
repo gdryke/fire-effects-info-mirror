@@ -82,7 +82,7 @@ Common plant associates of heartleaf arnica include huckleberry (_Vaccinium_ spp
 
 Heartleaf arnica is a native, perennial herb 6 to 24 inches (15-60 cm) tall, with upright stems arising singly from long, slender, creeping rhizomes [18]. Rhizomes grow laterally 0.4 to 0.8 inches (1-2 cm) below the soil surface [7]. Root depths of 24 inches (60.9 cm) have been recorded in Montana [35].
 
-![Loosely clustered bright yellow flowers grow from stems of a green plant against a background of grayish soil.]({{ site.baseurl }}/assets/images/species-reviews/arncor_arncor_plant.jpg)
+![Loosely clustered bright yellow flowers grow from stems of a green plant against a background of grayish soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/arncor_plant.jpg?itok=RsT5KN-D)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Heartleaf arnica sprouts from rhizomes after top-kill by fire. It is apparently 
 
 Heartleaf arnica sprouts in flower in postfire year 1, following the 2017 Park Creek Fire near Lincoln, Montana. Common beargrass is sprouting to the right of the log. Image by Garon Smith, used with permission.
 
-![A charred log lays on the ground, with a few yellow flowers and grasslike tufts on the right side of the image. On the left side of the image, young leafy plants are moderately densely spaced.]({{ site.baseurl }}/assets/images/species-reviews/arncor_arncor_sprouts.jpg)
+![A charred log lays on the ground, with a few yellow flowers and grasslike tufts on the right side of the image. On the left side of the image, young leafy plants are moderately densely spaced.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/arncor_sprouts.jpg?itok=mMwRWxeZ)
 
 Photo Credit
 

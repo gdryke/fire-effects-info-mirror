@@ -36,7 +36,7 @@ Innes, Robin J. 2012. _Toxicodendron radicans, T. rydbergii_ , poison-ivy. In: F
 
 ## Taxonomy
 
-![A photo of a leafy plant with an upright stem. Leaves are comprised of three leaflets, and a partly shaded forest floor is covered with pine needles in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxspp_easternpoisonivy.jpg)
+![A photo of a leafy plant with an upright stem. Leaves are comprised of three leaflets, and a partly shaded forest floor is covered with pine needles in the background.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-toxspp_easternpoisonivy.jpg)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ Nine subspecies of eastern poison ivy are recognized globally, 6 of which occur 
 
 Eastern and western poison-ivy are morphologically plastic [81] and intergrade with one another [83,87,171]. They occasionally hybridize where their ranges overlap [47,83,92,268]. Eastern poison-ivy may hybridize with Atlantic poison-oak (_T. pubescens_), and western poison-ivy may hybridize with Pacific poison-oak (_T. diversilobum_) [83].
 
-![A photo of a small shrub with slender upright stems with bright green leaves and clusters of green fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxspp_westernpoisonivy.jpg)
+![A photo of a small shrub with slender upright stems with bright green leaves and clusters of green fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-toxspp_westernpoisonivy.jpg?itok=sSZVMRda)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ for _Toxicodendron rydbergii_ :
 
 Eastern and western poison-ivy's geographic ranges overlap in the Midwest and Northeast. Together, they are native to every state except California, Alaska, and Hawaii and to every province except Nunavut, the Northwest Territories, and Newfoundland and Labrador. Eastern poison-ivy also occurs on Bermuda and the western Bahamas and in Mexico, Central America, Japan, China, Taiwan, and Russia [47,82,87,88]. It has been introduced in Africa, Europe, New Zealand, and Australia [83,166,283]. In the West, western poison-ivy occurs as far west as the eastern side of the Cascade Range in Washington, Oregon, and southern British Columbia. In the East, disjunct western poison-ivy populations occur at high elevations in the southern Appalachian Mountains in Pennsylvania, West Virginia, and Virginia [47,81,87,223,266].
 
-![Two maps of the United States and Canada side by side. The map on the left has most eastern and central states and provinces highlighted green, and the map on the right has most states and provinces highlighted green except in the southeastern U.S.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxspp_distribution.jpg)
+![Two maps of the United States and Canada side by side. The map on the left has most eastern and central states and provinces highlighted green, and the map on the right has most states and provinces highlighted green except in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-toxspp_distribution.jpg?itok=XVZDpgrP)
 
 Photo Credit
 
@@ -220,7 +220,7 @@ Lianas, such as eastern poison-ivy, are hypothesized to benefit from warmer temp
 
 Poison-ivies occur in a variety of plant communities from barrier-island sand dunes to subalpine sites [49,83,285]. They occur primarily in wetlands, floodplains, bottomlands, and riparian communities throughout their ranges, but they also occur frequently in upland hardwood, mixed hardwood-conifer, and conifer forests and woodlands (e.g., [49,71,83,174,233,250]). In forests, they often occur in canopy gaps and on edges (see Shade Tolerance). They also occur in prairies and other grasslands (e.g., [3,21,111,113,130,134,172,204,240]) as well as on rocky fields, talus slopes, and cliffs [83,171]. See the Fire Regime Table for a list of plant communities in which poison-ivies may occur and information on the fire regimes associated with those communities.
 
-![A photo of a leafy subshrub with narrow stems growing with dried annual grasses at the base of a large boulder.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxspp_hero.jpeg)
+![A photo of a leafy subshrub with narrow stems growing with dried annual grasses at the base of a large boulder.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-toxspp_hero.jpeg?itok=Qyv3kjoX)
 
 Photo Credit
 
@@ -276,7 +276,7 @@ Eastern poison-ivy has abundant adventitious, aerial roots that adhere to suppor
 
 ### Stand and Age Class Structure
 
-![A photo of a field with scattered woody debris and vines growing throughout.]({{ site.baseurl }}/assets/images/species-reviews/toxspp_feis-TOXSPP_clearcut.jpg)
+![A photo of a field with scattered woody debris and vines growing throughout.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-TOXSPP_clearcut.jpg?itok=UjwZvix6)
 
 Photo Credit
 
@@ -568,7 +568,7 @@ Most parts of poison-ivy plants contain a resinous oil, urushiol, that causes an
 
 Poison-ivies are often considered "weeds" throughout much of their distribution [49,171]. They may be deleterious to other plant species by forming dense mats or tangles that exclude other plants [49,68,153]. Climbing eastern poison-ivy stems may negatively affect forest tree species by direct physical suppression, shading, or via competition with roots for water and nutrients [276]. In eastern cottonwood stands along the Missouri River, eastern poison-ivy, Virginia creeper (_Parthenocissus quinquefolia_), and frost grape (_Vitis vulpina_) density was so great and the mass of the lianas was so heavy that shrubby understory species were often bent or broken [280]. Buron and others [34] speculated that the heavy weight of eastern poison-ivy stems on trees may cause tree falls. In South Carolina bottomland hardwood forest, small trees with eastern poison-ivy and other lianas suffered disproportionately greater damage from Hurricane Hugo than small trees with no lianas, and trees of all sizes that supported ≥3 lianas were more likely to be damaged [4]. On Hog Island, Virginia, a dense thicket of eastern poison-ivy, wax-myrtle, and red raspberry (Rubus idaeus) appeared to limit seedling establishment of loblolly pine due to shading [129]. Whigham [276] removed eastern poison-ivy and other lianas from the trunk, branches, and ground of an old field (40 years since cultivation) in Maryland. Complete removal of lianas increased sweetgum growth in each of 4 study years (P<0.001), but removal that left belowground plant parts intact did not increase growth. He concluded that sweetgum growth increase was due to a reduction in belowground competition [276].
 
-![A photo of a tree trunk with a woody vine with a single leaf comprised of three leaflets wrapped around it. Portions of the vine is growing dense fine aerial roots.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxspp_aerialroots.jpg)
+![A photo of a tree trunk with a woody vine with a single leaf comprised of three leaflets wrapped around it. Portions of the vine is growing dense fine aerial roots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-toxspp_aerialroots.jpg?itok=-GqJgWoB)
 
 Photo Credit
 

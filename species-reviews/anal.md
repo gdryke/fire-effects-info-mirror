@@ -47,7 +47,7 @@ Delacour and Ripley have proposed a fifth subspecies, _Anser albifrons_ ssp. _el
 
 The following species hybridize with the greater white-fronted goose: graylag goose (_A. anser_), snow goose (_Chen caerulescens_), emperor goose (_C. canagica_), lesser white-fronted goose (_A. erythropus_), bean goose (_A. fabalis_), bar-headed goose (_A. indicus_), brant (_Branta bernicla_), barnacle goose (_B. leucopsis_), and Canada goose (_B. canadensis_) [20].
 
-![Single goose swimming near the edge of a lake.]({{ site.baseurl }}/assets/images/species-reviews/anal_feis-ANAL_individual.jpg)
+![Single goose swimming near the edge of a lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ANAL_individual.jpg?itok=GRY1b5ua)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ The breeding grounds of the tule white-fronted goose are uncertain; however, it 
 
 The Greenland white-fronted goose breeds on the west coast of Greenland and in the taiga of the Mackenzie Basin region of Canada; it winters mainly in Ireland but occasionally winters in eastern Canada and the eastern United States along the Atlantic Coast [9,18,24].
 
-![A photo of three geese flying against a blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-anal_hero.jpg)
+![A photo of three geese flying against a blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-anal_hero.jpg?itok=H-5CRwam)
 
 Photo Credit
 

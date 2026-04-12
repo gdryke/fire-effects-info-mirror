@@ -75,7 +75,7 @@ Western wheatgrass grows in grasslands and sagebrush (_Artemisia_ spp.) deserts;
 
 Western wheatgrass occurs with a number of shrubs including big sagebrush (_A. tridentata_), bitterbrush (_Purshia tridentata_), and broom snakeweed (_Gutierrezia sarothrae_) [1].
 
-[![A photo of grasses growing with widely spaced sagebrush plants in front of relatively dry hills with a mountain in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-passmi_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Western wheatgrass growing at Heart Mountain in Park County, Wyoming.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grasses growing with widely spaced sagebrush plants in front of relatively dry hills with a mountain in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-passmi_community.jpg?itok=U29FKqnD)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Western wheatgrass growing at Heart Mountain in Park County, Wyoming.](<https://creativecommons.org/licenses/by/4.0/>)
 
 On the sagebrush rangeland of the Intermountain area, western wheatgrass is often mixed with bluebunch wheatgrass (_Pseudoroegneria spicata_) and thickspike wheatgrass [25]. In northern mixed-grass prairies, western wheatgrass occurs as a dominant with needle-and-thread grass, blue grama, and bluestems [49,52]. Publications using western wheatgrass in vegetation classifications are listed below:
 
@@ -98,7 +98,7 @@ On the sagebrush rangeland of the Intermountain area, western wheatgrass is ofte
 
 Western wheatgrass is a long-lived, native perennial, cool-season, endomycorrhizal grass [114,115]. It is an aggressive sod-forming grass characterized by an abundance of long, branched rhizomes [10,27]. Rhizomes allow plants to survive moderately severe drought [152]. The erect culms reach 12 to 36 inches (30-90 cm) in height [130]. Rhizomes lie 0.5 to 2 inches (1.3-5 cm) below the soil surface. The highly branched root system may penetrate the soil to a depth of 7 feet (21 m). In the deep rich soils of eastern Nebraska and Kansas, roots may extend as deep as 11.8 feet (3.6 m). Root extensions in more arid eastern Colorado may extend downward to depths of only 4.9 feet (1.5 m) [34]. In dry grasslands of Montana, only 6% of the roots of western wheatgrass were observed in the top 0 to 0.5 inch (0-1 cm) soil layer.
 
-[![A photo of grass panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-passmi_plant.jpeg)Photo Credit Photo by William Harmon, iNaturalist (CC BY 4.0). Western wheatgrass growing in McKinley County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grass panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-passmi_plant.jpeg?itok=jv7uYbmN)Photo Credit Photo by William Harmon, iNaturalist (CC BY 4.0). Western wheatgrass growing in McKinley County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Longevity of western wheatgrass roots was studied by banding roots of plants grown in containers from seed. In the second year 55 and 60% of the banded roots were dead. By the end of the second summer western wheatgrass roots had a survival of 42% [154]. Zhang and Romo [174] report tiller longevity of 2 to 3 years in Saskatchewan.
 

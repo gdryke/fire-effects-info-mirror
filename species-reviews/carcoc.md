@@ -61,7 +61,7 @@ Low northern sedge occurs from Newfoundland and Quebec west to Alaska [5,9]. Fro
 
 Low northern sedge is found in forests [10], open woods [3], and clearings [9]. It occurs on stony, dry [8,10], often calcareous soils [5,9,10,15].
 
-[![A sedge plant growing on rocky soils.]({{ site.baseurl }}/assets/images/species-reviews/feis-carcoc_plant.jpg)Photo Credit Photo by nambec, iNaturalist (CC BY-NC). Low northern sedge growing in Quebec, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A sedge plant growing on rocky soils.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carcoc_plant.jpg?itok=9qLbfKh7)Photo Credit Photo by nambec, iNaturalist (CC BY-NC). Low northern sedge growing in Quebec, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 In the Rocky Mountains and Colorado Basin, low northern sedge is found in rich, peaty soils chiefly in calcareous areas at elevations of 5,000 to 11,000 feet (1,524-3,353 m) [9].
 
@@ -77,7 +77,7 @@ Low northern sedge in Michigan is found at the edges of northern white-cedar (_T
 
 Low northern sedge is a native, perennial, monoecious graminoid [8]. It is loosely caespitose [5]. Culms are 2 to 8 inches (5 to 20 cm) tall [1] and triangular [8]. Leaves are mostly basal, five to nine per culm [9], 2 to 4 inches (5 to 10 cm) long, and 0.04 to 0.12 inches (1-3 mm) wide [7]. Inflorescences are both terminal and lateral and 0.12 to 0.28 inches (3 to 7 mm) long [5]. The achene is 0.06 inches (1.5 mm) long [8]. The perigynia surrounding the achene is obtusely triangular and 0.12 inches (3 mm) long [1]. Low northern sedge has slender, scaly, often long rhizomes or stolons [1,9,10].
 
-[![A close-up photo of a reproductive sedge.]({{ site.baseurl }}/assets/images/species-reviews/carcoc_carcoc_reproduction.jpg)Photo Credit Photo by Samuel Brinker, iNaturalist (CC BY-NC 4.0). Reproductive low northern sedge.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up photo of a reproductive sedge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carcoc_reproduction.jpg?itok=3UYN_PTZ)Photo Credit Photo by Samuel Brinker, iNaturalist (CC BY-NC 4.0). Reproductive low northern sedge.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

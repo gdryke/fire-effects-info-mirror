@@ -86,7 +86,7 @@ Yensen and others [28] found that on the Snake River Birds of Prey Study Area (S
 
 ## Biological Characteristics
 
-![A photo of a tan ground squirrel with small round ears and dark eyes standing at the entrance of a burrow in the ground, looking over its shoulder. The soil is red clay and there is no vegetation visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-urto_burrow.jpg)
+![A photo of a tan ground squirrel with small round ears and dark eyes standing at the entrance of a burrow in the ground, looking over its shoulder. The soil is red clay and there is no vegetation visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-urto_burrow.jpg?itok=OOZdwR77)
 
 Photo Credit
 
@@ -128,7 +128,7 @@ Although Townsend's ground squirrels occur in arid environments, within those en
 
 ### Cover Requirements
 
-![A photo of four tan ground squirrels standing upright on a pile of large rounded rocks in an open, grassy environment.]({{ site.baseurl }}/assets/images/species-reviews/feis-urto_colony.jpg)
+![A photo of four tan ground squirrels standing upright on a pile of large rounded rocks in an open, grassy environment.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-urto_colony.jpg?itok=bLshsaNk)
 
 Photo Credit
 

@@ -57,7 +57,7 @@ Mallow ninebark generally occurs east of the Cascades, from south-central Britis
  * United States: ID MT NV OR UT WA WY
  * Canada: AB BC
 
-![A photo of a leafy shrubs with clusters of white flowers growing on a grassy hillside, with tall, widely-spaced conifers growing along the hilltop.]({{ site.baseurl }}/assets/images/species-reviews/feis-phymal_sitechars.jpeg)
+![A photo of a leafy shrubs with clusters of white flowers growing on a grassy hillside, with tall, widely-spaced conifers growing along the hilltop.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-phymal_sitechars.jpeg?itok=TGyDJrrM)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ Year| Bud swell| Leafing out| Stem growth| Blooming| Fruit growth| Leaf color ch
  
 ## Regeneration Processes
 
-![A photo of a tight hemispherical cluster of white flowers, with flowers towards the base in bloom and buds near the top. Green leaves and additional flower clusters are growing from adjacent twigs and branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-phymal_flowers_0.jpg)
+![A photo of a tight hemispherical cluster of white flowers, with flowers towards the base in bloom and buds near the top. Green leaves and additional flower clusters are growing from adjacent twigs and branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-phymal_flowers_0.jpg?itok=Tv0Md75P)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Postfire| 1.5| 3.0| 100.0| 100.0| 21.0| 2.0
 
 ## Fire Adaptations
 
-![A photo of leafy, upright stems, apparently all growing directly out of the soil rather than branching from a base. Leaves are bright green, and stems are reddish. Some bare soil is visible below.]({{ site.baseurl }}/assets/images/species-reviews/feis-phymal_sprouts.jpeg)
+![A photo of leafy, upright stems, apparently all growing directly out of the soil rather than branching from a base. Leaves are bright green, and stems are reddish. Some bare soil is visible below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-phymal_sprouts.jpeg?itok=A0sOMs_9)
 
 Photo Credit
 
@@ -212,7 +212,7 @@ No entry.
 
 ## Nonfire Management Considerations
 
-![A photo of a branch top with several clusters of white flowers and green leaves growing at the end of twigs. A mountain valley with slopes dominated by conifers extends into the distance with snow-capped peaks at its end.]({{ site.baseurl }}/assets/images/species-reviews/feis-phymal_mountains.jpeg)
+![A photo of a branch top with several clusters of white flowers and green leaves growing at the end of twigs. A mountain valley with slopes dominated by conifers extends into the distance with snow-capped peaks at its end.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-phymal_mountains.jpeg?itok=aTxFGjlw)
 
 Photo Credit
 

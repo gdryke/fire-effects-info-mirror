@@ -36,7 +36,7 @@ Fryer, Janet L. 2004. _Pinus longaeva_ , Great Basin bristlecone pine. In: Fire 
 
 ## Taxonomy
 
-![Photo of the base of an old tree showing vertical stripes of different shades of yellow and brown in the trunk wood, with a dense cluster of trees behind it.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-oldgreen_pinlon.jpg)
+![Photo of the base of an old tree showing vertical stripes of different shades of yellow and brown in the trunk wood, with a dense cluster of trees behind it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-oldgreen_pinlon.jpg?itok=4mRa4aOr)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Vegetation and habitat typings describing Great Basin bristlecone pine communiti
 
 Great Basin bristlecone pine is a native conifer of highly variable growth form. Low-elevation trees are typically tall and upright. At high elevations Great Basin bristlecone pine becomes twisted and contorted. The type locality for Great Basin bristlecone pine is Wheeler Peak, Great Basin National Park, in the Snake Range of eastern Nevada [64]. Great Basin bristlecone pine is rarely shrubby. It does not form timberline krummholz in the White Mountains [78,82,110]; however, some high-elevation sites in eastern Nevada and Utah support Great Basin bristlecone pine krummholz [78]. Trees are typically 30 feet (9.1 m) or less in height. Trees on mesic, low-elevation sites may reach 60 feet (18 m) in height and 5 feet (1.5 m) in diameter [54,64,136].
 
-![Photo of the end of a pine branch densely covered with needles with two pairs of pine cones emerging near branch ends.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-femalecones_pinlon.jpg)
+![Photo of the end of a pine branch densely covered with needles with two pairs of pine cones emerging near branch ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-femalecones_pinlon.jpg?itok=3SRG1kzZ)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ Photo by Dr. Garon Smith, used with permission.
 
 Female Great Basin bristlecone pine cones.
 
-![Photo of a cluster of pine branches densely covered with green needles with orange clusters at the ends of branches.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-malecones_pinlon.jpg)
+![Photo of a cluster of pine branches densely covered with green needles with orange clusters at the ends of branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-malecones_pinlon.jpg?itok=nSr2-4-9)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ Male Great Basin bristlecone pine cones.
 
 Great Basin bristlecone pine may have single or multiple trunks [84,88]. Unlike foxtail pine, which has very thick bark, Great Basin bristlecone pine bark is thin [141]. Great Basin bristlecone pines on harsh sites have a high proportion of dead trunk- and branchwood. Old trunks and exposed roots have thick, vertical ribbons of dead wood. Between the dead ribbonwood, thin strips of living root and stem tissue support living branches [85]. In younger trees, branches are long and pendulous, forming an irregular crown [124]. The Balfourianae complex is unique among pines in that about half of their branches originate from within the needle fascicles [27,36]. Great Basin bristlecone pine needles are 1 to 1.6 inches (2.5-4 cm) long, with 5 needles per fascicle. Needles may be retained for 35 or more years [30,37,141]. Staminate cones are 0.4 to 0.5 inch (10-12 mm) long. The dehiscent female cones are 2 to 5.5 inches (5-14 cm) long and armed with an incurved, bristly prickle. Seeds are 6 to 8 mm in length; the seed wing is slightly longer than the seed [13,64,85,86,87,110,136].
 
-![Photo of the top of an old tree with twisted branches and sparse foliage.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-deadwood_pinlon.jpg)
+![Photo of the top of an old tree with twisted branches and sparse foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-deadwood_pinlon.jpg?itok=jAhudN_7)
 
 Photo Credit
 
@@ -181,7 +181,7 @@ Population mean| 163| 72| 77
 Number of individuals| 17,000| 8,500| 14,000 
 *Upper zones are 3,200 m for CB and ER, 3,500 m for WP; mid-zones are 2,950 m for CB and ER, 3,375 m for WP; lower zones are 2,700 m for CB and ER, 3,250 m for WP. 
  
-![Photo of a small, dense grove of very old pine trees on the top of a ridge, with a red rock slope and blue skies in the background.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-PINLON_grove.JPG)
+![Photo of a small, dense grove of very old pine trees on the top of a ridge, with a red rock slope and blue skies in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINLON_grove.JPG?itok=0mci6fht)
 
 Photo Credit
 
@@ -189,7 +189,7 @@ Photo by Dr. Garon Smith, used with permission.
 
 A Great Basin bristlecone pine grove at Cedar Breaks National Monument.
 
-![Photo on a mountain ridge showing a dense grove of pine tees with narrow trunks and sparse foliage.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-PINLON_stand_0.JPG)
+![Photo on a mountain ridge showing a dense grove of pine tees with narrow trunks and sparse foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINLON_stand_0.JPG?itok=8nccO3bW)
 
 Photo Credit
 
@@ -201,7 +201,7 @@ Stand structure is affected by aspect. Trees on northern slopes tend to be very 
 
 ### Age Structure
 
-![Photo of a small grove of very old trees with twisted trunks and sparse foliage near a rocky mountain top against and blue sky.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-plant_pinlon.jpg)
+![Photo of a small grove of very old trees with twisted trunks and sparse foliage near a rocky mountain top against and blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plant_pinlon.jpg?itok=aN4lJ4IA)
 
 Photo Credit
 
@@ -287,7 +287,7 @@ Great Basin bristlecone pine is shade intolerant and cannot establish in dense f
 
 ## Fire Ecology and Management
 
-![Photo of an old tree with twisted trunk and branches and an old fire scar at the base.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-fireff_pinlon.jpg)
+![Photo of an old tree with twisted trunk and branches and an old fire scar at the base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-fireff_pinlon.jpg?itok=iyI_NNem)
 
 Photo Credit
 
@@ -308,7 +308,7 @@ Mixed-severity fire regimes kill some Great Basin bristlecone pines and leave ot
 
 ## Fire Adaptations
 
-![Photo of a portion of a tree trunk showing orange and black bark and many small branches.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-bark_pinlon.jpg)
+![Photo of a portion of a tree trunk showing orange and black bark and many small branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bark_pinlon.jpg?itok=21NQVVRW)
 
 Photo Credit
 
@@ -328,7 +328,7 @@ In Great Basin National Park, a crown fire on Mt. Washington killed a stand comp
 
 ### Fuels
 
-![Photo of a mountain ridge showing a slope with moderate tree cover and substantial visible bare ground.]({{ site.baseurl }}/assets/images/species-reviews/pinlon_feis-PINLON_standA.jpg)
+![Photo of a mountain ridge showing a slope with moderate tree cover and substantial visible bare ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-PINLON_standA.jpg?itok=5IuURyBj)
 
 Photo Credit
 
@@ -389,7 +389,7 @@ Great Basin bristlecone pines are a major source of cover for wildlife in high-e
 
 ## Value for Rehabilitation or Restoration of Disturbed Sites
 
-![Photo of Great Basin bristlecone pine growing on a sunny ridgetop.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinlon_tree2.jpeg)
+![Photo of Great Basin bristlecone pine growing on a sunny ridgetop.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinlon_tree2.jpeg?itok=AqS-jvyZ)
 
 Photo Credit
 

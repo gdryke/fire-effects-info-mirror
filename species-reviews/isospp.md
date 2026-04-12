@@ -59,7 +59,7 @@ See table A1 for a complete list of common and scientific names of plant species
 
 Three reviews [31, 58, 91] are cited throughout this Species Review. Within sections, information is arranged first at the genus level (_Isotria_), then for small whorled pogonia, and lastly for large whorled pogonia. The text is bolded at first mention of each taxon.
 
-![A photo of a plant with five leaves arranged in a star shape with a short flower stalk with a white flower emerging from the center.]({{ site.baseurl }}/assets/images/species-reviews/isospp_feis-isomed_flower.jpg)
+![A photo of a plant with five leaves arranged in a star shape with a short flower stalk with a white flower emerging from the center.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-isomed_flower.jpg)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Image courtesy of Robert H. Mohlenbrock @ USDA-NRCS PLANTS Database / USDA NRCS.
 
 Figure 1—Small whorled pogonia.
 
-![A photo of a plant with five leaves arranged in a star shape partway up a stem. At the top of the stem is a flower with three long sepals.]({{ site.baseurl }}/assets/images/species-reviews/isospp_feis-isover_flower.jpg)
+![A photo of a plant with five leaves arranged in a star shape partway up a stem. At the top of the stem is a flower with three long sepals.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-isover_flower.jpg)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ None
 
  _**Isotria**_ : The _Isotria_ genus is native to the eastern United States. Historically, it was also distributed a short way into adjacent Canada [31]. _Isotria_ spp. occur in parts of the Great Lakes, Northeast, Appalachians, and Southeast [86] (fig. 3).
 
-![Two maps of the eastern United States. The map on the left has most east coast states and adjacent interior states highlighted green. The map on the right has most east coast and southern states, as well as adjacent interior states, highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-isospp_map.png)
+![Two maps of the eastern United States. The map on the left has most east coast states and adjacent interior states highlighted green. The map on the right has most east coast and southern states, as well as adjacent interior states, highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-isospp_map.png?itok=Ew52--C5)
 
 Photo Credit
 
@@ -148,7 +148,7 @@ Large whorled pogonia occurs with oaks, pines, and maples in its northern distri
 
 In the southern portion of its range, large whorled pogonia is most common in mature beech-oak and red maple forests [31]. It also grows in oak-hickory and oak-pine forests dominated by scarlet oak, white oak, and other oaks; and/or shortleaf pine, pitch pine, and Virginia pine [31]. Flame azalea, flowering dogwood, and sourwood are common mid- or understory associates [91]. Herb associates may be few due to dense, but Christmas fern and western brackenfern sometimes grow in association with large whorled pogonia [31].
 
-![A photo of a forb with five leaves arranged in a star shape at the top of a narrow green stem, with an understated white flower growing from the stem just above the leaves. The ground is covered in leaf litter.]({{ site.baseurl }}/assets/images/species-reviews/isospp_feis-isomed_habitat.jpg)
+![A photo of a forb with five leaves arranged in a star shape at the top of a narrow green stem, with an understated white flower growing from the stem just above the leaves. The ground is covered in leaf litter.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-isomed_habitat.jpg)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Image by James Henderson, Golden Delight Honey, Bugwood.org.
 
 Figure 4a—Small whorled pogonia growing with ferns in litter on the Pisgah National Forest, North Carolina.
 
-![A photo of a forb with a purplish green topped by five leaves arranged in a star shape. A white flower with long purplish sepals grows above the leaves on the stem. Leaf litter covers with ground, and tree trunks and a few vines are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/isospp_feis-isover_habitat.jpg)
+![A photo of a forb with a purplish green topped by five leaves arranged in a star shape. A white flower with long purplish sepals grows above the leaves on the stem. Leaf litter covers with ground, and tree trunks and a few vines are visible in the background.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-isover_habitat.jpg)
 
 Photo Credit
 
@@ -376,7 +376,7 @@ Observations and unpublished reports [31, 38, 45] suggest that **large whorled p
 
 In an oak forest on the Green Mountain National Forest near Pownal, Vermont, large whorled pogonia was more abundant in burned than in unburned areas following a low-severity, April prescribed fire, even though most of the population occurred outside the burned area [45, 46, 71]. Managers on the Forest report that “large populations” of large whorled pogonia once occurred on south-facing, convex slopes that were burned in the early 1900s to promote berry production, although these populations were apparently declining in the 2010s [71]. Three months after the spring prescribed fire, density of large whorled pogonia averaged about 60 vegetative stems in a ~30 × 40-foot area [45]. Most of these were large plants (4-7 inches (11-18 cm) tall): no seedlings were present [45, 46]. Marcus (2019) reports that many of the plants “are growing right out of burnt soil, right against charred branches and logs”, with the previous year’s stems sometimes visible as charred stalks (fig. 5). Outside the burn, large whorled pogonia was “very rare and difficult to find above ground” [45].
 
-![A photo of a plant comprised of a narrow purplish stem with six leaves growing in a whorl at its top. Several other small forbs grow nearby. Woody debris, some visibly charred, is apparent on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/isospp_feis-isover_lightrxfire.jpg)
+![A photo of a plant comprised of a narrow purplish stem with six leaves growing in a whorl at its top. Several other small forbs grow nearby. Woody debris, some visibly charred, is apparent on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-isover_lightrxfire.jpg?itok=0DqI6-mC)
 
 Photo Credit
 

@@ -66,7 +66,7 @@ Japanese brome is native to Eurasia. In North America it is distributed from Bri
 
 Japanese brome invades disturbed and undisturbed sites. It dominates disturbed areas in the Jackson Hole Wildlife Park, Wyoming, where it occurs on bridle paths, roadsides, gravel pits, and heavily used or burned picnic sites [55]. In other areas it is reported from site-prepared plantations [53], old prairie dog mounds [50], moderately to heavily grazed rangelands [56], and undisturbed mixed-grass prairie [72].
 
-[![A hillside covered in fruiting, green annual grasses. A barbed wire fence stretches across the top right corner of the photo. Blue skies above.]({{ site.baseurl }}/assets/images/species-reviews/brojap_brojap_habitat.jpg)Photo Credit Wikimedia Commons image by Matt Lavin from Bozeman, Montana, USA - Bromus japonicus, CC BY-SA 2.0. Japanese brome in eastern Montana.](<https://commons.wikimedia.org/w/index.php?curid=68773365>)
+[![A hillside covered in fruiting, green annual grasses. A barbed wire fence stretches across the top right corner of the photo. Blue skies above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/brojap_habitat.jpg?itok=0HvyVSlq)Photo Credit Wikimedia Commons image by Matt Lavin from Bozeman, Montana, USA - Bromus japonicus, CC BY-SA 2.0. Japanese brome in eastern Montana.](<https://commons.wikimedia.org/w/index.php?curid=68773365>)
 
 Japanese brome grows on soils of various textures including sand [8], silt [9], clay [7], and claypan [35]. It usually occurs on mesic sites [28,49,75]. Fine-textured soils with good litter cover promote best growth [70]. It is apparently intolerant of alkaline soils [64].
 
@@ -94,7 +94,7 @@ Japanese brome was ranked as important in high-disturbance willow (_Salix_ spp.)
 
 Japanese brome is an introduced, cool-season, annual grass from 8 to 48 inches (20-120 cm) tall. It sheaths are hairy; the blades are glabrous to hairy. The inflorescence is an open panicle bearing 6 to 13 caryopses [34,36,38,43,68]. Roots may be shallow [61], or surprisingly deep for an annual. Roots of plants in Lewistown, Montana, reached depths of 5 feet (150 cm), with most roots concentrated between 2.7 and 4.7 feet (80 and 140 cm) below ground. Japanese brome root density surpassed that of five other annual bromes also occurring at the site [40].
 
-![An annual grass with pendulous fruits outlined against the sun, with bunchgrasses and a trail behind. Silhouetted hills and blue skies with a few clouds in the background.]({{ site.baseurl }}/assets/images/species-reviews/brojap_brojap_plant.jpg)
+![An annual grass with pendulous fruits outlined against the sun, with bunchgrasses and a trail behind. Silhouetted hills and blue skies with a few clouds in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/brojap_plant.jpg?itok=oeJ2wd8t)
 
 Photo Credit
 

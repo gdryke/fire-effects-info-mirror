@@ -50,7 +50,7 @@ Climate change projections suggest that Port Orford-cedar may experience range c
 
 ## Taxonomy
 
-![A photo of conifers growing around a blue-green lake with a rocky hillside sloping upwards to a peak in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-chalaw_coverphoto.jpeg)
+![A photo of conifers growing around a blue-green lake with a rocky hillside sloping upwards to a peak in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chalaw_coverphoto.jpeg?itok=OpNTAgEz)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ false cypress, ginger-pine, Lawson cypress, Lawson’s cypress, Oregon-cedar, Po
 
 ## Distribution
 
-![A map of southern Oregon and northern California with patchy polygons mostly near the coast shaded brown.]({{ site.baseurl }}/assets/images/species-reviews/feis-chalaw_figure1.jpg)
+![A map of southern Oregon and northern California with patchy polygons mostly near the coast shaded brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chalaw_figure1.jpg?itok=lj2fuT6a)
 
 Photo Credit
 
@@ -123,7 +123,7 @@ Port Orford-cedar is mostly found on northern, northwestern, or northeastern asp
 
 Climate varies across Port Orford-cedar’s distribution, from maritime-influenced, coastal fog belt rainforests, inland to mediterranean climate forests, and upslope to cool, subalpine forests [67,106]. The wettest forests near the coast receive up to 225 cm of precipitation annually [67], while drier interior forests receive 100 to 150 cm, nearly all as rain [67,105,106]. Isolated populations in subalpine forests receive ~125 cm of precipitation annually, with some falling as snow [105,106]. Coastal and montane sites remain relatively cool and moist throughout the year, while lower-elevation inland forests have cool winters and warm, dry summers. Across ten sites in all four vegetation zones in Port Orford-cedar’s range, the summer mean daily maximum temperature at a low-elevation mixed-pine site in the Klamath mountains exceeded 35 °C, while that at coastal western hemlock, mid-elevation tanoak, and montane white fir sites remained below 22 °C. Mean daily winter maximum temperatures ranged from 3 to 8 °C across the four vegetation zones [105].
 
-![A photo of conifers of various sizes growing around a lake with mountains behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-chalaw_figure2.jpeg)
+![A photo of conifers of various sizes growing around a lake with mountains behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chalaw_figure2.jpeg?itok=XP88HoKB)
 
 Photo Credit
 
@@ -189,7 +189,7 @@ Port Orford-cedar occurs on the edges of serpentine fen ecosystems in coastal lo
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Identification keys are available (e.g., [4,21,62]).
 
-![A photo of two types of cones on scale-like, drooping conifer leaves. Green cones are small and round, and brown cones are barely wider than the scaly leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-chalaw_figure3.jpg)
+![A photo of two types of cones on scale-like, drooping conifer leaves. Green cones are small and round, and brown cones are barely wider than the scaly leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chalaw_figure3.jpg?itok=9bpjtizS)
 
 Photo Credit
 
@@ -291,7 +291,7 @@ Port Orford-cedar begins bearing cones between about 5 and 20 years old [9,103].
 
 Drought, wind, frost, or a combination of these, were historically major causes of Port Orford-cedar mortality [106]. Currently, infection of Port Orford-cedar by P. lateralis is likely the most significant cause of mortality (see Additional Management Considerations). McNellis (2021) estimated a 0.30% annual mortality rate for Port Orford-cedar using data collected for Forest Inventory Analysis (FIA) from 2000-2019. However, that analysis did not include trees killed by fire, therefore annual mortality rates are likely higher. The study did not detail primary causes of mortality for Port Orford-cedar [60].
 
-![A bar graph with age class in years on the x-axis and height on the y-axis in three different plant communities.]({{ site.baseurl }}/assets/images/species-reviews/feis-chalaw_figure4_graph.jpg)
+![A bar graph with age class in years on the x-axis and height on the y-axis in three different plant communities.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chalaw_figure4_graph.jpg?itok=khBuMxl1)
 
 Photo Credit
 
@@ -355,7 +355,7 @@ Port Orford-cedar mortality from fire may differ among plant communities or soil
 
 Adaptations that allow large Port Orford-cedar trees to survive surface fires include thick, undulating bark; self-pruning of lower branches; and decay-resistant wood. Bark thickness varies, creating an undulating pattern of bark around the base of the tree, but can be as thick as 25 cm [17,106]. Both the overall thickness and the uneven distribution of the bark—with some very thick areas—contribute to Port Orford-cedar’s fire resistance [106]. Fires may burn through thinner sections of bark into the cambium, but not through the areas where bark is thickest. Large Port Orford-cedar trees growing in forested conditions can self-prune up to 46 m, protecting live branches and needles from surface fires. In open environments, however, self-pruning may not occur, and branches often bend downward to reach the ground [17]. Due to its decay-resistant wood, fire scars on Port Orford-cedar (fig. 5) do not easily rot or become infected by insects [106]. Small scars may heal completely [106], allowing the tree to survive long-term without risk of further damage.
 
-![A photo of the trunk of a large conifer with somewhat shreddy bark and relatively high branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-chalaw_figure5.jpg)
+![A photo of the trunk of a large conifer with somewhat shreddy bark and relatively high branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chalaw_figure5.jpg?itok=K76KsSkc)
 
 Photo Credit
 

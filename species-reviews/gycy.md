@@ -68,7 +68,7 @@ In a study conducted in Washington County in southwestern Utah by Webb [131], pi
 
 ## Botanical and Ecological Characteristics
 
-![A photo of a blue bird with a long pointed beak perched on a conifer tree branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-gycy_bird.jpg)
+![A photo of a blue bird with a long pointed beak perched on a conifer tree branch.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-gycy_bird.jpg?itok=-F9ncUMy)
 
 Photo Credit
 
@@ -174,7 +174,7 @@ In the fall and winter, pinyon jays have been noted eating Gambel oak (_Quercus 
 
 ### Foraging Sites and Behavior
 
-![A photo of a flock of blue and gray birds flying out of a conifer tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-gycy_flock.jpg)
+![A photo of a flock of blue and gray birds flying out of a conifer tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-gycy_flock.jpg?itok=6Zr_7F9a)
 
 Photo Credit
 

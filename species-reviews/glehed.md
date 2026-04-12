@@ -111,7 +111,7 @@ Great Britain's vegetation classification system provides detailed information a
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [31,35,45,49,62,87,97,107,131]).
 
-![Photo of an herbaceous plant with round, serrated leaves and purple, pea-like flowers.]({{ site.baseurl }}/assets/images/species-reviews/glehed_feis-GLEHED_plant.jpg)
+![Photo of an herbaceous plant with round, serrated leaves and purple, pea-like flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-GLEHED_plant.jpg?itok=Ts5PdXMS)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Ground-ivy is a low-growing perennial herb that spreads by branched horizontal s
 
 Ramets have 2 erect petioles and may or may not produce flowers [52,103,124]. Petioles arise from the stolon nodes and bear cordate-reniform leaves that average about 0.4 to 1.2 inches long (~1-3 cm) [46,51,79,123] and can reach over 3 inches long (8 cm) [51]. Plants are often pubescent but can be nearly glabrous [49,51,62,97]. In Great Britain [91], the northeastern United States [113], and the Carolinas [87], ground-ivy is reported to be evergreen. Flowerstalks can be erect or ascending and may not always produce flowers [51]. The inflorescence is a 2- to 6-flowered cyme [51,108,130]. The fruit is a nutlet [30,124,125,130] containing one 1.9 × 1.1 mm seed [51,108].
 
-![Photo of a small, excavated plant against a dark background showing several stems and small, fibrous roots sprouting from a stolon.]({{ site.baseurl }}/assets/images/species-reviews/glehed_feis-GLEHED_stolons.jpg)
+![Photo of a small, excavated plant against a dark background showing several stems and small, fibrous roots sprouting from a stolon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-GLEHED_stolons.jpg?itok=TkfG-wTM)
 
 Photo Credit
 

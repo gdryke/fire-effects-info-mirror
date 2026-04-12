@@ -70,7 +70,7 @@ Western tanagers have also been observed in saltcedar (_Tamarix_ spp.) communiti
 
 ## Biological Characteristics
 
-![A photo of a yellow bird with a red face and black and white wings, perched on a thin juniper branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pilu_male.jpg)
+![A photo of a yellow bird with a red face and black and white wings, perched on a thin juniper branch.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-pilu_male.jpg?itok=fHriNuf6)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ According to several reviews, western tanager obtain their food by foliage glean
 
 Western tanagers primarily glean from foliage. In the mixed conifer-oak woodland of California, 45% of western tanager foraging observations were foliage gleaning. Western tanagers gleaned from twigs in 10% of observations and from branches in 5% of observations. Hawking comprised the remainder of western tanager foraging observations [2]. In British Columbia, 88.3% of gleaning observations occurred on foliage, 10.5% on branches and twigs, and 1.2% on trunks [88].
 
-![A photo of a yellow and gray bird on a bright red flower stalk, with a bee in its beak.]({{ site.baseurl }}/assets/images/species-reviews/feis-pilu_female.jpg)
+![A photo of a yellow and gray bird on a bright red flower stalk, with a bee in its beak.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-pilu_female.jpg?itok=SPFUMf0D)
 
 Photo Credit
 

@@ -59,7 +59,7 @@ The typical variety of American elm (var. _americana_) is found throughout easte
 
 ## Site Characteristics
 
-![A photo of a tall , straight tree in the distance with a perfectly round crown and some small spring leaves starting to come out. Closer to the camera are some conifer trees and the ground is covered in herbaceous plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-ulmame_habitat.jpg)
+![A photo of a tall , straight tree in the distance with a perfectly round crown and some small spring leaves starting to come out. Closer to the camera are some conifer trees and the ground is covered in herbaceous plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ulmame_habitat.jpg?itok=ty8LQADr)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ In addition to those species mentioned in Table A1, common associates of America
 
 ## Botanical Description
 
-![A historical black and white photo of a very wide tree trunk that has completely engulfed a wooden fence. A man in old-fashioned clothes is standing next to the tree leaning on the fence.]({{ site.baseurl }}/assets/images/species-reviews/feis-ulmame_historical.jpg)
+![A historical black and white photo of a very wide tree trunk that has completely engulfed a wooden fence. A man in old-fashioned clothes is standing next to the tree leaning on the fence.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ulmame_historical.jpg?itok=hToAwAO5)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ The time of flowering, seed ripening, and seed fall varies by about 100 days bet
 
 ## Regeneration Processes
 
-![A close-up photo of the tip of a tree branch with small, green, flat winged seeds hanging down from the branch. The background is winter or early spring forest with few leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-ulmame_samaras.jpg)
+![A close-up photo of the tip of a tree branch with small, green, flat winged seeds hanging down from the branch. The background is winter or early spring forest with few leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ulmame_samaras.jpg?itok=FHOlbbKO)
 
 Photo Credit
 

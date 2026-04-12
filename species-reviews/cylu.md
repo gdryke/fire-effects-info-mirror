@@ -77,7 +77,7 @@ Black-tailed prairie dogs are native to grassland habitats in North America. The
 
 ## Biological Characteristics
 
-![An orangey-tan prairie dog jumps upright and throws its head back in a green open field. Another prairie dog is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cylu_alarm.jpg)
+![An orangey-tan prairie dog jumps upright and throws its head back in a green open field. Another prairie dog is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-cylu_alarm.jpg?itok=ejJ9SxOF)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Age of first reproduction, pregnancy rate, litter size, juvenile growth rate, an
 
 ### Social Structure
 
-![A zoomed-out photo of an open, mostly unvegetated area with a series of pale mounds of soil and a few shrubs. Small prairie dogs are visible around some of the mounds.]({{ site.baseurl }}/assets/images/species-reviews/feis-cylu_colony.jpg)
+![A zoomed-out photo of an open, mostly unvegetated area with a series of pale mounds of soil and a few shrubs. Small prairie dogs are visible around some of the mounds.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-cylu_colony.jpg?itok=Du4xIxie)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ The mating season occurs from late February through April, but varies with latit
 
 **Gestation period and litter size:** Black-tailed prairie dog gestation is 34 days [69,75]. Parturition occurs underground. Information about litter size at time of birth is unavailable [65]. Mean litter size observed aboveground ranges from 3.0 to 4.9 young/litter [66,67,75,81]. Only 1 litter is produced each year [66,67].
 
-![A photo of a reddish-tan prairie dog and two lighter colored prairie dog pups standing on top of a mound of pale soil, surrounded by green grassy vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-cylu_withyoung.jpg)
+![A photo of a reddish-tan prairie dog and two lighter colored prairie dog pups standing on top of a mound of pale soil, surrounded by green grassy vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-cylu_withyoung.jpg?itok=bcAX8Ny7)
 
 Photo Credit
 

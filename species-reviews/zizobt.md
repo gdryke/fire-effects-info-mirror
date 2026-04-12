@@ -34,7 +34,7 @@ Sullivan, Janet. 1993. _Ziziphus obtusifolia,_ lotebush. In: Fire Effects Inform
 
 ## Image Gallery
 
-![Photo of lotebush with berries.]({{ site.baseurl }}/assets/images/species-reviews/zizobt_zizobt_berries.jpg) Lotebush. _Photo by Michelle Lopez, iNaturalist.org, no rights reserved._
+![Photo of lotebush with berries.](https://research.fs.usda.gov/sites/default/files/2025-06/zizobt_berries.jpg) Lotebush. _Photo by Michelle Lopez, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Michelle Lopez, iNaturalist.org, no rights reserved.
 
@@ -90,7 +90,7 @@ In succulent-scrub upland communities in the Chihuahuan Desert, lotebush is asso
 
 ## Botanical Description
 
-![Photo of lotebush with berries.]({{ site.baseurl }}/assets/images/species-reviews/zizobt_zizobt_berries.jpg)
+![Photo of lotebush with berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/zizobt_berries.jpg?itok=Ze8UW3b3)
 
 Photo Credit
 

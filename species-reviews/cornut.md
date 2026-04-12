@@ -118,7 +118,7 @@ Wind River area: 1,099 to 2,362 feet (335-720 m) [17,43]
 
 ## Botanical and Ecological Characteristics
 
-![Photo of Pacific dogwood tree in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-cornut_treeform_cornut.jpg)
+![Photo of Pacific dogwood tree in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-cornut_treeform_cornut.jpg?itok=VI6fKnvr)
 
 Photo Credit
 

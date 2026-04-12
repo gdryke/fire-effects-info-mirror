@@ -109,7 +109,7 @@ Common associates of Sonoran scrub oak in pinyon-juniper woodlands include onese
 
 Sonoran scrub oak is a clump-forming or clonal evergreen shrub or less commonly a small tree [81,84,94,101]. It typically grows from 3 to 8 feet (0.9-2 m) in height with stem diameters to 8 inches (20 cm) [8,99,101]; however, it can reach 15 feet (5 m) or more [8]. The somewhat leathery leaves are 0.5 to 1.6 inches (1.3-4 cm) in length, 0.3 to 0.9 inch (0.7-2.4 cm) in width [94,101]. Leaves persist through the winter [93]. Fruits of Sonoran scrub oak are slender, annual acorns 0.5 to 1 inch (1.3-2.5 cm) in length, with turbinate cups [94].
 
-![A photo of a pale shrubby low tree growing on red soil, in a red rock desert environment. The ground is bare other than a few other similar shrubs and small desert plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-quetur_habitat.jpg)
+![A photo of a pale shrubby low tree growing on red soil, in a red rock desert environment. The ground is bare other than a few other similar shrubs and small desert plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quetur_habitat.jpg?itok=tjWaJg-7)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ Sonoran scrub oak acorns mature by the summer or early fall. Acorns were present
 
 Sonoran scrub oak reproduces through both sexual and vegetative means.
 
-![A close up photo of a plant's pale grey, stiff leaves and small, elongated brown acorns. The background shows more leaves and thin grey branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-quetur_acorn.jpeg)
+![A close up photo of a plant's pale grey, stiff leaves and small, elongated brown acorns. The background shows more leaves and thin grey branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quetur_acorn.jpeg?itok=E68JjCLA)
 
 Photo Credit
 

@@ -55,7 +55,7 @@ Pacific mountain-ash, Sitka mountain-ash
 
 ## General Distribution
 
-![A map of the western U.S. and Canada with areas highlighted in green where western mountain-ash occurs. Scattered areas along the west coast and a large area in western British Columbia are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorsit_map.jpg)
+![A map of the western U.S. and Canada with areas highlighted in green where western mountain-ash occurs. Scattered areas along the west coast and a large area in western British Columbia are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sorsit_map.jpg?itok=XnJGEbOz)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ No entry.
 
 ## Botanical Description
 
-![A photo of a branch with rounded green-yellow leaves and a cluster of bright red berries at the tip. The background is a rocky mountainside with grasses and low shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorsit_berries.jpg)
+![A photo of a branch with rounded green-yellow leaves and a cluster of bright red berries at the tip. The background is a rocky mountainside with grasses and low shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sorsit_berries.jpg?itok=njnk1SeT)
 
 Photo Credit
 

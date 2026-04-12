@@ -34,7 +34,7 @@ Van Deelen, Timothy R. 1991. _Eupatorium capillifolium_ , dogfennel. In: Fire Ef
 
 ## Image Gallery
 
-![An upright green plant growing thickly along a fence line in an agricultural/field setting.]({{ site.baseurl }}/assets/images/species-reviews/eupcap_eupcap_fence.jpg) Dogfennel growing along a fence line. _John D. Byrd, Mississippi State University, Bugwood.org_
+![An upright green plant growing thickly along a fence line in an agricultural/field setting.](https://research.fs.usda.gov/sites/default/files/2025-04/eupcap_fence.jpg) Dogfennel growing along a fence line. _John D. Byrd, Mississippi State University, Bugwood.org_
 
 Photo Credit: John D. Byrd, Mississippi State University, Bugwood.org
 
@@ -68,7 +68,7 @@ Dogfennel grows in the southeastern United States from southern Florida west to 
 
 Dogfennel grows on disturbed sites in the Southeast. It is common on young burns in the loblolly pine (Pinus taeda)-turkey oak (Quercus laevis) type in Florida's Ocala National Forest [10], on recent burns in the Okefenokee Swamp [1], on burned and cut Atlantic white-cedar (Chamaecyparis thyoides) sites in the Great Dismal Swamp [14], and on overgrazed sites in Louisiana [3]. Dogfennel is a frequent invader of everglades sawgrass (Cladium sp.) communities during drought [7,13]. Other dogfennel sites include meadows, swales, old fields, pond borders, ditches, disturbed or overgrazed pastures, and roadsides [9]. Although apparently able to grow on a variety of soils, it is most common on dry, sandy soils [9].
 
-![An upright green plant growing thickly along a fence line in an agricultural/field setting.]({{ site.baseurl }}/assets/images/species-reviews/eupcap_eupcap_fence.jpg)
+![An upright green plant growing thickly along a fence line in an agricultural/field setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/eupcap_fence.jpg?itok=kq6FFhaj)
 
 Photo Credit
 

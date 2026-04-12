@@ -70,7 +70,7 @@ Pumpelly's brome occurs from Alaska and northern Canada south through the Rocky 
 
 Distribution of _Bromus inermis_ subsp. _pumpellianus_ var. _pumpellianus_ :
 
-![A map of the United States and Canada with some states and all provinces highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-broinep_distribution.jpg)
+![A map of the United States and Canada with some states and all provinces highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-broinep_distribution.jpg?itok=xP15rvng)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Distribution of _Bromus inermis_ subsp. _pumpellianus_ var. _pumpellianus._
 
 Distribution of _Bromus inermis_ subsp. _pumpellianus_ var. _arcticus_ :
 
-![A map of the United States and Canada with several states and provinces highlighted.]({{ site.baseurl }}/assets/images/species-reviews/broinep_broinepa_distribution.jpg)
+![A map of the United States and Canada with several states and provinces highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/broinepa_distribution.jpg?itok=L2mYsw36)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Distribution of _Bromus inermis_ subsp. _pumpellianus_ var. _arcticus_.
 
 Pumpelly's brome occurs on moist to dry sites. It is found in woods [9], meadows, and on grassy slopes [14,15]. In interior Alaska it occurs on warm, dry sites on steep, south-facing slopes in young mixed hardwood and white spruce (Picea glauca) stands [33]. In Michigan it grows on sandy shores and dunes at the northern edge of Lake Michigan [31]. In western Montana it occurs in moist montane or subalpine meadows [20,22]. In Colorado it is found on dry rocky slopes [14].
 
-[![A grass growing in sand, with a mountain range behind and blue skies with scattered clouds.]({{ site.baseurl }}/assets/images/species-reviews/feis-broinep_habitat.jpeg)Photo Credit Photo by ryanmorin, iNaturalist (CC BY-NC 4.0). Pumpelly's brome growing in a sandy location in Yukon, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A grass growing in sand, with a mountain range behind and blue skies with scattered clouds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-broinep_habitat.jpeg?itok=dHxgDzDP)Photo Credit Photo by ryanmorin, iNaturalist (CC BY-NC 4.0). Pumpelly's brome growing in a sandy location in Yukon, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Pumpelly's brome grows on a variety of soil types. It occurs on gravelly sandy clay loam on arctic alluvial fan tundra in the central Brooks Range [8]. It is found on rocky, shallow, poorly developed soil on bluffs in the upper Yukon valley in east-central Alaska [10]. It occurs on deep, well-drained mineral loess soils that are rich in organics and are underlain by permafrost on pingos near Prudhoe Bay, Alaska. Pingo permafrost thaws more deeply in summer than that of surrounding land [32]. Pumpelly's brome grows on marine deltas and eroding sandy seashores of Amundsen Gulf [7]. It occurs on shallow, well-drained sandy loam soil on a wind-disturbed butte top in southeastern Montana [25] and on sandy loam on the Palliser winter range in Banff National Park, Alberta [26].
 
@@ -119,7 +119,7 @@ Species associated with Pumpelly's brome are listed for arctic alluvial fan tund
 
 Pumpelly's brome is a native, perennial graminoid [15]. Culms are 20 to 47 inches (50 to 120 cm) tall [1,15]. Leaves are 0.16 to 0.39 inches (4-10 mm) wide [1,17] and 4 to 8 inches (10-20 cm) long [1]. There are generally two to four culm leaves [16]. The inflorescence is a narrow panicle 2 to 8 inches (5-20 cm) long [14,15,16]. Spikelets are seven to eleven flowered [1,15]. The lemma is 0.39 to 0.47 inches (10-12 mm) long [14] and is generally short-awned [1,17]. The fruit is a caryopsis [12]. Pumpelly's brome has well-developed creeping rhizomes [15,16] and forms colonies [16].
 
-![A grass with flowering reproductive parts.]({{ site.baseurl }}/assets/images/species-reviews/feis-broinep_plant.jpg)
+![A grass with flowering reproductive parts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-broinep_plant.jpg?itok=e3AWqw5p)
 
 Photo Credit
 

@@ -76,7 +76,7 @@ Winged sumac is found in many plant associations but is not an indicator of any 
 
 ## Botanical Description
 
-![A close up photo of a puffy, cone-shaped, cream-colored flower spike on a shrub or small tree. The opposite leaves of the plant are long and pointed, and lots of other lush vegetation surrounds the plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhucop_flower.jpeg)
+![A close up photo of a puffy, cone-shaped, cream-colored flower spike on a shrub or small tree. The opposite leaves of the plant are long and pointed, and lots of other lush vegetation surrounds the plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-rhucop_flower.jpeg?itok=m8yhTmkb)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Fire generally kills aboveground portions of the plant.
  * Off-site colonizer; seed carried by animals or water; postfire years 1 and 2
  * Secondary colonizer; on-site germinating seed
 
-![A photo of several small, slender-stemmed trees with pointed, alternate leaves growing with some palm-like plants in front of a stand of tall, straight pine trees with blackening on the lower trunks showing previous fire. The understory of the pines is mostly grass, with a few more palm-like plants and small shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhucop_habitat.jpeg)
+![A photo of several small, slender-stemmed trees with pointed, alternate leaves growing with some palm-like plants in front of a stand of tall, straight pine trees with blackening on the lower trunks showing previous fire. The understory of the pines is mostly grass, with a few more palm-like plants and small shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-rhucop_habitat.jpeg?itok=XXJ-elKD)
 
 Photo Credit
 

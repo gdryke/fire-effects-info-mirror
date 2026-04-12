@@ -43,7 +43,7 @@ Peachleaf willow hybridizes with other Humboldtiana willows [86], including coas
  * _Salix_ × _glatfelteri_ C.K. Schneid. (× _S. nigra_), Glatfelter's willow [7,33,36,81,83]; occurs in the Midwest [141]
  * _Salix_ × _wrightii_ Andserss. (× _S. gooddingii_), Wright's willow; occurs in Arizona, New Mexico, and Texas [33,56]
 
-![A close-up photo of somewhat drooping, leafy twigs of a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-salamy_leaves.jpg)
+![A close-up photo of somewhat drooping, leafy twigs of a tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salamy_leaves.jpg?itok=rS13KWdo)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ peach-leaf willow, peach leaf willow
 
 Peachleaf willow is native to North America. It is the most common tree willow in the eastern Great Plains [47], but it is peripheral in the Southeast, occurring mostly in the Mississippi valley [7]. In the Southwest, it is common along the Rio Grande [102] and rare to infrequent in other riparian zones [67]. Its distribution extends south into Chihuahua [81]. It rare in Quebec, Ontario, and British Columbia and has been extirpated from Kentucky [78].
 
-![A map of the United States and Canada, with most states except the southeast and southern Canadian provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-salamy_map.jpg)
+![A map of the United States and Canada, with most states except the southeast and southern Canadian provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salamy_map.jpg?itok=VbpHiuxd)
 
 Photo Credit
 
@@ -201,7 +201,7 @@ Peachleaf willow plants produce thousands of very small seeds [141]. Because pea
 
 Sprouts generally produce seed at a younger stem age than plants derived from seeds [151].
 
-![A photo of green willow leaves on twigs with tufts of cottony seeds.]({{ site.baseurl }}/assets/images/species-reviews/feis-salamy_seeds.jpg)
+![A photo of green willow leaves on twigs with tufts of cottony seeds.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-salamy_seeds.jpg)
 
 Photo Credit
 
@@ -284,7 +284,7 @@ Peachleaf willow is well-adapted to flooding disturbance, and its adaptations to
 
 Peachleaf willow sprouts after top-kill by fire [43]. Hansen and others [45] speculate that peachleaf willow sprouts after "all but the hottest fires". Peachleaf willow may sprout from the root crown ([117], review by [151]), stems [66,117], and/or boles. On the Lee Metcalf Wildlife Refuge in Stevensville, Montana, large peachleaf willows sprouted from their root crowns, decumbent boles, or both after an April wildfire (Fryer 2009 personal observation).
 
-![Two side-by-side photo of a much-branched, pale tree trunk sprouting from the base of a blackened trunk with peeling bark on the left, and small stems sprouting from a leaning trunk with blackened bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-salamy_rootcrown_bole.jpg)
+![Two side-by-side photo of a much-branched, pale tree trunk sprouting from the base of a blackened trunk with peeling bark on the left, and small stems sprouting from a leaning trunk with blackened bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salamy_rootcrown_bole.jpg?itok=q7YtZqRy)
 
 Photo Credit
 
@@ -308,7 +308,7 @@ Riparian communities generally have higher biomass, basal area, stand density, a
 
 Because peachleaf willow communities are moist year-round, they act as natural firebreaks in most years but may burn during drought years [43]. In Buffalo River State Park, Minnesota, early May prescribed fires burned through an upland big bluestem-switchgrass-little bluestem (_Andropogon gerardii-Sorghastrum nutans-Schizachyrium scoparium_) prairie. However, green ash-eastern cottonwood/peachleaf willow galleries on the Buffalo River floodplain had a "large amount of standing water" and failed to burn [50]. The following photo illustrates typical early spring fuels on the Lee Metcalf National Wildlife Refuge, Montana. A peachleaf willow stringer grows at the interface of a broad-leaved cattail marsh and an upland smooth brome (_Bromus inermis_) roadside community. A wildfire burned into part of the marsh, the peachleaf willow stringer, and up to the road in April 2009; these photos were taken in April 2012.
 
-![Two photos side-by-side of burned peachleaf willows with sprouts. The photo on the right shows primarily cattail litter and the photo on the left shows primarily smooth brome litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-salamy_fuels_thicket.jpg)
+![Two photos side-by-side of burned peachleaf willows with sprouts. The photo on the right shows primarily cattail litter and the photo on the left shows primarily smooth brome litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salamy_fuels_thicket.jpg?itok=RDghtBqC)
 
 Photo Credit
 
@@ -354,7 +354,7 @@ Peachleaf willow and other willows are important, often primary, sources of brow
 
 Cattle generally prefer grazing grasses to browsing willows, but they may select peachleaf willow occasionally [99]. On the Roosevelt National Forest, Colorado, cattle in a riparian area browsed peachleaf willow in winter [29].
 
-![A photo of a small nest between small branches of a willow.]({{ site.baseurl }}/assets/images/species-reviews/feis-salamy_flycatchernest.jpg)
+![A photo of a small nest between small branches of a willow.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-salamy_flycatchernest.jpg)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Tirmenstein, D. A. 1991. _Vaccinium angustifolium_ , lowbush blueberry. In: Fire
 
 ## Taxonomy
 
-![Photo of lowbush blueberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacang_plant.jpeg)
+![Photo of lowbush blueberry in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacang_plant.jpeg?itok=P54DaECM)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ early low-bush blueberry, low sweet blueberry
 
 Lowbush blueberry grows from Labrador and Newfoundland westward to southern Manitoba and Minnesota [160]. It extends southward to northern Illinois in the West, and from New England through the Appalachians to West Virginia and Virginia in the East [70,119,157].
 
-![Photo of map distribution of lowbush blueberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacang_map.png)
+![Photo of map distribution of lowbush blueberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacang_map.png?itok=RqOJts_h)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Flowers are borne in short, few-flowered terminals or axillary racemes [94,111,1
 
 ## Seasonal Development
 
-![Photo of lowbush blueberry.]({{ site.baseurl }}/assets/images/species-reviews/vacang_feis-entire_plant_vacang.jpg)
+![Photo of lowbush blueberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-entire_plant_vacang.jpg?itok=8s9wnt5B)
 
 Photo Credit
 
@@ -193,7 +193,7 @@ For additional fire regime information, search FEIS for this species by entering
 
 ## Fire Management Considerations
 
-![Photo of a blackened field with flames, smoke, and a tractor at midground, and trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/vacang_feis-fire.jpg)
+![Photo of a blackened field with flames, smoke, and a tractor at midground, and trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fire.jpg?itok=-V6ZcFf0)
 
 Photo Credit
 
@@ -225,7 +225,7 @@ No entry.
 
 **Browse:** The black bear, eastern cottontail, and white-tailed deer feed on the foliage of lowbush blueberry [71]. In spruce-fir forests of north-central Maine, it is preferred deer browse [112]. In central Pennsylvania, deer use is light year-round [30]; deer often eat overwintering shoots during the early spring [17] and browse plants during fall and winter [131]. Lowbush blueberry is an important moose browse in parts of Maine [112] but is rarely eaten in northeastern Minnesota [85]. Domestic sheep commonly avoid lowbush blueberry browse [72].
 
-![Photo of lowbush blueberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacang_plant.jpg)
+![Photo of lowbush blueberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacang_plant.jpg?itok=x8f_pkNn)
 
 Photo Credit
 

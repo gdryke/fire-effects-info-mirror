@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Grus americana_ , whooping crane. In: Fire Effects Inform
 
 ## Image Gallery
 
-![A whopping crane feeds a chick.]({{ site.baseurl }}/assets/images/species-reviews/feis-gram_feeding-a-chick.jpg) Whooping crane and chick. _Klaus Nigge, U.S. Fish and Wildlife Service._
+![A whopping crane feeds a chick.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-gram_feeding-a-chick.jpg) Whooping crane and chick. _Klaus Nigge, U.S. Fish and Wildlife Service._
 
 Photo Credit: Klaus Nigge, U.S. Fish and Wildlife Service.
 

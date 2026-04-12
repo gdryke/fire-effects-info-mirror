@@ -103,7 +103,7 @@ Black-backed woodpeckers are strongly associated with plant communities affected
 
 ## Biological Characteristics
 
-![Male black-backed woodpecker.]({{ site.baseurl }}/assets/images/species-reviews/feis-piar_male.jpg)
+![Male black-backed woodpecker.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piar_male.jpg?itok=g_H_84Zy)
 
 Photo Credit
 
@@ -216,7 +216,7 @@ Observations of direct predation on black-backed woodpeckers are limited. Predat
 
 ### Diet
 
-![Female black-backed woodpecker at a nest in a quaking aspen trunk.]({{ site.baseurl }}/assets/images/species-reviews/feis-piar_femalenest.jpg)
+![Female black-backed woodpecker at a nest in a quaking aspen trunk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piar_femalenest.jpg?itok=46NdM6ZB)
 
 Photo Credit
 
@@ -313,7 +313,7 @@ Black-backed woodpeckers commonly occur in burned areas in many parts of their d
 
 ### Use of Burned Areas for Life History Activities
 
-![Female black-backed woodpecker and nestling at a nest in the trunk of a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-piar_femalenestling.jpg)
+![Female black-backed woodpecker and nestling at a nest in the trunk of a tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piar_femalenestling.jpg?itok=wFpnKmdq)
 
 Photo Credit
 
@@ -422,7 +422,7 @@ Fire severity: The available literature documents black-backed nesting in areas 
 
 Fires of relatively high severity appear to be important for black-backed woodpeckers, possibly because more severe fires result in more dead trees for foraging and breeding [45]. Data from 13,337 sample points in burned areas in northern Idaho and Montana showed the probability of black-backed woodpecker detection increased with fire severity (_P_ <0.001) [40].
 
-![A severely burned forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-piar_severefire.jpg)
+![A severely burned forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-piar_severefire.jpg?itok=9WNx7Zoy)
 
 Photo Credit
 

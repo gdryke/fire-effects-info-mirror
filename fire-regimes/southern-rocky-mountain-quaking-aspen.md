@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southern Rocky Mountain quaking aspen commu
 
 ## Distribution
 
-![A map showing the distribution of southern Rocky Mountain quaking aspen communities in the southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/southern-rocky-mountain-quaking-aspen_feis-southern_rocky_mountain_quaking_aspen_locator.jpg)
+![A map showing the distribution of southern Rocky Mountain quaking aspen communities in the southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southern_rocky_mountain_quaking_aspen_locator.jpg?itok=DUiHCvP0)
 
 Photo Credit
 

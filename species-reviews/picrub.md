@@ -63,7 +63,7 @@ Red spruce occurs from Cape Breton Island, Nova Scotia, and New Brunswick, west 
 
 ## Site Characteristics
 
-![ A photo of a rocky mountainous area with straight, pyramidal, green conifer trees growing from the rock or small patches of soil. There are more conifers nearby, and rolling hills with trees in fall color in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-picrub_habitat.jpg)
+![ A photo of a rocky mountainous area with straight, pyramidal, green conifer trees growing from the rock or small patches of soil. There are more conifers nearby, and rolling hills with trees in fall color in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-picrub_habitat.jpg?itok=sIEHfa1p)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Publications describing habitat or cover types in which red spruce is dominant o
 
 ## Botanical Description
 
-![A close up photo of a conifer with short, green needles and closed, drooping, tan to orangey-brown cones. The background is more conifer branches and partly cloudy sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-picrub_cones.jpeg)
+![A close up photo of a conifer with short, green needles and closed, drooping, tan to orangey-brown cones. The background is more conifer branches and partly cloudy sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-picrub_cones.jpeg?itok=wbEcObwb)
 
 Photo Credit
 

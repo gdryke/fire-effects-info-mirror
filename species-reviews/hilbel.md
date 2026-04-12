@@ -55,7 +55,7 @@ mesquite-grass, curlymesquite grass, common curly-mesquite, longleaf curly-mesqu
 
 Curly mesquite occurs in the southwestern United States [32,36].
 
-![A map showing counties of Arizona, New Mexico, and Texas and surrounding states, with many southern counties in those three states highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-hilbel_distribution.jpg)
+![A map showing counties of Arizona, New Mexico, and Texas and surrounding states, with many southern counties in those three states highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hilbel_distribution.jpg?itok=6-H3vGdD)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Curly-mesquite is not a particularly drought-tolerant species [10]. In Arizona d
 
 In southeastern Arizona, curly-mesquite is most common on rolling uplands and south-facing treeless slopes, from 1,500 to 6,000 feet (450-1818 m) [32], particularly on sites with much exposed rock and sparse litter [4] and well-drained clay soils [58].
 
-[![A photo of a grass with green, low tufts and taller, dried stems growing on rocky soils.]({{ site.baseurl }}/assets/images/species-reviews/feis-hilbel_habit.jpg)Photo Credit Public domain photo by Cecelia Alexander, iNaturalist. Curly-mesquite growing on rocky soils in Grant County, New Mexico.](<https://creativecommons.org/publicdomain/zero/1.0/>)
+[![A photo of a grass with green, low tufts and taller, dried stems growing on rocky soils.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hilbel_habit.jpg?itok=Lfng5cxm)Photo Credit Public domain photo by Cecelia Alexander, iNaturalist. Curly-mesquite growing on rocky soils in Grant County, New Mexico.](<https://creativecommons.org/publicdomain/zero/1.0/>)
 
 ## Plant Communities
 
@@ -98,7 +98,7 @@ Vegetation typings describing communities in which curly-mesquite is dominant in
 
 Curly-mesquite is a native, perennial, warm-season shortgrass. Tufts grow to 4 to 12 inches (10-30 cm) tall [24]. The plant is a sod-former that sends out slender stolons to produce new tufts [27,56].
 
-[![A photo of an uprooted grass being held up by its base against a blue sky. Three stolons extend from the previously rooted part of the plant and each is angled where a new tuft begins.]({{ site.baseurl }}/assets/images/species-reviews/feis-hilbel_stolons.jpeg)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Curly mesquite with stolons.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of an uprooted grass being held up by its base against a blue sky. Three stolons extend from the previously rooted part of the plant and each is angled where a new tuft begins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hilbel_stolons.jpeg?itok=ZQb9bomA)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Curly mesquite with stolons.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Longevity of curly-mesquite in southern Arizona was determined to be shorter than 9 years on grazed study plots and shorter than 5 years on ungrazed plots [15].
 

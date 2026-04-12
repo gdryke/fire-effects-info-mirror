@@ -133,7 +133,7 @@ Massachusetts:
 
 ## Botanical and Ecological Characteristics
 
-![Photo of bear oak trees growing in a cluster on a sunny hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-queili_tree.jpg)
+![Photo of bear oak trees growing in a cluster on a sunny hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-queili_tree.jpg?itok=yi6pIvA_)
 
 Photo Credit
 

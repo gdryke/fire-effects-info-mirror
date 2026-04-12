@@ -40,7 +40,7 @@ The currently accepted scientific name of green needlegrass is _Nassella viridul
 
 Green needlegrass occasionally hybridizes with Indian ricegrass (_Achnatherum hymenoides_) to produce _Achnella caduca_ (Beal) Barkworth, a sterile plant [51,70].
 
-![A photo of a bunchgrass with narrow spikelets growing to various heights, mostly above the somewhat drooping leaves. Grasses, forbs, and shrubs grow behind, and a mountain rises in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-nasvir_plant.jpg)
+![A photo of a bunchgrass with narrow spikelets growing to various heights, mostly above the somewhat drooping leaves. Grasses, forbs, and shrubs grow behind, and a mountain rises in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-nasvir_plant.jpg?itok=sWwxyQNf)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Green needlegrass is a component of juniper-wheatgrass (_Juniperus_ spp.-_Agropy
 
 Green needlegrass is a codominant of western wheatgrass, needle-and-thread grass, bluebunch wheatgrass (_Pseudoroegneria_ _spicata_), and blue grama [1,28,29,34,37,59,66,81,89,92,93,106,110,114,131,146]. Grasses associated with green needlegrass include porcupine grass [114], Idaho fescue (_Festuca idahoensis_) [93,102,114], Baker's wheatgrass [102], prairie Junegrass [1,28,29,114,131], Sandberg bluegrass [66,92,131], plains reedgrass (_Calamagrostis montanensis_) [131], prairie sandreed [11,114], needleleaf sedge [1,66,131], sand dropseed [66], big bluestem [146], little bluestem [29,114,146], Kentucky bluegrass, cheatgrass (_Bromus_ _tectorum_) [93], tumblegrass (_Schedonnardus paniculatus_) [66], alkali sacaton (_Sporobolus airoides_) [66,114], plains muhly [114], purple threeawn (_Aristida purpurea_) [66], and threadleaf sedge [59,66].
 
-![A photo of a sagebrush steppe with high density of bunchgrasses and litter between plants, with very little bare ground. A variety of forbs and low sagebrush plants grow with grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-nasvir_community.jpg)
+![A photo of a sagebrush steppe with high density of bunchgrasses and litter between plants, with very little bare ground. A variety of forbs and low sagebrush plants grow with grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-nasvir_community.jpg?itok=1gyc0kST)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ In **Alberta** , green needlegrass occurs in the wheatgrass-bluegrass (_Agropyro
 
 ## Botanical Description
 
-![A photo of the tall, narrow reproductive spikes of a grass with threadlike awns. A meadow is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-nasvir_repro.jpeg)
+![A photo of the tall, narrow reproductive spikes of a grass with threadlike awns. A meadow is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-nasvir_repro.jpeg?itok=N7wzBwQU)
 
 Photo Credit
 

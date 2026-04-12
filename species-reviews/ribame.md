@@ -34,7 +34,7 @@ Marshall, K. Anna. 1995. _Ribes americanum_ , American black currant. In: Fire E
 
 ## Image Gallery
 
-![Photo of flowering American black currant.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribame_plant.jpg) American black currant. _By Kallum McDonald; no rights reserved_
+![Photo of flowering American black currant.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-ribame_plant.jpg) American black currant. _By Kallum McDonald; no rights reserved_
 
 Photo Credit: By Kallum McDonald; no rights reserved
 

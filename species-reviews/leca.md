@@ -101,7 +101,7 @@ The black-tailed jackrabbit occupies plant communities with a mixture of shrubs,
 
 ## Biological Characteristics
 
-![A photo of a brown rabbit sitting among dry shrubs with very large, black-tipped ears. Light is shining through the thin ears, making them look pink.]({{ site.baseurl }}/assets/images/species-reviews/feis-leca_ears.jpg)
+![A photo of a brown rabbit sitting among dry shrubs with very large, black-tipped ears. Light is shining through the thin ears, making them look pink.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-leca_ears.jpg?itok=y-Y2HuQN)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ Black-tailed jackrabbit does not migrate or hibernate during winter [24,39]; the
 
 Black-tailed jackrabbit require shrubs or small conifers for hiding, nesting, and thermal cover, and grassy areas for night feeding [24,48]. A shrub-grassland mosaic or widely spaced shrubs interspersed with herbs provides hiding cover while providing feeding opportunities. Small shrubs do not provide adequate cover [18,19,48]. On the Snake River Birds of Prey Study Area of southwestern Idaho, black-tailed jackrabbit was more frequent on sites dominated by big sagebrush or black greasewood than on sites dominated by the smaller shrubs winterfat (Krascheninnikovia lanata) or shadscale (Atriplex confertifolia). Black-tailed jackrabbit does not habitually use a burrow [60], although it has occasionally been observed using abandoned burrows for escape [81] and thermal [24,65] cover.
 
-![A photo of a brown rabbit with large ears sitting in a hole in red dirt, in the shade of some low green plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-leca_burrow.jpeg)
+![A photo of a brown rabbit with large ears sitting in a hole in red dirt, in the shade of some low green plants.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-09/feis-leca_burrow.jpeg?itok=UcXzDx50)
 
 Photo Credit
 

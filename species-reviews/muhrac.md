@@ -55,7 +55,7 @@ green muhly, creeping muhly satin grass
 
 ## General Distribution
 
-![A map of the U.S. and Canada with many counties in the central U.S. colored different colors and blue dots in central Canada.]({{ site.baseurl }}/assets/images/species-reviews/muhrac_feis-distrib_map1.jpg)
+![A map of the U.S. and Canada with many counties in the central U.S. colored different colors and blue dots in central Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-distrib_map1.jpg?itok=5UReGT5D)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Marsh muhly seems to be a plant of generally low abundance but with high toleran
 
 Marsh muhly seems to be most common in wetlands in the Great Lakes region, and in riparian areas in the Northern Great Plains and Southwest. It is also commonly described as occurring in disturbed areas throughout its range. Marsh muhly is rarely a dominant species where it occurs, and typically has relatively low cover.
 
-[![A photo of a woodland with a grass and some shrubs growing out of cracks in a rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhrac_habitat.jpeg)Photo Credit Photo by William Van Hemessen, iNaturalist (CC BY-NC 4.0). Marsh muhly habitat growing in Ontario, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a woodland with a grass and some shrubs growing out of cracks in a rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhrac_habitat.jpeg?itok=gcnfN8ng)Photo Credit Photo by William Van Hemessen, iNaturalist (CC BY-NC 4.0). Marsh muhly habitat growing in Ontario, Canada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Canada
 
@@ -137,7 +137,7 @@ Information on marsh muhly site preferences in the Northeast comes exclusively f
 
 ## Botanical Description
 
-[![A close-up photo of a compact flowering grass panicle with a black background.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhrac_flower.jpeg)Photo Credit Photo by William Van Hemessen, iNaturalist (CC BY-NC 4.0). Compact panicle of marsh muhly.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up photo of a compact flowering grass panicle with a black background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhrac_flower.jpeg?itok=E1DW1tXU)Photo Credit Photo by William Van Hemessen, iNaturalist (CC BY-NC 4.0). Compact panicle of marsh muhly.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [5,35,50,64,71,90]).
 

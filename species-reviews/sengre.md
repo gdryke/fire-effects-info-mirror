@@ -136,7 +136,7 @@ Catclaw acacia in southeastern Arizona associates with desert scrub vegetation t
 
 ## Botanical Description
 
-![Photo of catclaw acacia branch with cream-colored flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-sengre_flower.jpg)
+![Photo of catclaw acacia branch with cream-colored flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-sengre_flower.jpg?itok=y_-3kONb)
 
 Photo Credit
 

@@ -36,7 +36,7 @@ Scher, Janette S. 2002. _Elymus lanceolatus_ , thickspike wheatgrass. In: Fire E
 
 ## Taxonomy
 
-![A photo of a grass growing in sand, apparently spreading by roots or rhizomes with clusters of narrow, blue-green stems and leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-elylan_plant.jpg)
+![A photo of a grass growing in sand, apparently spreading by roots or rhizomes with clusters of narrow, blue-green stems and leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elylan_plant.jpg?itok=DdxK7wuc)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Thickspike wheatgrass is widespread in western North America. _Elymus lanceolatu
 
 ## Site Characteristics
 
-![A photo of a grass with a cluster of short, upright basal leaves and tall, golden reproductive stems growing in a rocky substrate at the side of a steep slope. Eroded sides of the hill lead into a grass-covered valley with trees along a stream. A large conifer-covered hill is in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-elylan_sitechars.jpeg)
+![A photo of a grass with a cluster of short, upright basal leaves and tall, golden reproductive stems growing in a rocky substrate at the side of a steep slope. Eroded sides of the hill lead into a grass-covered valley with trees along a stream. A large conifer-covered hill is in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elylan_sitechars.jpeg?itok=f71Uh1F0)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Thickspike wheatgrass prefers moist, well-drained soils [70] and is most abundan
 
 Thickspike wheatgrass will tolerate slightly acidic to moderately saline conditions. It is cold tolerant, moderately tolerant to intolerant of shade, highly tolerant of grazing, and very tolerant of fire [61,119]. Its relatively low nutrient requirements allow it to establish on mine spoils, depleted rangelands, and other disturbed areas [61].
 
-![A photo of a narrow grass with a small cluster of blue-green basal leaves growing with other grasses and forbs, with regularly spaced sagebrush growing behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-elylan_community.jpg)
+![A photo of a narrow grass with a small cluster of blue-green basal leaves growing with other grasses and forbs, with regularly spaced sagebrush growing behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elylan_community.jpg?itok=TlalNL65)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ Classifications describing communities in which thickspike wheatgrass is dominan
 
 ## Botanical Description
 
-![A photo of the flowering reproductive spikes of a grass, with narrow spikelets forming erect, compact spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-elylan_repro.jpg)
+![A photo of the flowering reproductive spikes of a grass, with narrow spikelets forming erect, compact spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elylan_repro.jpg?itok=g7KBFXEu)
 
 Photo Credit
 
@@ -360,7 +360,7 @@ Waterfowl| Good| Fair| Fair
  
 ## Value for Rehabilitation of Disturbed Sites
 
-![A photo of a roadside taken from a low perspective, with the road extending into the distance on the left side of the photo and green bunchgrasses growing along the roadside on the right side of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-elylan_disturbed.jpg)
+![A photo of a roadside taken from a low perspective, with the road extending into the distance on the left side of the photo and green bunchgrasses growing along the roadside on the right side of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elylan_disturbed.jpg?itok=pkFnTHnT)
 
 Photo Credit
 

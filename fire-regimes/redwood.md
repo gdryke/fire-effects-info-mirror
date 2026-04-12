@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for redwood communities has not yet been publis
 
 ## Distribution
 
-![A map showing the distribution of redwood communities in northern California and southern Oregon.]({{ site.baseurl }}/assets/images/fire-regimes/feis-redwood_locator.jpg)
+![A map showing the distribution of redwood communities in northern California and southern Oregon.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-redwood_locator.jpg?itok=4qUkQ7Ob)
 
 Photo Credit
 

@@ -44,7 +44,7 @@ The currently accepted genus name for hoary cress is _Cardaria_ Desv. (Brassicac
 
 For the purpose of this review, "hoary cress" refers to all 3 species, while individual species will be referred to by the common names given above.
 
-![Photo of a multi-stemmed plant with oval leaves along the stems and clusters of small white flowers at the stem ends.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARCHA_plants.jpg)
+![Photo of a multi-stemmed plant with oval leaves along the stems and clusters of small white flowers at the stem ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARCHA_plants.jpg?itok=UXMpPu5o)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Throughout its North American distribution hoary cress is described as occurring
 
 ## Plant Communities
 
-![Photo of a large green field with forest and mountains in the background, and large patches of a slightly taller plant with a different shade of green. ]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARDRA_invasion.jpg)
+![Photo of a large green field with forest and mountains in the background, and large patches of a slightly taller plant with a different shade of green. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARDRA_invasion.jpg?itok=R4bJssIY)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ In North America, hoary cress is most commonly found in grainfields, hayfields, 
 
 In Saskatchewan, lens-podded****and globe-podded hoary cress are found in brome (_Bromus_ spp.) and alfalfa fields and in other areas of disturbance such as gardens, feed lots, and along watercourses. These 2 species have also been found on native grassland sites dominated by western wheatgrass (_Pascopyrum smithii_). Silver sagebrush (_A. cana_), black greasewood (_Sarcobatus vermiculatus_), Nuttall's saltbush (_Atriplex nuttallii_), rose (_Rosa_ spp.), and western snowberry (_Symphoricarpos occidentalis_) may also be present [85,86].
 
-![Photo of a bunched plant with many stems and toped with white flowers surrounded by small delicate sagebrush plants.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARDRA_plants.jpg)
+![Photo of a bunched plant with many stems and toped with white flowers surrounded by small delicate sagebrush plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARDRA_plants.jpg?itok=0_SXquzu)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Along the Bighorn River in Wyoming, nonnative, invasive plants such as globe-pod
 
 ## Botanical Description
 
-![Photo of the top of a plant stem against a black background showing a many-branched inflorescence with white flowers at the top and round seed pods at the bottom.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARCHA_pods.jpg)
+![Photo of the top of a plant stem against a black background showing a many-branched inflorescence with white flowers at the top and round seed pods at the bottom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARCHA_pods.jpg?itok=9VvW3M3I)
 
 Photo Credit
 
@@ -194,7 +194,7 @@ Photo by Joseph M. DiTomaso, University of California - Davis, Bugwood.org.
 
 Flowers and fruits of lens-podded hoary cress ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![Close-up photo of the flowering end of a plant stem showing a few oval-shaped leaves below a branching inflorescence covered with somewhat heart-shaped seed pods and a few white flowers at the very top.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARDRA_pods.jpg)
+![Close-up photo of the flowering end of a plant stem showing a few oval-shaped leaves below a branching inflorescence covered with somewhat heart-shaped seed pods and a few white flowers at the very top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARDRA_pods.jpg?itok=dBFSdce8)
 
 Photo Credit
 
@@ -202,7 +202,7 @@ Photo by K. George Beck and James Sebastian, Colorado State University, Bugwood.
 
 Heart-podded hoary cress seed pods ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![Photo of a single-stemmed, branching plant with a few leaves along the stems and branches, and each branch ending in a cluster of globe-shaped seed pods. The plant is laying on a gravelly soil surface.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARPUB_pods.jpg)
+![Photo of a single-stemmed, branching plant with a few leaves along the stems and branches, and each branch ending in a cluster of globe-shaped seed pods. The plant is laying on a gravelly soil surface.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARPUB_pods.jpg?itok=IAAsI-zc)
 
 Photo Credit
 
@@ -374,7 +374,7 @@ Vegetative spread of hoary cress is dependent on available moisture. During a pe
 
 ### Vegetative Reproduction and Regeneration
 
-![Photo of an excavated plant against a blue background showing three flower stems covered with leaves and emerging from a single, horizontal root system.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARDRA_roots.jpg)
+![Photo of an excavated plant against a blue background showing three flower stems covered with leaves and emerging from a single, horizontal root system.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARDRA_roots.jpg?itok=4LqXzugB)
 
 Photo Credit
 
@@ -556,7 +556,7 @@ Flowers of hoary cress are frequently visited by insects and provide nectar for 
 
 ## Impacts
 
-![Photo of a portion of a field where most of the plants are brown and dormant, with a patch of green plants in the foreground. The plants consist of clusters of basal leaves.]({{ site.baseurl }}/assets/images/species-reviews/carspp3_feis-CARDRA_basal_leaves.jpg)
+![Photo of a portion of a field where most of the plants are brown and dormant, with a patch of green plants in the foreground. The plants consist of clusters of basal leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CARDRA_basal_leaves.jpg?itok=m46FRg_E)
 
 Photo Credit
 

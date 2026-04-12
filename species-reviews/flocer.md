@@ -34,7 +34,7 @@ Innes, Robin J. 2010. _Flourensia cernua_ , American tarwort. In: Fire Effects I
 
 ## Introduction
 
-![A photo of the leaves and clusters of understated yellow flowers of a shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-flocer_plant.jpg)
+![A photo of the leaves and clusters of understated yellow flowers of a shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-flocer_plant.jpg?itok=5D51Spoy)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ American tarwort primarily occurs in the Chihuahuan Desert. Chihuahuan Desert sc
 
 Within Chihuahuan Desert scrub, American tarwort is most commonly associated with creosotebush. American tarwort may be dominant, codominant, or subdominant to creosotebush (e.g., [19,46,55,58,84,104,121,132,137,155]). In the Rio Grande Valley, New Mexico, 96% of habitats with American tarwort also had creosotebush with varying degrees of dominance. The authors found that the 2 species were associated more often than would be expected from random mixing (P=0.01) [41]. The abundance and distribution of American tarwort in relation to creosotebush depend partly upon site conditions. Creosotebush-American tarwort habitat is common on the plains below the desert mountains in the Chihuahuan Desert with decreasing American tarwort cover and increasing creosotebush cover in the warmest, most arid areas and increasing American tarwort and decreasing creosotebush cover in deep soils and along minor drainages [55,58]. For more information on this topic, see Site Characteristics.
 
-![A photo of a relatively large, dense shrub with yellow flowers growing among dry standing grasses, with large shrubs and small trees, likely mesquite or acacia, dominating vegetation behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-flocer_hero.jpeg)
+![A photo of a relatively large, dense shrub with yellow flowers growing among dry standing grasses, with large shrubs and small trees, likely mesquite or acacia, dominating vegetation behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-flocer_hero.jpeg?itok=jZqJPvA1)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 **Form and Architecture:** American tarwort is a native perennial C3 shrub [136]. It is many branched and densely leafy [69,118,135,153]. Its growth form may be erect or procumbent [135,153]. American tarwort plants do not have trunks; instead, the branches run obliquely from the base [88]. It grows from <1 foot (0.3 m) to >7 feet (2 m) tall [75,118,131,153].
 
-![A photo of the woody stems of a shrub with sparse small, bright green leaves clusters along the stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-flocer_stems.jpg)
+![A photo of the woody stems of a shrub with sparse small, bright green leaves clusters along the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-flocer_stems.jpg?itok=ADOGyHAQ)
 
 Photo Credit
 
@@ -331,7 +331,7 @@ Burned| Grazed| Burned and grazed| Untreated
 
 Stand structure in plant communities where American tarwort occurs is typically open with scattered shrubs, grasses, and forbs, and extensive rock and bare ground. Vegetation may vary from very open to moderately dense (e.g., [10,14,55,65,121]). Potential fire spread depends greatly on stand structure, which is influenced by site conditions. The frequency and severity of fires in desert ecosystems are highly contingent on the degree and rate of grass growth to serve as fuels, which may be determined by the timing and amount of precipitation prior to and following fires, plant physiology, soil characteristics, and the degree of livestock grazing [31,64,91]. In general, productivity—and consequently fuel load—is low in Chihuahuan Desert communities except when there is a year of exceptional winter rains resulting in a heavy stand of annuals to serve as fuels [65].
 
-![A photo of a shrub with sparse leaves and narrow woody branches growing close to the ground in a sprawling form.]({{ site.baseurl }}/assets/images/species-reviews/feis-flocer_form.jpg)
+![A photo of a shrub with sparse leaves and narrow woody branches growing close to the ground in a sprawling form.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-flocer_form.jpg?itok=ojKSkQKY)
 
 Photo Credit
 

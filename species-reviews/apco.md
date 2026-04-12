@@ -52,7 +52,7 @@ Florida scrub jay, scrub jay
 
 ## General Distribution
 
-![The current range of the Florida scrub-jay is shown in green and the historic range in gray.]({{ site.baseurl }}/assets/images/species-reviews/feis-apco_distributionmap.jpg)
+![The current range of the Florida scrub-jay is shown in green and the historic range in gray.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-apco_distributionmap.jpg?itok=VViNxshI)
 
 Photo Credit
 
@@ -206,7 +206,7 @@ Experimental supplementation with high-quality food at Archbold Biological Stati
 
 The character of high-quality Florida scrub-jay habitat–composition, structure, and spatial arrangement of vegetation–is highly specific. Well-drained oak scrub provides high-quality habitat [35,146]; however, large expanses of well-drained scrub are not necessarily required for viable Florida scrub-jay populations [32]. Florida scrub-jay populations are generally viable in oak-dominated scrub communities (see Plant Communities) where each territory has at least 0.75 to 1.0 acre (0.3-0.4 ha) of 3- to 7-foot tall scrub [32,35], less than 1 acre of tall scrub [24], scattered open areas, and few trees (see Structural features). Good-quality habitat also borders open, native vegetation (see Landscape features). Oak scrub of this nature historically developed under a regime of frequent fires (as often as every 5 to 10 years). These fires were often patchy, with burned patches usually smaller than Florida scrub-jay territories (see Fire Regimes for details).
 
-![Florida scrub jay.]({{ site.baseurl }}/assets/images/species-reviews/feis-apco_birdinopening.jpg)
+![Florida scrub jay.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-apco_birdinopening.jpg?itok=QXEAarHt)
 
 Photo Credit
 
@@ -252,7 +252,7 @@ Florida scrub-jay nests are off the ground [13,134,146] and well concealed from 
 
 ## Fire Ecology and Management
 
-![Florida scrub jay perched on a branch in a burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-apco_fire.jpg)
+![Florida scrub jay perched on a branch in a burned area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-apco_fire.jpg?itok=mrUqXtXm)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northwestern montane and foothill grassland
 
 ## Distribution
 
-![A map showing the distribution of northwestern montane and foothill grassland communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northwestern-montane-and-foothill-grasslands_feis-northwestern_montane_and_foothill_grasslands_locator.jpg)
+![A map showing the distribution of northwestern montane and foothill grassland communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northwestern_montane_and_foothill_grasslands_locator.jpg?itok=V3uYI_Va)
 
 Photo Credit
 

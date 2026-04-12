@@ -34,7 +34,7 @@ Matthews, Robin F. 1994._Lycium torreyi_ , Torrey wolfberry. In: Fire Effects In
 
 ## Image Gallery
 
-![Photo of flowering Torrey wolfberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyctor_plant.jpg) Torrey wolfberry _Photo by Craig Martin, iNaturalist.org._
+![Photo of flowering Torrey wolfberry.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-lyctor_plant.jpg) Torrey wolfberry _Photo by Craig Martin, iNaturalist.org._
 
 Photo Credit: Photo by Craig Martin, iNaturalist.org.
 

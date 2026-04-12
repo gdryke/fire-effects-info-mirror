@@ -58,7 +58,7 @@ The native range of Virginia pine extends from southern New Jersey west to Penns
 
 ## Site Characteristics
 
-![A photo of four pine trees on a rocky ledge overlooking a deep, forested valley with a river running through the middle.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinvir_habitat.jpeg)
+![A photo of four pine trees on a rocky ledge overlooking a deep, forested valley with a river running through the middle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinvir_habitat.jpeg?itok=y06mWWAD)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Published classifications that include Virginia pine as a dominant or codominant
 
 ## Botanical Description
 
-![A close up photo of a pine tree's branch with stiff green needles, round, open gray-brown seed cones, and clusters of yellowish pollen cones. The background is blurry gray and brown.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinvir_cones.jpg)
+![A close up photo of a pine tree's branch with stiff green needles, round, open gray-brown seed cones, and clusters of yellowish pollen cones. The background is blurry gray and brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinvir_cones.jpg?itok=cW6qS4v_)
 
 Photo Credit
 

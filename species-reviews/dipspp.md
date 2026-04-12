@@ -36,7 +36,7 @@ Gucker, Corey L. 2009. _Dipsacus fullonum, D. laciniatus,_ teasel: Fuller's teas
 
 ## Taxonomy
 
-![Photo of a cluster of green, single-stemmed plants with thorny stems and spiky, cone-shaped flowerheads with small pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPLAC_Flowerheads.jpg)
+![Photo of a cluster of green, single-stemmed plants with thorny stems and spiky, cone-shaped flowerheads with small pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPLAC_Flowerheads.jpg?itok=RKLAEVNx)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ Teasel occupies similar habitats in its native and nonnative ranges, which inclu
 
 ## Botanical Description
 
-![Overhead photo of an herbaceous plant with a thorny stem, large, lance-shaped leaves and spiky, cone-shaped flowerheads with small pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPFUL_Leaves%26Flowers.jpg)
+![Overhead photo of an herbaceous plant with a thorny stem, large, lance-shaped leaves and spiky, cone-shaped flowerheads with small pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPFUL_Leaves%26Flowers.jpg?itok=CfTNZ82D)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ Teasel flowers occur in terminal, stiff, egg-shaped heads that are up to 4 inche
 
 Common and cutleaf teasel are distinguished by flower color and leaf morphology. Although both species have opposite, stem-clasping leaves, Fuller's teasel leaves are entire with toothed or wavy margins and cutleaf teasel leaves are pinnatifid. Fuller's teasel typically produces lavender flowers, while cutleaf teasel flowers are generally white [3,33,76].
 
-![Close-up photo of a green stem with smooth, green, clasping leaves.]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPFUL_leaves.jpg)
+![Close-up photo of a green stem with smooth, green, clasping leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPFUL_leaves.jpg?itok=vLWJlTo2)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Photo ©Richard Old, XID Services Inc., Bugwood.org.
 
 Fuller's teasel leaves.
 
-![Photo of a green stem with many deeply serrated, clasping leaves.]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPLAC_leaves.jpg)
+![Photo of a green stem with many deeply serrated, clasping leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPLAC_leaves.jpg?itok=ymiym7Em)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Teasel produces a "stout" taproot [18,40,46]. Most detailed descriptions about r
 
  * Hemicryptophyte [72]
 
-![Photo of a field of dried stems with empty, cone shaped seedheads at the top.]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPFUL_Dry.jpg)
+![Photo of a field of dried stems with empty, cone shaped seedheads at the top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPFUL_Dry.jpg?itok=v1oocr_Z)
 
 Photo Credit
 
@@ -364,7 +364,7 @@ Teasel is best known in the textile industry for its use in raising the nap of f
 
 Although few studies indicate the methods by which teasel impacts its nonnative habitats, several studies report that teasel may develop large monocultures [90], negatively impact riparian area integrity [74], and occupy habitats important to sensitive or threatened plant species [78]. However in Michigan old fields, diversity and species richness were higher in early-seral old-fields with Fuller's teasel than in those without [97].
 
-![Photo of a green field adjacent to a forest stand, the field is dominated by a single-stemmed, herbaceous plant with dark seedheads.]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPFUL_habitat.jpg)
+![Photo of a green field adjacent to a forest stand, the field is dominated by a single-stemmed, herbaceous plant with dark seedheads.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPFUL_habitat.jpg?itok=w_FX6Si5)
 
 Photo Credit
 
@@ -372,7 +372,7 @@ Photo ©Steve Dewey, University of Utah, Bugwood.org.
 
 Fuller's teasel.
 
-![Photo of a patch of green, single-stemmed, herbaceous plants topped with spiky flowerheads adjacent to a patch of wetland vegetation. ]({{ site.baseurl }}/assets/images/species-reviews/dipspp_feis-DIPLAC_habitat.jpg)
+![Photo of a patch of green, single-stemmed, herbaceous plants topped with spiky flowerheads adjacent to a patch of wetland vegetation. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-DIPLAC_habitat.jpg?itok=BgvyUgYY)
 
 Photo Credit
 

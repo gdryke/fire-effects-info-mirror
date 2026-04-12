@@ -46,7 +46,7 @@ Yellow avalanche-lily is an important food for some wildlife, including grizzly 
 
 ## Taxonomy
 
-![A photo of a cluster of plants with a few long, relatively wide basal leaves with several bright yellow flowers drooping at the end of each stem with petals curved upwards.]({{ site.baseurl }}/assets/images/species-reviews/feis-erygra_flower.jpg)
+![A photo of a cluster of plants with a few long, relatively wide basal leaves with several bright yellow flowers drooping at the end of each stem with petals curved upwards.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-erygra_flower.jpg?itok=bqHdSf2h)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ adder’s tongue, Bear Valley fawn lily, dogtooth violet, glacier-lily, trout li
 
 Yellow avalanche-lily occurs from southern British Columbia and Alberta south to northwestern California and northern New Mexico [50,57,128] (fig. 2). In the Pacific Northwest, it is abundant from Mt. Rainer to Mt. Hood—on both sides of the Cascade Range [50]—but is sparse elsewhere [90].
 
-![A map of the western U.S. and southwestern most Canada, with counties in California, Oregon, Washington, Idaho, Montana, Wyoming, Utah, Colorado, and New Mexico.]({{ site.baseurl }}/assets/images/species-reviews/erygra_feis-ERYGRA_map.jpg)
+![A map of the western U.S. and southwestern most Canada, with counties in California, Oregon, Washington, Idaho, Montana, Wyoming, Utah, Colorado, and New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ERYGRA_map.jpg?itok=HzuSz3uW)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Wyoming| 2,300-3,160 [16,56]
  
 ## Plant Communities
 
-![A photo of many yellow flowers in the foreground of two species, including yellow avalanche-lily, with short conifers just behind and dramatic, rocky peaks below cloudy skies in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-erygra_habitat.jpg)
+![A photo of many yellow flowers in the foreground of two species, including yellow avalanche-lily, with short conifers just behind and dramatic, rocky peaks below cloudy skies in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-erygra_habitat.jpg?itok=prugQv4k)
 
 Photo Credit
 

@@ -26,7 +26,7 @@ Zouhar, Kristin. 2021. Fire regimes of plains grassland and prairie ecosystems. 
 
 ## Summary
 
-![A photo of a plain with plumes of smoke coming from vegetation in the near distance. A person stands in the grass looking at the smoke.]({{ site.baseurl }}/assets/images/fire-regimes/feis-plains-grassland-and-prairie_windcavenp.jpg)
+![A photo of a plain with plumes of smoke coming from vegetation in the near distance. A person stands in the grass looking at the smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-plains-grassland-and-prairie_windcavenp.jpg?itok=K872ZSNN)
 
 Photo Credit
 
@@ -42,7 +42,7 @@ A comprehensive Fire Regime Synthesis for plains grassland and prairie ecosystem
 
 ## Distribution
 
-![A map of the central United States, with Montana through Indiana, south to New Mexico and Louisiana, highlighted various colors symbolizing various prairie and grasslands Biophysical Settings.]({{ site.baseurl }}/assets/images/fire-regimes/feis-plains-grassland-and-prairie_mapb.jpg)
+![A map of the central United States, with Montana through Indiana, south to New Mexico and Louisiana, highlighted various colors symbolizing various prairie and grasslands Biophysical Settings.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-plains-grassland-and-prairie_mapb.jpg?itok=Ksz3aY-1)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ Plains grassland and prairie ecosystems occur throughout central North America, 
 
 Historically, frequent fires played an important role in plains grasslands and prairies by removing accumulated litter, stimulating native grass production, and impeding establishment and spread of cacti and woody plants. Probability of ignition, rate of fire spread, fire patchiness, fire size, and fire severity vary with fuel and weather conditions. Continuity and loading of ground, surface, and woody fuels (i.e., plant community composition) vary across the Great Plains and over time, because they are influenced by interactions of moisture availability (e.g., site and soil type, climate and weather patterns), fire timing and frequency, and grazing patterns [23,46,62]. Information on fuel characteristics and associated fire behavior in tallgrass prairie communities is provided by Twidwell et al. (2016) [53], Kidnie and Wotton (2015) [22], and Wragg (2018) [61]. Leis (2013) provides and overview of fuels management in the Great Plains [28].
 
-![A photo of a grassland with green grasses and a few small white flowers with scattered low boulders.]({{ site.baseurl }}/assets/images/fire-regimes/feis-plains-grassland-and-prairie_regrowth.jpg)
+![A photo of a grassland with green grasses and a few small white flowers with scattered low boulders.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-plains-grassland-and-prairie_regrowth.jpg?itok=KRHE0Hlg)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Over much of the Great Plains, native grasslands have been replaced by agricultu
 
 Structure and species composition of many native grassland plant communities have been altered by the introduction of nonnative invasive plants and by the spread of native woody plants, some of which alter fuel characteristics such that fire spread and severity is limited in invaded communities [15] (e.g., tall fescue invasion in tallgrass prairie [32]). However, fire simulations suggest that contemporary policies governing prescribed fire management—particularly those governing maximum allowable wind speeds—have a greater impact on fire behavior than invasive plants. Magnitude and variability of flame lengths, fireline intensity, and rate of fire spread are reduced in contemporary prescribed fires compared to historical fires. Reductions resulting from fire management policies were greater than reductions caused by tall fescue invasion and were similar to reductions caused by 2 or more decades of juniper encroachment [53].
 
-![A photo of blackened, smoking grasses along low rolling hills. In the middle distance, a thin line of fire closes in on an unburned patch of brown grasses.]({{ site.baseurl }}/assets/images/fire-regimes/feis-plains-grassland-and-prairie_fire.jpg)
+![A photo of blackened, smoking grasses along low rolling hills. In the middle distance, a thin line of fire closes in on an unburned patch of brown grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-plains-grassland-and-prairie_fire.jpg?itok=Urrf1OZW)
 
 Photo Credit
 

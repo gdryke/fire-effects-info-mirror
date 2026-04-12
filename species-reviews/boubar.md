@@ -42,7 +42,7 @@ The scientific name of sixweeks grama is _Bouteloua barbata_ Lag. (Poaceae) [16,
 
 Sonoran grama, formerly recognized as _Bouteloua barbata_ var. _sonorae_(Griffiths) Gould, and Rothrock's grama, formerly recognized as _Bouteloua barbata_ var. _rothrockii_(Vasey) Gould, are currently recognized as the distinct species _Bouteloua sonorae_ Griffiths and _Bouteloua rothrockii_ Vasey, respectively [40].
 
-![A photo of a somewhat messy bunchgrass, with stems growing slightly outward before growing upwards and ending in horizontal eyelash-like spikes. The ground is sandy and dry, with cracks running through the soil and the grass growing out of the largest of such cracks.]({{ site.baseurl }}/assets/images/species-reviews/feis-boubar_plant.jpg)
+![A photo of a somewhat messy bunchgrass, with stems growing slightly outward before growing upwards and ending in horizontal eyelash-like spikes. The ground is sandy and dry, with cracks running through the soil and the grass growing out of the largest of such cracks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-boubar_plant.jpg?itok=wVIol0UU)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Sixweeks grama has a disjunct distribution. It is widely distributed in the Sout
 
 ## Site Characteristics
 
-![A photo of a somewhat messy grass with reproductive stems rising well above the low leaves with purplish reproductive spikes growing along the tall stems. Small boulders appear to dominate ground cover, with patchy vegetation behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-boubar_habitat.jpg)
+![A photo of a somewhat messy grass with reproductive stems rising well above the low leaves with purplish reproductive spikes growing along the tall stems. Small boulders appear to dominate ground cover, with patchy vegetation behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-boubar_habitat.jpg?itok=Qgpb_Gjx)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Sixweeks grama is a short-lived, warm season, native annual bunchgrass. It grows to an approximate height of 1 foot (0.3 m) [28,41,76]. The culms are tufted prostrate or spreading, 4 to 12 inches (10-30 cm) long. Leaves are 0.4 to 2.4 inches (1-6 cm) long and 1-1.5 mm wide, occurring sparingly along the culms [28,58]. The fruit is an awned caryopsis. Awns range from minute to as long as the fruit body. The fruit measures 4.0 to 6.5 mm long and weighs approximately 0.03 mg [33,82]. The inflorescence consists of 2 to 9 persistent branches that are 0.4 to 1.2 inches (1-3 cm) long, with 7 to 40 closely placed spikelets measuring 2.5 to 4 mm long [32,83].
 
-![A close-up photo of a horizontal grass spike with dangling anthers and small, erect, fuzzy-looking stigmas.]({{ site.baseurl }}/assets/images/species-reviews/feis-boubar_flowering.jpg)
+![A close-up photo of a horizontal grass spike with dangling anthers and small, erect, fuzzy-looking stigmas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-boubar_flowering.jpg?itok=YoUOiAji)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Photo by Rodrigo Osvaldo Borbon Vázquez, iNaturalist.org, some rights reserved.
 
 Flowering sixweeks grama in Sonora, Mexico ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![A photo of somewhat upright, slightly curving reproductive spikes of a grass, with the upper spikes and upper portions of lower spikes drying into a more spreading form.]({{ site.baseurl }}/assets/images/species-reviews/feis-boubar_fruiting.jpg)
+![A photo of somewhat upright, slightly curving reproductive spikes of a grass, with the upper spikes and upper portions of lower spikes drying into a more spreading form.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-boubar_fruiting.jpg?itok=snbLjYVT)
 
 Photo Credit
 

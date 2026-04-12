@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Cygnus columbianus_ , tundra swan. In: Fire Effects Infor
 
 ## Image Gallery
 
-![A tundra swan stands amongst cottongrass in Yukon Delta National Wildlife Refuge.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyco_tundra-swan.jpg) A tundra swan in Yukon Delta National Wildlife Refuge, Alaska. _John and Karen Hollingsworth, U.S. Fish and Wildlife Service_
+![A tundra swan stands amongst cottongrass in Yukon Delta National Wildlife Refuge.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-cyco_tundra-swan.jpg) A tundra swan in Yukon Delta National Wildlife Refuge, Alaska. _John and Karen Hollingsworth, U.S. Fish and Wildlife Service_
 
 Photo Credit: John and Karen Hollingsworth, U.S. Fish and Wildlife Service
 

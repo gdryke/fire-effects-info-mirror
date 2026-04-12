@@ -60,7 +60,7 @@ California pitcherplant is endemic to the northern Sierra Nevada and Coast Range
 
 Along the Oregon and northern California coast, California pitcherplant is found in sphagnum bogs, seeps, and along trickling streams [14,30]. In the Siskiyou Mountains it is found only on sites with running water [1]. In California's Klamath Ranges and the northern Sierra Nevada, California pitcherplant grows where there are slowly draining bogs formed by springs or seepage slopes and open marshy meadows [34]. It is very rarely found in bogs with standing water. Normally it is restricted to sites where its rhizomes and roots can be kept cool by cold, moving water [26,32,33].
 
-![A zoomed-out view of a mass of brownish-green plants with curved, hollow stems in a wet, boggy setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-darcal_hero.jpeg)
+![A zoomed-out view of a mass of brownish-green plants with curved, hollow stems in a wet, boggy setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-darcal_hero.jpeg?itok=Le1nTEEf)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ California| General veg. cts| Holland 1986
  
 California pitcherplant is a native perennial forb. It is a carnivorous plant that traps insects in its unique leaves. With plentiful light and water in its open bog habitat, the production of nectar is relatively "cheap". Insects attracted by the nectar are used as a nutrient source [15]. Adult California pitcherplants have slowly spreading rhizomes which produce a single leaf (pitcher) and roots at each node [11,26]. The diameter of the rhizome is from 0.6 to 0.8 inch (15-20 mm), although it narrows near the apical tip [11]. Internodes are short and the pitchers appear to arise in a terminal rosette [33]. Each leaf has a sheathing base that encloses the apical bud and the base of the next leaf [11]. Individuals have been aged by counting old leaf bases attached to the rhizome [18]. Pitcher size may vary from over 39 inches (1 m) to as small as 0.4 inches (1 cm), although most pitchers are between 8 and 24 inches (2-6 dm) tall [14,27,28].
 
-![A dark greenish brown plant with drooping lily-like flowers and a curved, hollow leaf in a dark, shaded, boggy setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-darcal_plant.jpg)
+![A dark greenish brown plant with drooping lily-like flowers and a curved, hollow leaf in a dark, shaded, boggy setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-darcal_plant.jpg?itok=SZ8PcDOq)
 
 Photo Credit
 

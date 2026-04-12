@@ -36,7 +36,7 @@ Zouhar, Kris. 2005. _Elaeagnus angustifolia_ , Russian-olive. In: Fire Effects I
 
 ## Taxonomy
 
-![A photo of narrow, silvery-gray leaves growing along pale stems with small yellow to very pale-yellow flowers growing evenly spaced along stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaang_flowersleaves.jpg)
+![A photo of narrow, silvery-gray leaves growing along pale stems with small yellow to very pale-yellow flowers growing evenly spaced along stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-elaang_flowersleaves.jpg?itok=0SI9M3SM)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ Russian olive
 
 Russian-olive is native to southern Europe and to central and western Asia [114,142]. Within this region it occurs primarily on coasts, in riparian areas, and in other relatively moist habitats. It is also a component of several forest types, including mixed tamarisk-olive (_Tamarix-Elaeagnus_) forests, Russian-olive-dominated stands, cottonwood (_Populus_ spp.)-Russian olive woodlands, and Haloxylon woodlands ([96] and references therein).
 
-![A photo of a dryland landscape with low shrubs and bunchgrasses dominating the foreground and Russian-olive growing as larger shrubs/small trees growing along a drainage.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaang_infestation1.jpg)
+![A photo of a dryland landscape with low shrubs and bunchgrasses dominating the foreground and Russian-olive growing as larger shrubs/small trees growing along a drainage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-elaang_infestation1.jpg?itok=qf9rtr0J)
 
 Photo Credit
 
@@ -201,7 +201,7 @@ Russian-olive community types are described in the following publications by loc
 
 ## Botanical Description
 
-![Photo of the branches of a woody plant, showing narrow, oblong, greenish-gray leaves, and oval-shaped white fruits on thin, reddish-brown branches.]({{ site.baseurl }}/assets/images/species-reviews/elaang_feis-ELAANG_fruits.jpg)
+![Photo of the branches of a woody plant, showing narrow, oblong, greenish-gray leaves, and oval-shaped white fruits on thin, reddish-brown branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ELAANG_fruits.jpg?itok=t39LkXSV)
 
 Photo Credit
 
@@ -225,7 +225,7 @@ Depending on location and site conditions, Russian-olive roots sometimes associa
 
 Russian-olive's growth habits (e.g., stem and foliage density, canopy cover) seem to vary between plant communities in which it occurs, and depend on size and age of associated species, as well as history of disturbance of the site. In many sites Russian-olive grows in dense thickets with close spacing [16,47,59,81,140,168], sometimes with scattered mature cottonwood in the canopy [128]. On some southwestern riparian sites, dense, nearly monotypic stands of tamarisk and/or Russian-olive form a nearly continuous, closed canopy with no distinct overstory layer. Canopy height generally averages 16 to 33 feet (5-10 m), with canopy density uniformly high. The lower 6.5 feet (2 m) of vegetation often contains a tangle of dense, often dead, branches. Live foliage density may be relatively low from 0 to 6.5 feet (2 m) above ground, but increases higher in the canopy ([188] and references therein). Russian-olive may also grow as scattered individuals or groups under a canopy of mature riparian vegetation (e.g., [47,100,128,168]) or in mixed stands of varying canopy height and density (e.g., [100,128]).
 
-![A photo of Russian-olive growing as short trees in a grassland.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaang_standstructure.jpg)
+![A photo of Russian-olive growing as short trees in a grassland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-elaang_standstructure.jpg?itok=aK21rAUS)
 
 Photo Credit
 
@@ -233,7 +233,7 @@ Photo by Robert Vidéki, Doronicum Kft., Bugwood.org.
 
 Russian-olive stand structure in a field ([CC BY-NC 3.0](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![A photo of a river with red cliffs rising to one side and dense Russian-olive trees growing along the narrow bank.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaang_standstructure2.jpg)
+![A photo of a river with red cliffs rising to one side and dense Russian-olive trees growing along the narrow bank.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-elaang_standstructure2.jpg?itok=RAfL_Ni1)
 
 Photo Credit
 

@@ -48,7 +48,7 @@ sand holly
 
 ## Distribution
 
-![A photo of an upright shrub with small green leaves surrounded by low palm-like plants, and trees in the background draped with long, hanging lichens.]({{ site.baseurl }}/assets/images/species-reviews/feis-ileamb_habitat.jpeg)
+![A photo of an upright shrub with small green leaves surrounded by low palm-like plants, and trees in the background draped with long, hanging lichens.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ileamb_habitat.jpeg?itok=DjlsDTFc)
 
 Photo Credit
 
@@ -76,7 +76,7 @@ Carolina holly occurs in a variety of habitats: mesic or submesic mixed hardwood
 
 ## Botanical Description
 
-![A photo of an upright shrub or small tree with many thin branches and small green-yellow leaves. Many branches have clusters of small red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-ileamb_berries.jpg)
+![A photo of an upright shrub or small tree with many thin branches and small green-yellow leaves. Many branches have clusters of small red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ileamb_berries.jpg?itok=l77Nl3Lj)
 
 Photo Credit
 

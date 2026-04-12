@@ -55,7 +55,7 @@ boxthorn, desert thorn, pale desert-thorn, rabbit thorn
 
 Pale wolfberry ranges from southern Colorado, Utah, and Nevada south to California, Arizona, New Mexico, and western Texas [23,33,43,47]. The typical variety apparently has a more southerly distribution than L. pallidum var. oligospermum, which is found in the Mohave Desert and the northern Sonoran Desert in California [20,31,33,43]. Pale wolfberry is also found in Mexico in Sonora, Chihuahua, Zacatecas, and San Luis Potosi [43].
 
-![Photo of map distribution of pale wolfberry in the United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycpal_map.png)
+![Photo of map distribution of pale wolfberry in the United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-lycpal_map.png?itok=nZ6BdInE)
 
 Photo Credit
 

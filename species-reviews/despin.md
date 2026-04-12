@@ -69,7 +69,7 @@ green tansymustard, pinnate tansymustard, Menzies' tansymustard, Nelson's tansym
 
 ## Distribution
 
-![Photo of western tansymustard flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-despin_flower.jpg)
+![Photo of western tansymustard flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-despin_flower.jpg?itok=tV-nOePU)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Western tansymustard is not as important in plains grasslands and communities fu
 
 ## Botanical Description
 
-![Photo of western tansymustard plant with blooms.]({{ site.baseurl }}/assets/images/species-reviews/feis-despin_plant2.jpeg)
+![Photo of western tansymustard plant with blooms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-despin_plant2.jpeg?itok=u4WCU6L9)
 
 Photo Credit
 

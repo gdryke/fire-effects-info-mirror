@@ -38,7 +38,7 @@ Chadwick, Amy C. 2002. _Carex geyeri_ , Geyer's sedge. In: Fire Effects Informat
 
 The scientific name of Geyer's sedge is _Carex geyeri_ Boott (Cyperaceae) [69,79,145,146].
 
-![A photo of a sedge with tufts of yellow anthers at the end of reproductive stems. Leaves are somewhat low and bright green, and reproductive stems do not far exceed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargey_plant.jpg)
+![A photo of a sedge with tufts of yellow anthers at the end of reproductive stems. Leaves are somewhat low and bright green, and reproductive stems do not far exceed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-cargey_plant.jpg?itok=_z8sR_P5)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Geyer's sedge is a native upland sedge that grows 6 to12 inches (15-50 cm) tall 
 
 Geyer's sedge is easily recognized by its few-flowered, solitary spikes. The spike has a slender staminate part bearing male flowers above the 1-3 pistillate (female) flowers, which are distinctly separate and bear scales with a short awn at the tip [89]. Each spike bears 1-3 wingless perigynia. The fruit is an achene bearing large seeds [64,69,89,141,146].
 
-![A photo of fruiting reproductive spikes of a sedge, with a few ball-like seeds on each spike.]({{ site.baseurl }}/assets/images/species-reviews/cargey_cargey_fruits_0_0.jpg)
+![A photo of fruiting reproductive spikes of a sedge, with a few ball-like seeds on each spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/cargey_fruits_0_0.jpg?itok=Vf1ZShx2)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ Photo © 2005 Christopher L. Christie, used with permission.
 
 Geyer's sedge spikes.
 
-![A photo of an uprooted sedge, with a straight, firm, relatively thick rhizome connecting narrow green shoots. A ball of fibrous roots grows at one end of the rhizome and another cluster of roots grows along the rhizome at the base of the next shoot.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargey_rhizomes.jpg)
+![A photo of an uprooted sedge, with a straight, firm, relatively thick rhizome connecting narrow green shoots. A ball of fibrous roots grows at one end of the rhizome and another cluster of roots grows along the rhizome at the base of the next shoot.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-cargey_rhizomes.jpg?itok=be3ku-3-)
 
 Photo Credit
 

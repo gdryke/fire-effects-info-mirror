@@ -83,7 +83,7 @@ Associated species not previously mentioned include arroyo willow (Salix lasiole
 
 ## Botanical Description
 
-![A photo of the lower part of a tree with a wide, brown trunk and a solid canopy of light green, pointed, divided leaves hanging down. The ground is open dry grass, with some other shrubs and trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugcal_plant.jpg)
+![A photo of the lower part of a tree with a wide, brown trunk and a solid canopy of light green, pointed, divided leaves hanging down. The ground is open dry grass, with some other shrubs and trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-jugcal_plant.jpg?itok=wbHrMFoh)
 
 Photo Credit
 
@@ -131,7 +131,7 @@ Most southern California walnut woodlands are subject to periodic fires. Fire is
 
 ## Plant Response to Fire
 
-![A photo of a burned tree with black branches and a clump of green vegetation growing from the base. The area is open with dry grass on the ground and some other similar burned trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugcal_postfire.jpg)
+![A photo of a burned tree with black branches and a clump of green vegetation growing from the base. The area is open with dry grass on the ground and some other similar burned trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-jugcal_postfire.jpg?itok=_xdcf1Jt)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ McWilliams, Jack. 2003. _Artemisia rigida_ , scabland sagebrush. In: Fire Effect
 
 ## Introduction
 
-![A photo of a somewhat dense, low-growing shrub with blue-green leaves growing on gravelly bare ground with a few very small forbs growing around it.]({{ site.baseurl }}/assets/images/species-reviews/feis-artrig_plant.jpg)
+![A photo of a somewhat dense, low-growing shrub with blue-green leaves growing on gravelly bare ground with a few very small forbs growing around it.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-artrig_plant.jpg)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ Scabland sagebrush occurs in Washington, northeastern Oregon [8,21,37,59], and w
 
 ## Site Characteristics
 
-![A photo of widely spaced, somewhat low shrubs growing with dried annual grasses dominating a graminoid layer. In the background, bunchgrasses dominate, and the cliff edges of a plateau rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artrig_sitechars.jpg)
+![A photo of widely spaced, somewhat low shrubs growing with dried annual grasses dominating a graminoid layer. In the background, bunchgrasses dominate, and the cliff edges of a plateau rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artrig_sitechars.jpg?itok=XHPgFAwz)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Other classification systems describing plant communities in which scabland sage
 
 ## Botanical Description
 
-![A photo of a somewhat spreading, woody sagebrush with gray-green, deeply divided leaves. It grows in rocky soils with visible bedrock. Two people are visible in the background taking photos from a lookout point of the dramatic canyon behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artrig_plant_0.jpg)
+![A photo of a somewhat spreading, woody sagebrush with gray-green, deeply divided leaves. It grows in rocky soils with visible bedrock. Two people are visible in the background taking photos from a lookout point of the dramatic canyon behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artrig_plant_0.jpg?itok=sYa0b3mP)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Beetle [8] describes the phenology of scabland sagebrush as new growth beginning
 
 ## Regeneration Processes
 
-![A photo of a shrub with upright, gray-green leaves and very small, yellow flowers. Dried grasses grow around and several conifers grow behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artrig_flowering.jpg)
+![A photo of a shrub with upright, gray-green leaves and very small, yellow flowers. Dried grasses grow around and several conifers grow behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artrig_flowering.jpg?itok=iMUyP9FB)
 
 Photo Credit
 

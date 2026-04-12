@@ -52,7 +52,7 @@ desert sumac, scrub sumac, small-leaf sumac
 
 Littleleaf sumac occurs in dry desert foothills from southwestern Oklahoma and western Texas to southern Arizona and northern Mexico [10,13,20,31].
 
-![A map of the southwestern U.S. with counties in several states highlighted in green where littleleaf sumac occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhumic_map.jpg)
+![A map of the southwestern U.S. with counties in several states highlighted in green where littleleaf sumac occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rhumic_map.jpg?itok=EUtXshf4)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Distribution of littleleaf sumac in the United States.
 
 ## Site Characteristics
 
-![A photo of a large shrub with small green leaves growing in an open, desert grassland. Low hills dotted sparsely with shrubs are visible in the background, and the sky is full of dark clouds.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhumic_habitat.jpeg)
+![A photo of a large shrub with small green leaves growing in an open, desert grassland. Low hills dotted sparsely with shrubs are visible in the background, and the sky is full of dark clouds.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-rhumic_habitat.jpeg?itok=VQMpNMnC)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Littleleaf sumac is not a dominant species or indicator plant in any published c
 
 Littleleaf sumac is a deciduous, perennial shrub reaching heights up to 15 feet (4.5 m) [38]. The branches are crooked, stiff, and intricately branched; the twigs are spinescent. The bark is dark grey to black, smooth when young but becoming scaly with age. Littleleaf sumac leaves are 0.5 to 1.5 inches (1-4 cm) long and pinnately compound with five to nine leaflets. The leaves are a dull green and hairy. Greenish-white flowers occur in dense compound spikes; the hairy, red-orange fruit is a 0.25 inch (0.5 cm) long drupe [38].
 
-![A photo of part of a shrub with small, vibrant green leaves and many bright red, round berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhumic_berries.jpg)
+![A photo of part of a shrub with small, vibrant green leaves and many bright red, round berries.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-rhumic_berries.jpg?itok=T2eFyI9F)
 
 Photo Credit
 

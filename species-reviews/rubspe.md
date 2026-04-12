@@ -48,7 +48,7 @@ Salmonberry reproductive traits (i.e., buried seed, buried rhizomes, and rapid s
 
 ## Introduction
 
-![Close-up photo of a five-petalled, pink flower attached to a small, woody stem by a short stalk.]({{ site.baseurl }}/assets/images/species-reviews/rubspe_feis-RUBSPE_Flower.jpeg)
+![Close-up photo of a five-petalled, pink flower attached to a small, woody stem by a short stalk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBSPE_Flower.jpeg?itok=qfBuN8UW)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ None
 
 ## General Distribution
 
-![Map of northwestern North America, showing the distribution of salmonberry in the far western states, British Columbia, and Alaska.]({{ site.baseurl }}/assets/images/species-reviews/rubspe_feis-RUBSPE_Map.JPG)
+![Map of northwestern North America, showing the distribution of salmonberry in the far western states, British Columbia, and Alaska.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBSPE_Map.JPG?itok=P4v7-sGP)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Salmonberry's distribution is limited by cold temperatures and short growing sea
 
 Salmonberry is most common on moist to wet, water-receiving sites in forested or wooded areas, especially in openings, and along edges and streambanks [16,139,145,238,251,275,324], although it also occurs on relatively dry hillsides and disturbed areas [18]. It is an indicator of warm, wet sites (e.g., [3,201]), is common in riparian areas (e.g., [315]), and is a facultative wetland plant (e.g., [176,201]). It typically occurs in forest openings, along waterways, on river terraces, gravel bars, avalanche chutes, or in seeps and swamps [42,75,102,139,251,330]. Its growth may be reduced in excessively wet areas such as swamps, where it may be confined to hummocks or logs [18]. Salmonberry can be abundant in disturbed areas such as roadsides, fencerows, fallow fields, and logged or burned areas [18,43,324].
 
-![Photo of a patch of plants with thin, woody stems and green foliage.]({{ site.baseurl }}/assets/images/species-reviews/rubspe_feis-RUBSPE_Plant.jpg)
+![Photo of a patch of plants with thin, woody stems and green foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBSPE_Plant.jpg?itok=tbeArrfs)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 **Aboveground** : Salmonberry is an erect [16,139,145,251], branching [225,251,330], perennial shrub that typically grows 7 to 13 feet (2-4 m) tall [16,225,251,316,330]. It may reach up to 15 feet (4.6 m) tall [102,189] and is rarely less than 1.6 feet (0.5 m) [139]. Vegetative characteristics of salmonberry stems are affected by light and other resource availability [309,347]. On hot, dry sites (e.g., open hillsides and clearcuts), salmonberry assumes a short, compact form, usually less than about 3 feet (1 m) tall [18]. Leaves are deciduous, alternate, and mostly with three leaflets [102,139,145,225,251,330]. Aerial stems are 0.1 to 0.6 inch (3-15 mm) in diameter, and often have scattered, weak spines [251,330]. As stems age, bark becomes shreddy [102,225,251,330]. Several sources report that salmonberry stems are biennial (e.g., [16,145,225,330]). However, this does not appear to be true. For example, stems at least 10 years old, and possibly 15 years old, have been observed in southern British Columbia and Oregon [99], and Zasada and Tappeiner (2008) indicate that salmonberry has relatively long-lived stems [347].
 
-![Image of a thin, woody stem with abundant green foliage, and several gold-colored fruits.]({{ site.baseurl }}/assets/images/species-reviews/rubspe_feis-RUBSPE_GoldFruit1.jpg)
+![Image of a thin, woody stem with abundant green foliage, and several gold-colored fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBSPE_GoldFruit1.jpg?itok=JiIqyY7f)
 
 Photo Credit
 
@@ -157,7 +157,7 @@ Photo by Ashley Pond, ©2006.
 
 Yellow salmonberry fruit, Thornton Creek watershed, Seattle, Washington.
 
-![Close-up photo showing two juicy red raspberries among a cluster of green leaves.]({{ site.baseurl }}/assets/images/species-reviews/rubspe_feis-RUBSPE_RedFruit.jpeg)
+![Close-up photo showing two juicy red raspberries among a cluster of green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBSPE_RedFruit.jpeg?itok=Kz0O9nd3)
 
 Photo Credit
 

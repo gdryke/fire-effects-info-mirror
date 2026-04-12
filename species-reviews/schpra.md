@@ -40,7 +40,7 @@ The scientific name of meadow fescue is _Schedonorus pratensis_ (Huds.) P. Beauv
 
 Meadow fescue hybridizes with perennial ryegrass (_Lolium perenne_) [35,106]. One source reports that the resulting offspring are sterile [106], while another reports that they are fertile [3].
 
-[![A panicle of a grass, with an out-of-focus forest floor in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schpra_plant.jpg)Photo Credit Photo by Edward J Norton, iNaturalist (CC BY-NC 4.0). Meadow fescue growing in Morristown National Historical Park, New Jersey.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A panicle of a grass, with an out-of-focus forest floor in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-schpra_plant.jpg?itok=hCvXXJOb)Photo Credit Photo by Edward J Norton, iNaturalist (CC BY-NC 4.0). Meadow fescue growing in Morristown National Historical Park, New Jersey.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Synonyms
 
@@ -107,7 +107,7 @@ Utah| 4,300 to 9,500 [106]
 
 Meadow fescue occurs in both open plant communities and plant communities with canopy cover from shrubs and trees.
 
-[![A photo of dense, nodding grasses forming an even stand in front of an old, white building with trees growing closely around it.]({{ site.baseurl }}/assets/images/species-reviews/feis-schpra_community_2.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Meadow fescue growing in an even stand along the main street in Gallatin Gateway, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of dense, nodding grasses forming an even stand in front of an old, white building with trees growing closely around it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-schpra_community_2.jpg?itok=86bXJ4Sa)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Meadow fescue growing in an even stand along the main street in Gallatin Gateway, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Grasslands
 
@@ -145,7 +145,7 @@ Meadow fescue was reported in early-successional forests in other parts of its r
 
 Meadow fescue also occurs in nonsuccessional forests. Along the New River Gorge in southern West Virginia, it occurred in a mesic yellow-poplar-white oak-northern red oak-sugar maple forest. Meadow fescue was also found in seasonally-inundated American sycamore-river birch (_Platanus occidentalis-Betula nigra_) upper beach forests and black willow (_Salix nigra_)-river birch riverbank forests [91]. In eastern Tennessee, it was an occasional species occurring in upland mixed-oak forests dominated by white oak, chestnut oak (_Q. prinus_), northern red oak, pignut hickory (_Carya glabra_), mockernut hickory, shortleaf pine (_Pinus echinata_), Virginia pine, and sourwood (Oxydendrum arboreum). It also was an occasional species on disturbed floodplains dominated by mimosa (_Albizia julibrissin_) and Virginia pine (_Pinus virginiana_) [46]. Meadow fescue was frequent in upland mixed-oak-hickory (_Carya_ spp.)-red maple-pine (_Pinus_ spp.) forests in central Tennessee [27]. In Utah, meadow fescue infrequently occurred on open slopes in quaking aspen-spruce-fir (_Picea-Abies_), ponderosa pine, and lodgepole pine (_Pinus contorta_) forests [106]. In Montana, meadow fescue occurred along a hiking trail in an open subalpine area in fir-spruce forest and in a moist place in a mixed-conifer forest [77]. In Idaho, meadow fescue occurred near the Salmon River in a subalpine fir-beargrass-big huckleberry (_A. lasiocarpa-Xerophyllum tenax-Vaccinium membranaceum_) habitat type [77].
 
-[![A photo of a dusty singletrack trail passing through a meadow with conifers in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schpra_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Meadow fescue growing along the New World Gulch Trail with other introduced perennials grasses in Gallatin County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a dusty singletrack trail passing through a meadow with conifers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-schpra_community.jpg?itok=szCqyRcY)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Meadow fescue growing along the New World Gulch Trail with other introduced perennials grasses in Gallatin County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Two vegetation classifications from Virginia describe plant communities where meadow fescue is a dominant species.
 
@@ -160,7 +160,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Meadow fescue is a loosely to densely tufted perennial grass. Culms are 12 to 47 inches (30-120 cm) long and may be erect or spreading. Leaf blades are flat and up to 18 inches (45 cm) long. The panicle is 4 to 8 inches (10-20 cm) long with 10- to 20-mm-long spikelets [2]. The fruit is a caryopsis [28]. Seeds usually lack awns [2].
 
-[![A close-up of a grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-schpra_panicle.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). A meadow fescue panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up of a grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-schpra_panicle.jpg?itok=WBgaliiX)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). A meadow fescue panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In field sites in Germany, meadow fescue roots penetrated 3 inches (8 cm) in loamy fluvial sediments [38]. Rhizomatous character varies. Floras from Montana [53] and Utah [106] report that meadow fescue has short rhizomes, while a flora from Canada [1] states that it may or may not have short rhizomes. A flora from the Great Plains [35] reports that it is caespitose to short-rhizomatous. The Flora of Pakistan [2] reports that meadow fescue lacks rhizomes.
 

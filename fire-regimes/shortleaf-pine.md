@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for shortleaf pine communities has not yet been
 
 ## Distribution
 
-![A map showing the distribution of shortleaf pine communities in the south central U.S.]({{ site.baseurl }}/assets/images/fire-regimes/shortleaf-pine_feis-shortleaf_pine_locator.jpg)
+![A map showing the distribution of shortleaf pine communities in the south central U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-shortleaf_pine_locator.jpg?itok=FZxlfL_N)
 
 Photo Credit
 

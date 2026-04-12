@@ -59,7 +59,7 @@ None
 
 Sweetclover is nonnative throughout North America. Eurasia [10,98,101] and, more specifically, the Mediterranean region from central Europe to Tibet [55,188], is the native range for sweetclover.
 
-![A photo of an open area near a small river, with conifer trees and mountains in the background. A plant with small creamy-white flowers is growing densely over the open area on both sides of the river and into the distance.]({{ site.baseurl }}/assets/images/species-reviews/melspp_feis-melalb_field.jpg)
+![A photo of an open area near a small river, with conifer trees and mountains in the background. A plant with small creamy-white flowers is growing densely over the open area on both sides of the river and into the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-melalb_field.jpg?itok=LmMahzjS)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Less common sweetclover habitats include moderately saline marshes in Nebraska [
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [82,98,101,191,235,267,268]).
 
-![A photo of an upright green plant with small round leaves and rows of white flowers, growing in an open field.]({{ site.baseurl }}/assets/images/species-reviews/melspp_feis-melalb_flower.jpg)
+![A photo of an upright green plant with small round leaves and rows of white flowers, growing in an open field.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-melalb_flower.jpg?itok=M6y_mDa-)
 
 Photo Credit
 
@@ -194,7 +194,7 @@ Root crown buds and carbohydrate storage: In late summer and early fall, 1st-yea
 
 ## Regeneration Processes
 
-![A photo of an upright plant with small, round green leaves and rows of yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/melspp_feis-meloff_flower.jpg)
+![A photo of an upright plant with small, round green leaves and rows of yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-meloff_flower.jpg?itok=BsvXRFAt)
 
 Photo Credit
 
@@ -518,7 +518,7 @@ Use of sweetclover as a nurse crop has been important to its spread throughout N
 
 Generally sweetclover is most invasive in grasslands and riparian areas. Sweetclover is commonly invasive in the upper Midwest and Great Plains regions [45,115]. In many prairies, sweetclover is associated with displacement of native species by limiting sunlight and moisture and changing nutrient availability (reviews by [45,222]). Some have referred to white sweetclover as the prairie "restorationists nightmare" [203]. When Wisconsin's plant and natural area experts were surveyed, white sweetclover ranked 20th and yellow sweetclover ranked 24th out of 66 invasive plants having negative ecological impacts in native communities [196].
 
-![A photo of an open landscape with open, rolling hills. The lower slope of the hillside is completely covered by a plant with bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/melspp_feis-meloff_field.jpg)
+![A photo of an open landscape with open, rolling hills. The lower slope of the hillside is completely covered by a plant with bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-meloff_field.jpg?itok=8liSKDUT)
 
 Photo Credit
 

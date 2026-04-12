@@ -44,7 +44,7 @@ The scientific name of silver sagebrush is _Artemisia cana_ Pursh (Asteraceae) [
 
 Within this Species Review, "silver sagebrush" refers to the species as a whole. Infrataxa are referred to by the three common names listed above. Not all authorities recognize infrataxa within silver sagebrush [38,190].
 
-![A photo of a silvery, blue-green shrub, with mostly green grasses growing behind and no visible bare ground around plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcan_plant.jpg)
+![A photo of a silvery, blue-green shrub, with mostly green grasses growing behind and no visible bare ground around plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artcan_plant.jpg?itok=MFipO1TT)
 
 Photo Credit
 
@@ -52,7 +52,7 @@ Photo courtesy of © Jody Javersak.
 
 Silver sagebrush.
 
-![A photo of a stand of silvery green-blue shrubs with dry grasses growing in front and around the stand. Conifers grow on hilltops and a highway winds around the bottom of a slope.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcan_habitat.jpg)
+![A photo of a stand of silvery green-blue shrubs with dry grasses growing in front and around the stand. Conifers grow on hilltops and a highway winds around the bottom of a slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artcan_habitat.jpg?itok=ZsbL0U_e)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Wyoming| 1,000-10,000 feet (1,800-3,000 m) [20,85,130]
  
 ## Plant Communities
 
-![A photo of a silvery green, wide shrub with upright, mostly herbaceous stems. Rolling hills extend into the background. Vegetation is grass-dominated with scattered shrubs, apparently mostly the same as the shrub in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcan_plant_0.jpg)
+![A photo of a silvery green, wide shrub with upright, mostly herbaceous stems. Rolling hills extend into the background. Vegetation is grass-dominated with scattered shrubs, apparently mostly the same as the shrub in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artcan_plant_0.jpg?itok=OPt1TMmy)
 
 Photo Credit
 

@@ -38,7 +38,7 @@ Gucker, Corey L. 2008. _Tragopogon dubius_ , yellow salsify. In: Fire Effects In
 
 The scientific name of yellow salsify is _Tragopogon dubius_ Scop. (Asteraceae) [39,62]. Within the Asteraceae family, yellow salsify belongs to the Cichorieae or chicory tribe [7].
 
-![A photo of a branching forb with a large, dandelion-like tuft of seeds at the end of one stem, and closed fruiting buds at the ends of other stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-tradub_plant.jpg)
+![A photo of a branching forb with a large, dandelion-like tuft of seeds at the end of one stem, and closed fruiting buds at the ends of other stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tradub_plant.jpg?itok=WWScfsgU)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Throughout most of its range, yellow salsify is described as infrequent, occasio
 
 According to a review by Clements and others [25], yellow salsify was introduced to North America as a garden plant in the early 1900s. Spread was likely from east to west, as this was the pattern in the Pacific Northwest [40]. Plants Database provides a distributional map of yellow salsify and its hybrids.
 
-![A photo of a green plant with a yellow flower growing in gravel next to a sidewalk with other low, green plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-tradub_sidewalk_habitat.jpg)
+![A photo of a green plant with a yellow flower growing in gravel next to a sidewalk with other low, green plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tradub_sidewalk_habitat.jpg?itok=ERv6w-u5)
 
 Photo Credit
 
@@ -128,7 +128,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Yellow salsify grows as an annual, biennial, or monocarpic perennial [25,51,56,106,121]. Plants grow between 12 and 39 inches (30-100 cm) tall [47,155]. In its first year(s), yellow salsify produces an erect rosette of grass-like leaves. Plants may remain vegetative for up to 10 years before flowering. After flowering, yellow salsify dies [25,51].
 
-![A person holds several uprooted plants in their right hand and a single plant of the same species in their left hand. The plants are comprised of upright stems, narrow leaves, and relatively short, fleshy roots.]({{ site.baseurl }}/assets/images/species-reviews/feis-tradub_foliage_roots.jpg)
+![A person holds several uprooted plants in their right hand and a single plant of the same species in their left hand. The plants are comprised of upright stems, narrow leaves, and relatively short, fleshy roots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tradub_foliage_roots.jpg?itok=egFH4EWG)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Yellow salsify reproduces solely by seed [25].
 
 Yellow salsify produces perfect flowers [47,155]. Self pollination and cross pollination are possible [25,28]. Yellow salsify flowers on the Palouse Prairie of Idaho and Washington were visited by a variety of generalist bees and flies (Cook, personal observation, cited in [28]).
 
-![A photo of a bright yellow flower at the end of a green stem. Green, leaf-like bracts extend beyond each of the yellow petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-tradub_flower.jpg)
+![A photo of a bright yellow flower at the end of a green stem. Green, leaf-like bracts extend beyond each of the yellow petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tradub_flower.jpg?itok=ZuWr-kWa)
 
 Photo Credit
 
@@ -199,7 +199,7 @@ Predation on yellow salsify seeds can be as high as 100%. Presence of neighborin
 
 ### Seed Dispersal
 
-![A photo of an achene with a penny for scale. The achene is about twice as long as the penny is, with a slight thickening on one end \(the seed\) and a circular tuft of hairs on the other end.]({{ site.baseurl }}/assets/images/species-reviews/feis-tradub_achene_penny.jpg)
+![A photo of an achene with a penny for scale. The achene is about twice as long as the penny is, with a slight thickening on one end \(the seed\) and a circular tuft of hairs on the other end.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tradub_achene_penny.jpg?itok=WhyIWQtK)
 
 Photo Credit
 

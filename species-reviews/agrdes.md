@@ -50,7 +50,7 @@ standard crested wheatgrass, standard wheatgrass, summit crested wheatgrass, Nor
 
 ## General Distribution
 
-[![A field dominated by golden grasses with spike-like panicles under blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrdes_field.jpeg)Photo Credit Photo by anton_abushin, iNaturalist (CC BY-NC 4.0). Desert wheatgrass growing a field in Russia.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A field dominated by golden grasses with spike-like panicles under blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrdes_field.jpeg?itok=rGK6o2hy)Photo Credit Photo by anton_abushin, iNaturalist (CC BY-NC 4.0). Desert wheatgrass growing a field in Russia.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Desert wheatgrass is an introduced species, originally from Russian and Siberian steppe habitats. It has been planted from Alaska south to California, throughout western Canada, east in the United States to Ohio, and south to Texas. It was first successfully established in the United States between 1907 and 1913 [22]. Desert wheatgrass and crested wheatgrass were considered distinct species upon their introduction to the United States in 1906, but since, the two species have often been referred to and treated as one [21]. Crested and desert wheatgrass became prevalent in the United States in the 1930s when they were used to seed abandoned cropland [83]. Desert wheatgrass is more commonly used than crested wheatgrass throughout the West and especially in the more arid regions of the Great Basin and Southwest. Desert and crested wheatgrass seedings have been established on 10 million acres (3.2 million ha) [4] and, by some accounts, as much as 26 million acres (10.4 million ha) in North America [61].
 
@@ -73,7 +73,7 @@ Desert wheatgrass is moderately shade intolerant [17].
 
 ## Plant Communities
 
-![A photo of a bunched grass growing in front of a hill.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrdes_plant_oldreview.jpg)
+![A photo of a bunched grass growing in front of a hill.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrdes_plant_oldreview.jpg?itok=8t7e9Tss)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ A vegetation typing in which desert wheatgrass is listed as a community dominant
 
 ## Botanical Description
 
-[![A photo of a spike-like panicle of a grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrdes_panicle.jpg)Photo Credit Photo by Alexander Iosipenko, iNaturalist (CC BY-NC 4.0). The spike-like panicle of desert wheatgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a spike-like panicle of a grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrdes_panicle.jpg?itok=nY1jpIln)Photo Credit Photo by Alexander Iosipenko, iNaturalist (CC BY-NC 4.0). The spike-like panicle of desert wheatgrass.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Desert wheatgrass is a long-lived, perennial, exotic bunchgrass. Desert wheatgrass is taller and coarser than crested wheatgrass and is found more commonly throughout the western United States. Crested wheatgrass is smaller, leafier, has broader seedheads, and is found more often in the Northern Great Plains and in Canada [84]. Crested wheatgrass is a diploid species, while desert wheatgrass is a tetraploid [21].
 

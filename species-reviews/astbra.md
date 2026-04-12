@@ -34,7 +34,7 @@ Sclafani, Christie J. 2006. _Astragalus brauntonii_ , Braunton's milkvetch. In: 
 
 ## Image Gallery
 
-![Photo of Brounton's milkvetch flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-astbra_plant.jpeg) Brounton's milkvetch _Photo by John Cowles, iNaturalist.org, no rights reserved._
+![Photo of Brounton's milkvetch flower.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-astbra_plant.jpeg) Brounton's milkvetch _Photo by John Cowles, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by John Cowles, iNaturalist.org, no rights reserved.
 
@@ -84,7 +84,7 @@ Nonnative grasses such as oat (_Avena_ spp.), brome (_Bromus_ spp.) barley (_Hor
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [2,16,24].
 
-![Photo of Brounton's milkvetch flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-astbra_plant.jpeg)
+![Photo of Brounton's milkvetch flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-astbra_plant.jpeg?itok=xqGvFswe)
 
 Photo Credit
 

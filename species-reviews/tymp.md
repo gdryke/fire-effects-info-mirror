@@ -74,7 +74,7 @@ Lesser prairie-chickens inhabit the arid grasslands of New Mexico, Colorado, and
 
 ## Botanical and Ecological Characteristics
 
-![A less prairie-chicken male displays in an opening.]({{ site.baseurl }}/assets/images/species-reviews/tymp_feis-typa_lesser-prairie-chicken.jpg)
+![A less prairie-chicken male displays in an opening.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-typa_lesser-prairie-chicken.jpg?itok=4uX7mx3f)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ Photo by Larry Lamsa and courtesy of Wikimedia Commons, with some rights reserve
 
 A lesser prairie-chicken displays in New Mexico.
 
-![A greater prairie-chicken walks in an open area.]({{ site.baseurl }}/assets/images/species-reviews/tymp_feis-tycu_greater-prairie-chicken.jpg)
+![A greater prairie-chicken walks in an open area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tycu_greater-prairie-chicken.jpg?itok=0ybsrFml)
 
 Photo Credit
 

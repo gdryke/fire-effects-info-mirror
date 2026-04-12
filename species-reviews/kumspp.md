@@ -36,7 +36,7 @@ Gucker, Corey L. 2010. _Kummerowia stipulacea_ , _K. striata_ , Korean and Japan
 
 ## Taxonomy
 
-![A photo of a small green clover plant with pink, purple and white flowers.]({{ site.baseurl }}/assets/images/species-reviews/kumspp_feis-kumsti_plant.jpeg)
+![A photo of a small green clover plant with pink, purple and white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-kumsti_plant.jpeg?itok=tNPxLmHy)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ The clovers are most common in old fields, pastures, open woodlands, and along r
 
 Japanese and Korean clovers tolerate a wide range of environmental conditions. During a phytosociological study of weedy old fields in Scotland County in North Carolina's Upper Coastal Plain, Japanese clover "did not exhibit an exact affinity to specific edaphic conditions" [128]. Both clovers have been reported in cedar glade communities in the southeastern United States. Cedar glades occur in open areas on calcareous soils and are characterized by high sunlight levels, high summer soil temperatures, and extreme soil moisture levels that range from saturated or flooded to below the permanent wilting point [13].
 
-![A photo of a flat, spreading clover plant growing over a sidewalk.]({{ site.baseurl }}/assets/images/species-reviews/kumspp_feis-kumsti_sidewalk.jpg)
+![A photo of a flat, spreading clover plant growing over a sidewalk.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-kumsti_sidewalk.jpg?itok=IfkC3I5s)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground Description
 
-![A photo of a green clover plant with small pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/kumspp_feis-kumstr_plant.jpg)
+![A photo of a green clover plant with small pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-kumstr_plant.jpg?itok=h0ZqI7PL)
 
 Photo Credit
 

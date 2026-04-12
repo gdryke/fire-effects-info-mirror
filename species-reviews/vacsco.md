@@ -38,7 +38,7 @@ Johnson, Kathleen A. 2001. _Vaccinium scoparium_ , grouse whortleberry. In: Fire
 
 The currently accepted scientific name of grouse whortleberry is _Vaccinium scoparium_ Leib. (Ericaceae) [59,71,129,140].
 
-![A photo of low shrubs dominating a relatively open forest understory, with conifer trunks and some dead wood. Scattered large stones are visible throughout the low shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacsco_hero.jpg)
+![A photo of low shrubs dominating a relatively open forest understory, with conifer trunks and some dead wood. Scattered large stones are visible throughout the low shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacsco_hero.jpg?itok=3_UGsSQC)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Grouse whortleberry has a wide elevational range [139]. Ranges reported in the l
 
 Grouse whortleberry often dominates the shrub layer of subalpine forests throughout the Rocky Mountains. Common overstory dominants are subalpine fir (_Abies lasiocarpa_), Rocky Mountain lodgepole pine (_Pinus contorta_ var. _latifolia_), mountain hemlock (_Tsuga mertensiana_), whitebark pine (_P. albicaulis_), Douglas-fir (_Pseudotsuga menziesii_), Engelmann spruce (_Picea engelmannii_), white spruce (_P. glauca_), grand fir (_A. grandis_), western larch (_Larix occidentalis_), western redcedar (_Thuja plicata_), and limber pine (_P. flexilis_) [41,99,115,118,122,137]. Grouse whortleberry also grows in association with subalpine larch (_L. lyallii_) in Montana [9] and interior ponderosa pine (_P. ponderosa_ var. _scopulorum_) in the Black Hills [62,127]. In the Cascade Mountains of Oregon, grouse whortleberry occurs commonly with mountain hemlock, Shasta red fir (_A. magnifica_ var. _shastensis_), western white pine (_P. monticola_), and Pacific silver fir (_A. amabilis_) [89].
 
-![A photo of low shrubs with red berries growing in an open understory, with a few taller forbs and young conifers visible behind. Larger conifers are also visible behind, as are several large, dead, fallen trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacsco_habitat.jpg)
+![A photo of low shrubs with red berries growing in an open understory, with a few taller forbs and young conifers visible behind. Larger conifers are also visible behind, as are several large, dead, fallen trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacsco_habitat.jpg?itok=A0aljwWs)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Because grouse whortleberry is frequent and abundant in the understory of late-s
 
 ## Botanical Description
 
-![A photo of a low leafy shrub with green stems and reddish berries growing next to large gray stones.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacsco_plant.jpeg)
+![A photo of a low leafy shrub with green stems and reddish berries growing next to large gray stones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacsco_plant.jpeg?itok=GXtUWed3)
 
 Photo Credit
 

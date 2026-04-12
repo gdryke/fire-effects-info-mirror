@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for snowberry shrubland communities has not yet
 
 ## Distribution
 
-![A map showing the distribution of snowberry shrubland communities in the interior southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/snowberry-shrublands_feis-snowberry_shrublands_locator.jpg)
+![A map showing the distribution of snowberry shrubland communities in the interior southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-snowberry_shrublands_locator.jpg?itok=uVKrbec1)
 
 Photo Credit
 

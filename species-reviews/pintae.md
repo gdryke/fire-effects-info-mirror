@@ -80,7 +80,7 @@ Common herbaceous species include bluestem (Andropogon spp.), panicum (Panicum s
 
 ## Botanical Description
 
-![A photo of a pine tree's branch tips with bunched green needles and many long, brown cones hanging from the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pintae_cones.jpeg)
+![A photo of a pine tree's branch tips with bunched green needles and many long, brown cones hanging from the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pintae_cones.jpeg?itok=1swaSuIw)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ A low-severity, slow-moving fire in thick litter can cause severe basal scorch. 
 
 ## Fire Adaptations
 
-![A close up photo of a pine tree's gray, furrowed bark. The ground is covered in dry brown pine needles]({{ site.baseurl }}/assets/images/species-reviews/feis-pintae_bark.jpg)
+![A close up photo of a pine tree's gray, furrowed bark. The ground is covered in dry brown pine needles](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pintae_bark.jpg?itok=z4sl7EIL)
 
 Photo Credit
 
@@ -214,7 +214,7 @@ Loblolly pine is the leading commercial timber species in the southeastern Unite
 
 ## Other Management Considerations
 
-![A photo of an open stand of uniform-looking pine trees with straight, narrow trunks and sparse branches near the crown. The understory is completely open, with just some dry brown grass on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-pintae_managedstand.jpg)
+![A photo of an open stand of uniform-looking pine trees with straight, narrow trunks and sparse branches near the crown. The understory is completely open, with just some dry brown grass on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pintae_managedstand.jpg?itok=kMDwLYVe)
 
 Photo Credit
 

@@ -130,7 +130,7 @@ Miner's-lettuce is common in recently burned chaparral [20]. A year after a fire
 
 Miner's lettuce was common the 2nd postfire growing season after the 2013 Rim Wildfire on the Stanislaus National Forest, California. It formed a lawn on the ground layer of some mesic to wet sites (Fryer 2015 personal observation).
 
-![Image of draw with burned trees and patches of green ground cover.]({{ site.baseurl }}/assets/images/species-reviews/feis-claper.jpg)
+![Image of draw with burned trees and patches of green ground cover.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-claper.jpg?itok=htmHjahs)
 
 Photo Credit
 

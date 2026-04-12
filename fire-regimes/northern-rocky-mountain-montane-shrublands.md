@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern Rocky Mountain montane shrubland c
 
 ## Distribution
 
-![A map showing the distribution of northern Rocky Mountain montane shrubland communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-montane-shrublands_feis-northern_rocky_mountain_montane_shrublands_locator.jpg)
+![A map showing the distribution of northern Rocky Mountain montane shrubland communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-northern_rocky_mountain_montane_shrublands_locator.jpg?itok=GNLr6W7x)
 
 Photo Credit
 

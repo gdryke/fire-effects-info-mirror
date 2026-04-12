@@ -38,7 +38,7 @@ Matthews, Robin F. 2000. _Danthonia unispicata_ , onespike danthonia. In: Fire E
 
 The scientific name of onespike danthonia is _Danthonia unispicata_ (Thurb.) Munro ex Macoun (Poaceae) [5,14,24,44].
 
-![A photo of a bunchgrass with the tops of most stems dried and yellow but green at their bases. Bare soil is visible around the grass but other plants, mostly forbs, grow around, with trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-danuni_hero.jpg)
+![A photo of a bunchgrass with the tops of most stems dried and yellow but green at their bases. Bare soil is visible around the grass but other plants, mostly forbs, grow around, with trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danuni_hero.jpg?itok=Ml1Qm6HR)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ onespike oatgrass, oneside oatgrass, poverty oatgrass
 
 Onespike danthonia occurs from British Columbia south to California and east to Alberta, Montana, Wyoming, South Dakota, Utah, and Colorado [5,9,17,44].
 
-![A map of the western United States and Canada, with states from California to South Dakota and north highlighted green, as well as British Columbia, Alberta, and Saskatchewan in Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-danuni_map.jpg)
+![A map of the western United States and Canada, with states from California to South Dakota and north highlighted green, as well as British Columbia, Alberta, and Saskatchewan in Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danuni_map.jpg?itok=0Lir127D)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Onespike danthonia frequently codominates plant communities with Sandberg bluegr
 
 Onespike danthonia is present in numerous grassland, sagebrush (_Artemisia_ spp.), mountain brush, quaking aspen (_Populus tremuloides_)-Douglas-fir (_Pseudotsuga menziesii_), ponderosa pine (_Pinus ponderosa_), and lodgepole pine (_P. contorta_) habitat types and plant communities [27,37,40,44].
 
-![A photo of a grassland. Bunches of onespike danthonia are in the foreground and are yellowing at the tops of their reproductive stems. Taller, greener grasses grow just behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-danuni_community.jpg)
+![A photo of a grassland. Bunches of onespike danthonia are in the foreground and are yellowing at the tops of their reproductive stems. Taller, greener grasses grow just behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danuni_community.jpg?itok=DrVoxLH2)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Classifications describing plant communities in which onespike danthonia is a do
 
 Onespike danthonia is a native, densely tufted perennial bunchgrass [5,17,44]. The centers of the spreading tufts ultimately die out and old sheaths persist at the base of the plants [5]. Culms typically grow 4 to 12 inches (10-30 cm) in height [5,16,26,44]. The inflorescence is a panicle mostly reduced to a single spikelet, but 2 or 3 spikelets may occasionally be present [5,17,18,26]. The root system of onespike danthonia is shallow and fibrous [20,31,33].
 
-![A photo of a low bunchgrass growing in rocky soil with reproductive stems yellowing at their tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-danuni_plant.jpeg)
+![A photo of a low bunchgrass growing in rocky soil with reproductive stems yellowing at their tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danuni_plant.jpeg?itok=zWqeFLBM)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Photo by Barbara L. Wilson, iNaturalist.org, some rights reserved.
 
 Onespike danthonia growing in Harney County, Oregon ([CC BY-NC 4.0](<https://creativecommons.org/licenses/by-nc/4.0/>)).
 
-![A close-up photo of a long-hairy grass stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-danuni_stem.jpeg)
+![A close-up photo of a long-hairy grass stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-danuni_stem.jpeg?itok=e8n9piR0)
 
 Photo Credit
 

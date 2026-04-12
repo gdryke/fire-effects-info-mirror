@@ -84,7 +84,7 @@ No entry.
 
 Rough pigweed is an introduced, coarse, monoecious, annual herb with taproots. It has an erect stem, 1 to 6.6 feet (0.3-2 m) tall, that is commonly freely branched. Leaves are 0.8 to 3.9 inches (2-10 cm) long. Inflorescences are usually densely crowded. There are often additional dense clusters of flowers in the axils of upper leaves. The fruit is a utricle [11,14,18,19,34].
 
-![A green spiky seedhead extends above green leaves of rough pigweed.]({{ site.baseurl }}/assets/images/species-reviews/amaret_amaret_plant.jpg)
+![A green spiky seedhead extends above green leaves of rough pigweed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/amaret_plant.jpg?itok=bVZQKqlI)
 
 Photo Credit
 
@@ -242,7 +242,7 @@ Rough pigweed is a useful component of patchwork vegetation for scaled quail hab
 
 Rough pigweed is difficult to eradicate when once established [34]. A survey of weeds in spring annual crops throughout Manitoba over a 4-year period showed 83 weed species. Rough pigweed was the third most common dicotyledonous weed [40]. In Kansas, it was the most abundant forb weed in the seedbank [24].
 
-![A field with a relatively dense concentration of weedy rough pigweed. Reddish, dusty dirt is visible between plants in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/amaret_amaret_field.jpg)
+![A field with a relatively dense concentration of weedy rough pigweed. Reddish, dusty dirt is visible between plants in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/amaret_field.jpg?itok=p6BDRdZt)
 
 Photo Credit
 

@@ -38,7 +38,7 @@ Simonin, Kevin A. 2000. _Elymus canadensis_ , Canada wildrye. In: Fire Effects I
 
 The currently accepted scientific name of Canada wildrye is _Elymus canadensis_ L. (Poaceae) [34,39,47,53,97]. Barkworth and Dewey [8] recognize no varieties or forms in North America. Canada wildrye hybridizes with slender wheatgrass (_Elymus trachycaulus_) [97], Texas wildrye (_E. interruptus_) [39], and Virginia wildrye (_E. virginicus_) [22].
 
-![A photo of browning reproductive grass spikes drooping, with blurry green and brown grasses and purple flowers behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-elycan_hero.jpeg)
+![A photo of browning reproductive grass spikes drooping, with blurry green and brown grasses and purple flowers behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-elycan_hero.jpeg?itok=vfkRoi6X)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ In Kansas, Canada wildrye is a component of tallgrass prairie along with big blu
 
 In true prairie lowlands, where big bluestem is dominant, Canada wildrye is a principal associate along with Indiangrass and switchgrass [95].
 
-![A photo of drying and dried grasses with tall seedheads growing in an open area with a conifer-dominated woodland behind.]({{ site.baseurl }}/assets/images/species-reviews/elycan_feis-elymus_plant.jpeg)
+![A photo of drying and dried grasses with tall seedheads growing in an open area with a conifer-dominated woodland behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-elymus_plant.jpeg?itok=d74uWkg9)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Riparian and other wetlands support populations of Canada wildrye. Canada wildry
 
 ## Botanical Description
 
-![A photo of several green grass spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-elycan_repro.jpeg)
+![A photo of several green grass spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-elycan_repro.jpeg?itok=P-mzBNKu)
 
 Photo Credit
 

@@ -99,7 +99,7 @@ In New Mexico, twisted moss branches appear in mid-winter, lengthen slowly throu
 
  _Tortula ruralis_ is dioecious, and undergoes a distinct annual reproductive cycle involving a gametophye and sporophyte generation [8,33,40].
 
-![Close-up of bright green leaves of Tortula ruralis.]({{ site.baseurl }}/assets/images/species-reviews/torrur_torrur_leaves.jpg)
+![Close-up of bright green leaves of Tortula ruralis.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/torrur_leaves.jpg?itok=XAQmaKGZ)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Photo courtesy of Michael Lüth, hosted by the USDA-NRCS PLANTS Database.
 
 Tortula ruralis gametophytes.
 
-![Close-up image of Tortula ruralis sporophytes emerging from a mat of moss.]({{ site.baseurl }}/assets/images/species-reviews/torrur_torrur_sporophytes.jpg)
+![Close-up image of Tortula ruralis sporophytes emerging from a mat of moss.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/torrur_sporophytes.jpg?itok=p40ityyZ)
 
 Photo Credit
 

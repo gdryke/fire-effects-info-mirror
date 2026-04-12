@@ -59,7 +59,7 @@ bog cranberry, swamp cranberry, wild cranberry
 
 Small cranberry is distributed throughout Alaska and across Canada to Labrador, Greenland, and Newfoundland. It also occurs south through New England, the northern portions of the Great Lakes States, and western Washington and Oregon. Small cranberry is also found in Europe and Asia [11,20,44,50].
 
-![Photo of map distribution of small cranberry in North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacoxy_map.png)
+![Photo of map distribution of small cranberry in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacoxy_map.png?itok=YTqukUwe)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Associated understory species include: leatherleaf (_Chamaedaphne calyculata_), 
 
 ## Botanical Description
 
-![Photo of small cranberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacoxy_plant.jpeg)
+![Photo of small cranberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacoxy_plant.jpeg?itok=pOxdEOyQ)
 
 Photo Credit
 

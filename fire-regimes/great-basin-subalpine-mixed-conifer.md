@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Basin subalpine mixed-conifer communi
 
 ## Distribution
 
-![A map showing the distribution of Great Basin subalpine mixed-conifer communities in the interior southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/great-basin-subalpine-mixed-conifer_feis-great_basin_subalpine_mixed_conifer_locator.jpg)
+![A map showing the distribution of Great Basin subalpine mixed-conifer communities in the interior southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-great_basin_subalpine_mixed_conifer_locator.jpg?itok=ftI9sxfq)
 
 Photo Credit
 

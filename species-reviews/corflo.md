@@ -94,7 +94,7 @@ Shenandoah NP, Virginia| general veg. cts| Hall & Kuss 1989
 
 ## Botanical Description 
  
-![A photo of white flowers on the end of a branch, with yellow centers. The surrounding leaves are pointed upward, and the setting is a sunny, open forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-corflo_plant.jpeg)
+![A photo of white flowers on the end of a branch, with yellow centers. The surrounding leaves are pointed upward, and the setting is a sunny, open forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-corflo_plant.jpeg?itok=ge6pe475)
 
 Photo Credit
 
@@ -192,7 +192,7 @@ Bark thickness (inches)| Seconds required for cambium to reach 140 degrees F
 
 ## Fire Adaptations
 
-![A photo of a forest with no understory, just brown litter on the ground, and some black parts of trunks indicating the forest has burned. in the foreground a small tree has green leaves and white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-corflo_postfire.jpg)
+![A photo of a forest with no understory, just brown litter on the ground, and some black parts of trunks indicating the forest has burned. in the foreground a small tree has green leaves and white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-corflo_postfire.jpg?itok=GOI5I9l9)
 
 Photo Credit
 

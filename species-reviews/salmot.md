@@ -53,7 +53,7 @@ cherry willow, mountain willow, serviceberry willow, white willow
 
 Park willow occurs in the middle and southern Rocky Mountain region from Wyoming to New Mexico [3,15,35].
 
-![Map of the southwestern United States showing the county-level distribution of park willow in Arizona, New Mexico, Utah, Colorado, and Wyoming.]({{ site.baseurl }}/assets/images/species-reviews/feis-salmot_map.png)
+![Map of the southwestern United States showing the county-level distribution of park willow in Arizona, New Mexico, Utah, Colorado, and Wyoming.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-salmot_map.png?itok=XL15Pvvy)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ In Alaska and northern Canada, park willow is found in wet areas such as heaths,
 
 **Soils** : Park willow is usually found on moist sandy or gravelly soils but is adaptable to a wide variety of soils [37]. It will tolerate moderately alkaline soils but does poorly in extremely acidic of alkaline conditions. The general pH range for willows is 5.5 to 7.5 [14]. Growth of park willow is severely reduced when water levels are maintained at or above the root collar for extended periods [14]. Park willow is also shade intolerant and grows best in full sunlight [14,37].
 
-![Photo of a small, shrubby creek bed with a conifer forest in the background.]({{ site.baseurl }}/assets/images/species-reviews/salmot_feis-SALMOT_habitat.jpg)
+![Photo of a small, shrubby creek bed with a conifer forest in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-SALMOT_habitat.jpg?itok=Y8ZS5dXx)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Park willow flowers in May, before the leaves appear, through July [34]. The fru
 
 ## Regeneration Processes
 
-![Close-up photo of a narrow twig with groups of alternate leaves emerging from the end, and alternate catkins emerging below. The catkins are beginning to release fluffy, white seeds.]({{ site.baseurl }}/assets/images/species-reviews/salmot_feis-SALMOT_catkins.jpg)
+![Close-up photo of a narrow twig with groups of alternate leaves emerging from the end, and alternate catkins emerging below. The catkins are beginning to release fluffy, white seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-SALMOT_catkins.jpg?itok=7UyN1ftW)
 
 Photo Credit
 

@@ -71,7 +71,7 @@ Some species commonly associated with raceme pussytoes include bearberry (_Arcto
 
 Raceme pussytoes is a native, perennial forb with creeping, leafy stolons. Stems are 4 to 24 inches (10-60 cm) tall. The inflorescence is a generally open cyme, but flowers may be more crowded at higher elevations [13,15].
 
-![A green plant with a cluster of small, white, puffy flowers at the top of a long stem.]({{ site.baseurl }}/assets/images/species-reviews/antrac_antrac_plant.jpg)
+![A green plant with a cluster of small, white, puffy flowers at the top of a long stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/antrac_plant.jpg?itok=KmiP0r8K)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ A raceme pussytoes plant.
 
 Raceme pussytoes flowers from May through August [13].
 
-![A close-up photo of clustered small, white flowers with yellow exserted flower parts on green stems.]({{ site.baseurl }}/assets/images/species-reviews/antrac_antrac_flowers.jpeg)
+![A close-up photo of clustered small, white flowers with yellow exserted flower parts on green stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/antrac_flowers.jpeg?itok=tbcT66PB)
 
 Photo Credit
 

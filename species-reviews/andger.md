@@ -36,7 +36,7 @@ Uchytil, Ronald J. 1988. _Andropogon gerardii_ , big bluestem. In: Fire Effects 
 
 ## Taxonomy
 
-![A photo of a large bunchgrass in an open woodland with scattered deciduous trees and an understory of low grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-andger_plant.jpg)
+![A photo of a large bunchgrass in an open woodland with scattered deciduous trees and an understory of low grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-andger_plant.jpg?itok=Lb5VMj7Z)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Big bluestem is widespread, occupying all but a few western states, but it is mo
 
 Big bluestem occurs on a variety of sites throughout its range but develops best on fertile silt and clay loam soils of lowlands. Soil moisture seems to be the most important factor determining big bluestem's importance in a community. It develops best on mesic sites in the true prairie and mixed-grass prairie regions. In the mixed-grass prairie where precipitation is limited, it occupies ravines, lower portions of gentle slopes, and well-watered lowlands where the soil moisture content is high due to some surface runoff [3,135]. Along the major rivers and their tributaries in the mixed-grass prairie, big bluestem can comprise up to 90 percent of the vegetation over extensive areas [135]. Here its chief associates are sideoats grama (_Bouteloua curtipendula_), dropseeds (_Sporobolus_ spp.), switchgrass (_Panicum virgatum_), indiangrass (_Sorghastrum nutans_), and Canada wildrye (_Elymus canadensis_). Farther west toward the Rocky Mountains, big bluestem becomes even more dependent upon mesic sites. In the Rocky Mountain foothills of eastern Wyoming, big bluestem was found only on south-facing slopes of steep ravines, and always growing immediately adjacent to large rocks which apparently acted as micro watersheds, substantially increasing the usable soil moisture from summer rains [49].
 
-![A bunchgrass growing in a prairie community with yellow flowers behind and cluster of deciduous trees in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-andger_habitat.jpg)
+![A bunchgrass growing in a prairie community with yellow flowers behind and cluster of deciduous trees in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-andger_habitat.jpg?itok=1QoJofne)
 
 Photo Credit
 

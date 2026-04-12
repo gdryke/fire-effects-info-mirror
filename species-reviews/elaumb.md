@@ -40,7 +40,7 @@ The currently accepted scientific name for autumn-olive is _Elaeagnus umbellata_
 
 Several cultivars have been developed by the U.S. Department of Agriculture, Soil Conservation Service, and distributed for wildlife and other conservation uses (see Importance to Livestock and Wildlife) [1,8,10,23,25,65].
 
-![A photo of the bright green leaves and reddish-orange cluster of fruits along a few branches of autumn-olive.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaumb_plant.jpg)
+![A photo of the bright green leaves and reddish-orange cluster of fruits along a few branches of autumn-olive.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-elaumb_plant.jpg)
 
 Photo Credit
 
@@ -48,7 +48,7 @@ Photo by Jerry Gibson, Deer Park, AL www.invasive.org.
 
 Autumn-olive.
 
-![A photo of a somewhat tree-like, tall, leafy shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaumb_habitat.jpg)
+![A photo of a somewhat tree-like, tall, leafy shrub.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-elaumb_habitat.jpg)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Catling et al. [4] described the following habitats in southern and eastern Onta
 
 ## Botanical Description
 
-![A photo tree-shrub branches with numerous clusters of white flowers and green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaumb_flowering.jpg)
+![A photo tree-shrub branches with numerous clusters of white flowers and green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elaumb_flowering.jpg?itok=iEpA_I0t)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Autumn-olive is open-pollinated [65], often by insects [41].
 
 ### Seed Production
 
-![A photo of a branch of a tree or shrub with numerous clusters of small red berries growing from stems and green leaves growing along branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaumb_fruiting.jpg)
+![A photo of a branch of a tree or shrub with numerous clusters of small red berries growing from stems and green leaves growing along branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elaumb_fruiting.jpg?itok=paw4-R9V)
 
 Photo Credit
 
@@ -200,7 +200,7 @@ Information about autumn-olive and fire is lacking. Research that examines the i
 
 There is some indication that autumn-olive is damaged by fire [37,53]. However, there is no specific information available as of this writing (2003) describing the immediate effects of fire on autumn-olive.
 
-![A photo of a burned forest with charred needles on the forest floor. Brown stems sprout from the base of a narrow, burned tree trunk with several green leaves on the sprouting stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-elaumb_resprout.jpg)
+![A photo of a burned forest with charred needles on the forest floor. Brown stems sprout from the base of a narrow, burned tree trunk with several green leaves on the sprouting stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elaumb_resprout.jpg?itok=cXJqU0Hs)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Howard, Janet L. 1992. _Salsola kali_ , Russian-thistle. In: Fire Effects Inform
 
 ## Image Gallery
 
-![Pile of dried, brown, thorny plants against a blue sky and clouds.]({{ site.baseurl }}/assets/images/species-reviews/feis-salkal_plant.jpg) Dried Russian-thistle plants. _Photo by Doug Doohan, Ohio State University/ OARDC, Bugwood.org._
+![Pile of dried, brown, thorny plants against a blue sky and clouds.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-salkal_plant.jpg) Dried Russian-thistle plants. _Photo by Doug Doohan, Ohio State University/ OARDC, Bugwood.org._
 
 Photo Credit: Photo by Doug Doohan, Ohio State University/ OARDC, Bugwood.org.
 

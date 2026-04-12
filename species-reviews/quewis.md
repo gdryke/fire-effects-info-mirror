@@ -36,7 +36,7 @@ Fryer, Janet L. 2012. _Quercus wislizeni_ , interior live oak. In: Fire Effects 
 
 ## Taxonomy
 
-![A photo of widely spaced deciduous trees with a dry grass understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-quewis_habitat.jpg)
+![A photo of widely spaced deciduous trees with a dry grass understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quewis_habitat.jpg?itok=h6ec9YA9)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ For _Quercus wislizeni_ var. _frutescens_ : scrub interior live oak, dwarf inter
 
 ## Distribution
 
-![A map of the western United States, with an irregular narrow polygon extending through coastal and central California shaded green.]({{ site.baseurl }}/assets/images/species-reviews/feis-quewis_map.jpg)
+![A map of the western United States, with an irregular narrow polygon extending through coastal and central California shaded green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quewis_map.jpg?itok=oRoF76hY)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Interior live oak grows in soils of all textures. Interior live oak-blue oak com
 
 ## Plant Communities
 
-![A photo of a slope covered by deciduous trees to the bottom of the drainage, with irregular cliffs rising on the other side of the drainage.]({{ site.baseurl }}/assets/images/species-reviews/feis-quewis_tablemt.jpg)
+![A photo of a slope covered by deciduous trees to the bottom of the drainage, with irregular cliffs rising on the other side of the drainage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quewis_tablemt.jpg?itok=fGucjPRy)
 
 Photo Credit
 
@@ -174,7 +174,7 @@ See the Fire Regime Table (table A1) for a list of plant communities in which in
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identifying California's oak species are available in these sources: [68,96]. However, identifying oaks is often difficult due to hybridization, and interior live oak hybrids are common. Tucker [199] pointed out that scrub oak hybrids do not "key down" well. Brophy and Parnell [45] provide a key to help identify interior live oak-coast live oak hybrids.
 
-![A photo of a twig with green, spine-toothed leaves and a small, narrow acorn against a white background.]({{ site.baseurl }}/assets/images/species-reviews/feis-quewis_twig.jpg)
+![A photo of a twig with green, spine-toothed leaves and a small, narrow acorn against a white background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quewis_twig.jpg?itok=c_XSvNfD)
 
 Photo Credit
 
@@ -270,7 +270,7 @@ Fire top-kills most interior live oaks [78,83,163]. Low-severity fire causes lit
 
 Interior live oak's thin bark makes young trees susceptible to fire kill. Although the bark of mature trees is still relatively thin and has a high live tissue:dead outer bark ratio [164], mature trees may survive fire without top-kill [88,164]. Plumb and Gomez [164] observed that mature interior live oaks with heavily charred bark suffered no scarring and lost little bark to sloughing. They reported that surface fires rarely burned through to the wood, and repeated fires resulted in a hard, fire-cured bark surface [164]. Haggerty [88], however, reports that fire scars large interior live oaks easily.
 
-![A photo of burned skeletons of small trees or large shrubs and charred ground with short, green grass in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-quewis_daleyranchburn.jpg)
+![A photo of burned skeletons of small trees or large shrubs and charred ground with short, green grass in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quewis_daleyranchburn.jpg?itok=eIUrUF2V)
 
 Photo Credit
 

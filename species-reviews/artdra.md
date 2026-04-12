@@ -34,7 +34,7 @@ Groen, Amy H. 2005. _Artemisia dracunculus_ , tarragon. In: Fire Effects Informa
 
 ## Introduction
 
-![A photo of tarragon growing in front of other dry, shrubby vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-artdra_plant.jpg)
+![A photo of tarragon growing in front of other dry, shrubby vegetation.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-artdra_plant.jpg)
 
 Photo Credit
 
@@ -63,7 +63,7 @@ green sagebrush, silky wormwood, false tarragon
 
 ## General Distribution
 
-![A photo of tarragon growing on dry soil with shrubs behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artdra_habitat.jpg)
+![A photo of tarragon growing on dry soil with shrubs behind.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-artdra_habitat.jpg)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Northwestern United States: In Montana, tarragon is associated with sagebrush-bl
 
 In the southwestern states, tarragon is found in pinyon-juniper (_Pinus-Juniperus_ spp.) woodland and interior ponderosa pine (_Pinus ponderosa_ var. _scopulorum_) forest types [38,39,55,124]. In interior ponderosa pine forests, it occurs with mountain muhly (_Muhlenbergia montana_), western wheatgrass (_Pascopyrum smithii_), and western yarrow (_Achillea millefolium_) [94]. In Arizona it occurs alongside rubber rabbitbrush, Apache-plume (_Fallugia paradoxa_), beardlip penstemon (_Penstemon barbatus_), and common mullein (_Verbascum thapsus_) [39], and has been identified at Oregon Pipe Cactus National Monument [98]. Plant associates in New Mexico include goldenweed (_Pyrrocoma_ spp.), prairie sagebrush (_Artemisia frigida_), tailcup lupine (_Lupinus caudataus_), gayfeather (_Liatris punctata_), alfalfa (_Medicago sativa_), rubber rabbitbrush, sandbar willow (_Salix exigua_), and black greasewood (_Sarcobatus vermiculatus_) [22,37,38]. In southwestern New Mexico, tarragon was present 44 years after cessation of livestock grazing, occurring in the boxelder-Arizona alder (_Acer negundo-Alnus oblongifolia_) community type [84].
 
-![A photo of a flowering tarragon stem with inconspicuous flowers and grassy hills with scattered conifers in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artdra_hero.jpeg)
+![A photo of a flowering tarragon stem with inconspicuous flowers and grassy hills with scattered conifers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-artdra_hero.jpeg?itok=qopEYcAE)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Tarragon in southwestern North Dakota is associated with multiple habitat and co
 
 ## Botanical Description
 
-![A photo of the end of tarragon stems with somewhat inconspicuous flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-artdra_flower.jpg)
+![A photo of the end of tarragon stems with somewhat inconspicuous flowers.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-artdra_flower.jpg)
 
 Photo Credit
 

@@ -75,7 +75,7 @@ Nomenclature for taxa also assigned as varieties of Gardner's saltbush:
 
 Literature cited in this Species Review include these reviews: [65,66,67]. Common names are used throughout this review. See table A1 for a complete list of plant species mentioned.
 
-![A photo of the dried, brown fruits of Gardner's saltbush with dusky green leaves below. Grasses and dry soil are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrgar_fruits.png)
+![A photo of the dried, brown fruits of Gardner's saltbush with dusky green leaves below. Grasses and dry soil are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-atrgar_fruits.png?itok=Y6ZKcn3J)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ saltsage
 
 Gardner's saltbush is distributed from east-central British Columbia [54] east to southwestern Manitoba and south to Colorado (fig. 2) [31,51,103].
 
-![A map of some western U.S. states, with most counties in Wyoming and Montana highlighted green as well as some counties in adjacent states and Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrgar_map.jpg)
+![A map of some western U.S. states, with most counties in Wyoming and Montana highlighted green as well as some counties in adjacent states and Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-atrgar_map.jpg?itok=1-gBVZ6Z)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ In the Big Horn Basin and Pryor Mountains of Montana and in Wyoming, the birdfoo
 
 Gardner's saltbush codominates or is a component of some black greasewood-saltbush communities of Colorado, Montana, and Wyoming [20,70]. In central Montana and the western Great Plains, Gardner's saltbush grows on flats dominated by black greasewood, with associated basin big sagebrush, Wyoming big sagebrush, field sagewort, and/or winterfat [69]. It codominates black greasewood-saltbush communities of the Bighorn Basin [55,64]. Gardner's saltbush is a minor component (<1% cover) of black greasewood communities and big sagebrush-rubber rabbitbrush communities of Bighorn Canyon National Recreation Area [55].
 
-![A photo of a shrub surrounded by dry soil with sagebrush plants dominating behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrgar_biglostriver.png)
+![A photo of a shrub surrounded by dry soil with sagebrush plants dominating behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-atrgar_biglostriver.png?itok=eqXQU3F8)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ See table A2 for a representative list of plant classifications in which Gardner
 
 ## Botanical Description
 
-![A photo of a low shrub with dusky leaves. Fruits grow from brownish stalks, and dry soil with scattered shrubs is visible behind. A mix of dry and vegetated hillsides are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-atrgar_hero.jpeg)
+![A photo of a low shrub with dusky leaves. Fruits grow from brownish stalks, and dry soil with scattered shrubs is visible behind. A mix of dry and vegetated hillsides are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-atrgar_hero.jpeg?itok=EUxKahNX)
 
 Photo Credit
 

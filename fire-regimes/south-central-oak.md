@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South-central oak communities has not yet b
 
 ## Distribution
 
-![A map showing the distribution of south-central oak communities in Texas and adjacent states.]({{ site.baseurl }}/assets/images/fire-regimes/south-central-oak_feis-south_central_oak2_locator.jpg)
+![A map showing the distribution of south-central oak communities in Texas and adjacent states.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-south_central_oak2_locator.jpg?itok=ThxZErbd)
 
 Photo Credit
 

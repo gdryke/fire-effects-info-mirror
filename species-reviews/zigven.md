@@ -34,7 +34,7 @@ Hauser, A. Scott. 2006. _Zigadenus venenosus_ , meadow deathcamas. In: Fire Effe
 
 ## Image Gallery
 
-![Photo of meadow deathcamas plants in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-zigven_plant_hero.jpeg) Meadow deathcamas. _Photo by Julia Carr, iNaturalist.org, no rights reserved._
+![Photo of meadow deathcamas plants in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-zigven_plant_hero.jpeg) Meadow deathcamas. _Photo by Julia Carr, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Julia Carr, iNaturalist.org, no rights reserved.
 
@@ -108,7 +108,7 @@ Meadow deathcamas is not listed as a dominant or codominant species in published
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [14,22,29,50,51,59,74,83,84,92,114,117]).
 
-![Photo of meadow deathcamas plants in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-zigven_plant_hero.jpeg)
+![Photo of meadow deathcamas plants in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-zigven_plant_hero.jpeg?itok=EtKRbwZQ)
 
 Photo Credit
 

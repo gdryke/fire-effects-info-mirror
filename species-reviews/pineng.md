@@ -104,7 +104,7 @@ Needles remain on Apache pine for 2 years. Seed production requires 2 years [25]
 
 ## Regeneration Processes
 
-![A photo of two pine seedlings growing out of rocky ground. The seedlings have long, drooping needles growing along the entire stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-pineng_seedlings.jpg)
+![A photo of two pine seedlings growing out of rocky ground. The seedlings have long, drooping needles growing along the entire stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pineng_seedlings.jpg?itok=Pf1qZaan)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ The successional status of Apache pine depends on location and associated specie
 
 ## Immediate Fire Effects
 
-![A photo of a stand of pine trees on a hillside with dark, burned trunks and pale green needles. The ground is bare and rocky.]({{ site.baseurl }}/assets/images/species-reviews/feis-pineng_burnedstand.jpg)
+![A photo of a stand of pine trees on a hillside with dark, burned trunks and pale green needles. The ground is bare and rocky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pineng_burnedstand.jpg?itok=MW-t0gMQ)
 
 Photo Credit
 

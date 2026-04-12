@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for intermountain basins juniper communities ha
 
 ## Distribution
 
-![Image of a map of the western United States showing a scattering of juniper communities scattered throughout the Rocky Mountain states.]({{ site.baseurl }}/assets/images/fire-regimes/intermountain-basins-juniper_feis-IntermountainBasinsJuniper_FRR_map.jpg)
+![Image of a map of the western United States showing a scattering of juniper communities scattered throughout the Rocky Mountain states.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-IntermountainBasinsJuniper_FRR_map.jpg?itok=ibvhWyNo)
 
 Photo Credit
 

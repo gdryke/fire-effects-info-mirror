@@ -55,7 +55,7 @@ marsh muhly
 
 ## General Distribution
 
-![A map of the United States and Canada, with U.S. counties highlighted a variety of different colors, mostly in northern states, and blue dots throughout much of Canada, especially in the south.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhglo_map1.jpg)
+![A map of the United States and Canada, with U.S. counties highlighted a variety of different colors, mostly in northern states, and blue dots throughout much of Canada, especially in the south.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhglo_map1.jpg?itok=1hW5IAGD)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Spiked muhly typically occurs in relatively undisturbed sites (e.g., [6,8,38,44,
 
 Spiked muhly typically occurs in herbaceous-dominated communities in wetlands and riparian areas. It is characteristic of open fens and alvar grasslands, where it typically has relatively low cover and is rarely a community dominant. Exceptions include the wiregrass sedge-tufted bulrush-needle beaksedge/bog rosemary (_Carex lasiocarpa-Trichophorum cespitosum-Rhynchospora capillacea_ /_Andromeda polifolia_ var. _glaucophylla_) herbaceous vegetation type that occurs in northern Minnesota, Manitoba, and northern Ontario, and Iowa fens where spiked muhly may be a community dominant. The vegetation is dominated by an open graminoid layer of sedge and rush species including spiked muhly [69]. Spiked muhly was a dominant species in 2 plant communities described from Iowa fens. One was the most commonly encoutered Iowa fen mat vegetation, which was dominated by purplestem aster (_Symphyotrichum puniceum_ var. _puniceum_), American water horehound (_Lycopus americanus_), spiked muhly, northern bog violet (_Viola nephrophylla_), and fourflower yellow loosestrife (_Lysimachia quadriflora_). The other was dominated by species requiring both relatively high moisture levels and calcareous conditions such as spiked muhly, fen grass of Parnassus (_Parnassia glauca_), elliptic spikerush (_Eleocharis elliptica_), needle beaksedge, and Ontario lobelia (_Lobelia kalmii_) [52].
 
-[![A photo of a dark, compact grass panicle in front of a grassy field with yellow flowers below blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhglo_plant2.jpeg)Photo Credit Photo by Nate Martineau, iNaturalist (CC BY 4.0). Spiked muhly growing in Wisconsin.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a dark, compact grass panicle in front of a grassy field with yellow flowers below blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhglo_plant2.jpeg?itok=laiL6s9-)Photo Credit Photo by Nate Martineau, iNaturalist (CC BY 4.0). Spiked muhly growing in Wisconsin.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Great Lakes
 
@@ -145,7 +145,7 @@ Along streams in Idaho, spiked muhly sometimes occurs in early- to midseral stan
 
 ## Botanical Description
 
-![A photo of several reproductive grass stems with other grasses and forbs behind, and dark trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/muhglo_feis-plant1_0.jpg)
+![A photo of several reproductive grass stems with other grasses and forbs behind, and dark trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plant1_0.jpg?itok=9GOmFZvp)
 
 Photo Credit
 

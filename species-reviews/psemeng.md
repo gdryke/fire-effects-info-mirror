@@ -40,7 +40,7 @@ The currently accepted scientific name of Douglas-fir is _Pseudotsuga menziesii_
 
 Information presented in this species summary pertains to Rocky Mountain Douglas-fir, and the variety will be referred to by its full common name. When information pertains to the species as a whole, the common name Douglas-fir is used.
 
-![A photo of part of a conifer, with blue-green, short, flat needles. Small cones \(pollen cones\) are clustered irregularly along the underside of twigs and a few larger cones \(seed cones\) grow on a few twigs.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemeng_plant.jpeg)
+![A photo of part of a conifer, with blue-green, short, flat needles. Small cones \(pollen cones\) are clustered irregularly along the underside of twigs and a few larger cones \(seed cones\) grow on a few twigs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-psemeng_plant.jpeg?itok=PglKyqZD)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ Riparian woodlands in the mountains of western Colorado are dominated by white f
 
 **Utah**
 
-![A photo of a conifer growing near a the edge of a ledge, overlooking reddish, conifer-covered cliffs.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemeng_habitat.jpeg)
+![A photo of a conifer growing near a the edge of a ledge, overlooking reddish, conifer-covered cliffs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-psemeng_habitat.jpeg?itok=F1jzH6nP)
 
 Photo Credit
 
@@ -237,7 +237,7 @@ Rocky Mountain Douglas-fir is monoecious [53].
 
 Pollen cones are typically restricted to or more abundant on lower branches. Pollen cones develop over 1 year and wind-dispersed pollen is released for several weeks in the spring [11].
 
-![A photo of the end of a conifer branch with relatively short, flat needles and dangling small, golden cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemeng_malecones.jpg)
+![A photo of the end of a conifer branch with relatively short, flat needles and dangling small, golden cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-psemeng_malecones.jpg?itok=aS1uixK3)
 
 Photo Credit
 
@@ -245,7 +245,7 @@ Photo by Christopher J. Earle, iNaturalist.org, some rights reserved.
 
 Rocky Mountain Douglas-fir male cones ([CC BY-NC 4.0](<https://creativecommons.org/licenses/by-nc/4.0/>)).
 
-![A photo of a conifer branch with relatively short, flat needles and a green, leafy-looking cone.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemeng_femalecones.jpg)
+![A photo of a conifer branch with relatively short, flat needles and a green, leafy-looking cone.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-psemeng_femalecones.jpg?itok=Wv5cj4m_)
 
 Photo Credit
 
@@ -556,7 +556,7 @@ mountain hemlock*| _Tsuga mertensiana_| 35 to > 200 [17]
 
 ### Prescribed Burning
 
-![A photo of a charred tree trunk with flames on the ground and coming from the side of the trunk. Tree trunks behind are silhouetted in smoke.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemeng_rx.jpg)
+![A photo of a charred tree trunk with flames on the ground and coming from the side of the trunk. Tree trunks behind are silhouetted in smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-psemeng_rx.jpg?itok=WK05lmHx)
 
 Photo Credit
 

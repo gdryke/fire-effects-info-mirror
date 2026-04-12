@@ -63,7 +63,7 @@ Northern pin oak has a limited range; it is largely confined to the middle and w
 
 ## Site Characteristics
 
-![A photo of a hillside trail with a round, green tree on the edge of the trail. On the downhill side of the trail are grasses and shrubs, and on the uphill side are trees. ]({{ site.baseurl }}/assets/images/species-reviews/feis-queell_habitat.jpeg)
+![A photo of a hillside trail with a round, green tree on the edge of the trail. On the downhill side of the trail are grasses and shrubs, and on the uphill side are trees. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-queell_habitat.jpeg?itok=EVKaeKz6)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Northern pin oak is a small to medium-sized, native, deciduous tree, typically r
 
 ## Seasonal Development
 
-![A close up photo of an oak tree branch with large, divided, red and orange leaves. There are more blurry trees in fall color in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-queell_foliage.jpeg)
+![A close up photo of an oak tree branch with large, divided, red and orange leaves. There are more blurry trees in fall color in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-queell_foliage.jpeg?itok=nkMMzo48)
 
 Photo Credit
 

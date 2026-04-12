@@ -34,7 +34,7 @@ Griffith, Randy Scott. 1991. _Fraxinus americana_ , white ash. In: Fire Effects 
 
 ## Image Gallery
 
-![A leafy branch with pointed green leaves hangs over water covered in green algae.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraame_plant.jpg) White ash along a stream bank. _Creative Commons photo by Michael J. Papay, iNaturalist.org._
+![A leafy branch with pointed green leaves hangs over water covered in green algae.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-fraame_plant.jpg) White ash along a stream bank. _Creative Commons photo by Michael J. Papay, iNaturalist.org._
 
 Photo Credit: Creative Commons photo by Michael J. Papay, iNaturalist.org.
 
@@ -70,7 +70,7 @@ White ash inhabits eastern North America. It occurs from Nova Scotia west to eas
 
 ## Site Characteristics
 
-![A leafy branch with pointed green leaves hangs over water covered in green algae.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraame_plant.jpg)
+![A leafy branch with pointed green leaves hangs over water covered in green algae.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fraame_plant.jpg?itok=OKP9crp2)
 
 Photo Credit
 

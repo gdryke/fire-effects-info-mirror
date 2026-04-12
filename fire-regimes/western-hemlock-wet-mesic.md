@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for wet-mesic western hemlock communities has n
 
 ## Distribution
 
-![A map showing the distribution of wet-mesic western hemlock communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/western-hemlock-wet-mesic_feis-western_hemlock_wet_mesic_locator.jpg)
+![A map showing the distribution of wet-mesic western hemlock communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-western_hemlock_wet_mesic_locator.jpg?itok=dfSExioc)
 
 Photo Credit
 

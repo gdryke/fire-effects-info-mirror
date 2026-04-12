@@ -34,7 +34,7 @@ Tirmenstein, D. 1999. _Artemisia tridentata_ subsp. _tridentata_ , basin big sag
 
 ## Image Gallery
 
-![Photo of big sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttrit_plant.jpg) Big sagebrush _Howard F. Schwartz, Colorado State University, Bugwood.org_
+![Photo of big sagebrush.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-arttrit_plant.jpg) Big sagebrush _Howard F. Schwartz, Colorado State University, Bugwood.org_
 
 Photo Credit: Howard F. Schwartz, Colorado State University, Bugwood.org
 
@@ -117,7 +117,7 @@ Grassland and shrubland habitat types of western Montana [76]
 
 ## Botanical Description
 
-![Photo of big sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttrit_plant.jpg)
+![Photo of big sagebrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-arttrit_plant.jpg?itok=TKLDN56M)
 
 Photo Credit
 

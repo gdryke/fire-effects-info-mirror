@@ -197,7 +197,7 @@ Woods' rose is described as a dominant species in the following locations and ve
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g. [4,58,90,92,110,111,124,135,136,168,169,181,203,223,225,238]).
 
-![Photo of a rose branch with many green leaves and pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-roswoo_plant.jpg)
+![Photo of a rose branch with many green leaves and pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-roswoo_plant.jpg?itok=6NJ6hPA0)
 
 Photo Credit
 
@@ -240,7 +240,7 @@ In the northern Great Plains near Woodsworth, North Dakota, Woods' rose earliest
 
 Woods' rose regenerates via seeds and vegetatively from the root crown [95,116,227,236], by root suckering [78], and layering [236].
 
-![Photo of woods' rose having red rose hips.]({{ site.baseurl }}/assets/images/species-reviews/feis-roswoo_hips.jpg)
+![Photo of woods' rose having red rose hips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-roswoo_hips.jpg?itok=h2fnpe3c)
 
 Photo Credit
 
@@ -320,7 +320,7 @@ Sometime from 1920 to 1925 a massive subalpine earthflow occurred in the East Ri
 
 ## Immediate Fire Effects
 
-![Photo of rose bud growing on a leafy stem adjacent to a lake with a charred forest in the far background.]({{ site.baseurl }}/assets/images/species-reviews/feis-roswoo_burn.jpg)
+![Photo of rose bud growing on a leafy stem adjacent to a lake with a charred forest in the far background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-roswoo_burn.jpg?itok=3M7lVrCn)
 
 Photo Credit
 

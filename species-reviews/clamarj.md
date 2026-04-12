@@ -53,7 +53,7 @@ Jamaica sawgrass, sawgrass
 
 Jamaica swamp sawgrass is most extensive in southern Florida, but it occurs in all the southeastern Coast States and Gulf States. Its range extends from coastal Virginia to Florida and west to southeastern Texas. It is also native to Puerto Rico and the West Indies. An outlying population grows in Guadalupe Mountains National Park, Texas [10,29]. Jamaica swamp sawgrass is also native to Hawaii [31].
 
-![A map of the southern part of the U.S., with coastal southern states highlighted, as well as a few others.]({{ site.baseurl }}/assets/images/species-reviews/clamarj_clamarj_distribution_coterm.jpg)
+![A map of the southern part of the U.S., with coastal southern states highlighted, as well as a few others.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/clamarj_distribution_coterm.jpg?itok=L6XJtB14)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Distribution of Jamaica swamp sawgrass in the coterminous United States.
 
-![The state of Hawaii, highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/clamarj_clamarj_distribution_hi.jpg)
+![The state of Hawaii, highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/clamarj_distribution_hi.jpg?itok=PlZO72i_)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Distribution of Jamaica swamp sawgrass in Hawaii.
 
-![A map of Puerto Rico with some municipalities highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/clamarj_clamarj_distribution_pr.jpg)
+![A map of Puerto Rico with some municipalities highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/clamarj_distribution_pr.jpg?itok=gemUA6d1)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Louisiana, southeast| Marshland veg. cts| Penfound & Hathaway 1938
  
 Loveless [15] found that the Jamaica swamp sawgrass-arrowhead-maidencane community type was the most extensive in the Everglades and covered vast areas of marsh. Common associates in Jamaica swamp sawgrass-dominated freshwater marshes in southeastern Louisiana include cattail (_Typha angustifolia_ , _T. latifilia_) and giant bulrush (_Scirpus californicus_) [29].
 
-![A view of a march with brownish water and green vegetation that all appears to be similar in height.]({{ site.baseurl }}/assets/images/species-reviews/clamarj_clamarj_kawainuimarsh.jpg)
+![A view of a march with brownish water and green vegetation that all appears to be similar in height.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/clamarj_kawainuimarsh.jpg?itok=oy2RGgs_)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Jamaica swamp sawgrass dominates the Kawainui Marsh, Oahu, HI.
 
 Jamaica swamp sawgrass is a coarse, rhizomatous, perennial sedge. The flat 0.5-inch-wide (1.2 cm) leaves have saw-toothed margins, and are seldom less than 3 feet (1 m) long, and typically 6 to 10 feet (2-3 m) long [8]. Jamaica swamp sawgrass often grows in dense, nearly monospecific stands which result from an extensive network of rhizomes. Apical meristems arise from the top of the rhizomes. In the Everglades, Yates [28] found that rhizomes were generally within the top 4 inches (10 cm) in marl soil, and within the top 6 to 8 inches (15-20 cm) of peat soil. On permanently flooded sites Jamaica swamp sawgrass forms tussocks and the roots and rhizomes grow above the sediment surface [28].
 
-[![A picture of grasses with reddish brown reproductive parts.]({{ site.baseurl }}/assets/images/species-reviews/clamarj_clamarj_plant.jpeg)Photo Credit Photo by Robbie, iNaturalist (CC BY 4.0). Jamaica swamp sawgrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A picture of grasses with reddish brown reproductive parts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/clamarj_plant.jpeg?itok=I1P39YOR)Photo Credit Photo by Robbie, iNaturalist (CC BY 4.0). Jamaica swamp sawgrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

@@ -156,7 +156,7 @@ dwarf shrub bogs, highbush blueberry bogs, maritime heathlands, dwarf pine plain
 
 ## Botanical and Ecological Characteristics
 
-![Photo showing pink black huckleberry flowers on branch tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-gaybac_flower.jpg)
+![Photo showing pink black huckleberry flowers on branch tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-gaybac_flower.jpg?itok=F0l3FUMT)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 **Aboveground description:** Black huckleberry is a low-growing, freely branched, deciduous shrub. It is rigid and erect, generally growing to 3 feet (1 m) tall. Shrubs are often found in clumps due to dense clonal spread [22,34,54,110,117,121,125,131]. Site conditions can affect the growth form. Black huckleberry shrubs grown in the shade are typically taller and more open, while those in open conditions are often shorter and more compact [112].
 
-![Photo of black huckleberry branch with black and immature red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-gaybac_hero.jpeg)
+![Photo of black huckleberry branch with black and immature red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-gaybac_hero.jpeg?itok=6YUA5J4f)
 
 Photo Credit
 

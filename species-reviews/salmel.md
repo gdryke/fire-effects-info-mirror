@@ -52,7 +52,7 @@ None
 
 ## General Distribution
 
-![A map of California with counties in the southern half of the state highlighted where black sage occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-salmel_map.jpg)
+![A map of California with counties in the southern half of the state highlighted where black sage occurs.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2025-09/feis-salmel_map.jpg?itok=kuiXIKrO)
 
 Black sage is distributed in the Coast Ranges of California from Contra Costa and western Stanislaus counties southward into Baja California [5,40]. It also occurs on the Channel Islands off the coast of southern California [5,35].
 
@@ -67,7 +67,7 @@ Black sage typically occurs at low elevations on the coastal and inland sides of
 
 ## Plant Communities
 
-![A photo of a shrub with many upright stems and white flowers growing in front of an open landscape of dry, rolling hills.]({{ site.baseurl }}/assets/images/species-reviews/feis-salmel_habitat.jpeg)
+![A photo of a shrub with many upright stems and white flowers growing in front of an open landscape of dry, rolling hills.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salmel_habitat.jpeg?itok=ARKMIL_K)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Common associates include [12,15,28,51,54]:
 
 ## Botanical Description
 
-![A close up photo of a straight, vertical stalk with clusters of white flowers growing at even intervals on the stalk.]({{ site.baseurl }}/assets/images/species-reviews/feis-salmel_flower.jpg)
+![A close up photo of a straight, vertical stalk with clusters of white flowers growing at even intervals on the stalk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salmel_flower.jpg?itok=cXPZkI_g)
 
 Photo Credit
 

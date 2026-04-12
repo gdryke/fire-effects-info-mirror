@@ -66,7 +66,7 @@ None
 
 Chuck-will’s-widows are native to North America, Central America, South America, and the West Indies [69,82] (fig. 2). They are generally migratory; however, year-round residents occur along the Gulf Coastal Plain from Texas to Florida. Breeding populations occur in the southeastern United States, and wintering populations occur in southern Texas, Central America, South America, and the West Indies [14,82].
 
-![The distsirbution of chuck-will's-widows. Orange indicates the breeding range in the southeastern United States. Blue indicates the winter range in Mexico, Central America, and northern South America. Purple indicates the year-round range in southern Florida.]({{ site.baseurl }}/assets/images/species-reviews/anco_feis-rangemap.jpg)
+![The distsirbution of chuck-will's-widows. Orange indicates the breeding range in the southeastern United States. Blue indicates the winter range in Mexico, Central America, and northern South America. Purple indicates the year-round range in southern Florida.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-rangemap.jpg?itok=xYZhJFtB)
 
 Photo Credit
 
@@ -157,7 +157,7 @@ Chuck-will’s-widows are aerial insectivores that forage only during twilight a
 
 The chuck-will’s-widow is the largest nightjar in North America [117]. Overall adult body lengths range from 28 to 32 cm, wingspans range from 20.0 to 22.5 cm, and tails range from 12.8 to 15.1 cm long [26,117]. Adults weigh from 66 to 188 g [26,69,77,89,103,117]. The size of males and females overlap, although males tend to be larger [117]. The head and eyes of chuck-will’s-widows are large, and its bill is small with an enormous gape that can consume large-bodied flying insects, their primary prey [58,131].
 
-![Chuck-will's-widow camouflaged on a branch.]({{ site.baseurl }}/assets/images/species-reviews/anco_feis-roosting.jpg)
+![Chuck-will's-widow camouflaged on a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-roosting.jpg?itok=WFQEhDQ0)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Chuck-will’s-widows are sometimes killed by collisions with vehicles, televisi
 
 Chuck-will’s-widows lay their two-egg clutch directly on leaf litter on the forest floor (fig. 4). Both males and females incubate eggs, but only females brood chicks. Chicks are semiprecocial [117].
 
-![Two spotted chuck-will's-widow's eggs laying on leaf litter and sticks on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/anco_nest.jpg)
+![Two spotted chuck-will's-widow's eggs laying on leaf litter and sticks on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/nest.jpg?itok=0XrpllD1)
 
 Photo Credit
 
@@ -360,7 +360,7 @@ As of 2021, the chuck-will’s-widow is a bird of conservation concern in the fo
 
 ### NatureServe Status
 
-![Conservation status of chuck-will's-widows in the United States. It is critically imperiled in 5 states, vulnerable in 7 states, apparently secure in 10 states, and secure in 3 states.]({{ site.baseurl }}/assets/images/species-reviews/anco_feis-natureserve_status.jpg)
+![Conservation status of chuck-will's-widows in the United States. It is critically imperiled in 5 states, vulnerable in 7 states, apparently secure in 10 states, and secure in 3 states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-02/feis-natureserve_status.jpg?itok=0y-uaY3N)
 
 Photo Credit
 

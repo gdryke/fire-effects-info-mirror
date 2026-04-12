@@ -34,7 +34,7 @@ Coladonato, Milo. 1992. _Callicarpa americana_ , American beautyberry. In: Fire 
 
 ## Introduction
 
-![Photo of fruit of American beautyberry.]({{ site.baseurl }}/assets/images/species-reviews/calame_feis-fruits_calame.jpg)
+![Photo of fruit of American beautyberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fruits_calame.jpg?itok=j_PqRLoR)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Common overstory associates of American beautyberry include sweetgum (_Liquidamb
 
 ## Botanical Description
 
-![Photo of American beautyberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-calame_plant.jpg)
+![Photo of American beautyberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-calame_plant.jpg?itok=mFEw4jyO)
 
 Photo Credit
 

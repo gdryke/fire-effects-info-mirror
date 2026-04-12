@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for oak-gum communities has not yet been publis
 
 ## Distribution
 
-![A map showing the distribution of oak-gum communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/oak-gum_feis-oak_gum_locator.jpg)
+![A map showing the distribution of oak-gum communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-oak_gum_locator.jpg?itok=oeAgUymr)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Hauser, A. Scott. 2006. _Distichlis spicata_ , saltgrass. In: Fire Effects Infor
 
 ## Introduction
 
-![A photo of a golden and green grass stem with a reproductive spike and several leaves along the stem. Dense grasses grow behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-disspi_plant.jpg)
+![A photo of a golden and green grass stem with a reproductive spike and several leaves along the stem. Dense grasses grow behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-disspi_plant.jpg?itok=LvpKEuPW)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Saltgrass is distributed widely across North America. It occurs from Mexico [200
  * Canada: AB BC MB NT ON PE PQ SK
  * Mexico: BCN BCS Coah Mex
 
-![A photo of a flat, beachy area with low grass growing in sand. The beach is mostly sandy to the left side of the photo, almost complete cover of grass towards the right side of the background, with wet sand with some standing water and a sliver of the ocean visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-disspi_habitat2.jpg)
+![A photo of a flat, beachy area with low grass growing in sand. The beach is mostly sandy to the left side of the photo, almost complete cover of grass towards the right side of the background, with wet sand with some standing water and a sliver of the ocean visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-disspi_habitat2.jpg?itok=jl7i3NCN)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ Saskatchewan| 1,800 to 3,800 feet [162]
  
 ### Environmental Adaptations
 
-![A photo of a grass with dried leaves partway up the stem and green leaves at the ends. The soil has a visible crust of salt.]({{ site.baseurl }}/assets/images/species-reviews/feis-disspi_habitat.jpg)
+![A photo of a grass with dried leaves partway up the stem and green leaves at the ends. The soil has a visible crust of salt.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-disspi_habitat.jpg?itok=lvVGnFIX)
 
 Photo Credit
 
@@ -414,7 +414,7 @@ Saskatchewan:
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [35,60,70,80,89,90,93,130,131,133,137,148,156,176,186,190,211,226,231,255,330,338,347,348].
 
-![A photo of green and golden grasses with straight, somewhat spiky-looking leaves growing close together on stems with somewhat drooping reproductive spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-disspi_plants.jpg)
+![A photo of green and golden grasses with straight, somewhat spiky-looking leaves growing close together on stems with somewhat drooping reproductive spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-disspi_plants.jpg?itok=1DmoeMZO)
 
 Photo Credit
 
@@ -424,7 +424,7 @@ Saltgrass growing in Union County, New Mexico.
 
 Saltgrass is a warm-season, sod-forming, low-growing, native perennial [6,21,22,64,70,133,170,176,185,231]. At maturity, saltgrass grows to a height of 6 to 18 inches (15-45 cm) [161,175,251,318], but generally does not grow taller than 12 inches (30 cm) [206], particularly when in dense colonies [131]. In pure stands, saltgrass is extremely dense. Tolstead [312] observed 2,616 saltgrass stems/3 foot² along the shore of Clear Lake in the Nebraska sandhills. When found in "hypersaline" areas, saltgrass may grow in a dwarfed form [98,260,321]. Saltgrass grows in a dwarfed form on soil with salinity levels as high as 8.1% around Stink and Bitter lakes, South Dakota [321,322].
 
-![A photo of the reproductive spike of a grass, with many spikelets comprised of awnless seeds.]({{ site.baseurl }}/assets/images/species-reviews/feis-disspi_repro.jpg)
+![A photo of the reproductive spike of a grass, with many spikelets comprised of awnless seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-disspi_repro.jpg?itok=fBEEQZ_a)
 
 Photo Credit
 
@@ -598,7 +598,7 @@ In a salt marsh of Little Salt Lake, Utah, saltgrass rhizomes extend from favora
 
 Fire top-kills saltgrass. The seeds and rhizomes generally survive fire [287,289,290].
 
-![A photo of a grassland with the right side unburned and the right side recently burned, with charred stems of grasses remaining.]({{ site.baseurl }}/assets/images/species-reviews/feis-disspi_burn.jpeg)
+![A photo of a grassland with the right side unburned and the right side recently burned, with charred stems of grasses remaining.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-disspi_burn.jpeg?itok=j1AJ2bTk)
 
 Photo Credit
 

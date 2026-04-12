@@ -36,7 +36,7 @@ Hauser, A. Scott. 2007. _Arctostaphylos patula_ , greenleaf manzanita. In: Fire 
 
 ## Taxonomy
 
-![Photo a large clump of shrubs growing adjacent to conifer trees.]({{ site.baseurl }}/assets/images/species-reviews/arcpat_feis-plant1_arcpat.jpg)
+![Photo a large clump of shrubs growing adjacent to conifer trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-plant1_arcpat.jpg?itok=VzT2LsIb)
 
 Photo Credit
 
@@ -158,7 +158,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 ### Aboveground Description
 
-![Close-up photo of a leafy green shrub with narrow branches and clusters of pink, bell-shaped flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcpat_flower.jpg)
+![Close-up photo of a leafy green shrub with narrow branches and clusters of pink, bell-shaped flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-arcpat_flower.jpg?itok=BA06UMCo)
 
 Photo Credit
 
@@ -212,7 +212,7 @@ Greenleaf manzanita phenological development in central Oregon.Date| Development
 
 Greenleaf manzanita regenerates from seeds [59,62,94,99,120,149,167,188], layering [24,90,94,98,106,113,140,141], and in the Sierra Nevada and southwestern Oregon, sprouting from the lignotuber [59,62,80,89,93,94,98,99,149,188].
 
-![Close-up photo of a leafy green shrub with oval leaves and small, pink and yellow fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcpat_berries.jpeg)
+![Close-up photo of a leafy green shrub with oval leaves and small, pink and yellow fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-arcpat_berries.jpeg?itok=R3H26rSS)
 
 Photo Credit
 
@@ -331,7 +331,7 @@ Greenleaf manzanita establishes after fire by seed [11,31,84,112,135,137,161,179
 
 ## Plant Response to Fire
 
-![Photo of three small seedlings emerging from a blackened soil that is mostly covered by brown pine needles.]({{ site.baseurl }}/assets/images/species-reviews/arcpat_feis-seedlings1_arcpat.jpg)
+![Photo of three small seedlings emerging from a blackened soil that is mostly covered by brown pine needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seedlings1_arcpat.jpg?itok=UF2D2KLx)
 
 Photo Credit
 

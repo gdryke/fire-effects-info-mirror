@@ -66,7 +66,7 @@ Ord's kangaroo rats occur in communities on sandy soils including semiarid grass
 
 ## Biological Characteristics
 
-![A photo of a small, tan rodent with a long tail and large feet sitting in sand.]({{ site.baseurl }}/assets/images/species-reviews/feis-dior_portrait.jpg)
+![A photo of a small, tan rodent with a long tail and large feet sitting in sand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dior_portrait.jpg?itok=GmZmmJVk)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Ord's kangaroo rats occur mainly in semiarid, open habitats. In Nevada they were
 
 Removal experiments to establish single species populations of kangaroo rats were unsuccessful since many kangaroo rats are transient and quickly occupy vacated habitats [32]. Only one adult occupies a given burrow system, except for a brief period during breeding activity. There is little territoriality above ground except near the burrow entrance, which is defended [8]. Home Range: In New Mexico Ord's kangaroo rat annual home ranges in mesquite averaged 3.35 acres (1.36 ha) [11]. In Nevada sagebrush/grassland Ord's kangaroo rat home ranges were estimated to be 1.53 acres (0.62 ha) by the circular method and 1.06 acres (0.43 ha) by the principal component method. Home range movements increased through spring and again in late fall and early winter. There was no significant difference between male and female Ord's kangaroo rat home ranges; however, female home ranges decreased during reproductive periods [26]. Recapture data for Ord's kangaroo rats in Arizona indicate that they do not travel far from the home range; most Ord's kangaroo rats were recaptured within 165 feet (50 m) of the original capture site. Data on the lifetime movements of individuals indicated that most were recaptured within 330 feet (100 m) of the original capture site [6].
 
-![A photo of a sand shrub habitat with a hole between two small shrubs. Small paw prints lead up to the hole.]({{ site.baseurl }}/assets/images/species-reviews/feis-dior_burrow.jpg)
+![A photo of a sand shrub habitat with a hole between two small shrubs. Small paw prints lead up to the hole.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dior_burrow.jpg?itok=OcFyk-AZ)
 
 Photo Credit
 

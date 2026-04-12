@@ -43,7 +43,7 @@ The genus name of bedstraw is _Galium_ L. (Rubiaceae) [91,92,117,129,131,275]. T
 
 In accordance with current taxonomic views, no infrataxa are recognized for either northern bedstraw or fragrant bedstraw in this review [131,269]. However, some systematists recognize subspecies of northern bedstraw [115]. Throughout this review, bedstraw will refer to both of the above species. When referring to any species individually, the common names listed above will be used.
 
-![A photo of a green, bushy forb.]({{ site.baseurl }}/assets/images/species-reviews/feis-galspp_habitat.jpg)
+![A photo of a green, bushy forb.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galspp_habitat.jpg?itok=JeS34wWS)
 
 Photo Credit
 
@@ -51,7 +51,7 @@ Photo © 2004 Dr. Virginia Kline, University of Wisconsin Arboretum.
 
 Northern bedstraw.
 
-![A photo of a forb with whorls of green leaves and somewhat scraggly stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-galspp_plant.jpg)
+![A photo of a forb with whorls of green leaves and somewhat scraggly stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galspp_plant.jpg?itok=Vm8oNE_D)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Distributional maps of bedstraw and the 2 individual species are accessible thro
 
 Bedstraw occupies a diversity of moist sites [59]. Woodlands, prairies, meadows, riparian areas, and swamps are all potential bedstraw habitats [92,172,275].
 
-![A photo of a square stem with evenly spaced whorls of green leaves and short stalks with small white flowers at their ends.]({{ site.baseurl }}/assets/images/species-reviews/feis-galspp_hero.jpg)
+![A photo of a square stem with evenly spaced whorls of green leaves and short stalks with small white flowers at their ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galspp_hero.jpg?itok=0rdQzbYK)
 
 Photo Credit
 
@@ -295,7 +295,7 @@ Bedstraw is a native perennial forb. Square stems and whorled leaves are charact
 
 **Northern bedstraw:** Northern bedstraw grows more erect than fragrant bedstraw and is often between 7.9 and 31.5 inches (20-80 cm) tall. The multiple stems are mostly glabrous. Leaves are in whorls of 4 and measure 0.4 to 2.6 inches (1-6.5 cm) long by 2 to 12 mm wide [59,91,92,118]. Northern bedstraw's rhizomes are considered well developed. Fruits are typically 2 mm in diameter and glabrous to inconspicuously hairy [92]. If hairs are present, they are short and without hooks [38,59,118]. Stevens [252] reports that 1,000 seeds weigh 0.6 g.
 
-![A photo of a hairy green fruit at the end of a narrow, square stem, comprised of two oval-shaped halves.]({{ site.baseurl }}/assets/images/species-reviews/feis-galspp_fruit.jpg)
+![A photo of a hairy green fruit at the end of a narrow, square stem, comprised of two oval-shaped halves.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-galspp_fruit.jpg)
 
 Photo Credit
 
@@ -305,7 +305,7 @@ Northern bedstraw fruits.
 
 **Fragrant bedstraw:** Fragrant bedstraw is similar in size to northern bedstraw, but this species has weak branches that give rise to a scrambling or prostrate growth form. On the lower portion of the plant, hooked hairs concentrate at the stem angles [91,92]. Leaves are most often in whorls of 5 to 6 [59,118], but whorls of 4 are also possible [92]. Leaves measure 0.6 to 2.6 inches (1.5-6 cm) long by 4 to 15 mm wide and smell of vanilla [59,92,118]. Rhizomes are slender [92]. Seeds are coated with dense hooked hairs and are typically 1.5 to 2.2 mm in diameter [59,92,118].
 
-![A photo of a green fruit growing at the end of a narrow stem, comprised of two round halves covered in hooked hairs.]({{ site.baseurl }}/assets/images/species-reviews/feis-galspp_trifruit.jpg)
+![A photo of a green fruit growing at the end of a narrow stem, comprised of two round halves covered in hooked hairs.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-galspp_trifruit.jpg)
 
 Photo Credit
 

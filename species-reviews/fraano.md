@@ -34,7 +34,7 @@ Reed, William R. 1993. _Fraxinus anomala_ , singleleaf ash. In: Fire Effects Inf
 
 ## Image Gallery
 
-![A photo of a plant with round yellow leaves growing directly out of a crack in a red rock canyon wall.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraano_habitat.jpg) Singleleaf ash growing from a canyon wall, Kane County, Utah.(CC BY-NC 4.0) _Photo by Phonsavanh Jo Bangphraxay, iNaturalist.org, some rights reserved._
+![A photo of a plant with round yellow leaves growing directly out of a crack in a red rock canyon wall.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-fraano_habitat.jpg) Singleleaf ash growing from a canyon wall, Kane County, Utah.(CC BY-NC 4.0) _Photo by Phonsavanh Jo Bangphraxay, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Phonsavanh Jo Bangphraxay, iNaturalist.org, some rights reserved.
 
@@ -70,7 +70,7 @@ Singleleaf ash is found predominantly in the southwestern United States. It occu
 
 ## Site Characteristics
 
-![A photo of a plant with round yellow leaves growing directly out of a crack in a red rock canyon wall.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraano_habitat.jpg)
+![A photo of a plant with round yellow leaves growing directly out of a crack in a red rock canyon wall.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fraano_habitat.jpg?itok=0a-rZlbe)
 
 Photo Credit
 

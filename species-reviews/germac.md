@@ -58,7 +58,7 @@ cranesbill, spotted cranesbill, wild cranesbill, wild geranium
 
 Spotted geranium is found throughout eastern North America from southern Ontario south to Georgia and west to eastern Oklahoma and eastern North and South Dakota [15,19,27].
 
-![A map of the United States and Canada with states and territories highlighted in green where spotted geranium occurs. The highlighted portion covers most of the eastern half of the U.S. and Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-germac_map.jpg)
+![A map of the United States and Canada with states and territories highlighted in green where spotted geranium occurs. The highlighted portion covers most of the eastern half of the U.S. and Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-germac_map.jpg?itok=6h8F7KdR)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Common understory associates include Solomon's seal (Polygonatum pubescens), fal
 
 Spotted geranium is perennial herb 8 to 24 inches (20-60 cm) tall [29]. It grows from a stout, branched, underground rhizome that spreads horizontally up to 6 inches (15 cm). The rhizome bears 10 to 30 sparsely branched roots from the sides and undersurface. Vesicular-arbuscular mycorrhizal structures are present, increasing with decreasing fertility of the soil [7,27,29,32]. A small proportion (4 percent) of populations are male-sterile; these female plants produce an average of 60 percent more seed than hermaphroditic plants [1].
 
-![A pink flower with 5 petals, with green leaves in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-germac_plant.jpg)
+![A pink flower with 5 petals, with green leaves in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-germac_plant.jpg?itok=Df1lhQZY)
 
 Photo Credit
 

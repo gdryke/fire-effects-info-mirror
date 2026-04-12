@@ -61,7 +61,7 @@ Mountain hemlock occurs along the crest of the Sierra Nevada; the Coast Ranges a
 
 Mountain hemlock is commonly found on cold, snowy subalpine or boreal sites where it grows slowly, sometimes reaching more than 800 years of age. Though pure stands are less common than mixed stands, extensive pure stands of mountain hemlock do occur in Alaska and in the central high Cascades of Oregon [49]. In the Siskiyous, mountain hemlock is generally confined to cool, north-facing, cirquelike topography. It does not form extensive stands like those in the Cascades because suitable habitat is found only on the highest peaks. In the Siskiyous, the lower limit of mountain hemlock is governed by high temperatures and competition with Shasta red fir (Abies magnifica shastensis) [8]. Mountain hemlock in western Montana is generally confined to the moist, upper slopes of the Bitterroot Mountains [33].
 
-![A photo of a small group of straight, narrow, tall conifer trees growing out of white bedrock, near a small lake.]({{ site.baseurl }}/assets/images/species-reviews/feis-tsumer_habitat.jpg)
+![A photo of a small group of straight, narrow, tall conifer trees growing out of white bedrock, near a small lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tsumer_habitat.jpg?itok=SxRLYXuF)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Mountain hemlock commonly occurs as a dominant or codominant in high-elevation a
 
 ## Botanical Description
 
-![A photo of a stand of straight, narrow conifer trees growing above a large, clear, deep blue lake with rocky, snowy mountains on the other side of the lake.]({{ site.baseurl }}/assets/images/species-reviews/feis-tsumer_craterlake.jpg)
+![A photo of a stand of straight, narrow conifer trees growing above a large, clear, deep blue lake with rocky, snowy mountains on the other side of the lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tsumer_craterlake.jpg?itok=KGT0-Ii3)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Mountain hemlock has a 2-year reproductive cycle. Pollination occurs in the spri
 
 ## Regeneration Processes
 
-![A photo of a conifer tree's branches with light green, short, bunched needles and many dark purplish, closed cones along the branches. Other green vegetation is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-tsumer_cones.jpeg)
+![A photo of a conifer tree's branches with light green, short, bunched needles and many dark purplish, closed cones along the branches. Other green vegetation is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tsumer_cones.jpeg?itok=iy6JSDtL)
 
 Photo Credit
 

@@ -52,7 +52,7 @@ pine reedgrass
 
 Pinegrass is found from Manitoba west through British Columbia and south through Washington, Idaho, Montana, Oregon, Wyoming, Utah, Colorado, and into California [69,70,71,82,153,154].
 
-![A map of U.S. states and Canadian provinces, with many western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-calrub_distribution.png)
+![A map of U.S. states and Canadian provinces, with many western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-calrub_distribution.png?itok=iXjOjvdG)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Distribution of pinegrass.
 
 Pinegrass grows in open areas and under forest canopies from valley floors to subalpine zones. It tolerates mesic to dry sites and is found on all aspects [30,42,70,71,82]. Pinegrass is often found growing in extensive stands [82]. Some elevational ranges have been reported in the following states and province; 8,052 to 9,058 feet (2440-2745 m) in Utah [154], 2,700 to 7,800 feet (818-2363 m) in Montana [113], and 1,980 to 6,105 feet (600-1850 m) in the Similkameen Valley, British Columbia [97].
 
-[![A photo of a sunny, grassy understory with trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-calrub_communities.jpg)Photo Credit Photo and caption by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass in the open understory and forest edge of young lodgepole pine at the southwest end of the Spanish Peaks, Madison Range, Madison County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a sunny, grassy understory with trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-calrub_communities.jpg?itok=PqUPv0p-)Photo Credit Photo and caption by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass in the open understory and forest edge of young lodgepole pine at the southwest end of the Spanish Peaks, Madison Range, Madison County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Pinegrass is found on a wide variety of parent materials and soils within its geographic range. Most often, soils are well drained, loamy to coarse-textured Luvisols and Brunisols [30]. In the Similkameen Valley of southern British Columbia, Douglas-fir/pinegrass habitats are wide ranging and have developed mostly on glacial till, glacial outwash, and alluvium. These soils are chiefly loams to sandy loams that are well drained and are rapidly permeable [97]. On pinegrass-dominated sites in the Garnet Mountains of western Montana, pinegrass cover is highest on limestone-derived soils, and the grass is found more often on limestone than on granitic parent materials. No significant difference was found between limestone- and quartzite-derived soils [55].
 
@@ -79,7 +79,7 @@ Throughout interior British Columbia, pinegrass occurs on sites with nutrient re
 
 Throughout its range, pinegrass is an important and often dominant understory species in Douglas-fir (_Pseudotsuga menziesii_) [73,97,113,133], subalpine fir (_Abies lasiocarpa_)-Engelmann spruce (_Picea engelmannii_) [73,93,113,130], grand fir (_A. grandis_) [51,73,131], ponderosa pine (_Pinus ponderosa_) [30,60,73,156], lodgepole pine (_P. contorta_) [29,113,130], and quaking aspen (_Populus tremuloides_) forests [3,104,157].
 
-[![A photo of grasses in an opening in a woodland with a stump in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-calrub_communities2.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass growing in the understory of lodgepole pine at the head of Jack Creek in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grasses in an opening in a woodland with a stump in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-calrub_communities2.jpg?itok=WoVhKBde)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass growing in the understory of lodgepole pine at the head of Jack Creek in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Pinegrass is the most abundant grass in forested areas of interior southern British Columbia, where it is a dominant understory species in the Douglas-fir and sub-boreal pine-spruce zones. It is common in drier zones of the sub-boreal spruce and montane spruce zones as well. Pinegrass also occurs in drier portions of the interior western redcedar-western hemlock (_Thuja plicata-Tsuga heterophylla_) and subalpine fir-Engelmann zones and at lower elevations and in moist areas of the ponderosa pine and bunchgrass zones [30].
 
@@ -115,7 +115,7 @@ Some common plant associates of pinegrass in quaking aspen (Populus tremuloides)
 
 Pinegrass is a native, perennial, rhizomatous grass. Culms are hollow and can reach up to 44 inches (110 cm) in height, but more typically grow 11 to 20 inches (30-50 cm) tall [65,146,154]. Dense panicles are 3 to 6 inches (7-15 cm) long. Pinegrass may produce moderate-sized clumps rather than single stems and is referred to in the literature as a sod-former [30,147,149,154], particularly when the overstory is removed [135]. Rhizomes grow mostly in the top 2 inches (5 cm) of mineral soil [30,53,72]. Seed-producing plants usually grow in the open and are somewhat tufted and erect, differing in appearance from the stemless, drooping form that usually grows in shade [147].
 
-[![A photo of grass panicles within an open conifer woodland.]({{ site.baseurl }}/assets/images/species-reviews/feis-calrub_panicles.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass growing in Lubrecht Experimental Forest in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grass panicles within an open conifer woodland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-calrub_panicles.jpg?itok=kwWNvbpD)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass growing in Lubrecht Experimental Forest in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -167,7 +167,7 @@ Pinegrass seedlings establish on burned sites from off-site sources, and pinegra
 
 Pinegrass sprouts from rhizomes and establishes from seed following fire. It may bloom profusely for the 1st 2 or 3 postfire years, allowing rapid colonization of burned areas. It can also invade burned areas from off-site sources. Pinegrass generally increases in response to fire, often exceeding preburn levels [20,27,32,72,74,128,138,139,142].
 
-[![A photo of a grassy understory with burned tree trunks behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-calrub_postfire.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass growing in the open understory of a burned site at the South Fork of Deep Creek. Burn age is unknown.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grassy understory with burned tree trunks behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-calrub_postfire.jpg?itok=Z7OvCoad)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Pinegrass growing in the open understory of a burned site at the South Fork of Deep Creek. Burn age is unknown.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Following the Pattee Canyon Wildfire in a Douglas-fir type near Missoula, Montana, pinegrass bloomed profusely in the 1st postfire summer. Subsequent seedling establishment was observed in the following 2 years, along with vegetative spread from rhizomes. Pinegrass responded rapidly to the July wildfire. Even on severely burned sites it became the most abundant native species. Pinegrass cover increased from 0.6 to 8.5% on upland sites, and from 1.0 to 1.3% on ravine sites from postfire year 1 to postfire year 3 [33,34].
 

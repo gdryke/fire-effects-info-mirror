@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for intermountain basins semi-desert shrub-step
 
 ## Distribution
 
-![Image of a map of the western United States showing the distribution of semi-desert shrubsteppe communities, mostly in Arizona and New Mexico, with smaller areas in Colorado, Utah, Nevada, California, Idaho, and Montana.]({{ site.baseurl }}/assets/images/fire-regimes/intermountain-basins-semi-desert-shrub-steppe_feis-IntermountainBasinsShrubsteppe_FRR_map.jpg)
+![Image of a map of the western United States showing the distribution of semi-desert shrubsteppe communities, mostly in Arizona and New Mexico, with smaller areas in Colorado, Utah, Nevada, California, Idaho, and Montana.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-IntermountainBasinsShrubsteppe_FRR_map.jpg?itok=h3i2jXT2)
 
 Photo Credit
 

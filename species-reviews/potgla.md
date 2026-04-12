@@ -34,7 +34,7 @@ Reeves, Sonja L. 2008. _Potentilla glandulosa_ , sticky cinguefoil. In: Fire Eff
 
 ## Image Gallery
 
-![Photo of sticky cinquefoil in bloom.]({{ site.baseurl }}/assets/images/species-reviews/potgla_potgla_flower_0_0_0.jpg) Sticky cinquefoil in bloom. _Photo by Shane Johnson, iNaturalist.org, no rights reserved_
+![Photo of sticky cinquefoil in bloom.](https://research.fs.usda.gov/sites/default/files/2025-11/potgla_flower_0_0_0.jpg) Sticky cinquefoil in bloom. _Photo by Shane Johnson, iNaturalist.org, no rights reserved_
 
 Photo Credit: Photo by Shane Johnson, iNaturalist.org, no rights reserved
 
@@ -154,7 +154,7 @@ Sticky cinquefoil is dominant in the Hood's sedge (_Carex hoodii_)-sticky cinque
 
 ## Botanical Description
 
-![Photo of sticky cinquefoil in bloom.]({{ site.baseurl }}/assets/images/species-reviews/potgla_potgla_flower_0_0_0.jpg)
+![Photo of sticky cinquefoil in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/potgla_flower_0_0_0.jpg?itok=oSCzKD7B)
 
 Photo Credit
 

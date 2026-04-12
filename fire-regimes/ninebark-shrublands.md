@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for ninebark shrubland communities has not yet 
 
 ## Distribution
 
-![A map showing the distribution of ninebark shrubland communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/ninebark-shrublands_feis-ninebark_shrublands_locator.jpg)
+![A map showing the distribution of ninebark shrubland communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-ninebark_shrublands_locator.jpg?itok=bTvcj3Xn)
 
 Photo Credit
 

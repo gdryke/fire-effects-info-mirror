@@ -56,7 +56,7 @@ bluegum, bluegum eucalyptus
 
 ## General Distribution
 
-![Two maps side by side, of California and Hawai'i, with areas highlighted in blue where Tasmanian bluegum occurs. Most of the California coast is highlighted, and all the Hawaiian islands.]({{ site.baseurl }}/assets/images/species-reviews/feis-eucglo_maps.jpg)
+![Two maps side by side, of California and Hawai'i, with areas highlighted in blue where Tasmanian bluegum occurs. Most of the California coast is highlighted, and all the Hawaiian islands.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-07/feis-eucglo_maps.jpg?itok=n7qcDGev)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ In California, Tasmanian bluegum occurs at elevations below 1,000 feet (300 m) [
 
 ## Plant Communities
 
-![A photo of a stand of tall, thin trees with orangey bark and sunlight coming through from behind. The ground is covered in dry shredded tree bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-eucglo_stand.jpg)
+![A photo of a stand of tall, thin trees with orangey bark and sunlight coming through from behind. The ground is covered in dry shredded tree bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-eucglo_stand.jpg?itok=8Zapzw-J)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ In its native habitat Tasmanian bluegum grows in pure stands and in mixtures wit
 
 ## Botanical Description
 
-![A photo of a tree's long, curved, pointed green leaves and round, feathery, white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-eucglo_flowers.jpg)
+![A photo of a tree's long, curved, pointed green leaves and round, feathery, white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-eucglo_flowers.jpg?itok=EhAqdc9P)
 
 Photo Credit
 

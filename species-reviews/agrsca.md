@@ -55,7 +55,7 @@ ticklegrass, hairgrass
 
 Rough bentgrass is distributed throughout Alaska, the continental United States (but sparingly in the Southeast), Greenland, Canada, Mexico, and Asia [2,13,17,42,47].
 
-![A map of the U.S. and Canada with all states and provinces highlighted green except Kansas, Oklahoma, and Missouri.]({{ site.baseurl }}/assets/images/species-reviews/agrsca_agrsca_distribution.jpg)
+![A map of the U.S. and Canada with all states and provinces highlighted green except Kansas, Oklahoma, and Missouri.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/agrsca_distribution.jpg?itok=gc7ya5Hh)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Rough bentgrass occurs throughout a wide variety of habitats including woodlands
 
 Rough bentgrass grows well on sandy loam, loam, and clay loam soil textures [8]. It is adapted to soils that are low in nutrients and is tolerant of low pH levels [15]. Rough bentgrass shows poor growth in sodic soils [8].
 
-![A stand of grasses with airy clusters of seedheads.]({{ site.baseurl }}/assets/images/species-reviews/agrsca_agrsca_plant.jpg)
+![A stand of grasses with airy clusters of seedheads.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/agrsca_plant.jpg?itok=sWan54Up)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Idaho, Upper Salmon/Middle Fork Salmon River| Riparian cts| Tuhy & Jensen 1982
  
 Rough bentgrass is a short-lived, perennial bunchgrass. Culms are slender and erect, and the basal leaves are often scabrous. The panicle is large and diffuse at maturity [1,10,30,47]. Rough bentgrass is typically 6 to 39 inches (15-100 cm) tall [10,18,23] but often reaches 50 inches (130 cm) in height [31,32]. The plant has a fibrous root system [48] but is not rhizomatous [31].
 
-[![A diffuse panicle of reproductive grass stems, with a hand holding the stems steady. Out-of-focus trees and a person in a white shirt are in the background.]({{ site.baseurl }}/assets/images/species-reviews/agrsca_argsca_panicle.jpg)Photo Credit Photo by Nathan Aaron, iNaturalist (CC BY 4.0) Rough bentgrass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A diffuse panicle of reproductive grass stems, with a hand holding the stems steady. Out-of-focus trees and a person in a white shirt are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/argsca_panicle.jpg?itok=wUvcTA9S)Photo Credit Photo by Nathan Aaron, iNaturalist (CC BY 4.0) Rough bentgrass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Rough bentgrass is often confused with winter bentgrass (_A. hyemalis_ (Walt.) B.S.P.), but the latter generally flowers earlier [13].
 

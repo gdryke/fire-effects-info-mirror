@@ -34,7 +34,7 @@ Coladonato, Milo. 1991. _Fagus grandifolia_ , American beech. In: Fire Effects I
 
 ## Image Gallery
 
-![A close up photo of a tree's leaves. The ridged, serrated leaves are turning yellow and orange at the edges.]({{ site.baseurl }}/assets/images/species-reviews/feis-faggra_plant.jpg) American beech in fall. _Photo by T. Davis Sydnor, The Ohio State University, Bugwood.org._
+![A close up photo of a tree's leaves. The ridged, serrated leaves are turning yellow and orange at the edges.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-faggra_plant.jpg) American beech in fall. _Photo by T. Davis Sydnor, The Ohio State University, Bugwood.org._
 
 Photo Credit: Photo by T. Davis Sydnor, The Ohio State University, Bugwood.org.
 
@@ -88,7 +88,7 @@ Northern Wisconsin, northern Michigan| forest hts| Kotar 1986
 
 ## Botanical Description 
  
-![A close up photo of a tree's leaves. The ridged, serrated leaves are turning yellow and orange at the edges.]({{ site.baseurl }}/assets/images/species-reviews/feis-faggra_plant.jpg)
+![A close up photo of a tree's leaves. The ridged, serrated leaves are turning yellow and orange at the edges.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-faggra_plant.jpg?itok=QI6t1kYy)
 
 Photo Credit
 

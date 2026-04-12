@@ -225,7 +225,7 @@ Virginia: The hardwood forests of Virginia's lower Coastal Plain characteristica
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [44,47,62,84,108,109,110,124,155,177,206,227,249,257,269,272,294,297,304,312,317].
 
-![Photo of green ash samaras.]({{ site.baseurl }}/assets/images/species-reviews/feis-frapen_seeds.jpg)
+![Photo of green ash samaras.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-frapen_seeds.jpg?itok=Bgmjp8bg)
 
 Photo Credit
 

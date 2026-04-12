@@ -38,7 +38,7 @@ League, Kevin R. 2005. _Arctostaphylos pungens_ , pointleaf manzanita. In: Fire 
 
 The scientific name of pointleaf manzanita is _Arctostaphylos pungens_ K. Kunth. (Ericaceae) [46,51,66,89,104,106]. Pointleaf manzanita may hybridize with Eastwood manzanita (_A. glauca_) [52].
 
-![A photo of the leaves and flowers of a shrub, with upright leaves somewhat oval-shaped with pointed tip s growingdensely along reddish stems, with clusters of drooping, white, bell-shaped flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcpun_flower.jpg)
+![A photo of the leaves and flowers of a shrub, with upright leaves somewhat oval-shaped with pointed tip s growingdensely along reddish stems, with clusters of drooping, white, bell-shaped flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-arcpun_flower.jpg?itok=xoZLSlU3)
 
 Photo Credit
 
@@ -123,7 +123,7 @@ Classifications describing plant communities in which pointleaf manzanita is a d
 
 ## Botanical Description
 
-![A photo of a large, woody shrub with many thick, old branches, some of which have few leaves and others of which are bushy with clusters of upright, somewhat fleshy green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcpun_plant1.jpg)
+![A photo of a large, woody shrub with many thick, old branches, some of which have few leaves and others of which are bushy with clusters of upright, somewhat fleshy green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-arcpun_plant1.jpg?itok=UUkmrLsc)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Yerba santa-desert ceanothus chaparral| 50.0| 0.6
 
 ## Seasonal Development
 
-![A close-up photo of a shrub with oval-shaped upright green leaves and clusters of drooping red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcpun_fruits.jpg)
+![A close-up photo of a shrub with oval-shaped upright green leaves and clusters of drooping red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-arcpun_fruits.jpg?itok=z9lG_5nw)
 
 Photo Credit
 
@@ -210,7 +210,7 @@ Between fires vegetative regeneration by layering occurs on the perimeters of pa
 
 ## Fire Ecology and Management
 
-![A photo of a large, woody shrub engulfed in bright orange flames.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcpun_fire.jpg)
+![A photo of a large, woody shrub engulfed in bright orange flames.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-arcpun_fire.jpg?itok=4aY72zBI)
 
 Photo Credit
 

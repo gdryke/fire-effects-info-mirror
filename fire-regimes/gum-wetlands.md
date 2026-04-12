@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for gum wetland communities has not yet been pu
 
 ## Distribution
 
-![A map showing the distribution of gum wetland communities in south Florida.]({{ site.baseurl }}/assets/images/fire-regimes/gum-wetlands_feis-gum_wetlands_locator.jpg)
+![A map showing the distribution of gum wetland communities in south Florida.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-gum_wetlands_locator.jpg?itok=m3SdwYPW)
 
 Photo Credit
 

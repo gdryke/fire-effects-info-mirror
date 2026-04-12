@@ -89,7 +89,7 @@ Western bluebirds winter in pinyon (_Pinus_ spp.)-juniper (_Juniperus_ spp.) woo
 
 ## Biological Characteristics
 
-![A photo of a bird with an orange chest, grey-blue head, and bluish wings sitting perched on a branch. There are no leaves on the branch or visible around the bird.]({{ site.baseurl }}/assets/images/species-reviews/feis-sime_bird.jpeg)
+![A photo of a bird with an orange chest, grey-blue head, and bluish wings sitting perched on a branch. There are no leaves on the branch or visible around the bird.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sime_bird.jpeg?itok=zn_IToXp)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ There are numerous potential predators of western bluebird including hawks (Bute
 
 ### Diet
 
-![A photo of a grey-blue bird standing on the ground with a brown lizard in its beak. The lizard is twisting around attempting to escape.]({{ site.baseurl }}/assets/images/species-reviews/feis-sime_lizard.jpeg)
+![A photo of a grey-blue bird standing on the ground with a brown lizard in its beak. The lizard is twisting around attempting to escape.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sime_lizard.jpeg?itok=ak02HyuI)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Western bluebirds usually breed in areas near the lower treeline [20]. However, 
 
 ### Cover Requirements
 
-![A photo of a blue and grey bird looking over its shoulder, perched at the edge of a hole in the knot of a tree. The background is blurry vegetation and sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-sime_atnest.jpeg)
+![A photo of a blue and grey bird looking over its shoulder, perched at the edge of a hole in the knot of a tree. The background is blurry vegetation and sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sime_atnest.jpeg?itok=EaWNlv8X)
 
 Photo Credit
 

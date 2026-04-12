@@ -75,7 +75,7 @@ Redtop has good cold tolerance [57]. It successfully overwintered at Prudhoe Bay
 
 Redtop occurs in wet to moist meadows and grasslands. It occurs in pure stands or with sedges (_Carex_ spp.), spikerushes (_Eleocharis_ spp.), Kentucky bluegrass (_Poa pratensis_), and quackgrass (_Elytrigia repens_) [31,58]. In Montana it occurs with Nebraska sedge (_C. nebrascensis_), meadow fescue (_Festuca pratensis_), Baltic rush (_Juncus balticus_), scouringrush horsetail (_Equisetum hyemale_), and common dandelion (_Taraxacum officinale_) [26]. It occurs in the southern Appalachian grass balds dominated by mountain oatgrass (_Danthonia compressa_) [40].
 
-[![A photo of a dense cluster of grasses with golden panicles and green stems, with other forbs and grasses apparent in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrgig_community.jpg)Photo Credit Photo by Ryan Donnelly, iNaturalist (CC BY 4.0). Redtop growing in a field near El Dorado Springs, Missouri.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a dense cluster of grasses with golden panicles and green stems, with other forbs and grasses apparent in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrgig_community.jpg?itok=-0Ym7Xsd)Photo Credit Photo by Ryan Donnelly, iNaturalist (CC BY 4.0). Redtop growing in a field near El Dorado Springs, Missouri.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Redtop frequently occurs in riparian areas. Brichta [5] describes sandbar willow (_Salix exigua_)/redtop and fowl bluegrass (_Poa palustris_)/redtop wetland community types in Montana. In Malheur National Wildlife Refuge, Oregon, redtop was one of the dominant grasses in the flood meadow vegetation which receives 4 to 6 inches (10-15 cm) of floodwater in April or May [7]. Redtop occurs in the following riparian dominance types at Malheur: mountain alder (_Alnus incana_), mountain silver sagebrush (_Artemisia cana_ spp. _viscidula_), sandbar willow, MacKenzie's willow (_Salix prolixa_), and Kentucky bluegrass [45].
 
@@ -92,7 +92,7 @@ Redtop is described as a community dominant in the following publications:
 
 Redtop is an introduced, perennial, rhizomatous, cool-season, sod-forming grass with erect, stout, stems growing 2 to 4 feet (0.6-1.2 m) tall. The panicle is 4 to 8 inches (10-20 cm) long and notably suffused with purplish-red. Lemmas are rarely awned [22,29]. Rhizomes are less than 10 inches (25 cm) long [28] and are generally shallow [27]. Rhizomes have been reported to occur to a depth of 6 inches (15 cm) [18]. Redtop apparently intergrades with creeping bentgrass; redtop has mostly erect culms and rhizomes, and creeping bentgrass has mostly decumbent, stoloniferous culms.
 
-[![A photo of a cluster of grass stems against green vegetation. The grass stems are bright green and panicles are purplish-red.]({{ site.baseurl }}/assets/images/species-reviews/agrgig_agrgig_plant.jpeg)Photo Credit Photo by Jean Sorensen, iNaturalist (CC BY 4.0). Redtop growing in Ontario, Canada.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a cluster of grass stems against green vegetation. The grass stems are bright green and panicles are purplish-red.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/agrgig_plant.jpeg?itok=sKka-BFo)Photo Credit Photo by Jean Sorensen, iNaturalist (CC BY 4.0). Redtop growing in Ontario, Canada.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -133,7 +133,7 @@ Redtop is fairly resilient to fire because of its rhizomes and buried seed. Most
 
 Fire generally favors redtop. Rhizomes sprout after fire and buried seed may germinate.
 
-[![A photo of a dried grass panicle, with dried grasses and some green low vegetation growing along the hillside in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrgig_postfire.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Redtop growing in August 2021 following a September 2020 fire at the southeastern end of the Bridger Range in Gallatin County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a dried grass panicle, with dried grasses and some green low vegetation growing along the hillside in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrgig_postfire.jpg?itok=zQmWQcsK)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Redtop growing in August 2021 following a September 2020 fire at the southeastern end of the Bridger Range in Gallatin County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Redtop was present in the postfire vegetation of the Sundance Burn in northern Idaho. On several sites it was present and flowered in postfire years 1 and 2, but on other sites it did not appear until more than 10 years after the fire [50].
 

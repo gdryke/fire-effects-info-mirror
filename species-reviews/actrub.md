@@ -34,7 +34,7 @@ Crane, M. F. 1990. Actaea rubra. In: Fire Effects Information System, [Online]. 
 
 ## Image Gallery
 
-![A leafy green plant growing in dappled sun with a cluster of red berries at the end of the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-actrub_plant.jpg) Red baneberry, Ontario, Canada. _Photo by Rob Routledge, Sault College, Bugwood.org_
+![A leafy green plant growing in dappled sun with a cluster of red berries at the end of the stem.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-actrub_plant.jpg) Red baneberry, Ontario, Canada. _Photo by Rob Routledge, Sault College, Bugwood.org_
 
 Photo Credit: Photo by Rob Routledge, Sault College, Bugwood.org
 
@@ -101,7 +101,7 @@ Presence of red baneberry frequently indicates moist sites [35,75]. In British C
 
 Red baneberry is a deciduous, perennial herb, usually from 1 to 3 feet (4-10 dm) tall with one to several branched stems [37,38]. Perennating tissue appears to be a vertical caudex just under the soil surface [Stickney, P., pers. comm. 1990] but has also been described as a rootstock [37,38] or a rhizome [72]. The leaves are alternate, two to three times compound, sharply toothed and lobed.
 
-![A leafy green plant growing in dappled sun with a cluster of red berries at the end of the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-actrub_plant.jpg)
+![A leafy green plant growing in dappled sun with a cluster of red berries at the end of the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-actrub_plant.jpg?itok=QG0aiZ8g)
 
 Photo Credit
 

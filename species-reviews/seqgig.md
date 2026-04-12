@@ -50,7 +50,7 @@ Fire management in giant sequoia groves focuses on reducing hazardous fuel accum
 
 ## Taxonomy
 
-![A somewhat washed out photo of a large giant sequoia with snow visible on its buttresses and on the branches of shorter conifers growing behind. A person is standing at its base wearing a red sweater and blue jeans, looking very small. A burn scar on the tree trunk is several times the height of the person.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_plant.jpg)
+![A somewhat washed out photo of a large giant sequoia with snow visible on its buttresses and on the branches of shorter conifers growing behind. A person is standing at its base wearing a red sweater and blue jeans, looking very small. A burn scar on the tree trunk is several times the height of the person.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_plant.jpg?itok=x-JHf9hS)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Giant sequoia is native to California [241]. The natural distribution of giant s
 
 A 1990 review reported that groves vary in size from <1 ha to 1,619 ha and comprise a total area of about 14,410 ha along the western slope of the Sierra Nevada [251]. A more recent estimate of grove area based on remotely sensed imagery is 11,719 ha [221]. The northern two-thirds of the species’ latitudinal range, spanning 273 km from the American River in Placer County southward to the Kings River has only eight disjunct groves, comprising an area of about 110 ha [56,257]. Populations in this area tend to be smaller and more disjunct [50], with the distance between groves up to 90 km apart [56]. The remaining groves are concentrated in the southern one-third of the species’ latitudinal range between the Kings River and southern Tulare County [257], which spans only 111 km north to south [56]. In this area, no more than 4 km separates any grove from the nearest neighboring grove [56].
 
-![Map of California showing the distribution of giant sequoia groves in the Sierra Nevada.]({{ site.baseurl }}/assets/images/species-reviews/seqgig_feis-SEQGIG_Map_Fig2.png)
+![Map of California showing the distribution of giant sequoia groves in the Sierra Nevada.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-SEQGIG_Map_Fig2.png?itok=Na0ztqhR)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground
 
-![A photo of a large giant sequoia taken from its base, showing relatively sparse, high-growing branches. Shorter conifers are visible growing behind, and a mostly blue sky dominates the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_generalgranttree.jpg)
+![A photo of a large giant sequoia taken from its base, showing relatively sparse, high-growing branches. Shorter conifers are visible growing behind, and a mostly blue sky dominates the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_generalgranttree.jpg?itok=QyUzdhML)
 
 Photo Credit
 
@@ -158,7 +158,7 @@ Giant sequoias are evergreen trees that can grow up to about 90 m tall [67]. The
 
 Branches are generally horizontal to downward sweeping with upturned ends [13,67]. The branches of young (less than about 100 years old), open-grown trees may persist to ground level, but typically, the lower branches of giant sequoias die from shading by nearby vegetation such that the crown is confined to the upper third or half of the tree [90]. Trunks of mature trees (greater than about 100 years old) generally are free of branches to a height of 30 to 45 m [90,251].
 
-![A close-up photo of a cone with narrow openings between cone scales. A relatively long, somewhat woody peduncle attaches the cone to thin branches covered by many small, narrow leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_cone.jpg)
+![A close-up photo of a cone with narrow openings between cone scales. A relatively long, somewhat woody peduncle attaches the cone to thin branches covered by many small, narrow leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_cone.jpg?itok=qvQyiytw)
 
 Photo Credit
 
@@ -372,7 +372,7 @@ At least nine fungi are associated with decayed giant sequoia wood, some of whic
 
 ### Vegetative Reproduction and Regeneration
 
-![A photo of a large giant sequoia growing several times higher than the surrounding adult conifers, with gray mountain slopes rising behind. An apparent fire scar is visible on the trunk, reach nearly the height of many of the other trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_boole_tree.jpg)
+![A photo of a large giant sequoia growing several times higher than the surrounding adult conifers, with gray mountain slopes rising behind. An apparent fire scar is visible on the trunk, reach nearly the height of many of the other trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_boole_tree.jpg?itok=QcgfoJYq)
 
 Photo Credit
 
@@ -422,7 +422,7 @@ Both young and mature trees can survive partial or nearly complete canopy injury
 
 Most mature giant sequoia trees that are killed by fire are found within high-severity burned areas and die from 1) crown scorch (killed by convective heat of high-intensity surface fires without foliage combustion) or 2) crown fire or crown torch (killed by foliage combustion) [21,23,142,194,204,220,221]. For example, after the 2020 Castle Fire in the Alder Creek Grove in the southern Sierra Nevada, 72% (144 of 200) of dead giant sequoias >1.8 m diameter occurred in areas that burned with high severity, 25% (49) with moderate severity, and 4% (7) with low severity. None occurred in unburned areas. Three years following the 2017 Railroad Fire in the Nelder Grove in Sierra National Forest, 89% (34 of 38) of dead giant sequoias >1.2 m DBH occurred in areas burned with high severity, 5% (2) with moderate severity, 5% (2) with low severity, and none occurred in unburned areas [221]. Similar results were found following other recent wildfires in the central and southern Sierra Nevada, including the 2015 Rough Fire, the 2017 Pier Fire, and the 2021 KNP Complex, SQF Complex, and Windy Fires [142,196,197,204].
 
-![A photo of a firefighter wearing a yellow shirt and hardhat, green pants, and a backpack holding a hand tool and standing inside the charred trunk of a giant sequoia. A portion of the base and heartwood several times taller than the firefighter has apparently been consumed by fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_burned.jpg)
+![A photo of a firefighter wearing a yellow shirt and hardhat, green pants, and a backpack holding a hand tool and standing inside the charred trunk of a giant sequoia. A portion of the base and heartwood several times taller than the firefighter has apparently been consumed by fire.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-seqgig_burned.jpg?itok=J4iuziBH)
 
 Photo Credit
 
@@ -489,7 +489,7 @@ While giant sequoia lack a soil seed bank, mature trees have a large aerial seed
 
 After fire, seeds are typically dispersed near parent trees (maximum dispersal distance is about 500 m [93], so surviving mature trees close to burns are important on-site seed sources [162,204]. A large recruitment pulse can occur following fire as long as mature trees provide a seed source. If high-severity patches are large and seed sources distant from burned areas, giant sequoias may fail to disperse seeds into recently burned areas [142,197,204]. Additionally, the aerial seed bank may fail to disperse seed to burned areas when crown fires consume seed cones, such as in the historically unprecedented high-severity crown fires of 2015, 2017, 2020, and 2021 [142,196,197,204,220,221].
 
-![A photo of a young giant sequoia seedling, with a relatively freshly charred tree trunk visible the background. A piece of charred woody debris is visible just next to the seedling, and green ground cover grows at the base of the larger giant sequoia in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_seedling.jpg)
+![A photo of a young giant sequoia seedling, with a relatively freshly charred tree trunk visible the background. A piece of charred woody debris is visible just next to the seedling, and green ground cover grows at the base of the larger giant sequoia in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_seedling.jpg?itok=ZaJDtcF7)
 
 Photo Credit
 
@@ -509,7 +509,7 @@ Small patches of intense, high-severity surface fire expose mineral soil and cre
 
  _**Postfire Seed Beds**_
 
-![A photo of a forest understory after fire, with charred tree trunks and woody debris. A sprouting shrub and young green forbs are many times larger than the tiny giant sequoia seedlings that grow densely on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_seedlings.png)
+![A photo of a forest understory after fire, with charred tree trunks and woody debris. A sprouting shrub and young green forbs are many times larger than the tiny giant sequoia seedlings that grow densely on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_seedlings.png?itok=rGjbY2Kl)
 
 Photo Credit
 
@@ -525,7 +525,7 @@ Places where logs and stumps burned away, leaving a fine layer of ash on the min
 
 A review concluded that the greatest number of seedlings establish during the first and second years after fire. The first cohort of new seedlings—those germinating the first spring or early summer following fire—is almost always the largest. A second cohort often germinates the second spring or early summer (likely averaging <20% the size of the first cohort). Sometimes a very small third-year cohort germinates, but its survival is usually minimal and probably does not contribute to long-term recruitment. Giant sequoia seedling densities then decline dramatically in the years and decades following [217]. Cohorts of trees that all date from the same fire result in a fine-scale mosaic comprised of canopy gaps with even-aged vegetation in various stages of succession [28,116,116,251] (see Succession).
 
-![A nighttime photo of a medium-sized tree engulfed in bright orange flame, with several apparently unburned trees in front and one behind. A flame is creeping up the trunk of another, larger giant sequoia behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_firesequoias.jpg)
+![A nighttime photo of a medium-sized tree engulfed in bright orange flame, with several apparently unburned trees in front and one behind. A flame is creeping up the trunk of another, larger giant sequoia behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_firesequoias.jpg?itok=c0gXvP84)
 
 Photo Credit
 
@@ -697,7 +697,7 @@ Yosemite National Park, white fir-mixed conifer forest| Total duff and woody fue
  
 Fuels do not accumulate under giant sequoias at rates that would permit surface fires to carry annually [21] or even biennially [32]. A model predicted that a 5-year fuel accumulation of giant sequoia litter should be enough to carry at least a patchy fire [144]. In recently burned fire-excluded forests, it can take up to 10 years or longer for fuels to accumulate to prefire levels (e.g., [106,107,109,110,166]). In a recently burned fire-excluded (no fire within 30 years) giant sequoia-mixed conifer forest in Yosemite National Park, total fuel load (duff and woody fuels) increased to 72% of prefire levels within 5 years: woody fuels accumulated to 91% of prefire levels, while duff had accumulated to only 15% [131]. In fire-excluded forests (no fire within >60 years) in Redwood Mountain Grove, total fuel load (litter, duff, and woody fuels) 7 years after fire was 53% of the prefire load (100,812 kg/ha versus 190,520 kg/ha). This was considered sufficient to support another prescribed fire. Many young white firs (up to 51 cm DBH) established during the period of fire exclusion. When they were killed by the initial fire, their falling needles, twigs, and branches built up surface fuels rapidly. The researchers predicted that fuel accumulation rates following subsequent fires would become slower as fuels from young trees are thinned in successive burns [166]. In Sequoia and Kings Canyon National Parks, combined duff and woody fuels accumulated to 75% of prefire levels 10 years after prescribed fire in giant sequoia-mixed conifer forests that had not burned in more than 40 years (127,329 kg/ha versus 95,497 kg/ha). Most of the accumulation was from woody fuels (i.e., fire-killed branches and small trees), reaching 103% of prefire levels. Duff accumulated at a slower rate, reaching 28% of prefire levels 10 years after fire (fig. 10) [106,109].
 
-![A graph with lines showing three fuel types: duff, wood, and total, along a time since fire axis from before to 10 years after fire. The y-axis shows fuel surface density\) kg/ha\).]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_figure10.jpg)
+![A graph with lines showing three fuel types: duff, wood, and total, along a time since fire axis from before to 10 years after fire. The y-axis shows fuel surface density\) kg/ha\).](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-seqgig_figure10.jpg?itok=2qXmWwmh)
 
 Photo Credit
 
@@ -786,7 +786,7 @@ Giant sequoia-mixed conifer forests were typically multi-layered and uneven-aged
  4. **Shrub Abundance** : Dense fire-promoted shrubs (e.g., manzanita, ceanothus, and plum) occurred in small patches of high-severity fire [190,215]. Stand reconstruction in Redwood Creek watershed in Kings Canyon National Park indicated that about 19% of the watershed was covered by shrub aggregations in 1890 [28].
  5. **Giant Sequoia Regeneration** : Giant sequoias established after fires in canopy gaps created by small patches of high-severity surface fire (“hot spots”) [89,214]. Canopy gap sizes were variable, ranging from a single tree to several hectares [215,217], although most likely ranged from 0.04 to 0.8 ha [177]. Rarely, large canopy gaps of more than 10 ha were created [215]. Canopy gaps were created by the local deaths of pines, firs, and incense-cedars but usually not by large giant sequoias, which are more resistant to fire [217].
 
-![A photo of somewhat evenly spaced, similarly aged adult tree trunks with many small trees growing between the larger trees. Several low snags, apparently recently killed, are interspersed amongst the adult tree trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_99883_sydoriak_2013_gapregen.png)
+![A photo of somewhat evenly spaced, similarly aged adult tree trunks with many small trees growing between the larger trees. Several low snags, apparently recently killed, are interspersed amongst the adult tree trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_99883_sydoriak_2013_gapregen.png?itok=ksbhbZmn)
 
 Photo Credit
 
@@ -810,7 +810,7 @@ Excluding frequent low-severity fire has resulted in dense forest conditions wit
 
 Fire was excluded from most giant sequoia groves after European-American settlement until about the 1960s when prescribed fire was introduced [166,215,244]. Fire records from 1959 to 2009 indicate only three wildfires burned into giant sequoia groves: the 1987 Pierce Fire in Redwood Mountain Grove, the 1987 Case Fire at Case Mountain Grove, and the 2008 Solo II Fire in the Black Mountain Grove [141]. Since 2015, however, there have been many large, severe wildfires including the 2015 Rough Fire, the 2017 Railroad and Pier Fires, the 2020 Castle Fire, and the 2021 KNP Complex, SQF Complex, and Windy Fires [142,196,197,204]. These fires have had substantial effects on giant sequoia populations. Preliminary estimates indicate that the 69,000-ha Castle Fire, which burned in about 20 giant sequoia groves and totaled about 3,900 ha within the groves, killed as many as 10,000 large giant sequoia trees (≥1.2 m in diameter), representing about 10% to 14% of the total population of all large trees across the species’ natural range [180,221]. Twenty-seven giant sequoia groves were fully or partially within the fire perimeters of the KNP Complex Fire and the Windy Fire, burning 2,472 ha of grove area. These fires killed an estimated 2,261 to 3,637 large giant sequoias, which make up an estimated 3% to 5% of all large giant sequoias [197]. Together, these studies estimate that 13% to 19% of large giant sequoias may have been killed during fires in 2020 and 2021 alone, much of it in large, contiguous areas of high-severity fires. From 2015 to the end of the 2021 fire season, roughly 65% of the range of giant sequoia had burned in a wildfire [196]. Departure in fire frequency from historical estimates varies among locations from low to extremely high (fig. 12) [233].
 
-![A map with red, orange, yellow, and green shading indicating fire-return interval departure in watersheds that include sequoia groves. Watershed boundaries are outlined in black and sequoia grove boundaries are outlined in brown. Sequoia groves include portions with extreme departure of fire-return intervals to low departure of fire-return intervals, with many groves indicating a mix of the degree of departure within the grove.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_99883_sydoriak_2013_frid.png)
+![A map with red, orange, yellow, and green shading indicating fire-return interval departure in watersheds that include sequoia groves. Watershed boundaries are outlined in black and sequoia grove boundaries are outlined in brown. Sequoia groves include portions with extreme departure of fire-return intervals to low departure of fire-return intervals, with many groves indicating a mix of the degree of departure within the grove.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-seqgig_99883_sydoriak_2013_frid.png?itok=hb2PHXdy)
 
 Photo Credit
 
@@ -866,7 +866,7 @@ Prescribed fire alone or with mechanical treatments are recommended to achieve t
 
 Fire managers have been using prescribed fire to manage giant sequoia groves since 1969 [108] (see Contemporary Fire Regimes). Although resources, policy, and boundary limitations along with planning impediments have limited their implementation in many groves [196]. It is often recommended that prescribed fire characteristics (e.g., frequency, severity, pattern, and size) mimic that of historical fires such that the historical forest structure is maintained (e.g., [9,45,119,215]). This includes enabling fires to burn at low to moderate severity, with some smaller patches of intense, high severity fire that create canopy gaps necessary for giant sequoia regeneration [196,220] (see Mimicking Historical Fire Characteristics). Because fire exclusion has increased fuel loads and altered forest structure, it is not always possible to apply prescribed fire in a way that mimics historical fires without undesirable effects, such as large tree mortality. Under these conditions, mechanical and manual treatments may first be used to reduce fuels [215,243] (see Grove Restoration). Specific restoration treatments might involve reducing surface fuel loads and the density of small trees (e.g., <80 cm diameter), reducing surface fuels and understory around monarch giant sequoias [243] and creating canopy gaps [9,244].
 
-![A photo of a low-intensity fire burning ground fuels. One large tree has visible extensive recent fire scarring and flames are creeping up the base of another tree just behind. Larger woody fuels on the ground appear to be smolder and flames are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_rxfire.jpg)
+![A photo of a low-intensity fire burning ground fuels. One large tree has visible extensive recent fire scarring and flames are creeping up the base of another tree just behind. Larger woody fuels on the ground appear to be smolder and flames are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-seqgig_rxfire.jpg?itok=T_aWTrUB)
 
 Photo Credit
 
@@ -934,7 +934,7 @@ Historically, fires occurred in late summer and early fall [21,164] (see Histori
 
 ### Protecting Individual Trees
 
-![A photo of six firefighters surrounding the base of a large giant sequoia wearing active firefighting gear. One firefighters is perched on a 2x4 or similar length of wood and is arranging protective foil around the base of the tree. The bottom 2 m or so of the tree is already covered in protective foil.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqgig_generalshermanwrappedinfoil.jpg)
+![A photo of six firefighters surrounding the base of a large giant sequoia wearing active firefighting gear. One firefighters is perched on a 2x4 or similar length of wood and is arranging protective foil around the base of the tree. The bottom 2 m or so of the tree is already covered in protective foil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-seqgig_generalshermanwrappedinfoil.jpg?itok=V0T0K-3_)
 
 Photo Credit
 

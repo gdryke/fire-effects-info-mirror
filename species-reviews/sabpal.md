@@ -68,7 +68,7 @@ Cabbage palmetto growth may indicate sites influenced by subtropical conditions 
 
 ## Plant Communities
 
-![A photo of a sunny dune landscape with sand, grasses, small shrubs, and five larger palm-like trees growing out of the sand.]({{ site.baseurl }}/assets/images/species-reviews/feis-sabpal_habitat.jpeg)
+![A photo of a sunny dune landscape with sand, grasses, small shrubs, and five larger palm-like trees growing out of the sand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-sabpal_habitat.jpeg?itok=ksG_P_w_)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Associates are many and varied because of the diversity of Florida's flora and t
 
 ## Botanical Description
 
-![A close up photo of the fanning leaves of a palm tree, forming a bright green and yellow swirled pattern.]({{ site.baseurl }}/assets/images/species-reviews/feis-sabpal_plant.jpg)
+![A close up photo of the fanning leaves of a palm tree, forming a bright green and yellow swirled pattern.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-sabpal_plant.jpg?itok=P-XMfkD1)
 
 Photo Credit
 

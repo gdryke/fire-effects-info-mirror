@@ -36,7 +36,7 @@ Zouhar, Kris. 2011. _Rhamnus cathartica, R. davurica_ ; common buckthorn, Dahuri
 
 ## Taxonomy
 
-![A photo of a drooping leafy branch of a large shrub or small tree with clusters of dark berries along the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_fruit.jpg)
+![A photo of a drooping leafy branch of a large shrub or small tree with clusters of dark berries along the branches.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-rhaspp_fruit.jpg)
 
 Photo Credit
 
@@ -334,7 +334,7 @@ These descriptions cover characteristics that may be relevant to fire ecology an
 
 Common buckthorn is a large shrub [6,35,38,68,77,77,200,202] or small tree [38,54,68,77,200,242]. It is a polymorphic species within its native range, likely due to hybridization with other buckthorns [120]. In North America, common buckthorn is described as a large, coarse shrub [26,200], often as wide as high [202], with many stems [71] and many branches [77,202], or with a single main stem and ascending branches [35] (see Plant Architecture and Stand Structure). The shrub form typically ranges from about 3 to 13 feet (1-4 m) tall [6,35,77,202], sometimes up to 16 to 20 feet (5-6 m) [38,68,77,200]. The tree form typically reaches about 16 to 26 feet (5-8 m) tall [38,54,68,77,200,242] and 4 inches (10 cm) in diameter [54]. Common buckthorn individuals are typically less than 13 feet (4 m) tall in Canada [175]. A common buckthorn tree reached 61 feet (~19 m) tall in Ann Arbor, Michigan [48]. Mature common buckthorn plants have long, somewhat angled shoots [175] with branches forming almost right angles with the main stem [71]. Branchlets are stout [200] and semirigid [202], 1.5 to 2 mm in diameter, and slightly flattened [202]. Many branches end in a single, small thorn [35,38,54,68,200,230] ranging from 0.2 to 0.9 inch (0.5-2.2 cm) long [175]. Young common buckthorn bark is smooth [202]; older bark is somewhat scaly [71,202] or fissured [71].
 
-![A photo of a leafy shrub with dense clusters of dark berries along its stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_fruits.jpeg)
+![A photo of a leafy shrub with dense clusters of dark berries along its stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rhaspp_fruits.jpeg?itok=TQAfWaw7)
 
 Photo Credit
 
@@ -368,7 +368,7 @@ No information was available regarding the life span or age distribution of Dahu
 
 ### Plant Architecture and Stand Structure
 
-![A photo of short, leafy stems covering the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_dense_seedlings.jpg)
+![A photo of short, leafy stems covering the ground.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-rhaspp_dense_seedlings.jpg)
 
 Photo Credit
 
@@ -378,7 +378,7 @@ Common buckthorn.
 
 Common buckthorn growth form differs among age classes and successional stages, and among open and shaded sites. At Wicken Fen in England, common buckthorn was described as a diffuse, many-stemmed bush up to 10 or 15 feet (3-5 m) tall in the early stages of succession, but in later stages it formed a single-stemmed tree, 31 feet (9.4 m) tall, with a dense crown 22 feet (6.7 m) in diameter [71]. Similarly, observations in Ontario indicate that mature common buckthorn shrubs exhibit 2 basic shapes: tall and narrow in open areas, and squat in areas with competing woody vegetation [175]. In Wisconsin, however, common buckthorn in shaded woodlands generally had a 1- or 2-stemmed trunk with few side branches, whereas open-grown trees in wetlands usually had multiple trunks with numerous side branches [74]. Common buckthorn growth habit has been described as dense, with interlocking branches [36,86].
 
-![A photo of leafy stems growing densely in a forest understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_saplings.jpg)
+![A photo of leafy stems growing densely in a forest understory.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-rhaspp_saplings.jpg)
 
 Photo Credit
 
@@ -388,7 +388,7 @@ Buckthorn saplings.
 
 Although no quantitative evidence was available to describe common buckthorn abundance in European habitats, scientists who have observed common buckthorn in mainland Europe report that large, dense thickets do not usually occur [116]. In England, however, it can form nearly monospecific stands in some fens [69,116]. This is evident in a series of maps of Wicken Fen shown by Godwin [69] in his 1936 publication and by Godwin and others [72] (dated 1972). The 1972 map shows dense and widespread stands of common buckthorn about 50 years after cessation of haying. The authors describe "enlargement and fusion of the crowns" of common buckthorn [72]. Dense, continuous, sometimes monospecific thickets of common buckthorn are often reported in areas where it is invasive in North America (e.g., [4,20,36,45,75,95,141,160]).
 
-![A photo of a large tree with a smaller, denser shrubby tree growing beneath it.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_understory.jpg)
+![A photo of a large tree with a smaller, denser shrubby tree growing beneath it.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-rhaspp_understory.jpg)
 
 Photo Credit
 
@@ -592,7 +592,7 @@ Mature common buckthorn shrubs may have positive or neutral effects on common bu
 
 While a common buckthorn canopy does not appear to reduce seedling establishment and growth, it may inhibit seedling persistence. Researchers recorded densities of 20 to 200 large (3- to 12-inch (7-30 cm) tall) common buckthorn seedlings/m² beneath the female trees near London, Ontario; however, few taller seedlings were recorded (Norman and others unpublished data cited by [175]). Many common buckthorn seedlings were observed growing under parent trees at the University of Wisconsin Arboretum; however, common buckthorn saplings seemed not to survive under parent trees, while saplings around the canopy perimeters did [74]. Differences among studies may be due to differences in stand structure and corresponding light levels experienced by the seedlings, or difference in other site characteristics that can influence common buckthorn seedling establishment, survival, and growth.
 
-![A photo of seedlings with several leaves on bare ground with some small woody debris.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_seedlings.jpg)
+![A photo of seedlings with several leaves on bare ground with some small woody debris.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-rhaspp_seedlings.jpg)
 
 Photo Credit
 
@@ -600,7 +600,7 @@ Photo by S. Kelly Kearns.
 
 Buckthorn seedlings on bare soil.
 
-![A photo of seedlings emerging through a layer of fallen deciduous leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhaspp_seedlings_litter.jpg)
+![A photo of seedlings emerging through a layer of fallen deciduous leaves.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-rhaspp_seedlings_litter.jpg)
 
 Photo Credit
 

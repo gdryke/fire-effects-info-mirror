@@ -47,7 +47,7 @@ The scientific name of common manzanita is _Arctostaphylos manzanita_ Parry (Eri
 
 In this review, "common manzanita" refers to information that is general to the species. Subspecies are referred to by the common names listed above.
 
-![A photo of a hillside with widely spaced green shrubs and reddish soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcman_habitat.jpg)
+![A photo of a hillside with widely spaced green shrubs and reddish soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcman_habitat.jpg?itok=dIpsClbR)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ whiteleaf manzanita, big manzanita, Parry manzanita
 
 Common manzanita is endemic to California. It occurs in the North Coast Ranges and extends eastward and southward to the Cascade Range and Sierra Nevada foothills [1,21,36]. In the lower elevations of northern California, common manzanita is one of the most widespread species of its genus [19]. The typical subspecies is the most widespread, occurring at low elevations in the North Coast Ranges, east through the Cascade Range, and throughout the Sierra Nevada foothills. The other subspecies have narrow distributions [21,37].
 
-![A map of California with many northern and some central counties highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcman_map.jpg)
+![A map of California with many northern and some central counties highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcman_map.jpg?itok=N_VCWNwk)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Common manzanita occupies a variety of soils. It is most common on dry, rocky si
 
 Common manzanita occurs in chaparral, oak (_Quercus_ spp.) woodlands, and coniferous forests of northern and central California. In many communities it occurs as an associated species; however, it is dominant in some chaparral of the North Coast Ranges [65,66]. It forms closed pygmy forests in the Napa Ranges [34], "impenetrable low forests" in the middle and inner Coast Ranges [32], and thickets of "solid forest-like growth" in the North Coast Ranges [16].
 
-![A photo of a large shrub on a grassy slopy with widely spaced trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcman_hero.jpeg)
+![A photo of a large shrub on a grassy slopy with widely spaced trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcman_hero.jpeg?itok=fsWuBqNO)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ See the Fire Regime Table for a list of plant communities in which common manzan
 
 ## Botanical Description
 
-![A photo of a drooping cluster of bell-shaped, whitish flowers below leathery green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcman_flowers.jpg)
+![A photo of a drooping cluster of bell-shaped, whitish flowers below leathery green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcman_flowers.jpg?itok=A9fIL7Oh)
 
 Photo Credit
 

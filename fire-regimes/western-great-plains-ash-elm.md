@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for western Great Plains ash-elm communities ha
 
 ## Distribution
 
-![A map showing the distribution of western Great Plains ash-elm communities in the north-central U.S.]({{ site.baseurl }}/assets/images/fire-regimes/western-great-plains-ash-elm_feis-western_great_plains_ash_elm_locator.jpg)
+![A map showing the distribution of western Great Plains ash-elm communities in the north-central U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-western_great_plains_ash_elm_locator.jpg?itok=AY-ukJV2)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Appalachian mesic oak-pine communities has 
 
 ## Distribution
 
-![A map showing the distribution of Appalachian mesic oak-pine communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/appalachian-mesic-oak-pine_feis-appalachian_mesic_oak_pine_locator.jpg)
+![A map showing the distribution of Appalachian mesic oak-pine communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-appalachian_mesic_oak_pine_locator.jpg?itok=_Ppc__f-)
 
 Photo Credit
 

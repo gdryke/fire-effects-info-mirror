@@ -36,7 +36,7 @@ Fryer, Janet L. 2011. (Revised from Matthews, Robin F. 1993.) _Antennaria parvif
 
 Editor’s note: In 2011, this species review was revised from the original (1993) version based on a search for new literature on the species’ regeneration patterns, successional relationships, and responses to fire. Sections on the species’ distribution and other (nonfire) management were not addressed in the 2011 revision.
 
-![Photo of small-leaf pussytoes growing on forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-antpar_plants.jpg)
+![Photo of small-leaf pussytoes growing on forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-antpar_plants.jpg?itok=EZIbS3py)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ Nuttall's pussytoes, common pussytoes
 
 ## Distribution
 
-![Small-leaf pussytoes map distribution in North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-antpar_map.png)
+![Small-leaf pussytoes map distribution in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-antpar_map.png?itok=Mo13_X9d)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ In the Great Lakes, small-leaf pussytoes occurs on dunelands and dry prairies an
 
 ## Botanical Description
 
-![Photo of stolons and root structure of small-leaf pussytoes.]({{ site.baseurl }}/assets/images/species-reviews/antpar_feis-roots_antpar.jpg)
+![Photo of stolons and root structure of small-leaf pussytoes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-roots_antpar.jpg?itok=vU9YXyl0)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Seeds of small-leaf pussytoes are light and wind-dispersed [3,14,22]. The seed's
 
 One study demonstrated that small-leaf pussytoes has a soil-stored seedbank, although longevity of soil-stored seed was unknown as of 2011. In the greenhouse, small-leaf pussytoes averaged 67 emergents/m² from soils collected beneath an interior ponderosa pine (_P. ponderosa_ var. _scopulorum_) forest on the North Rim of Grand Canyon National Park, Arizona. The top 2 inches (5 cm) of soil was collected from site with a history of limited grazing and no logging [16].
 
-![Photo of small-leaf pussytoes growing in the Missoula Fire Science Laboratory's native prairie garden.]({{ site.baseurl }}/assets/images/species-reviews/antpar_feis-plant_antpar_old.jpg)
+![Photo of small-leaf pussytoes growing in the Missoula Fire Science Laboratory's native prairie garden.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-plant_antpar_old.jpg?itok=PZIpEUq1)
 
 Photo Credit
 

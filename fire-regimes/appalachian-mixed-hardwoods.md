@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Appalachian mixed-hardwood communities has 
 
 ## Distribution
 
-![A map showing the distribution of Appalachian mixed-hardwood communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/appalachian-mixed-hardwoods_feis-appalachian_mixed_hardwoods_locator.jpg)
+![A map showing the distribution of Appalachian mixed-hardwood communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-appalachian_mixed_hardwoods_locator.jpg?itok=78fOazMm)
 
 Photo Credit
 

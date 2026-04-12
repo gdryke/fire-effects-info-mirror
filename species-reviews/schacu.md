@@ -65,7 +65,7 @@ Hardstem bulrush occurs from Nova Scotia and Newfoundland west to southern Briti
 
 ## Site Characteristics
 
-[![Bulrushes growing in a relatively dense cluster in standing water with trees growing on land behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-schacu_habitat.jpg)Photo Credit Photo by Timothy McNitt, iNaturalist (CC BY 4.0). Hardstem bulrush growing in Washington.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Bulrushes growing in a relatively dense cluster in standing water with trees growing on land behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schacu_habitat.jpg?itok=IF4nbhID)Photo Credit Photo by Timothy McNitt, iNaturalist (CC BY 4.0). Hardstem bulrush growing in Washington.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Hardstem bulrush grows best on sites with saturated soil or standing water for most of the year. It occurs in marshes, swamps, seeps, washes, floodplains, along lake and stream margins, and in wet meadows [27,35,38,44,82]. It grows in fresh or brackish water [18,45,51,57]. Soils are usually poorly drained [18,76] or continually saturated [4,9,15,56]. Hardstem bulrush can grow in areas where the water table is up to 5 feet (1.5 m) above or 0.33 feet (0.1 m) below the soil surface [29,36,56,76]. In Montana hardstem bulrush is an obligate wetland species [4] and an indicator of relatively stable water conditions (areas where free water remains in the rooting zone for at least part of the growing season and can be periodically flooded up to 6.6 feet [2 m]) [56]. In Utah hardstem bulrush is subordinate to Olney threesquare because of limitations in salinity tolerance, shallow water, and competitiveness [5]. Hardstem bulrush is fairly drought tolerant; it can persist through several years of dry conditions [29]. Hardstem bulrush grows in silt loam, clay, sandy loam, gravel, marl, and peaty soils [12,29,33,38,76].
 
@@ -87,7 +87,7 @@ Saskatchewan| 1,650–2,640| 500–800| [77]
 
 Hardstem bulrush often forms monocultures in marshes throughout its range [17,76,88]. It is a member of sandhill, spring fen, graminoid fen, and wet meadow communities [6,11,17,70].
 
-[![Bulrushes growing in a desert wetland with many brown stems and some green ones, with green shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schacu_community.jpg)Photo Credit Photo by Shannon, iNaturalist (CC BY-NC). Hardstem bulrush growing in Clark County Wetlands Park in Nevada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![Bulrushes growing in a desert wetland with many brown stems and some green ones, with green shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schacu_community.jpg?itok=q4fCoTkO)Photo Credit Photo by Shannon, iNaturalist (CC BY-NC). Hardstem bulrush growing in Clark County Wetlands Park in Nevada.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 In California, hardstem bulrush is a member of montane, coastal, and valley freshwater marsh communities. Common associates include Olney threesquare (_Scirpus americanus_), California bulrush (_S. californicus_), slenderbeak sedge (_Carex athrostachya_), Nebraska sedge (_C. nebracensis_), swamp carex (_C. senta_), cottonsedge (_Eriophorum_ spp.), common reed (_Phragmites australis_), and yellow nutgrass (_Cyperus esculentus_) [37,83]. In the western and central United States, a common cattail (_Typha latifolia_)-hardstem bulrush habitat type has been described [1,10,73].
 

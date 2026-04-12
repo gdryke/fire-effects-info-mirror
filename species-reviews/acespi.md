@@ -59,7 +59,7 @@ Mountain maple is found throughout southeastern Canada and the northeastern Unit
 
 ## Site Characteristics
 
-![A photo of a waterfall in a forest, surrounded by various types of small trees and shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-acespi_habitat.jpg)
+![A photo of a waterfall in a forest, surrounded by various types of small trees and shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-acespi_habitat.jpg?itok=JkYBeQJY)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ The most common understory associates of mountain maple include hobblebush (Vibu
 
 ## Botanical Description
 
-![A photo of a tree branch with wide, green leaves and hanging green samaras. Some of the small stems are pink. The background is shady with green foliage.]({{ site.baseurl }}/assets/images/species-reviews/feis-acespi_plant.jpeg)
+![A photo of a tree branch with wide, green leaves and hanging green samaras. Some of the small stems are pink. The background is shady with green foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-acespi_plant.jpeg?itok=kN1RKphs)
 
 Photo Credit
 

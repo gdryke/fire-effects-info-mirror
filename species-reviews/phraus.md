@@ -61,7 +61,7 @@ carrizo, Danube grass, Roseau cane
 
 Common reed is one of the most widely distributed flowering plants [15,114]. It occurs on every continent except Antarctica [190] and is cosmopolitan in temperate zones [136]. Common reed is widely distributed in North America, occurs in all US states except Alaska, and in all Canadian provinces and territories except Nunavut and Yukon [112]. Common reed is native to Puerto Rico and occurs as a nonnative in Hawaii [73,231]. Grass Manual on the Web provides a map of common reed's North American distribution.
 
-![A photo of a stand of grasses growing along the shoreline of a lake. Trees and still water are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-phraus_stand.jpg)
+![A photo of a stand of grasses growing along the shoreline of a lake. Trees and still water are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-phraus_stand.jpg?itok=qGxJt_tt)
 
 Photo Credit
 
@@ -224,7 +224,7 @@ _Phragmites australis_ subsp. _americanus_ , _P. a_. var. _berlandieri_ , and th
 
 Common reed is a robust perennial grass that may reach 20 feet (6 m) tall [84,127,215]. It is the tallest native grass in Nova Scotia [190], Montana [136], and possibly other states or provinces. Maximum height is not typically reached until plants are 5 to 8 years old [52]. Common reed spreads by clonal growth via stolons and rhizomes, and produces dense stands [51,85,111,127]. Clones are long-lived; some report clones may persist for over 1,000 years (Rudescu and others 1965, cited in [100]), but no portion of the clone lives more than 8 years. Rhizomes typically outlive aboveground shoots [102]. Stolons are most typical during times of low water and reach lengths of up to 43 feet (13 m) [142,235].
 
-![A photo of vertical stems of a reed attached by horizontal stems running just along the wet soil surface.]({{ site.baseurl }}/assets/images/species-reviews/feis-phraus_stolon.jpg)
+![A photo of vertical stems of a reed attached by horizontal stems running just along the wet soil surface.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-phraus_stolon.jpg?itok=eQURG3ci)
 
 Photo Credit
 
@@ -240,7 +240,7 @@ Extensive rhizome and stolon growth produces dense common reed stands [51,85,111
 
 Rhizomes are thick, "deep seated", and scaly [142,159] and can grow to 70 feet (20 m) long [114]. Rhizomes may grow 16 inches (40 cm)/year [54] and live 2 to 3 years [114]. Rhizomes in soil are commonly long, thick, and unbranched. In water, rhizomes are more slender, produce multiple branches, and are often shorter [114]. In the Prairie Provinces, common reed plants growing in wet soil at the water's edge produced thick, soft, spongy rhizomes that branched in several directions and at several levels. There were clusters of roots bearing other hair-like roots at the nodes [107].
 
-![A photo of a shovel in a hole, with a horizontal, white, jointed rhizome extending across one side of the hole.]({{ site.baseurl }}/assets/images/species-reviews/feis-phraus_rhizome.jpg)
+![A photo of a shovel in a hole, with a horizontal, white, jointed rhizome extending across one side of the hole.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-phraus_rhizome.jpg?itok=TF55Azfm)
 
 Photo Credit
 
@@ -563,7 +563,7 @@ Research from the Netherlands and Britain indicate that climatic conditions duri
 
 Fuels in common reed stands are conducive to flammability and fire spread. The high productivity and density of common reed stands provide fuel loads that are often higher than those of neighboring upland vegetation. In the upper Midwest, wetland fires can burn "hotter" and, given proper conditions, "faster" than fires in upland sites [188]. Common reed vegetation on the barrier islands of the Mid-Atlantic Coastal Plain is considered "extremely flammable" in the winter and early spring [83]. On unburned sites in the Delta Marsh of south-central Manitoba, common reed litter can be 18 inches (46 cm) deep [239]. On Cape Hatteras National Seashore, researchers indicated that fire carried even in flooded conditions provided dry litter was present [31].
 
-![A photo of dense, dried wetland vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-phraus_fuels.jpg)
+![A photo of dense, dried wetland vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-phraus_fuels.jpg?itok=Pxa33Jqq)
 
 Photo Credit
 

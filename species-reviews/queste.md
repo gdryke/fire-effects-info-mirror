@@ -116,7 +116,7 @@ The following published classifications list post oak as a dominant or codominan
 
 ## Botanical Description
 
-![A photo of a stand of small, somewhat crooked oak trees with a few small shrubs and prickly pear cacti growing below the canopy. The ground is covered in dry brown leaves and a few large boulders are scattered around.]({{ site.baseurl }}/assets/images/species-reviews/feis-queste_habitat.jpg)
+![A photo of a stand of small, somewhat crooked oak trees with a few small shrubs and prickly pear cacti growing below the canopy. The ground is covered in dry brown leaves and a few large boulders are scattered around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-queste_habitat.jpg?itok=ddZeA_3S)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ Post oak flowers from March to June depending on elevation and latitude. Flowers
 
 **Sexual:** Post oak is monoecious. Seed production begins when the tree is about 25 years old. Good crops occur at 2- to 3-year intervals. Post oak does not produce as many acorns as white oak, blackjack oak, black oak (Quercus velutina), or scarlet oak (Q. coccinea) [47].
 
-![A close up photo of an oak tree's smooth, brown acorns growing on a branch. Brown and green-brown leaves are visible around the acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-queste_acorns.jpg)
+![A close up photo of an oak tree's smooth, brown acorns growing on a branch. Brown and green-brown leaves are visible around the acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-queste_acorns.jpg?itok=bTHVFr-3)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Hauser, A. Scott. 2006. _Artemisia californica_ , California sagebrush. In: Fire
 
 ## Introduction
 
-![A photo of a sagebrush plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_plant.jpg)
+![A photo of a sagebrush plant.](https://research.fs.usda.gov/sites/default/files/2026-01/feis-artcal_plant.jpg)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ In coastal sage scrub communities of the Santa Monica Mountains, California sage
 
 California sagebrush is the most important and widely distributed plant in the coastal sage scrub or "soft chaparral" community type [41,86,103,117,188,202]. It also occurs with limited distribution in "hard chaparral" communities dominated or codominated by chamise (_Adenostoma fasciculatum_), bigpod ceanothus (_Ceanothus megacarpus_), hoaryleaf ceanothus (_C. crassifolius_), California scrub oak (_Quercus dumosa_), curlleaf mountain-mahogany (_Cercocarpus ledifolius_), sugar sumac (_Rhus ovata_), toyon (_Heteromeles arbutifolia_), and hollyleaf cherry (_Prunus ilicifolia_) [62,70,86,140,188]. In the Great Basin sage scrub community of the San Bernardino Mountains, California sagebrush is codominant with rubber rabbitbrush (_Chrysothamnus nauseosus_) and antelope bitterbrush (_Purshia tridentata_) [144]. In plant communities adjacent to coastal sage scrub, overstory associates of California sagebrush include bigcone Douglas-fir (_Pseudotsuga macrocarpa_), Monterey pine (_Pinus radiata_), bishop pine (_P. muricata_), singleleaf pinyon (_P. monophylla_), California juniper (_Juniperus californica_), and Tecate cypress (_Cupressus forbesii_) [10,26,99,103,134,135,140,150,169,188,194,196].
 
-![A photo of a gray-green shrub growing with dense shrubs and small trees, with low fog obscuring the outlines of the hills behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_habitat.jpg)
+![A photo of a gray-green shrub growing with dense shrubs and small trees, with low fog obscuring the outlines of the hills behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artcal_habitat.jpg?itok=9oQqI5Rh)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Photo by klicklo, iNaturalist.org, some rights reserved.
 
 California sagebrush growing in San Mateo County, California ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![A photo of a somewhat low growing, much branched shrub with dried grass and dry, patchy shrubs growing on rolling hills around. Green trees and roofs of homes are visible in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_habitat2.jpg)
+![A photo of a somewhat low growing, much branched shrub with dried grass and dry, patchy shrubs growing on rolling hills around. Green trees and roofs of homes are visible in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artcal_habitat2.jpg?itok=2qO2ExYS)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ California sagebrush is listed as a dominant or codominant species in the follow
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [60,94,155,156,210]).
 
-![A photo of a much-branched shrub with many narrow green leaves growing along twigs. Branches are thin and branch into many thin twigs along their lengths.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_plant2.jpg)
+![A photo of a much-branched shrub with many narrow green leaves growing along twigs. Branches are thin and branch into many thin twigs along their lengths.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artcal_plant2.jpg?itok=15owUaZv)
 
 Photo Credit
 
@@ -239,7 +239,7 @@ Flowering| April to June
 Fruiting| June to August 
 Dried leaves| August to December 
  
-![A close-up photo of the tightly clustered, inconspicuous yellow flowers of a sagebrush inflorescence.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_flower.jpg)
+![A close-up photo of the tightly clustered, inconspicuous yellow flowers of a sagebrush inflorescence.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artcal_flower.jpg?itok=VEVXxGtE)
 
 Photo Credit
 
@@ -378,7 +378,7 @@ Low-severity fire top-kills California sagebrush [43,118,215]; high-severity fir
 
 California sagebrush has a high ratio of dead:live material, making it highly flammable [25]. Shrub species with a high proportion of ether extracts, above 8%, are also considered highly flammable. California sagebrush has a 15.6% level of ether extracts [74,148], characterizing it as "explosively flammable" [148,204].
 
-![A photo of a small, herbaceous shrub growing on bare soil with charred branches visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_fire.jpg)
+![A photo of a small, herbaceous shrub growing on bare soil with charred branches visible behind.](https://research.fs.usda.gov/sites/default/files/2026-01/feis-artcal_fire.jpg)
 
 Photo Credit
 
@@ -404,7 +404,7 @@ California sagebrush establishes after fire by seed [62,78,108,109,110,146,177,2
 
 Three years following a prescription fire in a Morro manzanita (_Arctostaphylos morroensis_) community, California sagebrush cover and frequency substantially increased. The burn, located in Montaña de Oro State Park, was conducted on 4 November 1998. Air temperature during the fire was 61 °F (16 °C), and relative humidity ranged from 50% to 60%. Flame lengths as great as 50 feet (15 m) were observed. In places, litter was still smoldering 24 hours following ignition. Prior to the fire, California sagebrush cover and frequency were 0.4% and 8.0%, respectively. In postfire year 3, cover and frequency increased to 7.0% and 61.0%, respectively. As a result of the burn, pure stands of Morro manzanita were transformed to mixed stands of native California sagebrush, coyote bush, and orange bush monkeyflower (_Diplacus aurantiacus_), and nonnative hottentot fig (_Carpobrotus edulis_), perennial veldtgrass (_Ehrharta calycina_), and narrow-leaved iceplant (_Conicosia pugioniformis_) [162].
 
-![A photo of an herbaceous, small shrub growing on bare ground with small, charred litter on the ground around it.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_postfire.jpg)
+![A photo of an herbaceous, small shrub growing on bare ground with small, charred litter on the ground around it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artcal_postfire.jpg?itok=4riEVXYp)
 
 Photo Credit
 
@@ -545,7 +545,7 @@ The mean (8 samples/month for 24 months) annual nutrient content of California s
  
 ### Cover Value
 
-![A photo of a coyote peering over a gray-green shrub, staring directly at the camera with attentive ears. A second coyote is nearly fully visible standing behind. Vegetation is a mix of dense shrubs with open grassy patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-artcal_coyote.jpg)
+![A photo of a coyote peering over a gray-green shrub, staring directly at the camera with attentive ears. A second coyote is nearly fully visible standing behind. Vegetation is a mix of dense shrubs with open grassy patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-artcal_coyote.jpg?itok=UPmaK13g)
 
 Photo Credit
 

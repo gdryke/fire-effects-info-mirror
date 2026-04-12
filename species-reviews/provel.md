@@ -86,7 +86,7 @@ Mesquite bosques were typically open and parklike. Velvet mesquite often forms n
 
 ## Botanical Description
 
-![A photo of a rocky desert landscape with a wide spreading large shrub or small tree taking up most of the frame. a few other small shrubs are visible, but it is mostly bar rock with red-purple rock formations in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-provel_habitat.jpg)
+![A photo of a rocky desert landscape with a wide spreading large shrub or small tree taking up most of the frame. a few other small shrubs are visible, but it is mostly bar rock with red-purple rock formations in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-provel_habitat.jpg?itok=CypAXVEl)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Velvet mesquite is a deciduous, thorny shrub or small tree. Plants may grow into
 
 Velvet mesquite has a strong tendency for apical dominance and a well-developed crown [89]. Undisturbed plants therefore develop into single-stemmed trees. If the aboveground growth is damaged or removed, such as by freezing weather, drought, fire, trampling, browsing, or cutting, dormant buds located on the underground stem initiate new growth, resulting in the many-stemmed growth form. In many semi-desert grasslands the shrubby form predominates because years of browsing, trampling, and repeated chemical or mechanical control attempts resulted in many plants sprouting from the base [114].
 
-![A close up photo of a branch with long sprays of creamy yellow flowers hanging down and long, divided leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-provel_flower.jpg)
+![A close up photo of a branch with long sprays of creamy yellow flowers hanging down and long, divided leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-provel_flower.jpg?itok=z9Zl88x3)
 
 Photo Credit
 

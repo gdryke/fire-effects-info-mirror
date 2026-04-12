@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Central Atlantic coastal plain maritime for
 
 ## Distribution
 
-![A map showing the distribution of Central Atlantic coastal plain maritime forest communities in the eastern coastal U.S.]({{ site.baseurl }}/assets/images/fire-regimes/central-atlantic-coastal-plain-maritime-forest_feis-central_atlantic_coastal_plain_maritime_forest_locator.jpg)
+![A map showing the distribution of Central Atlantic coastal plain maritime forest communities in the eastern coastal U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-central_atlantic_coastal_plain_maritime_forest_locator.jpg?itok=iHtMt5Ve)
 
 Photo Credit
 

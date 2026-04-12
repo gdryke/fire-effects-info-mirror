@@ -34,7 +34,7 @@ Hauser, A. Scott. 2006. _Eleocharis palustris_ , common spikerush. In: Fire Effe
 
 ## Introduction
 
-![A photo of bight green, upright spikerush stems, each with a single flowering spike.]({{ site.baseurl }}/assets/images/species-reviews/feis-elepal_flowering.jpeg)
+![A photo of bight green, upright spikerush stems, each with a single flowering spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-elepal_flowering.jpeg?itok=2ZDgI5HW)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Common spikerush is found throughout the United States (including Alaska and Haw
  * United States: AL AK AZ AR CA CO CT DE HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY
  * Canada: AB BC MB NT NS ON PQ SK YK
 
-![A photo of a pond with common spikerush growing around the edges in shallow water.]({{ site.baseurl }}/assets/images/species-reviews/feis-elepal_habitat.jpeg)
+![A photo of a pond with common spikerush growing around the edges in shallow water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-elepal_habitat.jpeg?itok=1BOORLJw)
 
 Photo Credit
 
@@ -294,7 +294,7 @@ Canadian regions:
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available ([2,18,76,33,39,59,63,70,74,81,87,104,114,115,123,127,136,140,175,178]).
 
-![A photo of an uprooted rhizome with evenly-spaced stems growing along it, each with a single flowering spike.]({{ site.baseurl }}/assets/images/species-reviews/feis-elepal_rhizomes.jpg)
+![A photo of an uprooted rhizome with evenly-spaced stems growing along it, each with a single flowering spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-elepal_rhizomes.jpg?itok=FbwT2w76)
 
 Photo Credit
 

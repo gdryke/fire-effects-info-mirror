@@ -52,7 +52,7 @@ California fever bush, flannel bush, quinine bush, silktassel bush
 
 ## General Distribution
 
-![Photo of map distribution of bearbrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-garfre_map.png)
+![Photo of map distribution of bearbrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-garfre_map.png?itok=tVylS55k)
 
 Photo Credit
 

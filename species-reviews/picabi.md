@@ -70,7 +70,7 @@ In its native range, Norway spruce occurs in pure stands, transitional stands mi
 
 ## Botanical Description
 
-![A photo of a tall conifer tree rising high above the surrounding forest canopy, with rolling green mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-picabi_habitat.jpeg)
+![A photo of a tall conifer tree rising high above the surrounding forest canopy, with rolling green mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-picabi_habitat.jpeg?itok=8hXzjQBK)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Norway spruce cones open from May to June. Seeds ripen in late autumn the same y
 
 **Sexual reproduction:** Norway spruce usually first reproduces at 30 to 40 years of age. Good seed crops are produced every 3 to 4 years in Britain, 8 to 10 years in Norway, and 12 to 13 years in Finland [42,87]. Most of the seeds are produced in the crowns of dominant stems; seed yield is lower in smaller stems in stands of the same age. Norway spruce seeds are wind dispersed, but do not usually travel much farther than the height of the parent tree [42]. Movement after dispersal, however, can be considerable when seeds are dispersed onto crusted snow and are pushed along on the surface by wind [34,74]. Seeds of Norway spruce germinate promptly and do not require pretreatment or exacting light regimes. Moist chilling of some spruce (_Picea_ spp.) seeds removes the requirement for light [87]. Optimum germination temperature for Norway spruce seeds is around 73 degrees Fahrenheit (23 deg C) but germination will occur up to about 91 degrees Fahrenheit (33 deg C) [42]. Seedling growth is best at constant low temperature (48 degrees Fahrenheit (9 deg C)), rather than with fluctuating temperatures or steady high temperatures [36]. The seedlings are sensitive to drought and/or overheating, particularly when the soil surface is exposed to direct insolation [42]. In Utah, nursery-grown seedlings inclined to the south (to shade the soil directly under the seedling and keep the roots cooler and wetter) averaged 6 percent mortality from heat damage, whereas seedlings inclined to the north averaged 30 percent mortality from the same cause [41]. Other studies support the hypothesis that shading improves early seedling survival [33,77]. Thin humus (as opposed to thick humus) hinders Norway spruce establishment since it dries out more quickly and contributes to drought stress of the seedlings [70].
 
-![A close up photo of a conifer branch with long, pointed, closed green cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-picabi_cones.jpg)
+![A close up photo of a conifer branch with long, pointed, closed green cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-picabi_cones.jpg?itok=GBh2t7TP)
 
 Photo Credit
 

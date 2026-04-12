@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for eastern glades and barren communities has n
 
 ## Distribution
 
-![A map showing the distribution of eastern glades and barren communities in the eastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/eastern-glades-and-barrens_feis-eastern_glades_and_barrens_locator.jpg)
+![A map showing the distribution of eastern glades and barren communities in the eastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-eastern_glades_and_barrens_locator.jpg?itok=QzzpiaSD)
 
 Photo Credit
 

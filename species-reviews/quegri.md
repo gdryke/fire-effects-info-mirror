@@ -65,7 +65,7 @@ Gray oak can be found from lower slopes to ridgetops [20]. It occurs from 4,000 
 
 ## Plant Communities
 
-![A photo of a large, broad, spreading tree with many gray-blue leaves. A picnic table is in the shade of the tree, with branches growing low enough they almost touch the table. The area is dusty, rocky desert.]({{ site.baseurl }}/assets/images/species-reviews/feis-quegri_habitat.jpeg)
+![A photo of a large, broad, spreading tree with many gray-blue leaves. A picnic table is in the shade of the tree, with branches growing low enough they almost touch the table. The area is dusty, rocky desert.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-quegri_habitat.jpeg?itok=P_YBo05v)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Several woody species associated with gray oak that are not mentioned in table A
 
 ## Botanical Description
 
-![A close up photo of an oak tree's oval, dusty green leaves and elongated, tan to brown acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quegri_acorns.jpeg)
+![A close up photo of an oak tree's oval, dusty green leaves and elongated, tan to brown acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-quegri_acorns.jpeg?itok=_ttKawWm)
 
 Photo Credit
 

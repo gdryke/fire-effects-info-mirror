@@ -106,7 +106,7 @@ Central Oregon| general veg. pas| Volland 1985a
  
 Common beargrass is a perennial, evergreen herb from the lily family with basal leaves that form dense clumps or tussocks [81]. The linear leaves arise from a short, woody rhizome and are scabrous, tough, and wiry [51]. If pulled or stepped on, the grasslike leaves easily slide out of their sheaths [58]. Any particular plant may not bloom for several years but when it does it will produce a leafy flowering stalk that may be up to 6 feet (15 dm) tall with numerous small white flowers [51]. The sequence of bloom is from the lowest flowers to the upper flowers resulting in a knob of tight buds on top of the flower cluster [42].
 
-![Two plants with bunched grassy leaves and tall stalks covered in tufts of white flowers grow in a conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-xerten_habitat.jpg)
+![Two plants with bunched grassy leaves and tall stalks covered in tufts of white flowers grow in a conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-xerten_habitat.jpg?itok=VHgA9YlD)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ The meristematic region, or growing point, of a common beargrass rhizome is rest
 
 Common beargrass sprouts from the root crown and/or rhizomes, providing they are not killed by fire. The response of common beargrass to fire is variable [15]. Two important factors in common beargrass recovery appear to be the impact of the fire on the soil surface and the suitability of the site for common beargrass. Common beargrass initially decreases after wildfire or relatively hot broadcast burns, although changes in its cover are variable or slight after light burns [9,48]. When slash fires in the Rocky Mountains destroy common beargrass rhizomes, common beargrass is frequently unable to recolonize the burned site quickly despite its normal ability to persist and thrive in openings [86]. Common beargrass regrowth following fire in this area is often slow [59,83,92]. However, in Oregon, while common beargrass rhizomes may be killed by hot surface fires, common beargrass is likely to invade areas with exposed soil [43].
 
-![Grass-like tufts grow in a circle around a burned patch of soil. The surrounding area is burned bare soil with a few other green plants sprouting from the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-xerten_sprouts.jpg)
+![Grass-like tufts grow in a circle around a burned patch of soil. The surrounding area is burned bare soil with a few other green plants sprouting from the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-xerten_sprouts.jpg?itok=xZjb-bvN)
 
 Photo Credit
 

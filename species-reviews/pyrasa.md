@@ -34,7 +34,7 @@ Gucker, Corey L. 2007. _Pyrola asarifolia_ , liverleaf wintergreen. In: Fire Eff
 
 ## Image Gallery
 
-![Photo of liverleaf wintergreen in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-pyrasa_flower.jpeg) Liverleaf wintergreen in bloom. _Photo by Ellyne Geurtz, iNaturalist.org, no rights reserved_
+![Photo of liverleaf wintergreen in bloom.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-pyrasa_flower.jpeg) Liverleaf wintergreen in bloom. _Photo by Ellyne Geurtz, iNaturalist.org, no rights reserved_
 
 Photo Credit: Photo by Ellyne Geurtz, iNaturalist.org, no rights reserved
 
@@ -141,7 +141,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 ### Aboveground description
 
-![Photo of liverleaf wintergreen in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-pyrasa_flower.jpeg)
+![Photo of liverleaf wintergreen in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pyrasa_flower.jpeg?itok=NqWykFgE)
 
 Photo Credit
 

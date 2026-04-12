@@ -66,7 +66,7 @@ northern whip-poor-will, ,whippoorwill, whip-poorwill, poorwill
 
 The eastern whip-poor-will is native to North America and Central America (fig. 2). It is a migratory species, with no known resident populations, and individuals spend more than half the year on migration and wintering grounds [26]. While its populations are declining in some areas (see Population Trends), and some areas lack populations that had them historically, the extent of the eastern whip-poor-will’s current range and that of its historical range appear similar [87].
 
-![Distribution of the eastern whip-poor-will in North America and Central America. Orange indicates breeding range. Yellow indicates where the bird might be found during migration. Bird indicates the nonbreeding, wintering range.]({{ site.baseurl }}/assets/images/species-reviews/anvo_feis-ANVO_map.png)
+![Distribution of the eastern whip-poor-will in North America and Central America. Orange indicates breeding range. Yellow indicates where the bird might be found during migration. Bird indicates the nonbreeding, wintering range.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ANVO_map.png?itok=vTcAZXeK)
 
 Photo Credit
 
@@ -157,7 +157,7 @@ In the dry forest, humid forest, and Sierra Madre Oriental ecoregions of Mexico 
 
 This review includes information covering many aspects of eastern whip-poor-will life history but focuses on those most relevant to fire. Much of the information on the general biology of the eastern whip-poor-will comes from a literature review in Birds of the World by Cink et al. (2020) [26] and the Recovery Strategy for the Eastern Whip-poor-will in Canada by Environment and Climate Change Canada [21]. Many aspects of its ecology are poorly understood in part because of its cryptic coloration and crepuscular and nocturnal behavior [26].
 
-![A female eastern whip-poor-will perches on a stick in a forest.]({{ site.baseurl }}/assets/images/species-reviews/anvo_feis-ANVO_female.jpg)
+![A female eastern whip-poor-will perches on a stick in a forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ANVO_female.jpg?itok=_jAFXRli)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Eastern whip-poor-will are sometimes killed by vehicles and trains [26,109] and 
 
 ### Development and Reproduction
 
-![Eastern whip-poor-will eggs laid on oak litter.]({{ site.baseurl }}/assets/images/species-reviews/anvo_feis-ANVO_nest.jpg)
+![Eastern whip-poor-will eggs laid on oak litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ANVO_nest.jpg?itok=42IRT7VC)
 
 Photo Credit
 
@@ -496,7 +496,7 @@ The eastern whip-poor-will was designated as threatened in Canada in April 2009 
 
 NatureServe (2023) lists the status of eastern whip-poor-will as secure (G5) because it is still relatively common overall, although rare in certain parts of its range. As of 2023, the eastern whip-poor-will is considered critically imperiled in Saskatchewan and South Dakota and imperiled in Manitoba, Wisconsin, Oklahoma, Alabama, Vermont, and Massachusetts (fig. 5). Information on state- and province-level protection status of animals in the United States and Canada is available at NatureServe, although recent changes in status may not be included [89].
 
-![A map indicating the state and provincial conservation status of eastern whip-poor-will according to NatureServe. Dark blue indicates secure. Light blue indicates apparently secure. Yellow indicates vulnerable. Orange indicates imperiled. Red indicates critically imperiled. Tan indicates that the status is unknown.]({{ site.baseurl }}/assets/images/species-reviews/anvo_feis-ANVO_ConservationStatus.JPG)
+![A map indicating the state and provincial conservation status of eastern whip-poor-will according to NatureServe. Dark blue indicates secure. Light blue indicates apparently secure. Yellow indicates vulnerable. Orange indicates imperiled. Red indicates critically imperiled. Tan indicates that the status is unknown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ANVO_ConservationStatus.JPG?itok=1vOey31Q)
 
 Photo Credit
 

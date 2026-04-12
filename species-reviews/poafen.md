@@ -36,7 +36,7 @@ Howard, Janet L. 1997. _Poa fendleriana_ , muttongrass. In: Fire Effects Informa
 
 ## Taxonomy
 
-![A photo of a green bunchgrass growing among gray rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-poafen_plant_oldreview.jpg)
+![A photo of a green bunchgrass growing among gray rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poafen_plant_oldreview.jpg?itok=jJPW6vyt)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Populations with intermediate morphology occur in transition zones between subsp
 
 ## Site Characteristics
 
-[![A photo of a bunchgrass growing on a steep, rocky slope comprised mostly of red rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-poafen_habitat.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Muttongrass growing in Grand Canyon National Park, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass growing on a steep, rocky slope comprised mostly of red rocks.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-05/feis-poafen_habitat.jpg?itok=Aw-vBPjk)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Muttongrass growing in Grand Canyon National Park, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Muttongrass occurs mainly on dry sites such as mesas, hillsides, and dry woods [27,29,47]. It sometimes occurs on wetter sites, however. It has been noted in riparian zones in Zion National Park, Utah [27].
 
@@ -114,7 +114,7 @@ A preliminary classification of the natural vegetation of Colorado [3] Sagebrush
 
 ## Botanical and Ecological Characteristics
 
-[![A close-up photo of a relatively dense grass panicle, with red and white striped spikelets with green bases.]({{ site.baseurl }}/assets/images/species-reviews/feis-poafen_panicle.jpg)Photo Credit Photo by Don Loarie, iNaturalist (CC BY 4.0). Muttongrass panicles.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a relatively dense grass panicle, with red and white striped spikelets with green bases.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poafen_panicle.jpg?itok=4LGAh3aS)Photo Credit Photo by Don Loarie, iNaturalist (CC BY 4.0). Muttongrass panicles.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical Description
 

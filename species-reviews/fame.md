@@ -66,7 +66,7 @@ Prairie falcons commonly occur in arid and semiarid shrubland and grassland comm
 
 ## Biological Characteristics
 
-![A prairie falcon perched on a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-fame_bird.jpg)
+![A prairie falcon perched on a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fame_bird.jpg?itok=8aurEYh9)
 
 Photo Credit
 

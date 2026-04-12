@@ -57,7 +57,7 @@ None
 
 ## General Distribution
 
-![A photo of a stand of conifer trees with sparse, open canopies, and light-colored lichen hanging from many branches. The trees are in the open, but there is a forest in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesgov_habitat.jpeg)
+![A photo of a stand of conifer trees with sparse, open canopies, and light-colored lichen hanging from many branches. The trees are in the open, but there is a forest in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesgov_habitat.jpeg?itok=yzQ4t1Vh)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Species not included in table A1 but commonly associated with Gowen cypress incl
 
 ## Botanical Description
 
-![A close up photo of a long cluster of small, round, closed conifer cones attached to the end of a thin branch. The background is a conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesgov_cones.jpg)
+![A close up photo of a long cluster of small, round, closed conifer cones attached to the end of a thin branch. The background is a conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesgov_cones.jpg?itok=jeLbF8Cn)
 
 Photo Credit
 

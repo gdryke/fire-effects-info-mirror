@@ -34,7 +34,7 @@ Scher, Janette S. 2001. _Tetradymia canescens_ , spineless horsebrush. In: Fire 
 
 ## Introduction
 
-![A photo of a spineless horsebrush shrub with many yellow flowers growing with other desert shrubs with a dry hill with patchy shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetcan_hero.jpg)
+![A photo of a spineless horsebrush shrub with many yellow flowers growing with other desert shrubs with a dry hill with patchy shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tetcan_hero.jpg?itok=_ZvmytDB)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Spineless horsebrush is native throughout most of the Great Basin and adjacent a
 
 Spineless horsebrush is found in dry, open places on hills, ridges, and plains [14,24,32,42,65] at elevations ranging from 1,300 to 10,800 feet (400-3,300 m) [19]. In the southern part of its range, spineless horsebrush is found at higher elevations (5,800-9,700 feet, 1,800-3,000 m), while in the northern areas of its range, British Columbia and Washington, it is found at lower elevations (1,300-1,900 feet, 400-600 m) [64]. It is adapted to medium to coarse soils with a pH of 7 to 8 [67] and is most often found in gravelly or sandy loams [6,32,65] in semi-desert saline or alkali loam range sites [32]. However, 1 source characterizes spineless horsebrush as salt intolerant. The annual moisture requirement of spineless horsebrush is 5-12 inches (130-300 mm); it is considered highly drought tolerant [67]. The plant tends to occur least frequently on south-facing slopes but occurs equally on north, east, and west slopes [33].
 
-![A photo of flowering spineless horsebrush growing on a steep rocky slope with snowy mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetcan_habitat.jpg)
+![A photo of flowering spineless horsebrush growing on a steep rocky slope with snowy mountains in the background.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-tetcan_habitat.jpg)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ Leaf drop| October 6
 
 Spineless horsebrush is a monoecious species with perfect flowers [42,64].
 
-![A photo of clusters of yellow flowers growing at the ends of the stems of a shrub with short, narrow, green leaves below the flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetcan_flowers.jpg)
+![A photo of clusters of yellow flowers growing at the ends of the stems of a shrub with short, narrow, green leaves below the flowers.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-tetcan_flowers.jpg)
 
 Photo Credit
 

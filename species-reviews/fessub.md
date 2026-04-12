@@ -77,7 +77,7 @@ Bearded fescue is found in upland coastal redwood (_Sequoia sempervirens_) fores
 
 Bearded fescue is commonly found in the Sitka spruce/devil's club (_Picea sitchensis_ /_Oplopanax horridus_) association in British Columbia and the Pacific Northwest [1]. It is also found in the coastal Douglas-fir (_Pseudotsuga menziesii_ var. _menziesii_) and western hemlock (_Tsuga heterophylla_) zones of British Columbia [19]. On the Saturna Island Ecological Reserve, British Columbia, bearded fescue is a member of a virgin Douglas-fir forest [22].
 
-[![A photo of an forest opening with a relatively dense understory of perennial grasses, each with a few broad, lax stem leaves. The ground is visible between plants. Conifers are visible to the side and in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fessub_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Bearded fescue dominating the understory of an open stand of Douglas fir in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of an forest opening with a relatively dense understory of perennial grasses, each with a few broad, lax stem leaves. The ground is visible between plants. Conifers are visible to the side and in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fessub_community.jpg?itok=Q_I4MSgy)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Bearded fescue dominating the understory of an open stand of Douglas fir in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Bearded fescue is a common understory species in red alder (_Alnus rubra_) communities in the central Oregon Coast Range [3]. In Washington, bearded fescue occurs in western hemlock/vanillaleaf (_Achlys triphylla_), western hemlock/devil's club, red alder/salmonberry (_Alnus rubra_ /_Rubus spectabilis_), and Pacific silver fir (_Abies amabilis_)/devil's club associations [6]. At Mount St. Helens, Washington, in the airfall area (the area surrounding the immediate devastated area), bearded fescue is one of the dominant riparian herbs [16].
 
@@ -89,7 +89,7 @@ Species commonly associated with bearded fescue not previously mentioned in Dist
 
 Bearded fescue is a native, perennial bunchgrass [8,14,24]. Culms are 16 to 32 inches (40-80 cm) tall [14,24]. Leaf blades are drooping, flat or loosely rolled, and 4 to 12 inches (10-30 cm) long [9]. The inflorescence is an open, loose panicle 4 to 16 inches (10-40 cm) long [9,24]. Bearded fescue is occasionally stoloniferous in Utah [9], and California plants reportedly have short rhizomes [24].
 
-[![A photo of a flowering open, loose grass panicle. A trail or road and vegetation in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fessub_reproduction.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Bearded fescue panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a flowering open, loose grass panicle. A trail or road and vegetation in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fessub_reproduction.jpg?itok=5a3e9bo8)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Bearded fescue panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

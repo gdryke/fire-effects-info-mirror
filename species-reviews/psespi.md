@@ -57,7 +57,7 @@ beardless wheatgrass, bearded bluebunch wheatgrass, bearded wheatgrass
 
 Bluebunch wheatgrass is distributed throughout the West. It occurs east of the Coast Ranges from Alaska south through California and New Mexico and east to Saskatchewan, Michigan, and Texas [31,137,155]. Its distribution is shown below.
 
-![A map of U.S. states and Canadian provinces with most western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/psespi_feis-PSESPIS_map.jpg)
+![A map of U.S. states and Canadian provinces with most western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PSESPIS_map.jpg?itok=2xQonQ-d)
 
 Photo Credit
 
@@ -65,7 +65,7 @@ Map courtesy of USDA PLANTS.
 
 Distribution of bluebunch wheatgrass. Distribution of the typical subspecies is the same as that of the species.
 
-![A map of U.S. states and Canadian provinces with many western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/psespi_feis-PSESPII_map_0.jpg)
+![A map of U.S. states and Canadian provinces with many western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PSESPII_map_0.jpg?itok=n0QETT2T)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Bluebunch wheatgrass occurs in dry, open woods, dry slopes, and canyons. It requ
 
 Bluebunch wheatgrass occurs in many plant communities, including mountain grassland and prairie, sagebrush (_Artemisia_ spp.), mountain shrubland, pinyon-juniper (_Pinus-Juniperus_ spp.), quaking aspen (_Populus tremuloides_), ponderosa pine (_Pinus ponderosa_), and in openings in fir-spruce (_Abies-Picea_ spp.) communities [137,155].
 
-![A photo of a gentle slope covered in evenly-spaced bunchgrasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-psespi_community_oldreview.jpg)
+![A photo of a gentle slope covered in evenly-spaced bunchgrasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-psespi_community_oldreview.jpg?itok=gxIka56y)
 
 Photo Credit
 
@@ -141,7 +141,7 @@ In Colorado, bluebunch wheatgrass appears in the Rocky Mountain juniper/bluebunc
 
 Bluebunch wheatgrass is a native, cool-season, perennial grass with densely tufted culms, 12-30 in. (30-100 cm) tall, erect or nearly so [225]. The only difference between the typical subspecies of bluebunch wheatgrass and beardless wheatgrass is the presence of divergent awns (typical subspecies, shown in the image below), or their absence (beardless wheatgrass) [84]. Bluebunch wheatgrass is capable of an unusually broad range of osmoregulation, which helps the plant survive under a range of moisture conditions [93]. Bluebunch wheatgrass is one of the most drought-resistant native bunchgrasses [126].
 
-[![A close-up photo of a dried grass with awned seeds, a rocky mountain scene is out-of-focus in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-psespi_panicle.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Typical subspecies of bluebunch wheatgrass, with divergent awns.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a dried grass with awned seeds, a rocky mountain scene is out-of-focus in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-psespi_panicle.jpeg?itok=wnyNeNBy)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Typical subspecies of bluebunch wheatgrass, with divergent awns.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Maximum rooting depth of bluebunch wheatgrass in Washington is 4.6 feet (1.4 m) [61] and can reach 6.6 feet (2 m) [131]. Roots of mature bluebunch wheatgrass generally are deeper in the soil profile than those of cheatgrass, allowing the plant to acquire soil moisture much better below 1.6 feet (0.5 m) [68]. Vesicular-arbuscular mycorrhizae (VAM) of the genus Glomus are found on the roots of bluebunch wheatgrass [60]. Bluebunch wheatgrass occasionally produces short rhizomes in more mesic environments (above 17.7 inches (450 mm) annual precipitation) [25,72,81,84,88,166].
 
@@ -230,7 +230,7 @@ Prior to European settlement and fire suppression, bluebunch wheatgrass plant as
 
 The effect of fire on bunchgrasses relates to culm density, culm-leaf morphology, and the size of the plant [205]. Bluebunch wheatgrass has coarse stems and little leafy material, and therefore the tops burn quickly and little heat is transferred downward into the meristem tissue located near or in the soil [233,234]. Most authors classify the plant as undamaged by fire [162].
 
-![A photo of a sagebrush community to the left side of the photo with an abrupt shift to a bunchgrass community to the right side of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-psespi_burnline_oldreview.jpg)
+![A photo of a sagebrush community to the left side of the photo with an abrupt shift to a bunchgrass community to the right side of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-psespi_burnline_oldreview.jpg?itok=vS1teBg4)
 
 Photo Credit
 
@@ -246,7 +246,7 @@ Recovery of bluebunch wheatgrass following fire is rapid to very rapid, usually 
 
 Postfire productivity varies considerably. While few studies clearly show a permanent negative effect of fire on the survival and productivity of the plant, the degree to which bluebunch wheatgrass responds positively to fire is disputed [57,62,66,67,72,75,86,118,127,148,162,168,176,177,180,189,193,194,205]. Most studies suggest a 1st year decrease in productivity following fire [198,209,221,226,228,232,235], followed by increased productivity in the following years. In Wyoming, bluebunch wheatgrass production averaged 3.9 times higher on 4 3-year-old burned sites than on controls. Differences were significant (P<0.05) on 2 of the sites, but only after the 2nd post-burn year [75].
 
-[![A photo of a bunchgrass with several other herbaceous plants around, and a lot of visible rocky bare ground. Burned tree trunks are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-psespi_postfire.jpg)Photo Credit Photo and caption by Matt Lavin, iNaturalist (CC BY 4.0). Bluebunch wheatgrass growing during August 2021 after the September 2020 fire at the south end of the Bridger Range, Gallatin County, Montana. The few flowering spikes had already dispersed mature florets by late August.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass with several other herbaceous plants around, and a lot of visible rocky bare ground. Burned tree trunks are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-psespi_postfire.jpg?itok=fQpmNWa4)Photo Credit Photo and caption by Matt Lavin, iNaturalist (CC BY 4.0). Bluebunch wheatgrass growing during August 2021 after the September 2020 fire at the south end of the Bridger Range, Gallatin County, Montana. The few flowering spikes had already dispersed mature florets by late August.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In a basin big sagebrush (_A. t._ ssp._tridentata_) community in east-central Oregon, mortality of bluebunch wheatgrass was significantly less (P<0.1) on spring- than fall-burned plots. Mean density, basal area, and number of flowering culms of bluebunch wheatgrass was significantly greater (P<0.1) on fall-burned plots compared to density, basal area, and number of flowering culms on spring-burned and control plots [209]. See the Research Project Summary of this work for more information on fire effects on bluebunch wheatgrass and 60 additional grasses, forbs, and woody plant species.
 

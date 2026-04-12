@@ -34,7 +34,7 @@ Sullivan, Janet. 1994. _Alectoris chukar_ , chukar. In: Fire Effects Information
 
 ## Image Gallery
 
-![A chukar on rocky ground in Maui County, Hawaii.]({{ site.baseurl }}/assets/images/species-reviews/feis-alch_chukar.jpg) A chukar in Maui County, Hawaii. _Photo by Nikhil Reddy and courtesy of iNaturalist, with some rights reserved (CC BY-NC 4.0)._
+![A chukar on rocky ground in Maui County, Hawaii.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-alch_chukar.jpg) A chukar in Maui County, Hawaii. _Photo by Nikhil Reddy and courtesy of iNaturalist, with some rights reserved (CC BY-NC 4.0)._
 
 Photo Credit: Photo by Nikhil Reddy and courtesy of iNaturalist, with some rights reserved (CC BY-NC 4.0).
 

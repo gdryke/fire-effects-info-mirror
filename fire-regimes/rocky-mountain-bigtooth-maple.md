@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain bigtooth maple communities h
 
 ## Distribution
 
-![A map showing the distribution of Rocky Mountain bigtooth maple communities in the interior southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/rocky-mountain-bigtooth-maple_feis-rocky_mountain_bigtooth_maple_locator.jpg)
+![A map showing the distribution of Rocky Mountain bigtooth maple communities in the interior southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-rocky_mountain_bigtooth_maple_locator.jpg?itok=D2wZfzgR)
 
 Photo Credit
 

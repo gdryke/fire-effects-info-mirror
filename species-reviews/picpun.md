@@ -63,7 +63,7 @@ Blue spruce is restricted to the central and southern Rocky Mountains. Its range
 
 ## Site Characteristics
 
-![A photo of a stand of uniform, pyramidal conifers with dusty bluish-green needles growing in a grass meadow, in front of rolling hills covered in more conifers and other trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-picpun_habitat.jpeg)
+![A photo of a stand of uniform, pyramidal conifers with dusty bluish-green needles growing in a grass meadow, in front of rolling hills covered in more conifers and other trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-picpun_habitat.jpeg?itok=xwfHCetp)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Common associates not mentioned in Table A1 are Rocky Mountain maple (Acer glabr
 
 ## Botanical Description
 
-![A photo of a conifer branch with short, pointed blue-green needles. Dark purply-brown, fresh closed cones are pointing up on the branch tips, and in the center one dry, light brown, open cone is hanging down.]({{ site.baseurl }}/assets/images/species-reviews/feis-picpun_cones.jpg)
+![A photo of a conifer branch with short, pointed blue-green needles. Dark purply-brown, fresh closed cones are pointing up on the branch tips, and in the center one dry, light brown, open cone is hanging down.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-picpun_cones.jpg?itok=QTxPLlzy)
 
 Photo Credit
 

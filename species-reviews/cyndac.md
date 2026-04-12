@@ -57,7 +57,7 @@ None
 
 Bermudagrass is native to Africa but occurs throughout the world in tropical to warm temperate climates between 45 degrees north and 45 degrees south latitude [58]. In the United States Bermudagrass is most common in the subtropical regions from southern California east to the Gulf Coast and southeastern states. It is adventive north to Washington, Idaho, Utah, Colorado, Iowa, Michigan, New York, Massachusetts, and New Hampshire [25,28,31,41]. Populations occurring in cool temperate climates may be winter hardy cultivars [5].
 
-![A map of the United States and Canada with most states and British Columbia highlighted blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyndac_distribution.jpg)
+![A map of the United States and Canada with most states and British Columbia highlighted blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cyndac_distribution.jpg?itok=D89_09Y2)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ In California Bermudagrass occurs below 2,950 feet (900 m) elevation [40]. In Co
 
 In the southeastern United States, Bermudagrass occurs in pastures and fields and in the understory of open woods, forests, orchards, and pine (_Pinus_ spp.) plantations. In Georgia it occurs in a 15-year fallow field with blackberry (_Rubus_ spp.), American plum (_Prunus americana_), sassafras (_Sassafras albidum_), smooth sumac (_Rhus glabra_), and numerous herbaceous plants [48]. In South Carolina it occurs in an 8-year fallow field dominated by broomsedge bluestem (_Andropogon virginicus_) and paintbrush bluestem (_A. ternarius_) [30]. Bermudagrass occurs with slender woodoats (_Chasmanthium laxum_ var. _sessiliflorum_) and big bluestem (_Andropogon gerardi_ var. _gerardi_) in the herbaceous layer of a pine-oak (_Quercus_ spp.) forest in eastern Texas [88].
 
-[![A photo of green and gold grass stems with branching panicles in the foreground, with grasslike vegetation extending behind and dark green shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyndac_community.jpeg)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Bermudagrass growing in a field in Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of green and gold grass stems with branching panicles in the foreground, with grasslike vegetation extending behind and dark green shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cyndac_community.jpeg?itok=Hi2VNm32)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Bermudagrass growing in a field in Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In the southwestern United States, Bermudagrass occurs in riparian areas and in grasslands adjacent to streams and marshes. It is a frequently encountered understory grass in velvet mesquite (_Prosopis velutina_) bosques [11]. A mixed honey mesquite (_Prosopis glandulosa_ var. _glandulosa_)-saltcedar (_Tamarix ramosissima_)-Bermudagrass association has replaced some native associations in the Rio Grande floodplain in Big Bend National Park, Texas [8]. On Santa Rosa Island, California, Bermudagrass is a common understory plant in a riparian woodland composed of black cottonwood (_Populus trichocarpa_), arroyo willow (_Salix lasiolepis_), and goosefoot (_Chenopodium_ spp.) [16]. In the Sacramento River valley, California, Bermudagrass occurs in a gravel bar thicket community dominated by sandbar willow (_Salix exigua_) where the willow canopy is not dense [18].
 
@@ -101,7 +101,7 @@ See the Appendix for a list of cover types and plant associations in which this 
 
 Bermudagrass is an introduced, perennial, mat-forming, warm season grass. It is both rhizomatous and stoloniferous. Erect or ascending culms grow 0.3 to 1.3 feet (0.1-0.4 m) tall. The panicle has two to seven digitate branches [40]. Rhizomes are hard, scaly, and 0.06 to 0.13 inch (1.5-3.3 mm) in diameter. Stolons are flattened and several feet long, rooting at nodes [33]. Main root length per plant of four cultivars ranged from 2.3 to 37.1 feet (0.7-11.3 m) while total root length ranged from 43 to 4,854 feet (13.0-1,480 m). Root hairs contributed 64 to 95 percent of the total root length [32].
 
-[![A photo taken from above of a dense stand of grass with a few visible clusters of grass at the end of stolons.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyndac_stand.jpg)Photo Credit Photo by Luke Padon, iNaturalist (CC BY 4.0). A dense stand of Bermudagrass with a few visible stolons growing in Texas.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo taken from above of a dense stand of grass with a few visible clusters of grass at the end of stolons.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cyndac_stand.jpg?itok=e_aA66ek)Photo Credit Photo by Luke Padon, iNaturalist (CC BY 4.0). A dense stand of Bermudagrass with a few visible stolons growing in Texas.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -112,7 +112,7 @@ Bermudagrass is an introduced, perennial, mat-forming, warm season grass. It is 
 
 Bermudagrass begins growth late in the spring, continues to grow during the hot summer months, and becomes dormant when the weather cools in the fall [76]. Near Bakersfield, California, Bermudagrass emerged when soil temperatures at a depth of 2 inches (5 cm) reached 63 degrees Fahrenheit (17 deg C) [49]. In Morgantown, West Virginia, growth did not begin until mid- to late May [53]. Bermudagrass flowers from July to October [25].
 
-[![A close-up photo of a flowering grass panicle, with the stem branching to end in a four-branch panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-cyndac_flowering.jpg)Photo Credit Photo by Liz Makings, SEINet (CC BY-SA 4.0). Bermudagrass flowering at Bushnell Tank, Arizona.](<https://creativecommons.org/licenses/by-sa/4.0/>)
+[![A close-up photo of a flowering grass panicle, with the stem branching to end in a four-branch panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cyndac_flowering.jpg?itok=hRZGID1D)Photo Credit Photo by Liz Makings, SEINet (CC BY-SA 4.0). Bermudagrass flowering at Bushnell Tank, Arizona.](<https://creativecommons.org/licenses/by-sa/4.0/>)
 
 ## Regeneration Processes
 

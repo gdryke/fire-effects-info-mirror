@@ -93,7 +93,7 @@ In alpine plant communities, associates include black sedge (_Carex atriformis_)
 
 Plains bluegrass is a native, cool-season perennial from 12 to 32 inches (30-80 cm) tall [8,18,29]. The panicle is compact to infrequently open. Spikelets have 3 to 7 perfect flowers. Plains bluegrass is shortly rhizomatous to nearly arhizomatous. Plants in the Intermountain region consistently have rhizomes, while some plants in the Great Plains may be nearly arhizomatous [8,10]. In Wyoming, rhizomes of plains bluegrass have been described as "short but abundant" [18].
 
-[![A close-up photo of compressed grass panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-poaari_panicle.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Plains bluegrass panicles.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of compressed grass panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poaari_panicle.jpg?itok=WxqSsJco)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Plains bluegrass panicles.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -114,7 +114,7 @@ New Mexico| May to July [24]
 
 Plains bluegrass establishes from seed [14] and by sprouting from rhizomes [21].
 
-[![A close-up photo of the base of a grass with some short rhizomes.]({{ site.baseurl }}/assets/images/species-reviews/feis-poaari_rhizomes.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Plains bluegrass roots and rhizomes.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of the base of a grass with some short rhizomes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poaari_rhizomes.jpg?itok=hWNto9E7)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Plains bluegrass roots and rhizomes.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Successional Status
 

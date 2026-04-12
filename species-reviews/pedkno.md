@@ -83,7 +83,7 @@ Knowlton's miniature cactus occurs in Colorado pinyon-Rocky Mountain juniper (Pi
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g. [3,10,17]).
 
-![Very small, dark green cactus against a rock, with a small pink flower and a penny for scale - it is about the same size as the flower and half as tall as the plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-pedkno_flowerpenny1.jpg)
+![Very small, dark green cactus against a rock, with a small pink flower and a penny for scale - it is about the same size as the flower and half as tall as the plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-pedkno_flowerpenny1.jpg?itok=al_TTjkI)
 
 Photo Credit
 

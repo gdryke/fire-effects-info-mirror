@@ -34,7 +34,7 @@ Fryer, Janet L. 2015. (Revised from Reeves, Sonja L. 2006.) _Chlorogalum pomerid
 
 ## Introduction
 
-![A close-up photo of a flowering stem with white flowers at the bottom of the visible portion of the stem and closed flower buds above.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig1_flowers.jpg)
+![A close-up photo of a flowering stem with white flowers at the bottom of the visible portion of the stem and closed flower buds above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig1_flowers.jpg?itok=0BNRU4oI)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ common soap plant, Indian soap plant, Indian soap root, soap plant, soap root
 
 ## Distribution
 
-![A map showing the westernmost United States to the county level. Most California counties and a few southwest Oregon counties are highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig2_map.png)
+![A map showing the westernmost United States to the county level. Most California counties and a few southwest Oregon counties are highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig2_map.png?itok=WuQ3u5Qp)
 
 Photo Credit
 
@@ -127,7 +127,7 @@ Santa Ana Mountains:
 
 The following description of wavyleaf soap plant provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [27,38,44,45].
 
-![A photo of 14 dark, oval seeds against a ruler showing a length of 2 cm. Seeds appear to be about 3 mm long.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig3_seeds.jpg)
+![A photo of 14 dark, oval seeds against a ruler showing a length of 2 cm. Seeds appear to be about 3 mm long.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-chlpom_fig3_seeds.jpg)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ In the Ojai Ranger District of the Los Padres National Forest, total mortality r
 
 Wavyleaf soap's phenology varies depending on habitat and elevation. It sprouts new leaves in late fall or winter, and the leaves elongate with warm spring temperatures [9]. Flowering period ranges from May to August across its range [14,44,45,59]. Leaves usually die back in summer, but the flower stalk stays green until August, when seed disperse [2,9].
 
-![A photo of a hand holding a baseball-sized bulb, with roots visible at one end and fibrous material visible at the other end.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig4_bulb.jpg)
+![A photo of a hand holding a baseball-sized bulb, with roots visible at one end and fibrous material visible at the other end.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-chlpom_fig4_bulb.jpg)
 
 Photo Credit
 
@@ -218,7 +218,7 @@ Wavyleaf soap plant sprouts from the bulb and establishes from seed after fire [
 
 ## Plant Response to Fire
 
-![A photo of a basal rosette of a forb with long, wavy leaves emerging from soil with some charred woody debris visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig5_sprout.jpg)
+![A photo of a basal rosette of a forb with long, wavy leaves emerging from soil with some charred woody debris visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig5_sprout.jpg?itok=Ax3aEyB-)
 
 Photo Credit
 
@@ -240,7 +240,7 @@ This study suggests that wavyleaf soap plant populations peak in postfire years 
 
 On the Los Padres National Forest, wavyleaf soap plant showed enhanced flower and seed production after prescribed and wildfires. On the Ojai Ranger District, 640 acres (260 ha) of a chamise community was burned under prescription in October 1997. Fire severity was low to moderate. Prefire density of wavyleaf soap plant was higher on the site targeted for burning (Site 1, with 1.9 plants/m²) than on the unburned control (Site 2, with 0.5 plant/m²). Prior to the fire, neither site had burned for over 100 years. The year after the prescribed fire (1998), flower production (flowers/plant) was significantly higher on Site 1 (burned) than on Site 2 (unburned) (_P_ =0.5). In late December 1999, a wildfire burned both sites. On Site 1 (Rx + wildfire), the percentage of flowering stalks was highest year after the prescribed fire. On Site 2 (wildfire only), it was highest after the wildfire. Flower stalk production was synchronous between the 2 sites (_P_ =0.0008), and there was a pattern of alternating years of flowering and no flowering [9] (Figure 6).
 
-![A line graph with dark points labeled "site 1" and light points labeled "site 2". Year is on the x-axis and "percentage with flowering stalks" is on the y-axis.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig6_floweringgraph.png)
+![A line graph with dark points labeled "site 1" and light points labeled "site 2". Year is on the x-axis and "percentage with flowering stalks" is on the y-axis.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig6_floweringgraph.png?itok=aCwtwJan)
 
 Photo Credit
 
@@ -250,7 +250,7 @@ Figure 6. Percentage of wavyleaf soap plant individuals flowering after prescrib
 
 On Site 1, flower production increased again in 2000 (after the wildfire), but it did not exceed production of 1999 (the 2nd year after the prescribed fire). On Site 2, flower production was highest in 2000 (Figure 7). Fruit production generally followed the trend of flower production at both sites. The authors concluded that in this study, fire stimulated flowering and seed production in wavyleaf soap plant but was not required for its reproduction. They noted that whether high postfire seed production results in high seedling establishment is not well known [9].
 
-![A clustered bar graph with dark bars labeled "site 1" and light bars labeled "site 2", with year on the x-axis and "flowers per plant" on the y-axis.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig7_floweringgraph2.jpg)
+![A clustered bar graph with dark bars labeled "site 1" and light bars labeled "site 2", with year on the x-axis and "flowers per plant" on the y-axis.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig7_floweringgraph2.jpg?itok=NNAm1_Rm)
 
 Photo Credit
 
@@ -298,7 +298,7 @@ None.
 
 ## Importance to Wildlife and Livestock
 
-![A photo of a deer with perked ears stretching its neck to eat a low forb. Other low forbs grow amongst low, green grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig8_deer.jpg)
+![A photo of a deer with perked ears stretching its neck to eat a low forb. Other low forbs grow amongst low, green grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig8_deer.jpg?itok=oVBkMOZp)
 
 Photo Credit
 
@@ -330,7 +330,7 @@ Wavyleaf soap plant is planted for landscaping [2].
 
 Wavyleaf soap plant was traditionally used by Indians and early settlers [1]. Tribes using wavyleaf soap plant include but are not limited to the Miwok, Hulpumne Yokuts, and Wailakis [1,3,13,51]. Highly sought for food, utensils, and medicine, wavyleaf soap plant was traditionally one of the most versatile plants in the Miwok economy [51].
 
-![A photo of a traditional brush with slightly curling brown fibers and a hard handle.]({{ site.baseurl }}/assets/images/species-reviews/feis-chlpom_fig_9_brush.jpg)
+![A photo of a traditional brush with slightly curling brown fibers and a hard handle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chlpom_fig_9_brush.jpg?itok=Cqc6pbo0)
 
 Photo Credit
 

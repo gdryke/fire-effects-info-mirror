@@ -378,7 +378,7 @@ Elk often select riparian areas seasonally. Elk summering in the Blue Mountains 
 
 Studies in Utah (Jeffrey 1963 cited in [78]), Montana [186,189], Idaho [132], Washington (Nelson and Burnell 1975 cited in [78]), Oregon [52,295], California (Grenier 1991 cited in [214]), and Arizona [78] found that elk generally prefer habitats <2,600 feet (800 m) from surface water.
 
-![Elk resting and grazing near a river]({{ site.baseurl }}/assets/images/species-reviews/feis-ceel_water.jpg)
+![Elk resting and grazing near a river](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ceel_water.jpg?itok=-Rh5LLGu)
 
 Photo Credit
 
@@ -482,7 +482,7 @@ Selection or avoidance of burned areas may be a function of alternative habitats
 
 Elk use of burned areas may depend on large-scale elk density. Two years after the 1988 fires in Yellowstone National Park, elk grazed on the abundant quaking aspen sprouts in burned sites but browsed unburned sites with similar intensity, perhaps because of high elk densities throughout the range [249]. Conversely, during 5 years in the Lochsa River area, Idaho, elk decreased use of seral shrub fields burned under prescription in spring and fall despite increased browse availability in burned areas, apparently because forage quantity was not limiting to the elk population prior to burning, and elk populations declined during the 5 years [169].
 
-![Elk resting and grazing in an unburned meadow adjacent to burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceel_yellowstonefire.jpg)
+![Elk resting and grazing in an unburned meadow adjacent to burned area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ceel_yellowstonefire.jpg?itok=I4dS_XHA)
 
 Photo Credit
 
@@ -508,7 +508,7 @@ Elk more readily use burned areas if their cover requirements are met within or 
 
 A large, homogenous fire may have a negative effect on elk if the fire removes too much cover or forage, thus making elk more vulnerable to predation and hunting. In the northern Yellowstone elk herd, the 1988 fires appeared to increase vulnerability of elk calves to predation. Overall, predation rates doubled following the fires (29%) compared to before the fires (13%). The authors suggested that elk calves may have been less well hidden from predators because of reduced cover in the burns [267]. After the Moose Creek fire, a mixed-severity August wildfire on the Salmon National Forest, Idaho, elk use of the area was "negligible" in the winter and spring immediately following the fire and was substantially reduced during postfire year 1 compared with prefire use. Prefire cover within and adjacent to the burned area was limited due to previous logging activity and the natural sparseness of the forest. The fire removed much of the remaining cover and only one "sizeable" patch of cover remained. The authors noted that despite road closures, hunting pressure on elk using the burn during the fall immediately after the fire was high [54]. See Predation risk for more information.
 
-![Elk feeding in a burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceel_texasfire.jpg)
+![Elk feeding in a burned area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ceel_texasfire.jpg?itok=VowjgvYg)
 
 Photo Credit
 

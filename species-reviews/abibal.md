@@ -34,7 +34,7 @@ Uchytil, Ronald J. 1991. _Abies balsamea,_ balsam fir. In: Fire Effects Informat
 
 ## Image Gallery
 
-![A photo of the top of a conifer tree, with tall, dark grey, sappy cones pointing upward. The background is a blurry conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-abibal_plant.jpg) Balsam fir cones. _Photo by Elmer Verhasselt, Bugwood.org._
+![A photo of the top of a conifer tree, with tall, dark grey, sappy cones pointing upward. The background is a blurry conifer forest.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-abibal_plant.jpg) Balsam fir cones. _Photo by Elmer Verhasselt, Bugwood.org._
 
 Photo Credit: Photo by Elmer Verhasselt, Bugwood.org.
 
@@ -106,7 +106,7 @@ Ontario| forest eas| Jones & others 1983
 
 ## Botanical Description 
  
-![A photo of the top of a conifer tree, with tall, dark grey, sappy cones pointing upward. The background is a blurry conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-abibal_plant.jpg)
+![A photo of the top of a conifer tree, with tall, dark grey, sappy cones pointing upward. The background is a blurry conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-abibal_plant.jpg?itok=52Kr8jqs)
 
 Photo Credit
 

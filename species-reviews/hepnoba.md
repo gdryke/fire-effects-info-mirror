@@ -57,7 +57,7 @@ sharp-lobed liverleaf
 
 Sharplobe hepatica is native to the Northeast and Southeast. It is found in most states east of the Mississippi River. Extending from Ontario, Quebec, and Maine [8,15,18], it proceeds south through the eastern United States to Missouri, Georgia, and Alabama [9,13,16].
 
-![A map of the United States and Canada showing the distribution of sharplobe hepatica highlighted in green. Most of the eastern United States and eastern Canada are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-hepnoba_map.jpg)
+![A map of the United States and Canada showing the distribution of sharplobe hepatica highlighted in green. Most of the eastern United States and eastern Canada are highlighted.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-hepnoba_map.jpg)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ See the Appendix for plant communities and cover types in which this species may
 
 ## Botanical Description
 
-![A small plant with three white flowers on bare stems, growing on the ground surrounded by dead oak leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-hepnoba_plant.jpg)
+![A small plant with three white flowers on bare stems, growing on the ground surrounded by dead oak leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-hepnoba_plant.jpg?itok=hbfcnF_F)
 
 Photo Credit
 

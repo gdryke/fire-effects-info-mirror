@@ -54,7 +54,7 @@ cheesebush, desert pearl, pearlbush
 
 ## General Distribution
 
-![Photo of map distribution of burrowbush.]({{ site.baseurl }}/assets/images/species-reviews/feis-hymsal_map.png)
+![Photo of map distribution of burrowbush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hymsal_map.png?itok=7YcNn0zX)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ A publication listing burrobrush as a codominant species in desert wash communit
 
 ## Botanical Description
 
-![Photo of burrobush in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-hymsal_plant.jpg)
+![Photo of burrobush in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hymsal_plant.jpg?itok=ut3jV2ey)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain subalpine mixed-conifer comm
 
 ## Distribution
 
-![A map showing the distribution of Rocky Mountain subalpine mixed-conifer communities in the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/rocky-mountain-subalpine-mixed-conifer_feis-rocky_mountain_subalpine_mixed_conifer_locator.jpg)
+![A map showing the distribution of Rocky Mountain subalpine mixed-conifer communities in the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-rocky_mountain_subalpine_mixed_conifer_locator.jpg?itok=zX8qYmSZ)
 
 Photo Credit
 

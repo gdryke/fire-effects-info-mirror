@@ -75,7 +75,7 @@ Southern live oak is a common dominant in maritime forests and on hammocks borde
 
 ## Botanical Description
 
-![A photo of a large tree with thick, crooked branches extending far out from the main trunk in all directions. Large amounts of gray moss hangs from all the branches. The ground is grassy.]({{ site.baseurl }}/assets/images/species-reviews/feis-quevir_tree.jpg)
+![A photo of a large tree with thick, crooked branches extending far out from the main trunk in all directions. Large amounts of gray moss hangs from all the branches. The ground is grassy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quevir_tree.jpg?itok=cR8IAnA0)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Small flowers are produced in the spring when new leaves are grown. Pollen is wi
 
 ## Regeneration Processes
 
-![A close up photo of an oak tree's dark brown, shiny acorns on the end of a branch. The setting is sunny and dry, and some long, rounded leaves are near the acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quevir_acorns.jpg)
+![A close up photo of an oak tree's dark brown, shiny acorns on the end of a branch. The setting is sunny and dry, and some long, rounded leaves are near the acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quevir_acorns.jpg?itok=JK9bxQ9K)
 
 Photo Credit
 

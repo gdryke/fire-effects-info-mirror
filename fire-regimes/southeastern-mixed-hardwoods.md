@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southeastern mixed hardwood communities has
 
 ## Distribution
 
-![A map showing the distribution of southeastern mixed hardwood communities across the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/southeastern-mixed-hardwoods_feis-southeastern_mixed_hardwoods_locator.jpg)
+![A map showing the distribution of southeastern mixed hardwood communities across the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southeastern_mixed_hardwoods_locator.jpg?itok=WpOvPWyR)
 
 Photo Credit
 

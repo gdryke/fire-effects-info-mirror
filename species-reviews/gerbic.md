@@ -34,7 +34,7 @@ Reeves, Sonja L. 2007. _Geranium bicknellii_ , Bicknell's cranesbill. In: Fire E
 
 ## Image Gallery
 
-![Photo of Bicknell's cranesbill foliage with pink blossom.]({{ site.baseurl }}/assets/images/species-reviews/feis-gerbic_plant.jpeg) Bicknell's cranesbill. _Photo by Ben Keen, iNaturalist.org, no rights reserved._
+![Photo of Bicknell's cranesbill foliage with pink blossom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-gerbic_plant.jpeg) Bicknell's cranesbill. _Photo by Ben Keen, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Ben Keen, iNaturalist.org, no rights reserved.
 
@@ -42,7 +42,7 @@ Bicknell's cranesbill.
 
 ## Introduction
 
-![Photo of Bicknell's cranesbill foliage with pink blossom.]({{ site.baseurl }}/assets/images/species-reviews/feis-gerbic_plant.jpeg)
+![Photo of Bicknell's cranesbill foliage with pink blossom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-gerbic_plant.jpeg?itok=t3P11Gr_)
 
 Photo Credit
 

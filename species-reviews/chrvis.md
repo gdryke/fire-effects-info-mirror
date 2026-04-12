@@ -34,7 +34,7 @@ Tirmenstein, D. 1999. _Chrysothamnus viscidiflorus_ , yellow rabbitbrush. In: Fi
 
 ## Image Gallery
 
-![Photo of blooming yellow rabbitbrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrvis_plant.jpeg) Yellow rabbitbrush. _Photo by Daniel Atha, iNaturalist.org._
+![Photo of blooming yellow rabbitbrush.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-chrvis_plant.jpeg) Yellow rabbitbrush. _Photo by Daniel Atha, iNaturalist.org._
 
 Photo Credit: Photo by Daniel Atha, iNaturalist.org.
 

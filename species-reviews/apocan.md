@@ -114,7 +114,7 @@ Indianhemp is not an indicator or dominant species in vegetation types. It is co
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [17,31,38,50,57,91,112,125,134,155,158].
 
-![Photo of a plant with multiple, red stems and narrow green leaves in a field with brown grasses and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-apocan_habitat.jpg)
+![Photo of a plant with multiple, red stems and narrow green leaves in a field with brown grasses and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-apocan_habitat.jpg?itok=SOz67BRi)
 
 Photo Credit
 
@@ -172,7 +172,7 @@ Pod initiation| June 17| not produced
 
 Indianhemp regenerates by seed and vegetative means. Regeneration is largely by vegetative means from rhizomes or from root crown buds located at the woody base of stems [15,55,104,119,147].
 
-![Close up photo of a leafy green shrub with long, narrow leaves, and clusters of white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-apocan_plant_0.jpg)
+![Close up photo of a leafy green shrub with long, narrow leaves, and clusters of white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-apocan_plant_0.jpg?itok=7Q5w29ZR)
 
 Photo Credit
 

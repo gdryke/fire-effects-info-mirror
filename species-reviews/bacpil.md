@@ -36,7 +36,7 @@ Steinberg, Peter D. 2002. _Baccharis pilularis_ , coyotebrush. In: Fire Effects 
 
 ## Taxonomy
 
-![A photo of a large shrub with many branches growing from the base. Most leaves are concentrated towards the ends of branches. Hills with shrubs and dry grass rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-bacpil_plant.jpg)
+![A photo of a large shrub with many branches growing from the base. Most leaves are concentrated towards the ends of branches. Hills with shrubs and dry grass rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bacpil_plant.jpg?itok=3RPBNZul)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Coastal populations of the prostrate form of coyotebrush experience moderate tem
 
 Coyotebrush occurs on a range of soil types but is best adapted to medium- to coarse-textured soils [63].
 
-![A photo of a somewhat round, large shrub with dense, light green leaves growing mostly towards the end]({{ site.baseurl }}/assets/images/species-reviews/feis-bacpil_community.jpg)
+![A photo of a somewhat round, large shrub with dense, light green leaves growing mostly towards the end](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bacpil_community.jpg?itok=IB4XlTOX)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Vegetation classifications describing coyotebrush-dominated communities include:
 
 Coyotebrush is a native evergreen shrub that grows in prostrate form on dunes and coastal areas with onshore winds and salt spray and in erect form at higher elevations inland [11,45]. Both forms are much-branched [11]. The matted growth form ranges from 4 to 6 inches (10-15 cm) in height and 3 to 12 feet (1-4 m) wide [47]. The arborescent form grows up to 12 feet (4 m) high [11,47]. The prostrate form has smaller leaves with fewer dentations, but the forms are otherwise similar [47]. Female flowerheads are discoid and many flowered, without ray florets. They are 0.16 to 0.25 inch (0.4-0.63 cm) long, and clustered at branch tips or in leaf axils. Male flowers are slightly smaller [11,15,47]. Achenes are 0.039 to 0.079 inch (1-2 mm) long with a 0.24 to 0.39 inch- (6-10 mm) long pappus [29,47]. Seeds are very light, weighing on the order of 10-4 grams [12].
 
-![A photo of the fruiting heads, stems, and leaves of coyotebrush. Fruiting heads have a white tuft emerging from the involucre, which are hairy appendages attached to each achene.]({{ site.baseurl }}/assets/images/species-reviews/feis-bacpil_fruiting.jpg)
+![A photo of the fruiting heads, stems, and leaves of coyotebrush. Fruiting heads have a white tuft emerging from the involucre, which are hairy appendages attached to each achene.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bacpil_fruiting.jpg?itok=_o_GipTj)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Fire is most detrimental to coyotebrush when high temperatures are present at st
  * Small shrub, adventitious bud/root crown
  * Initial off-site colonizer (off-site, initial community) [60]
 
-![A photo of the base of a woody shrub. The surrounding ground is bare soil with visible char. The shrub itself is completely lacking leaves on branches, but bright green stems with leaves sprout from the base of the plant and from next to the base.]({{ site.baseurl }}/assets/images/species-reviews/feis-bacpil_resprout.jpeg)
+![A photo of the base of a woody shrub. The surrounding ground is bare soil with visible char. The shrub itself is completely lacking leaves on branches, but bright green stems with leaves sprout from the base of the plant and from next to the base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bacpil_resprout.jpeg?itok=wUHBjJSO)
 
 Photo Credit
 

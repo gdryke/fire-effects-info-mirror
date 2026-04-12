@@ -59,7 +59,7 @@ Gray dogwood's main range is from Maine and southern Ontario; south through New 
 
 ## Site Characteristics
 
-![A photo of a shrub with clusters of white blooms growing in the understory of a very green, deciduous forest. A stream is visible behind the shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-corrac_habitat.jpg)
+![A photo of a shrub with clusters of white blooms growing in the understory of a very green, deciduous forest. A stream is visible behind the shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-corrac_habitat.jpg?itok=BtFRrJvX)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Gray dogwood is one of the dominant shrubs in the oak-hickory (Quercus-Carya) fo
 
 ## Botanical Description
 
-![A photo of a shrub with green, pointed leaves and clusters of white berries on red stems. The background is dark shaded forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-corrac_berries.jpeg)
+![A photo of a shrub with green, pointed leaves and clusters of white berries on red stems. The background is dark shaded forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-corrac_berries.jpeg?itok=7aC8KQ_T)
 
 Photo Credit
 

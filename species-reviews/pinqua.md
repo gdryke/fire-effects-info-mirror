@@ -63,7 +63,7 @@ Parry pinyon occurs on rocky slopes with thin soils that are typically well-drai
 
 ## Plant Communities
 
-![A photo of a dry, scrubby landscape with shrubs and desert yucca-type plants, exposed rock, and a large, irregular-shaped pine tree in the center. Open hills sparsely covered in shrubs are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinqua_habitat.jpeg)
+![A photo of a dry, scrubby landscape with shrubs and desert yucca-type plants, exposed rock, and a large, irregular-shaped pine tree in the center. Open hills sparsely covered in shrubs are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinqua_habitat.jpeg?itok=yJ9mQfy2)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Common plant associates not previously mentioned include Coulter pine (Pinus cou
 
 ## Botanical Description
 
-![A close up photo of a conifer branch with bundled green needles, and squat, open brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinqua_cones.jpg)
+![A close up photo of a conifer branch with bundled green needles, and squat, open brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinqua_cones.jpg?itok=dzeSMCpH)
 
 Photo Credit
 

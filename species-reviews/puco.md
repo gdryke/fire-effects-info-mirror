@@ -94,7 +94,7 @@ Logan and Irwin [31] investigated habitat use by mountain lions in the Bighorn M
 
 In the Idaho Primitive Area, mountain lion habitat consists of Engelmann spruce-subalpine fir (_Abies lasiocarpa_) and ponderosa pine-Douglas-fir (_Pseudotsuga menziesii_) associations at higher elevations. At lower elevations mountain lions inhabit curlleaf mountain-mahogany, antelope bitterbrush (_Purshia tridentata_), and big sagebrush (_A. tridentata_)-bunchgrass associations [46].
 
-![A photo of a large tan mountain lion sitting in lush foliage and looking back at the camera.]({{ site.baseurl }}/assets/images/species-reviews/feis-puco_florida.jpg)
+![A photo of a large tan mountain lion sitting in lush foliage and looking back at the camera.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-puco_florida.jpg?itok=U65q-RaW)
 
 Photo Credit
 
@@ -118,7 +118,7 @@ Florida panthers inhabit most types of vegetation in southern Florida including 
 
 The breeding season of Florida panthers starts in October and continues through April, with the majority of conceptions occurring from November to March. Over half of the births occurring during the period form April through August [3].
 
-![A photo of three small spotted kittens snuggled together against a rock. Two of the kittens' heads are visible; both have their eyes closed and one has its mouth open.]({{ site.baseurl }}/assets/images/species-reviews/feis-puco_kittens.jpg)
+![A photo of three small spotted kittens snuggled together against a rock. Two of the kittens' heads are visible; both have their eyes closed and one has its mouth open.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-puco_kittens.jpg?itok=6iR75uyR)
 
 Photo Credit
 

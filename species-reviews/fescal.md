@@ -63,7 +63,7 @@ California fescue occurs in the Coast Ranges from southwestern Oregon to San Lui
 
 California fescue occurs on open dry ground, chaparral [5,9], thickets, open forests [5,6], wood borders, shaded places [9], and moist streambanks [7]. It occurs at elevations below 6,500 feet (1,981 m) [5,9,10].
 
-[![A photo of an opening in a forest with many bunchgrasses and some small tree trunks in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fescal_plants.jpeg)Photo Credit Photo by Roger Raiche, iNaturalist (CC BY 4.0). California fescue growing in Sonoma County, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of an opening in a forest with many bunchgrasses and some small tree trunks in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fescal_plants.jpeg?itok=zhswJ4db)Photo Credit Photo by Roger Raiche, iNaturalist (CC BY 4.0). California fescue growing in Sonoma County, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 _Festuca californica_ var. _parishii_ occurs on dry benches at elevations of 2,500 to 6,500 feet (762-1,981 m) [10].
 
@@ -79,7 +79,7 @@ California fescue is associated with tanoak (_Lithocarpus densiflorus_) in the C
 
 California fescue is a native, perennial bunchgrass [5,9]. Culms are 16 to 47 inches (40-120 cm) long [6,9,10]. Leaf blades are firm, scabrous, and 4 to 39 inches (10-100 cm) long [5]. The inflorescence is an open sparsely branched panicle 4 to 12 inches (10-30 cm) long; the branches usually occur in pairs [5,6]. Spikelets are four to six flowered [5,9]. The lemma is acuminate or short awned [6,7]. The fruit is a caryopsis. California fescue does not produce rhizomes [5].
 
-[![A close-up photo of reproductive spikelets of a grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-fescal_reproduction.jpg)Photo Credit Photo by Chloe and Trevor Van Loon, iNaturalist (CC BY 4.0). California fescue spikelets.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of reproductive spikelets of a grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-fescal_reproduction.jpg?itok=uQZUGwHM)Photo Credit Photo by Chloe and Trevor Van Loon, iNaturalist (CC BY 4.0). California fescue spikelets.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

@@ -50,7 +50,7 @@ California foothill pine, foothills pine, bull pine, ghost pine.
 
 ## General Distribution
 
-![A map of California, with scattered areas highlighted in green where gray pine occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsab_map.jpg)
+![A map of California, with scattered areas highlighted in green where gray pine occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinsab_map.jpg?itok=d04K-O-Q)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Gray pine grows on exposed, dry, rocky slopes at elevations from 100 to 6,000 fe
 
 ## Plant Communities
 
-![A photo of a dry, scrubby open forest habitat with some pale greenish gray pine trees growing above shrubs. The ground is open with rock and tan sand and some dry brown grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinsab_habitat.jpg)
+![A photo of a dry, scrubby open forest habitat with some pale greenish gray pine trees growing above shrubs. The ground is open with rock and tan sand and some dry brown grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinsab_habitat.jpg?itok=sW0KUSYi)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Publications listing gray pine as a dominant or codominant species are as follow
 
 ## Botanical Description
 
-[![A photo of a pine tree branch with sparse, long green needles and large, round grey open cones attached to the branch. Small tan pollen cones are also visible.]({{ site.baseurl }}/assets/images/species-reviews/pinsab_pinsab_cones_0_0_0.jpg)Photo Credit Photo by Merav Vonshak, iNaturalist.org, with some rights reserved. Gray pine with female and male cones, Santa Clara County, CA. (CC BY-NC 4.0)](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a pine tree branch with sparse, long green needles and large, round grey open cones attached to the branch. Small tan pollen cones are also visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/pinsab_cones_0_0_0.jpg?itok=LyQ5EGsu)Photo Credit Photo by Merav Vonshak, iNaturalist.org, with some rights reserved. Gray pine with female and male cones, Santa Clara County, CA. (CC BY-NC 4.0)](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Gray pine is a drought-tolerant, native evergreen conifer. Mature trees average from 40 to 80 feet (12-24 m) in height and from 12 to 36 inches (30-90 cm) in d.b.h. [38,40]. Trees usually maintain a pyramidal growth form until the pole stage. Mature trees typically have multiple trunks [40]. Gray pine is self-pruning, and lower branches are often a considerable distance above the understory [35]. Gray pine grows a deep taproot where soil depth permits [4,40]. In hardpan soils, it develops a spreading, shallow root system with a weak taproot extending through the duripan [40]. The bark of young trees is thin [40], while older trees have thick bark [35]. Needles grow from 8 to 12 inches (20-30 cm) long and are shed every 2 to 3 years [39]. Gray pine's heavily spined female cones are among the largest and most massive in the genus. Fresh cones average from 0.7 to 1.5 pounds (0.3-0.7 k), and may exceed 2.2 pounds (1 kg) [40]. The cones are typically from 6 to 12 inches (15-30 cm) long. They do not form an abscission layer and are retained long after seeds are shed. The hard-coated, heavy seeds are from 0.6 to 1.0 inch (15-25 mm) long and have short-winged seeds [17,38,39]. The lifespan of gray pine is unclear because most older specimens were cut by early settlers, but it is believed to be 200+ years [40].
 
@@ -119,7 +119,7 @@ Seeds dispersed| October to February [40]
  
 ## Regeneration Processes
 
-![A photo of seven large, spiky, gray-brown pine cones on the sunny ground. The ground is covered in dry brown pine needles.]({{ site.baseurl }}/assets/images/species-reviews/pinsab_pinsab_cones_0_0.jpg)
+![A photo of seven large, spiky, gray-brown pine cones on the sunny ground. The ground is covered in dry brown pine needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/pinsab_cones_0_0.jpg?itok=G1At97QP)
 
 Photo Credit
 

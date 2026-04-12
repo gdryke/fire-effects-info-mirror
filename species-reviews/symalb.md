@@ -34,7 +34,7 @@ McWilliams, Jack. 2000. _Symphoricarpos albus_ , common snowberry. In: Fire Effe
 
 ## Introduction
 
-![A photo of pink flower clusters at the ends of leafy stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-symalb_flowers.jpg)
+![A photo of pink flower clusters at the ends of leafy stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-symalb_flowers.jpg?itok=nmHh8FKT)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Common snowberry was introduced into England in 1817 and is now well naturalized
 
 ## Site Characteristics
 
-![A photo of a leafy shrub with white berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-symalb_plant.jpg)
+![A photo of a leafy shrub with white berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-symalb_plant.jpg?itok=aKFJyYhM)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ References describing common snowberry as a community or habitat dominant or sub
 
 ## Botanical Description
 
-![A photo of dense clusters of white berries at the end of narrow, leafy shrub stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-symalb_fruits.jpg)
+![A photo of dense clusters of white berries at the end of narrow, leafy shrub stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-symalb_fruits.jpg?itok=DMWHqHDR)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Phenology for common snowberry east of the Continental Divide in Montana and Yel
  
 ## Regeneration Processes
 
-![A photo of an uprooted leafy stem with a rhizome extending from its base to one side. A set of keys lies in the photo for scale, and are slightly larger than the largest leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-symalb_sprout.jpg)
+![A photo of an uprooted leafy stem with a rhizome extending from its base to one side. A set of keys lies in the photo for scale, and are slightly larger than the largest leaves.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-symalb_sprout.jpg)
 
 Photo Credit
 

@@ -62,7 +62,7 @@ Mountain alder is widely distributed throughout interior, central, and northern 
 
 ## Site Characteristics
 
-![A photo of an upright shrub with small green leaves at the edge of a lake. It is cloudy and the lake is ringed with conifer trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnvirc_habitat.jpg)
+![A photo of an upright shrub with small green leaves at the edge of a lake. It is cloudy and the lake is ringed with conifer trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-alnvirc_habitat.jpg?itok=BAA0ugp6)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ The pistillate catkins of mountain alder emerge before or with the leaves in spr
 
 ## Regeneration Processes
 
-[![A close up photo of a woody stem with small green ridged leaves and drooping yellow-brown catkins. The background is blurry but small brown cones are visible hanging from other stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnvirc_plant.jpg)Photo Credit Photo by David McCorquodale, iNaturalist.org, CC BY 4.0. Mountain alder catkins.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close up photo of a woody stem with small green ridged leaves and drooping yellow-brown catkins. The background is blurry but small brown cones are visible hanging from other stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-alnvirc_plant.jpg?itok=W4Lgp0mw)Photo Credit Photo by David McCorquodale, iNaturalist.org, CC BY 4.0. Mountain alder catkins.](<https://creativecommons.org/licenses/by/4.0/>)
 
 **Sexual reproduction:** Mountain alder is monoecious [10,14,24]. The female catkins turn woody and conelike at maturity. The seeds are winged nutlets [48,58] that are dispersed by wind and water [21,37,45]. One study estimated mountain alder seed to be 40 percent viable [61].
 

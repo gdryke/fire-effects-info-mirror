@@ -70,7 +70,7 @@ Prairie cordgrass grows on sites ranging in elevation from 2,100 to 4,000 feet (
 
 Sites where prairie cordgrass has been reported include lower, poorly drained soils and alkaline fens of moraines, till plains, and floodplains [3,31]; pothole borders [4]; and around prairie marshes and along drainage ways through the tall and mixed-grass prairies [9,15,25].
 
-![Brownish, relatively long reproductive spikes of a grass in the foreground, with a field of grasses and forbs in the background.]({{ site.baseurl }}/assets/images/species-reviews/spapec_spapec_habitat.jpeg)
+![Brownish, relatively long reproductive spikes of a grass in the foreground, with a field of grasses and forbs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spapec_habitat.jpeg?itok=2E7uCvgu)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Published classifications listing prairie cordgrass occurs as a dominant or subd
 
 Prairie cordgrass is a warm-season, native, sod-forming grass. Culms reach heights of 3.5 to 10 feet (1-3 m) and are firm or wiry. Spikes are mostly 10 to 20 per plant and are 1.5 to 3 inches (4-8 cm) long. The root system has coarse, woody, highly branched rhizomes. The roots grow from the rhizomes and the base of the clumps and penetrate almost vertically downward to depths of 8 to 13 feet (2.4-3.3 m) [13,14,30].
 
-![Golden-colored reproduction spikes of a stem of grass in the foreground. Out-of-focus green grass dominates the background.]({{ site.baseurl }}/assets/images/species-reviews/spapec_spapec_plant.jpeg)
+![Golden-colored reproduction spikes of a stem of grass in the foreground. Out-of-focus green grass dominates the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spapec_plant.jpeg?itok=yYxN8vir)
 
 Photo Credit
 

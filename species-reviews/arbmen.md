@@ -105,7 +105,7 @@ Pacific madrone is a dominant species in the following vegetation types.
 
 ## Botanical and Ecological Characteristics
 
-![Photo of Pacific madrone branch tip with red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-arbmen_berries.jpg)
+![Photo of Pacific madrone branch tip with red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-arbmen_berries.jpg?itok=wmF3XeEp)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Photo by James Adney, iNaturalist.org, no rights reserved.
 
 Pacific madrone berries.
 
-![Photo of Pacific madrone trunk showing red, peeling bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-arbmen_trunk.jpg)
+![Photo of Pacific madrone trunk showing red, peeling bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-arbmen_trunk.jpg?itok=zdiX07eN)
 
 Photo Credit
 

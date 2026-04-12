@@ -34,7 +34,7 @@ Zouhar, Kristin. 2004. _Hypericum perforatum_ , common St. Johnswort. In: Fire E
 
 ## Image Gallery
 
-![Close-up photo of a five-petalled, yellow flower on a leafy stem with several more yellow flower buds against a black background.]({{ site.baseurl }}/assets/images/species-reviews/hypper_feis-HYPPER_flower.jpg) Common St. Johnswort flower. _Photo ©Barry A. Rice, The Nature Conservancy._
+![Close-up photo of a five-petalled, yellow flower on a leafy stem with several more yellow flower buds against a black background.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-HYPPER_flower.jpg) Common St. Johnswort flower. _Photo ©Barry A. Rice, The Nature Conservancy._
 
 Photo Credit: Photo ©Barry A. Rice, The Nature Conservancy.
 

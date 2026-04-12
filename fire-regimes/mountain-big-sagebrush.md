@@ -26,7 +26,7 @@ Innes, Robin J.; Zouhar, Kristin. 2018. Fire regimes of mountain big sagebrush c
 
 ## Summary
 
-![Photo of a fire burning in a patch of sagebrush, showing a line of red and orange flames under a gray and black smoke.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig1_RxFire.jpg)
+![Photo of a fire burning in a patch of sagebrush, showing a line of red and orange flames under a gray and black smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig1_RxFire.jpg?itok=JRUr79va)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ For information regarding the biology and ecology of mountain big sagebrush, how
 
 The focus of this synthesis is communities or ecosystems historically dominated by mountain big sagebrush. Researchers identify three primary big sagebrush ecosystems: Intermountain Basins montane sagebrush steppe, Intermountain Basins big sagebrush steppe, and Intermountain Basins big sagebrush shrubland. The first is primarily dominated by mountain big sagebrush, while the latter are primarily dominated by Wyoming big sagebrush and/or basin big sagebrush [24,231,242,272]. Mountain big sagebrush and Wyoming big sagebrush ecosystems occur along a gradient of soil moisture and temperature regimes, which are driven by a combination of soil characteristics, climate, elevation, and topography. Resilience to disturbances and resistance to nonnative plant invasions also change along this gradient, generally increasing with increasing soil moisture availability and decreasing with increasing soil temperature [73,208] (figure 2). Mountain big sagebrush steppe ecosystems occur on the wettest, coolest sites [209,226,321] and correspond to LANDFIRE's Intermountain Basins Montane Sagebrush Steppe Biophysical Settings series 11260 and 11261 [171].
 
-![Graphs showing how resilience of sagebrush communities and their resistance to invasion by cheatgrass increase along a gradient from warm-dry locations to cool-moist locations. ]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig2_resilience%20_resistance_graph.jpg)
+![Graphs showing how resilience of sagebrush communities and their resistance to invasion by cheatgrass increase along a gradient from warm-dry locations to cool-moist locations. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig2_resilience%20_resistance_graph.jpg?itok=Q2wn35AE)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Except in areas where mountains receive substantial orographic-induced precipita
 
 ## Distribution
 
-![Map of the western United States showing the distribution of two mountain big sagebrush Biophysical Settings.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig3_Map.jpg)
+![Map of the western United States showing the distribution of two mountain big sagebrush Biophysical Settings.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig3_Map.jpg?itok=fTo1xjX7)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ Mountain big sagebrush communities often occur within a mosaic of forests, woodl
 
 ## Historical Fire Regimes
 
-![Photo of a large flat area of a sagebrush community under a cloudy sky with a bolt of lightning striking in the background.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig4_lightning.jpg)
+![Photo of a large flat area of a sagebrush community under a cloudy sky with a bolt of lightning striking in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig4_lightning.jpg?itok=U4ks3KgW)
 
 Photo Credit
 
@@ -237,7 +237,7 @@ However, two studies of mountain big sagebrush in Utah and adjacent Nevada that 
 
 The FEIS Species Review about mountain big sagebrush includes a review and analysis of mountain big sagebrush postfire recovery data from 306 burned sites in eight ecoregions examined in 20 studies. Most available data (86%) came from burns ≤25 years old, and few of those sites (9%) had fully recovered. When site-level data were averaged within 5-year bins, sites tended toward full recovery at 28% canopy cover 26 to 30 years after fire; however, not all burns >25 years were fully recovered (figure 5). Postfire recovery times varied within and among ecoregions (figure A1). Sites in the Wyoming Basin appeared to be the slowest to recover (figure A1c), which is consistent with relatively long fire rotations reported by Bukowski and Baker [60] (table A5) and long mean fire intervals modeled by LANDFIRE for the Wyoming Basin [176] (table 1), if assuming a direct relationship between postfire recovery and fire frequency [19,341]. However, unburned cover values at sites in the south-central Wyoming Basin were high, ranging from 42% to 71% with a mean of 56%, which resulted in low postfire recovery values (burned cover divided by unburned cover), even though mountain big sagebrush cover on most burned sites (67%) exceeded 20%, 17 to 25 years after fire. Although "understory fine fuels were on the light side and patchy" due to many years of summer-long grazing on these sites, accounts from early settlers in this area suggest that fine fuels were historically abundant in some mountain big sagebrush areas, as they "were able to put up hay". Relatively fast recovery [19,341] and abundant fine fuels [73,208], therefore, might suggest a history of frequent fire in the area (see Historical Fuels: Amount and Continuity of Fuels). However, fire may still have been infrequent in this ecoregion because of low lightning strike density [314].
 
-![Graph showing postfire recovery of mountain big sage brush over time.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig5_postfire_recovery_graph.jpg)
+![Graph showing postfire recovery of mountain big sage brush over time.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig5_postfire_recovery_graph.jpg?itok=rnpc_Z9U)
 
 Photo Credit
 
@@ -249,7 +249,7 @@ Frequent fires favor grassland steppe over sagebrush steppe [159,210,220]. If mo
 
 While conifer establishment in mountain big sagebrush communities may be "minimal" on many sites even after apparently long periods without fire [159], conifers can establish and dominate in mountain big sagebrush communities along woodland-sagebrush ecotones when the interval between fires becomes long enough [159,211] (see Woodland Expansion). The period of time required for mountain big sagebrush steppe sites to succeed to woodland varies among sites. For example, in southeastern Oregon and southwestern Idaho, development of western juniper woodlands in mountain big sagebrush and low sagebrush communities from the time of initial tree establishment to dominance ranged from 80 years on cool, relatively moist sites to >120 years on warm, dry sites [144]. On mountain big sagebrush/Idaho fescue sites in Oregon and California, nearly 80% of western juniper trees established within a 30-year period when few fires were evident in the fire-scar record, and western juniper reached dominance in as few as 60 to 70 years [214,215]. Based on these and other data, researchers developed a conceptual model to estimate the time necessary for mountain big sagebrush communities along elevational and aspect gradients to transition from initial western juniper establishment to late-seral woodland (figure 6). Establishment and spread of other conifers into mountain big sagebrush communities is not well studied.
 
-![Graph showing how density and cover of western juniper increase over time in mountain sagebrush communities at different elevations.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig6_tree_establishment.jpg)
+![Graph showing how density and cover of western juniper increase over time in mountain sagebrush communities at different elevations.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig6_tree_establishment.jpg?itok=A9olpDmM)
 
 Photo Credit
 
@@ -267,7 +267,7 @@ Only a few studies of charcoal fragments in soils and sediments had been conduct
 
 Comparisons of peaks in charcoal abundance with climate records suggest that fires occurred in mountain big sagebrush communities during periods that were wetter than average, implying that these are fuel-limited systems where fine-fuel biomass increases during relatively wet periods and is then ignited during relatively dry years [140,233]. For example, charcoal records from Hendrick Pond, Wyoming, indicated that several fire episodes occurred during century-long wet periods centered around AD 550, 790, 1100, 1300, and 1800 [140]. In a southwestern Idaho rangeland, a comparison of fire activity (based on radiocarbon dating of charcoal in soil) to climate reconstructions (based on tree-ring records) over the last 2,000 years showed that fire episodes were more common during centuries that were wetter than average, and that fire activity peaked during drier than average decades within those centuries. For example, fire episodes were frequent during the relatively cool and wet Little Ice Age (AD 1350–1850) and most frequent around AD 1450—a period with several drier than average decades. In contrast, fire episodes were infrequent during the relatively dry Medieval Climatic Anomaly (AD 925–1280), with the exception of a wetter interval centered around AD 1100, when some fire activity was evident [233]. The positive relationship between fire occurrence and relatively wet periods has also been described in landscapes dominated by Wyoming big sagebrush and basin big sagebrush in central Nevada [202].
 
-![Map of the western United States showing the distribution of mountain big sagebrush Biophysical Settings and fire history study site locations.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig7_MapOfStudyLocations.jpg)
+![Map of the western United States showing the distribution of mountain big sagebrush Biophysical Settings and fire history study site locations.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig7_MapOfStudyLocations.jpg?itok=hzcgL4XE)
 
 Photo Credit
 
@@ -363,7 +363,7 @@ Some authors have attributed juniper expansion since European-American settlemen
 
 While conifer expansion is a concern in many big sagebrush communities, tree density and canopy cover have not changed or have declined in many pinyon-juniper communities in the western United States (e.g., [53,190,268]). Romme et al. [268] cautioned that "one cannot necessarily assume that pinyon and juniper are increasing in density in any particular portion of their range without local data". In Dinosaur National Monument and the surrounding area, a comparison of historical vegetation reconstructed using General Land Office survey records from 1904 to 1911 with contemporary vegetation records showed a net decline in pinyon-juniper woodlands and mixed montane shrublands and an increase in sagebrush steppe (a combination of mountain big sagebrush, Wyoming big sagebrush, and basin big sagebrush communities). Shorter fire rotations since European-American settlement due to the high amount of prescribed burning (see Fire Rotations Estimated Using Contemporary Fire Records) appeared to be driving the decline. However, some pinyon-juniper expansion was evident near historical pinyon-juniper-sagebrush ecotones, particularly at 6,600 to 7,900 feet (2,000-2,400 m) and on 10% to 30% slopes [11].
 
-![Three photos, the first shows a sagebrush community with trees in the background, the second shows a sagebrush community with trees scattered within it, and the third shows a western juniper woodland.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig8_postfire_succession.jpg)
+![Three photos, the first shows a sagebrush community with trees in the background, the second shows a sagebrush community with trees scattered within it, and the third shows a western juniper woodland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig8_postfire_succession.jpg?itok=4EDSBHps)
 
 Photo Credit
 
@@ -532,7 +532,7 @@ cIncludes Wyoming big sagebrush-basin big sagebrush steppe, Wyoming big sagebrus
 
 Heavy livestock grazing during the late 1800s and early 1900s likely reduced fire sizes by reducing fine fuels in many mountain big sagebrush communities, but cessation of heavy livestock grazing and fire suppression policies since that time have resulted in increases in fine fuels, and the number of large fires has since increased in some areas [117,118,135,217]. In the United States, 98% of wildfires reported by the U.S. Forest Service from 1970 to 2002 were suppressed before reaching 300 acres (120 ha) [67]. On the Sheldon National Wildlife Refuge from 1945 to 1967, 10 fires were suppressed. Nine of these burned <1 acre (0.4 ha), and 1 burned 100 acres (40 ha). Fire suppression efforts were thought to have been aided by the reduction in fine fuel abundance and continuity due to heavy livestock grazing on the refuge in the early 1900s. However, cessation of grazing on the refuge in the early 1980s and the resultant build-up of fine fuels were coincident with an increase in large fires on the refuge—one in 1988 (2,100 acres (840 ha)) and another in 1994 (7,500 acres (3,000 ha)) [117]. The 2006 wildfires of Elko County, Nevada, burned nearly 1 million acres (400,000 ha), most of which were mountain big sagebrush communities. These fires were attributed to "a bumper crop of perennial bunchgrasses" produced during a moist spring followed by above-average summer temperatures and periods of extreme fire weather [118]. While contemporary fire suppression efforts reduce fire sizes overall [67], wildfires in sagebrush communities that occur during hot, windy weather can reach large sizes despite aggressive fire suppression responses [97,291].
 
-![Aerial photo showing mountain foothills covered by grassland, shrubland, and woodland with a large blackened area in the foreground and smoke rising from the midground.]({{ site.baseurl }}/assets/images/fire-regimes/mountain-big-sagebrush_feis-ARTTRIV_FRS_Fig9_Constantia_Fire.jpg)
+![Aerial photo showing mountain foothills covered by grassland, shrubland, and woodland with a large blackened area in the foreground and smoke rising from the midground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ARTTRIV_FRS_Fig9_Constantia_Fire.jpg?itok=205MNmFj)
 
 Photo Credit
 

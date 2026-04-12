@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for pitch pine communities has not yet been pub
 
 ## Distribution
 
-![A map showing the distribution of pitch pine communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/pitch-pine_feis-pitch_pine_locator.jpg)
+![A map showing the distribution of pitch pine communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pitch_pine_locator.jpg?itok=q_fFSpeS)
 
 Photo Credit
 

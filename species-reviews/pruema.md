@@ -81,7 +81,7 @@ British Columbia| 4,025| 1,220| [120]
 
 Bitter cherry occurs in a variety of habitats including mountain brush, woodland, and riparian [11,17,40,77,83].
 
-![A photo of a large, mounded shrub covered in small white flowers. It is growing in the open with no other large shrubs or trees, the background is grassy hills.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruema_habitat.jpg)
+![A photo of a large, mounded shrub covered in small white flowers. It is growing in the open with no other large shrubs or trees, the background is grassy hills.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pruema_habitat.jpg?itok=Mjolxy60)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ In Arizona bitter cherry is a member of interior deciduous riparian forests domi
 
 ## Botanical Description
 
-![A photo of a shrub or small tree's long, pointed, blue-green leaves and small red cherries hanging in pairs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruema_fruit.jpeg)
+![A photo of a shrub or small tree's long, pointed, blue-green leaves and small red cherries hanging in pairs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pruema_fruit.jpeg?itok=YwrPMb-z)
 
 Photo Credit
 

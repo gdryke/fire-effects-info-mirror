@@ -89,7 +89,7 @@ Montana| 5,000-6,600| 1,524-2,012
  
 ## Plant Communities
 
-[![Green and gold bunch grasses grow beneath dark green shrubs.]({{ site.baseurl }}/assets/images/species-reviews/elyrep_elyrep_habit.jpg)Photo Credit Photo by Andrew Skotnicki, iNaturalist (CC BY 4.0). Quackgrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Green and gold bunch grasses grow beneath dark green shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/elyrep_habit.jpg?itok=RIUxMPCj)Photo Credit Photo by Andrew Skotnicki, iNaturalist (CC BY 4.0). Quackgrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Quackgrass invades gardens, yards, crop fields, roadsides, ditches, and just about any disturbed, moist area [21]. It invades mixed-grass prairies as well as oak (_Quercus_ spp.)-hickory (_Carya_ spp.) and whitebark pine (_Pinus albicaulis_) forests [1,24,49].
 
@@ -110,7 +110,7 @@ Quackgrass is a cool-season, exotic, perennial, rhizomatous graminoid. Its stems
 
 Quackgrass flowers from June through August in Colorado, Wyoming, and Montana; and from June through July in North Dakota [14].
 
-![A reproductive spike of a grass with green vegetation in the background.]({{ site.baseurl }}/assets/images/species-reviews/elyrep_elyrep_reproductive.jpg)
+![A reproductive spike of a grass with green vegetation in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/elyrep_reproductive.jpg?itok=MIhkMx1N)
 
 Photo Credit
 

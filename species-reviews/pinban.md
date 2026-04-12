@@ -61,7 +61,7 @@ Jack pine occurs in Canada and in the north-central and northeastern United Stat
 
 ## Site Characteristics
 
-![A photo of a stand of gnarled, small pine trees growing around an open area of bedrock, with ferns and other herbaceous plants growing below.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinban_habitat.jpeg)
+![A photo of a stand of gnarled, small pine trees growing around an open area of bedrock, with ferns and other herbaceous plants growing below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinban_habitat.jpeg?itok=8_buGB51)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Groundcover commonly consists of reindeer lichen (Cladonia spp.) on drier sites 
 
 ## Botanical Description
 
-![A close up photo of a pine tree's short, light green needles, bunches of small brown pollen cones, and gray, closed seed cones on a gray branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinban_cones.jpeg)
+![A close up photo of a pine tree's short, light green needles, bunches of small brown pollen cones, and gray, closed seed cones on a gray branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinban_cones.jpeg?itok=nCedbpwN)
 
 Photo Credit
 

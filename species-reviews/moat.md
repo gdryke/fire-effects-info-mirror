@@ -102,7 +102,7 @@ In Washington shrub-steppe communities dominated by big sagebrush (_Artemisia tr
 
 **Territoriality:** In the eastern Sierra Nevada, where both hosts and brown-headed cowbirds are widely dispersed on the breeding areas, there is no apparent territoriality. Elsewhere, such as in the eastern states where brown-headed cowbirds are moderately abundant and competition for host nests is higher, territorial defense is typical. At very high brown-headed cowbird densities, territoriality is apparently not cost effective and is rarely observed [51].
 
-![A photo of a sleek black bird with a brown head and a pointed black beak standing on a wrought iron fence.]({{ site.baseurl }}/assets/images/species-reviews/feis-moat_portrait.jpg)
+![A photo of a sleek black bird with a brown head and a pointed black beak standing on a wrought iron fence.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-moat_portrait.jpg?itok=_GwlhBPu)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Brown-headed cowbird, Cherokee County, South Carolina. [(CC BY-NC-ND 4.0)](<http
 
 **Nests:** Female brown-headed cowbirds choose the nest, finding nests in one of three ways. They may perch in a hidden spot, watching for nest building activity in nearby open areas; walk on the ground watching for activity; or search noisily on short flights appearing to intentionally flush potential hosts from nests [35]. Preferred host nests have eggs present. Host eggs are usually of smaller volume than brown-headed cowbird eggs. Preferred nests are active; eggs are added on a daily basis by the host female. Large diameter (greater than 3 inches [7.6 cm]) closed nests are preferred over small diameter (less than 2 inches [5.1 cm]) open and closed nests. Large, open nests are least preferred.
 
-![A photo of a bird's nest with four eggs. Three of the eggs are small and white, the fourth is larger and white with brown spots.]({{ site.baseurl }}/assets/images/species-reviews/feis-moat_housefinchnest.jpg)
+![A photo of a bird's nest with four eggs. Three of the eggs are small and white, the fourth is larger and white with brown spots.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-09/feis-moat_housefinchnest.jpg?itok=bimkXbTt)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ In northeastern Arkansas short-eared owl (_Asio flammeus_) pellets contained bro
 
 The brown-headed cowbird is a ground gleaner, consuming weed seeds, grass seeds, waste grain, and insects. Historically it may have depended on grazing by large ungulates to create suitable feeding conditions. A common foraging technique is to follow large grazing animals, gleaning seeds and the insects stirred up by the feet of the grazer [11,39,35]. Brown-headed cowbirds also feed on insects present on large ungulates; they have been observed walking on resting bison (_Bison bison_), picking insects from the hide [39]. In the northeastern United States plant foods common in brown-headed cowbird diets include seeds of bristle grasses (_Setaria_ spp.), ragweeds (_Ambrosia_ spp.), oats (_Avena_ spp.), corn (_Zea mays_), crab grasses (_Digitaria_ spp.), knotweeds and smartweeds (_Polygonum_ spp.), paspalums (_Paspalum_ spp.), and sheepsorrel (_Rumex_ spp.). In the Southeast plant foods include seeds of bristle grasses, panic grasses (_Panicum_ spp.), ragweeds, oats, wheat (_Triticum_ spp.), doveweeds (_Croton_ spp.), corn, and paspalums [36]. A summary of several dietary studies reveals that approximately 75 percent of the brown-headed cowbird diet is weed seeds; grasshoppers and beetles form the larger part of the remaining 25 percent of the diet [35].
 
-![A photo of a fuzzy brown cow laying down, with a flock of black and brown birds on and around the cow.]({{ site.baseurl }}/assets/images/species-reviews/feis-moat_oncow.jpeg)
+![A photo of a fuzzy brown cow laying down, with a flock of black and brown birds on and around the cow.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-moat_oncow.jpeg?itok=FnNdbN3c)
 
 Photo Credit
 

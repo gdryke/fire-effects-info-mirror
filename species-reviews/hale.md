@@ -34,7 +34,7 @@ Snyder, S. A. 1993. _Haliaeetus leucocephalus_ , bald eagle. In: Fire Effects In
 
 ## Image Gallery
 
-![Bald eagle flying.]({{ site.baseurl }}/assets/images/species-reviews/feis-hale_flying.jpg) Bald eagle at Lower Klamath National Wildlife Refuge along the California-Oregon border. _U.S. Fish and Wildlife Service image by George Gentry._
+![Bald eagle flying.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-hale_flying.jpg) Bald eagle at Lower Klamath National Wildlife Refuge along the California-Oregon border. _U.S. Fish and Wildlife Service image by George Gentry._
 
 Photo Credit: U.S. Fish and Wildlife Service image by George Gentry.
 
@@ -74,7 +74,7 @@ See Appendix.
 
 ## Biological Characteristics
 
-![Bald eagle flying.]({{ site.baseurl }}/assets/images/species-reviews/feis-hale_flying.jpg)
+![Bald eagle flying.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-hale_flying.jpg?itok=oHVa7Mph)
 
 Photo Credit
 

@@ -119,7 +119,7 @@ In Evansburg State Park, Pennsylvania, creeping jenny was dominant in the unders
 
 In south-central Pennsylvania, creeping jenny occurred in the bluejoint reedgrass-bullrush-threeway sedge (_Calamagrostis canadensis-Scirpus_ spp.-_Dulichium arundinaceum_) association in wet meadows where the soil was saturated and under standing water for at least part of the growing season [74]. In central Pennsylvania, it occurred in the fringed loosestrife-Indianhemp (_Lysimachia ciliata-Apocynum cannabinum_) association on low terraces and gravel bars [75]. Around freshwater springs in southern Illinois, creeping jenny was common in the fowl mannagrass/Indian woodoats (_Glyceria striata/Chasmanthium latifolium_) community along riverbanks and in a gravelly bar [71]. Along the New River Gorge National River, creeping jenny occurred in fringed sedge (_Carex crinita_) wetlands and in American eelgrass-pondweed (_Vallisneria americana-Potamogeton_ spp.) wetlands [97]. In Great Falls Park, Virginia, it occurred in the lateflowering thoroughwort (_Eupatorium serotinum_)-knotweed (_Polgonum_ spp.) community on sandy bars and on riverbanks [93].
 
-![A photo of a wet, boggy area with a small green plant growing over a wide area of the water, with the tops of the plants above the surface and the lower parts submerged.]({{ site.baseurl }}/assets/images/species-reviews/feis-lysnum_water.jpg)
+![A photo of a wet, boggy area with a small green plant growing over a wide area of the water, with the tops of the plants above the surface and the lower parts submerged.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-lysnum_water.jpg?itok=8bh1j6nr)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ A vegetation classification from Illinois described 2 plant communities in which
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [29,31,40,59,60,66,77,78,87,97]).
 
-![A close up photo of a prostrate plant with yellow flowers and round leaves, with a stem extending out along the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-lysnum_flower.jpeg)
+![A close up photo of a prostrate plant with yellow flowers and round leaves, with a stem extending out along the ground.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-lysnum_flower.jpeg?itok=jHBfGcxx)
 
 Photo Credit
 
@@ -333,7 +333,7 @@ According to a fact sheet, creeping jenny may provide erosion control [105]. His
 
 ## Impacts
 
-![A photo looking down at a flat, creeping plant with round green leaves and yellow flowers, growing over rock and mixed with other small herbaceous plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-lysnum_plant.jpg)
+![A photo looking down at a flat, creeping plant with round green leaves and yellow flowers, growing over rock and mixed with other small herbaceous plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lysnum_plant.jpg?itok=ApixgONv)
 
 Photo Credit
 

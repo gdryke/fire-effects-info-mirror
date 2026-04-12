@@ -74,7 +74,7 @@ In the recent past, California condor foraging areas in the Coast Ranges, the Te
 
 ## Biological Characteristics
 
-![A close-up of the head of a California condor.]({{ site.baseurl }}/assets/images/species-reviews/feis-gyca_condor.jpg)
+![A close-up of the head of a California condor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-gyca_condor.jpg?itok=_tQrL7gR)
 
 Photo Credit
 

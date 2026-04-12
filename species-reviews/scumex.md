@@ -39,7 +39,7 @@ Climate models suggest that North American warm deserts may become warmer and dr
 
 ## Introduction
 
-![Close-up of Mexican bladdersage flowers and fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig1.jpg)
+![Close-up of Mexican bladdersage flowers and fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scumex_fig1.jpg?itok=RP4UMuuh)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Mexican bladdersage, paperbag bush, bladder sage
 
 Mexican bladdersage is native to all North American warm deserts— the Mojave, Sonoran, and Chihuahuan—and the transition zone to the Great Basin cold desert. It occurs in the southwestern United States and northern Mexico, from southern California and southern Nevada at its northern extent [38] (fig. 2), to northern Baja California Sur, Durango, and Nuevo León, Mexico in the south [42].
 
-![Map showing county-wide distribution of Mexican bladdersage.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig2.png)
+![Map showing county-wide distribution of Mexican bladdersage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scumex_fig2.png?itok=qcQHmTdD)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ The following discussion is organized by vegetation Groups and Macrogroups descr
 
 BpS: North American Warm Desert Riparian Systems – Stringers (11552)
 
-![Shrublands showing dense cover Mexican bladdersage.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig3.jpg)
+![Shrublands showing dense cover Mexican bladdersage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scumex_fig3.jpg?itok=6VKMug8u)
 
 Photo Credit
 
@@ -189,7 +189,7 @@ This group consists of barren and sparsely vegetated stands where physical or ch
 
 ## Botanical and Ecological Characteristics
 
-![Close-up of Mexican bladdersage flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig4.png)
+![Close-up of Mexican bladdersage flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scumex_fig4.png?itok=0CHnb4iU)
 
 Photo Credit
 
@@ -209,7 +209,7 @@ Buds at the base of leaves generally produce two bilateral [108], short-stalked,
 
 **Belowground Description**
 
-![Horizontal rhizomes with shoots sprouting up from them.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig5.jpg)
+![Horizontal rhizomes with shoots sprouting up from them.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-scumex_fig5.jpg)
 
 Photo Credit
 
@@ -269,7 +269,7 @@ Seed-consuming ants, rodents, [40], and birds [25,104,116] affect the fate of se
 
 ### Seed Dispersal
 
-![Close-up of flowers and inflated calyces.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig6.jpg)
+![Close-up of flowers and inflated calyces.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-scumex_fig6.jpg?itok=K5klqkuG)
 
 Photo Credit
 
@@ -287,7 +287,7 @@ Mexican bladdersage seeds do not have a dormancy period, and seeds optimally ger
 
 Seeds can germinate 5 to 10 days after planting, from fall through spring. Seedlings are highly susceptible to damp-off and other fungi if conditions are too wet (e.g., under outdoor nursery winter conditions) [46].
 
-![Graph showing germination rates over 12 years when seeds were stored at four different temperatures.]({{ site.baseurl }}/assets/images/species-reviews/feis-scumex_fig7.png)
+![Graph showing germination rates over 12 years when seeds were stored at four different temperatures.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-06/feis-scumex_fig7.png?itok=Gy5UkrUb)
 
 Photo Credit
 

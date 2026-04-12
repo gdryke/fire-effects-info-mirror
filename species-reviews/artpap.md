@@ -34,7 +34,7 @@ Meyer, Rachelle. 2009. _Artemisia papposa_ , Owyhee sage. In: Fire Effects Infor
 
 ## Introduction
 
-![A photo of several low, dense, gray-green sage plants with upright reproductive stems and bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpap_plants.jpg)
+![A photo of several low, dense, gray-green sage plants with upright reproductive stems and bare ground between plants.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-artpap_plants.jpg)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Annual precipitation in regions where Owyhee sage may occur ranges from a low of
 
 ## Plant Communities
 
-![A photo of sage plants with dense gray-green foliage and upright stems with yellow, somewhat understated flowers growing at regular intervals. Some bare ground is visible between shrubs, with dried grasses and flowering forbs providing some ground cover.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpap_habitat.jpg)
+![A photo of sage plants with dense gray-green foliage and upright stems with yellow, somewhat understated flowers growing at regular intervals. Some bare ground is visible between shrubs, with dried grasses and flowering forbs providing some ground cover.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-artpap_habitat.jpg?itok=gePBSKvD)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Although Owyhee sage shrublands generally have low cover of biological soil crus
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [14,23,28]).
 
-![A photo of upright stems with gray-green leaves and ball-shaped reddish-brown flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-artpap_flowers.jpg)
+![A photo of upright stems with gray-green leaves and ball-shaped reddish-brown flowers.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-artpap_flowers.jpg)
 
 Photo Credit
 

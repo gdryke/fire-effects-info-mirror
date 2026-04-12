@@ -54,7 +54,7 @@ Christmasberry, California holly
 
 ## General Distribution
 
-![A map of the southwestern U.S. with areas in California and northern Mexico highlighted in green where toyon occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-hetarb_map.jpg)
+![A map of the southwestern U.S. with areas in California and northern Mexico highlighted in green where toyon occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hetarb_map.jpg?itok=g_D4cu3k)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Toyon is a characteristic species of chaparral and foothill woodland communities
 
 ## Plant Communities
 
-![A photo of a scrubby mountain landscape with a group of bright green shrubs in the foreground, some with red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-hetarb_habitat.jpeg)
+![A photo of a scrubby mountain landscape with a group of bright green shrubs in the foreground, some with red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hetarb_habitat.jpeg?itok=-uWDpb5E)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Toyon is one of a number of tall shrubs constituting scrub oak dominated chaparr
 
 ## Botanical Description
 
-![A close up photo of a shrub's stem with green, pointed leaves and a large cluster of small red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-hetarb_berries.jpg)
+![A close up photo of a shrub's stem with green, pointed leaves and a large cluster of small red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hetarb_berries.jpg?itok=hruJwenU)
 
 Photo Credit
 
@@ -153,7 +153,7 @@ Compared with other chaparral shrubs, toyon is relatively nonflammable [58].
 
 ## Plant Response to Fire
 
-![A photo of burned trunks with clumps of bright green vegetation growing from the base of each trunk.]({{ site.baseurl }}/assets/images/species-reviews/feis-hetarb_sprouting.jpeg)
+![A photo of burned trunks with clumps of bright green vegetation growing from the base of each trunk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hetarb_sprouting.jpeg?itok=obypfgiR)
 
 Photo Credit
 

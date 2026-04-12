@@ -62,7 +62,7 @@ Cattail hybrids are often identifiable by their distribution. Distributions of a
 
 Throughout its range, broadleaf cattail is most common in freshwater to slightly brackish marshes, ponds, lakes, ditches, swales, and slow-moving river sites [30,58,172,180].
 
-![A photo of green cattails growing out of clear water, with a channel of water with fewer plants. Scattered trees occur in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-typlat_habitat.jpg)
+![A photo of green cattails growing out of clear water, with a channel of water with fewer plants. Scattered trees occur in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-typlat_habitat.jpg?itok=HLWpHZL8)
 
 Photo Credit
 
@@ -228,7 +228,7 @@ Broadleaf cattail is an aquatic or semiaquatic emergent perennial. Morphological
 
 Numerous tiny, dense, felty flowers occur in a terminal spike that is 0.7 to 2 inches (1.8-5 cm) thick [46,110,143,172]. Male flowers make up the upper, narrower half of the spike and female flowers the lower, slightly wider half [82,108]. Over 1,000 flowers were counted in the staminate spike portion of one plant [98]. Male and female spikes are rarely separated. A small space of less than 0.6 inch (1.5 cm) may occur [82,108], but separations of up to 1.5 inches (4 cm) are also reported [82]. Some systematists recognize plants with separated male and female spikes as form ambigua [187,216]. Spikes are typically 6 times as long as they are thick [46,110,143,172]. Only female flowers are persistent [143,172]. Fertilized flowers produce single-seeded, nutlike achenes up to 1.5 mm long [122,227]. Long slender hairs at the base allow for wind and water transport of the "eventually dehiscent" seeds [99,172].
 
-![A photo of a cattail spike, with a brown cylinder growing on top of reproductive stems, with approximately the same length of a narrower cylinder on top.]({{ site.baseurl }}/assets/images/species-reviews/feis-typlat_flower.jpg)
+![A photo of a cattail spike, with a brown cylinder growing on top of reproductive stems, with approximately the same length of a narrower cylinder on top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-typlat_flower.jpg?itok=T4W11fUx)
 
 Photo Credit
 
@@ -242,7 +242,7 @@ Floras from throughout broadleaf cattail's range describe its rhizomes as tough,
 
 Some indicate that broadleaf cattail produces 2 types of rhizomes; one that is "more superficial", thin, "feathery", and multibranched, and another that is deeper, thicker, and branching at the base [181]. Rhizome growth and depth are likely affected by substrate texture, moisture, and/or temperature. In the Skokie Marsh of Illinois, the thickest broadleaf cattail rhizomes were 3 to 3.9 inches (7.5-10 cm) deep [190]. From an alluvial basin in central Iowa, long, stout broadleaf cattail rhizomes occurred at 6- to 8-inch (15-20 cm) depths. Rhizomes were soft and spongy, with internal air spaces [96]. For more on vegetative growth, see Vegetative Regeneration.
 
-![A photo of a rhizome emerging from the base of an uprooted cattail, with roots extending below and leaves of different cattail individuals in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-typlat_rhizome.jpg)
+![A photo of a rhizome emerging from the base of an uprooted cattail, with roots extending below and leaves of different cattail individuals in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-typlat_rhizome.jpg?itok=-2JajBL_)
 
 Photo Credit
 
@@ -480,7 +480,7 @@ Controlled studies suggest that recently burned sites provide good broadleaf cat
 
 Numerous fire studies in broadleaf cattail habitats described the fires as severe, but rarely was broadleaf cattail abundance lower on burned than unburned sites in early postfire years. Broadleaf cattail occurred in severely burned marsh meadows in the Oregon Coast Range. Sites burned at least 11 years earlier. Broadleaf cattail was absent from adjacent mature western hemlock (_Tsuga heterophylla_)-Douglas-fir forests (about 300 years old) [163]. Burned and unburned wetlands in Mono Lake Tufa State Reserve, California, were only visibly different in litter abundance 1 year after a fall prescribed fire. Strip fires burned in the fall when wind speeds were low. Fires produced near-black smoke and flame lengths of up to 10 feet (3 m) and were described as "high intensity". In the following April, broadleaf cattail was nearly 1.6 feet (0.5 m) tall on burned sites, and burned sites were green before unburned sites [11]. After the September Red Bench Fire that burned wet sedge meadows in Glacier National Park, broadleaf cattail had 0.5% cover in the 2nd postfire year but was not reported in the 1st or 3rd postfire years. The fire burned when conditions were extremely dry and often burned to mineral soil. Prefire data were not given, but unburned meadows were dominated by beaked sedge (_Carex rostrata_) with near exclusion of other species [231]. After severe fires in smooth cordgrass (_Spartina alterniflora_) and sawgrass (_Cladium jamaicensis_) swamps of southeastern Texas, cattail increased in the understory. After another severe winter fire 2 years later, when conditions were dry, cattail increased even more [124].
 
-![A photo of charred cattails in the foreground, with flames spreading behind. Smoke obscures trees and shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-typlat_fire.jpg)
+![A photo of charred cattails in the foreground, with flames spreading behind. Smoke obscures trees and shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-typlat_fire.jpg?itok=DKmoZYY8)
 
 Photo Credit
 
@@ -527,7 +527,7 @@ Broadleaf cattail is restricted to moist or wet sites; however, some indicate th
 
 Fires are not uncommon in broadleaf cattail habitats, and often fuel loads are more than adequate for fire spread. Robertson [179] reported that the fuel load/unit area in wetlands can be higher than that of uplands in the upper Midwest. Wetland fires may burn "hotter" and, given proper conditions, "faster" than upland sites. Fires in cattail marshes produce thick, black smoke, similar to that produced when tires burn (Rhode, personal communication in [179]).
 
-![A photo of dense, dried cattails growing in a low area, with trees and shrubs growing where land rises in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-typlat_fuel.jpg)
+![A photo of dense, dried cattails growing in a low area, with trees and shrubs growing where land rises in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-typlat_fuel.jpg?itok=FcIJJHz-)
 
 Photo Credit
 

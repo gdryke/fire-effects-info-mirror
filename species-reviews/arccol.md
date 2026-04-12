@@ -34,7 +34,7 @@ Howard, Janet L. 1993. _Arctostaphylos columbiana_ , hairy manzanita _._ In: Fir
 
 ## Image Gallery
 
-![Photo of hairy manzanita.]({{ site.baseurl }}/assets/images/species-reviews/feis-arccol_plant.jpg) Hairy manzanita _Photo by Erin Spinginotic, iNaturalist.org, no rights reserved._
+![Photo of hairy manzanita.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-arccol_plant.jpg) Hairy manzanita _Photo by Erin Spinginotic, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Erin Spinginotic, iNaturalist.org, no rights reserved.
 

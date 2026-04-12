@@ -46,7 +46,7 @@ The scientific name for San Diego thorn-mint is _Acanthomintha ilicifolia_ (Gray
 
 None
 
-![Close-up photo of a brownish-red stem with dark green leaves and pink flowers emerging from thorny bracts.]({{ site.baseurl }}/assets/images/species-reviews/acaili_feis-ACAILI_stem.jpg)
+![Close-up photo of a brownish-red stem with dark green leaves and pink flowers emerging from thorny bracts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ACAILI_stem.jpg?itok=CUzlv0qU)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ San Diego thorn-mint is an endemic species. It ranges from the southern portion 
 
 San Diego thorn-mint is an endemic species on the mesas and foothills of San Diego County and northern Baja California. San Diego thorn-mint occurs in open areas, clay depressions and vernal pools within chaparral, coastal sage scrub and annual grassland habitats below 2,953 feet (900 m) elevation [15,23,31]. San Diego thorn-mint is often associated with clay soils derived from gabbroic rock, which is uncommon in San Diego County and contributes to San Diego thorn-mint's rarity. Plants typically occur on gentle slopes of 15 to 20 degrees [32].
 
-![Photo of a patch of green stems, some with visible flowers at the end.]({{ site.baseurl }}/assets/images/species-reviews/acaili_feis-ACAILI_plants.jpg)
+![Photo of a patch of green stems, some with visible flowers at the end.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ACAILI_plants.jpg?itok=aeWWfdfe)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Two uncommon native forbs, chocolate lily (_Fritillaria biflora_) and Palmer's g
 
 ## Botanical Description
 
-![Close-up photo of white and purple flowers emerging from a bundle of green bracts with prominent thorns.]({{ site.baseurl }}/assets/images/species-reviews/acaili_feis-ACAILI_flowers.jpg)
+![Close-up photo of white and purple flowers emerging from a bundle of green bracts with prominent thorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ACAILI_flowers.jpg?itok=LoJLESF3)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ San Diego thorn-mint germinates in the winter, flowers from April through June, 
 
 San Diego thorn-mint reproduces sexually [32]. It has bisexual flowers [15,22,37].
 
-![Close-up photo of two pink flowers emerging from bracts with prominent thorns.]({{ site.baseurl }}/assets/images/species-reviews/acaili_feis-ACAILI_flower.jpg)
+![Close-up photo of two pink flowers emerging from bracts with prominent thorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ACAILI_flower.jpg?itok=0Je3U45p)
 
 Photo Credit
 

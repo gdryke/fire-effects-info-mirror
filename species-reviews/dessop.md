@@ -34,7 +34,7 @@ Howard, Janet L. 2003. _Descurainia sophia_ , herb sophia. In: Fire Effects Info
 
 ## Introduction
 
-![Photo of a cluster of small yellow flowers at the end of a green stem, with a bright blue sky and brown hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/dessop_feis-DESSOP_flowers.jpg)
+![Photo of a cluster of small yellow flowers at the end of a green stem, with a bright blue sky and brown hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-DESSOP_flowers.jpg?itok=xjrJzHfZ)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Utah| 2,300-8,050 ft (700-2,450 m) [145]
 
 Herb sophia grows in a broad spectrum of environments ranging from cold desert, tundra, taiga, alpine, and subalpine ecosystems to hot desert and dry-tropical Hawaiian ecosystems [72].
 
-![Photo of a dense cluster of green plants, dominated by a fine-leaved plant with small yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/dessop_feis-DESSOP_plants.jpg)
+![Photo of a dense cluster of green plants, dominated by a fine-leaved plant with small yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-DESSOP_plants.jpg?itok=N5Kvsiw1)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ A few vegetation classifications describe plant communities dominated by herb so
 
 ## Botanical Description
 
-![Photo of a small green plant with finely divided leaves and small yellow flowers, growing among rocks.]({{ site.baseurl }}/assets/images/species-reviews/dessop_feis-DESSOP_leaves.jpg)
+![Photo of a small green plant with finely divided leaves and small yellow flowers, growing among rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-DESSOP_leaves.jpg?itok=R34Plku1)
 
 Photo Credit
 
@@ -161,7 +161,7 @@ Germination rate of soil-stored flixweed seed over time [26].0 Years| 2.7 Years|
 
 Herb sophia shows good germination [27], with a mean rate of about 70% [114]. Seed collected in Alberta showed 75% germination after cold storage/stratification. In another aspect of the study, some seeds from the lot survived digestion by ruminant grazers or short-term silage. Three percent of ingested seed germinated after 1 day in a cow's rumen, and seed stored in the bottom of a barley (_Hordeum vulgare_)-filled silo for 8 weeks showed 2% germination [19].
 
-![Overhead photo of a plant rosette with a few stems covered with finely divided leaves, growing on mostly bare ground.]({{ site.baseurl }}/assets/images/species-reviews/dessop_feis-DESSOP_rosette.jpg)
+![Overhead photo of a plant rosette with a few stems covered with finely divided leaves, growing on mostly bare ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-DESSOP_rosette.jpg?itok=xM1V0dG3)
 
 Photo Credit
 
@@ -432,7 +432,7 @@ No information.
 
 Herb sophia seeds have a flavor similar to commercial black mustard (_Brassica nigra_) seeds, and are used as a spice [32]. The Navajo used ground herb sophia seeds in baked goods [140]. The stems and leaves are used as fiber in India [139].
 
-![Photo of a field filled with a bunchy green plant with yellow flowers and some areas of bare ground.]({{ site.baseurl }}/assets/images/species-reviews/dessop_feis-DESSOP_Infestation.jpg)
+![Photo of a field filled with a bunchy green plant with yellow flowers and some areas of bare ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-DESSOP_Infestation.jpg?itok=sTzia4uR)
 
 Photo Credit
 

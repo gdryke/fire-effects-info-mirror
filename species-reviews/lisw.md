@@ -77,7 +77,7 @@ In addition to the plant communities listed in Table A1, Swainson's warbler is a
 
 ### Development and Reproduction
 
-![A photo of a small brown bird with a pale stripe over its eye and a sharp beak standing on a thin branch, with blurry vegetation in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-lisw_branch.jpg)
+![A photo of a small brown bird with a pale stripe over its eye and a sharp beak standing on a thin branch, with blurry vegetation in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-lisw_branch.jpg?itok=lgil7bX4)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ According to a review, Swainson's warbler nests are parasitized by brown-headed 
 
 Swainson's warblers forage on and near the ground. In northeastern Louisiana, Swainson's warblers had a mean foraging height of 1.3 feet (0.4 m). This was the lowest relative foraging height observed and included the most occurrences of a species foraging on fallen debris. Of 17 foraging observations, 71% were on the ground and the remainder were in shrubs [3]. In Jamaica, Swainson's warblers captured 95% of insects on the ground [36].
 
-![A photo of a small brown bird standing in dead leaves and litter with a thin orange centipede in its beak.]({{ site.baseurl }}/assets/images/species-reviews/feis-lisw_centipede.jpg)
+![A photo of a small brown bird standing in dead leaves and litter with a thin orange centipede in its beak.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-lisw_centipede.jpg?itok=nltkgi6q)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ At a small scale, patchy habitat may be important to Swainson's warblers. In add
 
 Swainson's warblers require a well-developed understory. Four study areas in Arkansas comprised mainly of bottomland hardwood forest had significantly (P<0.001) greater understory density in occupied (10.9 stems/m²) than random (5.1 stems/m²) sites. Occupied sites also had greater (P=0.022) shrub cover (13.3%) than unoccupied sites (10%) [4]. There was significantly (P<0.01) greater cover of low vegetation (0-5 feet (0-1.5 m)) at nests sites (57%) than at random sites (40%) within Swainson's warbler territories in a managed hardwood forest in South Carolina [52]. The 2 most important variables in models predicting Swainson's warbler territories in Bond Swamp National Wildlife Refuge in Georgia were cane density and the combined density of shrubs, vines, and saplings [45]. On 5 sites in Arkansas, Louisiana, Mississippi, and Florida, Swainson's warblers were observed in the greatest abundance (10-20 territorial males/km²) on sites with many (620-820 stems/ha) small (<25 cm DBH) trees and thickets of understory vegetation. Median stem densities on these sites ranged from 31,592 stems/ha to 48,281 stems/ha. Researchers concluded that stem densities from 30,000 to 50,000 stems/ha provide the cover necessary for high-quality Swainson's warbler habitat [27]. In southern Illinois, the average stem density in Swainson's warbler territories was 26,390 stems/ha. No Swainson's warblers were detected in areas with <5,000 stems/ha, and in 40 of 53 plots stem densities were greater than 10,000 stems/ha [18].
 
-![A photo of a forest with dense green vegetation in the understory and vines growing on the trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-lisw_habitat.jpg)
+![A photo of a forest with dense green vegetation in the understory and vines growing on the trees.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-lisw_habitat.jpg?itok=SV6S2OHG)
 
 Photo Credit
 

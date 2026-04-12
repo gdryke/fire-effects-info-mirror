@@ -48,7 +48,7 @@ No entry.
 
 ## Distribution
 
-![Photo of map distribution of laurel sumac.]({{ site.baseurl }}/assets/images/species-reviews/mallau_mallau_map.jpg)
+![Photo of map distribution of laurel sumac.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/mallau_map.jpg?itok=wNu5GdKS)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ New leaf growth is initiated in February, and leaves are retained for about 12 m
 
 ## Regeneration Processes
 
-![Photo of Laural sumac in flower 2 years following the 2003 Otay Mountain Wildfire.]({{ site.baseurl }}/assets/images/species-reviews/mallau_mallau_flowers.jpg)
+![Photo of Laural sumac in flower 2 years following the 2003 Otay Mountain Wildfire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/mallau_flowers.jpg?itok=Xk0eu2yt)
 
 Photo Credit
 

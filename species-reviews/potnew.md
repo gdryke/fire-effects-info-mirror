@@ -87,7 +87,7 @@ Newberry's cinquefoil is a community dominant in the following vegetation types 
 
 ## Botanical Description
 
-![Photo of two small, white, five-petaled flowers with yellow centers on a stem with small green leaves in front of a pumice stone.]({{ site.baseurl }}/assets/images/species-reviews/feis-potnew_flower.jpg)
+![Photo of two small, white, five-petaled flowers with yellow centers on a stem with small green leaves in front of a pumice stone.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-potnew_flower.jpg?itok=7FOM2rC5)
 
 Photo Credit
 

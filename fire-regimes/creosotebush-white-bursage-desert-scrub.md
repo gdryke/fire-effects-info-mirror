@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for creosotebush-white bursage desert scrub com
 
 ## Distribution
 
-![Map of the extreme southwestern United States, showing the distribution of creosotebush-white bursage communities concentrated in southeastern California, southern Nevada and southwestern Arizona, with additions occurrences in northeastern Arizona. ]({{ site.baseurl }}/assets/images/fire-regimes/creosotebush-white-bursage-desert-scrub_feis-CreosoteWhiteBursage_FRR_map.jpg)
+![Map of the extreme southwestern United States, showing the distribution of creosotebush-white bursage communities concentrated in southeastern California, southern Nevada and southwestern Arizona, with additions occurrences in northeastern Arizona. ](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-CreosoteWhiteBursage_FRR_map.jpg?itok=0r36im-X)
 
 Photo Credit
 

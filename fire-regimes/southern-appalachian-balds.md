@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Southern Appalachian bald communities has n
 
 ## Distribution
 
-![A map showing the distribution of southern Appalachian bald communities in North Carolina, Tennessee, and Virginia.]({{ site.baseurl }}/assets/images/fire-regimes/southern-appalachian-balds_feis-southern_appalachian_balds_locator.jpg)
+![A map showing the distribution of southern Appalachian bald communities in North Carolina, Tennessee, and Virginia.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southern_appalachian_balds_locator.jpg?itok=Q4VA7BTF)
 
 Photo Credit
 

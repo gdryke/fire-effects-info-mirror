@@ -34,7 +34,7 @@ Sullivan, Janet. 1993. _Abies fraseri_ , Fraser fir. In: Fire Effects Informatio
 
 ## Image Gallery
 
-![Close-up photo of a coniferous tree branch with short needles and two gray cones.]({{ site.baseurl }}/assets/images/species-reviews/abifra_feis-ABIFRA_cones.jpg) Fraser fir fruits (CC BY-NC 3.0 US). _T. Davis Sydnor, The Ohio State University, Bugwood.org._
+![Close-up photo of a coniferous tree branch with short needles and two gray cones.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-ABIFRA_cones.jpg) Fraser fir fruits (CC BY-NC 3.0 US). _T. Davis Sydnor, The Ohio State University, Bugwood.org._
 
 Photo Credit: T. Davis Sydnor, The Ohio State University, Bugwood.org.
 

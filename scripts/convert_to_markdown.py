@@ -55,16 +55,13 @@ def convert_html_section(section_div, content_type, slug):
     if not section_div:
         return ""
 
-    # Fix image paths - replace USDA URLs with local paths
+    # Fix image paths - ensure USDA URLs are absolute
     for img in section_div.find_all("img"):
         src = img.get("src", "")
-        # Match both absolute (https://research.fs.usda.gov/sites/...) and
-        # relative (/sites/default/files/...) image paths
-        if "research.fs.usda.gov" in src or src.startswith("/sites/default/files/"):
-            filename = os.path.basename(src.split("?")[0])
-            # Check if prefixed with slug
-            local_name = f"{slug}_{filename}" if not filename.startswith(f"feis-{slug}") else filename
-            img["src"] = f"{{{{ site.baseurl }}}}/assets/images/{content_type}/{local_name}"
+        # Convert relative USDA paths to absolute URLs
+        if src.startswith("/sites/default/files/"):
+            img["src"] = f"https://research.fs.usda.gov{src}"
+        # Already-absolute USDA URLs are left as-is
 
         # Add caption/credit as markdown below image
         caption = img.get("data-caption", "")

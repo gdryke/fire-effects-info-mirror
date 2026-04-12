@@ -54,7 +54,7 @@ Ponderosa pine ecosystems historically experienced both small and large fires, b
 
 ## Taxonomy
 
-![A photo of a man standing by a large pine tree with thick bark growing over a section of exposed wood. The exposed wood is charred, as is bark at the base of the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_arno.jpg)
+![A photo of a man standing by a large pine tree with thick bark growing over a section of exposed wood. The exposed wood is charred, as is bark at the base of the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_arno.jpg?itok=CWOcr7z5)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ For _Pinus ponderosa_ var. _ponderosa_ : Columbia ponderosa pine, Douglas’s po
 
 ## General Distribution
 
-![Two maps of the western U.S. displayed side-by-side, with most California counties and some counties in adjacent states highlighted green in the map labeled "Pinus ponderosa var. benthamiana", and many counties in California, Washington, Oregon, and Idaho, and some counties in adjacent states highlighted green in the map labeled "Pinus ponderosa var. ponderosa".]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_distribution.png)
+![Two maps of the western U.S. displayed side-by-side, with most California counties and some counties in adjacent states highlighted green in the map labeled "Pinus ponderosa var. benthamiana", and many counties in California, Washington, Oregon, and Idaho, and some counties in adjacent states highlighted green in the map labeled "Pinus ponderosa var. ponderosa".](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_distribution.png?itok=HGhB61cW)
 
 Photo Credit
 
@@ -204,7 +204,7 @@ Historically, ponderosa pine cover types dominated about 20% of forested landsca
 
 On many sites, historical structure of ponderosa pine riparian communities might have been similar to that of upland ponderosa pine communities. Studies reconstructing historical stand structure of riparian ponderosa pine forest communities in eastern Washington [594], the southern Blue Mountains of Oregon [423], and the southern Cascades of California [556] found that stand structure was not substantially different between riparian and upland forests. This was attributed to similar fire regimes for riparian and upland forests [556].
 
-![A photo of a meadow dominated by flowering forbs and grasses, with a single downed log. An open stand of large conifers dominates vegetation beyond the meadow, and two small conifers grow near the large trees within the meadow.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_MeeksTable.jpg)
+![A photo of a meadow dominated by flowering forbs and grasses, with a single downed log. An open stand of large conifers dominates vegetation beyond the meadow, and two small conifers grow near the large trees within the meadow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_MeeksTable.jpg?itok=33lkYvCM)
 
 Photo Credit
 
@@ -293,7 +293,7 @@ Ponderosa pine regenerates most successfully after disturbances that open the ca
 
 Ponderosa pine is primarily wind pollinated [354, 422], although some selfing occurs [514]. It is monoecious [422].
 
-![A close-up photo of the end of a tree branch with dense, green needles and a relatively large cone to the left and a cluster of small, yellowish cones to the right.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_cones.jpg)
+![A close-up photo of the end of a tree branch with dense, green needles and a relatively large cone to the left and a cluster of small, yellowish cones to the right.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_cones.jpg?itok=aTPnW4a0)
 
 Photo Credit
 
@@ -334,7 +334,7 @@ In southern British Columbia, seed predators—mostly deer mice—removed ponder
 
 A 4-year study on four sites in western Montana found few developing seeds survived to germination stage. Most cones were lost early in development. Of cones that survived to maturity, red squirrels harvested 66%. Yellow-pine chipmunks, deer mice, and birds harvested an additional 30% of seeds after seeds dispersed [485]. Seed loss is shown in figure 5.
 
-![Two 3D pie charts showing 1st and 2nd year development seed loss, due primarily due to seed death \(64%\) in the 1st year and squirrels \(44%\) or cones dispersing seed \(23%\) in the 2nd year.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_seedloss.jpg)
+![Two 3D pie charts showing 1st and 2nd year development seed loss, due primarily due to seed death \(64%\) in the 1st year and squirrels \(44%\) or cones dispersing seed \(23%\) in the 2nd year.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_seedloss.jpg?itok=wIsAOq18)
 
 Photo Credit
 
@@ -451,7 +451,7 @@ After stand-replacement fire and/or heavy logging, succession to ponderosa pine 
 
 Succession generally progresses fastest on moist sites. In California, Minnich et al. [404] found density of ponderosa pine and mixed-conifer stands was positively associated with mean annual precipitation (P = 0.05). In the San Bernardino Mountains, succession from ponderosa pine to incense-cedar and white fir was more rapid on mesic than xeric sites. Across mountain ranges, successional advancement was more rapid in the Sierra Nevada than in the drier, more southerly San Bernardino Mountains. Stand densities and composition were compared from surveys conducted from 1929-1935 and in 1992 [404].
 
-![A close-up photo of a tree oozing thick, gold-colored fluid, with an adult beetle within the fluid making a hole in the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_mtpinebeetle.jpg)
+![A close-up photo of a tree oozing thick, gold-colored fluid, with an adult beetle within the fluid making a hole in the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_mtpinebeetle.jpg?itok=LIxXtZtl)
 
 Photo Credit
 
@@ -513,7 +513,7 @@ Crown fires kill ponderosa pines of all ages. Low-severity fire usually kills se
 
 * * *
 
-![A photo of a scorched ponderosa pine, with all needles reddish brown on its lower half where needles were scorched and buds killed, most needles reddish brown on the lower portion of its top half where needles were scorched but buds weren't killed, and green, unscorched needles on its top quarter.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_scorch.jpg)
+![A photo of a scorched ponderosa pine, with all needles reddish brown on its lower half where needles were scorched and buds killed, most needles reddish brown on the lower portion of its top half where needles were scorched but buds weren't killed, and green, unscorched needles on its top quarter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_scorch.jpg?itok=g7TSWbIF)
 
 Photo Credit
 
@@ -531,7 +531,7 @@ On the Colville Indian Reservation, wildfire damage to 30- to 40-year old ponder
 
 Postfire survivorship of ponderosa pine typically increases with increasing DBH (e.g., [375, 419, 486, 585]). For example, after two severe wildfires in the Sierra Nevada, ponderosa pine survivorship increased with DBH (P < 0.01, n = 90 trees). Ponderosa pines were monitored following the McNally and Manter fires on the Sequoia National Forest and the Storrie Fire on the Plumas National Forest. Fifty-one percent of trees 10 to 20 inches (25-50 cm) DBH survived, and 69% of larger trees survived [419].
 
-![A line graph with crown scorch \(%\) on the x-axis and mortality \(%\) on the y-axis.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_mortalityscorchcurve.jpg)
+![A line graph with crown scorch \(%\) on the x-axis and mortality \(%\) on the y-axis.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_mortalityscorchcurve.jpg?itok=-1pODe5y)
 
 Photo Credit
 
@@ -586,7 +586,7 @@ Ponderosa pine mortality may be delayed for several postfire years and may be ex
 
 Scorched, live ponderosa pines are vulnerable to insect attacks, particularly from mountain pine beetles, western pine beetles, pine engraver beetles, and red turpentine beetles (review by [5]). Chances of postfire insect attacks increase with increasing fire damage (reviews by [271, 463]) and drought [189]. Attacks by mountain and western pine beetles frequently result in delayed mortality of scorched ponderosa pines [165, 271, 298]. Fifty percent or more crown scorch is associated with postfire attacks and mortality from western pine beetles (review by [5]). One year after a predominantly crown fire on the Payette National Forest, Idaho, 16.6% of ponderosa pines were still alive. In postfire year 2, only 9.5% were classified as living, and most mortality between postfire years 1 and 2 was attributed to bark beetles [124]. Perrakis and Agee [11, 430] noted that after prescribed fire in Crater Lake National Park, small (≤4 inches (10 cm DBH) and/or young (<80 years) ponderosa pines generally died in postfire year 1, while 35% of large (>20 inches (50 cm) DBH) ponderosa pines died in postfire years 3 to 7. Pine beetles (Dendroctonus spp.) and postfire drought were implicated in delayed deaths of the large ponderosa pines [11, 544]. Mortality from bark beetles had ceased by postfire year 4 [11].
 
-![A photo of a conifer-covered hillside, with about 2/3 of the trees green and the rest red or gray.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_burnbeetle.jpg)
+![A photo of a conifer-covered hillside, with about 2/3 of the trees green and the rest red or gray.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_burnbeetle.jpg?itok=VJmeSwAp)
 
 Photo Credit
 
@@ -608,7 +608,7 @@ Agee [5] reports that there is little evidence that fire injury encourages infec
 
 ## Fire Adaptations
 
-![A photo of a cut slice of a ponderosa pine trunk with a yellow arrow pointing to a partial dark ring near the middle of the tree rings. Several burn scars are visible further to the outside of the tree's rings, and scattered holes occur at various points on the tree "cookie".]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_cookie.jpg)
+![A photo of a cut slice of a ponderosa pine trunk with a yellow arrow pointing to a partial dark ring near the middle of the tree rings. Several burn scars are visible further to the outside of the tree's rings, and scattered holes occur at various points on the tree "cookie".](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_cookie.jpg?itok=tmnQj10k)
 
 Photo Credit
 
@@ -662,7 +662,7 @@ However, some stands—particularly after decades of fire exclusion—may show r
 
 #### Effects of Crown Scorch
 
-![Two photos side by side of the same tree crown, one year apart. On the left, all needles are red, with some green needles of other trees in the background. On the right, most of the tree crown has green needles, with a few red needles visible on the right side of the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_scorch1.jpg)
+![Two photos side by side of the same tree crown, one year apart. On the left, all needles are red, with some green needles of other trees in the background. On the right, most of the tree crown has green needles, with a few red needles visible on the right side of the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_scorch1.jpg?itok=RBqmq-7O)
 
 Photo Credit
 
@@ -736,7 +736,7 @@ Flammability of ponderosa pine trees is low due to insulative, thick bark and se
 
 Live fuel moisture of old ponderosa pine needles is generally less than that of new needles. For ponderosa pines in the Pacific Northwest and California, foliar moisture content during the fire season (July-October) ranged from 85% to 135% for old needles and from 125% to 340% for new needles (review by [326]). Moisture content of old and new needles may converge as the fire season progresses. Over 2 years in the Teanaway River valley of central Washington, foliar moisture content of new ponderosa pine needles decreased during the growing season, while that of old ponderosa pine needles increased (figure 12) [13].
 
-![A line graph with "19 June" and "6 Oct" on the x-axis, and "foliar moisture content \(%\)" on the y-axis. The figure includes the caption "Figure 12—Percent foliar moisture content of new \(1 year\) and old \(>1 year\) ponderosa pine foliage collected in the Teanaway River Valley, Washington \[13\]."]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_fig12_graph.png)
+![A line graph with "19 June" and "6 Oct" on the x-axis, and "foliar moisture content \(%\)" on the y-axis. The figure includes the caption "Figure 12—Percent foliar moisture content of new \(1 year\) and old \(>1 year\) ponderosa pine foliage collected in the Teanaway River Valley, Washington \[13\]."](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_fig12_graph.png?itok=2Pz8N6dP)
 
 The authors concluded that risk for crown fires was highest when foliar moisture content was in the range of 100% to 120%. This occurs late in the growing season, when foliar moisture content of old and new needles are at their lowest levels [13].
 
@@ -866,7 +866,7 @@ A study in Yosemite National Park found that before 1899 (year of the last wides
 
 Large, unburned patches are often left within burn perimeters ([282, 482], review by [196]) For example, from 1984 to 2010 in Yosemite National Park, wildfires in ponderosa pine stands burned in a patchwork of fire severities and left large, unburned patches within burn perimeters. Lidar scans showed 62% of a 2,691-acre (1,089-ha) ponderosa pine forest burned. Within burn perimeters, most patches were of either low severity (40% of burned area; 655 acres (265 ha)) or moderate severity (30%; 495 acres (200 ha)) [31]. Smaller areas within the burn perimeter (20%; 320 acres (130 ha)) [31] scanned as “Landsat-undifferentiated patches” (i.e., unburned islands [306, 342] and high-severity patches (9%; 150 acres (62 ha)) [31].
 
-![A photo of a mountainside with a mix of green conifers, blackened patches, and reddish patches of trees, with a white picket fence in the foreground and two houses amongst green conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_mixedfire.jpg)
+![A photo of a mountainside with a mix of green conifers, blackened patches, and reddish patches of trees, with a white picket fence in the foreground and two houses amongst green conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_mixedfire.jpg?itok=aOsbG6uv)
 
 Photo Credit
 
@@ -896,7 +896,7 @@ Changing climate may result in elevational distribution shifts of ponderosa pine
 
 Increases in the proportion of area that burned at high severity in ponderosa pine forests across the West have been attributed to climate change and fire exclusion [452, 523, 545, 588]. Analyses of climate change and associated fire trends across Yosemite National Park (747,988 acres (302,700 ha)) showed a significant decrease in depth and duration of snowpack, beginning in the mid-1980s (figure 14, P = 0.02), with an attendant increase in acreage burned. Annual area burned averaged 2,100 acres (850 ha)/year from 1962-1983, but it averaged 8,229 acres (3,330 ha)/year from 1984-2005. The proportion of the landscape that burned at high severity increased significantly (R2 = 0.39. P = 0.001), and the authors predicted further increases an annual area burned with continued climate warming. Natural ignition sources increased with drought. From 1984-2005, more lightning strikes occurred in dry than in normal or wet years (P < 0.001). Forecasts for 2020-2049 include decreased snowpack, a 10% increase in lightning strikes, 19% increase in ignitions, and a 22% increase in area burned at high severity compared to 1984-2005 [371].
 
-![Two photos from 1 June in 1983 and 2007. In 1983, there is significant remaining snowpack \(last snow July 2\), and in 2007 there is little remaining snow \(last snow April 10\). On April 1, snow water equivalent was 114 cm in 1983 and 21 cm in 2007. The figure includes the caption "Figure 14-Changes in landscape flammability in Yosemite National Park. National Park Service image from Lutz et al. \[371\]." Bulleted text reads "higher air and ground temperature" and "lower fuel moisture \(drier or drier longer\)."]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_yosesnowpack.jpg)
+![Two photos from 1 June in 1983 and 2007. In 1983, there is significant remaining snowpack \(last snow July 2\), and in 2007 there is little remaining snow \(last snow April 10\). On April 1, snow water equivalent was 114 cm in 1983 and 21 cm in 2007. The figure includes the caption "Figure 14-Changes in landscape flammability in Yosemite National Park. National Park Service image from Lutz et al. \[371\]." Bulleted text reads "higher air and ground temperature" and "lower fuel moisture \(drier or drier longer\)."](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_yosesnowpack.jpg?itok=W_7T8-qc)
 
 ## Fire Management Considerations
 
@@ -957,7 +957,7 @@ In the Blue Mountains of northeastern Oregon, both thinning alone and burning al
 
 On the Plumas National Forest, fuel treatments in 2006 reduced fire severity in ponderosa pine stands during the 2007 Antelope Complex Fire, and crown fires tended to transition to moderate- or low-intensity surface fires when burning into treated areas (figure 15). Less than 20% of areas that were either masticated or burned under prescription the year prior burned severely, while 45% of untreated areas burned severely (P < 0.0001). However, some treated areas burned at high intensity, especially during the first 2 days of the fire, when fire weather was most severe [180].
 
-![Two side by side photos of relatively open ponderosa pine forest, with partially charred ground cover in the left photo and entirely charred ground cover on the right. Tree trunks are charred at their bases in both photos, but tree needles don't appear to be scorched in either photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_antelopefire.jpg)
+![Two side by side photos of relatively open ponderosa pine forest, with partially charred ground cover in the left photo and entirely charred ground cover on the right. Tree trunks are charred at their bases in both photos, but tree needles don't appear to be scorched in either photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_antelopefire.jpg?itok=SvcVfTaE)
 
 Photo Credit
 
@@ -1061,7 +1061,7 @@ See the Wildlife section of Fire Management and applicable FEIS wildlife Species
 
 #### Foraging
 
-![A round bird holds a small brown seed in her mouth while standing sidesway on the bark of a tree trunk. She has a light-colored, tawny chest and underside, black and white head, and grayish back.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponp_nuthatch.jpg)
+![A round bird holds a small brown seed in her mouth while standing sidesway on the bark of a tree trunk. She has a light-colored, tawny chest and underside, black and white head, and grayish back.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponp_nuthatch.jpg?itok=S3HSFWTp)
 
 Photo Credit
 

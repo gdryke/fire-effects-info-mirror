@@ -49,7 +49,7 @@ For _Lonicera hispidula_ var. _vacillans_ (Benth.) Gray
 
 ## Distribution
 
-![Photo showing dense cover of pink honeysuckle vines in the shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-lonhis_plant.jpg)
+![Photo showing dense cover of pink honeysuckle vines in the shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lonhis_plant.jpg?itok=IWnWWfmJ)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Pink honeysuckle is typical of California riparian areas, though more commonly f
 
 ## Botanical and Ecological Characteristics
 
-![Photo of pink honeysuckle blossoms dangling in the shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-lonhis_flower.jpg)
+![Photo of pink honeysuckle blossoms dangling in the shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lonhis_flower.jpg?itok=bTF-rCBf)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ The Fire Regime table (table A1) provides fire regime information that may be re
 
 ## Nonfire Management Considerations
 
-![Photo showing clusters of bright red berries of pink honeysuckle.]({{ site.baseurl }}/assets/images/species-reviews/feis-lonhis_berries.jpg)
+![Photo showing clusters of bright red berries of pink honeysuckle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-lonhis_berries.jpg?itok=kWiVZDDD)
 
 Photo Credit
 

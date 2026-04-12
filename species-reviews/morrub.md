@@ -78,7 +78,7 @@ Associated understory species include roughleaf dogwood (Cornus drummondii), flo
 
 ## Botanical Description
 
-![A photo of a wide tree with large, crooked branches and many leaves creating a broad canopy. Some of the branches reach down to the ground. The tree's bark is brown and furrowed, and the understory has dried leaves, ground cover, and some smaller trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-morrub_tree.jpeg)
+![A photo of a wide tree with large, crooked branches and many leaves creating a broad canopy. Some of the branches reach down to the ground. The tree's bark is brown and furrowed, and the understory has dried leaves, ground cover, and some smaller trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-morrub_tree.jpeg?itok=6x1SzKZX)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ The national champion red mulberry reported from Michigan in 1981 is 72 feet (21
 
 ## Seasonal Development
 
-![A close up photo of a branch with wide, pointed green leaves and long, hanging multi-seeded berries. The background is blurry green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-morrub_berries.jpeg)
+![A close up photo of a branch with wide, pointed green leaves and long, hanging multi-seeded berries. The background is blurry green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-morrub_berries.jpeg?itok=ASvGlepp)
 
 Photo Credit
 

@@ -88,7 +88,7 @@ Classifications describing plant communities in which purple loosestrife is a do
 
 ## Botanical Description
 
-![Photo of purple loosestrife in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-lytsal_plant.jpg)
+![Photo of purple loosestrife in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lytsal_plant.jpg?itok=SWuJX5qM)
 
 Photo Credit
 
@@ -376,7 +376,7 @@ Purple loosestrife was previously used by European immigrants in herbal remedies
 
 ## Impacts
 
-![Photo of a large field that is densely covered by a purple flowering plant and is surrounded by conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-lytsal_habitat_0.jpg)
+![Photo of a large field that is densely covered by a purple flowering plant and is surrounded by conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lytsal_habitat_0.jpg?itok=AfbpiJ40)
 
 Photo Credit
 

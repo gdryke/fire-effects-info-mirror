@@ -104,7 +104,7 @@ Plant communities occupied by Sonoran desert tortoises include:
 
 ## Biological Characteristics
 
-![A photo of a large brown tortoise standing next to a beavertail cactus with large pink blooms.]({{ site.baseurl }}/assets/images/species-reviews/feis-goph_beavertailcactus.png)
+![A photo of a large brown tortoise standing next to a beavertail cactus with large pink blooms.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-01/feis-goph_beavertailcactus.png?itok=QFaSTAuP)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ Female desert tortoises in the western Mojave and Sinaloan regions reach reprodu
 
 ### Development and Reproduction
 
-![A photo of a baby tortoise walking toward the camera on gravel, with prickly pear cactus fruits visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-goph_juvenile.jpg)
+![A photo of a baby tortoise walking toward the camera on gravel, with prickly pear cactus fruits visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-goph_juvenile.jpg?itok=hV7_tCxc)
 
 Photo Credit
 
@@ -284,7 +284,7 @@ Despite the anecdotal nature of most of the literature, it seems clear that the 
 
 Desert tortoises are vulnerable to fire-caused mortality, especially during active periods [44,75,121]. Juveniles are likely more vulnerable than adults because their higher surface area to volume ratio makes them more sensitive to heating [22]. Estimates of mortality due to a moderate-severity fire in Saguaro National Park range from over 4% to nearly 13% [42,44]. This degree of fire-caused mortality could have dramatic negative impacts on desert tortoise populations due to desert tortoise's slow growth, low reproductive rates, and already threatened status [42]. Higher rates of mortality would be expected in more severe fires [42,44].
 
-![A photo of a burned, blackened rocky landscape with the charred carcass of a large tortoise in the middle.]({{ site.baseurl }}/assets/images/species-reviews/feis-goph_burned.jpg)
+![A photo of a burned, blackened rocky landscape with the charred carcass of a large tortoise in the middle.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2026-01/feis-goph_burned.jpg?itok=MJgyO31L)
 
 Photo Credit
 
@@ -326,7 +326,7 @@ Although reviews note that lightning was the predominant ignition source histori
 
 Establishment of nonnative grasses, primarily red brome, common Mediterranean grass, and buffelgrass, is altering fire regimes and habitats in the Mojave and Sonoran deserts. Nonnative grasses provide abundant and continuous fuels, resulting in increased fire frequency. Since these species can increase in dominance following fire, repeated burning can convert native-dominated desert tortoise habitat into nonnative grassland. These grasslands are, in turn, likely to burn repeatedly. Thus, a grass/fire cycle is established. Reviews of the impacts of nonnative grasses on fire regimes and community composition, including descriptions of the nonnative grass/fire cycle, are available in these sources: [20,21,34,43,96].
 
-![A photo of a desert landscape with tall yucca plants, low shrubs, and many types of grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-goph_unburnedhabitat.jpg)
+![A photo of a desert landscape with tall yucca plants, low shrubs, and many types of grasses.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-goph_unburnedhabitat.jpg?itok=ATly6iFR)
 
 Photo Credit
 
@@ -334,7 +334,7 @@ Photo by Greg Carttar, 3rd St. R&D Production Services.
 
 Unburned Mohave desert tortoise habitat with high continuity of nonnative grasses.
 
-![A photo of a burned desert landscape with small charred trees and very little living vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-goph_burnedhabitat.jpg)
+![A photo of a burned desert landscape with small charred trees and very little living vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-goph_burnedhabitat.jpg?itok=ypCcIL17)
 
 Photo Credit
 

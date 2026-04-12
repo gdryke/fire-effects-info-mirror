@@ -69,7 +69,7 @@ Smooth cordgrass is found along the eastern seaboard of North America from Newfo
 
 Smooth cordgrass forms dense, monospecific stands in salt and brackish marshes with mid to high tide levels [6,27,30]. It dominates where salinities range from 3 to 5 percent and the average water table is 4 inches (10.2 cm) above ground level. Plants may be inundated with salt water for up to 20 hours per day. Unlike most other marsh plants, the salt-tolerance of cordgrass is directly proportional to water depth [1].
 
-![A marshy field of tan grass, with water in the foregound, and white houses and green trees visible in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/spaalt_spaalt_field.jpg)
+![A marshy field of tan grass, with water in the foregound, and white houses and green trees visible in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spaalt_field.jpg?itok=d9WHel8U)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Smooth cordgrass communities are true marsh communities, which have surface wate
 
 Smooth cordgrass is a large, coarse, warm-season grass, which is physiologically adapted to the salt marsh habitat [26,27]. Plants growing under good conditions reach 8 feet (2.5 m) tall, while those growing in the high salt marshes, especially at edges of salt pans, may be only 16 inches (40 cm) tall, including the inflorescence [6]. A dense stand of this tall grass is like a small forest of dark green plants. Almost no light gets through to the mud beneath the stand. Tidal currents are strong where the best growth occurs and wash away dead leaves, leaving stands clean and free of debris most of the year [26].
 
-![A single reproductive spike of grass in the foreground, with a field of the same grass in the midground.]({{ site.baseurl }}/assets/images/species-reviews/spaalt_spaalt_plant.jpg)
+![A single reproductive spike of grass in the foreground, with a field of the same grass in the midground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spaalt_plant.jpg?itok=bUy7UGea)
 
 Photo Credit
 

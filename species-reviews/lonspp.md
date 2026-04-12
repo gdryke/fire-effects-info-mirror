@@ -123,7 +123,7 @@ Showy fly honeysuckle:
 
 It is likely that sites characteristics where bush honeysuckles occur in North America are generally similar for the 6 species considered in this summary. However, it is difficult to definitively ascertain which species share affinities for which site characteristics, especially when considered across the entire North American range of bush honeysuckle (see General Distribution). Information about site characteristics that favor bush honeysuckle establishment, persistence, and spread is often anecdotal. Consequently, the following information describes site characteristics where bush honeysuckles are likely to be found, but should not be considered a comprehensive assessment. More research is needed to determine relationships between various site characteristics and bush honeysuckle invasion.
 
-![A photo of a long-branched leafy shrub growing in a sunny spot in a forest.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonfra_habitat.jpeg)
+![A photo of a long-branched leafy shrub growing in a sunny spot in a forest.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lonfra_habitat.jpeg?itok=99iKZTBc)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Sweet breath of spring in the southern Appalachian Mountains, Knox County, Tenne
 
 In the North Carolina Piedmont and Coastal Plain, and in the South Carolina Piedmont, sweet breath of spring is found in woodlands and "waste places" [134]. In north-central Texas it escapes to "forest margins" [36].
 
-![A photo of a large, leafy shrub with white flowers and drooping branches growing in a forest.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonmaa_habitat.jpeg)
+![A photo of a large, leafy shrub with white flowers and drooping branches growing in a forest.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-lonmaa_habitat.jpeg?itok=63se7IQP)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Amur honeysuckle, King County, Washington. [(CC BY-NC 4.0)](<https://creativecom
 
 According to Luken (personal observation cited in [104]) and Luken and others [98], in its native range Amur honeysuckle commonly grows on sites with some type of canopy cover (open forests, flood plain forests, periodically disturbed floodplains, riparian habitats and scrub communities). In North America, it is found in both open and wooded habitats [99,132]. In southern Wisconsin, Cochrane [27] described Amur honeysuckle occurrence as mostly in partially shaded fencerows, weedy thickets, and brushy groves, and less frequently in woods [27]. In north-central Texas Amur honeysuckle escapes to "forest margins" [36], in Michigan it is found in "woods (upland and swampy), thickets, banks, fencerows, and often near a landscaped source" [186], and in southwestern Ohio it is mentioned as occurring in pastures and woodlands [18]. Hutchinson and Vankat [79] examined Amur honeysuckle distribution in southwestern Ohio along northerly and westerly transects, emanating from a supposed central population source from which invasive populations have subsequently dispersed. Their results suggest Amur honeysuckle population spread is closely linked to forest cover and forest connectivity across the landscape. They propose that large expanses of agricultural land act as a barrier to dispersal, perhaps due to habitat constraints on frugivorous birds that disperse seeds. Medley [112] found that Amur honeysuckle density was significantly (_p_ = 0.001) correlated with proximity to the edge of a 13 acre (5.2 ha) mature deciduous forest stand in southwestern Ohio. However, Amur honeysuckle stem basal area was also significantly (_p_ <0.05) correlated with proximity to stream channels, with some of the largest individuals located near the center of the stand along streambanks.
 
-![A photo of an upright, leafy shrub growing in a grassy area in front of a forest.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-LONMOR_habitat.jpg)
+![A photo of an upright, leafy shrub growing in a grassy area in front of a forest.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-LONMOR_habitat.jpg?itok=rEkf-WWK)
 
 Photo Credit
 
@@ -153,7 +153,7 @@ Morrow's honeysuckle. [(CC BY-NC 3.0 US)](<https://creativecommons.org/licenses/
 
 Morrow's honeysuckle is found in woodlands of the Blue Ridge mountains in Tennessee and Virginia [197], in thickets, fields, and hedgerows in New England [150], and along streambanks in Wyoming [39]. In lower Michigan, it escapes to roadsides, railroads, thickets, lakeshores, riverbanks, and woods [186].
 
-![A photo of an upright shrub with pink flowers growing in front of a leafy forest.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lontat_habitat.jpg)
+![A photo of an upright shrub with pink flowers growing in front of a leafy forest.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-lontat_habitat.jpg?itok=Bct_oOcI)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Tatarian honeysuckle, Seney National Wildlife Refuge, Schoolcraft County, Missis
 
 In Michigan, Tatarian honeysuckle escapes to roadsides, railroads, thickets, lakeshores, riverbanks, woods, fields, "waste places" and swamps [186], and in the northern Great Plains it escapes to open woods, stream banks, or brushy pastures [59,157]. It is found in riverbank thickets, along roadsides, and in "waste land" in New England [150], along fence rows and stream banks in Montana and Wyoming [38], and in riparian areas along the Big Sioux River in eastern South Dakota [35]. According to White [193], Tatarian honeysuckle is present, though not common, on poorly-drained shrub-dominated sites in southeastern Wisconsin [193]. Moffatt and McLachlan [121] included Tatarian honeysuckle among indicator species found in disturbed riparian forest in southern Manitoba. It was 1 of 2 nonnative plant species that was significantly (p<0.05) more likely to occur within "urban" or "suburban" sites compared with "rural" (agricultural) or "reference" (undisturbed) sites.
 
-![A photo of a large, long-branched leafy shrub growing in the understory of a conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonxyl_habitat.jpeg)
+![A photo of a large, long-branched leafy shrub growing in the understory of a conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lonxyl_habitat.jpeg?itok=6cPEcaiI)
 
 Photo Credit
 
@@ -173,7 +173,7 @@ Dwarf honeysuckle, Monroe County, New York. [(CC BY 4.0)](<https://creativecommo
 
 Dwarf honeysuckle is found in thickets and woods in New England [150]. It is apparently tolerant of "difficult" growing sites [176].
 
-![A photo of an upright leafy shrub with pink flowers growing in a forest understory.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonbel_habitat.jpeg)
+![A photo of an upright leafy shrub with pink flowers growing in a forest understory.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-lonbel_habitat.jpeg?itok=JsRvl9L1)
 
 Photo Credit
 
@@ -231,7 +231,7 @@ Showy fly honeysuckle is found in habitats similar to those where Tatarian honey
 
 The following descriptions of bush honeysuckles provide characteristics that may be relevant to fire ecology, and are not meant for identification. Keys for identification are available (e.g. [18,36,54,59,134,160,186,189,190,191]).
 
-![A photo of a shrub stem with delicate white flowers hanging from the stem. The background is blurry but more stems with flowers are visible, and a winter forest.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonfra_flowers.jpg)
+![A photo of a shrub stem with delicate white flowers hanging from the stem. The background is blurry but more stems with flowers are visible, and a winter forest.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lonfra_flowers.jpg?itok=YHMc-k91)
 
 Photo Credit
 
@@ -241,7 +241,7 @@ Sweet breath of spring flowers, Rockland County, New York. [(CC BY-NC 4.0)](<htt
 
 **Sweet breath of spring:** Sweet breath of spring is a deciduous or semievergreen shrub, mainly 3.2 to 10 feet (1-3 m), occasionally to 15 feet (4.6 m) tall [36,37,128,134,191]. The crown is an erect but wide-spreading, irregularly rounded, tangled mass of slender recurved branches [37,128,134]. Leaves are 0.6 to 3.5 inches (1.5-9 cm) long and 0.4 to 1.8 inches (1-4.5 cm) wide [36,37,128,134,191]. Flowers are 0.4 to 0.5 inches (1-1.2 cm) long, borne in pairs on short peduncles [191]. Fruit is a berry, 0.25 to 0.4 inches (6.4-10 mm) in diameter [36,37,128,134], with seeds 0.05 to 0.08 inches (1.3-2 mm) long [134].
 
-![A photo of a leafy shrub with pointed leaves and delicate white and yellow flowers blooming along the stems.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonmaa_flowers.jpg)
+![A photo of a leafy shrub with pointed leaves and delicate white and yellow flowers blooming along the stems.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lonmaa_flowers.jpg?itok=ddF1SIYE)
 
 Photo Credit
 
@@ -251,7 +251,7 @@ Amur honeysuckle in bloom, Richmond City County, Virginia. [(CC BY-NC 4.0)](<htt
 
 **Amur honeysuckle:** Amur honeysuckle is an upright, spreading, deciduous shrub, 12 to 20 feet (3.7-6.1 m) tall with hollow branches [36,37,54,132]. Leaves are 1.4 to 3.5 inches (3.5-9 cm) long and 0.5 to 1.5 inches (1.3-3.8 cm) wide [37,54,132]. Fruit is a 0.08 to 0.25 inch (2-6.4 mm) diameter berry [36,37].
 
-![A close-up photo of a shrub's round green leaves and delicate yellow and white flowers.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-LONMOR_flowers.jpg)
+![A close-up photo of a shrub's round green leaves and delicate yellow and white flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-LONMOR_flowers.jpg?itok=mjJPX0wv)
 
 Photo Credit
 
@@ -261,7 +261,7 @@ Morrow's honeysuckle flowers. [(CC BY-NC 3.0 US)](<https://creativecommons.org/l
 
 **Morrow's honeysuckle:** Morrow's honeysuckle is a deciduous shrub, 4.9 to 8 feet (1.5-2.4 m) tall and 6 to 10 feet (1.8-3 m) wide [37,127,160,174], "forming a broad, rounded, dense, tangled mound with foliage and branches to the ground" [37]. Leaves are 1 to 2.5 inches (2.5-6.4 cm) long and 0.5 to 1.25 inches (1.3-3.2 cm) wide [37,160]. The fruit is a 0.25 inch (6 mm) diameter berry [37].
 
-![A photo of a large, round shrub covered in delicate pink flowers in front of a blurry green background.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lontat_flowers.jpg)
+![A photo of a large, round shrub covered in delicate pink flowers in front of a blurry green background.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lontat_flowers.jpg?itok=eg3gHweg)
 
 Photo Credit
 
@@ -271,7 +271,7 @@ Tatarian honeysuckle in bloom, Lake County, Montana. [(CC BY-NC 4.0)](<https://c
 
 **Tatarian honeysuckle:** Tatarian honeysuckle is an upright deciduous shrub, 3.3 to 12 feet (1-3 m) tall and 10 feet (3 m) wide [18,37,54,59,93,155,157,160,175,191], often dense with fine branches [157]. Dirr [37] describes the Tatarian honeysuckle crown as "strongly multi-stemmed with the upper branches arching and the overall effect one of a dense, twiggy mass." Twigs are hollow [54], and 0.03 to 0.04 inches (0.8-1 mm) in diameter [157]. Bark has long, flat, thin scales and not much shredding [157], although older stems have shredding bark [59]. Leaves are 0.6 to 2.5 inches (1.5-6.4 cm) long and 0.2 to 1.5 inches (0.5-3.8 cm) wide [37,54,59,157,191]. Flowers are pedunculate and borne in sessile pairs in leaf axils [59,157,191]. Fruits are berries, 0.2 to 0.3 inch (4-8 mm) in diameter, borne singly or in pairs with the bases fused, with 3-6 seeds per fruit [37,59,157,191]. Seeds are about 0.1 inch (2.5-3 mm) long and 0.08 to 0.1 inch (2-2.5 mm) wide [59,157].
 
-![A photo of a leafy shrub's green leaves and delicate yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonxyl_flowers.jpg)
+![A photo of a leafy shrub's green leaves and delicate yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lonxyl_flowers.jpg?itok=8YOY1fS2)
 
 Photo Credit
 
@@ -281,7 +281,7 @@ Dwarf honeysuckle flowers.
 
 **Dwarf honeysuckle:** Dwarf honeysuckle is a rounded deciduous shrub with spreading arching branches, 3.3 to 10 feet (1-3 m) tall, 10 to 12 feet (3-3.7 m) wide, with hollow twigs [18,37,54,176].
 
-![A photo of a leafy shrub with delicate pink and white flowers blooming along the stems.]({{ site.baseurl }}/assets/images/species-reviews/lonspp_feis-lonbel.jpeg)
+![A photo of a leafy shrub with delicate pink and white flowers blooming along the stems.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-lonbel.jpeg?itok=MNJTqGI5)
 
 Photo Credit
 

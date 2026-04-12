@@ -34,7 +34,7 @@ Munger, Gregory T. 2006. _Geum triflorum_ , old man's whiskers. In: Fire Effects
 
 ## Image Gallery
 
-![Photo of large group of old man's whiskers in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-geutri_plant.jpeg) Old man's whiskers in bloom. _Photo by aiwendil, iNaturalist.org, no rights reserved._
+![Photo of large group of old man's whiskers in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-geutri_plant.jpeg) Old man's whiskers in bloom. _Photo by aiwendil, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by aiwendil, iNaturalist.org, no rights reserved.
 
@@ -140,7 +140,7 @@ California| stemless goldenweed (_Stenotus acaulis_)-_G. t._ var. _canescens_ [8
 
 ## Botanical Description 
  
-![Photo of large group of old man's whiskers in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-geutri_plant.jpeg)
+![Photo of large group of old man's whiskers in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-geutri_plant.jpeg?itok=dtIzSxPW)
 
 Photo Credit
 

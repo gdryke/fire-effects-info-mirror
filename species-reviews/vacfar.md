@@ -46,7 +46,7 @@ Because huisache is considered invasive on some disturbed ecosystems and where f
 
 ## Taxonomy
 
-![A photo of flowering huisache, with leaves comprised of opposite leaflets growing from reddish stems. Yellow flowers are arranged in ball-shaped clusters.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacfar_plant.jpg)
+![A photo of flowering huisache, with leaves comprised of opposite leaflets growing from reddish stems. Yellow flowers are arranged in ball-shaped clusters.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-vacfar_plant.jpg)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ For _Vachellia farnesiana_ :
 
 Huisache occurs in parts of the southern United States from southern California to southern Florida (fig. 2), and south through Mexico, Central America, and into northern South America [35, 56]. In North America, huisache is most common in southern Texas, where it is widespread [20, 57], and south through Mexico [16]. It is uncommon in California [3], rare in Arizona [39], and uncommon to rare in much of the southeastern United States east of Texas [21]. Pineland acacia is occasional in the central and southern Florida peninsula [84].
 
-![A map of the southern United States with many coastal counties and some inland counties highlighted green, mostly in Florida and Texas.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacfar_distribution.jpg)
+![A map of the southern United States with many coastal counties and some inland counties highlighted green, mostly in Florida and Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacfar_distribution.jpg?itok=3zC5H26B)
 
 Photo Credit
 
@@ -158,7 +158,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Huisache is a medium-sized shrub or small tree with many spreading branches and often with several ascending stems. The multistemmed growth form results from damage to the top growth of single-stemmed trees [66]. It commonly grows about 10 to 20 feet (3-6 m) tall [20, 56, 66, 80], and the tree form may grow to 33 feet (10 m) tall [66, 70, 79] and 18 inches (46 cm) in diameter [79]. One of the tallest huisache trees recorded was in Big Bend National Park and about 48 feet (14.6 m) tall [57]. Huisache is often shrubby and flat-topped where it occurs along the Texas coast due to prevailing Gulf winds. Farther inland, it is more tree-like, with a solitary trunk, rounded top, and pendulous branches [79]. Branches are rigid, slender, and numerous and up to 2 inches (5 cm) in diameter, with straight, paired spines and smooth bark [20, 21, 56, 70]. The leaves are pinnately compound, mostly <6 inches (15 cm) long, and typically described as deciduous [3, 21, 70, 79]. However, Scifres et al. (1982) indicate that in Texas coastal prairie huisache leaves persist in most years, and substantial defoliation occurs only after a hard frost [66]. Individual plants are thought to live 10 to 50 years [23].
 
-![A photo of branches of huisache, with cottonball-like yellow flowers along stems with leaves comprised of small, opposite leaflets. Long spines growing along branches and a dry hillside rises in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacfar_hero.jpeg)
+![A photo of branches of huisache, with cottonball-like yellow flowers along stems with leaves comprised of small, opposite leaflets. Long spines growing along branches and a dry hillside rises in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vacfar_hero.jpeg?itok=rLfvZBgC)
 
 Photo Credit
 

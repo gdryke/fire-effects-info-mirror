@@ -41,7 +41,7 @@ The scientific name of pinkflower hedgehog cactus is _Echinocereus fendleri_ (En
  * _Echinocereus fendleri_ (Engelm.) Sencke ex J.N. Haage subsp. _fendleri_ [1,22,60], Fendler's hedgehog cactus
  * _Echinocereus fendleri_ (Engelm.) Sencke ex J.N. Haage subsp. _rectispinus_ (Peebles) N.P. Taylor [22,60], right-angled spine hedgehog cactus
 
-![Small cluster of small cacti with large pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-echfen.jpg)
+![Small cluster of small cacti with large pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echfen.jpg?itok=BljertAS)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ See above.
 
 Pinkflower hedgehog cactus is native to Arizona, Colorado, New Mexico, Texas, and Chihuahua and Sonora, Mexico. It is most common in New Mexico, and occupies only small areas of southwestern Colorado, and western Texas ([15], review by [38]).
 
-![Map showing the distribution of pinkflower hedgehog cactus in Arizona, New Mexico, Colorado, and Texas.]({{ site.baseurl }}/assets/images/species-reviews/feis-echfenmap.jpg)
+![Map showing the distribution of pinkflower hedgehog cactus in Arizona, New Mexico, Colorado, and Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echfenmap.jpg?itok=vDs0uQtX)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Figure 2—Overall distribution of pinkflower hedgehog cactus.
 
 Fendler's hedgehog cactus occurs in Arizona and New Mexico. It is reported in southwestern Texas near the upper Pecos River, and in northern Chihuahua, Mexico. It is most common in northern and central Arizona, in Yavapai, Coconino, Navajo, and Apache counties (review by [33]).
 
-![Map showing the distribution of Fendler's hedgehog cactus in Arizona, New Mexico, Colorado, and Texas.]({{ site.baseurl }}/assets/images/species-reviews/feis-echfenf_map.jpg)
+![Map showing the distribution of Fendler's hedgehog cactus in Arizona, New Mexico, Colorado, and Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echfenf_map.jpg?itok=qcEz6Pf5)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Figure 3—Distribution of Fendler's hedgehog cactus.
 
 Right-angled spine hedgehog cactus occurs in Graham, Cochise, Pinal, Pima, Greenlee, and Santa Cruz counties, Arizona [23,38] and in southwestern New Mexico from Grant County to Hildago and Sierra counties. It is reported in extreme southwestern Texas from El Paso County to Culbertson County. It is most common in Cochise and Santa Cruz counties, Arizona [38].
 
-![Map showing the distribution of right-angled spine hedgehog cactus in Arizona, New Mexico, and Texas.]({{ site.baseurl }}/assets/images/species-reviews/feis-echfenr_map.jpg)
+![Map showing the distribution of right-angled spine hedgehog cactus in Arizona, New Mexico, and Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echfenr_map.jpg?itok=5esTSRTb)
 
 Photo Credit
 
@@ -158,7 +158,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 **Species Description** : Pinkflower hedgehog cactus is a small perennial succulent [47]. It grows as single-stemmed individuals or in small, loose clone clusters of 10 or more stems [1,20,38,61]. Stems are erect to slightly decumbent [1,15,38] and are generally 3 to 6.7 inches (7.5-17 cm) tall and 1.5 to 3 inches (3.8-7.5 cm) wide [15], reaching a maximum height of 10 inches (30 cm) and width of 4 inches (10 cm) [1,15,20]. Each stem has 8 to 18 ribs. There are 3 to 5 central spines, varying from 0.4- to 2.4-inch (6.2-10 cm) long. There are 2 to 12 straight or curved 0.4- to 0.8-inch-long (1-2 cm) radial spines/areola [15,38]. Flowers are borne on the upper part of the plant [20]. They are 2 to 4.3 inches × 2 to 4.3 inches (5-11 cm) across, with a long flower tube (0.4 to 0.59 (1-1.5 cm) × 0.4 to 1.0 inches (1-3 cm)) [15]. Fruits are ovoid or globose, spiny [20], and 0.8 to 2 inches (2-5 cm) long [15]. The name "hedgehog cactus" derives from the fanciful resemblance of the fruit to the round, spiny body of a hedgehog [38]. Seeds are 1 to 2 mm long [20,38]. Pinkflower hedgehog cactus is described as long-lived [47]. At Tumamoc Hill, Arizona, the longest an individual pinkflower hedgehog cactus was observed to live was 9 years [17].
 
-![Close up photo of small cactus with a large pink flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-echfen_flower.jpg)
+![Close up photo of small cactus with a large pink flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echfen_flower.jpg?itok=sR2c_W5u)
 
 Photo Credit
 

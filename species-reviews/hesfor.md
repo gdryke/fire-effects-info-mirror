@@ -81,7 +81,7 @@ Herbaceous species not previously mentioned but commonly associated with Tecate 
 
 ## Botanical Description
 
-![A photo of three bushy conifer trees growing in an open area with hills and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesfor_trees.jpg)
+![A photo of three bushy conifer trees growing in an open area with hills and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesfor_trees.jpg?itok=3TZ_gUu3)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Chaparral species inhibit the establishment of cypress seedlings on most sites d
 
 ## Immediate Fire Effects
 
-![Two photos side by side of completely burned, gray, ash-covered trees. One is a single tree, the other is a road with burned trees on both sides. Smoke fills the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesfor_burned.jpg)
+![Two photos side by side of completely burned, gray, ash-covered trees. One is a single tree, the other is a road with burned trees on both sides. Smoke fills the background.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-08/feis-hesfor_burned.jpg?itok=7nfz9cHB)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Tecate cypress seedlings| 576 (live)| 0
  
 Investigations made on Tecate Peak since the October 1965 fire indicate that this grove may be diminishing in size. Prefire density as determined from fire-killed trees was 3,872 mature trees per hectare. The 1970 density of cypress seedlings on burned sites was 384 per hectare, with adjacent unburned thickets having an average density of 6,093 trees per hectare [39].
 
-![Two photos side by side; on the left is a group of burned, dead trees with small round cones attached to the trunk and branches; the other is a small conifer seedling growing out of bare soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesfor_postfire.jpg)
+![Two photos side by side; on the left is a group of burned, dead trees with small round cones attached to the trunk and branches; the other is a small conifer seedling growing out of bare soil.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-08/feis-hesfor_postfire.jpg?itok=08dyiiS0)
 
 Photo Credit
 

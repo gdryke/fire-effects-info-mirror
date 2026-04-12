@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Basin mixed-conifer communities has n
 
 ## Distribution
 
-![A map showing the distribution of Great Basin mixed-conifer communities in the southwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/great-basin-mixed-conifer_feis-great_basin_mixed_conifer_locator.jpg)
+![A map showing the distribution of Great Basin mixed-conifer communities in the southwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-great_basin_mixed_conifer_locator.jpg?itok=Ycz0x5IL)
 
 Photo Credit
 

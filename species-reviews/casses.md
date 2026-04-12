@@ -34,7 +34,7 @@ Walsh, Roberta A. 1993. _Castilleja sessiliflora_ , downy paintedcup. In: Fire E
 
 ## Image Gallery
 
-![Small cluster of low-statured pink and white flowered plants.]({{ site.baseurl }}/assets/images/species-reviews/casses_feis-CASSES_plant1.jpg) Downy paintedcup. _Photo used with permission of easterncoloradowildflowers.com._
+![Small cluster of low-statured pink and white flowered plants.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-CASSES_plant1.jpg) Downy paintedcup. _Photo used with permission of easterncoloradowildflowers.com._
 
 Photo Credit: Photo used with permission of easterncoloradowildflowers.com.
 
@@ -93,7 +93,7 @@ See the Appendix for plant communities and cover types in which this species may
 
 Downy paintedcup is a native, hemiparasitic, perennial forb [1,14]. It has one to several leafy, simple stems from 3.5 to 14 inches (9-35 cm) tall. It is decumbent at the base and has a woody root crown [14]. The fruit is a capsule [1,14]. Castilleja species have an average root depth of 11 inches (28 cm), with a range of 10 to 12 inches (25-30 cm) [8]. In Wisconsin, downy paintedcup is obligately hemiparastic on eastern redcedar (Juniperus virginiana) and oldfield juniper (J. communis var. depressa) [33].
 
-![Small cluster of low-statured pink and white flowered plants.]({{ site.baseurl }}/assets/images/species-reviews/casses_feis-CASSES_plant1.jpg)
+![Small cluster of low-statured pink and white flowered plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-CASSES_plant1.jpg?itok=XVfLgf0e)
 
 Photo Credit
 

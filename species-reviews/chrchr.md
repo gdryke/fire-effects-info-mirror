@@ -36,7 +36,7 @@ Meyer, Rachelle. 2012. _Chrysolepis chrysophylla_ , giant chinquapin. Fire Effec
 
 ## Taxonomy
 
-![A photo of a trunk covered by furrowed bark with thin branches growing from the trunk. Oblong to lanceolate leaves grow densely along many branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrchr_tree.jpg)
+![A photo of a trunk covered by furrowed bark with thin branches growing from the trunk. Oblong to lanceolate leaves grow densely along many branches.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-chrchr_tree.jpg)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ For scrub golden chinquapin: golden evergreen chinquapin
 
 Giant chinquapin is native to the Pacific Northwest and California. It is most abundant in the mountain ranges of northwestern California [21,98] and southwestern Oregon [7], including the Coast Ranges [32,40,116], Klamath Mountains [21,85], and western slopes of the Oregon Cascade Range [98]. It is common as far north as the Columbia River [7,82]. Giant chinquapin's distribution extends into the Sierra Nevada [169] including Plumas [112], El Dorado [62,116] and Tulare counties [201]. In Washington, disjunct populations occur in Mason and Skamania counties [27,82,97,98]. Rare dispersal events and occurrence of relict populations from a historically more widespread distribution have been suggested as possible reasons for giant chinquapin's presence in Washington [97].
 
-![Two maps side-by-side with both showing the western U.S. The map on the left shows a shaded polygon along coastal California into Washington, with an arrow pointing to the Oregon-California border, and there is a dot near the southern part of the shaded polygon. The map on the right shows a shaded polygon mostly along the California coast, extending barely into Oregon, with an arrow pointing to the central California coast and two dots, one just over the OR border and the other near the central CA-NV border]({{ site.baseurl }}/assets/images/species-reviews/feis-chrchr_distribution.jpg)
+![Two maps side-by-side with both showing the western U.S. The map on the left shows a shaded polygon along coastal California into Washington, with an arrow pointing to the Oregon-California border, and there is a dot near the southern part of the shaded polygon. The map on the right shows a shaded polygon mostly along the California coast, extending barely into Oregon, with an arrow pointing to the central California coast and two dots, one just over the OR border and the other near the central CA-NV border](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chrchr_distribution.jpg?itok=CUTwq-xL)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Scrub golden chinquapin occurs farther south than the typical variety [7,122]. T
 
 Giant chinquapin occurs in a wide range of sites from warm, dry, exposed locations [7,47,78,79,82,116] to low-elevation mesic forests [95,116,139]. Shrubby forms are more common in relatively harsh environments [124,138,139], including exposed [82], dry, and high-elevation sites ([7,95,116,138], McMinn 1951 cited in [58]). Giant chinquapin trees are typically associated with low-elevation [116] mesic [95,116,139] forests, often on north-facing slopes [95,139], but they also occur on dry sites [116] and may thrive on moderately dry sites (See Moisture Availability).
 
-![A photo of a large, green, somewhat low shrub in the foreground, with more low shrubs and standing dead tree trunks behind. In the distance, there are patches of living trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrchr_habitat2.jpeg)
+![A photo of a large, green, somewhat low shrub in the foreground, with more low shrubs and standing dead tree trunks behind. In the distance, there are patches of living trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chrchr_habitat2.jpeg?itok=fk1mlyUd)
 
 Photo Credit
 
@@ -247,7 +247,7 @@ The extent to which genetics and site characteristics influence the growth form 
 
 Mature trees typically have a straight trunk [7,21,109,124] with a cone-shaped crown [7,81,124] comprised of stout branches [122] that form right angles from the bole [21]. Trees in open areas may have highly tapered boles and more spreading crowns [124]. The bark is thick and furrowed [7,81,82,173]. Giant chinquapin shrubs have a spreading form [7].
 
-![A photo of bright green leaves with bright yellow undersides growing from twigs with a spiny bur growing amongst the leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrchr_fruit.jpg)
+![A photo of bright green leaves with bright yellow undersides growing from twigs with a spiny bur growing amongst the leaves.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-chrchr_fruit.jpg)
 
 Photo Credit
 
@@ -357,7 +357,7 @@ Giant chinquapins are often top-killed [94,152,162] or killed [94] by fire. In t
 
 ## Fire Adaptations
 
-![A photo of densely leafy stems sprouting from the base of burned trunks, with bare ground and charred wood around.]({{ site.baseurl }}/assets/images/species-reviews/feis-chrchr_sprout.jpeg)
+![A photo of densely leafy stems sprouting from the base of burned trunks, with bare ground and charred wood around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-chrchr_sprout.jpeg?itok=S0mz8zWL)
 
 Photo Credit
 

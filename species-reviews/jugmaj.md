@@ -73,7 +73,7 @@ Arizona black walnut, Mexican walnut, mountain walnut, river walnut, western wal
 
 Arizona walnut is native to the American Southwest and Mexico (fig. 2). It occurs from western Arizona and Oklahoma [89,114] south to southern Mexico [133]. It has established in Washington County, Utah, but it is nonnative there [254].
 
-![Map showing the distribution of Arizona walnut.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmaj_fig2.jpg)
+![Map showing the distribution of Arizona walnut.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugmaj_fig2.jpg?itok=zdFRE9Dl)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Arizona walnut grows in a wide range of soil substrates [144,176]; they are ofte
 
 ## Plant Communities
 
-![Understory vegetation in the foreground and trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmaj_fig3.jpg)
+![Understory vegetation in the foreground and trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugmaj_fig3.jpg?itok=vgGpbiKR)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Arizona walnut is a small to large tree. It is usually 9 to 15 m tall and 0.3 to 1.2 m in diameter at the base [97,117,132,241] at maturity, but it may grow up to 17 m tall [50]. It typically has a single, straight trunk [5] and a spreading upper crown [117]. Arizona walnut on the Coronado National Forest averaged 29.7 cm DBH [59]. The bark of mature trees is "thick" [132]. Leaves are pinnately compound (fig. 5) and 8 to 36 cm long [132,246]. The flowers are catkins [21]. Staminate (male, fig. 4) and pistillate (female) catkins are borne on the same tree [21,89,121]. Male catkins are 10 to 20 cm long; the smaller female catkins are 6 to 12 mm long [21]. The fruit is a hard-shelled nut [5,21,50,89,117,246] enclosed in an indehiscent, thick husk [21].
 
-![Close-up of Arizona walnut catkins.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmaj_fig4.jpg)
+![Close-up of Arizona walnut catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugmaj_fig4.jpg?itok=PXsvhogw)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ Creative Commons image by Patrick Alexander. Used with permission.
 
 Figure 4—Staminate Arizona walnut catkins.
 
-![Close-up view of Arizona walnut leaves and nuts.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmaj_fig5.jpg)
+![Close-up view of Arizona walnut leaves and nuts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugmaj_fig5.jpg?itok=zwvslWhe)
 
 Photo Credit
 
@@ -315,7 +315,7 @@ Invasive tamarisk may alter successional pathways in riparian communities with A
 
 ## Immediate Fire Effects
 
-![Flowering understory vegetation in the foreground. Burned and blackened trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmaj_fig6.jpg)
+![Flowering understory vegetation in the foreground. Burned and blackened trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugmaj_fig6.jpg?itok=5k3deYxf)
 
 Photo Credit
 

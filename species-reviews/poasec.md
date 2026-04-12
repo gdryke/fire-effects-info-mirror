@@ -72,7 +72,7 @@ Sandberg bluegrass occurs from southeastern Alaska across southern Canada (altho
 
 Sandberg bluegrass occurs on flats and ridgetops, slopes, meadows, and open timberline. It grows well in rich clay loam soils but most often inhabits shallow, rocky, or sandy soils. It is the characteristic grass of the scablands of eastern Washington and Oregon [56,66]. It is usually found on well-drained soils. Sandberg bluegrass is fairly shallow-rooted and is favored over deeper-rooted perennials in areas receiving frequent light rains or where soil moisture is otherwise limited [34,50]. In intermountain grassland of northeastern Nevada, Sandberg bluegrass-dominated communities occurred on the driest sites [46]. In southeastern Washington cheatgrass-Sandberg bluegrass communities, Sandberg bluegrass generally dominated north-facing slopes, while cheatgrass dominated south-facing slopes [44]. In southern Idaho, Sandberg bluegrass was found to decrease on periodically flooded streambanks [54].
 
-[![A photo of small bunchgrass growing in the crevices of lichen-covered rocks.]({{ site.baseurl }}/assets/images/species-reviews/poasec_feis-posec_rocky.jpg)Photo Credit Photo by Lindsey Salmonson, iNaturalist (CC BY 4.0). Sandberg bluegrass growing in Kittitas County, Washington.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of small bunchgrass growing in the crevices of lichen-covered rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-posec_rocky.jpg?itok=1eV0sOiD)Photo Credit Photo by Lindsey Salmonson, iNaturalist (CC BY 4.0). Sandberg bluegrass growing in Kittitas County, Washington.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Plant Communities
 
@@ -95,7 +95,7 @@ Classifications listing Sandberg bluegrass as a dominant or indicator species ar
 
 Sandberg bluegrass is a shallow-rooted, cool-season perennial bunchgrass. Growth form ranges from small tufts with only one or two culms to large tussocks up to 1 foot (0.3 m) in diameter [66]. Sandberg bluegrass is relatively short lived, and its populations tend to fluctuate with annual weather conditions [20].
 
-![A photo of a relatively small bunchgrass with other bunchgrasses behind, and small forbs providing ground cover on rocky soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-poasec_plant.jpg)
+![A photo of a relatively small bunchgrass with other bunchgrasses behind, and small forbs providing ground cover on rocky soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poasec_plant.jpg?itok=lQbTnTAQ)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ Sandberg bluegrass regenerates by tillering and by seed. Plants are pollinated b
 
 Sandberg bluegrass occurs in open sun to partial shade. In fallow fields in western Montana, it returned 7 years after plowing [69]. Sandberg bluegrass tends to persist with fire and/or grazing. In the absence of fire in sagebrush (_Artemisia_ spp.) steppe, it may be shaded out by sagebrush [1,65,69]. Sandberg bluegrass succession in plant communities other than sagebrush steppe is poorly documented, but it is likely that with canopy closure, Sandberg bluegrass becomes shaded out in any plant community in which it occurs.
 
-[![A photo of green grasses providing ground cover between well-spaced sagebrush shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-poasec_sage.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Sandberg bluegrass growing in an open canopy sagebrush steppe in Beaverhead County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of green grasses providing ground cover between well-spaced sagebrush shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-poasec_sage.jpg?itok=9RmA5nEG)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Sandberg bluegrass growing in an open canopy sagebrush steppe in Beaverhead County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Fire Ecology and Management
 

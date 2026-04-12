@@ -79,7 +79,7 @@ No entry.
 
 ## Botanical Description
 
-![A photo of a tree in a forest with a straight, gray-brown, furrowed trunk, and a branch hanging in front with large, pointed, light yellow leaves. There are more trees and leaves in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cartom_habitat.jpeg)
+![A photo of a tree in a forest with a straight, gray-brown, furrowed trunk, and a branch hanging in front with large, pointed, light yellow leaves. There are more trees and leaves in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cartom_habitat.jpeg?itok=Bc0H1wt_)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Mockernut hickory flowers open from early April in central Florida to the end of
 
 ## Regeneration Processes
 
-![A photo of part of a tree with dark green, pointed leaves, and two clusters of three large, light yellow nuts.]({{ site.baseurl }}/assets/images/species-reviews/feis-cartom_plant.jpg)
+![A photo of part of a tree with dark green, pointed leaves, and two clusters of three large, light yellow nuts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cartom_plant.jpg?itok=slr2OuGP)
 
 Photo Credit
 

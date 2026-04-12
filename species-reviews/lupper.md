@@ -34,7 +34,7 @@ Meyer, Rachelle. 2006. _Lupinus perennis_ , sundial lupine. In: Fire Effects Inf
 
 ## Image Gallery
 
-![Photo of sundial lupine in a field.]({{ site.baseurl }}/assets/images/species-reviews/feis-lupper_plant_hero.jpeg) Sundial lupine. _Photo by Chris Thorson, iNaturalist.org, no rights reserved._
+![Photo of sundial lupine in a field.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-lupper_plant_hero.jpeg) Sundial lupine. _Photo by Chris Thorson, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Chris Thorson, iNaturalist.org, no rights reserved.
 
@@ -93,7 +93,7 @@ In Indiana Dunes National Lakeshore, sundial lupine was not present on plots dom
 
 ## Botanical Description
 
-![Photo of sundial lupine in a field.]({{ site.baseurl }}/assets/images/species-reviews/feis-lupper_plant_hero.jpeg)
+![Photo of sundial lupine in a field.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lupper_plant_hero.jpeg?itok=HhwkwOFJ)
 
 Photo Credit
 

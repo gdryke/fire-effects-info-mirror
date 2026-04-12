@@ -56,7 +56,7 @@ cliffrose, quinine bush
 
 Stansbury cliffrose is distributed from north-central Nevada east to north-central Utah and south to southern California, central New Mexico, and northern Mexico [33,41,51,91,93,96,97].
 
-![Photo of map distribution of Stansbury cliffrose in the United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-pursta_map.jpg)
+![Photo of map distribution of Stansbury cliffrose in the United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pursta_map.jpg?itok=xFIFsRus)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Flowers first appear from early May to late June, with blooming continuing until
 
 Reproduction is by seed and, rarely, sprouting. Stansbury cliffrose is self-incompatible [8]. Plants first produce seed at about age 5 and produce a good seed crop about every 2 years. There is often more than one seed set per season [1,102]. Heavily browsed plants usually do not produce seed except on branches above browseline [39]. Seed readily disperses when wind catches the long, plumose style. Animals also disperse seed [1,58]. Seed requires overwinter stratification (or 1-2 months cold stratification in the laboratory) and germinates in spring [67,101,102]. Rodents cache Stansbury cliffrose seed, and seedling clusters resulting from germination of unconsumed seed are common (Jensen and Stapley in [1]),[102]. Soil-stored seed remains viable for 5 [81,94] to 16 years [75]. There is no light requirement for germination [94], and seeds germinate under a wide range of temperatures [101]. Fifteen to 100 percent germination has been reported in the laboratory depending upon treatment and, probably, seed source [72,101]. Field germination probably rarely exceeds 60 percent even under optimal conditions [101]. Germination rates are usually higher in seed produced early in the season than in later-maturing seed [1,102], and seed on current-year growth may fail to mature [39].
 
-![Close-up photo of a fuzzy, star-shaped fruit against a background of shrub branches covered with small, green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-pursta_fruits.jpeg)
+![Close-up photo of a fuzzy, star-shaped fruit against a background of shrub branches covered with small, green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pursta_fruits.jpeg?itok=Gx7KNhLj)
 
 Photo Credit
 

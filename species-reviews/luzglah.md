@@ -52,7 +52,7 @@ Hitchcock's wood-rush
 
 Hitchcock's smooth woodrush is distributed from southern British Columbia south to southern Oregon, and east to southwestern Alberta, Idaho, Montana, and northern Wyoming [15].
 
-![A map of the northwestern U.S. and southwestern Canada, with Montana and portions of Wyoming, Idaho, Washington, and Oregon highlighted in the U.S., and Alberta and British Columbia highlighted in Canada.]({{ site.baseurl }}/assets/images/species-reviews/luzglah_luzglah_distribution.jpg)
+![A map of the northwestern U.S. and southwestern Canada, with Montana and portions of Wyoming, Idaho, Washington, and Oregon highlighted in the U.S., and Alberta and British Columbia highlighted in Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/luzglah_distribution.jpg?itok=6VA-6Sdn)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Publications listing Hitchcock's smooth woodrush as an indicator or dominant spe
 
 Hitchcock's smooth woodrush is a short, rhizomatous perennial graminoid, 6 to 20 inches (15-50 cm) tall, with round, hollow culms. The leaves are shiny, 1 to 2 inches (2-6 cm) long, with flattened reddish-brown tips; often becoming mottled rusty red in midsummer. Hitchcock's smooth woodrush has a solitary inflorescence containing small flowers. Fruits are reddish-brown capsules containing three seeds [20].
 
-[![A thin stem branching into about 10 stems at its tip, each of which ends in a small brownish capsule. Black background.]({{ site.baseurl }}/assets/images/species-reviews/luzglah_luzglah_reproductive.jpeg)Photo Credit Photo by Gabriel Campbell, iNaturalist (CC BY 4.0). Capsules of Hitchcock's smooth woodrush.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![A thin stem branching into about 10 stems at its tip, each of which ends in a small brownish capsule. Black background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/luzglah_reproductive.jpeg?itok=eyfINNlA)Photo Credit Photo by Gabriel Campbell, iNaturalist (CC BY 4.0). Capsules of Hitchcock's smooth woodrush.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -109,7 +109,7 @@ Herbarium specimens of Hitchcock's smooth woodrush collected in western Montana 
 
 Hitchcock's smooth woodrush has been widely cited as being rhizomatous and usually regenerates into extensive colonies. It also reproduces via seed.
 
-[![A relatively dense cluster of woodrush plants covers the ground.]({{ site.baseurl }}/assets/images/species-reviews/luzglah_luzglah_plants.jpeg)Photo Credit Photo by Gabriel Campbell, iNaturalist (CC BY 4.0). Hitchcock's smooth woodrush plants.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![A relatively dense cluster of woodrush plants covers the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/luzglah_plants.jpeg?itok=uDmFMkth)Photo Credit Photo by Gabriel Campbell, iNaturalist (CC BY 4.0). Hitchcock's smooth woodrush plants.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 **Seeds:** Specific information relating to Hitchcock's smooth woodrush is not available. Information on spiked rush, however, a species which occupies a similar environment, is available. Seed germination was experimentally induced in L. spicata by random scarification, which was achieved by repeated freeze-thaw cycles, followed by stratification for 2 to 3 months. This germination requirement may represent an adaptation to fall freeze-thaw cycles followed by extended chilling under heavy snowpack [7]. In areas with heavy snowpack, Hitchcock's smooth woodrush has exhibited nearly full-sized growth of etiolated shoots under the snow [12].
 

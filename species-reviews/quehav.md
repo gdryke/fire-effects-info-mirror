@@ -54,7 +54,7 @@ sand shinnery oak, shinnery oak, shin oak
 
 ## General Distribution
 
-![Map of the south-central United States showing the distribution of Harvard oak in Utah, Colorado, Arizona, New Mexico, Kansas, Oklahoma, and Texas.]({{ site.baseurl }}/assets/images/species-reviews/feis-quehav_map.png)
+![Map of the south-central United States showing the distribution of Harvard oak in Utah, Colorado, Arizona, New Mexico, Kansas, Oklahoma, and Texas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-quehav_map.png?itok=I1Vf1-3R)
 
 Photo Credit
 
@@ -166,7 +166,7 @@ Havard oak is a dominant species in the following vegetation types:
 
 ## Botanical Description
 
-![Close-up photo of a woody plant showing green, oak-shaped leaves along branches and green acorns growing on branch tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-quehav_hero.jpg)
+![Close-up photo of a woody plant showing green, oak-shaped leaves along branches and green acorns growing on branch tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-quehav_hero.jpg?itok=6x-8VF3y)
 
 Photo Credit
 
@@ -247,7 +247,7 @@ Clone size can be very large. In Yoakum County, Texas, 2 acres (1 ha) contained 
 
 ## Successional Status
 
-![Photo showing a stand of low-growing shrubs in a sunny clearing.]({{ site.baseurl }}/assets/images/species-reviews/feis-quehav_habitat.jpg)
+![Photo showing a stand of low-growing shrubs in a sunny clearing.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-quehav_habitat.jpg?itok=Fboy9ca3)
 
 Photo Credit
 

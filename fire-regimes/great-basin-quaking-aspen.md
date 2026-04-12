@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Basin quaking aspen communities has n
 
 ## Distribution
 
-![A map showing the distribution of Great Basin quaking aspen communities in the western and southwest U.S.]({{ site.baseurl }}/assets/images/fire-regimes/great-basin-quaking-aspen_feis-great_basin_quaking_aspen_locator.jpg)
+![A map showing the distribution of Great Basin quaking aspen communities in the western and southwest U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-great_basin_quaking_aspen_locator.jpg?itok=fE1olcmw)
 
 Photo Credit
 

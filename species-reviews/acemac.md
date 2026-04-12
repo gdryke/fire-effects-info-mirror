@@ -36,7 +36,7 @@ Fryer, Janet L. 2011. _Acer macrophyllum_ , bigleaf maple. In: Fire Effects Info
 
 ## Taxonomy
 
-![Photo of bigleaf maple leaves]({{ site.baseurl }}/assets/images/species-reviews/feis-acemac_leaves.jpg)
+![Photo of bigleaf maple leaves](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-acemac_leaves.jpg?itok=mAr1zfqn)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ big-leaf maple, Oregon maple
 
 ## General Distribution
 
-![Photo of map distribution of bigleaf maple in North America indicating occurrence in British Columbia, Washington, Oregon, and California.]({{ site.baseurl }}/assets/images/species-reviews/acemac_feis-map_acemac.jpg)
+![Photo of map distribution of bigleaf maple in North America indicating occurrence in British Columbia, Washington, Oregon, and California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-map_acemac.jpg?itok=Pw2tUQAe)
 
 Photo Credit
 
@@ -127,7 +127,7 @@ White alder (_A. rhombifolia_)| California [103]
  
 **Conifer communities:** Bigleaf maple often occurs in scattered patches within or on the streamside edges of conifer-dominated riparian communities [117]. In surveys near rivers of the Puget Sound area of Washington, bigleaf maple was most important in areas just adjacent to waterways, while western redcedar and Douglas-fir tended to dominate upland riparian zones [41]. Within western hemlock-Sitka spruce forests, bigleaf maple grows mostly as scattered individuals or in groves of large trees (≥30 inches (76 cm) DBH) within the conifer forest matrix. It is not restricted to riparian sites in these mesic forest types [63]. Bigleaf maple is a minor species in Pacific silver fir (_Abies amabilis_) forests of the Olympic National Forest, Washington [98], and in bristlecone fir (_A. bracteata_) forests of California [20]. In Monterey County, California, the redwood-bigleaf maple/California polypody (_Polypodium californicum_) community occurs on gently sloping alluvial terraces near streams with boulder or very rocky substrates [139]. It is a rare type within the area's redwood ecosystem [27]. In the Santa Ana [26] and San Gabriel [86] mountains of southern California, bigleaf maple grows in bigcone Douglas-fir (_Pseudotsuga macrocarpa_) communities.
 
-![Photo showing mossy bigleaf maples along the Quinault River.]({{ site.baseurl }}/assets/images/species-reviews/acemac_feis-mossloadquinaultriver1_acemac.jpg)
+![Photo showing mossy bigleaf maples along the Quinault River.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-mossloadquinaultriver1_acemac.jpg?itok=xV20PLbw)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Bigleaf maple is important in a few minor woodlands on year-round springs. In th
 
 ## Botanical Description
 
-![Photo showing white bigleaf maple flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-acemac_flower.jpeg)
+![Photo showing white bigleaf maple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-acemac_flower.jpeg?itok=q1PRo_6F)
 
 Photo Credit
 
@@ -209,7 +209,7 @@ Bigleaf maple is heterdichogamous. This mating system is rare; plant species emp
 
 Genetic tests of 2 populations in western British Columbia showed bigleaf maple was mostly outcrossing, with low levels of population differentiation. This is consistent with a species with wind-dispersed pollen and seed [109] and a heterdichogamous mating system [113].
 
-![Photo of bigleaf maple seeds on gravel.]({{ site.baseurl }}/assets/images/species-reviews/acemac_feis-seeds_acemac.jpg)
+![Photo of bigleaf maple seeds on gravel.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-seeds_acemac.jpg?itok=fTc6sLv2)
 
 Photo Credit
 

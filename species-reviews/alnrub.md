@@ -34,7 +34,7 @@ Uchytil, Ronald J. 1989. _Alnus rubra,_ red alder. In: Fire Effects Information 
 
 ## Image Gallery
 
-![A branch extends out with green leaves with serrated edges. The background is lightly shaded with leafy vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrub_leaves.jpg) Red alder leaves, coastal Oregon. _Photo by Jesse Rorabaugh, no rights reserved, iNaturalist.org._
+![A branch extends out with green leaves with serrated edges. The background is lightly shaded with leafy vegetation.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-alnrub_leaves.jpg) Red alder leaves, coastal Oregon. _Photo by Jesse Rorabaugh, no rights reserved, iNaturalist.org._
 
 Photo Credit: Photo by Jesse Rorabaugh, no rights reserved, iNaturalist.org.
 
@@ -133,7 +133,7 @@ Age (years)| Height (feet/meters)| Diameter breast height (inches/centimeters)
 50| 98/29.9| 16/40.6 
 60| 105/32.0| 18/45.7 
  
-![A branch extends out with green leaves with serrated edges. The background is lightly shaded with leafy vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrub_leaves.jpg)
+![A branch extends out with green leaves with serrated edges. The background is lightly shaded with leafy vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-alnrub_leaves.jpg?itok=buS2cVnD)
 
 Photo Credit
 

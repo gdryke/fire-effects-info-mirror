@@ -34,7 +34,7 @@ Johnson, Kathleen A. 2000. _Ceanothus sanguineus_ , redstem ceanothus. In: Fire 
 
 ## Introduction
 
-![A photo of a flowering redstem ceanothus branch with dense clusters of small white flowers in front of shrubby vegetation with mountains rising in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceasan_plant.jpg)
+![A photo of a flowering redstem ceanothus branch with dense clusters of small white flowers in front of shrubby vegetation with mountains rising in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceasan_plant.jpg?itok=0NVLwhkw)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Redstem ceanothus grows best on relatively moist slopes in the open or in partia
 
 Redstem ceanothus is a prominent component of seral brushfields in western hemlock (_Tsuga heterophylla_), grand fir (_Abies grandis_), western redcedar (_Thuja plicata_), Douglas-fir (_Pseudotsuga menziesii_), and mixed conifer communities of the Northwest [26]. In both the Cascade Range and the Rocky Mountains, it is found primarily in the ponderosa pine (_Pinus ponderosa_) zone and in parts of the mixed conifer and western hemlock zones [16].
 
-![A photo of flowering redstem ceanothus with a sparse overstory of conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceasan_community.jpg)
+![A photo of flowering redstem ceanothus with a sparse overstory of conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceasan_community.jpg?itok=0EXI2ar5)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ Fruiting| 9 June| 27 July| 13 June| 1 August| 4 June| 3 August
  
 ## Regeneration Processes
 
-![A close-up photo of a dense cluster of small, white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceasan_flowers.jpg)
+![A close-up photo of a dense cluster of small, white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceasan_flowers.jpg?itok=L22Zi9mA)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Severe fire top-kills redstem ceanothus, but low-severity fires may leave portio
 
 Redstem ceanothus is primarily dependent on fire for regeneration [1,74,83,86,112]. Without periodic fires, this "obligate pioneer" declines markedly in both vigor and density. It is one of the 1st brushfield shrubs to decline as shade levels increase [61,65,80,86,89]. Redstem ceanothus remains vigorous when burned at 10- to 15-year intervals [65,72]. This shrub may be best adapted to summer wildfires that provide heat scarification followed by cold, moist stratification over winter [63].
 
-![A photo of several hikers facing away from the photographer on a trail through dense brush and standing dead snags of burned trees. Unburned conifers dominate an open overstory ahead of the hikers.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceasan_postfirehill.jpeg)
+![A photo of several hikers facing away from the photographer on a trail through dense brush and standing dead snags of burned trees. Unburned conifers dominate an open overstory ahead of the hikers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ceasan_postfirehill.jpeg?itok=t4v0mRxP)
 
 Photo Credit
 

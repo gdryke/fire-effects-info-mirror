@@ -52,7 +52,7 @@ Rocky Mountain white pine
 
 Limber pine occurs from Alberta and British Columbia south to California, Arizona, and New Mexico. It is scattered widely across the Great Basin in Utah, Nevada, and into Colorado, Wyoming, and Montana. Isolated populations occur in the Dakotas [65,69,86,104,106] and Nebraska [30,109]. A distributional map of limber pine is available [here](<https://research.fs.usda.gov/feis/treedistributionmaps>). The Whitebark and Limber Pine Information System provides distributional information at the stand level.
 
-![Photo of limber pine tree at St Mary's Lake, Glacier National Park.]({{ site.baseurl }}/assets/images/species-reviews/pinfle_feis-glac_pinfle.jpg)
+![Photo of limber pine tree at St Mary's Lake, Glacier National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-glac_pinfle.jpg?itok=e7uh3Q_Q)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ Published classifications that include limber pine as an indicator or dominant s
 
 ## Botanical Description
 
-![Photo of a tip of a limber pine branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinfle_branch.jpg)
+![Photo of a tip of a limber pine branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pinfle_branch.jpg?itok=idcGIn7U)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Cones open (seed dispersal)| August 23 to August 30
  
 Also see Regeneration Processes regarding pollen phenology.
 
-![Photo of limber pine cone at the end of branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinfle_cone.jpg)
+![Photo of limber pine cone at the end of branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-pinfle_cone.jpg?itok=dIRzfSDg)
 
 Photo Credit
 

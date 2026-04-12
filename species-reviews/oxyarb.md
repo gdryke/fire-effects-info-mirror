@@ -58,7 +58,7 @@ Sourwood grows in upland forests of the southeastern United States. It is found 
 
 ## Site Characteristics
 
-[![A photo of a low, bushy tree with its branches hanging down over water, with sprays of small white flowers blooming all over the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-oxyarb_habitat.jpg)Photo Credit Photo by Donna Bennett, iNaturalist.org, CC BY-NC 4.0. Sourwood in bloom on the edge of a lake, Georgia.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a low, bushy tree with its branches hanging down over water, with sprays of small white flowers blooming all over the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-oxyarb_habitat.jpg?itok=YuzD479d)Photo Credit Photo by Donna Bennett, iNaturalist.org, CC BY-NC 4.0. Sourwood in bloom on the edge of a lake, Georgia.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 In the central Appalachian Mountains sourwood is most abundant on subxeric open slopes and ridges occupied by chestnut oak (Quercus prinus), white oak (Q. alba), scarlet oak (Q. coccinea), and Virginia pine (Pinus virginiana). It is less frequent on more mesic sites such as coves and sheltered slopes. Throughout this area sourwood is found up to 5,000 feet (1,520 m) but rarely to 5,600 feet (1,710 m) in elevation [3,6,32].
 
@@ -74,7 +74,7 @@ No entry.
 
 ## Botanical Description
 
-[![A close up photo of sprays of small white bell-shaped flowers in the sun. The background is blurry leafy vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-oxyarb_flower.jpeg)Photo Credit Photo by Maeve and Joey Coker, iNaturalist.org, CC BY-NC 4.0. Sourwood flowers, Virginia.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of sprays of small white bell-shaped flowers in the sun. The background is blurry leafy vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-oxyarb_flower.jpeg?itok=cOkUYBFc)Photo Credit Photo by Maeve and Joey Coker, iNaturalist.org, CC BY-NC 4.0. Sourwood flowers, Virginia.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sourwood is a native, deciduous, medium-sized tree, 40 to 60 feet (12-15 m) tall [13,30]. It develops a slender trunk and small crown in dense stands. In the open it forms a short, often leaning trunk dividing into several stout, ascending limbs [32]. The inflorescence is a raceme emanating from a central axis. The simple, alternate leaves are 4 to 7 inches (10-18 cm) long and variable in shape. The fruit is a capsule 0.25 to 0.5 inch (6-13 mm) long containing many tiny seeds [9,23,42]. No information on the rooting habit of sourwood was found in the literature.
 

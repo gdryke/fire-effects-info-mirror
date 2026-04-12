@@ -88,7 +88,7 @@ American beavers commonly inhabit riparian areas of mixed coniferous-deciduous f
 
 ## Biological Characteristics
 
-![A close-up of an American beaver.]({{ site.baseurl }}/assets/images/species-reviews/feis-caca_beaver.jpg)
+![A close-up of an American beaver.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-caca_beaver.jpg?itok=arYKvY8T)
 
 Photo Credit
 

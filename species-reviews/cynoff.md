@@ -34,7 +34,7 @@ Zouhar, Kris 2002. _Cynoglossum officinale_ , houndstongue. In: Fire Effects Inf
 
 ## Introduction
 
-![A photo of a cluster of pubescent stems with dark red flowers at their tips and 4-nutlet capsules along the length of the stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-cynoff_hero.jpg)
+![A photo of a cluster of pubescent stems with dark red flowers at their tips and 4-nutlet capsules along the length of the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cynoff_hero.jpg?itok=F7hMZGB8)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Thebiogeographic classification systems found in Appendix table A1 are presented
 
 ## Site Characteristics
 
-![A photo of a forb with dark red flowers at the ends of stems and four-nutlet capsules below the flowers. Conifer-covered hills are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-cynoff_plant.jpg)
+![A photo of a forb with dark red flowers at the ends of stems and four-nutlet capsules below the flowers. Conifer-covered hills are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cynoff_plant.jpg?itok=0-WOx9wV)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ In Iowa, houndstongue was found on an upland site dominated by white oak (_Q. al
 
 ## Botanical Description
 
-![A close-up photo of a dark red flower with five petals, with pubescent sepals and stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-cynoff_flower.jpg)
+![A close-up photo of a dark red flower with five petals, with pubescent sepals and stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cynoff_flower.jpg?itok=RR2hLDzH)
 
 Photo Credit
 
@@ -172,7 +172,7 @@ Each flower has the potential to produce 4 nutlets. A review by Upadhyaya and ot
 
 ### Seed Dispersal
 
-![A close-up photo of a dark red flower with five petals, with pubescent sepals and stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-cynoff_fruit.jpg)
+![A close-up photo of a dark red flower with five petals, with pubescent sepals and stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-cynoff_fruit.jpg?itok=h9Kd4808)
 
 Photo Credit
 

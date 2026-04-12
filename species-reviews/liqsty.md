@@ -71,7 +71,7 @@ No entry.
 
 ## Botanical Description
 
-[![A photo looking up at a tree's branches with blue sky behind. There are no leaves but the tree has many round, spiky seed pods hanging from the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-liqsty_seeds.jpg)Photo Credit Photo by Melissa McMasters, iNaturalist.org, CC BY 4.0. Sweetgum fruits remaining on the tree after leaf fall, Tennessee.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo looking up at a tree's branches with blue sky behind. There are no leaves but the tree has many round, spiky seed pods hanging from the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-liqsty_seeds.jpg?itok=7UqDgT_z)Photo Credit Photo by Melissa McMasters, iNaturalist.org, CC BY 4.0. Sweetgum fruits remaining on the tree after leaf fall, Tennessee.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Sweetgum is a large, native, long-lived, deciduous tree that reaches heights of 50 to 150 feet (15-45 m) at maturity [6,14]. It is easily recognizable by the long-petioled, star-shaped leaves which have five long-pointed, saw-toothed lobes. The brown bark is deeply furrowed into narrow scaley plates or ridges. Young sweetgum trees have long conical crowns, while mature trees have crowns that are round and spreading. Sweetgum is monoecious with the male flowers in several clusters and the female flowers hanging at the end of the same stalk. The ball-shaped fruits contain many individual seed-bearing sections, and persist throughout the winter [16,18].
 
@@ -169,7 +169,7 @@ Sweetgum growth and survival was good when planted on favorable sites but decrea
 
 Medicinally, sweetgum is known as "copalm balsam" and the resinous gum is used extensively in Mexico and Europe as a substitute for storax. Various ointments and syrups are prepared from the resinous gum and are used in the treatment of dysentery and diarrhea. The gum is sometimes chewed by children, and it is also used as a perfuming agent in soap [45].
 
-[![A photo of the colorful foliage of a tree. The leaves have five distinct points and are dark purple, red, orange, yellow, and light green.]({{ site.baseurl }}/assets/images/species-reviews/feis-liqsty_foliage.jpg)Photo Credit Photo by Melissa McMasters, iNaturalist.org, CC BY 4.0. Sweetgum with fall foliage, Tennessee.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of the colorful foliage of a tree. The leaves have five distinct points and are dark purple, red, orange, yellow, and light green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-liqsty_foliage.jpg?itok=NDnN_SXD)Photo Credit Photo by Melissa McMasters, iNaturalist.org, CC BY 4.0. Sweetgum with fall foliage, Tennessee.](<https://creativecommons.org/licenses/by/4.0/>)
 
 The beautiful red and yellow color variations of sweetgum's autumn foliage make it highly prized as an ornamental [33,45].
 

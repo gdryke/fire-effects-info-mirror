@@ -50,7 +50,7 @@ Where cutleaf blackberry is invasive, it displaces native riparian shrubs by ove
 
 The scientific name of cutleaf blackberry is _Rubus laciniatus_ Willd. (Rosaceae) [49,52,66,75,78,110,116,133,150,159,164]. Cutleaf blackberry is a member of the _Rubus fruiticosus_ complex (subgenus _Rubus_), an aggregate of blackberry species that are native to Eurasia [28,50] and primarily reproduce vegetatively [27]. Cutleaf blackberry is unique within the complex, and the genus, due to its deeply dissected leaflets [49] (figs. 1, 2). Within the _Rubus_ subgenus, it is the sole member of the section _Ursinus_[27,69].
 
-![A photo of a viny plant with prickles and deeply divided leaves. White flowers growing at the ends of stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-rublac_fig1_plant.jpeg)
+![A photo of a viny plant with prickles and deeply divided leaves. White flowers growing at the ends of stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rublac_fig1_plant.jpeg?itok=fkZUdWzs)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ Image © 2019 Barry Breckling, used with permission.
 
 Figure 1—Evergreen blackberry in Groveland, California.
 
-![A photo of two viny plants, one with leaves comprised of oval leaflets and the other with leaves comprised of deeply divided leaflets.]({{ site.baseurl }}/assets/images/species-reviews/feis-rublac_fig2_rublacrubarm.jpg)
+![A photo of two viny plants, one with leaves comprised of oval leaflets and the other with leaves comprised of deeply divided leaflets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rublac_fig2_rublacrubarm.jpg?itok=u9BZBu22)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Cutleaf blackberry is native to Eurasia [10,78,96,157], although its area of nat
 
 Cutleaf blackberry occurs in western and eastern North America (fig. 3). In western North America, it occurs from southern coastal British Columbia [78] south to central California, southern Idaho, and northwestern Wyoming. Isolated populations occur in southern California and possibly, central Colorado [49,150], although it is rarely found in and may have disappeared from Colorado [160]. The core of cutleaf blackberry's distribution in North America is the Pacific Northwest [111,150]. It is most prevalent, and is invasive, in coastal Washington [111]. Cutleaf blackberry is absent from much of the Great Plains [111,150] and is not common in the eastern United States. It occurs sporadically from the Upper Peninsula of Michigan and upstate New York south to northern South Carolina [49,150].
 
-![A map of the United States with many counties in the Pacific northwest and northeast highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-rublac_fig3_map.jpg)
+![A map of the United States with many counties in the Pacific northwest and northeast highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rublac_fig3_map.jpg?itok=0BluekAD)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Cutleaf blackberry is an evergreen shrub [78] or liana [150]. The stems (canes) arch, then droop and trail along the ground [42,78]. Flowering stems (floricanes) branch out from the main stems (primocanes) [49]. Primocanes range from 0.1 [49] to 3 m long [42,78,133]. The canes of wild-type cutleaf blackberry plants are strongly armed with numerous slightly recurved to strongly recurved prickles [52,78,110,133] (fig. 4). Some cultivars are sold as 'thornless'; however, these individuals may produce prickles after sprouting, and offspring resulting from sexual reproduction by these cultivars may also have prickles [28,58].
 
-![A photo of a stem with sharp, upwards-curving prickles with fingers touching the back of the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-rublac_fig4_prickles.jpeg)
+![A photo of a stem with sharp, upwards-curving prickles with fingers touching the back of the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rublac_fig4_prickles.jpeg?itok=PH9g5-H9)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ Image © 2019 Trent M. Draper, used with permission.
 
 Figure 4—Cutleaf blackberry stem.
 
-![A close-up photo of a cutleaf blackberry fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-rublac_fig5_fruit.jpeg)
+![A close-up photo of a cutleaf blackberry fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rublac_fig5_fruit.jpeg?itok=88H_ad1y)
 
 Photo Credit
 
@@ -360,7 +360,7 @@ Cutleaf blackberry is a Class C noxious weed (widespread) in Washington [155], a
 
 A wide variety of frugivores eat cutleaf blackberry fruits, including galliforme and passerine birds and mammals. Ungulates may browse the leaves. Gallliforme birds that eat the fruits include California quail, gray partridges, northern bobwhites, ring-necked pheasants, ruffed grouse, and sharp-tailed grouse [71]. Passerine birds that eat the fruits include American robins, brown thrashers, gray catbirds [30,152], northwestern crows [71], northern cardinals, orchard orioles, pine grosbeaks, summer tanagers, thrushes, towhees, and yellow-breasted chats. Mammals that eat the fruits include American black bears, chipmunks, common gray foxes, coyotes, northern raccoons, red foxes, squirrels, skunks, and Virginia opossums [30,152].
 
-![A photo of blackberries at the end of a stem with deeply divided leaflets.]({{ site.baseurl }}/assets/images/species-reviews/feis-rublac_hero.jpeg)
+![A photo of blackberries at the end of a stem with deeply divided leaflets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rublac_hero.jpeg?itok=2-4e7j56)
 
 Photo Credit
 

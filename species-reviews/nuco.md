@@ -272,7 +272,7 @@ When seeds are plentiful, caching close to the harvest trees maximizes the numbe
 
 **Communal Storage Sites** : Clark’s nutcrackers use open areas within mountainous landscapes for communal caching. Since strong winds and harsh exposures keep the majority of communal cache sites relatively free of snow, large numbers of Clark’s nutcrackers utilize these areas [85,160]. Clark’s nutcrackers often transport seeds a considerable distance in order to cache within communal storage areas, perhaps indicating a preference for forest openings. A Clark’s nutcracker population may use one or more communal caching sites within a locality. Forest openings used as communal storage sites include steep, south-facing open slopes and openings in the forest canopy [41,85,121,137,169].
 
-![Steep, open, mountain slope.]({{ site.baseurl }}/assets/images/species-reviews/feis-nuco_2_caching_habitat.jpg)
+![Steep, open, mountain slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-nuco_2_caching_habitat.jpg?itok=7wQmaRrS)
 
 Photo Credit
 
@@ -422,7 +422,7 @@ The relative occurrence of caches in above- and belowground locations may vary b
 
 The Clark’s nutcracker specializes in pine seed consumption but is an opportunistic feeder. Like many Corvids, Clark’s nutcrackers are omnivorous, consuming plant material, insects (Hexapoda), spiders (Araneae), small animals, and carrion. Giuntoli and Mewaldt [38] studied the stomach contents of 426 Clark’s nutcrackers from Montana. By volume, stomachs contained, 83% conifer seeds, 13% arthropods (Arthropoda), and 3% carrion. Nearly all stomachs (98%) contained seeds, 59% contained arthropods, and 12% contained animal remains. See Tomback [147] for a monthly breakdown of stomach contents.
 
-![A bird on the ground with a seed in its bill]({{ site.baseurl }}/assets/images/species-reviews/feis-nuco_Hero_seed.retrieval_Janson.jpg)
+![A bird on the ground with a seed in its bill](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-nuco_Hero_seed.retrieval_Janson.jpg?itok=ZveBGnpr)
 
 Photo Credit
 
@@ -565,7 +565,7 @@ Juniper "berries" (cones) are a frequent Clark's nutcracker food in conifer-sage
 
 ### Foraging and Caching
 
-![Bird perched on top of a pine tree]({{ site.baseurl }}/assets/images/species-reviews/feis-nuco_3_fullpoach.jpg)
+![Bird perched on top of a pine tree](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-nuco_3_fullpoach.jpg?itok=1AtivdGS)
 
 Photo Credit
 
@@ -601,7 +601,7 @@ Clark’s nutcrackers usually feed on pine seeds for several minutes before fill
 
 When Clark’s nutcrackers are transporting seeds they typically make direct, nonstop flights between harvest sites and storage areas [167], although Tomback [137] reported that Clark’s nutcrackers frequently rested in the tops of tall trees when making long flights. Caching flights comprised the most energetically demanding phase of the harvesting process [170]. Once pouches are filled, Clark's nutcrackers transport the harvested seed to storage sites. Maximum number of seeds/pouch load depends on seed size and is summarized by Tomback [145] and Lanner [71]. From observations in the Sierra Nevada, Tomback estimated a single pouch load of whitebark pine seeds consisted of 35 to 150 seeds (mean=77 (SD 37) seeds; median=58; _n_ =13) [160].
 
-![Two dark brown whitebark pine cones with one cone partially opened.]({{ site.baseurl }}/assets/images/species-reviews/feis-nuco_4_opencone.jpg)
+![Two dark brown whitebark pine cones with one cone partially opened.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-nuco_4_opencone.jpg?itok=Z92Xs7FT)
 
 Photo Credit
 
@@ -729,7 +729,7 @@ While fire provides caching habitat for the Clark's nutcracker, it also eliminat
 
 Fires may eliminate portions of Clark's nutcracker foraging habitat by damaging or killing trees that provide seed. Extensive stand replacement fires have the potential to kill vast numbers of seed-producing trees. Historically, large stand-replacement fires probably did not pose a threat to local nutcracker populations; Clark's nutcrackers range widely, and foraging flexibility allows for a shift to alternative seed species [137]. However, it is presently unknown what effect large scale removal of seed source trees by stand-replacement fire may have in light of white pine blister rust mortality and climate change.
 
-![A bird pecking a cone on a burnt out tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-nuco_5_burntcone.jpg)
+![A bird pecking a cone on a burnt out tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-nuco_5_burntcone.jpg?itok=MaH_U4b5)
 
 Photo Credit
 
@@ -762,7 +762,7 @@ Evidence for Clark's nutcracker use of burned areas is described here in 2 secti
 
 **Direct Evidence:** Clark’s nutcrackers cache in burns of varying ages. They may use burns in preference to closed forest, or they may use burns because those sites have always been used for caching.
 
-![A bird with a swollen throat pouch standing on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-nuco_6_caching.jpg)
+![A bird with a swollen throat pouch standing on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-nuco_6_caching.jpg?itok=GVyXoM_a)
 
 Photo Credit
 

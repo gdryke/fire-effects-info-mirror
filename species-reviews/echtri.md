@@ -50,7 +50,7 @@ The scientific name of kingcup cactus is _Echinocereus triglochidiatus_ Engelm. 
 
 **Background** : _Echinocereus triglochidiatus_ is an early name for a large taxonomic group of diploid (2n) and polyploid (4n) small cacti [16,20] that were formerly lumped as conspecific [2]. Polyploid taxa formerly classified as varieties of _Echinocereus triglochidiatus_ [2] are now treated as distinct species [20,54]. Two diploid taxa [20] from the former grouping are now recognized as distinct species: kingcup cactus (_Echinocereus triglochidiatus_) and Mojave kingcup cactus (_Echinocereus mojavensis_) [20,54]. This Species Review provides information on only kingcup cactus.
 
-![Cluster of very spiny cactus with many red flowers.]({{ site.baseurl }}/assets/images/species-reviews/echtri_feis-ECHTRI_plant1.jpg)
+![Cluster of very spiny cactus with many red flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ECHTRI_plant1.jpg?itok=ihTcxuGV)
 
 Photo Credit
 
@@ -76,7 +76,7 @@ claretcup cactus, kingcup hedgehog cactus, mound hedgehog cactus, red-flowered h
 
 ## General Distribution
 
-![Map showing county-level distribution of kingcup cactus in Arizona, Colorado, and New Mexico.]({{ site.baseurl }}/assets/images/species-reviews/feis-echtri_map.png)
+![Map showing county-level distribution of kingcup cactus in Arizona, Colorado, and New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echtri_map.png?itok=BQdJFd01)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ At White Sands National Monument, kingcup cactus occurred in fourwing saltbush-a
 
 Kingcup cactus is not listed as a dominant or indicator species in vegetation classifications. See table A2 for lists of vegetation classifications in which it occurs.
 
-![Rock outcrop with a cluster of cactus covered in red flowers and a small oak growing from it.]({{ site.baseurl }}/assets/images/species-reviews/feis-echtri_habitat.jpg)
+![Rock outcrop with a cluster of cactus covered in red flowers and a small oak growing from it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-echtri_habitat.jpg?itok=8zzTLMcW)
 
 Photo Credit
 

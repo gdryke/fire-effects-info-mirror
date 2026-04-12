@@ -52,7 +52,7 @@ deciduous holly, swamp holly, winterberry, bearberry, Curtiss possumhaw
 
 ## General Distribution
 
-![A map of the southeastern U.S., with most of the southeast highlighted in green where possumhaw occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-iledec_map.jpg)
+![A map of the southeastern U.S., with most of the southeast highlighted in green where possumhaw occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-iledec_map.jpg?itok=PWst9FqV)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Possumhaw is found throughout the southeastern United States, from Virginia west
 
 ## Site Characteristics
 
-![A photo of a shrub covered in red berries, but no leaves, in front of still water. Some other shrubs without leaves are growing around the central shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-iledec_habitat.jpeg)
+![A photo of a shrub covered in red berries, but no leaves, in front of still water. Some other shrubs without leaves are growing around the central shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-iledec_habitat.jpeg?itok=Spjlr1ID)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Possumhaw is not a dominant or indicator species in habitat typings. It occurs i
 
 ## Botanical Description
 
-![A photo of part of a shrub or tree with oval, pointed green leaves and small red berries along its branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-iledec_berries.jpeg)
+![A photo of part of a shrub or tree with oval, pointed green leaves and small red berries along its branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-iledec_berries.jpeg?itok=VJuobAXG)
 
 Photo Credit
 

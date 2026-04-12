@@ -43,7 +43,7 @@ The currently accepted scientific name for the American kestrel is _Falco sparve
  * _F. sparverius paulus_ (Howe and King), southeastern American kestrel
  * _F. sparverius peninsularis_ Mearns
 
-![An American kestrel is perched on a small branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-fasp_bird.jpg)
+![An American kestrel is perched on a small branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fasp_bird.jpg?itok=6sYu4gIz)
 
 Photo Credit
 

@@ -50,7 +50,7 @@ ribbon bush
 
 ## General Distribution
 
-![Map showing the distribution of redshank in California.]({{ site.baseurl }}/assets/images/species-reviews/feis-adespa_map.png)
+![Map showing the distribution of redshank in California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-adespa_map.png?itok=bZzJ2c_T)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ The climate in which redshank grows is Mediterranean, characterized by wet, mild
 
 ## Plant Communities
 
-![Photo of redshank chaparral in Riverside County.]({{ site.baseurl }}/assets/images/species-reviews/feis-adespa_habitat.jpeg)
+![Photo of redshank chaparral in Riverside County.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-adespa_habitat.jpeg?itok=7Br8u3gI)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Publications describing redshank-dominated communities are as follows:
 
 Redshank is a native arborescent shrub growing from 6 to 18 feet (2-6 m) tall [7,16,33]. It has a rounded growth form with thick multiple branches that ascend several feet without foliage before multiple smaller branches display leaves [15,22]. Redshank is classified as a broad-leaved sclerophyll [15]. Its leaves are covered with a sticky resin that may serve to reflect excess radiation [39]. The bark exfoliates freely, peeling off in long strips [8,15,33]. Redshank has a large lignotuber; the lignotuber of one individual in the Santa Monica Mountains measured 12 inches (30 cm) in diameter. The root system has not been well studied but appears to be predominantly lateral with masses of small roots. Two plants excavated in the Santa Monica Mountains had thick, woody, multiple roots rapidly branching into succulent fibrous roots at 1 to 4 feet (0.3-1.2 m) below the soil surface. A few roots were found below 6 feet (1.8 m) [15]. The inflorescence is an open panicle; the fruit is an achene [7,33]. Redshank may live over 100 years [21].
 
-![Photo of a large shrub with long, fine, green foliage with red tips, and a mountain range in the background.]({{ site.baseurl }}/assets/images/species-reviews/adespa_feis-ADESPA_plant1.jpg)
+![Photo of a large shrub with long, fine, green foliage with red tips, and a mountain range in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ADESPA_plant1.jpg?itok=FxukQrRy)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Creative commons image by Noah Elhardt (CC BY-SA).
 
 A redshank plant in the Santa Monica Mountains National Recreation Area.
 
-![Photo of the lower part of a shrub with red and gray bark peeling off in long strips.]({{ site.baseurl }}/assets/images/species-reviews/adespa_feis-ADESPA_ribbonwood.jpg)
+![Photo of the lower part of a shrub with red and gray bark peeling off in long strips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ADESPA_ribbonwood.jpg?itok=mv06OGaz)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for mesquite scrub and woodland communities has
 
 ## Distribution
 
-![A map showing the distribution of mesquite scrub and woodland communities in the southern U.S., mostly in Texas.]({{ site.baseurl }}/assets/images/fire-regimes/mesquite-scrub-and-woodland_feis-mesquite_scrub_and_woodland_locator.jpg)
+![A map showing the distribution of mesquite scrub and woodland communities in the southern U.S., mostly in Texas.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-mesquite_scrub_and_woodland_locator.jpg?itok=Gzs3O5d6)
 
 Photo Credit
 

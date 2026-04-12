@@ -82,7 +82,7 @@ The elevational range of Wyoming threetip sagebrush in Wyoming is from 7,000 to 
 
 Tall threetip sagebrush is commonly associated with bluebunch wheatgrass (Pseudoroegneria spicata), Idaho fescue (Festuca idahoensis), needle-and-thread grass (Hesperostipa comata), Sandberg bluegrass (Poa secunda), and Thurber's needlegrass (Achnatherum thurberianum). Common shrub associates of threetip sagebrush include big sagebrush (Artemisia tridentata), broom snakeweed (Guterrezia sarothrae), green rabbitbrush (Chrysothamnus viscidiflorus), gray horsebrush (Tetradymia canescens), and curlleaf mountain-mahogany (Cercocarpus ledifolius) [55]. Stands of tall threetip sagebrush often occur adjacent to mountain big sagebrush (A. t. spp. vaseyana) stands [6], but usually on moister soils at higher elevations [10]. Threetip sagebrush typically occurs at elevations above Wyoming big sagebrush but below mountain big sagebrush [11]. Threetip sagebrush stands are often more uniform with plants more closely spaced than in big sagebrush stands [46].
 
-![Photo of tall threetip sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/arttrp_feis-arttri_entireplant.png)
+![Photo of tall threetip sagebrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-arttri_entireplant.png?itok=fm4w5TFe)
 
 Photo Credit
 

@@ -81,7 +81,7 @@ Tapered rosette grass is widespread in the Americas. It occurs throughout the Un
 
 Tapered rosette grass occurs in a wide variety of habitats. It is found in woodlands [19,24] woodland borders, and recently cleared woodland areas. It occurs on prairies [22], dunes, seashores [17], and along open roadsides [20]. It grows along the banks of rivers and lakes [29] and in marshes, swamps and swales [20]. It is found along the shorelines of bogs [39], pondcypress (_Taxodium distichum_) ponds [4], and around hot springs [9].
 
-[![A photo of a grass growing on grayish, gravelly soil with patches of moss. Grass stems spread from the base, with clusters of bright green leaves at the end of each stem.]({{ site.baseurl }}/assets/images/species-reviews/dicacu_dicacu_plant_0_0.jpeg)Photo Credit Photo by galecannon, iNaturalist (CC BY-NC 4.0). Tapered rosette grass growing in New Jersey.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a grass growing on grayish, gravelly soil with patches of moss. Grass stems spread from the base, with clusters of bright green leaves at the end of each stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/dicacu_plant_0_0.jpeg?itok=9kuhvXvj)Photo Credit Photo by galecannon, iNaturalist (CC BY-NC 4.0). Tapered rosette grass growing in New Jersey.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Tapered rosette grass grows on many soil types. It occurs on heavy, wet soils [39], silty loam [2,11,48], sandy loam with high organic content [12], moist to dry sand [14,20,24,34,46,49], and gravelly, often calcareous soils [49]. Soils are often acidic [12]. In southern Quebec near Montreal, tapered rosette grass grows on fine loamy sand with pH 6.1; the soil is low in magnesium and very low in calcium and nitrogen [43].
 
@@ -112,7 +112,7 @@ In the Adirondacks of New York, tapered rosette grass associates include Pickeri
 
 Tapered rosette grass is a native, perennial bunchgrass [8]. It is polymorphic, having early and late season forms of the same plant. Vernal culms are tufted, usually unbranched and radiating from the base, and 6 to 32 inches (15-80 cm) tall [14,17,36]. Early leaf blades are 1.6 to 3.9 inches (4-10 cm) long [21,22]; panicles are pyramidal and 1.2 to 4.7 inches (3-12 cm) long [14,21,24]. Autumnal culms are decumbent and much-branched, mostly from the middle nodes; they produce dense fascicles of leaves and inflorescences [19,24]. Fall culm leaf blades are shorter, narrower, and more crowded than early blades. Winter rosette blades are also short, but are relatively broad. Late panicles are reduced and often partly enclosed in leaf sheaths [21]. Spikelets are awnless [4]; the fruit is a caryopsis [36].
 
-[![A close-up photo of a grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-dicacu_panicle.jpeg)Photo Credit Photo by Michael J. Papay, iNaturalist (CC BY 4.0). A tapered rosette grass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-dicacu_panicle.jpeg?itok=dBZhhpJY)Photo Credit Photo by Michael J. Papay, iNaturalist (CC BY 4.0). A tapered rosette grass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

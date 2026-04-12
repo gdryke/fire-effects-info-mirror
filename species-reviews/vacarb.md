@@ -54,7 +54,7 @@ Missouri farkleberry, tree huckleberry, tree sparkleberry, sparkleberry, winter 
 
 ## General Distribution
 
-![A map of the southeastern U.S. with areas highlighted in green where farkleberry occurs. Most of the southeast is highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacarb_map.jpg)
+![A map of the southeastern U.S. with areas highlighted in green where farkleberry occurs. Most of the southeast is highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-vacarb_map.jpg?itok=Veba2iQx)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Farkleberry grows from central Florida westward to central Oklahoma, southeaster
 
 Farkleberry grows on sand dunes, hammocks, granitic outcrops, dry sterile hillsides, in rocky woods, abandoned fields, and meadows [37,38,41,45,49]. It also occurs on a variety of moist sites such as in wet bottomlands and along creek banks [37,41,45]. Farkleberry is common throughout much of the Coastal Plain and in the Piedmont [34]. In the southern Appalachians, plants generally grow below 2,591 feet (790 m) in elevation [52].
 
-![A photo of an upright shrub in a shady setting, with small round green leaves covering the entire shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacarb_plant.jpg)
+![A photo of an upright shrub in a shady setting, with small round green leaves covering the entire shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-vacarb_plant.jpg?itok=uTqDw140)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ eastern Oklahoma, northern Arkansas| southern pine cts| Silker 1971
 
 ## Botanical Description 
  
-![A close up photo of a shrub's leaves and berries. The leaves are small, stiff, reddish, and rounded, and the berries are shiny and black.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacarb_berry.jpg)
+![A close up photo of a shrub's leaves and berries. The leaves are small, stiff, reddish, and rounded, and the berries are shiny and black.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-vacarb_berry.jpg?itok=Edk6UA1Z)
 
 Photo Credit
 

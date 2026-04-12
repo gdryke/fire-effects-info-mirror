@@ -68,7 +68,7 @@ Broomsedge bluestem grows throughout the Southeast from the 25-inch mean annual 
 
 Broomsedge bluestem grows in a wide variety of open habitats, from grassland and pastureland to open woodland. It is especially common in oldfields, overgrazed pastures, and cut-over Southeastern pinelands, and along roads and railroad tracks [9,11,25,33]. It is most common on sandy soils but also grows on a variety of other soil textures [11,18]. It grows well on low-fertility soils, especially those on eroded, "worn-out" fields [18].
 
-![A field of dried, golden-colored grasses and a cloudy sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-andvir_stand.jpeg)
+![A field of dried, golden-colored grasses and a cloudy sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-andvir_stand.jpeg?itok=Cn-57ihf)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Phenology of broomsedge bluestem near Gainesville, Florida, was as follows [28]:
 
 Broomsedge bluestem's primary mode of reproduction is sexual. It is a prolific producer of small seeds that are dispersed by wind and readily establish on exposed soil. Each flowering culm may have as many as 50 racemes, and each raceme 8 to 12 spikelets [37]. Germination is relatively high after cold stratification. Eighty-four percent of broomsedge bluestem seeds germinated after 38 days when sown on flats of field sand and kept indoors [8]. Seedling survival in the field is high. First-year seedlings in North Carolina averaged 5 inches (13 cm) in height, while 1- and 2-year-old plants averaged 40 inches (100 cm) in height and 3 inches (7.5 cm) in basal circumference [16]. Flowering begins when plants are 2 or 3 years old, and continues thereafter [8,16].
 
-![Reproductive spikes of a grass with tufts at the end of seeds. Brown and green vegetation in the background.]({{ site.baseurl }}/assets/images/species-reviews/andvir_andvir_seeds.jpeg)
+![Reproductive spikes of a grass with tufts at the end of seeds. Brown and green vegetation in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/andvir_seeds.jpeg?itok=BDLO_2yk)
 
 Photo Credit
 

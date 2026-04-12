@@ -71,7 +71,7 @@ The climate throughout redbay's range is warm-temperate to subtropical. The fros
 
 ## Plant Communities
 
-![A photo of a small shrubby tree growing in the sun. Other scrub-type plants grow thickly around the central plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-perbor_habitat.jpg)
+![A photo of a small shrubby tree growing in the sun. Other scrub-type plants grow thickly around the central plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-perbor_habitat.jpg?itok=mbqzmncU)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Wells [42] cited redbay as a dominant in his classification system of Coastal Pl
 
 ## Botanical Description
 
-![A close up photo of the tips of branches on a shrub in a forest setting. The shrub has pointed green leaves and small dark blue berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-perbor_plant.jpg)
+![A close up photo of the tips of branches on a shrub in a forest setting. The shrub has pointed green leaves and small dark blue berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-perbor_plant.jpg?itok=1yL57X8N)
 
 Photo Credit
 

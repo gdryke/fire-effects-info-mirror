@@ -101,7 +101,7 @@ Common gorse was introduced to Hawaii before 1910. It is now found primarily at 
 
 The following botanical description of common gorse is based on information compiled from florae [28,33,36,63,84] and reviews [15,20,37,70], unless otherwise cited. It describes characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g. [28,33,36]). Additionally, common gorse resembles but is morphologically distinct from several invasive broom species that occur in similar habitats. DiTomaso [20] provides a table of characteristics to distinguish among broom species (_Cytisus_ spp., _Genista monspessulana_ , and _Spartium junceum_) and common gorse.
 
-![A close-up photo of a shrub's spiny green stems and abundant yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-uleeur_flowers.jpeg)
+![A close-up photo of a shrub's spiny green stems and abundant yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-uleeur_flowers.jpeg?itok=YIUsh8Pj)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ According to reviews, common gorse has photosynthetic stem tissue [20], and phot
 
 **Growth form and stand structure:** Some authors identify 2 variants or ecotypes of common gorse in New Zealand as "short spine" common gorse and typical or "wild" common gorse. Short spine common gorse has shorter spines and a denser bush than typical or wild common gorse [48,59].
 
-![A close-up photo of a plant's stem, which is densely covered with sharp green spines.]({{ site.baseurl }}/assets/images/species-reviews/feis-uleeur_spines.jpg)
+![A close-up photo of a plant's stem, which is densely covered with sharp green spines.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-uleeur_spines.jpg?itok=zpy5UlZs)
 
 Photo Credit
 
@@ -318,7 +318,7 @@ It is reported in the literature that common gorse has a high concentration of v
 
 Common gorse responds to fire by sprouting from the basal stem region and by establishing from seed in the soil seed bank [5,42,74,92,98,99]. Postfire regeneration of common gorse can be prolific and rapid [42,80,82].
 
-![A photo of an open, burned area with a carpet of green seedlings growing around burned trunks. A person in a white shirt and hat is sitting in the middle of the burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-uleeur_postfire.jpg)
+![A photo of an open, burned area with a carpet of green seedlings growing around burned trunks. A person in a white shirt and hat is sitting in the middle of the burned area.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-uleeur_postfire.jpg?itok=vy9SmkDI)
 
 Photo Credit
 
@@ -550,7 +550,7 @@ Common gorse is ranked by the California Invasive Pest Plant Council as one of t
 
 Several reviews indicate that once established, common gorse tends to dominate an area, excluding desirable vegetation including some threatened plants. In logged areas common gorse may impede growth of desirable conifer seedlings and interfere with forestry operations [12,15,37,45,64]. It is impossible to walk through spiny common gorse stands, and common gorse can prevent livestock and wildlife access to some areas. Common gorse is difficult to control, and often infests sensitive habitats or rugged terrain where control treatments are cost-prohibitive [15]. Where soil is bare between individual common gorse plants, soil erosion may increase on steep slopes (Balneaves and Zabkiewicz 1981, as cited by [45]). Dense common gorse stands may also pose a fire hazard (see Fire Hazard Potential).
 
-![A photo of a coastal bluff with houses on top of the bluff and beach on the bottom. The bluff is almost completely covered by a shrub with bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-uleeur_bluffs.jpeg)
+![A photo of a coastal bluff with houses on top of the bluff and beach on the bottom. The bluff is almost completely covered by a shrub with bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-uleeur_bluffs.jpeg?itok=XnzlqVcE)
 
 Photo Credit
 

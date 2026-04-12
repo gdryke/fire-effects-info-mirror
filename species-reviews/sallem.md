@@ -71,7 +71,7 @@ Oregon| 4,400 to 6,300 feet (1,341-1,920 m)
  
 ## Plant Communities
 
-![A photo of a bushy shrub growing along the edge of a lake, in a forested setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-sallem_habitat.jpg)
+![A photo of a bushy shrub growing along the edge of a lake, in a forested setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-sallem_habitat.jpg?itok=RCN7I2Sf)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Oregon: Deschutes, Ococo, Fremont & Winema NFs| riparian rzas, cts| Kovalchik 19
 
 ## Botanical Description
 
-![A close up photo of a shrub's green, pointed leaves and puffy white catkins.]({{ site.baseurl }}/assets/images/species-reviews/feis-sallem_flowers.jpg)
+![A close up photo of a shrub's green, pointed leaves and puffy white catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-sallem_flowers.jpg?itok=aqTYIk6X)
 
 Photo Credit
 

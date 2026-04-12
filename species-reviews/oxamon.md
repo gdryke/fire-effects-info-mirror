@@ -57,7 +57,7 @@ common woodsorrel, white woodsorrel, wood shamrock
 
 In Canada, mountain woodsorrel occurs from Manitoba east to southern Labrador and south to Nova Scotia [32]. In the United States, its range extends from Minnesota across the North Central States to New England [22]. Its range continues south along the Appalachian Mountains to North Carolina and Tennessee [10,22].
 
-![A map of the United states and Canada with states and territories highlighted in green where mountain woodsorrel occurs. Northeastern states and territories are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-oxamon_map.jpg)
+![A map of the United states and Canada with states and territories highlighted in green where mountain woodsorrel occurs. Northeastern states and territories are highlighted.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-oxamon_map.jpg)
 
 Photo Credit
 

@@ -62,7 +62,7 @@ Atlantic white-cedar grows in a narrow belt along the Atlantic and Gulf coasts f
 
 ## Site Characteristics
 
-![A stand of conifer trees with grey bark growing in a swamp. Parts of the ground are visible, other parts are underwater. The ground is mossy, with a few ferns and other understory plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-chathy_habitat.jpg)
+![A stand of conifer trees with grey bark growing in a swamp. Parts of the ground are visible, other parts are underwater. The ground is mossy, with a few ferns and other understory plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-chathy_habitat.jpg?itok=FdKCeVd9)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Southern U.S.| swamp veg. cts| Penfound 1952
 
 ## Botanical Description 
  
-![A close up photo of the tip of a conifer branch, with flat scaled needle-like leaves and small brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-chathy_cones.jpg)
+![A close up photo of the tip of a conifer branch, with flat scaled needle-like leaves and small brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-chathy_cones.jpg?itok=wqSNCCsw)
 
 Photo Credit
 

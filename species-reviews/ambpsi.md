@@ -34,7 +34,7 @@ Pavek, Diane S. 1992. _Ambrosia psilostachya_ , Cuman ragweed. In: Fire Effects 
 
 ## Image Gallery
 
-![A bunch of grassy plants with yellowish tops growing in an open, grassy habitat with some brown dead grasses in the foreground and a stream behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ambpsi_habitat.jpg) Cuman ragweed. _Photo by Joseph M. DiTomaso, University of California - Davis, Bugwood.org_
+![A bunch of grassy plants with yellowish tops growing in an open, grassy habitat with some brown dead grasses in the foreground and a stream behind.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-ambpsi_habitat.jpg) Cuman ragweed. _Photo by Joseph M. DiTomaso, University of California - Davis, Bugwood.org_
 
 Photo Credit: Photo by Joseph M. DiTomaso, University of California - Davis, Bugwood.org
 
@@ -74,7 +74,7 @@ Cuman ragweed's range extends from southern British Columbia east to Nova Scotia
 
 Cuman ragweed grows in grasslands, savannas, and woodlands across North America. In addition to occurring in its native settings (such as dry prairies, blowouts, washouts, sandy woods, meadows, and hills), Cuman ragweed is a widespread weed in waste places, roadsides, railroads, overgrazed rangeland, and other disturbed places [41,75,99,107,126].
 
-![A bunch of grassy plants with yellowish tops growing in an open, grassy habitat with some brown dead grasses in the foreground and a stream behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ambpsi_habitat.jpg)
+![A bunch of grassy plants with yellowish tops growing in an open, grassy habitat with some brown dead grasses in the foreground and a stream behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ambpsi_habitat.jpg?itok=ysNPtT_i)
 
 Photo Credit
 

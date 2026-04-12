@@ -36,7 +36,7 @@ Fryer, Janet L. 2010. _Prunus americana_ , American plum. In: Fire Effects Infor
 
 ## Taxonomy
 
-![A photo of narrow branches with clusters of pales green leaves at twig ends and clusters of white flowers growing along branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruame_flowers2.jpeg)
+![A photo of narrow branches with clusters of pales green leaves at twig ends and clusters of white flowers growing along branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-pruame_flowers2.jpeg?itok=xPwgByGL)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ American plum has good cold tolerance [152] but cannot withstand prolonged droug
 
 ## Plant Communities
 
-![A photo of small trees or large shrubs growing with dense, intertwined branches, some with green leaves and white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruame_habitat.jpg)
+![A photo of small trees or large shrubs growing with dense, intertwined branches, some with green leaves and white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-pruame_habitat.jpg?itok=aVOTydxL)
 
 Photo Credit
 
@@ -153,7 +153,7 @@ Vegetation classifications listing American plum as a dominant species are liste
 
 ## Botanical Description
 
-![A photo of white flowers, with several growing in each cluster, with a few pale green leaves visible but the stem nearly entirely obscured by flowers. A single bee is pollinating a flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruame_flowers.jpg)
+![A photo of white flowers, with several growing in each cluster, with a few pale green leaves visible but the stem nearly entirely obscured by flowers. A single bee is pollinating a flower.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-pruame_flowers.jpg)
 
 Photo Credit
 
@@ -167,7 +167,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 American plum's form is usually shrubby [70,186,187], but it may grow as a small tree. It ranges from 3.3 to 33 feet (1-10 m) tall [69,90,157,165] tall. It is likely to grow tallest and assume tree form in its southern distribution [76]. American plum usually grows as a small, single-stemmed tree in southern Alabama, Georgia, and Florida [53]. American plum trees have short, crooked trunks with stiff lateral branches that form wide, flat-topped, irregular crowns [70]. Tree trunks may reach 12 inches (30 cm) in diameter [70]. Crowns are spreading [37]. The national champion tree is 18 feet (5.5 m) tall, 3.8 feet (1.1 m) in diameter, and 18 feet in spread; it grows in Fairfax County, Virginia [5]. American plum wood is moderately heavy and hard [46,70,104]. Bark is "moderately" thick [115]. Some to all [31,33,58] branches are spurred [31,69,114,187], becoming more so with age [46]. Bottom branches typically grow low to the ground [46]. American plum is commonly infected with a fungus that produces black swellings on the twigs [186]. Root structure is not well known for American plum [117]. A few researchers found American plum had shallow [90,117,159], spreading [159] roots. A root-profile study of clay prairie soils in Fargo, North Dakota, found most American plum roots were in the 1st foot (0.3 m, 40% of roots) or 2nd foot (0.6 m; 33% of roots) of soil. Maximum root depth was 6 feet (2 m) [195]. A 15-year-old shrub in eastern Nebraska had roots extending 2.5 feet (0.8 m) deep. Lateral roots ranged from 2.5 to 11 feet (3 m) long [159].
 
-![A photo of several plums growing from short stems along a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruame_fruit.jpg)
+![A photo of several plums growing from short stems along a branch.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-pruame_fruit.jpg)
 
 Photo Credit
 

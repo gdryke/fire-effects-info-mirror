@@ -36,7 +36,7 @@ Gucker, Corey L. 2012. _Cornus canadensis_ , bunchberry dogwood. In: Fire Effect
 
 ## Taxonomy
 
-![Photo of a cluster of small, leafy green plants with white, four-petaled flowers at the end of each of 4 stems.]({{ site.baseurl }}/assets/images/species-reviews/corcan_feis-CORCAN_flower1.jpg)
+![Photo of a cluster of small, leafy green plants with white, four-petaled flowers at the end of each of 4 stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-CORCAN_flower1.jpg?itok=E8kZgCZI)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ bunchberry, Canadian dwarf cornel, dwarf dogwood
 
 ## Distribution
 
-![Photo of North American map distribution of bunchberry dogwood.]({{ site.baseurl }}/assets/images/species-reviews/feis-corcan_map.png)
+![Photo of North American map distribution of bunchberry dogwood.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-corcan_map.png?itok=3798yg5B)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground Description
 
-![Photo of multiple bunchberry dogwood plants on forest floor.]({{ site.baseurl }}/assets/images/species-reviews/feis-corcan_flowers.jpg)
+![Photo of multiple bunchberry dogwood plants on forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-corcan_flowers.jpg?itok=-GV2f0JQ)
 
 Photo Credit
 
@@ -208,7 +208,7 @@ Most bunchberry dogwood rhizomes and roots occur 1.6 to 5 inches (4-13 cm) deep.
 
 ## Seasonal Development
 
-![Photo of bunchberry dogwood with red fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-corcan_fruit.jpg)
+![Photo of bunchberry dogwood with red fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-corcan_fruit.jpg?itok=8VsUULbJ)
 
 Photo Credit
 
@@ -234,7 +234,7 @@ Bunchberry dogwood flowers are equipped with an appendage that explosively relea
 
 ### Seed Production
 
-![Overhead photo of a cluster of low-growing plants with a few small clusters of small red fruits. The leaves are beginning to turn from green to reddish brown.]({{ site.baseurl }}/assets/images/species-reviews/corcan_feis-CORCAN_fruit1.jpg)
+![Overhead photo of a cluster of low-growing plants with a few small clusters of small red fruits. The leaves are beginning to turn from green to reddish brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-CORCAN_fruit1.jpg?itok=Q5UMMA0v)
 
 Photo Credit
 
@@ -303,7 +303,7 @@ Bunchberry dogwood tolerates the range of conditions present from early to late 
 
 ### Shade Relationships
 
-![Photo of the understory of a very shady forest showing a low-growing, green-leaved plant with small clusters of red fruits covering most of the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/corcan_feis-CORCAN_habitat1.jpg)
+![Photo of the understory of a very shady forest showing a low-growing, green-leaved plant with small clusters of red fruits covering most of the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-CORCAN_habitat1.jpg?itok=xvABd0gr)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Reeves, Sonja L. 2006. _Eurybia macrophylla_ , bigleaf aster. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of bigleaf aster in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-eurmac_plant.jpg) Bigleaf aster. _Photo by Marj H., iNaturalist.org, no rights reserved._
+![Photo of bigleaf aster in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-eurmac_plant.jpg) Bigleaf aster. _Photo by Marj H., iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Marj H., iNaturalist.org, no rights reserved.
 
@@ -107,7 +107,7 @@ Kittredge [56] states that bigleaf aster is so ubiquitous among aspen (_Populus_
 
 ## Botanical Description
 
-![Photo of bigleaf aster in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-eurmac_plant.jpg)
+![Photo of bigleaf aster in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-eurmac_plant.jpg?itok=jMSiClGu)
 
 Photo Credit
 

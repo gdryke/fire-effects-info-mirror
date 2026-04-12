@@ -62,7 +62,7 @@ Monterey cypress occurs in two natural stands in Monterey County, California. On
 
 ## Site Characteristics
 
-![A landscape photo of a rocky coastal cliff, with conifers along the top and on the cliffs. Some of the conifers are upright, others are short and crooked.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesmac_coast.jpg)
+![A landscape photo of a rocky coastal cliff, with conifers along the top and on the cliffs. Some of the conifers are upright, others are short and crooked.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesmac_coast.jpg?itok=sx-X2kyC)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Species not previously mentioned but commonly associated with Monterey cypress i
 
 ## Botanical and Ecological Characteristics
 
-![A photo of a stand of tall conifer trees with branches only in the canopy. The ground is bare brown soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesmac_tallstand.jpg)
+![A photo of a stand of tall conifer trees with branches only in the canopy. The ground is bare brown soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesmac_tallstand.jpg?itok=deaZMnlS)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ In California, growth and development of Monterey cypress cones begins in Januar
 
 Monterey cypress reproduces exclusively from seed. Cone production is abundant. Staminate cone production begins on trees that are 6 to 7 years old [34]. Ovulate cone production begins on trees that are less than 10 years of age [5]. The cones require 2 years to mature [2,33] and can contain 140 seeds [14]. The cones of Monterey cypress remain closed for only a few years after maturity; seed dispersal is a continuous process and can occur without fire [20,35]. Seeds maintain viability for up to 4 years on trees [5]. Seed dispersal is primarily by wind and rain [8,33].
 
-![A close up photo of a cluster of small, round, tan cones on a conifer tree. Some of the cones are open, and some are closed.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesmac_cones.jpeg)
+![A close up photo of a cluster of small, round, tan cones on a conifer tree. Some of the cones are open, and some are closed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesmac_cones.jpeg?itok=EFOljtNB)
 
 Photo Credit
 

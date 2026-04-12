@@ -62,7 +62,7 @@ Meadow hawkweed tolerates a range of site characteristics. It appears to have so
 
 A summary of invasive hawkweeds reports that sites in the Pacific Northwest most vulnerable to their establishment are disturbed areas, including roadsides, mountain meadows, clearings in forest zones, cleared timber units, permanent pastures, hayfields, and abandoned farmland at elevations of 2,100 to 5,400 feet (600-1,600 m) [22]. Floras report meadow hawkweed in disturbed areas [28] including fields [31,63,83,98,112,120], meadows [112], pastures [31,83,92], clearings [92,112], roadsides [31,63,83,98,112,120] and "waste" places [63,98,112]. Floras also report meadow hawkweed establishing in dry woods [31,112], dry woodland edges [39], "thin woodlands" [83], and streamsides [28]. See Habitat Types and Plant Communities for detailed descriptions of native plant communities where meadow hawkweed occurs.
 
-![A photo of a cluster of plants with yellow flowers growing in a meadow-type area.]({{ site.baseurl }}/assets/images/species-reviews/feis-hiecae_habitat.jpg)
+![A photo of a cluster of plants with yellow flowers growing in a meadow-type area.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-hiecae_habitat.jpg?itok=jXyJ-vSJ)
 
 Photo Credit
 
@@ -153,7 +153,7 @@ Meadow hawkweed establishes in coniferous forests in both eastern and western No
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [31,63,83,92,98,112,120]).
 
-![A close up photo of a plant's bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-hiecae_flowers.jpg)
+![A close up photo of a plant's bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-hiecae_flowers.jpg?itok=2JzwOvOf)
 
 Photo Credit
 
@@ -367,7 +367,7 @@ Exudates from invasive hawkweed leaves or stems may cause congestive and respira
 
 ## Impacts
 
-![A photo of a row of plants with yellow flowers growing along a roadside.]({{ site.baseurl }}/assets/images/species-reviews/feis-hiecae_roadside.jpeg)
+![A photo of a row of plants with yellow flowers growing along a roadside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-hiecae_roadside.jpeg?itok=mOEAv3B1)
 
 Photo Credit
 

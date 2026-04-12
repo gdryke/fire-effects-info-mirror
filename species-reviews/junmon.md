@@ -36,7 +36,7 @@ Johnson, Kathleen A. 2002. _Juniperus monosperma_ , oneseed juniper. In: Fire Ef
 
 ## Taxonomy
 
-![Photo of oneseed juniper with berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-junmon_branch.jpeg)
+![Photo of oneseed juniper with berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-junmon_branch.jpeg?itok=BOo4Im3_)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Oneseed juniper is an indicator in a number of pinyon-juniper shrubland and dese
 
 ## Botanical Description
 
-![Photo of oneseed juniper tree growing in desert.]({{ site.baseurl }}/assets/images/species-reviews/feis-junmon_tree.jpeg)
+![Photo of oneseed juniper tree growing in desert.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-junmon_tree.jpeg?itok=9xaheoBq)
 
 Photo Credit
 

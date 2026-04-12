@@ -58,7 +58,7 @@ The occurrence of Thurber's fescue in South Carolina documented on the Plants Da
 
 Thurber's fescue generally occurs at high elevations. It occupies many topographic conditions and typically occurs in loamy soil. The climate at sites where Thurber's fescue dominates the understory is cool and often relatively dry.
 
-[![A photo of several bunchgrasses growing on the rocky side of a trail, with the ground sloping away below to a steep meadow with conifers below.]({{ site.baseurl }}/assets/images/species-reviews/feis-festhu_habitat1.jpg)Photo Credit Photo by Peggy Lyon, iNaturalist.org, (CC BY-NC 4.0). Thurber's fescue growing in San Juan County, Colorado.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of several bunchgrasses growing on the rocky side of a trail, with the ground sloping away below to a steep meadow with conifers below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-festhu_habitat1.jpg?itok=xl9Me0NK)Photo Credit Photo by Peggy Lyon, iNaturalist.org, (CC BY-NC 4.0). Thurber's fescue growing in San Juan County, Colorado.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Elevation
 
@@ -138,7 +138,7 @@ Moisture levels may also influence flowering and timing of development. Thurber'
 
 Thurber's fescue is a major component of an extensive mosaic of grassland communities interspersed within open forests [16,69]. Open parks, dry meadows, open slopes, and broad, rounded ridgetops dominated by Thurber's fescue [10,39,104,113] are often intermixed with forests where Thurber's fescue is an understory indicator [16,69,77]. These forests or woodlands include those dominated by quaking aspen (_Populus tremuloides_) [9,16,40,46,54,74,75,80,111], Rocky Mountain bristlecone pine (_Pinus aristata_) [24,54,61,69,96], or Engelmann spruce (_Picea engelmannii_) [9,23]. Mountain big sagebrush (_Artemisia tridentata_ subsp. _vaseyana_)-Thurber's fescue shrublands also occur in forest openings and areas adjacent to upland forests [100,111]. Thurber's fescue occurs as an understory indicator in shrublands dominated by silver sagebrush (_Artemisia cana_) on alluvial floodplains in Colorado [9,32,100]. Baker [9] includes mountain snowberry (_Symphoricarpos oreophilus_)-Thurber's fescue shrubland in a preliminary classification of the vegetation of Colorado. Herbaceous species associated with Thurber's fescue in several woodland, shrubland and herbaceous communities include Idaho fescue [41,53,102], Arizona fescue (_F. arizonica_) [1,25,70], elk sedge (_Carex geyeri_) [41,46,54,68], and aspen peavine (_Lathyrus lanszwertii_ var. _arizonicus_) [41,54,60,68,80,100].
 
-![A photo of an open stand of aspen trees, with some conifers visible in the background, and a grassy understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-festhu_community.jpg)
+![A photo of an open stand of aspen trees, with some conifers visible in the background, and a grassy understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-festhu_community.jpg?itok=7KUqM4fC)
 
 Photo Credit
 
@@ -189,7 +189,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Thurber's fescue is a densely tufted [10,21,48,113], cool-season [76], perennial [21,36,38,64,113] bunchgrass [48,98,104]. Its culms are 15.8 to 47 inches (40-120 cm) tall [10,21,64,113] and stout [76,104,113]. According to a flora of the Intermountain West, Thurber's fescue "tufts" are 12 to 18 inches (30-45 cm) tall [21]. A Wyoming [36] and 2 Colorado floras [38,39] state that Thurber's fescue leaves are typically less than 2 mm wide and 2 to 8 inches (6-20 cm) long. A key to New Mexico Festuca includes Thurber's fescue plant heights up to 59 inches (150 cm) and describes leaf blades as 10 to 18 inches (25-45 cm) long [4]. Leaves are mostly basal [21] and are generally involute [21,36,64,76,113]. Thurber's fescue has elongated ligules, often 2 to 6 mm long [36,38,39,64], and occasionally up to 9 mm long [4,10,21,113]. Sheaths [4,10,21,113] and flower stalks [21] are persistent. Flowers are arranged in a panicle that is 3.2 to 6.7 inches (8-17 cm) long [4,21,113]. Spikelets are 0.3 to 0.6 inch (0.8 to 1.4 cm) long and have 3 to 6 flowers [10,21,113]. Awns on lemmas are minute [4,21,113] or absent [4,64,104,113].
 
-![A photo of a bunchgrass surrounded by other low grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-festhu_bunch.jpg)
+![A photo of a bunchgrass surrounded by other low grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-festhu_bunch.jpg?itok=LBlEl7Lf)
 
 Photo Credit
 

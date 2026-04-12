@@ -36,7 +36,7 @@ Gucker, Corey L. 2009. _Berberis vulgaris_ , common barberry. In: Fire Effects I
 
 ## Taxonomy
 
-![A photo of a large, dense bush with bunches of red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-bervul_whole_plant.jpg)
+![A photo of a large, dense bush with bunches of red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-bervul_whole_plant.jpg?itok=otY_vRBO)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ In the north-central United States, common barberry often invades prairies and s
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [27,29,79,84]).
 
-![A close-up photo of the stem of common barberry, with pale and darker brown striations and "T"-shaped thorns at nodes.]({{ site.baseurl }}/assets/images/species-reviews/feis-bervul_spines.jpg)
+![A close-up photo of the stem of common barberry, with pale and darker brown striations and "T"-shaped thorns at nodes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-bervul_spines.jpg?itok=9ceJXmMf)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Common barberry is a deciduous shrub that may reach 10 feet (3 m) tall [27,79]. 
 
 Common barberry produces simple, alternate leaves that are often clustered on the stem [17,77]. Lance-shaped or egg-shaped leaves measure 0.4 to 2.2 inches (1-5.5 cm) long and are widest at or just above middle. Leaf margins are finely serrate with 8 to 30 spiny teeth [27,49,65,76,79]. Common barberry flowers occur in a drooping 0.8- to 2.4-inch (2-6 cm) long raceme. Inflorescences are typically comprised of 10 to 20 flowers [27,79]. Individual flowers are up to 8 mm across, with 6 petals and 6 stamens [81,84]. Stamens are contact-sensitive and "spring violently" against the stigma when touched [2]. Common barberry fruits are egg-shaped, 1- to 3-seeded berries that measure up to 0.5 inch (12 mm) long [24,35,77]. In the Tullgarn area of Sweden, fruits averaged 4.1 mm in diameter, 0.09 g when fresh, and produced an average of 1.3 seeds/fruit [26]. On Spain's Iberian Peninsula, common barberry averaged 1.6 seeds/fruit [36,37]. Common barberry seeds are about 6 mm long [77].
 
-![A photo of a common barberry stem with bunches of yellow flowers occurring along the terminal portion of the branch with clusters of egg-shaped leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-bervul_flowers.jpg)
+![A photo of a common barberry stem with bunches of yellow flowers occurring along the terminal portion of the branch with clusters of egg-shaped leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-bervul_flowers.jpg?itok=cyZV-mwC)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Photo ©2004 Dr. Amadej Trnkoczy.
 
 Common barberry flowers.
 
-![A photo of a shrub with dense, layered stems with clusters of green leaves and red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-bervul_fruit.jpg)
+![A photo of a shrub with dense, layered stems with clusters of green leaves and red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-bervul_fruit.jpg?itok=_UqmRvTg)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ In North America and western Europe, common barberry flowers are common in May o
 
 ## Regeneration Processes
 
-![A photo of narrow, woody stems with tight bunches of somewhat egg-shaped leaves with tiny serrations. Bunches of small, yellow flowers hang from the ends of short stems growing from the main stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-bervul_hero.jpg)
+![A photo of narrow, woody stems with tight bunches of somewhat egg-shaped leaves with tiny serrations. Bunches of small, yellow flowers hang from the ends of short stems growing from the main stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-bervul_hero.jpg?itok=aETjRTJ_)
 
 Photo Credit
 

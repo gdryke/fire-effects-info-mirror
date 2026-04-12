@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific Northwest riparian communities has 
 
 ## Distribution
 
-![A map showing the distribution of Pacific Northwest riparian communities in Washington, Oregon, and northern California.]({{ site.baseurl }}/assets/images/fire-regimes/pacific-northwest-riparian_feis-pacific_northwest_riparian_locator.jpg)
+![A map showing the distribution of Pacific Northwest riparian communities in Washington, Oregon, and northern California.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_northwest_riparian_locator.jpg?itok=T8j1qbrp)
 
 Photo Credit
 

@@ -26,7 +26,7 @@ Murphy, Shannon K.; Fryer, Janet L. 2019. Fire regimes of juniper communities in
 
 ## Summary
 
-![A photo taken from a helicopter of a fire burning in a juniper woodland with a shrubby understory. Charred shrubs are visible, as are the bright orange flames of the fire front.]({{ site.baseurl }}/assets/images/fire-regimes/feis-columbia-and-northern-great-basin-juniper_buckbuttefire.jpg)
+![A photo taken from a helicopter of a fire burning in a juniper woodland with a shrubby understory. Charred shrubs are visible, as are the bright orange flames of the fire front.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin-juniper_buckbuttefire.jpg?itok=xEPuzVge)
 
 Photo Credit
 
@@ -54,7 +54,7 @@ Except when historical time frames are specifically provided in this synthesis, 
 
 Juniper Biophysical Settings in the Columbia and northern Great basins
 
-![A map of a portion of the western U.S. Western Oregon, southern Idaho, Northern Nevada, and small portions of neighboring states haves shading and outlines of juniper woodland types.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basinFig2Map.jpg)
+![A map of a portion of the western U.S. Western Oregon, southern Idaho, Northern Nevada, and small portions of neighboring states haves shading and outlines of juniper woodland types.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-07/feis-columbia-and-northern-great-basinFig2Map.jpg?itok=8zl_mwWJ)
 
 Photo Credit
 
@@ -182,7 +182,7 @@ By phase III, shrub cover is typically <1% on dry sites with sagebrush and ≤5%
 
  * Phase IV: Juniper dominates, shrubs are few (<10% cover) or dead, and cover of native herbs is scarce [109, 117]. Cheatgrass may dominate groundlayer vegetation.
 
-![A photo of a hillside with relatively dense cover of sagebrush shrubs and a few emergent young conifers.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_phase1.jpg)
+![A photo of a hillside with relatively dense cover of sagebrush shrubs and a few emergent young conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin_phase1.jpg?itok=usMFfoRB)
 
 Photo Credit
 
@@ -190,7 +190,7 @@ Photo by Janet Fryer, USDA Forest Service.
 
 Figure 3a—Phase I. A big sagebrush community in Deschutes County, Oregon. Cover is mostly mountain big sagebrush with scattered western juniper seedlings and saplings.
 
-![A photo of a hillside nearly entirely covered by sagebrush with multiple ages of junipers growing on the hill.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_phase2.jpg)
+![A photo of a hillside nearly entirely covered by sagebrush with multiple ages of junipers growing on the hill.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin_phase2.jpg?itok=olnBT-sY)
 
 Photo Credit
 
@@ -198,7 +198,7 @@ Photo by Todd Forbes. USDI, Bureau of Land Management.
 
 Figure 3b—Phase II. A mountain big sagebrush-western juniper woodland transitional community near Lakeview, Oregon. Cover is about an even mix of sagebrush and juniper.
 
-![A photo of a stand of conifers with a bunchgrass-dominated understory and a few mature sagebrush shrubs with partially dead canopies.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_phase3.jpg)
+![A photo of a stand of conifers with a bunchgrass-dominated understory and a few mature sagebrush shrubs with partially dead canopies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin_phase3.jpg?itok=Sqa4cU9w)
 
 Photo Credit
 
@@ -206,7 +206,7 @@ USDA, Agricultural Research Service.
 
 Figure 3c—Phase III. A western juniper-mountain big sagebrush woodland on Steens Mt., Oregon. Sagebrush cover is in decline.
 
-![A photo of a stand of mature, shrubby conifers with a grassy understory.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_phase4.jpg)
+![A photo of a stand of mature, shrubby conifers with a grassy understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin_phase4.jpg?itok=AIJuZ624)
 
 Photo Credit
 
@@ -216,7 +216,7 @@ Figure 3d—Phase IV. A western juniper/cheatgrass-bluebunch wheatgrass woodland
 
 A model to estimate the time needed for mountain big sagebrush communities to transition from initial western juniper establishment to late-seral woodland along elevational and aspect gradients is shown in figure 4 [67, 104].
 
-![A model with canopy cover \(%\) and tree/ha on y axes and years on x-axis. The peak of the graphed triangle is max tree density and canopy cover at about 110 years.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_model.jpg)
+![A model with canopy cover \(%\) and tree/ha on y axes and years on x-axis. The peak of the graphed triangle is max tree density and canopy cover at about 110 years.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-07/feis-columbia-and-northern-great-basin_model.jpg?itok=jvuQplA4)
 
 Photo Credit
 
@@ -302,7 +302,7 @@ Estimates for historical fire intervals in mountain big sagebrush steppes succee
 
 Results of fire history studies in western juniper woodlands, savannas, and woodland transitional communities are summarized in table A3. Details of studies in woodlands and savannas are discussed below by region.
 
-![A map of a portion of the northwestern U.S. showing juniper habitats shaded in blue and green, with red dots marking studies in northern California, central Oregon, and southwestern Idaho.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_locations_fig5.jpg)
+![A map of a portion of the northwestern U.S. showing juniper habitats shaded in blue and green, with red dots marking studies in northern California, central Oregon, and southwestern Idaho.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin_locations_fig5.jpg?itok=q6guE6wi)
 
 Figure 5—Locations of fire scar records for studies conducted in juniper communities of the Columbia and northern Great basins. See table A3 and discussions that follow for study details. Some site locations are approximate, based on study descriptions.
 
@@ -404,7 +404,7 @@ Data from an unpublished (as of 2019) paleoecological study near Bend, Oregon, s
 
 Junipers commonly establish and spread in overgrazed steppe vegetation [92]. Their expansion is associated with heavy livestock grazing and a corresponding decrease in bunchgrasses [121, 171] in the late 1800s [107, 112, 116]. In the Columbia Basin, western juniper expansion into steppes often occurs on alluvial soils with a history of livestock grazing and/or fire exclusion [121].
 
-![A line graph with year on the x-axis and % establishment on the y-axis, with livestock introduction labeled around 1870 and fire suppression labeled around 1910. A sharp increase in establishment starts around 1875.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-northern-great-basin_livestockfire.jpg)
+![A line graph with year on the x-axis and % establishment on the y-axis, with livestock introduction labeled around 1870 and fire suppression labeled around 1910. A sharp increase in establishment starts around 1875.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-northern-great-basin_livestockfire.jpg?itok=0pIpUjgJ)
 
 Photo Credit
 
@@ -457,7 +457,7 @@ Restoration in juniper-encroached communities has focused primarily on reducing 
 
 Most fire history studies in juniper communities of the Columbia and northern Great basins have been conducted in western juniper communities. Fire history studies of Utah juniper and Rocky Mountain juniper communities were lacking for these regions.
 
-![A photo of a burning juniper with one side of the tree aflame. Blackened vegetation is in the foreground.]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia-and-great-basins_junostfire.jpg)
+![A photo of a burning juniper with one side of the tree aflame. Blackened vegetation is in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-columbia-and-great-basins_junostfire.jpg?itok=BfWByWZj)
 
 Photo Credit
 
@@ -562,13 +562,13 @@ tall tumblemustard| _Sisymbrium altissimum_
 
 Thumbnail
 
-[![feis-columbia_gb_juniper_tablea2.pdf]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia_gb_juniper_tablea2.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-07/feis-columbia_gb_juniper_tablea2.pdf>)
+[![feis-columbia_gb_juniper_tablea2.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-07/feis-columbia_gb_juniper_tablea2.pdf-p1.jpg?itok=DpA3B-wv)](<https://research.fs.usda.gov/sites/default/files/2025-07/feis-columbia_gb_juniper_tablea2.pdf>)
 
 ## Table A3—Summary of fire frequencies from fire history studies.
 
 Thumbnail
 
-[![feis-columbia_gb_juniper_tablea3.pdf]({{ site.baseurl }}/assets/images/fire-regimes/columbia-and-northern-great-basin-juniper_feis-columbia_gb_juniper_tablea3.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-07/feis-columbia_gb_juniper_tablea3.pdf>)
+[![feis-columbia_gb_juniper_tablea3.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-07/feis-columbia_gb_juniper_tablea3.pdf-p1.jpg?itok=-VXvgJtk)](<https://research.fs.usda.gov/sites/default/files/2025-07/feis-columbia_gb_juniper_tablea3.pdf>)
 
 ## References
 

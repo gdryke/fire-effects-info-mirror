@@ -56,7 +56,7 @@ Desert apricot occurs in Riverside and San Diego counties, California [6,7].
 
  * United States: CA
 
-![A photo of a desert landscape with one large, round shrub covered in white flowers in the foreground. Part of a cactus is visible, and some grasses and small dry shrubs are nearby. The background is blue sky and low desert hills.]({{ site.baseurl }}/assets/images/species-reviews/feis-prufre_habitat.jpg)
+![A photo of a desert landscape with one large, round shrub covered in white flowers in the foreground. Part of a cactus is visible, and some grasses and small dry shrubs are nearby. The background is blue sky and low desert hills.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-prufre_habitat.jpg?itok=ObfiDpBg)
 
 Photo Credit
 
@@ -76,7 +76,7 @@ Common plant associates of desert apricot include chaparral currant (_Ribes malv
 
 ## Botanical Description
 
-![A close up photo of a shrub's round, pink-to-green fruits, pale grey spiky stems, and small green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-prufre_fruit.jpeg)
+![A close up photo of a shrub's round, pink-to-green fruits, pale grey spiky stems, and small green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-prufre_fruit.jpeg?itok=xvzd3qq8)
 
 Photo Credit
 

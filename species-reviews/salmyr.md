@@ -85,7 +85,7 @@ Frequent associates include bog birch (_Betula glandulosa_), alder (_Alnus_ spp.
 
 ## Botanical Description
 
-![Photo of blueberry willow.]({{ site.baseurl }}/assets/images/species-reviews/feis-salmyr_plant_0.jpg)
+![Photo of blueberry willow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-salmyr_plant_0.jpg?itok=9aaiZXbn)
 
 Photo Credit
 

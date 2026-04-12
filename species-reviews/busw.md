@@ -38,7 +38,7 @@ Tesky, Julie L. 1994. _Buteo swainsoni_ , Swainson's hawk. In: Fire Effects Info
 
 The currently accepted scientific name for the Swainson's hawk is _Buteo swainsoni_ Bonaparte [1]. There are no recognized subspecies or races.
 
-![A Swainson's hawk perched on a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-busw_bird.jpg)
+![A Swainson's hawk perched on a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-busw_bird.jpg?itok=Y9WtrVq0)
 
 Photo Credit
 

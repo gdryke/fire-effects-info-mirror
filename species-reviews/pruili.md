@@ -34,7 +34,7 @@ McMurray, Nancy E. 1990. _Prunus ilicifolia,_ hollyleaf cherry. In: Fire Effects
 
 ## Image Gallery
 
-![A close up photo of a branch with wide green leaves with serrated edges, and yellow-to-red round fruits hanging from the branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruili_fruit.jpg) Hollyleaf cherry with fruit in Los Angeles County, CA. _Photo by Heather Dawnstar Sabin, iNaturalist.org_
+![A close up photo of a branch with wide green leaves with serrated edges, and yellow-to-red round fruits hanging from the branch.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-pruili_fruit.jpg) Hollyleaf cherry with fruit in Los Angeles County, CA. _Photo by Heather Dawnstar Sabin, iNaturalist.org_
 
 Photo Credit: Photo by Heather Dawnstar Sabin, iNaturalist.org
 
@@ -86,7 +86,7 @@ Common associates within scrub oak chaparral include birchleaf mountain-mahogany
 
 ## Botanical Description
 
-![A close up photo of a branch with wide green leaves with serrated edges, and yellow-to-red round fruits hanging from the branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruili_fruit.jpg)
+![A close up photo of a branch with wide green leaves with serrated edges, and yellow-to-red round fruits hanging from the branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-pruili_fruit.jpg?itok=oPZGPxXu)
 
 Photo Credit
 

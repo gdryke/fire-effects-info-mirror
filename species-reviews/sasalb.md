@@ -64,7 +64,7 @@ Sassafras occurs from southwestern Maine west to extreme southern Ontario and ce
 
 ## Site Characteristics
 
-![A photo of a small tree with reddish, lobed leaves growing on the edge of a rocky cliff, in front of a wide vista of rolling green mountains. There is a conifer tree growing nearby, and some small shrubs around the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-sasalb_habitat.jpg)
+![A photo of a small tree with reddish, lobed leaves growing on the edge of a rocky cliff, in front of a wide vista of rolling green mountains. There is a conifer tree growing nearby, and some small shrubs around the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sasalb_habitat.jpg?itok=79qjZnBf)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Sassafras is a native, deciduous, aromatic tree or large shrub, with a flattened
 
  * Phanerophyte
 
-![A photo of a forest floor covered in dead leaves, with many tree seedlings growing all over the ground, with green to yellow lobed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-sasalb_regen.jpeg)
+![A photo of a forest floor covered in dead leaves, with many tree seedlings growing all over the ground, with green to yellow lobed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sasalb_regen.jpeg?itok=vRc9_Q5Q)
 
 Photo Credit
 

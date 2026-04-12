@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for California cypress communities has not yet 
 
 ## Distribution
 
-![A map showing the distribution of California cypress communities in California and a small area of western Nevada.]({{ site.baseurl }}/assets/images/fire-regimes/california-cypress_feis-california_cypress_locator.jpg)
+![A map showing the distribution of California cypress communities in California and a small area of western Nevada.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-california_cypress_locator.jpg?itok=5BFhPsQ3)
 
 Photo Credit
 

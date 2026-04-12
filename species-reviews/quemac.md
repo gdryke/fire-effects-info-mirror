@@ -36,7 +36,7 @@ Gucker, Corey L. 2011. _Quercus macrocarpa_ , bur oak. In: Fire Effects Informat
 
 ## Taxonomy
 
-![A photo of an open woodland with deciduous trees with bright yellow leaves over a grass-dominated understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_fallsavanna.jpg)
+![A photo of an open woodland with deciduous trees with bright yellow leaves over a grass-dominated understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_fallsavanna.jpg?itok=1oom7q5v)
 
 Photo Credit
 
@@ -76,7 +76,7 @@ mossy-cup oak, prairie oak
 
 ## General Distribution
 
-![A map of the United States and Canada, with the eastern part of the Great Plains and the Midwest highlighted bright green, extending into immediately adjacent southern Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_distribution.jpg)
+![A map of the United States and Canada, with the eastern part of the Great Plains and the Midwest highlighted bright green, extending into immediately adjacent southern Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_distribution.jpg?itok=i7OMsv0B)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground Description
 
-![A photo of a large deciduous tree with thick, furrowed bark and large, low, spreading branches and green leaves. A carpet of grass covers the ground and more deciduous trees are visible across an open field in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_bigtree.jpeg)
+![A photo of a large deciduous tree with thick, furrowed bark and large, low, spreading branches and green leaves. A carpet of grass covers the ground and more deciduous trees are visible across an open field in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_bigtree.jpeg?itok=OhuLL2bR)
 
 Photo Credit
 
@@ -217,7 +217,7 @@ Another study suggests that gene flow may have decreased in the last 100 years f
 
 ### Seed Production
 
-![A photo of a branch with an acorn growing at the tip and dark green, undulating leaves growing from the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_leavesfruit.jpg)
+![A photo of a branch with an acorn growing at the tip and dark green, undulating leaves growing from the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_leavesfruit.jpg?itok=ImXSffGe)
 
 Photo Credit
 
@@ -395,7 +395,7 @@ Based on prescribed fire studies in the Cedar Creek Natural Area and a review of
 
 Bur oak is well adapted to survive fire, and frequent fires are necessary for bur oak persistence in many habitats. Because the thick bark of mature bur oak trees insulates their cambium from high temperatures [8,239], mature trees rarely suffer any fire damage [5,30]. Young bur oak trees are typically only top-killed by fire [66,219,221]. Once bur oak trees reach 12 to 15 years old, they can survive repeated burning [53].
 
-![A close-up photo of thick, furrowed bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_bark.jpg)
+![A close-up photo of thick, furrowed bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_bark.jpg?itok=IK-otkhG)
 
 Photo Credit
 
@@ -445,7 +445,7 @@ Because the combination of factors most conducive to bur oak seedling establishm
 
 Several characteristics of oak litter and woody debris make them flammable and important to fire spread. In a controlled experiment, dried bur oak leaves produced temperatures of up to 700 °F (371 °C) [231]. Oak leaves are thick, rigid, and irregularly shaped, which allows for efficient drying and persistence in the litter layer [182]. Leaves curl as they dry and produce a "loose, porous" fuel bed, which can easily carry fire (review by [153]). Oak leaves typically remain curled after snow melt, which allows for drying early in the spring. The high phenolic content of oak leaves means slow decomposition rates, ensuring fuel longevity [182]. Burning oak leaves can also be blown ahead of a fire, potentially igniting spot fires and increasing fire size (review by [153]). When compared, the oak fuel bed is much more "conducive to burning" than that of other hardwoods, which produce thin leaves that stick to the forest floor, trap moisture, provide few air-drying pockets, and decompose rapidly. Woody debris produced by oaks resists decay and provides a long-lasting fuel. Woody debris from other hardwoods decays much more rapidly than that of oak [182].
 
-![A photo of an open woodland with leafless deciduous trees over a grassy understory. An understory fire is generating a low layer of smoke, and several individuals dressed in fire gear are watching the fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_prescribedfire.jpg)
+![A photo of an open woodland with leafless deciduous trees over a grassy understory. An understory fire is generating a low layer of smoke, and several individuals dressed in fire gear are watching the fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_prescribedfire.jpg?itok=rQkLPy9v)
 
 Photo Credit
 
@@ -497,7 +497,7 @@ See the Fire Regime Table (table A1) for more information on fire regimes of veg
 
 ## Fire Management Considerations
 
-![A photo of an open woodland with leafless deciduous trees and a grassy understory. Five individuals dressed in fire gear are spaced throughout the woodland and one of them is lighting a fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemac_burningsavanna.jpg)
+![A photo of an open woodland with leafless deciduous trees and a grassy understory. Five individuals dressed in fire gear are spaced throughout the woodland and one of them is lighting a fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemac_burningsavanna.jpg?itok=K04APSEu)
 
 Photo Credit
 

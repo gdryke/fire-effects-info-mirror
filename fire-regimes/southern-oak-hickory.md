@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for southern oak-hickory communities has not ye
 
 ## Distribution
 
-![A map showing the distribution of southern oak-hickory communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/southern-oak-hickory_feis-southern_oak_hickory_locator.jpg)
+![A map showing the distribution of southern oak-hickory communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-southern_oak_hickory_locator.jpg?itok=S_k9hEPC)
 
 Photo Credit
 

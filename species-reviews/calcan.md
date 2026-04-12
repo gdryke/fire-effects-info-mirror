@@ -72,7 +72,7 @@ bluejoint reedgrass, meadow pinegrass, Canadian reedgrass, marsh pinegrass, mars
 
 Bluejoint is the most common and widespread Calamagrostis species in North America [38]. It occurs throughout the boreal and temperate regions. Bluejoint is common in the subarctic from Alaska to Quebec and extends south to all but the southeastern United States [16,17,38].
 
-![A map of U.S. states and Canadian provinces with all states and provinces highlighted green except AL, FL, LA, MS, OK, SC, and TX.]({{ site.baseurl }}/assets/images/species-reviews/feis-calcan_map.jpg)
+![A map of U.S. states and Canadian provinces with all states and provinces highlighted green except AL, FL, LA, MS, OK, SC, and TX.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-calcan_map.jpg?itok=4abs2qC5)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Distribution of bluejoint.
 
 Bluejoint occurs in a wide range of habitats from lowland wet sites, semi-shaded woodlands, to windswept alpine ridges [16,18]. It extends from sea level in the north and northwest to elevations of over 12,000 feet (3,658 m) near the southern limit of its range in New Mexico [18,38]. It prefers moist sites but can survive in a wide range of moisture regimes [16]. This grass, however, cannot germinate under drought conditions, although it is very drought resistant once established [16].
 
-![A field of green grasses with trees in the near distance and blue skies.]({{ site.baseurl }}/assets/images/species-reviews/calcan_calcan_plant.jpeg)
+![A field of green grasses with trees in the near distance and blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/calcan_plant.jpeg?itok=GFs2XFFc)
 
 Photo Credit
 
@@ -153,7 +153,7 @@ In general, bluejoint leaf and culm production occurs from early May to mid-June
 
 **Sexual Reproduction:** Bluejoint flowers are wind pollinated. Prolific flowering, however, occurs only in wetlands and recently disturbed sites [28]. The winged seeds are very lightweight and easily wind-borne [16,28]. Seed yields are low, but seed can remain viable in the soil for up to 5 years [6,16]. Seeds collected near Inuvik, Northwest Territories, had a germination rate of 90 percent at 68 degrees Fahrenheit (20 deg C). Seedling vigor was rated as moderate [3,16].
 
-![A close-up of two golden-colored grass heads, with out-of-focus green grasses in the background.]({{ site.baseurl }}/assets/images/species-reviews/calcan_calcan_seeds.jpeg)
+![A close-up of two golden-colored grass heads, with out-of-focus green grasses in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/calcan_seeds.jpeg?itok=z5pOPX4a)
 
 Photo Credit
 

@@ -61,7 +61,7 @@ Idaho fescue is one of the most common and widely distributed grasses in the wes
 
 Idaho fescue grows on many landforms, elevations, aspects, and soil types. It occurs at elevations from 990 feet (300 m) in Oregon to nearly 13,200 feet (4000 m) in Colorado [261]. It thrives in areas of 15 inches (380 mm) mean annual precipitation or greater [295], but is also found in areas with lower precipitation (7.3 inches (186 mm) at 1 site in Oregon). Idaho fescue has broad ecological amplitude and a wide range of productivity within and between habitat types in which it is a dominant species [205]. Because of its ubiquity, site characteristics are difficult to generalize. For example, Stubbendieck and others [261] report that Idaho fescue is most abundant on well-drained loams with a neutral to slightly alkaline pH, while other authors [73,130,140,223] report that it favors a slightly acid pH. In the northern Rocky Mountain region it is considered a species of the dry end of the moisture gradient, and in the southern Rockies it is a species of the moist end [75]. Since Idaho fescue occurs in a variety of ecosystems (grassland, sagebrush, forest, and alpine), it is probably most useful to look at site characteristics within each of these ecosystems.
 
-![A photo of a bunchgrass growing on a dry hillside with other forbs and grasses, with a few widely spaced conifers growing towards the top of the hill.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesida_habitat.jpeg)
+![A photo of a bunchgrass growing on a dry hillside with other forbs and grasses, with a few widely spaced conifers growing towards the top of the hill.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-fesida_habitat.jpeg?itok=7SZpbhrG)
 
 Photo Credit
 
@@ -164,7 +164,7 @@ Because of its wide ecological distribution, the number and type of secondary sp
 
 ## Botanical Description
 
-![A photo of many open panicles of a grass, with a field stretching behind and a few conifers to a left in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesida_panicle.jpg)
+![A photo of many open panicles of a grass, with a field stretching behind and a few conifers to a left in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-fesida_panicle.jpg?itok=Qh98rkvs)
 
 Photo Credit
 
@@ -227,7 +227,7 @@ Fire effects vary with condition and size of the plant, season and severity of f
 
 Idaho fescue is a small bunchgrass that can survive light-severity fires. It is usually harmed by more severe fire [35,52,253,309]. Fires burning at 10- to 25- year intervals have neutral to negative effects on Idaho fescue [2]. Rapid tillering occurs when root crowns are not killed and soil moisture is favorable [145,231]. Plants may re-establish from seed after fire if temperatures are low enough to allow for survival of seed [59,294].
 
-![A photo of a bunchgrass, with sagebrush and conifers dominating an open woodland behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesida_plant.jpg)
+![A photo of a bunchgrass, with sagebrush and conifers dominating an open woodland behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-fesida_plant.jpg?itok=Kt4c9IIJ)
 
 Photo Credit
 

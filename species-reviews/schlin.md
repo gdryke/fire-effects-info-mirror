@@ -34,7 +34,7 @@ Howard, Janet L. 2003. _Schoenocrambe linifolia_ , flaxleaf plainsmustard. In: F
 
 ## Introduction
 
-![A photo of the flowering top of a mustard.]({{ site.baseurl }}/assets/images/species-reviews/feis-schlin_flower.jpeg)
+![A photo of the flowering top of a mustard.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schlin_flower.jpeg?itok=vhSPUG7-)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ A few elevational ranges have been reported for flaxleaf plainsmustard:
 
 ## Plant Communities
 
-![A photo of an open pinyon-juniper woodland with forbs and sagebrush comprising a sparse understory. Several individuals of flaxleaf plainsmustard grow in an opening with upriht stems and clusters of yellow flowers at their tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-schlin_habitat.jpg)
+![A photo of an open pinyon-juniper woodland with forbs and sagebrush comprising a sparse understory. Several individuals of flaxleaf plainsmustard grow in an opening with upriht stems and clusters of yellow flowers at their tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schlin_habitat.jpg?itok=rtBmmRCV)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ On the Snake River Plain of southern Idaho, flaxleaf plainsmustard was the most 
 
 The following description of flaxleaf plainsmustard provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g. [19,34,37,38,66,67]).
 
-![A photo of several forbs with narrow green leaves and clusters of bright yellow flowers at the ends of their upright stems. A reddish cliff is visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-schlin_plant.jpg)
+![A photo of several forbs with narrow green leaves and clusters of bright yellow flowers at the ends of their upright stems. A reddish cliff is visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schlin_plant.jpg?itok=A51dWiHV)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Fire top-kills flaxleaf plainsmustard [51,72].
 
 Flaxleaf plainsmustard has adapted to fire by sprouting from the caudex and rhizomes after fire [51,72]. Postfire establishment from the seed bank is likely, but has not been documented in the literature.
 
-![A photo of forbs with bright yellow flowers growing in dense patches in the foreground and burned conifer trunks covering the slopes in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schlin_postfire.jpg)
+![A photo of forbs with bright yellow flowers growing in dense patches in the foreground and burned conifer trunks covering the slopes in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schlin_postfire.jpg?itok=2fBZBX2b)
 
 Photo Credit
 

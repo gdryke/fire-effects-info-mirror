@@ -34,7 +34,7 @@ Gucker, Corey L. 2008. _Frangula alnus_ , glossy buckthorn. In: Fire Effects Inf
 
 ## Introduction
 
-![Photo of glossy buckthorn branch with small white flowers and green, shinny leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraaln_hero.jpeg)
+![Photo of glossy buckthorn branch with small white flowers and green, shinny leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-fraaln_hero.jpeg?itok=l-yvXsUG)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Glossy buckthorn is often associated with disturbances. In central and western M
 
 ## Botanical Description
 
-![Photo of green, oval leaves and red and black berries on a woody branch tip.]({{ site.baseurl }}/assets/images/species-reviews/feis-fraaln_berries.jpeg)
+![Photo of green, oval leaves and red and black berries on a woody branch tip.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-fraaln_berries.jpeg?itok=0qyG6kNG)
 
 Photo Credit
 

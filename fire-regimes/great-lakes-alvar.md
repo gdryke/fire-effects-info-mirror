@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Lakes alvar communities has not yet b
 
 ## Distribution
 
-![A map showing the distribution of Great Lakes alvar communities in the northern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/great-lakes-alvar_feis-great_lakes_alvar_locator2.jpg)
+![A map showing the distribution of Great Lakes alvar communities in the northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-great_lakes_alvar_locator2.jpg?itok=QfxaxzCn)
 
 Photo Credit
 

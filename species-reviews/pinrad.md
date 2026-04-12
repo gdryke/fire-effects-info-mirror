@@ -74,7 +74,7 @@ Soils in which Monterey pine grows are often deep, sandy loams with a clay layer
 
 ## Plant Communities
 
-![A photo of a pine tree growing on a cliff over the ocean, with other conifers and shrubs growing nearby, and dry grass on the ground. ]({{ site.baseurl }}/assets/images/species-reviews/feis-pinrad_habitat.jpg)
+![A photo of a pine tree growing on a cliff over the ocean, with other conifers and shrubs growing nearby, and dry grass on the ground. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinrad_habitat.jpg?itok=FdCroyaO)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Associated trees not mentioned in Table A1 are Gowen cypress (Cupressus govenian
 
 ## Botanical Description
 
-![A photo of a pine tree's smooth trunk with four brown, open cones attached to the trunk. Thin branches come off the trunk with sparse bunches of needles. The background is blurry with more branches and needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinrad_cones.jpg)
+![A photo of a pine tree's smooth trunk with four brown, open cones attached to the trunk. Thin branches come off the trunk with sparse bunches of needles. The background is blurry with more branches and needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinrad_cones.jpg?itok=TwA4iT6F)
 
 Photo Credit
 

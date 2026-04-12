@@ -55,7 +55,7 @@ Ashe juniper, mountain cedar, rock cedar, Ozark white cedar, post cedar, Mexican
 
 ## General Distribution
 
-![A map of the south-central U.S. and northern Mexico with areas highlighted in green where Ashe's juniper occurs. Scattered locations in Texas and surrounding areas, including northern Mexico, are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-junash_map.jpg)
+![A map of the south-central U.S. and northern Mexico with areas highlighted in green where Ashe's juniper occurs. Scattered locations in Texas and surrounding areas, including northern Mexico, are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junash_map.jpg?itok=O-9mmtz5)
 
 Photo Credit
 
@@ -76,7 +76,7 @@ Historically, Ashe's juniper occurred only on rock outcrops or dissected upland 
 
 ## Plant Communities
 
-![A photo of a round, shrubby conifer tree growing out of chalky, white rock and mineral soil, hanging down toward a small pool of pale water that looks like a spring. The area is open with a few dry grasses and shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-junash_habitat.jpeg)
+![A photo of a round, shrubby conifer tree growing out of chalky, white rock and mineral soil, hanging down toward a small pool of pale water that looks like a spring. The area is open with a few dry grasses and shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junash_habitat.jpeg?itok=8T7aVzB6)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ The staminate catkins of Ashe's juniper open in early spring [23]. Pollination o
 
 ## Regeneration Processes
 
-![A close up photo of a conifer tree's tightly bunched, scaled, needle-like leaves and pale blue small berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-junash_berries.jpeg)
+![A close up photo of a conifer tree's tightly bunched, scaled, needle-like leaves and pale blue small berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-junash_berries.jpeg?itok=QLVlB8IU)
 
 Photo Credit
 

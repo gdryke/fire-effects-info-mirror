@@ -207,7 +207,7 @@ Texas
 
 ## Botanical Description
 
-![Photo of narrowleaf willow foliage growing next to river.]({{ site.baseurl }}/assets/images/species-reviews/feis-salexi_plant_hero.jpg)
+![Photo of narrowleaf willow foliage growing next to river.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-salexi_plant_hero.jpg?itok=spYZiRug)
 
 Photo Credit
 
@@ -246,7 +246,7 @@ Narrowleaf willow is winter deciduous [23,49].
 
 ## Regeneration Processes
 
-![Photo of narrowleaf willow branch with flowering catkins.]({{ site.baseurl }}/assets/images/species-reviews/feis-salexi_flower.jpg)
+![Photo of narrowleaf willow branch with flowering catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-salexi_flower.jpg?itok=R_XjqqHB)
 
 Photo Credit
 

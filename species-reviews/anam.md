@@ -34,7 +34,7 @@ Howard, Janet L. 1995. _Antilocapra americana,_ pronghorn. In: Fire Effects Info
 
 ## Image Gallery
 
-![A pronghorn is small against the background of the Wind River Range on the Wind River Reservation in Wyoming.]({{ site.baseurl }}/assets/images/species-reviews/feis-anam_pronghorn.jpg) A pronghorn on the Wind River Reservation in Wyoming. _Photo by Jennifer Strickland, U.S. Fish and Wildlife Service._
+![A pronghorn is small against the background of the Wind River Range on the Wind River Reservation in Wyoming.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-anam_pronghorn.jpg) A pronghorn on the Wind River Reservation in Wyoming. _Photo by Jennifer Strickland, U.S. Fish and Wildlife Service._
 
 Photo Credit: Photo by Jennifer Strickland, U.S. Fish and Wildlife Service.
 

@@ -34,7 +34,7 @@ Pavek, Diane S. 1993. _Lonicera utahensis,_ Utah honeysuckle. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of Utah honeysuckle]({{ site.baseurl }}/assets/images/species-reviews/feis-lonuta_plant.jpeg) Utah honeysuckle. _Photo by Ben Keen, iNaturalist.org, no rights reserved._
+![Photo of Utah honeysuckle](https://research.fs.usda.gov/sites/default/files/2025-07/feis-lonuta_plant.jpeg) Utah honeysuckle. _Photo by Ben Keen, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Ben Keen, iNaturalist.org, no rights reserved.
 
@@ -92,7 +92,7 @@ Utah honeysuckle is listed as a dominant, codominant, or minor understory specie
 
 ## Botanical Description
 
-![Photo of Utah honeysuckle]({{ site.baseurl }}/assets/images/species-reviews/feis-lonuta_plant.jpeg)
+![Photo of Utah honeysuckle](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-lonuta_plant.jpeg?itok=2wjnBWDE)
 
 Photo Credit
 

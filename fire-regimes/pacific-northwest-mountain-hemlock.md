@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific Northwest mountain hemlock communit
 
 ## Distribution
 
-![A map showing the distribution of Pacific Northwest mountain hemlock communities in Oregon and Washington.]({{ site.baseurl }}/assets/images/fire-regimes/pacific-northwest-mountain-hemlock_feis-pacific_northwest_mountain_hemlock_locator.jpg)
+![A map showing the distribution of Pacific Northwest mountain hemlock communities in Oregon and Washington.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_northwest_mountain_hemlock_locator.jpg?itok=DSm7ulH5)
 
 Photo Credit
 

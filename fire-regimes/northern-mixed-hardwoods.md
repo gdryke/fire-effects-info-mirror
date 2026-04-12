@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern mixed-hardwood communities has not
 
 ## Distribution
 
-![A map showing the distribution of northern mixed-hardwood communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-mixed-hardwoods_feis-northern_mixed_hardwoods_locator.jpg)
+![A map showing the distribution of northern mixed-hardwood communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_mixed_hardwoods_locator.jpg?itok=QZm83nhW)
 
 Photo Credit
 

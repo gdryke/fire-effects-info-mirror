@@ -34,7 +34,7 @@ Meyer, Rachelle. 2013. _Corydalis sempervirens_ , rock harlequin. In: Fire Effec
 
 ## Introduction
 
-![A photo of a forb with narrow green stems and pink and yellow flowers two-toned flowers. Seed pods with slight constrictions between seeds grow from upper parts of the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-corsem_plant.jpg)
+![A photo of a forb with narrow green stems and pink and yellow flowers two-toned flowers. Seed pods with slight constrictions between seeds grow from upper parts of the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-corsem_plant.jpg?itok=HS9StLFN)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ pink corydalis, pale corydalis
 
 Rock harlequin occurs throughout Canada, but it is rare in the western United States, occurring only in Alaska and Glacier National Park in northwestern Montana [23,45]. In the eastern United States, rock harlequin occurs in the Great Lakes region and New England, and it ranges south along the Blue Ridge Mountains into extreme northwestern Georgia [104].
 
-![A map of the United States and Canada, with gray highlighting extending from Alaska, through Canada, to the northeast and Appalachians.]({{ site.baseurl }}/assets/images/species-reviews/feis-corsem_map.gif)
+![A map of the United States and Canada, with gray highlighting extending from Alaska, through Canada, to the northeast and Appalachians.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-corsem_map.gif?itok=FihwLM9F)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ rock spikemoss-little bluestem-orangegrass-densetuft hairsedge (_Selaginella rup
 
 ## Botanical Description 
  
-![A photo of a green, leafy forb with pink and yellow flowers growing out of soil covered in litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-corsem_site.jpg)
+![A photo of a green, leafy forb with pink and yellow flowers growing out of soil covered in litter.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-corsem_site.jpg)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ This description includes characteristics that may be relevant to fire ecology a
 
 ## Seasonal Development
 
-![A photo of pink and yellow flowers growing densely along a slender stem of a forb. Many other stems end in narrow seed pods.]({{ site.baseurl }}/assets/images/species-reviews/feis-corsem_hero.jpg)
+![A photo of pink and yellow flowers growing densely along a slender stem of a forb. Many other stems end in narrow seed pods.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-corsem_hero.jpg?itok=V7CqTxL1)
 
 Photo Credit
 
@@ -205,7 +205,7 @@ Fire generally kills rock harlequin plants, but not its seed (see Fire Adaptatio
 
 ## Fire Adaptations
 
-![A photo of a leafy forb with many leaves close to the ground and longer stems with smaller leaves and pink and yellow flowers. Burned trees and charred ground are visible behind. Several other forbs grow on the burned soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-corsem_burned.jpg)
+![A photo of a leafy forb with many leaves close to the ground and longer stems with smaller leaves and pink and yellow flowers. Burned trees and charred ground are visible behind. Several other forbs grow on the burned soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-corsem_burned.jpg?itok=iRKCUGyr)
 
 Photo Credit
 

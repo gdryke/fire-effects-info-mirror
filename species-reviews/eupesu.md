@@ -36,7 +36,7 @@ Gucker, Corey L. 2010. _Euphorbia esula_ , leafy spurge. In: Fire Effects Inform
 
 ## Taxonomy
 
-![Photo of the top of a green, herbaceous plant with narrow green leaves and a branched inflorescence with small yellow flowers with yellow bracts. ]({{ site.baseurl }}/assets/images/species-reviews/eupesu_feis-EUPESU_FlowersLeaves.jpg)
+![Photo of the top of a green, herbaceous plant with narrow green leaves and a branched inflorescence with small yellow flowers with yellow bracts. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-EUPESU_FlowersLeaves.jpg?itok=0QRy90--)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Numerous vegetation types are described for leafy spurge habitats in the western
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [58,60,80,226]).
 
-![Photo of a cluster of green herbaceous plants with narrow leaves and yellow flowering tops adjacent to a patch of dormant, brown vegetation.]({{ site.baseurl }}/assets/images/species-reviews/eupesu_feis-EUPESU_plants.jpg)
+![Photo of a cluster of green herbaceous plants with narrow leaves and yellow flowering tops adjacent to a patch of dormant, brown vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-EUPESU_plants.jpg?itok=gQ9kZy9J)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Leafy spurge is similar in appearance to cypress spurge. In general, leafy spurg
 
 Leafy spurge produces a persistent, prolific, and often deep and massive root system [43,48]. Although typically described as persistent, the life span of leafy spurge's perennial root system was not reported in the literature available as of 2010.
 
-![Close-up photo of a small, branched root showing multiple small buds beginning to sprout.]({{ site.baseurl }}/assets/images/species-reviews/eupesu_feis-EUPESU_RootsBuds.jpg)
+![Close-up photo of a small, branched root showing multiple small buds beginning to sprout.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-EUPESU_RootsBuds.jpg?itok=z6dklsHf)
 
 Photo Credit
 
@@ -340,7 +340,7 @@ Cattle grazing can increase leafy spurge abundance. Heavy, continuous gazing by 
 
 ## Immediate Fire Effects
 
-![Photo of a burned patch of ground in a field of bunchgrass. Several small, green, herbaceous plants with long, narrow leaves are growing in the blackened patch.]({{ site.baseurl }}/assets/images/species-reviews/eupesu_feis-EUPESU_PostFireSprouts.JPG)
+![Photo of a burned patch of ground in a field of bunchgrass. Several small, green, herbaceous plants with long, narrow leaves are growing in the blackened patch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-EUPESU_PostFireSprouts.JPG?itok=A0VmtSlI)
 
 Photo Credit
 
@@ -496,7 +496,7 @@ Leafy spurge may be potentially useful as a biofuel [136], medicine [149], or pe
 
 ## Impacts
 
-![Photo of a broad valley covered by short green plant with yellow flowers, with large buildings and a forested hillside in the distance. ]({{ site.baseurl }}/assets/images/species-reviews/eupesu_feis-EUPESU_Infestation.jpg)
+![Photo of a broad valley covered by short green plant with yellow flowers, with large buildings and a forested hillside in the distance. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-EUPESU_Infestation.jpg?itok=UT8deXII)
 
 Photo Credit
 

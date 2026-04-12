@@ -34,7 +34,7 @@ Anderson, Michelle D. 2005. _Leucopoa kingii_ , spike fescue. In: Fire Effects I
 
 ## Introduction
 
-![A photo of a large, reproductive bunchgrass grows with other bunchgrasses and low forbs with bare soil visible between plants and many cobbles. A dry hillside with patchy conifers rises in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-leukin_plant2.jpg)
+![A photo of a large, reproductive bunchgrass grows with other bunchgrasses and low forbs with bare soil visible between plants and many cobbles. A dry hillside with patchy conifers rises in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-leukin_plant2.jpg?itok=ZkiI6JOK)
 
 Photo Credit
 
@@ -57,7 +57,7 @@ King fescue
 
 ## Distribution
 
-![A photo of a reproductive grass with green stems, leaves, and inflorescences growing on a somewhat steep slope with forbs and other grasses and high cover of large stones and cliffs. Steep, rocky slopes rise to a jagged ridgeline with intermittent cover by conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-leukin_sitechars.jpeg)
+![A photo of a reproductive grass with green stems, leaves, and inflorescences growing on a somewhat steep slope with forbs and other grasses and high cover of large stones and cliffs. Steep, rocky slopes rise to a jagged ridgeline with intermittent cover by conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-leukin_sitechars.jpeg?itok=lsusXY1s)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ A dioecious plant, spike fescue exhibits habitat assortment by sex; a Wyoming st
 
 Spike fescue forms a community type with field crazyweed (_Oxytropis campestris_) in Montana. Other associates in this community type include fringed sagebrush (_Artemisia frigida_), big sagebrush (_A. tridentata_), green rabbitbrush (_Chrysothamnus viscidiflorus_), bluebunch wheatgrass (_Pseudoroegneria spicata_), mutton grass (_Poa fendleriana_), and Hood's phlox (_Phlox hoodii_) [19].
 
-![A photo of a robust bunchgrass growing in the understory of an open stand of somewhat scraggly conifers. Litter and cobbles cover much of the ground, with somewhat sparse grasses apparently dominating the understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-leukin_community.jpg)
+![A photo of a robust bunchgrass growing in the understory of an open stand of somewhat scraggly conifers. Litter and cobbles cover much of the ground, with somewhat sparse grasses apparently dominating the understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-leukin_community.jpg?itok=4N4dyllO)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ Classifications listing spike fescue as a plant community dominant include:
 
 ## Botanical Description
 
-![A photo of a bunchgrass with reproductive stems with narrow inflorescences extending above moderately dense clusters of green leaves. The grass is growing in very rocky soil, with large cobbles and boulders around.]({{ site.baseurl }}/assets/images/species-reviews/feis-leukin_plant.jpg)
+![A photo of a bunchgrass with reproductive stems with narrow inflorescences extending above moderately dense clusters of green leaves. The grass is growing in very rocky soil, with large cobbles and boulders around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-leukin_plant.jpg?itok=8Xu-HSYn)
 
 Photo Credit
 

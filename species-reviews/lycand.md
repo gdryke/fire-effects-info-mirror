@@ -52,7 +52,7 @@ Anderson desert thorn, Anderson lyceum, Anderson's thornbush, water jacket
 
 ## Distribution
 
-![Map of the southwestern United States showing the county-level distribution of Anderson wolfberry in California, Nevada, Utah, Arizona, and New Mexico.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycand_map.png)
+![Map of the southwestern United States showing the county-level distribution of Anderson wolfberry in California, Nevada, Utah, Arizona, and New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-lycand_map.png?itok=Ls1L3yaw)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ NV, Mojave Desert| Veg. (pas)| Beatley 1969
 
 ## Botanical Description 
  
-![Photo of Anderson wolfberry in San Bernardino, CA, showing fruit, leaves, and spines.]({{ site.baseurl }}/assets/images/species-reviews/lycand_lycanc_fruit.jpg)
+![Photo of Anderson wolfberry in San Bernardino, CA, showing fruit, leaves, and spines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/lycanc_fruit.jpg?itok=iynHyE4P)
 
 Photo Credit
 

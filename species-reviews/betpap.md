@@ -79,7 +79,7 @@ Detailed descriptions of the ranges of the six varieties are available [38,66].
 
 ## Site Characteristics
 
-![A photo of a stand of trees with white, papery, curling bark and green leaves. There is lots of green vegetation on the ground and the trees are creating a shady setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-betpap_stand.jpg)
+![A photo of a stand of trees with white, papery, curling bark and green leaves. There is lots of green vegetation on the ground and the trees are creating a shady setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-betpap_stand.jpg?itok=eBJOHb89)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ west-central Alberta| forest eas| Corns & Annas 1986
 
 ## Botanical Description 
  
-![A close up photo of leaves on a branch in the sunshine. The central green leaf is serrated and has a pointed tip.]({{ site.baseurl }}/assets/images/species-reviews/feis-betpap_plant.jpg)
+![A close up photo of leaves on a branch in the sunshine. The central green leaf is serrated and has a pointed tip.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-betpap_plant.jpg?itok=rxPWni7I)
 
 Photo Credit
 

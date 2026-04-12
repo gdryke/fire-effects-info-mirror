@@ -38,7 +38,7 @@ Revisions: Scientific and common names were updated and two citations added [45,
 
 ## Image Gallery
 
-![Small white flower.]({{ site.baseurl }}/assets/images/species-reviews/coptri_coptri_flower.jpg) Threeleaf goldthread flower. _Photo by Rob Routledge, Sault College, Bugwood.org._
+![Small white flower.](https://research.fs.usda.gov/sites/default/files/2025-04/coptri_flower.jpg) Threeleaf goldthread flower. _Photo by Rob Routledge, Sault College, Bugwood.org._
 
 Photo Credit: Photo by Rob Routledge, Sault College, Bugwood.org.
 

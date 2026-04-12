@@ -38,7 +38,7 @@ Gucker, Corey L. 2009. _Heracleum mantegazzianum_ , giant hogweed. In: Fire Effe
 
 The scientific name of giant hogweed is _Heracleum mantegazzianum_ Sommier & Levier (Apiaceae) [20].
 
-![Photo of a cluster of large herbaceous plants with a large flower umbels with white flowers in a field full of other green plants with a forest stand in the background. ]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_flowering.jpg)
+![Photo of a cluster of large herbaceous plants with a large flower umbels with white flowers in a field full of other green plants with a forest stand in the background. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_flowering.jpg?itok=t2JpVlH2)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ giant cow parsnip
 
 ## General Distribution
 
-![Photo of a man standing next to an herbaceous plant that is towering above him and topped with several umbels of white flowers.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_plant.jpg)
+![Photo of a man standing next to an herbaceous plant that is towering above him and topped with several umbels of white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_plant.jpg?itok=131PCK1e)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ In its nonnative North American range, giant hogweed is most common in riparian 
 
 ## Botanical Description
 
-![Photo of a man standing in a field holding a leaf on a stem that is almost as long as he is tall, and the diameter of which is broader than his shoulders.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_leaf.jpg)
+![Photo of a man standing in a field holding a leaf on a stem that is almost as long as he is tall, and the diameter of which is broader than his shoulders.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_leaf.jpg?itok=epUMhEhb)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ Giant hogweed is a very large, monocarpic perennial forb that can reach 20 feet 
 
 Giant hogweed produces a single, hollow stem that may be 6 inches (15 cm) wide at the base [36,42,70]. Stems are distinguished from other cowparsnip (_Heracleum_) species by their purple blotches [14,40] and blisters or bumps with erect hairs [40]. Giant hogweed leaves are alternate, 3-part compound, and enormous. Lower leaves measure up to 10 feet (3 m) long and 5.6 feet (1.7 m) wide. Leaf size decreases up the stem [11,13,14]. At the flowering stage, plants typically have 4 to 6 stem leaves and 3 to 4 basal leaves [70]. Flowers are arranged in compound umbels that may reach 2.5 feet (0.8 m) in diameter [13,40]. Flowers open first on the terminal umbel. Flowers in the outer umbellets open first, and opening progresses inward [63]. Terminal umbels produce perfect flowers, while most flowers on lateral or secondary umbels are male [42,47,63]. Although lower umbels produce mostly male flowers, a review reports that researchers in West Bohemia observed female flower production on late-developing umbels on short basal shoots [47]. Giant hogweed fruits are dry schizocarps measuring 6 to 18 mm long and 4 to 10 mm wide [42].
 
-![Close up photo of a large, herbaceous plant showing a clasping leaf stem attached. The parts are mostly green, but with reddish purple mottling.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_stem1.jpg)
+![Close up photo of a large, herbaceous plant showing a clasping leaf stem attached. The parts are mostly green, but with reddish purple mottling.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_stem1.jpg?itok=fK1pN6Fs)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Robert Vidéki, Doronicum Kft., Bugwood.org.
 
 Giant hogweed stem.
 
-![Photo of hand holding a large, green stem with reddish-purple mottling. The thumb and middle finger just touch around the circumference of the stem.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_stem2.jpg)
+![Photo of hand holding a large, green stem with reddish-purple mottling. The thumb and middle finger just touch around the circumference of the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_stem2.jpg?itok=jDk4FRsP)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Giant hogweed stem.
 
 Typically giant hogweed produces a thick, branched taproot and tightly clustered, fibrous roots [7,45]. Roots extend 18 to 24 inches (45-60 cm) deep. Lateral roots are often finer than vertical roots. Root thickness and branching increase with plant age, resulting in a "multi-taproot system" [70]. The root crown can grow to 6 inches (15 cm) in diameter and becomes lignified when giant hogweed reaches flowering age. Root crowns are often found up to 5 inches (12 cm) below ground ([70], Perrier 2001 as cited in [13]). Root crowns have contraction rings capable of shrinking the area between the crown and the shoot and protecting the hypocotyl from extreme temperatures [41].
 
-![Photo of several excavated plants showing large, branched taproots, and smaller fibrous roots.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_roots.jpg)
+![Photo of several excavated plants showing large, branched taproots, and smaller fibrous roots.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-HERMAN_roots.jpg?itok=zQ9lVeIU)
 
 Photo Credit
 
@@ -160,7 +160,7 @@ Giant hogweed roots.
 
 Research in Ireland showed that giant hogweed's root system may be modified on shallow soils. In shallow soils, plants lacked a tap root and developed a laterally spreading root system. For information on the effects of shallow soil on plant growth and seed production, see Seed Production.
 
-![Photo of a person's leg, showing a large reddened area with a large yellowish blister in the middle of it.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_skin_burn_0.jpg)
+![Photo of a person's leg, showing a large reddened area with a large yellowish blister in the middle of it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_skin_burn_0.jpg?itok=_q7bZYO6)
 
 Photo Credit
 
@@ -354,7 +354,7 @@ In Edinburgh, Britain, researchers found that giant hogweed spread along rivers,
 
 Linear landscape features such as roads, paths, and streams were important to the initial spread of giant hogweed in West Bohemia [34]. With time, giant hogweed became less restricted to the cool climates at high elevations. In 1970, 28.5% of giant hogweed populations were restricted to elevations above 2,000 feet (600 m). In 1990, just 14.7% of populations occurred at elevations above 2,000 feet (600 m) (Pysek 1994, as cited in [54]). When giant hogweed habitats were surveyed, 83.4% of invaded areas were treeless pastures, meadows, or fields. Forests presented a barrier to invasion and "only very rarely" did giant hogweed occur in forest interiors [34]. In the Czech Republic, giant hogweed's distribution was significantly affected by the density of the human population (_P_ =0.01). Giant hogweed was less common in areas with fewer than 60 people/km² [51].
 
-![Photo of a large patch of very large, herbaceous plants with large leaves, and large flower umbels - some covered in white flowers and others with green buds.]({{ site.baseurl }}/assets/images/species-reviews/herman_feis-HERMAN_habitat2.jpg)
+![Photo of a large patch of very large, herbaceous plants with large leaves, and large flower umbels - some covered in white flowers and others with green buds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-HERMAN_habitat2.jpg?itok=85XPxW5R)
 
 Photo Credit
 

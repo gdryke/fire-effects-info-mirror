@@ -34,7 +34,7 @@ Fryer, Janet L. 2010. _Holodiscus dumosus_ , rockspirea. In: Fire Effects Inform
 
 ## Introduction
 
-![A photo of shrubs growing on a steep, rocky, dry hillside. A cliff rises above and conifers growing in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdum_habitat.jpg)
+![A photo of shrubs growing on a steep, rocky, dry hillside. A cliff rises above and conifers growing in the background.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-holdum_habitat.jpg)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Vegetation classifications describing plant communities in which rockspirea is d
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (for example, [15,19,40,54,55,89,90]).
 
-![A photo of bursts of whitish flowers. Many small flowers grow in dramatic inflorescences at the end of branches with a few green leaves above.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdum_flowers.jpg)
+![A photo of bursts of whitish flowers. Many small flowers grow in dramatic inflorescences at the end of branches with a few green leaves above.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-holdum_flowers.jpg)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Rockspirea sprouts vegetatively [83] and establishes from seed [25,65]. Further 
 
 Rockspirea sprouts [83] from the root crown [8]. Its sprouting ability is not well documented [75]. Since creambush oceanspray and rockspirea are closely related (see Taxonomy) and sprouting is the primary method of regeneration for creambush oceanspray [56,78], sprouting is likely rockspirea's primary method of regeneration as well.
 
-![A close-up photo of small, white flowers and flower buds growing in a panicle on a shrub with a few green leaves visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdum_hero.jpg)
+![A close-up photo of small, white flowers and flower buds growing in a panicle on a shrub with a few green leaves visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-holdum_hero.jpg?itok=Yi_dx_Oz)
 
 Photo Credit
 
@@ -226,7 +226,7 @@ Rockspirea occurs in all stages of succession as long as the canopy is open (rev
 
 ## Immediate Fire Effects
 
-![A photo of a patchy grassy and conifer-covered hillside, with some standing dead tree trunks and sparse shrubs growing in open areas.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdum_fire.jpg)
+![A photo of a patchy grassy and conifer-covered hillside, with some standing dead tree trunks and sparse shrubs growing in open areas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-holdum_fire.jpg?itok=DeYJ6hLi)
 
 Photo Credit
 

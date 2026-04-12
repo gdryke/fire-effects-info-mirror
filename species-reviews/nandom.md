@@ -34,7 +34,7 @@ Stone, Katharine R. 2009. _Nandina domestica_ , sacred bamboo. In: Fire Effects 
 
 ## Introduction
 
-![A photo of sacred bamboo, with upright stems mostly not visible through green leafy stems with loose sprays of red berries on some stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-nandom_plant.jpg)
+![A photo of sacred bamboo, with upright stems mostly not visible through green leafy stems with loose sprays of red berries on some stems.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-nandom_plant.jpg)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Experiments in New Zealand with sacred bamboo cultivars 'Pygmaea' and 'Fire Powe
 
 ## Plant Communities
 
-![A photo of shiny green and red compound leaves growing on delicate stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-nandom_hero.jpg)
+![A photo of shiny green and red compound leaves growing on delicate stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-nandom_hero.jpg?itok=jCCO5ihH)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ In Virginia, sacred bamboo occurred infrequently in urban forests, with no repor
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [14,17,56,79]).
 
-![A photo of a loose bunch of light red berries, with green, shiny, compound leaves behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-nandom_fruit.jpg)
+![A photo of a loose bunch of light red berries, with green, shiny, compound leaves behind.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-nandom_fruit.jpg)
 
 Photo Credit
 

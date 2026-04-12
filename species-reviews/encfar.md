@@ -48,7 +48,7 @@ Climate models suggest that North American warm deserts may become warmer and dr
 
 ## Introduction
 
-[![A lone white brittlebush dominates the foreground with numerous bright yellow flowers. Shrubs extend into the background, many of which are flowering white brittlebush. Early morning light illuminates a dramatic cloud.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_plant_figure1.jpg)Photo Credit iNaturalist photo by © Mark A. Chappell, some rights reserved (CC BY-NC). Figure 1—A stand dominated by white brittlebush in southern California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A lone white brittlebush dominates the foreground with numerous bright yellow flowers. Shrubs extend into the background, many of which are flowering white brittlebush. Early morning light illuminates a dramatic cloud.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-encfar_plant_figure1.jpg?itok=_NLfyuR3)Photo Credit iNaturalist photo by © Mark A. Chappell, some rights reserved (CC BY-NC). Figure 1—A stand dominated by white brittlebush in southern California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Taxonomy
 
@@ -73,7 +73,7 @@ brittlebush, incienso, goldenhills, hierba del bazo
 
 ## General Distribution
 
-[![Native distribution of white brittlebush in North America shown in green.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_distribution_figure2.jpg)Photo Credit North American range map courtesy of © 2021 Virginia Tech Deptartment of Forest Resources and Environmental Conservation. Figure 2— Native distribution of white brittlebush.](<https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=601>)
+[![Native distribution of white brittlebush in North America shown in green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-encfar_distribution_figure2.jpg?itok=sb3YORC4)Photo Credit North American range map courtesy of © 2021 Virginia Tech Deptartment of Forest Resources and Environmental Conservation. Figure 2— Native distribution of white brittlebush.](<https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=601>)
 
 White brittlebush is native to the Mojave and Sonoran deserts [53,100,221,247,250], as well as interior valleys of California’s South Coast [69,75,108,173] and the northwesternmost Chihuahuan Desert [138]. It occurs in Arizona, southern California, southern Nevada, and southwestern Utah in the United States [121,255,257,265], and extends south into Baja California Sur and Sinaloa in Mexico [94]. It is one of the most prevalent shrub species in the Sonoran Desert [221].
 
@@ -111,7 +111,7 @@ Although white brittlebush is flood-intolerant, it may be present to dominant in
 
 ## Plant Communities
 
-[![A stand dominated by white brittlebush in southern California. White brittlebush is shown in the foreground with yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_stand_figure3.jpg)Photo Credit iNaturalist photo by © Tyler Carson, some rights reserved (CC BY-NC). Figure 3—A stand dominated by white brittlebush in southern California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A stand dominated by white brittlebush in southern California. White brittlebush is shown in the foreground with yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-encfar_stand_figure3.jpg?itok=RY1fkek_)Photo Credit iNaturalist photo by © Tyler Carson, some rights reserved (CC BY-NC). Figure 3—A stand dominated by white brittlebush in southern California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 White brittlebush is an important component in plant communities in the mountains, foothills, bajadas, and plains of the southwestern United States and northern Mexico [3,27,69,146,221,243,250,272], and often forms nearly monospecific stands throughout much of its range [86,151,214], particularly following disturbance [69] (see Successional Status).
 
@@ -136,7 +136,7 @@ It is present but not dominant in three other alliances in this group:
 
 ### Sonoran Paloverde-Mixed Cacti Desert Scrub Group
 
-[![White brittlebush's yellow flowers are distinct in the understory of this Sonoran paloverde-mixed cacti desert scrub community in Arizona. Saguaro are scattered throughout the community.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_figure4.jpg)Photo Credit Bugwood.org photo by © William M. Ciesla, Forest Health Management International, with some rights reserved (CC BY-NC 3.0 US DEED). Figure 4—White brittlebush (with yellow flowers) dominates the understory of a Sonoran paloverde-mixed cacti desert scrub community in Arizona. ](<https://www.forestryimages.org/browse/image/5543047#collapseseven>)
+[![White brittlebush's yellow flowers are distinct in the understory of this Sonoran paloverde-mixed cacti desert scrub community in Arizona. Saguaro are scattered throughout the community.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-encfar_figure4.jpg?itok=fa6MbCBf)Photo Credit Bugwood.org photo by © William M. Ciesla, Forest Health Management International, with some rights reserved (CC BY-NC 3.0 US DEED). Figure 4—White brittlebush (with yellow flowers) dominates the understory of a Sonoran paloverde-mixed cacti desert scrub community in Arizona. ](<https://www.forestryimages.org/browse/image/5543047#collapseseven>)
 
 **BpS: Sonoran Paloverde-Mixed Cacti Desert Scrub (11090)**
 
@@ -229,7 +229,7 @@ White brittlebush plants produce perfect flowers [196,225] that develop on tall,
 
 ### Belowground Description
 
-[![The taproot of a juvenile white brittlebush plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_figure5.jpg)Photo Credit Photo by © A. Montalvo, Riverside Co., some rights reserved. Figure 5—Taproot of a juvenile white brittlebush plant.](<https://www.fs.usda.gov/psw/publications/beyers/psw_2010_beyers\(montalvo\)_NativePlantRecomm.Encelia.farinosa.A.Gray.ex.Torr.pdf>)
+[![The taproot of a juvenile white brittlebush plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-encfar_figure5.jpg?itok=WDT9PoM9)Photo Credit Photo by © A. Montalvo, Riverside Co., some rights reserved. Figure 5—Taproot of a juvenile white brittlebush plant.](<https://www.fs.usda.gov/psw/publications/beyers/psw_2010_beyers\(montalvo\)_NativePlantRecomm.Encelia.farinosa.A.Gray.ex.Torr.pdf>)
 
 White brittlebush has a relatively shallow root system [3,159] comprised of a taproot, lateral roots, and filamentous roots [58]. The taproot may extend at least 90 cm deep, but its depth is often limited by impassable soil layers, such as caliche [58], which are common in white brittlebush communities [3] (see Site Characteristics). Lateral roots can extend 1.5 m or more from the taproot but are often shorter [58,181]. For example, in the northwestern Sonoran Desert, white brittlebush with canopies 29 cm across had maximum root depths from 24 to 36 cm and mean root depths from 10 to 13 cm. Lateral roots radiated up to 34 cm from the taproot. Mean root depth increased in plants growing next to competing plant species (_n_ = 4 plants) relative to isolated plants [181]. At Tumamoc Hill in Arizona, the tap root of a 90-cm tall plant extended 55 cm vertically until it reached an impassable soil layer then extended an additional 50 cm or more horizontally. Lateral roots occurred only within the upper 30 cm of the soil surface, extending horizontally about 1.5 m from the taproot [58]. In Saddle Peak Hills, California, maximum rooting depth of white brittlebush on recently eroded wash edges was 80 cm [84].
 
@@ -391,7 +391,7 @@ White brittlebush seedling establishment may be higher in burned than unburned c
 
 Information on the fire ecology of white brittlebush in paloverde-mixed cacti desert scrub comes from studies in southern Arizona. These studies found white brittlebush density and cover generally decrease immediately after fire due to white brittlebush being killed or top-killed [61], then may increase up to 14 years since fire [199], 25 years since fire [24], or 29 years since fire [240]. It is possible that density and cover may continue to increase, but longer-term studies are lacking. For example, after a June prescribed fire, white brittlebush density decreased from 82 plants/ha before fire to 14 plants/ha 4 days after fire, then increased 762% over preburn levels to 707 plants/ha 9 months after fire, apparently due to high germination in burned areas [61]. In Saguaro National Park, mean white brittlebush density and cover increased relative to prefire levels for at least 29 years in once-burned plots and at least 19 years in twice-burned plots. Mean white brittlebush density and cover also increased in unburned plots, possibly due to weather conducive to seedling establishment or grazing cessation [240] (fig. 6). In a chronosequence study, white brittlebush cover was higher in 10-year-old (21%) and 14-year-old (29%) burned plots than in 26-year-old burned plots (0.5%) and unburned control plots (2.5%). The author notes that because the distribution of white brittlebush is patchy, cover values in chronosequence plots may not represent time-since-fire trends [199].
 
-![Grouped bar charts display A\) mean canopy cover and B\) mean density of white brittlebush with time since fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_figure6.png)
+![Grouped bar charts display A\) mean canopy cover and B\) mean density of white brittlebush with time since fire.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-05/feis-encfar_figure6.png?itok=Gafl-JM-)
 
 Figure 6—Grouped bar charts display A) mean canopy cover (%) and B) mean density (plants/ha) of white brittlebush with time since fire in 10 plots in Saguaro National Park. Plots were either burned once in 1989 (light green bars), burned twice in 1994 and 1999 (medium green bars), or unburned by recent fires (dark green bars). Plots were surveyed in 1976 (before fire), 2007, and 2018. Plots unburned by recent fires were unburned for at least 31 years when surveyed in 2007 and for at least 42 years when surveyed in 2018. Livestock grazing ceased in 1978. Charts created from data in Appendix S6 and S7 in Summers et al. (2021) [240].
 
@@ -492,7 +492,7 @@ White brittlebush supports the specialist leaf beetle, the encelia leaf beetle. 
 
 White brittlebush communities provide important habitat for two federally threatened species: California gnatcatchers [31] and Mohave desert tortoise (see Cover Value) [29].
 
-[![A male bighorn sheep with massive horns that curve behind his ears and halfway up his jaw extends his neck to reach the bright yellow flowers of a white brittlebush plant. His lower lip pulled down to expose his bottom teeth. Many of the flowers closer to the bighorn sheep have already been nipped off, apparently already consumed.]({{ site.baseurl }}/assets/images/species-reviews/feis-encfar_bighorn_figure7.jpg)Photo Credit iNaturalist photo by © Bob Keeran, some rights reserved (CC BY-NC). Figure 7—A bighorn sheep extends his neck to eat white brittlebush flowers.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A male bighorn sheep with massive horns that curve behind his ears and halfway up his jaw extends his neck to reach the bright yellow flowers of a white brittlebush plant. His lower lip pulled down to expose his bottom teeth. Many of the flowers closer to the bighorn sheep have already been nipped off, apparently already consumed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-encfar_bighorn_figure7.jpg?itok=A3F7Cn03)Photo Credit iNaturalist photo by © Bob Keeran, some rights reserved (CC BY-NC). Figure 7—A bighorn sheep extends his neck to eat white brittlebush flowers.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Palatability and Nutritional Value
 

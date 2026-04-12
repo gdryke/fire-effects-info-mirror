@@ -36,7 +36,7 @@ Taylor, Jennifer L. 2000. _Populus fremontii,_ Fremont cottonwood. In: Fire Effe
 
 ## Taxonomy
 
-![Photo of Fremont cottonwood catkins.]({{ site.baseurl }}/assets/images/species-reviews/popfre_popfre_seeds_0_0.jpg)
+![Photo of Fremont cottonwood catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/popfre_seeds_0_0.jpg?itok=wsnc2j8F)
 
 Photo Credit
 
@@ -161,7 +161,7 @@ In Utah, Fremont cottonwood, saltcedar, sandbar willow, peachleaf willow (_Salix
 
 ## Botanical Description
 
-![Photo of Fremont cottonwood leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-popfre_leaves.jpg)
+![Photo of Fremont cottonwood leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popfre_leaves.jpg?itok=AdkpDaqG)
 
 Photo Credit
 

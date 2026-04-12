@@ -52,7 +52,7 @@ ash-gray Indian paintbrush, ashgrey Indian paintbrush, ash-grey Indian paintbrus
 
 Ashgray Indian paintbrush has limited distribution within the state of California: it is endemic to the San Bernardino Mountains [31]. California Natural Diversity Database reports 33 occurrences in San Bernardino County. Additional populations have been documented on the San Bernardino National Forest and in local herbaria [4,33]. The Jepson Flora Project provides a distributional map of ashgray Indian paintbrush.
 
-![Photo of ashgray Indian paintbrush.]({{ site.baseurl }}/assets/images/species-reviews/cascin_feis-habitat_cascin.jpg)
+![Photo of ashgray Indian paintbrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-habitat_cascin.jpg?itok=N-kf7WFG)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Common species associated with ashgray Indian paintbrush in the Mojavean desert 
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [10,22].
 
-![Photo of ashgray Indian paintbrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-cascin_plant.jpg)
+![Photo of ashgray Indian paintbrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cascin_plant.jpg?itok=de9TlX7v)
 
 Photo Credit
 

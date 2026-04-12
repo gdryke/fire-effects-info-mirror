@@ -36,7 +36,7 @@ Zouhar, Kristin. 2025. _Callitropsis nootkatensis_ , yellow-cedar. In: Fire Effe
 
 This review summarizes the information that was available in the scientific literature as of 2025 on the biology, ecology, and effects of fire on yellow-cedar in North America.
 
-![Photo of the base of an extremely large tree, partially covered with moss and with several small stems sprouting from the base. The surroundings are a lush green forest.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Hero%21.jpg)
+![Photo of the base of an extremely large tree, partially covered with moss and with several small stems sprouting from the base. The surroundings are a lush green forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Hero%21.jpg?itok=CctaQP2v)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ Common names are used throughout this review. See table A1 for a list of species
 
 ## General Distribution
 
-![Map of northwestern North America showing the distribution of yellow-cedar from southeastern Alaska to northern California.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Map_Fig1.JPG)
+![Map of northwestern North America showing the distribution of yellow-cedar from southeastern Alaska to northern California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Map_Fig1.JPG?itok=moOgxpmg)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ Yellow-cedar is a named dominant in multiple plant associations, alliances, and 
 
 ### Forested Wetlands
 
-![Photo of a small tree with drooping branches in an open-canopy forest stand with thick graminoid cover in the understory.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_wetland_Fig2.jpg)
+![Photo of a small tree with drooping branches in an open-canopy forest stand with thick graminoid cover in the understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_wetland_Fig2.jpg?itok=JabMFckF)
 
 Photo Credit
 
@@ -166,7 +166,7 @@ Yellow-cedar is a named dominant in 1 alliance and 16 associations in 3 groups w
 
 The Vancouverian Flooded & Swamp Forest Macrogroup includes forested wetlands and riparian areas of coastal lowlands and mountains from southeastern Alaska south into Oregon; most yellow-cedar-dominated communities occur in British Columbia and Alaska. These communities occur at all elevations, on sites that receive heavy snowfall in winter, and on landforms and topographic positions that are conducive to poorly drained and saturated soils (fig. 2). The nutrient regimes are poor to medium, and organic layers can be well-developed. Forests are often low-statured with open canopies and may be codominated by western redcedar, western hemlock, mountain hemlock, Sitka spruce, and/or Pacific silver fir. Shore pine may also be present. Shrub layers may be sparse to moderately well-developed, and common species include the dominant tree species as well as red huckleberry, oval-leaf huckleberry, Alaska blueberry, rusty menziesia, Sitka alder, Pacific yew, salal, copperbush, Alaska bellheather, and deercabbage. The herbaceous layer can be well-developed and may include species such as Pacific reedgrass, Howell's marsh marigold, fernleaf goldthread, green false hellebore, and/or false lily of the valley [96].
 
-![Photo looking uphill in a dense rainforest stand with big, tall trees. ]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Rainforest_Fig3.jpeg)
+![Photo looking uphill in a dense rainforest stand with big, tall trees. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Rainforest_Fig3.jpeg?itok=TgR09W_r)
 
 Photo Credit
 
@@ -182,7 +182,7 @@ Yellow-cedar is a named dominant in 13 plant associations, occurring in 3 groups
 
 These forests may be tall (>25 m) with closed- to moderately open canopies (fig. 3), or lower statured forests with a scrubby structure. They are mixed-conifer and mixed broad-leaved evergreen forests and woodlands, with abundant snags and a mix of several species that change with substrate and aspect [96]. Forest dominants include yellow-cedar, western redcedar, western hemlock, Pacific silver fir, Sitka spruce, and shore pine. The shrub layer may be sparse to dense and may include Alaska blueberry, oval-leaf blueberry, red huckleberry, devilsclub, rusty menziesia, and/or salal. The herbaceous layer can be sparse, but it is usually a dense layer of shade-tolerant forbs and ferns, such as bunchberry dogwood and strawberryleaf raspberry, false lily of the valley, northwestern twayblade, green false hellebore, claspleaf twistedstalk, twinflower, American skunkcabbage, and/or deer fern. The moss layer has a wide variety of mosses, liverworts, and lichens. Soils range from moderately to poorly drained [96].
 
-![Photo of a subalpine valley, with patches of conifer trees of varying sizes and patches of shrubs amidst grasses and forbs, and a talus slope in the background.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Subalpine_patch_Fig4.jpg)
+![Photo of a subalpine valley, with patches of conifer trees of varying sizes and patches of shrubs amidst grasses and forbs, and a talus slope in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Subalpine_patch_Fig4.jpg?itok=Ww4VJmxS)
 
 Photo Credit
 
@@ -196,7 +196,7 @@ Yellow-cedar is a named dominant in one alliance and two associations in the Mou
 
 At the highest elevations, these forests may begin to break up, forming "tree islands" (fig. 4). These clumps of 10 to 50 trees have a closed to open canopy less than 20 m tall, and they often occur on ridges and hummocks that are surrounded by meadows or shrublands that occur in topographic depressions where extremely deep snowpacks discourage tree growth [86,96]. This vegetation mosaic is represented by the Mountain hemlock–Pacific silver fir–Yellow-cedar Tree Island Alliance, which occurs in the Washington and Oregon Cascades, on the Olympic Peninsula, and in the Coast Ranges of British Columbia in a narrow (300- to 400-m) elevational band near treeline, above the closed-canopy subalpine forests and below the alpine meadows, at elevations ranging from 1,700-2,300 m depending on aspect and latitude. Where adequate light intensities reach the ground, a shrub layer may be present. The herbaceous layer is present and dominated by subalpine forbs and graminoids. Substrates are typically shallow, rocky, coarse-textured soils derived from volcanic rocks such as deposits of pumice, cinder and ash, and lava flows. Yellow-cedar often occurs in scrubby krummholz stands [96]. Extensive krummholz stands composed of subalpine fir, mountain hemlock, whitebark pine, and yellow-cedar are described in North Cascades National Park [81].
 
-![Photo of a forest stand with a few, large green trees, several dead trees, and an abundance of young green saplings.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Aldrich_Fig5.jpg)
+![Photo of a forest stand with a few, large green trees, several dead trees, and an abundance of young green saplings.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Aldrich_Fig5.jpg?itok=aZynt0QO)
 
 Photo Credit
 
@@ -214,7 +214,7 @@ The disjunct, interior populations of yellow-cedar probably both occur in the Ce
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [29,122]).
 
-![Photo of the lower part of a tree trunk, showing a pyramidal shape as it widens toward the base.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_WideBase_Fig6.jpeg)
+![Photo of the lower part of a tree trunk, showing a pyramidal shape as it widens toward the base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_WideBase_Fig6.jpeg?itok=KR84tDNv)
 
 Photo Credit
 
@@ -230,7 +230,7 @@ Yellow-cedar is a native, evergreen, long-lived tree [10,53,122]. It is typicall
 
 Boles of mature trees spread out widely at the base (fig. 6) [64,101]. The bark of young trees is thin and scaly, while that of mature trees is fibrous and leathery and composed of narrow, intersecting ridges [59,101], variously described as irregularly fissured [38], ridged and fissured [29], or grooved [101]. Bark is 1 to 2 cm thick [38] and shreddy (fig. 7). Several sources suggest that the bark tends to peel off in long, narrow strips [62,64,107,122], while others suggest that it does not do this [11,29,104] (see Other Uses). Some mature yellow-cedar trees retain the smooth bark of young trees (fig. 8) [59]. The bark of yellow-cedar contains resin ducts, a trait that can be used to distinguish it from western redcedar [59].
 
-![Photo of a tree trunk in a forest stand, showing bark that shreds in long, thin strips.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Bark_Fig7.jpeg)
+![Photo of a tree trunk in a forest stand, showing bark that shreds in long, thin strips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Bark_Fig7.jpeg?itok=ClhIbxP0)
 
 Photo Credit
 
@@ -238,7 +238,7 @@ Photo by Bob Earle, no rights reserved.
 
 Figure 7—Yellow-cedar on the Malheur National Forest, Oregon. 
 
-![Photo of a young tree with smooth, gray bark and droopy branches covered with scaly leaves.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_YoungBark_Fig8.jpeg)
+![Photo of a young tree with smooth, gray bark and droopy branches covered with scaly leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_YoungBark_Fig8.jpeg?itok=d93_KfY1)
 
 Photo Credit
 
@@ -250,7 +250,7 @@ Yellow-cedar trees have a narrow, conical crown with a slender, drooping leader 
 
 Pollen cones are 2 to 5 mm long. Seed cones are scattered, short-stalked, hard [101,122], nearly round, and 6 to 12 mm in diameter [29,38,53,101,116,122]. Seed cones are berry-like in the first year and become woody as they mature [101]. Mature cones have four or six paired, umbrella-shaped scales [38,101], with two to four seeds per scale [38] (<15/cone [116]). Seeds are 2 to 5 mm long and have two broad wings [62,99,122], equal to or broader than the body [38]. Seed cones become resinous as they mature [38].
 
-![Photo of the top of a tree with a drooping top \(leader\).]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_DroopingLead_Fig9.jpeg)
+![Photo of the top of a tree with a drooping top \(leader\).](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_DroopingLead_Fig9.jpeg?itok=4frAxWkf)
 
 Photo Credit
 
@@ -258,7 +258,7 @@ Photo © Andy Jordan, iNaturalist.org, some rights reserved.
 
 Figure 9—Drooping leader on a yellow-cedar tree in Ketchikan Gateway, Alaska ([CC-BY](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![Close-up photo of a small branch with scale-like leaves.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Leaves_Fig10.jpeg)
+![Close-up photo of a small branch with scale-like leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Leaves_Fig10.jpeg?itok=ijnWtFOT)
 
 Photo Credit
 
@@ -279,7 +279,7 @@ On sites with saturated soils and low nutrient availability, yellow-cedar trees 
 
 ### Stand Structure
 
-![Photo of a shrub-like tree high on a mountain slope surrounded by bare ground and rocks.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_krummholz2_Fig11.jpeg)
+![Photo of a shrub-like tree high on a mountain slope surrounded by bare ground and rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_krummholz2_Fig11.jpeg?itok=KScBIcSb)
 
 Photo Credit
 
@@ -305,7 +305,7 @@ Seedlings| <1.3 m tall| 4,562| 7.4
  
 Although timing of yellow-cedar establishment at this site is uncertain because of possible origin from layering, yellow-cedar shows peaks in establishment in the mid-1700s and around 1810. No trees establishing after the mid-1700s had reached the canopy [100]. Antos and Zobel (1991) provide size-class distribution data for yellow-cedar and other trees in several forest stands—ranging from 50 years old to old-growth (>200 years old)—south of Mount Rainier [8].
 
-![Photo of low-growing patch of trees on a mountain slope just below treeline.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_krummholz3_Fig12.jpeg)
+![Photo of low-growing patch of trees on a mountain slope just below treeline.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_krummholz3_Fig12.jpeg?itok=hMNvaHrF)
 
 Photo Credit
 
@@ -317,7 +317,7 @@ Yellow-cedar individuals growing at timber line may form small krummholz patches
 
 As a long-lived, dominant tree that is very slow to decay when it dies, yellow-cedar is an important long-term contributor to structural diversity in mixed-species stands [59]. The life span of yellow-cedar can exceed 1,500 years on some sites (see Plant Growth and Mortality), and it lives nearly twice as long as associated spruces and hemlocks in southeastern Alaska. Many yellow-cedar trees die standing and persist as snags (fig. 13) for 80 to 100 years [59], or possibly longer [44]. New estimates suggest that about 59% of yellow-cedar snags that had lost their branches (Class 5 snags) had been standing for >200 to 450 years [44]. This results in a two-tiered woody debris system: spruce and hemlock provide downed woody debris and logs in various stages of decay, while yellow-cedar provides standing, relatively undecayed snags. This adds structural diversity that favors a diversity of other plants and wildlife [59].
 
-![Photo of one large and several small dead yellow-cedar trees with gray bark and no leaves.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_snags_Fig13.jpg)
+![Photo of one large and several small dead yellow-cedar trees with gray bark and no leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_snags_Fig13.jpg?itok=2Ndc5dpS)
 
 Photo Credit
 
@@ -355,7 +355,7 @@ Pollen viability appears to be diminished by warm spring temperatures. Lower qua
 
 ### Seed Production and Predation
 
-![Photo of a branch with scaly, green leaves, many small, brown cones, and two larger brown cones.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Seed%26PollenCones_Fig14.jpeg)
+![Photo of a branch with scaly, green leaves, many small, brown cones, and two larger brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Seed%26PollenCones_Fig14.jpeg?itok=TXJ13gdb)
 
 Photo Credit
 
@@ -411,7 +411,7 @@ Yellow-cedar growth rates vary with age, canopy position, and site characteristi
 
 Yellow-cedar trees can be long-lived in marginal habitats such as in bogs and at treeline, although they remain small or even shrublike. For example, they outlive associates on saturated, nutrient-poor sites by accumulating defensive compounds in heartwood and foliage [59], but they remain relatively small on those sites [7,22]. At the three highest elevations sampled in Mount Rainier National Park, yellow-cedar growth was inversely related to depth of snowpack [34].
 
-![Photo of a very large tree on a forested slope.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_tree_MtBaker_Fig15.jpg)
+![Photo of a very large tree on a forested slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_tree_MtBaker_Fig15.jpg?itok=RgEm6pQm)
 
 Photo Credit
 
@@ -423,7 +423,7 @@ Dendrochronological analyses indicate that yellow-cedar tends to grow faster wit
 
 Yellow-cedar trees can be long-lived and large (fig. 15). On average, yellow-cedar lives for about 500 to 750 years [59], and extremely old trees—often exceeding 1,000 years [42,59,63]—have been reported [53], although the actual age of the large trees cannot be determined due to heart rot and large size [95]. A yellow-cedar tree near Campbell River, British Columbia, was documented to be 1,600 years old [59]. In the northwestern Cascade Range, yellow-cedars were the oldest trees in the study area (many were 1,000 to 1,500+ years old), and cover of yellow-cedar was highest in the oldest stands studied (300 to 1,500+ years old). Yellow-cedar dominated the 0.3–1 m and >1m DBH size classes in the oldest stands, and yellow-cedar trees >1 m DBH were uncommon in forests less than 500 years old [80]. Eight groves of ancient yellow-cedar occur on the windward side of the Olympic Mountains at 800 to 1,000 m elevation, where precipitation is high and fire frequency is low. These groves have not burned for more than 1,000 years and contain the oldest trees in Washington. Large yellow-cedars in these groves range from 150 to 365 cm DBH. The 365-cm DBH tree is the largest yellow-cedar in the United States and is estimated to be more than 2,000 years old [95]. A hollow tree that was 180 cm DBH had more than 900 growth rings in the 30-cm outer shell [53,95].
 
-![Photo of a large tree with a broken top at the edge of a forest stand.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_sparse_brokenTop_Fig16.jpg)
+![Photo of a large tree with a broken top at the edge of a forest stand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_sparse_brokenTop_Fig16.jpg?itok=B5inF6VG)
 
 Photo Credit
 
@@ -527,7 +527,7 @@ Observations and measurements of yellow-cedar’s response to fire are rare in t
 
 Subalpine communities typically have high postfire mortality and are slow to recover to prefire composition and structure. For example, in burned krummholz stands on Sourdough Ridge in North Cascades National Park, Washington, only two small, poorly developed whitebark pine and mountain hemlock trees survived. The rest of the trees were killed, and only their dead trunks and branches remained 29 years after the fire, whereas unburned stands had a “solid overstory” of subalpine fir (55% cover), mountain hemlock (38%), and yellow-cedar (8%) (with trace whitebark pine) [28].
 
-![Photo of a forested slope with many dead trees and many living, young trees growing under them.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_StandAldrichMts_Fig17.jpeg)
+![Photo of a forested slope with many dead trees and many living, young trees growing under them.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_StandAldrichMts_Fig17.jpeg?itok=B6jkh5_D)
 
 Photo Credit
 
@@ -648,7 +648,7 @@ Porcupines tend to avoid feeding on yellow-cedar. Therefore, it may be a good op
 
 Yellow-cedar wood is valuable because it is extremely durable and resists rot [53,96,114]. It has straight grain and yellow color, and it is excellent for specialty uses, is easily worked, and takes a beautiful finish. It is valuable for interior finish, furniture, cabinet work, patterns, and novelties; window frames, exterior doors, decking, boardwalks, and boats [53,59,85,101,122].
 
-![Photo of a tree trunk with a large, rectangular area of bark removed.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_CMT_Fig18.jpeg)
+![Photo of a tree trunk with a large, rectangular area of bark removed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_CMT_Fig18.jpeg?itok=95KAJzT5)
 
 Photo Credit
 
@@ -680,7 +680,7 @@ The Tongass National Forest relies on natural regeneration to restock harvested 
 
 Yellow-cedar has fewer problems with insects and pathogens than most other conifers. Defensive compounds (secondary metabolites) in the heartwood limit the growth and establishment of pathogens and insect organisms, although some agents are specialized to overcome these chemical defenses [59].
 
-![Map of southeastern Alaska showing yellow-cedar's range and areas where it has died or is actively dying. ]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Decline_Map_Fig19.png)
+![Map of southeastern Alaska showing yellow-cedar's range and areas where it has died or is actively dying. ](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-08/feis-CALNOO_Decline_Map_Fig19.png?itok=i5unzi7a)
 
 Photo Credit
 
@@ -696,7 +696,7 @@ Yellow-cedar decline is driven by warm winter temperatures and low winter precip
 
 The decline of yellow-cedar began around 1880 to 1900, coincident with regional warming trends near the end of the Little Ice Age, and it increased in the late 1900s, with large pulses of mortality in the 1970s and 1980s during a notably warm period of the PDO [24,26,59,111]. By the early 21st Century, standing dead and dying yellow-cedar occurred on about 250,000 ha of coastal forests [26,60,111] from the western coast of Chichagof Island (57.6° N), south throughout southeastern Alaska and British Columbia, to an area just south of latitude 51° N [59]. In impacted areas, around 70% (sometimes up to 100%) of the mature yellow-cedar trees are dead [96]. The acreage of yellow-cedar decline represents a persistent feature on affected landscapes (fig. 20), not only because tree death occurs gradually, but also because yellow-cedar snags remain standing for 100 years or more (fig. 21) [44,59].
 
-![Aerial photo of a large area of forest adjacent to the ocean. The forested area is mostly green, but shows many dead, gray trees and many dying, reddish trees.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Decline_Fig20.jpg)
+![Aerial photo of a large area of forest adjacent to the ocean. The forested area is mostly green, but shows many dead, gray trees and many dying, reddish trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Decline_Fig20.jpg?itok=lJhop8VM)
 
 Photo Credit
 
@@ -706,7 +706,7 @@ Figure 20—Yellow-cedar decline observed during a 2022 aerial detection survey.
 
 Every year, forest health reports document new areas of active yellow-cedar decline [59]. However, FIA plot data from south-central and southeastern Alaska do not reveal net biomass loss of live yellow-cedar from 1995–2003 or 2004–2010 [14]. Despite high mortality of yellow-cedar before 1995, little range contraction has occurred in Alaska, and population monitoring between 1995 and 2013 indicates an overall increase in live basal area of 0.3% to 3.3% per decade and a relatively low mortality rate of 0.41% of trees per year [13]. Hennon et al. (2016) [59] suggest that this may be due to sampling methods or could be the result of regeneration and tree growth gains in forests at higher elevations or beyond the distribution of yellow-cedar decline, which may have compensated for mortality losses in decline-affected forests. Evidence also suggests that the roughly 30% of surviving yellow-cedar trees in decline patches eventually release and have good growth as the forest recovers [59].
 
-![Photo of a forested hillside with a large number of dead, gray trees.]({{ site.baseurl }}/assets/images/species-reviews/calnoo_feis-CALNOO_Decline_Fig21.jpg)
+![Photo of a forested hillside with a large number of dead, gray trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CALNOO_Decline_Fig21.jpg?itok=k2nAhGba)
 
 Photo Credit
 

@@ -57,7 +57,7 @@ bayberry, candleberry, dwarf waxmyrtle, southern bayberry, southern waxmyrtle, w
 
 ## General Distribution
 
-![A map of the southeastern U.S. with areas highlighted in green where wax myrtle occurs. The area highlighted is mostly the coastal southeast.]({{ site.baseurl }}/assets/images/species-reviews/feis-morcer_map.jpg)
+![A map of the southeastern U.S. with areas highlighted in green where wax myrtle occurs. The area highlighted is mostly the coastal southeast.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-morcer_map.jpg?itok=h48JIsXW)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ Wax myrtle's ecological amplitude is demonstrated by reported growth on fresh to
 
 ## Plant Communities
 
-![A shrub with long pointed leaves grows in the sunny understory of a pine forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-morcer_habitat.jpg)
+![A shrub with long pointed leaves grows in the sunny understory of a pine forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-morcer_habitat.jpg?itok=xcXwDDCf)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Wax myrtle is common in a variety of habitats and plant communities in the south
 
 ## Botanical Description
 
-![A photo of a woody plant with long pointed leaves and clusters of dusty-looking, light blue berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-morcer_plant.jpg)
+![A photo of a woody plant with long pointed leaves and clusters of dusty-looking, light blue berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-morcer_plant.jpg?itok=1Z1z6qVk)
 
 Photo Credit
 

@@ -60,7 +60,7 @@ Tall fescue occurs throughout the continental United States [4,28,31,75,77] and 
 
 ## Site Characteristics
 
-[![A photo of a green, erect bunchgrass growing at the base of a wire and metal fence.]({{ site.baseurl }}/assets/images/species-reviews/feis-scharu_plant.jpg)Photo Credit Photo by Dmitry Kutcherov, iNaturalist (CC BY-NC 4.0). Tall fescue growing in Arkansas.](<https://www.creativecommons.org/licenses/by-nc/4.0/deed.en>)
+[![A photo of a green, erect bunchgrass growing at the base of a wire and metal fence.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-scharu_plant.jpg?itok=8IL-gLVC)Photo Credit Photo by Dmitry Kutcherov, iNaturalist (CC BY-NC 4.0). Tall fescue growing in Arkansas.](<https://www.creativecommons.org/licenses/by-nc/4.0/deed.en>)
 
 Tall fescue is cultivated for pasture, from which it often escapes [66]. It occurs in grazed woods [7], along roads, ditches [28], and railroad tracks, in fallow and abandoned fields, [7,33], meadows [32], and marshes [22]. It is a weed of cultivated areas [76] and is found in moist, disturbed places [17,18,47,78].
 
@@ -91,7 +91,7 @@ Tall fescue is found in tallgrass prairie [56], salt desert shrub, and sagebrush
 
 ## Botanical Description
 
-[![A close-up photo of grass panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-scharu_panicle.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Tall fescue panicles.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of grass panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-scharu_panicle.jpg?itok=_vMPW30l)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Tall fescue panicles.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Tall fescue is a densely cespitose to short-rhizomatous [20,28,65], cool-season [75], long-lived [65] perennial grass [77]. Culms are hollow [30], erect [28], and 20 to 80 inches (50-200 cm) in height [30,76]. Leaves form basal tufts [61]; blades are 2 to 28 inches (5-70 cm) long [28,48] and 0.1 to 0.5 inch (3-13 mm) wide [61,76]. A tuft produces 10 to 30 flowerstalks [66]. The inflorescence is an open to narrow branched panicle [28,66] 4 to 14 inches (10-35 cm) long [31,57]. Spikelets are three- to nine-flowered [31,75]. Lemmas are awnless to short-awned. The fruit is a caryopsis [28]. Tall fescue roots are tough and coarse; they normally penetrate to a depth of at least 60 inches (150 cm) in moist soils [65].
 
@@ -131,7 +131,7 @@ Tall fescue requires one growing season to establish [9,65]. Because of slow est
 
 When tall fescue stands become sod-bound seed production declines [77].
 
-[![A photo of a green bunchgrass growing on dry soils with other bunchgrasses, with visible bare ground between plants. Conifers dominate hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-scharu_plant2.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0) Tall fescue growing in a mining reclamation area in the Butte-Anaconda area, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a green bunchgrass growing on dry soils with other bunchgrasses, with visible bare ground between plants. Conifers dominate hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-scharu_plant2.jpg?itok=RE44Rhwa)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0) Tall fescue growing in a mining reclamation area in the Butte-Anaconda area, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Successional Status
 

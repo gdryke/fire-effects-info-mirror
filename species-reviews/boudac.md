@@ -52,7 +52,7 @@ None
 
 Buffalograss is distributed from central Canada south to eastern coastal Louisiana, Texas, New Mexico, eastern Arizona, and northern Mexico [48,53]. It is incidental in northern Idaho [95] and Virginia [79].
 
-![A map of the United States and Canada with many central states and provinces highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-boudac_distribution.jpg)
+![A map of the United States and Canada with many central states and provinces highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-boudac_distribution.jpg?itok=K-RZu2ed)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Distribution of buffalograss.
 
 Buffalograss occurs on all soil textures [10,21]. It is most common on clay, then fine-textured loam. It is rare on sandy soils [10,81]. Soils supporting buffalograss are usually alkaline [10,19,49], with a high water-holding capacity (33-66%) [49]. Buffalograss grows mostly on dry uplands and/or disturbed sites in mixed- and tallgrass prairie [3,48]. It grows best in regions of the Great Plains where annual precipitation ranges between 12 and 25 inches (305 and 635 mm) [106]. It is widely adapted, however, to extremes in climate and elevation [21,106]. Elevation at which buffalograss occurs ranges from 2,000 feet (600 m) in Montana to 6,300 feet (1,890 m) in Wyoming [36].
 
-![A photo of short grasses growing in a dense patch, with many reproductive spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-boudac_moreplants.jpeg)
+![A photo of short grasses growing in a dense patch, with many reproductive spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-boudac_moreplants.jpeg?itok=KFBHLEWO)
 
 Photo Credit
 
@@ -98,11 +98,11 @@ Plant community classifications naming buffalograss as a community dominant are 
 
 Buffalograss is a warm-season, native perennial shortgrass [20]. It is drought-, heat-, and cold-resistant [106]. Foliage is usually 2 to 5 inches (5-13 cm) high, though in the southern Great Plains foliage may reach 12 inches (30 cm) [55,100]. Buffalograss is usually dioecious. Plants are occasionally monoecious, sometimes with perfect flowers [48,49,54,61]. Flowerstalks are 4 to 8 inches (10-20 cm) tall [100]. The male inflorescence is a panicle; the female inflorescence consists of short spikelets borne in burlike clusters, usually with two to four spikelets per bur [48,104].
 
-[![A male grass inflorescence, consisting of two staminate spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-boudac_flowering.jpg)Photo Credit Photo by Nathan May, iNaturalist (CC BY 4.0). Male panicle of buffalograss growing in Texas.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A male grass inflorescence, consisting of two staminate spikes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-boudac_flowering.jpg?itok=1jJoIX3U)Photo Credit Photo by Nathan May, iNaturalist (CC BY 4.0). Male panicle of buffalograss growing in Texas.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Buffalograss sends out numerous, branching stolons [54,106]; occasionally it also produces rhizomes [85]. Roots are also numerous and thoroughly occupy the soil [100]. The numerous stolons and roots form a dense sod [54,106]. Buffalograss roots are finer than those of most plains grasses, being less than 1 mm in diameter. Weaver [100] found that in the Great Plains, buffalograss roots in silty loam reached 5 feet below ground, with 70 percent of roots (by weight) occurring in the first 6 inches (15 cm) of soil.
 
-![A photo of two unrooted grass clusters connected by wiry runners, with clusters of short spiky leaves at the nodes, against a brick walkway in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-boudac_stolons.jpg)
+![A photo of two unrooted grass clusters connected by wiry runners, with clusters of short spiky leaves at the nodes, against a brick walkway in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-boudac_stolons.jpg?itok=4iv6p1Dk)
 
 Photo Credit
 

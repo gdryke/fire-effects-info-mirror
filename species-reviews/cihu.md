@@ -66,7 +66,7 @@ Northern harriers inhabit wetland plant communities of sedge (Carex spp.), rush 
 
 ## Biological Characteristics
 
-![Female northern harrier flying.]({{ site.baseurl }}/assets/images/species-reviews/feis-cihu_female.jpg)
+![Female northern harrier flying.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cihu_female.jpg?itok=i2w5qq53)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Predators of northern harriers include red fox (Vulpes vulpes), striped skunk (M
 
 The primary prey base of northern harriers is meadow voles (Microtus pennsylvanicus) [8,16]. They also eat a variety of amphibians, reptiles, and invertebrates when these food sources are abundant [16]. Other prey includes hares (Lepus spp.), rabbits (Sylvilagus spp.), shrews (Sorex spp.), ground squirrels (Spermophilus spp.), lesser prairie chickens (Tympanuchus pallidicinctus), passerine birds, and occasional carion [7,14,16].
 
-![Northern harrier in flight over a grassland at Nantucket National Wildlife Refuge, Massachusetts.]({{ site.baseurl }}/assets/images/species-reviews/feis-cihu_northern-harrier.jpg)
+![Northern harrier in flight over a grassland at Nantucket National Wildlife Refuge, Massachusetts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-cihu_northern-harrier.jpg?itok=1WVHKpAO)
 
 Photo Credit
 

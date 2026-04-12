@@ -34,7 +34,7 @@ Sullivan, Janet. 1994. _Accipiter striatus_ , sharp-shinned hawk. In: Fire Effec
 
 ## Image Gallery
 
-![A sharp-shinned hawk perched on the branch of a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-acst_in-tree.jpg) Sharp-shinned hawk. _Photo by Brent Myers and courtesy of Wikimedia Commons, with some rights reserved (CC BY 2.0)._
+![A sharp-shinned hawk perched on the branch of a tree.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-acst_in-tree.jpg) Sharp-shinned hawk. _Photo by Brent Myers and courtesy of Wikimedia Commons, with some rights reserved (CC BY 2.0)._
 
 Photo Credit: Photo by Brent Myers and courtesy of Wikimedia Commons, with some rights reserved (CC BY 2.0).
 

@@ -62,7 +62,7 @@ Capitate sedge is circumboreal [10,11]. It extends south in the western cordille
 
 Capitate sedge is found in arctic and alpine environments [10] on marshy meadows to dry alpine slopes [14,23]. It grows on acidic rocky, gravelly [7], sandy [15], or peaty [5] soils.
 
-[![A sedge plant with a bay and mountains behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-carcap_habitat.jpg)Photo Credit Photo by Ida B D Jacobsen, iNaturalist (CC BY 4.0). Capitate sedge growing in the arctic.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A sedge plant with a bay and mountains behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carcap_habitat.jpg?itok=eF5ZGn5l)Photo Credit Photo by Ida B D Jacobsen, iNaturalist (CC BY 4.0). Capitate sedge growing in the arctic.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In the alpine zone of the eastern Cascade Range in southern interior British Columbia capitate sedge is dominant where the soil is strongly acid (pH 4.9-5.3) and coarse textured, with loamy sand predominating [15]. In the alpine zone of Mt. Baker, Washington, capitate sedge only grew in the drier eastern region, on sites with the least snow accumulation. However, the soils there remained moist well into summer because of drainage from upslope [3].
 
@@ -85,7 +85,7 @@ Species associated with capitate sedge in the alpine zone of the eastern Cascade
 
 Species associated with capitate sedge in the alpine zone of Mt. Baker, Washington, in the North Cascade Range include false sedge (_Carex scirpoidea_ var. _pseudoscirpoidea_), alpine fescue (_Festuca ovina_ var. _brevifolia_), and Cascade willow (_Salix cascadensis_) [3].
 
-[![A field of sedges with conifers and blue skies in the background.]({{ site.baseurl }}/assets/images/species-reviews/carcap_carcap_habitat2.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Capitate sedge growing in Tehama County, California.](<https://www.inaturalist.org/observations/185204391>)
+[![A field of sedges with conifers and blue skies in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carcap_habitat2.jpeg?itok=0Gr6sqiB)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Capitate sedge growing in Tehama County, California.](<https://www.inaturalist.org/observations/185204391>)
 
 ## Botanical and Ecological Characteristics
 
@@ -93,7 +93,7 @@ Species associated with capitate sedge in the alpine zone of Mt. Baker, Washingt
 
 Capitate sedge is a native, perennial, monoecious graminoid [8,10]. It is loosely to densely caespitose [8,11]. Culms are 4 to 14 inches (10-35 cm) tall [1,10]. Leaves are one to four per culm [8] and 0.02 inches (0.5 mm) wide or less [1,14,18]. The first foliage leaves arise well above the base of the plant [10]. The inflorescence is a solitary terminal spike [10] 0.16 to 0.39 inches (4-10 mm) long [8,14]. The achene is 0.06 inches (1.5 mm) long [8]. The perigynia surrounding the achene is ovate and 0.08 to 0.12 inches (2-3 mm) long [1,14]. There are 6 to 25 perigynia per spike [7,9]. Capitate sedge has short creeping rhizomes [8] on which the culms are closely spaced [23].
 
-[![A close-up photo of a reproductive sedge spike. A stem is capped by the reproductive spike, which is comprised of green perigynia and brown scales.]({{ site.baseurl }}/assets/images/species-reviews/carcap_carcap_reproductive.jpg)Photo Credit Photo by Chloe and Trevor Van Loon, iNaturalist (CC BY 4.0). Reproductive spike of capitate sedge.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a reproductive sedge spike. A stem is capped by the reproductive spike, which is comprised of green perigynia and brown scales.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carcap_reproductive.jpg?itok=NGKV2SiJ)Photo Credit Photo by Chloe and Trevor Van Loon, iNaturalist (CC BY 4.0). Reproductive spike of capitate sedge.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

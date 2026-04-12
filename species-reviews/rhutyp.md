@@ -34,7 +34,7 @@ Sullivan, Janet. 1994. _Rhus typhina_ , staghorn sumac. In: Fire Effects Informa
 
 ## Image Gallery
 
-![Photo of staghorn sumac.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhutyp_plant.jpeg) Staghorn sumac. _Photo by Pierre Cartier. iNaturalist. Available from https://www.inaturalist.org. Accessed [2025 June 5]_
+![Photo of staghorn sumac.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-rhutyp_plant.jpeg) Staghorn sumac. _Photo by Pierre Cartier. iNaturalist. Available from https://www.inaturalist.org. Accessed [2025 June 5]_
 
 Photo Credit: Photo by Pierre Cartier. iNaturalist. Available from https://www.inaturalist.org. Accessed [2025 June 5]
 

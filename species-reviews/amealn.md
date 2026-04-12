@@ -126,7 +126,7 @@ Publications describing plant habitat or community types in which Saskatoon serv
 
 ## Botanical Description
 
-![Photo of flowering Saskatoon serviceberry]({{ site.baseurl }}/assets/images/species-reviews/feis-amealn.jpg)
+![Photo of flowering Saskatoon serviceberry](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-amealn.jpg?itok=_PlWszpL)
 
 Photo Credit
 

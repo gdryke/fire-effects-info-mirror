@@ -82,7 +82,7 @@ Common gray foxes occur in a wide variety of forest types; they prefer woodlands
 
 Common gray foxes are ecologically important members of the oak (_Quercus_ spp.)-hickory (_Carya_ spp.) ecosystem. In the Missouri Ozarks mature oak-hickory stands were the most frequently used (of six habitat types) by common gray foxes, both at night and during the day. Old fields were least used [18]. In North Carolina common gray fox habitats include evergreen redbay (_Persea borbonia_) forests, deciduous forests, and streamhead forests. Common gray foxes were common in the most densely wooded habitats, including pocosins. They are often seen running along sandy rims and ridges between bay and streamhead forests [5]. In central Louisiana common gray foxes occur in longleaf pine (_Pinus palustris_)-slash pine (_P. elliottii_) stands [25]. Common gray foxes are common in southwestern Wisconsin oak-hickory forests dominated by white oak (_Q. alba_), northern red oak (_Q. rubra_), black oak (_Q. velutina_), and shagbark hickory (_C. ovata_) with lesser amounts of white ash (_Fraxinus americana_), green ash (_F. pennsylvanica_), maples (_Acer_ spp.), and basswood (_Tilia americana_) [33].
 
-![A photo of a small gray and red fox with a small gray face standing in a scrubby, dry habitat with open rocky soil, scattered shrubs and dead wood.]({{ site.baseurl }}/assets/images/species-reviews/feis-urci_pinyonjuniper.jpg)
+![A photo of a small gray and red fox with a small gray face standing in a scrubby, dry habitat with open rocky soil, scattered shrubs and dead wood.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-urci_pinyonjuniper.jpg?itok=yGD-Ko_d)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ In Zion National Park, Utah, common gray foxes occur in blackbrush (_Coleogyne r
 
 ## Biological Characteristics
 
-![A photo of a small gray and red fox with a long tail standing in a grassy field, surrounded by yellow wildflowers.]({{ site.baseurl }}/assets/images/species-reviews/urci_feis-URCI_wildflowers2.jpg)
+![A photo of a small gray and red fox with a long tail standing in a grassy field, surrounded by yellow wildflowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-URCI_wildflowers2.jpg?itok=jIlEnxYW)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Adult common gray foxes have few predators, but are occasionally taken by golden
 
 Common gray foxes are omnivorous, opportunistic feeders; they prey mainly on small mammals, but fruit and invertebrates form a substantial portion of the diet. In the central United States cottontails (_Sylvilagus_ spp.) formed the major portion of the common gray fox winter diet. Other mammals taken in noticeable numbers include voles (_Microtus_ spp.), mice (_Peromyscus_ spp.), woodrats (_Neotoma_ spp.), and cotton rats (_Sigmodon_ spp.). Invertebrates increase in importance in the spring. With seasonally advancing vegetative growth and development, plant material, particularly fruit, increases in common gray fox diets, sometimes comprising up to 70 percent by volume [10]. Grasshoppers (Orthoptera), beetles (Coleoptera), and butterflies and moths (Lepidoptera) are the preferred invertebrates; plant materials include fruits, nuts, grains, and grasses. Carrion is eaten opportunistically [35]. In some areas birds (nestlings and eggs), particularly ground-nesters, are taken by common gray foxes; in Texas wild turkey (_Meleagris gallopavo_) nests were broken up by common gray foxes [3].
 
-![A photo of a small gray and red fox walking on a dusty road with three juvenile squirrels in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-urci_squirrels.jpeg)
+![A photo of a small gray and red fox walking on a dusty road with three juvenile squirrels in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-urci_squirrels.jpeg?itok=8_rmOAoq)
 
 Photo Credit
 

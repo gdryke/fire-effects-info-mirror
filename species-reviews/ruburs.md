@@ -60,7 +60,7 @@ California dewberry, California grapeleaf dewberry, Douglasberry, Pacific blackb
 
 ## Distribution
 
-![A photo of a brambly berry vine with white flowers growing in an open area. The background is a grassy hill with some conifer trees in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-ruburs_habitat.jpeg)
+![A photo of a brambly berry vine with white flowers growing in an open area. The background is a grassy hill with some conifer trees in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ruburs_habitat.jpeg?itok=qyt8r4v7)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ California blackberry is well represented in a wide variety of plant communities
 
 ## Botanical Description
 
-![A close up photo of blackberries growing on thorny stems. The berries range from green to light orange-red to black.]({{ site.baseurl }}/assets/images/species-reviews/feis-ruburs_berries.jpg)
+![A close up photo of blackberries growing on thorny stems. The berries range from green to light orange-red to black.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ruburs_berries.jpg?itok=QQJjE0U8)
 
 Photo Credit
 

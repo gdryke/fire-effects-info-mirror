@@ -34,7 +34,7 @@ McWilliams, Jack D. 2005. _Symphoricarpos longiflorus_ , desert snowberry. In: F
 
 ## Introduction
 
-![A photo of a shrub with visible stems and green, oval-shaped leaves growing along young twigs. Clusters of long flowers grow on some young stems. Dry shrubs dominate the vegetation in the background, with bare ground between each plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-symlon_plant.jpg)
+![A photo of a shrub with visible stems and green, oval-shaped leaves growing along young twigs. Clusters of long flowers grow on some young stems. Dry shrubs dominate the vegetation in the background, with bare ground between each plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-symlon_plant.jpg?itok=9zqXPOwT)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Stanton [51] describes the minimum mean annual precipitation for desert snowberr
 
 There is little in the current literature (2005) describing habitat types or plant communities where desert snowberry occurs. What information is available centers on sagebrush (_Artemisia_ spp.) and pinyon-juniper (_Pinus-Juniperus_ spp.) communities.
 
-![A photo of widely spaced shrubs growing in dry, rocky soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-symlon_habitat.jpg)
+![A photo of widely spaced shrubs growing in dry, rocky soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-symlon_habitat.jpg?itok=DNFoduV0)
 
 Photo Credit
 
@@ -112,7 +112,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Desert snowberry is a native, perennial shrub mostly 20 to 39 inches (50-100 cm) tall [58]. Low spreading branches 20 to 39 inches (50-100 cm) long [22] are commonly spread at right angles to the stem [58]. Older branches become fibrous and shreddy [57], and smaller twigs tend to persist so plants may be "somewhat thorny" [11]. The deciduous leaves are simple and opposite [57]. Perfect flowers [22] are solitary or paired in leaf axils, or in small, terminal, few-flowered racemes [58] and produce a berry-like drupe with 2 nutlets [57].
 
-![A photo of a shrub with clusters of long, pink flowers and somewhat round, green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-symlon_flowers.jpeg)
+![A photo of a shrub with clusters of long, pink flowers and somewhat round, green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-symlon_flowers.jpeg?itok=Vqpi6CnL)
 
 Photo Credit
 

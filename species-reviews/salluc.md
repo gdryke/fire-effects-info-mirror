@@ -58,7 +58,7 @@ In this review, "shining willow" refers to the species as a whole. Subspecies ar
 
 Shining willow hybridizes with Sierra willow [30].
 
-![A photo of a leafy, somewhat shrubby, large willow.]({{ site.baseurl }}/assets/images/species-reviews/feis-salluc_plant.jpg)
+![A photo of a leafy, somewhat shrubby, large willow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salluc_plant.jpg?itok=rmk5Ebcp)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ For _Salix lucida_ Muhl. subsp. _lasiandra_(Benth.) A.E. Murray:
 
 Shining willow is distributed from Alaska east to Labrador and south to California, Kansas, and North Carolina [49,63,97]. It is mostly absent from dry interior regions of the Intermountain West [63]. Distributions of the subspecies are shown below.
 
-![Two side-by-side maps of the U.S. and most of Canada on the left and Alaska and northern Canada on the right. Most states and provinces are highlighted green except in the southeastern United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-salluc_distribution.jpg)
+![Two side-by-side maps of the U.S. and most of Canada on the left and Alaska and northern Canada on the right. Most states and provinces are highlighted green except in the southeastern United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salluc_distribution.jpg?itok=2LzqPVfj)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Maps courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team
 
 Distributions of shining willow in the conterminous United States (left) and far north (right).
 
-![Three maps in a row, with the left and center maps of the western U.S. and Canada with most western states and provinces highlighted green. The map on the right show the U.S. and Canada with many central and eastern states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-salluc_distribution_subsp.jpg)
+![Three maps in a row, with the left and center maps of the western U.S. and Canada with most western states and provinces highlighted green. The map on the right show the U.S. and Canada with many central and eastern states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salluc_distribution_subsp.jpg?itok=60JLqh62)
 
 Photo Credit
 
@@ -181,7 +181,7 @@ The Botanical/Biological Characteristics section of this Species Review relies h
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (for example, [22,30,41,45]), although it is challenging to identify in the field [96].
 
-![A photo of a wide, leafy shrub with upright stems growing among grasses with large shrubs and trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-salluc_hero.jpeg)
+![A photo of a wide, leafy shrub with upright stems growing among grasses with large shrubs and trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salluc_hero.jpeg?itok=RSjyAd5h)
 
 Photo Credit
 
@@ -203,7 +203,7 @@ Shining willow flowers from late March to late June across its range [30]; leave
 
 Shining willow regenerates from seed and by sprouting. A continually moist substrate is required for germination and seedling establishment.
 
-![A photo of elongated, cottony willow catkins dangling from a leafy branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-salluc_seeds.jpg)
+![A photo of elongated, cottony willow catkins dangling from a leafy branch.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-salluc_seeds.jpg)
 
 Photo Credit
 

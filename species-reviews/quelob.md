@@ -88,7 +88,7 @@ Herbaceous associates include bermuda grass (Cynodon dactylon), purple needlegra
 
 ## Plant Communities
 
-![A photo of a large, broad tree with wide branches and green leaves growing in an open field-like setting, surrounded by yellow dry grass. There are a few shrubs nearby and the sky is blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-quelob_habitat.jpeg)
+![A photo of a large, broad tree with wide branches and green leaves growing in an open field-like setting, surrounded by yellow dry grass. There are a few shrubs nearby and the sky is blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quelob_habitat.jpeg?itok=1uvMiEAR)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Publications listing valley oak as a dominant or codominant species in habitat t
 
 ## Botanical Description
 
-![A photo of a tree's lobed, dusty dark green leaves and long, pale green pointed acorns. Some leaves have small red pointed structures on them. The background is blurry dry brown grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-quelob_acorns.jpg)
+![A photo of a tree's lobed, dusty dark green leaves and long, pale green pointed acorns. Some leaves have small red pointed structures on them. The background is blurry dry brown grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quelob_acorns.jpg?itok=dg1TdH7K)
 
 Photo Credit
 

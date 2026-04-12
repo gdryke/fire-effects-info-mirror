@@ -32,7 +32,7 @@ Tirmenstein, D. 2000. _Festuca altaica, F. campestris, F. hallii_ ; rough fescue
 
 ## Taxonomy
 
-![A close-up photo of green grass leaves.]({{ site.baseurl }}/assets/images/species-reviews/fesspp_feis-fesalt_leaves.jpg)
+![A close-up photo of green grass leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-fesalt_leaves.jpg?itok=TsUGS08M)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Distributions of species in the rough fescue complex are:
  * rough fescue - from British Columbia east to Ontario and south to Montana and Oregon, Idaho, and Colorado [4,13,112]
  * plains rough fescue - scattered occurrences from eastern British Columbia east to Ontario and south to New Mexico and North Dakota [4,10,13,112]
 
-![Three maps of the Unites States and Canada in a row, with each having some Canadian provinces highlighted green and some western and/or northern U.S. states highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesspp_distributions.jpg)
+![Three maps of the Unites States and Canada in a row, with each having some Canadian provinces highlighted green and some western and/or northern U.S. states highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-fesspp_distributions.jpg?itok=MhIm8c0V)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ See the appendix for lists of vegetation classifications in which these species 
 
 ## Botanical Description
 
-![A photo of uprooted grasses lying on the ground, with green stems and pinkish underground parts.]({{ site.baseurl }}/assets/images/species-reviews/fesspp_feis-fescam_rootcrown.jpg)
+![A photo of uprooted grasses lying on the ground, with green stems and pinkish underground parts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-fescam_rootcrown.jpg?itok=SnaccsuW)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Individual plants often form large-diameter bunches. Moss and Campbell [86] repo
 
 ### Species Descriptions
 
-![A photo of the base and roots of an uprooted grass.]({{ site.baseurl }}/assets/images/species-reviews/fesspp_feis-feshal_rhizomes.png)
+![A photo of the base and roots of an uprooted grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-feshal_rhizomes.png?itok=raD-aoPi)
 
 Photo Credit
 
@@ -271,7 +271,7 @@ Susceptibility to fire is related to fire severity, frequency, and season [107].
 
 Species in the rough fescue complex recover from fire by tillering, sprouting from the root crown, and regenerating from seed [1,45,99,106,107]. Plains rough fescue also sprouts from rhizomes; the other species may do so infrequently (see General Botanical Characteristics). Cover of these fescues is initially reduced by fire regardless of the season of burning, although prefire cover is typically regained within 2 to 3 years on most sites [107]. Burning season and fire severity influence the rate of recovery. Despite burning at high temperatures, these species can sometimes initiate conspicuous green shoots within a week after the fire. Plants are generally unharmed by burning if the plant is dormant [4]. Late summer or autumn lightning fires apparently enhanced postfire growth of rough fescue in Oregon [4].
 
-![A photo of a bright green bunch grass with more green grasses behind and a small piece of charred wood. A blue plastic marker is at the base of the grass.]({{ site.baseurl }}/assets/images/species-reviews/fesspp_feis-feshal_burn1.jpg)
+![A photo of a bright green bunch grass with more green grasses behind and a small piece of charred wood. A blue plastic marker is at the base of the grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-feshal_burn1.jpg?itok=8OSWzaPk)
 
 Photo Credit
 

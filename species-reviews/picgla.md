@@ -62,7 +62,7 @@ Climate change is expected to have varied effects on white spruce distribution, 
 
 The scientific name of white spruce is _Picea glauca_ (Moench) Voss (Pinaceae) [110,135,197,211,268,369,438].
 
-![A photo of a green, wooded valley with snow-capped peaks in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig1_landscape.jpg)
+![A photo of a green, wooded valley with snow-capped peaks in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig1_landscape.jpg?itok=1yNA8MzB)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Black Hills spruce, Canada spruce
 
 ## Distribution
 
-![A map of the United States and Canada, with much of Canada, Alaska, and Maine highlighted green, with green highlighting extending into some other northern states.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig2_map.jpg)
+![A map of the United States and Canada, with much of Canada, Alaska, and Maine highlighted green, with green highlighting extending into some other northern states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig2_map.jpg?itok=LUEoxJUx)
 
 Photo Credit
 
@@ -131,7 +131,7 @@ White spruce typically occurs in cold regions in riparian, upland, and treeline 
 
 White spruce grows in regions with long, cold winters and short, cool summers [3], but it can withstand large variations in temperature. In Alaska, Yukon, and Northwest Territories, the January temperature may average -20 °F (-29 °C), and throughout its range in Alaska and Canada the July temperature may average 55 °F (13 °C) [305]. At the northern extent of its distribution, climatic extremes may range from -54 °F (-65 °C) in January to 94 °F (34 °C) in July [305]. Precipitation generally increases from the northwest to the southeast of white spruce's distribution [179]. White spruce sites in Alaska and western Canada receive about 10 inches (250 mm) of precipitation annually, while sites in Nova Scotia and Newfoundland may average 50 inches (1,270 mm) [265,305].
 
-![An aerial photo of a wide, braided river channel with yellow vegetation growing on sandbars between channels and conifers growing along the river's edge.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig3_floodplain.jpg)
+![An aerial photo of a wide, braided river channel with yellow vegetation growing on sandbars between channels and conifers growing along the river's edge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig3_floodplain.jpg?itok=3gRZjVaB)
 
 Figure 3. Floodplain habitat, Yukon Flats National Wildlife Refuge, Alaska.
 
@@ -141,7 +141,7 @@ White spruce typically grows on floodplains, upland slopes, and treeline sites [
 
 White spruce grows from sea level to nearly 7,000 feet (2,000 m) [184,305]. In Alaska, it reaches 3,000 feet (910 m) on the south slope of the Brooks Range [305]. In eastern forests, it grows from sea level to about 5,000 feet (1,520 m) [114]. In the Black Hills of South Dakota and Wyoming, white spruce occurs from about 5,700 to 6,700 feet (1,700 to 2,000 m) [184]. Although white spruce has a wide elevational range, it is often confined to stream bottoms and lower river benches [119].
 
-![A photo of a green, sloping hill with conifers growing in a few patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig4_treeline.jpg)
+![A photo of a green, sloping hill with conifers growing in a few patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig4_treeline.jpg?itok=MHNXvyGs)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ Photo by Dr. Jill Johnstone.
 
 Figure 4. White spruce at treeline, Wolf Creek site, Yukon.
 
-![A photo of conifers growing along low hills in a valley, with taller slopes visible through haze in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig5_forestdenali.jpg)
+![A photo of conifers growing along low hills in a valley, with taller slopes visible through haze in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig5_forestdenali.jpg?itok=vbcQIL5t)
 
 Photo Credit
 
@@ -306,7 +306,7 @@ NatureServe [300,301] identifies several white spruce forest and woodland types 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [110,151,197,268,369,438]).
 
-![A photo of an upright, somewhat triangle conifer with a lake behind and blue skies with scattered clouds above.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig6_tree.jpg)
+![A photo of an upright, somewhat triangle conifer with a lake behind and blue skies with scattered clouds above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig6_tree.jpg?itok=g7N-BSkV)
 
 Photo Credit
 
@@ -320,7 +320,7 @@ White spruce grows as a medium-sized tree or as a shrub. Trees typically average
 
 The arrangement of vertically continuous branches may promote ignition and torching in white spruce [114,462,466]. White spruce trees typically have a straight bole with a broadly conical to narrow, almost linear crown and slightly drooping branches [135,194,197,435]. Trees in Alaska commonly have narrow, spire-like crowns [194,251], whereas in the northeastern United States, trees are narrow but not typically spire-like [151]. White spruce trees are typically much narrower than black spruce trees [406]. Crowns are usually densely foliated [129,356,394], and branches and needles are often retained low on the trunk [114,171,194,204,263] but sometimes are not [405]. Trees may shed their lower branches when growing in dense stands with low light [194]. The bole has thin smooth, scaly, or flaky bark, generally less than 8 mm thick [394]. Needles are short, ranging from 0.2 to 0.75 inch (5-18 mm) long [194,438]. The needles and bark are resinous [303], although less so than those of black spruce [405]. The pendulous cones are 1 to 2.4 inches (3-6 cm) long [197,435] and hang from the upper branches [314]. Seeds have a long, thin wing that is 2 to 3 times as long as the seed [435]. White spruce seeds are small (~0.001-0.003 gram) [82,471] but are larger and heavier than those of many associated boreal trees (e.g., paper birch, quaking aspen, black spruce, tamarack, alders, willows) [264,470].
 
-![A photo of a branch of a conifer with short needles and downwards-pointing medium-sized brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig7_cones.jpg)
+![A photo of a branch of a conifer with short needles and downwards-pointing medium-sized brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig7_cones.jpg?itok=AeHh63GA)
 
 Photo Credit
 
@@ -507,7 +507,7 @@ Successional trends in the North American boreal forest depend, in part, on diff
 
 Floodplain succession in Alaska and western Canada follows similar sequences. Generally, forbs and willows colonize new alluvium, followed by alders, balsam poplar, and white spruce [418,439]. However, floodplain succession is not fully predictable due to differences in disturbances, seed dispersal, seedling establishment, weather, and site characteristics [188,404,442]. Old growth riparian white spruce forests may persist for 200 years or more because natural firebreaks inhibit fires in large river valleys. Consequently, floodplain white spruce forest tends to have more old growth than boreal uplands [404]. On some sites, white spruce floodplain forests may be replaced by black spruce as the organic layers thicken, soil cools, and permafrost forms [413,415,426,428,429]. See Regional Studies for further discussion.
 
-![A photo of a stand of tall narrow conifers with some trees missing many needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig8_sprucebudworm.jpg)
+![A photo of a stand of tall narrow conifers with some trees missing many needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig8_sprucebudworm.jpg?itok=o-kGNZB2)
 
 Photo Credit
 
@@ -523,7 +523,7 @@ Eastern spruce budworm occurs in the eastern portion of white spruce's range; it
 
 After an eastern spruce budworm outbreak kills overstory trees, understory trees typically emerge into the canopy [41,478]. Successional patterns depend on species composition before and after the outbreak [41]. While white spruce saplings may be available to grow into the canopy [41], balsam fir [41,478] or hardwoods [422] are more likely to replace the killed trees, and white spruce abundance may decrease after an outbreak [36,41]. In western Quebec mixed forests, an outbreak reduced white spruce from 44 trees/acre (108 trees/ha) to 24 trees/acre (36 trees/ha). There were only 30 saplings/acre (75 saplings/ha) of white spruce after the outbreak, while saplings of balsam fir were 80 times more abundant. White spruce was likely to be less common in the overstory after the outbreak than before [41].
 
-![An aerial photo of a patchwork of red and green conifers, with red trees being the same species as the green tree, but with dying needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig9_sprucebeetle.jpg)
+![An aerial photo of a patchwork of red and green conifers, with red trees being the same species as the green tree, but with dying needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig9_sprucebeetle.jpg?itok=ZskjJNmZ)
 
 Photo Credit
 
@@ -694,7 +694,7 @@ After the low-intensity Bear Creek Fire in interior Alaska, white spruce had hig
 
 After stand-replacing fires (~1915) in conifer-hardwood stands on upland, south-facing sites in interior Alaska, white spruce establishment differed among plant communities (2 quaking aspen types, 2 paper birch-quaking aspen types, and 1 white spruce-paper birch type), and subsequent height growth and stand development followed 2 distinct patterns. A chronosequence study used tree rings to estimate tree ages and establishment dates 46 to 141 years after fire. In quaking aspen community types, quaking aspen established soon after fire, and white spruce established about 25 years after fire (Figure 10a). In paper birch-quaking aspen and white spruce-paper birch community types, white spruce established rapidly and concurrently with the hardwoods and no establishment occurred afterward (Figure 10b). When white spruce established at around the same time as the hardwoods, it grew rapidly (Figure 10b); when white spruce established after the hardwoods, it grew more slowly (Figure 10a) [463].
 
-![An image of two side by side graphs,, both showing "year" along the x-axis and "tree heigh \(m\)" along the y-axis, showing about 70 years. Different line types correspond with different tree species, with height increasing over time with slight variations between species.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig10_graph.jpg)
+![An image of two side by side graphs,, both showing "year" along the x-axis and "tree heigh \(m\)" along the y-axis, showing about 70 years. Different line types correspond with different tree species, with height increasing over time with slight variations between species.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-09/feis-picgla_fig10_graph.jpg?itok=rjSHEIu-)
 
 Photo Credit
 
@@ -729,7 +729,7 @@ regime
 8| White spruce/quaking aspen| 0| 7| 0| 75| mesic 
 9| Quaking aspen| 27| 31| 2,700| 85| mesic 
  
-![An aerial photo of mostly aspen trees with some small patches of conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig11_emergent.jpg)
+![An aerial photo of mostly aspen trees with some small patches of conifers.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-picgla_fig11_emergent.jpg)
 
 Photo Credit
 
@@ -898,7 +898,7 @@ Because spruce beetles typically colonize stressed or dying spruce (e.g., windth
 
 For additional information about the effects of spruce beetle outbreaks, see Insects.
 
-![A satellite photo of green vegetation and blue water, with a large plume of smoke. Reddish patches amongst the green are visible near the smoke.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig12_funnyriver.jpg)
+![A satellite photo of green vegetation and blue water, with a large plume of smoke. Reddish patches amongst the green are visible near the smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig12_funnyriver.jpg?itok=pWmBpB8t)
 
 Photo Credit
 
@@ -906,7 +906,7 @@ Photo courtesy of Jesse Allen, NASA Earth Observatory.
 
 Figure 12. Funny River Fire (2014) burning on the Kenai Peninsula. The brown-red area outside of the fire perimeter may be beetle-killed trees.
 
-![An aerial photo of patchy burned trees with remnant unburned green patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig13_postfunnyriverfire.jpg)
+![An aerial photo of patchy burned trees with remnant unburned green patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig13_postfunnyriverfire.jpg?itok=PIAc3Nxk)
 
 Photo Credit
 
@@ -1030,7 +1030,7 @@ White spruce is susceptible to numerous needle and bud rusts, root diseases, fun
 
 Climate change is expected to have varied effects on white spruce distribution, growth, and establishment. The pattern, direction, and timing of change depends on local, landscape, and regional climatic and site conditions.
 
-![Two aerial photo show the same winding river in 1976 with relatively few, patchy trees \(top\) and again in 2005 with much larger patches and more dense individuals growing between patches \(bottom\).]({{ site.baseurl }}/assets/images/species-reviews/feis-picgla_fig14_treelineexpansion.jpg)
+![Two aerial photo show the same winding river in 1976 with relatively few, patchy trees \(top\) and again in 2005 with much larger patches and more dense individuals growing between patches \(bottom\).](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picgla_fig14_treelineexpansion.jpg?itok=wI6MqiCb)
 
 Photo Credit
 

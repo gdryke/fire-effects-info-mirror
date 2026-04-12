@@ -42,7 +42,7 @@ For a summary of more recently published information (2001-2019) about medusahea
 
 The currently accepted scientific name of medusahead is _Taeniatherum caput-medusae_ (L.) Nevski. There are 3 subspecies found in Europe: _Taeniatherum caput-medusae_ ssp. _caput-medusae_ , _Taeniatherum caput-medusae_ ssp. _cinitum_(Schreb.) Meldris, and _Taeniatherum caput-medusae_ ssp. _asperum_ (Simk.) Meldris. The entity occurring the United States is _Taeniatherum caput-medusae_ ssp. _asperum_[40,53,65].
 
-![A photo of a hand holding several dried grass spikes with long awns on the seedheads. Dried vegetation apparently dominated by annual grasses is visible behind with a few scattered shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-taecap_plant2.jpg)
+![A photo of a hand holding several dried grass spikes with long awns on the seedheads. Dried vegetation apparently dominated by annual grasses is visible behind with a few scattered shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-taecap_plant2.jpg?itok=5KT-92TO)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ Medusahead is native to the Mediterranean region of Europe. It was introduced in
 
 Medusahead grows in areas that have relatively mild to cold temperatures in winter but are hot in summer [75,79]. It is generally found in areas that receive fall, winter, and spring moisture followed by dry summers [108]. It occurs in areas with annual precipitation of 10 to 40 inches (250-1,000 mm), with an upper limit of precipitation approximately 50 inches (1,270 mm) [75,79,99]. Infestations primarily occur in former sagebrush-grass or bunchgrass communities that receive 10 to 20 inches (250-500 mm) of precipitation [79,99]. Areas above 4,500 feet (1,370 m) elevation, and well-drained coarse soils, may be less susceptible to invasion.
 
-![A photo of an annual grassland at sunset dominated by single-stemmed grasses with spikes of long-awned seeds. The sun glows orange and desert hills rise in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-taecap_sitechars.jpg)
+![A photo of an annual grassland at sunset dominated by single-stemmed grasses with spikes of long-awned seeds. The sun glows orange and desert hills rise in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-taecap_sitechars.jpg?itok=pH0Mo1C9)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ In a northwestern California site where medusahead is prevalent, 60% of the vege
 
 Medusahead and cheatgrass are often in competition with each other, and soil and topographic factors affect their distribution [28,39]. Each can replace other herbaceous vegetation and share dominance with the other. Cheatgrass occupies a larger geographical area than medusahead, extending to drier areas of the semiarid western U.S. than does medusahead [29]. Cheatgrass will grow in almost any type of soil, although it does best on deep, loamy or coarse-textured soils and it does not grow as well on fine textured soils (e.g. [32,73,125]). Medusahead may be more likely to dominate on fine-textured soils in the Intermountain region [118]. In arid conditions, medusahead is more dependent on additional moisture for survival. This may be because cheatgrass matures when soil moisture is still plentiful in May, and medusahead does not mature until 3 weeks later when moisture is more confined to depressions and clay soils [28,39]. Because medusahead matures approximately 1 month later than cheatgrass, it initially only replaces cheatgrass on soils with sufficient moisture holding capacity, such as clay textured soils, so that some soil moisture remains after cheatgrass matures. Medusahead's root system can exploit all soil moisture in the soil profile [117]. In the Columbia River Basin, medusahead is dominant on soils high in montmorillonite clay within 10 to 12 inches (25-30 cm) of the surface, and on soils low in clay but on with favorable topographic positions. Cheatgrass is dominant on weakly developed soils low in montmorillonite clay.
 
-![A photo of an invasive annual grassland with a line of conifers growing in the distance and hills behind. The grasses are mostly green but drying to gold in patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-taecap_withbrte.jpg)
+![A photo of an invasive annual grassland with a line of conifers growing in the distance and hills behind. The grasses are mostly green but drying to gold in patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-taecap_withbrte.jpg?itok=-uWTbG7i)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Forbs commonly associated with medusahead in this region include yellow starthis
 
 ## Botanical Description
 
-![A photo of a grass spike with long-awned seeds. Cultivated fields are out-of-focus in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-taecap_plant.jpeg)
+![A photo of a grass spike with long-awned seeds. Cultivated fields are out-of-focus in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-taecap_plant.jpeg?itok=h3gq6QtR)
 
 Photo Credit
 

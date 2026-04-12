@@ -45,7 +45,7 @@ The scientific name of alpine milkvetch is _Astragalus alpinus_ L. (Fabaceae) [2
  * _Astragalus alpinus_ var. _alpinus_
  * _Astragalus alpinus_ var. _brunetianus_ Fern. [23]
 
-![A photo of a low plant with opposite leaflets and uprights stems with purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-astalp_plant.jpg)
+![A photo of a low plant with opposite leaflets and uprights stems with purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-astalp_plant.jpg?itok=MeErzd5s)
 
 Photo Credit
 
@@ -75,7 +75,7 @@ _Astragalus alpinus_ var. _alpinus_ is found across North America, from Alaska t
 
 _Astragalus alpinus_ var. _brunetianus_ is found only in Quebec and Newfoundland south to Nova Scotia and Maine. It historically occurred in Vermont and New Hampshire as well [23,42] but has been extirpated [23]. Plants Database provides a distributional map of alpine milkvetch and its infrataxa.
 
-![A photo of a low spreading forb with green leaves consisting of many opposite leaflets. Relatively uprights flowering stems have clusters of several pale purple flowers each.]({{ site.baseurl }}/assets/images/species-reviews/feis-astalp_habitat.jpg)
+![A photo of a low spreading forb with green leaves consisting of many opposite leaflets. Relatively uprights flowering stems have clusters of several pale purple flowers each.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-astalp_habitat.jpg?itok=ElYwUxgc)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Alpine milkvetch is a native, perennial forb with a matted growth habit [2,6,7,19,21,23,24,31,39,54].
 
-![A photo of a plant with green leaves with opposite leaflets and upright stems with clusters of pale purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-astalp_plant.jpeg)
+![A photo of a plant with green leaves with opposite leaflets and upright stems with clusters of pale purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-astalp_plant.jpeg?itok=XIshm5Nf)
 
 Photo Credit
 

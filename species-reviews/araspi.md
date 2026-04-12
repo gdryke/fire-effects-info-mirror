@@ -50,7 +50,7 @@ prickly ash, Hercules club, angelica tree, prickly elder, pick tree, toothache t
 
 ## General Distribution
 
-![A map of the eastern half of the U.S. with areas highlighted in green where devil's walkingstick occurs. Most of the southeastern U.S. is highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-araspi_map.jpg)
+![A map of the eastern half of the U.S. with areas highlighted in green where devil's walkingstick occurs. Most of the southeastern U.S. is highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-araspi_map.jpg?itok=D5twf07U)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Devil's walkingstick is found in Louisiana in openings in upland hardwoods, with
 
 Devil's walkingstick is found in southern Appalachian forests in openings from 8,042 square feet to 10,763 square feet (750-1,000 sq m), with the frequency of occurrence dropping off with larger gaps; it is not found in undisturbed understory [26].
 
-![A photo of a small tree with long green leaves and large sprays of small, cream-colored flowers. The tree is in front of other larger trees, in a shady forest setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-araspi_habitat.jpeg)
+![A photo of a small tree with long green leaves and large sprays of small, cream-colored flowers. The tree is in front of other larger trees, in a shady forest setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-araspi_habitat.jpeg?itok=-ZnBAGLg)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ No entry.
 
 ## Botanical Description
 
-![A close up photo of a plant's woody stem. The stem is covered in very sharp spines, pointing in all directions. In the background is a blurry trunk of a large tree and some other vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-araspi_stem.jpg)
+![A close up photo of a plant's woody stem. The stem is covered in very sharp spines, pointing in all directions. In the background is a blurry trunk of a large tree and some other vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-araspi_stem.jpg?itok=7OAJp3Z4)
 
 Photo Credit
 

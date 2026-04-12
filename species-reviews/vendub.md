@@ -47,7 +47,7 @@ Because ventenata abundance is unlikely to decrease after fire and there is conc
 
 ## Taxonomy
 
-![A photo of a cluster of dried grass panicles, with out-of-focus mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-plant_new.jpg)
+![A photo of a cluster of dried grass panicles, with out-of-focus mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plant_new.jpg?itok=cLXNHNP5)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ North Africa grass, North African wiregrass, softbearded oat grass, ventenatagra
 
 Ventenata is native to North Africa, southern and central Europe, and western Asia [13,57,168]. Although invasive in parts of North America and introduced in other parts of Asia [105], it is rare [5,69,111,140], endangered [5], or extirpated [140] in parts of its native range in Africa and Europe. See Alomran et al. (2019) for a review of information on ventenata’s distribution outside of North America [5]. Ventenata is nonnative in North America, where it has a disjunct distribution. In the West, it occurs from British Columbia and Alberta south to northern California and northern Utah. In the East, it occurs from Ontario east to New Brunswick and south to east-central Wisconsin and New York [185] (fig. 1). Genetic analysis of 51 invasive populations in the West indicated that ventenata was introduced multiple times, and different genotypes were introduced in separate locations [150].
 
-![A map U.S. states and Canadian provinces with many western states and provinces and some northeastern states and provinces highlighted blue.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-stateprovincedistributionmapplants.jpg)
+![A map U.S. states and Canadian provinces with many western states and provinces and some northeastern states and provinces highlighted blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-stateprovincedistributionmapplants.jpg?itok=lJlDWnNb)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Map courtesy of the U.S. Department of Agriculture, Natural Resources Conservati
 
 **Figure 1—** State- and province-level distribution of ventenata. Ventenata also occurs in Nevada [5,55] and Nova Scotia [93].
 
-![A map of counties in the northwestern U.S. where ventenata has been recorded in the literature \(yellow\), observed \(blue\), or both \(green\). Counties where it hasn't been observed are white.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-countywidedistributionmapeddmaps.jpg)
+![A map of counties in the northwestern U.S. where ventenata has been recorded in the literature \(yellow\), observed \(blue\), or both \(green\). Counties where it hasn't been observed are white.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-countywidedistributionmapeddmaps.jpg?itok=fQOIJ4af)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Moist meadow| 0| 0| <0.1| 6.9
  
 ### Grasslands and Shrublands
 
-![A photo of dried grasses with low hills and leafless trees behind.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-palouse.jpg)
+![A photo of dried grasses with low hills and leafless trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-palouse.jpg?itok=wG1s3otH)
 
 Photo Credit
 
@@ -179,7 +179,7 @@ In the John Day River Basin, Oregon, ventenata occurs in riparian ponderosa pine
 
 ## Botanical Description
 
-![A photo of two sparse, dry, open grass panicles against a gray background.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-plant.jpg)
+![A photo of two sparse, dry, open grass panicles against a gray background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plant.jpg?itok=PwzJESbE)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ The inflorescence is an open, spreading to drooping, pyramid-shaped panicle (fig
 
 Roots are shallow, from 2.5 to 5 cm deep [50,51,147]. Roots can be colonized by arbuscular mycorrhizal fungi (AMF), and ventenata is described as a facultative mycorrhizal plant, but more research is needed to understand how it interacts with and responds to AMF communities [153].
 
-![A close-up photo of grass florets against a black background.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-awns.jpg)
+![A close-up photo of grass florets against a black background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-awns.jpg?itok=5cWE1hVF)
 
 Photo Credit
 
@@ -233,7 +233,7 @@ Montana| Seedlings emerge in November. Seeds mature by 6 August [119]
 Utah| Early vegetative stage 5 June [176] 
 Wisconsin| Near-flowering 14 June. Seeds mature and plants die by 5 July (Solheim and Judziewicz 1984, cited in [122]) 
  
-![A photo of a grass node against a blue background.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-nodes.jpg)
+![A photo of a grass node against a blue background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-nodes.jpg?itok=YcJJuzeZ)
 
 Photo Credit
 
@@ -367,7 +367,7 @@ It is unclear whether ventenata establishes best with or without ventenata litte
 
 #### Postfire Abundance
 
-![A photo of a continuous stand of dried grasses with dark green shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-coninuousventenatasagebrush.jpg)
+![A photo of a continuous stand of dried grasses with dark green shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-coninuousventenatasagebrush.jpg?itok=DsTTDVIu)
 
 Photo Credit
 
@@ -385,7 +385,7 @@ Ventenata establishes after fire in dry ponderosa pine and mixed-conifer forests
 
 #### Fire Severity
 
-![A photo of a dry, grassy understory with stones in the foreground and several boulders and trees in the mid-ground, with trees and hills behind.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-patchventenatapondo.jpg)
+![A photo of a dry, grassy understory with stones in the foreground and several boulders and trees in the mid-ground, with trees and hills behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-patchventenatapondo.jpg?itok=fUvf8Ocp)
 
 Photo Credit
 
@@ -512,7 +512,7 @@ Sickle mow & remove vegetation + fall sulfosulfuron| 9.20 ab| 4.40 a
 Rotary mow| 38.30 e| 40.00 bcd 
 Rotary mow + fall sulfosulfuron| 19.30 bcd| 15.10 ab 
  
-![Four grouped photos labeled "low ventenata—fall burn", "High ventenata—fall burn", "low ventenata—spring burn", and "high ventenata—spring burn". All photos show burning grass, and two photos show individuals lighting or observing the fires.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-burntreatments.jpg)
+![Four grouped photos labeled "low ventenata—fall burn", "High ventenata—fall burn", "low ventenata—spring burn", and "high ventenata—spring burn". All photos show burning grass, and two photos show individuals lighting or observing the fires.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-burntreatments.jpg?itok=3m5CZnqc)
 
 Photo Credit
 
@@ -683,7 +683,7 @@ By mid-century, average annual temperature and precipitation are projected to in
 
 Harvey et al. (2020) examined differences in ventenata and cheatgrass seedling growth when grown alone or together under 2018 temperatures (4 °C nighttime/23 °C daytime) and carbon dioxide levels (400 ppm) compared to predicted future (2100) temperatures (10.6 °C/29.6 °C) and carbon dioxide levels (800 ppm). Cheatgrass was larger than ventenata across climate and competition treatments, and both species were smaller in the future climate treatment. Ventenata allocated more growth to its roots than cheatgrass under both climate treatments, suggesting that ventenata may have a competitive advantage over cheatgrass for soil resources [71].
 
-![A map showing U.S. counties with many counties in eastern and western counties colored orange, many counties in northwestern states and few scatter counties in eastern states colored light purple, and several counties in central states colored dark purple. Populations in orange counties are expanding, in light purple counties are stable, and in dark purple counties are retracting. Remaining counties are unsuitable habitat and colored white.]({{ site.baseurl }}/assets/images/species-reviews/vendub_feis-climatechangemap_withlegend.jpg)
+![A map showing U.S. counties with many counties in eastern and western counties colored orange, many counties in northwestern states and few scatter counties in eastern states colored light purple, and several counties in central states colored dark purple. Populations in orange counties are expanding, in light purple counties are stable, and in dark purple counties are retracting. Remaining counties are unsuitable habitat and colored white.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-climatechangemap_withlegend.jpg?itok=9INEDUON)
 
 Photo Credit
 

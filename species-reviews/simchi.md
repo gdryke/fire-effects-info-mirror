@@ -34,7 +34,7 @@ Matthews, Robin F. 1994. _Simmondsia chinensis_ , jojoba. In: Fire Effects Infor
 
 ## Image Gallery
 
-![Photo of jajoba.]({{ site.baseurl }}/assets/images/species-reviews/feis-simchi_plant.jpg) Jojoba. _Photo by Alan Weakley, iNaturalist.org._
+![Photo of jajoba.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-simchi_plant.jpg) Jojoba. _Photo by Alan Weakley, iNaturalist.org._
 
 Photo Credit: Photo by Alan Weakley, iNaturalist.org.
 

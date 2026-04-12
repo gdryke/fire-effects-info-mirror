@@ -63,7 +63,7 @@ California coffeeberry, California false buckthorn, hoary coffeeberry
 
 ## General Distribution
 
-![A map of the western U.S. with counties highlighted in green where California buckthorn occurs. Most of California is highlighted, as well as scattered counties in adjacent states.]({{ site.baseurl }}/assets/images/species-reviews/feis-fracal_map.jpg)
+![A map of the western U.S. with counties highlighted in green where California buckthorn occurs. Most of California is highlighted, as well as scattered counties in adjacent states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fracal_map.jpg?itok=230C2xsy)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ In the Siskiyou Mountains, sites supporting tanoak/California buckthorn plant as
 
 ## Plant Communities
 
-![A photo of a large, round shrub growing in a dry, open area with hills, grass, and shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fracal_habitat.jpg)
+![A photo of a large, round shrub growing in a dry, open area with hills, grass, and shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fracal_habitat.jpg?itok=vWGMaIc5)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ California buckthorn is also a characteristic shrub within extensive, evergreen 
 
 ## Botanical Description
 
-![A close up photo of a shrub's oval, green leaves and clusters of shiny red berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-fracal_fruit.jpg)
+![A close up photo of a shrub's oval, green leaves and clusters of shiny red berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fracal_fruit.jpg?itok=KlYCx3sB)
 
 Photo Credit
 
@@ -167,7 +167,7 @@ Following fires which kill aerial stems, California buckthorn sprouts vigorously
 
 ## Plant Response to Fire
 
-![A photo of a burned hillside with a dense clump of stems with bright green leaves growing from the base of a burned trunk. The ground is bare; there are burned trees and shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fracal_sprouting.jpeg)
+![A photo of a burned hillside with a dense clump of stems with bright green leaves growing from the base of a burned trunk. The ground is bare; there are burned trees and shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-fracal_sprouting.jpeg?itok=IiFQFjNc)
 
 Photo Credit
 

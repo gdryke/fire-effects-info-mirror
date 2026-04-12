@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South Texas scrub communities has not yet b
 
 ## Distribution
 
-![A map showing the distribution of South Texas scrub communities in southern Texas.]({{ site.baseurl }}/assets/images/fire-regimes/south-texas-scrub_feis-south_texas_scrub_locator.jpg)
+![A map showing the distribution of South Texas scrub communities in southern Texas.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-south_texas_scrub_locator.jpg?itok=2qdZcuKh)
 
 Photo Credit
 

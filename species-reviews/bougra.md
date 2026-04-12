@@ -36,7 +36,7 @@ Anderson, Michelle D. 2003. _Bouteloua gracilis_ , blue grama. In: In: Fire Effe
 
 ## Taxonomy
 
-![A photo of a grass spike curling back on itself to form a tufty half circle. Shrubs and bunchgrass grow in the background with bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-bougra_plant.jpg)
+![A photo of a grass spike curling back on itself to form a tufty half circle. Shrubs and bunchgrass grow in the background with bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bougra_plant.jpg?itok=FGnIVPQ9)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ In salt-desert shrub communities, blue grama associated shrub species include sh
 
 In the evergreen oak woodlands of the southwest, blue grama occurs in the understory with muhlys (_Muhlenbergia_ spp.), plains lovegrass (_Eragrostis intermedia_), sideoats grama (_Bouteloua curtipendula_), hairy grama (_B. hirsuta_), little bluestem (_Schizachyrium scoparium_), and cane bluestem (_Bothriochloa barbinodis_) [68].
 
-![A photo of a somewhat spreading bunchgrass withdense spikes on reproductive stems. Yellow flowers grow on subshrubs behind, and rocky, dry soil is visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-bougra_community.jpg)
+![A photo of a somewhat spreading bunchgrass withdense spikes on reproductive stems. Yellow flowers grow on subshrubs behind, and rocky, dry soil is visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bougra_community.jpg?itok=DIhUOZAC)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Blue grama patches may form ring patterns as blue grama develops a crown that is
 
 Plant height at maturity ranges from 6 to 12 inches (15-30 cm) [131,193,240,274]. Blue grama leaves are flat and taper to a point [112], growing 1 to 10 inches (2.5-25 cm) long [7,47,188,261,349] and less than 1/8 inch (3 mm) wide [47,112,118,160,161,171,180,188,349], and persistent [118]. Blue grama is solid-stemmed [83], and the flowering stems generally grow 7 to 18 inches (17-46 cm) tall [112,161,188,240,241,349]. Each inflorescence usually has 2 branches or spikes that extend at sharp angles from the main stem and are ascending to spreading and curved at maturity [47,124,188,349]. Blue grama has 20 to 90 spikelets per spike [112,164,180,241].
 
-![A photo of several reproductive grass stems with dense spikes growing off of the main stem at an angle.]({{ site.baseurl }}/assets/images/species-reviews/feis-bougra_repro.jpg)
+![A photo of several reproductive grass stems with dense spikes growing off of the main stem at an angle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bougra_repro.jpg?itok=jjIl5akD)
 
 Photo Credit
 
@@ -264,7 +264,7 @@ No entry.
 
 ## Plant Response to Fire
 
-![A photo of a bunchgrass with many spikes on flowering stems surrounded by bare ground with other grasses just visible growing behind and burned tree trunks visible in the distance.]({{ site.baseurl }}/assets/images/species-reviews/bougra_bougra_postfire_0_0.jpg)
+![A photo of a bunchgrass with many spikes on flowering stems surrounded by bare ground with other grasses just visible growing behind and burned tree trunks visible in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/bougra_postfire_0_0.jpg?itok=9aaGPZnJ)
 
 Photo Credit
 

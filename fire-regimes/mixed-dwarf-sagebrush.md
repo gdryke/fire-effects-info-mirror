@@ -24,7 +24,7 @@ U.S. Department of Agriculture, Forest Service, Missoula Fire Sciences Laborator
 
 ## Image Gallery
 
-![Photo of a broad valley floor covered by a low, dry, shrubland with a lot of bare soil and mountains in the background.]({{ site.baseurl }}/assets/images/fire-regimes/mixed-dwarf-sagebrush_feis-MixedDwarfSagebrush_FRR_habitat.jpg) A black sagebrush community below the Pequop Mountains, northeastern Nevada. _Creative Commons image by Matt Lavin, Bozeman, Montana._
+![Photo of a broad valley floor covered by a low, dry, shrubland with a lot of bare soil and mountains in the background.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-MixedDwarfSagebrush_FRR_habitat.jpg) A black sagebrush community below the Pequop Mountains, northeastern Nevada. _Creative Commons image by Matt Lavin, Bozeman, Montana._
 
 Photo Credit: Creative Commons image by Matt Lavin, Bozeman, Montana.
 
@@ -51,7 +51,7 @@ yellow rabbitbrush| _Chrysothamnus viscidiflorus_
 
 ## Distribution
 
-![Image of a map of the western United States showing the distribution of mixed dwarf sagebrush communities, mostly in the Great Basin of Nevada, Utah, Idaho, and Oregon, as well as the Columbia Plateau of Oregon and Washington, with additional occurrences in Utah, Colorado, New Mexico, and Arizona.]({{ site.baseurl }}/assets/images/fire-regimes/mixed-dwarf-sagebrush_feis-MixedDwarfSagebrush_FRR_map.jpg) 
+![Image of a map of the western United States showing the distribution of mixed dwarf sagebrush communities, mostly in the Great Basin of Nevada, Utah, Idaho, and Oregon, as well as the Columbia Plateau of Oregon and Washington, with additional occurrences in Utah, Colorado, New Mexico, and Arizona.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-MixedDwarfSagebrush_FRR_map.jpg?itok=XxqZkjuP) 
  
 Photo Credit
 

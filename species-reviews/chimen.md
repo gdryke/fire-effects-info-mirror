@@ -40,7 +40,7 @@ The currently accepted scientific name of little prince's-pine is _Chimaphila me
 
 Little prince's-pine is closely related to prince's-pine (_C. umbellata_) but is smaller in stature [14,33].
 
-![A photo of two white flowers at the end of branches with serrated leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-chimen_habitat.jpeg)
+![A photo of two white flowers at the end of branches with serrated leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chimen_habitat.jpeg?itok=AeThh0wA)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Little prince's-pine is distributed from British Columbia south to the San Jacin
 
 Little prince's-pine is found in montane to subalpine coniferous forests [16,17,20,22,26]. In coastal regions of British Columbia little prince's-pine is an indicator of moderately dry to moist soils within maritime to submaritime, cool mesothermal climates [19]. On peaks of the Santa Lucia and Diablo ranges of California, little prince's-pine is confined to steep, rocky slopes above 4,000 feet (1,200 m) [11]. On the Mount Hood and Willamette National Forests, it occurs on moist to wet, imperfectly to well-drained sites at elevations from 2,700 to 6,100 feet (800-1,850 m). Soils range from deep sandy, silty, or clay loams developed from volcanic tephra to shallow, stony loams developed from colluvium or glacial till [15].
 
-![A photo of a forb with drooping flower buds at the end of erect pink stems, with dark green, serrated leaves below. The plant is growing out of moss adjacent to a lichen-covered log.]({{ site.baseurl }}/assets/images/species-reviews/feis-chimen_log.jpg)
+![A photo of a forb with drooping flower buds at the end of erect pink stems, with dark green, serrated leaves below. The plant is growing out of moss adjacent to a lichen-covered log.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chimen_log.jpg?itok=0FF6fB9u)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Some species commonly associated with little prince's-pine include Rocky Mountai
 
 Little prince's-pine is a native, evergreen, low rhizomatous shrub or perennial forb. The woody stems are usually 2 to 6 inches (5-15 cm) tall and the leathery, whorled leaves are sharply serrate. The plant has one to three flowers. Fruits are depressed, globose capsules that often persist through the winter [17,22,24,40].
 
-![A photo of several stems with dark green, serrated leaves at their bases and small clusters of three flowers at the ends of erect stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-chimen_plant.jpeg)
+![A photo of several stems with dark green, serrated leaves at their bases and small clusters of three flowers at the ends of erect stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-chimen_plant.jpeg?itok=D5QJj-wP)
 
 Photo Credit
 

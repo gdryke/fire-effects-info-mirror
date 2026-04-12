@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Dasylirion leiophyllum,_ green sotol. In: Fire Effects In
 
 ## Image Gallery
 
-![Photo of green sotol.]({{ site.baseurl }}/assets/images/species-reviews/feis-daslei_plant.jpeg) Green sotol. _Photo by Meece Family, iNaturalist.org, no rights reserved._
+![Photo of green sotol.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-daslei_plant.jpeg) Green sotol. _Photo by Meece Family, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Meece Family, iNaturalist.org, no rights reserved.
 
@@ -79,7 +79,7 @@ Green sotol is dominant in the Chihuahuan Desert region on gravelly to bouldered
 
 ## Botanical Description
 
-![Photo of green sotol.]({{ site.baseurl }}/assets/images/species-reviews/feis-daslei_plant.jpeg)
+![Photo of green sotol.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-daslei_plant.jpeg?itok=ewEH6IJF)
 
 Photo Credit
 

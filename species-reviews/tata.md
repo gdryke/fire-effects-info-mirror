@@ -72,7 +72,7 @@ There is considerable overlap in the ranges of subspecies, with intermediate for
 
 ## Plant Communities
 
-![A photo of a badger with a flattened, wide body and head, a gray and white striped face, and an orangey tail. The badger is standing on dusty ground with scattered low vegetation.]({{ site.baseurl }}/assets/images/species-reviews/tata_tata_colorado.jpg)
+![A photo of a badger with a flattened, wide body and head, a gray and white striped face, and an orangey tail. The badger is standing on dusty ground with scattered low vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/tata_colorado.jpg?itok=xPJcYwKr)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ The American badger is an aggressive animal and has few natural enemies. There a
 
 ### Diet
 
-![A photo of a badger with a brownish-grey body and a black and white striped face sitting in a grassy area eating a rabbit. ]({{ site.baseurl }}/assets/images/species-reviews/feis-tata_cottontail.jpg)
+![A photo of a badger with a brownish-grey body and a black and white striped face sitting in a grassy area eating a rabbit. ](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-tata_cottontail.jpg?itok=RqcPApDs)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ American badgers occur primarily in grasslands, parklands, farms, and other tree
 
 American badgers enlarge hunting burrows for concealment, protection from weather, and as natal dens; burrows are up to 30 feet (10 m) long and 10 feet (3 m) deep. Large mounds of soil are built up at burrow entrances [1].
 
-![A photo of one adult and two young badgers with black and white striped heads looking out of a den in the ground with fresh soil at the entrance. The area is open grass with scattered shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-tata_burrow.jpg)
+![A photo of one adult and two young badgers with black and white striped heads looking out of a den in the ground with fresh soil at the entrance. The area is open grass with scattered shrubs.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-tata_burrow.jpg?itok=U2KGWLVU)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ American badgers are rarely threatened by fire even though they occur in fire-pr
 
 ## Fire Effects on Habitat
 
-![ A photo of a badger with a black and white striped face standing at the base of a large upturned root wad of a large tree. The roots have been burned and there is evidence of previous fire in the surrounding area.]({{ site.baseurl }}/assets/images/species-reviews/feis-tata_burnedforest.jpg)
+![ A photo of a badger with a black and white striped face standing at the base of a large upturned root wad of a large tree. The roots have been burned and there is evidence of previous fire in the surrounding area.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-tata_burnedforest.jpg?itok=hXdMZQ3S)
 
 Photo Credit
 

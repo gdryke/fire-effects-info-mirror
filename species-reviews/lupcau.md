@@ -57,7 +57,7 @@ Cutler's spurred lupine, Kellogg's spurred lupine, spurred lupine
 
 Tailcup lupine is distributed from eastern Washington, Oregon, and California east to Montana, southwestern South Dakota, northwestern Nebraska, Colorado, and New Mexico [14,26,42,53].
 
-![Map of the distribution of tailcup lupine.]({{ site.baseurl }}/assets/images/species-reviews/feis-lupcau_map.jpg)
+![Map of the distribution of tailcup lupine.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-lupcau_map.jpg?itok=e0plHwDJ)
 
 Photo Credit
 

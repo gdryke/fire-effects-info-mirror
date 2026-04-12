@@ -61,7 +61,7 @@ Letterman's needlegrass occurs throughout most of the western United States and 
 
 Letterman's needlegrass occurs across a wide range of elevations and exposures [1]. It is found on sandy loam, loam, silty clay loam, or clay loam soils [3,8,18,39]. It typically occurs on dry soils 15 inches (38 cm) or more in depth, but it can be found on very fertile soils or severely eroded ones [1,3,7,14,18,22,38,63]. It is commonly found on gentle slopes (3-10%) with a northern aspect [3,5]. The annual precipitation is 0.74 to 29.48 inches (188-749 mm) [5,13,17,22,39,40,51,67]. The average annual temperature where Letterman's needlegrass is found in Utah is 32.5 to 42.6 degrees Fahrenheit (.28-5.89 °C) [13]. The average maximum temperature in Utah (1935-1944) was between 55.8 and 73.2 degrees Fahrenheit (13.2-22.9 °C) and the average minimum temperature was between 12.1 and 36.9 degrees Fahrenheit (-11.1-2.7 °C) [22]. For Colorado, the average temperature ranges from 34 to 65 degrees Fahrenheit (1.11-18.3 °C) [40]. It is described as somewhat more drought-resistant than the closely related Columbia needlegrass [63].
 
-![A photo of a somewhat sparse bunchgrass growing on a rocky outcrop with a treed ridgeline extending into the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-achlet_sitechars.jpg)
+![A photo of a somewhat sparse bunchgrass growing on a rocky outcrop with a treed ridgeline extending into the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-achlet_sitechars.jpg?itok=kfBPDbak)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ It is an important species in many early- to late-seral and subclimax plant comm
 
 Letterman's needlegrass is a native, densely tufted, slender, perennial bunchgrass which often forms large clumps [15,17,18,27,30,38,39,40,63,65,66]. Old sheath bases of the culms are persistent [65]. This fine-stemmed, cool-season, erect grass grows from 6-60 inches (15-150 cm) in height [13,17,27,39,40,56,63,65,66]. Letterman's needlegrass has few spikelets [15], inflorescences are 2.8 to 7.5 inches (7-19 cm), and the awns are 0.5 to 1 inch (1.2-2.5 cm) long [27]. It has a fibrous root system and Woolley [66] found vertical root lengths of 35.4 inches (90 cm).
 
-[![A photo of a grass inflorescence with a meadow in the background, with trees in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-achlet_panicle.jpg)Photo Credit Photo by Greg Pappas, iNaturalist (CC BY-NC 4.0). Letterman's needlegrass growing in a dry, montane meadow. Sierra Madre Range, Carbon County, WY.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a grass inflorescence with a meadow in the background, with trees in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-achlet_panicle.jpg?itok=7pLO7AZB)Photo Credit Photo by Greg Pappas, iNaturalist (CC BY-NC 4.0). Letterman's needlegrass growing in a dry, montane meadow. Sierra Madre Range, Carbon County, WY.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

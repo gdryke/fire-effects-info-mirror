@@ -32,7 +32,7 @@ Since European-American settlement, fuel and fire regime characteristics in many
 
 ## Introduction
 
-![Photo of a dry shrubland on fire with large, yellow and orange flames and smoke taking up most of the frame. ]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure1.png)
+![Photo of a dry shrubland on fire with large, yellow and orange flames and smoke taking up most of the frame. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure1.png?itok=0sy4QLMa)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ For information regarding the biology and ecology of Wyoming big sagebrush and b
 
 ## General Distribution
 
-![Image of a map of the western United States, showing the distribution of Wyoming and basin big sagebrush communities in blue, pink and red, occurring mostly in the Great Basin, Snake River Plateau, and intermountain basins in the Rocky Mountains.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure2.jpg)
+![Image of a map of the western United States, showing the distribution of Wyoming and basin big sagebrush communities in blue, pink and red, occurring mostly in the Great Basin, Snake River Plateau, and intermountain basins in the Rocky Mountains.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure2.jpg?itok=tEnqLEEL)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ It is unclear how similar contemporary annual herbaceous biomass production is t
 
 Soil surface horizons can provide insights into historical surface fuels on some sites. Where Wyoming big sagebrush occurs in Mollisols, mollic epipedon thickness is less than that of sites dominated by basin big sagebrush and mountain big sagebrush [174], but greater than that on sites dominated by black sagebrush [173]. Mollisols develop in areas where grasses have been codominant to dominant for a prolonged period (hundreds to thousands of years) [139], and the presence of a thick mollic epipedon suggests that these communities historically had a relatively dense layer of herbaceous surface fuels. The absence of a thick mollic epipedon indicates that Wyoming big sagebrush communities historically did not have as productive an herbaceous layer as basin big sagebrush and mountain big sagebrush communities [142], although it does not suggest a particular fire regime [385].
 
-![Two conceptual graphs showing how resilience to disturbance and resistance to cheatgrass invasion are greatest on relatively cooler, moister sites at higher elevations and north aspects, where native plant communities are more productive and dominated by mountain big sagebrush, rather than Wyoming or Basin big sagebrush, which are less resilient and resistant.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure3.jpg)
+![Two conceptual graphs showing how resilience to disturbance and resistance to cheatgrass invasion are greatest on relatively cooler, moister sites at higher elevations and north aspects, where native plant communities are more productive and dominated by mountain big sagebrush, rather than Wyoming or Basin big sagebrush, which are less resilient and resistant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure3.jpg?itok=_oxum258)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ Big sagebrush communities occur within a mosaic of forests, woodlands, shrubland
 
 ## Presettlement Fire Regimes
 
-![Photo of a large, open shrubland extending over a large area with a mountain range in the distant background.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure4.jpg)
+![Photo of a large, open shrubland extending over a large area with a mountain range in the distant background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure4.jpg?itok=SSTwZV0v)
 
 Photo Credit
 
@@ -278,7 +278,7 @@ Postfire recovery time (i.e., the length of time necessary for big sagebrush cov
 
 The 2019 FEIS Species Review about Wyoming big sagebrush included a review and analysis of Wyoming big sagebrush postfire recovery data from 112 burned sites in seven ecoregions examined in 24 studies (table A2). These analyses showed slow postfire recovery of Wyoming big sagebrush cover, overall (fig. 5). When Wyoming big sagebrush cover and postfire recovery were plotted against time-since-fire for each ecoregion, postfire recovery appeared slow on all sites in all ecoregions, except on five sites in the Middle Rockies ecoregion that neared recovery (fig. A1). However, differences in the number of study sites and time-since-fire made it difficult to compare recovery among ecoregions. For example, only two ecoregions had study sites that exceeded 20 years since fire. Data from sites in these ecoregions showed that 3 of 27 sites in the Middle Rockies neared recovery (within 90%) 9 to 33 years since fire [232,249,296,376,380,384] (fig. A1c), while no sites in the Northwestern Great Plains neared recovery within 66 years since fire [51,103,106,122] (fig. A1e). Sites in the Middle Rockies nearing recovery were relatively moist [235,376], suggesting that Wyoming big sagebrush cover might occasionally recover on relatively moist Wyoming big sagebrush sites within about 33 years. While some sites in the Northwestern Great Plains were dry, others were relatively moist [51,103,104,122], yet no sites >20 years since fire had recovered [106]. While a few sites in the Middle Rockies ecoregion showed relatively fast recovery, most were slow to recover. For example, one site had <0.2% Wyoming big sagebrush cover 23 years since fire [232], and another had 0% Wyoming big sagebrush cover 19 years since fire [249]. Heavy browsing of Wyoming big sagebrush by wild ungulates may have contributed to slow recovery on some sites in the Middle Rockies ecoregion (e.g., [249]), while heavy postfire browsing by wild ungulates was not mentioned in studies of Wyoming big sagebrush with the highest postfire recovery [234,376,384]. According to LANDFIRE, fire intervals on big sagebrush steppe and shrubland sites in the Middle Rockies (map zones 19 and 21) ranges from 72 to 100 years [210,217,219,226], which is similar to fire frequency in the Northwestern Great Plains (map zones 20 and 29; 90 years) [208,227] (table 2). A direct relationship between postfire recovery and fire frequency [14,417] suggests relatively similar postfire recovery times in these two ecoregions.
 
-![Graph showing the postfire recovery of Wyoming big sagebrush over time. Results are variable, but little recovery is evident after more than 50 years.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure5.jpg)
+![Graph showing the postfire recovery of Wyoming big sagebrush over time. Results are variable, but little recovery is evident after more than 50 years.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-WY%26BasinFRS_Figure5.jpg)
 
 Photo Credit
 
@@ -292,7 +292,7 @@ Wyoming big sagebrush is expected to have a longer postfire recovery time than m
 
 Infrequent fire in big sagebrush communities is sometimes inferred by the presence of junipers and pinyons because they are susceptible to fire when young [9,81,160,262,324,430]. For example, because western juniper trees <50 years old are easily killed by fire, several authors inferred that mean fire intervals of <50 years would inhibit woodland expansion into sagebrush communities [81,324,430].
 
-![Graph showing how cover and density of western juniper may increase in sagebrush shrublands over time in the absence of fire.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure6.jpg)
+![Graph showing how cover and density of western juniper may increase in sagebrush shrublands over time in the absence of fire.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-WY%26BasinFRS_Figure6.jpg)
 
 Photo Credit
 
@@ -379,7 +379,7 @@ Much of the remaining area occupied by Wyoming big sagebrush and basin big sageb
 
 ## Postsettlement Plant Communities and Fuels
 
-![Photo of a sparse shrubland with a scattering of juniper trees and a dense understory of brown grasses and scattering of forbs with yellow flowers.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure7.jpg)
+![Photo of a sparse shrubland with a scattering of juniper trees and a dense understory of brown grasses and scattering of forbs with yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure7.jpg?itok=GZMmz6YT)
 
 Photo Credit
 
@@ -416,7 +416,7 @@ These changes result in plant communities that are less resilient to fire and ot
 
 ### Changes in Herbivory
 
-![Photo of a low shrubland with a dusting of snow and a small herd of five elk.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure8.jpg)
+![Photo of a low shrubland with a dusting of snow and a small herd of five elk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure8.jpg?itok=LMF3wwHV)
 
 Photo Credit
 
@@ -487,7 +487,7 @@ A study that examined charcoal sediment records from a spring-fed pond surrounde
 
 #### Fire Frequency Based on Fire-scar and Contemporary Fire Records
 
-![Photo of a small ridge covered with small shrubs and low growing grasses, with a large smoke plume rising in the distance against a blue sky.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure9.jpg)
+![Photo of a small ridge covered with small shrubs and low growing grasses, with a large smoke plume rising in the distance against a blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure9.jpg?itok=bXFaM9OL)
 
 Photo Credit
 
@@ -599,7 +599,7 @@ cSignificantly different from cheatgrass grassland at _P_ < 0.10 [18].
  
 #### Fire Suppression and Fire Size
 
-![Aerial photo of a small, shrub covered mountain range, with grass-covered foothills, part of which is blackened, as a plume of smoke rises from near the top of a ridge.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-big-sagebrush-and-basin-big-sagebrush_feis-WY%26BasinFRS_Figure10.jpg)
+![Aerial photo of a small, shrub covered mountain range, with grass-covered foothills, part of which is blackened, as a plume of smoke rises from near the top of a ridge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WY%26BasinFRS_Figure10.jpg?itok=d6-1ls5c)
 
 Photo Credit
 

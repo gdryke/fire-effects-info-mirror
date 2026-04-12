@@ -115,7 +115,7 @@ In the upper dune zone of the beach vegetation type in Florida, southeastern dev
 
 ## Botanical Description
 
-![Dark green cactus with short spines and big yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-opuhum_flowers.jpg)
+![Dark green cactus with short spines and big yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-opuhum_flowers.jpg?itok=wdsfDkjc)
 
 Photo Credit
 

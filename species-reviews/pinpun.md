@@ -112,7 +112,7 @@ Table Mountain pine is a dominant species in the following vegetation types and 
 
 ## Botanical Description
 
-![Photo of table mountain pine growing alone on a sunny ridgetop.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpun_tree.jpg)
+![Photo of table mountain pine growing alone on a sunny ridgetop.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinpun_tree.jpg?itok=WE6UxhaK)
 
 Photo Credit
 
@@ -160,7 +160,7 @@ Fire aids the regeneration of Table Mountain pine in several ways. It opens the 
 
 ### Pollination
 
-![Photo of table mountain pine branch with green needles and cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpun_hero.jpg)
+![Photo of table mountain pine branch with green needles and cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pinpun_hero.jpg?itok=OZCszGuH)
 
 Photo Credit
 

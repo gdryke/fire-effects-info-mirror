@@ -77,7 +77,7 @@ In the Chisos Mountains, drooping juniper occurs in moist woodlands, pine-oak (P
 
 ## Botanical and Ecological Characteristics
 
-![Photo of multi-stemmed form of drooping juniper growing in Mexico. ]({{ site.baseurl }}/assets/images/species-reviews/feis-junfla_tree_0.jpg)
+![Photo of multi-stemmed form of drooping juniper growing in Mexico. ](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-junfla_tree_0.jpg?itok=aEkEhiEK)
 
 Photo Credit
 

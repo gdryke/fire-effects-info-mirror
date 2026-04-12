@@ -80,7 +80,7 @@ The brush deermouse can be found from northern California, to eastern Colorado a
 
 ## Biological Characteristics
 
-![A photo of a small brown mouse with black eyes standing in what looks like a metal bucket or wheelbarrow.]({{ site.baseurl }}/assets/images/species-reviews/feis-pebo_captured.jpg)
+![A photo of a small brown mouse with black eyes standing in what looks like a metal bucket or wheelbarrow.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-pebo_captured.jpg?itok=Q0tmvX5U)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ A study utilizing radiotelemetry and trapping data in Arizona estimated mean hom
 
 No significant differences in habitat use between genders were observed in Arizona [43]. Typical brush deermouse habitat in southern Arizona was characterized by 74% tree cover, 60% leaf cover, 21% shrub cover, and 16% rock cover. Additionally, 67% of all brush deermice relocated by radiotelemetry in the study were located in a riparian zone with the other observations occurring in uplands and an intermittent stream channel. Brush deermice used sites with significantly (_P_ <0.05) more rock cover (19% to 22%) during winter and spring than at other times of the year. Also in spring, plots with the most brush deermice also had significantly (_P_ <0.05) more shrub cover (21% vs.14%) and succulents (9% vs. 2%) than random plots [43].
 
-![A photo of a small brown mouse peeking out from between rocks. The photo is taken at night.]({{ site.baseurl }}/assets/images/species-reviews/feis-pebo_habitat.jpeg)
+![A photo of a small brown mouse peeking out from between rocks. The photo is taken at night.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-pebo_habitat.jpeg?itok=TBY44otj)
 
 Photo Credit
 

@@ -48,7 +48,7 @@ In addition to fire, physical and mechanical control, livestock grazing, biologi
 
 ## Taxonomy
 
-![Close-up photo of a yellow flower with long spines emerging from bracts.]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_flower_fig1.jpg)
+![Close-up photo of a yellow flower with long spines emerging from bracts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_flower_fig1.jpg?itok=Q5SNKj5P)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ yellow star-thistle, yellow star thistle, St. Barnaby's thistle, Barnaby's star-
 
 ## General Distribution
 
-![Map showing the distribution of yellow starthistle by United States counties, with the greatest abundance in far western states.]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_Eddmaps_fig2.jpg)
+![Map showing the distribution of yellow starthistle by United States counties, with the greatest abundance in far western states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_Eddmaps_fig2.jpg?itok=6TSY4fve)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ Yellow starthistle populations in the United States exhibit variations in morpho
 
 ## Botanical Description
 
-![Photo of a multi-stemmed plant with abundant yellow flowers. ]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_plant_fig3.jpg)
+![Photo of a multi-stemmed plant with abundant yellow flowers. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_plant_fig3.jpg?itok=vpQ8jBBB)
 
 Photo Credit
 
@@ -277,7 +277,7 @@ Sites with a high density of yellow starthistle plants tend to have high density
 
 Viable seed bank density fluctuates in response to weather conditions that stimulate germination. It generally peaks after seed dispersal—from late summer to winter—and decreases throughout the following year [159,280]. For example, in southeastern Washington, about 29,150 seeds/cm² were collected in seed traps in fall, and about 20 seeds/cm² occurred in the top 1 inch (2.5 cm) of soil the following May [256]. Observations near Davis, California, indicated that density of viable plumed seeds in the soil peaked after dispersal in fall, declined rapidly when seeds germinated after the first fall rains, and generally declined thereafter [159] (fig. 4).
 
-![Graph of yellow starthistle seed density at three sites over time.]({{ site.baseurl }}/assets/images/species-reviews/feis-censol_fig4.jpg)
+![Graph of yellow starthistle seed density at three sites over time.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-05/feis-censol_fig4.jpg?itok=nHBOvq7i)
 
 Photo Credit
 
@@ -378,7 +378,7 @@ In the mountainous ecoregions of Washington, Oregon, Idaho, and Montana, yellow 
 
 ## Immediate Fire Effects
 
-![Photo of a blackened, burned field in foreground with unburned area in background.]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_BurnedField_fig5.jpg)
+![Photo of a blackened, burned field in foreground with unburned area in background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_BurnedField_fig5.jpg?itok=a2xUEtlM)
 
 Photo Credit
 
@@ -404,7 +404,7 @@ Yellow starthistle is a winter annual that produces abundant seeds (see Seed Pro
 
 ## Plant Response to Fire
 
-![Photo showing a firefighter igniting a prescribed fire in a field covered with dormant, gray plants using a drip torch.]({{ site.baseurl }}/assets/images/species-reviews/feis-censol_fig6.jpg)
+![Photo showing a firefighter igniting a prescribed fire in a field covered with dormant, gray plants using a drip torch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-censol_fig6.jpg?itok=8hDRv3HY)
 
 Photo Credit
 
@@ -504,7 +504,7 @@ Consecutive annual burning may be detrimental to native plant communities [146].
 
 ### Integrated Management with Prescribed Fire
 
-![Photo of a large field with patches of dormant \(gray\) and living \(green and yellow\) plants, with a sign in the foreground indicating an experimental treatment.]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_BeforeRxFire_fig7a.jpg)
+![Photo of a large field with patches of dormant \(gray\) and living \(green and yellow\) plants, with a sign in the foreground indicating an experimental treatment.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_BeforeRxFire_fig7a.jpg?itok=ThAE8ikA)
 
 Photo Credit
 
@@ -512,7 +512,7 @@ Photo courtesy of the Monterey County Agricultural Commissioner's Office.
 
 Figure 7a—Field invaded by yellow starthistle at US Army Garrison Fort Hunter Liggett, Monterey County, California, **before treatments**. Treatments were prescribed fire (26 November 2012), mowing and aminopyralid application to emerging rosettes (14 March 2013). Yellow starthistle appears as silvery gray skeletons. Details about this project can be found at the County of Monterey website. 
 
-![Photo of dense smoke and flames burning a field with dormant plants.]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_Burning_fig7b.jpg)
+![Photo of dense smoke and flames burning a field with dormant plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_Burning_fig7b.jpg?itok=lgdVgxHV)
 
 Photo Credit
 
@@ -520,7 +520,7 @@ Photo courtesy of the Monterey County Agricultural Commissioner's Office.
 
 Figure 7b—Field invaded by yellow starthistle at US Army Garrison Fort Hunter Liggett **during prescribed fire**. Details about this project can be found at the County of Monterey website.
 
-![Photo of a large field covered with green and yellow plants, with hills in the background and a sign in the foreground indicating that this is an experimental control site for yellow starthistle.]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_AfterRxFire_fig7c.jpg)
+![Photo of a large field covered with green and yellow plants, with hills in the background and a sign in the foreground indicating that this is an experimental control site for yellow starthistle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_AfterRxFire_fig7c.jpg?itok=tc_fQ0zv)
 
 Photo Credit
 
@@ -640,7 +640,7 @@ Yellow starthistle can be converted into thermoplastics as a sustainable alterna
 
 ## Impacts
 
-![Photo of a large, densely yellow field in the foreground with hills in the background. ]({{ site.baseurl }}/assets/images/species-reviews/censol_feis-CENSOL_field_fig8.jpg)
+![Photo of a large, densely yellow field in the foreground with hills in the background. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-CENSOL_field_fig8.jpg?itok=qR95syOB)
 
 Photo Credit
 

@@ -52,7 +52,7 @@ The scientific name of buffelgrass is _Pennisetum ciliare_ (L.) Link (Poaceae) [
 
 No infrataxa are recognized. While Jones et al. (1997) considered _Pennisetum ciliare_ var. _setigerum_ (Vahl) Leeke a cultivated variety of _Pennisetum ciliare_ [225], the PLANTS Database considers _Pennisetum ciliare_ var. _setigerum_ a synonym for _Cenchrus setiger_ (birdwood grass) [401].
 
-![A photo of a dense patch of grass with purplish brown bottlebrush-like panicles and green leaves.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_plant.jpg)
+![A photo of a dense patch of grass with purplish brown bottlebrush-like panicles and green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_plant.jpg?itok=ubLl2g59)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ buffel grass, African foxtail grass, anjan grass, buffel sandbur, dhaman grass, 
 
 Buffelgrass is native to southern Europe, Africa, and southern Asia from the Middle East east to Indonesia [41,167,184,255,396] (fig. 1). It was intentionally introduced in parts of North America, South America, Europe, eastern Asia, Australia, and several Atlantic and Pacific islands [255,328,410,445] for cattle forage and erosion control. It has since spread into native ecosystems in many areas [255].
 
-![A global map with Australia and many American countries highlighted red and African, Middle Eastern, and Oceanic countries highlighted green or yellow. All highlighted areas are within 45 degrees of the equator.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_GlobalDistribution.png)
+![A global map with Australia and many American countries highlighted red and African, Middle Eastern, and Oceanic countries highlighted green or yellow. All highlighted areas are within 45 degrees of the equator.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_GlobalDistribution.png?itok=-Kq75P9l)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Buffelgrass occurs in the southern United States from California to Florida [113
 
 In the United States, buffelgrass was first introduced in northern Texas in 1917 [255], but not successfully established until the 1940s. Since then, it has been used to stabilize soils on overgrazed rangelands and provide livestock forage [42,184,256,420]. Buffelgrass was commercially available by the 1950s [255], and by 1975, it occupied 90% of the seeded rangeland south of San Antonio [128]. By 1985, buffelgrass was established on over 4-million ha in southern Texas [89]. In 2020, buffelgrass remained a commonly planted pasture grass in Texas despite its impacts on native plant communities [430].
 
-![A map showing counties in the United States, showing some southern counties highlighted yellow, green, or blue to show where buffelgrass occurs, with most concentrated in the desert southwest.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_CurrentRange.jpg)
+![A map showing counties in the United States, showing some southern counties highlighted yellow, green, or blue to show where buffelgrass occurs, with most concentrated in the desert southwest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_CurrentRange.jpg?itok=qrvvOWkO)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Buffelgrass occurs on lowlands [83] and uplands [83,375]. In the Southwest and g
 
 Buffelgrass occurs on both disturbed [55,167,197,447] and undisturbed [55,122,197] sites (see Successional Status). For example, in the Arizona Upland subdivision of the Sonoran Desert, buffelgrass is most common 1) on disturbed rights-of-way, especially along large, paved roads that have been repeatedly bladed; 2) on undisturbed, steep, southern, southeastern, and southwestern aspects of hills with very poorly developed soils and caliche near the surface; 3) on shallowly incised drainages on hillsides with steep, southern aspects; and 4) along the upper portions of shallow arroyos in valley flats [405]. Buffelgrass is considered adapted to floodplains in the Sonoran and Chihuahuan deserts [91]. Buffelgrass may dominate the herbaceous layer of Tamaulipan riparian scrub forests that occur in mesic environments, including floodplains and arroyos (ramaderos) that are temporarily or intermittently flooded but dry during most the year [136,293]. Buffelgrass is invasive in oases of the Sonoran Desert on the Baja California Peninsula [294]. It occurs along coastal areas in Texas [142], Hawaii, and Baja California [136].
 
-![A photo of a desert with some bare ground in the foreground and relatively dense grass cover in the mid-ground, with bright green shrubs and a saguaro. Dramatic desert mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_TucsonInvasion.jpg)
+![A photo of a desert with some bare ground in the foreground and relatively dense grass cover in the mid-ground, with bright green shrubs and a saguaro. Dramatic desert mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-06/feis-PENCIL_TucsonInvasion.jpg?itok=w8PV1zvs)
 
 Photo Credit
 
@@ -222,7 +222,7 @@ In temperate ecosystems in Oklahoma and Missouri buffelgrass occurs in disturbed
 
 In the Sonoran and Chihuahuan deserts of the southwestern United States and northern Mexico, buffelgrass occurs in desert and semidesert grassland, desert scrub, interior chaparral, and oak woodland communities [136,405]. Sonoran desert scrub communities dominated by species such as brittle bush, acacia, spiny hackberry, Arizona mimosa, honey mesquite, creosote bush, saltbush, triangle bur ragweed, desert ironwood, yellow paloverde, and saguaro are susceptible to invasion by buffelgrass [56,122,205,273,299,345,380,381,396]. In the Arizona Upland and Lower Colorado River Valley subdivisions of the Sonoran Desert, buffelgrass is most invasive in paloverde-mixed cactus desert scrub, and may also occur in mixed salt desert scrub, and semidesert grassland and steppe [107]. Throughout Mexico, desert scrub is considered the most at risk for buffelgrass invasion. Mesquite woodlands, tropical deciduous forests, and desert grasslands are also at risk [23,408].
 
-![A photo of a rocky peak in the near distance with yellow patches of dense grass, green shrubs, and several varieties of cactus.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_RaggedTopInvasion.JPG)
+![A photo of a rocky peak in the near distance with yellow patches of dense grass, green shrubs, and several varieties of cactus.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_RaggedTopInvasion.JPG?itok=WbZbaqGA)
 
 Photo Credit
 
@@ -268,7 +268,7 @@ Large areas in northeastern Australia have been converted to cattle pastures by 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Identification keys are available for buffelgrass in the United States (e.g., [128,167,179,359,418,421,422]) and elsewhere (e.g., [400,409,410,445]).
 
-![A close-up photo of a purplish, bottlebrush-like seedhead with more visible in the background among green grass stems.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_Seedhead.jpg)
+![A close-up photo of a purplish, bottlebrush-like seedhead with more visible in the background among green grass stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_Seedhead.jpg?itok=aTag47hk)
 
 Photo Credit
 
@@ -538,7 +538,7 @@ Buffelgrass is described as a fire-adapted species because it typically survives
 
 Fire is likely to create conditions that are favorable for buffelgrass seedling establishment, although limited observations suggest that postfire seedling survival may be low [82,242] (see Postfire Seedling Establishment and Mortality). Buffelgrass abundance and growth often increase after fire, but the plant’s response to fire depends on postfire moisture availability, phenological stage at the time of burning, and fire frequency, intensity, and severity (see Postfire Abundance and Postfire Growth). According to a review, buffelgrass can tolerate burning better than most long-lived native perennials in the Sonoran Desert [110].
 
-![A photo of bright orange flames moving through a dense understory of dried grass, with flames reaching a much-branched cactus.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_CactusBurning.jpg)
+![A photo of bright orange flames moving through a dense understory of dried grass, with flames reaching a much-branched cactus.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_CactusBurning.jpg?itok=HY1TnWtV)
 
 Photo Credit
 
@@ -644,7 +644,7 @@ In Queensland, Australia, postfire seedling establishment from seeds sown on bur
 
 Observations in North America suggest that new buffelgrass growth can appear within 5 to 10 days after complete top-kill [86,256,365]. Postfire growth may depend on season of burning and postfire precipitation [86], but little information is available on these topics. In the Sonoran Desert, buffelgrass leaves began to appear within 5 to 10 days after summer prescribed fires “irrespective of temperature and precipitation” immediately after burning [256]. In Carbo, Mexico, green leaves appeared in less than 10 days on all buffelgrass plants on summer-burned plots, but growth during the following 60 days depended on precipitation amount and timing. Green leaves appeared on fall-burned plots in either December or February, but active growth occurred only in March following precipitation [86]. Smith (2010) described buffelgrass sprouts as “fast emerging” following prescribed fire in the South Texas Plains, with sprouts appearing within “a few days” of burning [365]. In buffelgrass pastures in the Northern Territory, Australia, buffelgrass growth began within 19 days after top-kill by a dry-season wildfire, and biomass increased until at least postfire day 146. A decline in biomass by postfire day 175 (fig. 7), was possibly due to some leaf death during a 2-week dry period [133].
 
-![A graph with "biomass" in kilograms per hectare on the y axis and "postfire day" on the x axis, with bars indicating low but gradually increasing amounts until postfire day 123, then an 8-fold increase by day 146, and a moderate decrease by day 175.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_Figure7.png)
+![A graph with "biomass" in kilograms per hectare on the y axis and "postfire day" on the x axis, with bars indicating low but gradually increasing amounts until postfire day 123, then an 8-fold increase by day 146, and a moderate decrease by day 175.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-06/feis-PENCIL_Figure7.png?itok=gVka9b_k)
 
 Photo Credit
 
@@ -690,7 +690,7 @@ In Saguaro National Park, buffelgrass aboveground biomass averaged 2,828 and 2,4
 
 When buffelgrass invades Sonoran desert scrub communities, it increases continuity of fine surface fuels by growing in what are typically bare interspaces between patches of native grasses, shrubs, trees, and succulents [132,268] (fig. 8). In native desert scrub communities in Sonora, buffelgrass invaded some sites by growing among native plants, filling interspaces, and forming a denser and more continuous herbaceous layer. Bare soil was much lower in a buffelgrass-invaded site (6.6%) than in uninvaded desert scrub (58%). Total plant cover on invaded sites was 93.4% and composed primarily of buffelgrass (57%), with native species, Arizona mimosa (17%) and yellow paloverde (8.8%) dominating the overstory. By comparison, total plant cover in native desert scrub was 42% and composed primarily of Arizona mimosa (15.7%), yellow paloverde (13.5%), and Willard’s acacia (6.5%) [44].
 
-![Two photos side by side. The left photo shows evenly spaced shrubs and cacti of various sizes with visible bare ground between. The right photo shows evenly spaced cacti with a few shrubs and a continuous layer of brown and green grass.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_Figure8_0.png)
+![Two photos side by side. The left photo shows evenly spaced shrubs and cacti of various sizes with visible bare ground between. The right photo shows evenly spaced cacti with a few shrubs and a continuous layer of brown and green grass.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-06/feis-PENCIL_Figure8_0.png?itok=UEv1mp0n)
 
 Photo Credit
 
@@ -702,7 +702,7 @@ Continuous buffelgrass fuels increase the probability of fire spread and large f
 
 #### Fire Characteristics
 
-![A photo of a continuous layer of dried grasses with some shrubs, with bright orange flame consuming fuels in the center of the photo and moving towards unburned fuels.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_Fig9_FlameLengths.jpg)
+![A photo of a continuous layer of dried grasses with some shrubs, with bright orange flame consuming fuels in the center of the photo and moving towards unburned fuels.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_Fig9_FlameLengths.jpg?itok=jhnygxxL)
 
 Photo Credit
 
@@ -832,7 +832,7 @@ Reducing biomass and breaking the continuity of buffelgrass fuels in invaded com
 
 Prescribed burning alone is generally not recommended to control buffelgrass in native plant communities because it can lead to an increase in buffelgrass abundance and kill or severely damage native plants (e.g., [110,175,182,183,205,265,403]) (see Postfire Abundance). Prescribed fire integrated with other control methods, such as hand pulling, herbicide application, or livestock grazing, may be effective in reducing buffelgrass abundance and restoring native vegetation in some areas of Hawaii and Australia, where native plants are fire adapted [98,355] (see Integrated Management with Fire), but few studies examined this and caution is warranted. Information about using prescribed fire comes largely from studies in buffelgrass pastures in the Sonoran Desert in Mexico and the South Texas Plains, where fires were intended to “maintain and rejuvenate” [170] buffelgrass pastures by reducing litter, woody plants [181,182,205,265], and insect pests (spittlebugs) [258]. No quantitative information is available on buffelgrass postfire abundance in native communities in the Sonoran Desert (see Postfire Abundance: Sonoran Desert), but prescribed fire is not usually appropriate in Sonoran desert scrub communities because native plants are not fire adapted (see Fire Regimes: Sonoran Desert). Whatever method is used to control buffelgrass, repeated follow-up treatments are needed to prevent reestablishment because buffelgrass seeds may remain in the soil seed bank for many years [439] (see Seed Banking).
 
-![A photo of a firefighter with firefighting tools monitoring a fire burning in dense, dry grasses from a dirt road. Orange flames appear to rise higher than the firefighter and give off plumes of black smoke.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_Fig10_RxFire.jpg)
+![A photo of a firefighter with firefighting tools monitoring a fire burning in dense, dry grasses from a dirt road. Orange flames appear to rise higher than the firefighter and give off plumes of black smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PENCIL_Fig10_RxFire.jpg?itok=7HIKmcQI)
 
 Photo Credit
 
@@ -1045,7 +1045,7 @@ Preventing buffelgrass invasion is the most economically and ecologically effect
 
 In a review on treatment efficacy, Farrell and Gornish (2019) noted that buffelgrass continues to be sold and planted in Texas, Mexico, and Australia, providing a continued source of propagules [135]. Grechi et al. (2014) created a decision framework to help manage buffelgrass in areas where it is considered an economically valuable forage species and suggested that managers may have to prioritize either forage production or biodiversity [173].
 
-![A figure with text describing traits and adaptations and competition mechanisms of buffelgrass as related to water availability, nutrient cycling, and disturbance.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_FarrellModel.jpg)
+![A figure with text describing traits and adaptations and competition mechanisms of buffelgrass as related to water availability, nutrient cycling, and disturbance.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-06/feis-PENCIL_FarrellModel.jpg?itok=3ZxfE6gc)
 
 Photo Credit
 
@@ -1141,7 +1141,7 @@ Climate data from the Sonoran Desert show widespread warming trends in winter an
 
 Changes in the amount and timing of precipitation have important implications for potential trajectories of vegetation change in the Sonoran Desert region and for future buffelgrass distribution [424]. Recent analyses of future climate predictions for the Southwest lean towards decreased warm-season precipitation [219]; however, projected precipitation patterns and incidence of drought differ among climate models and are less certain than temperature projections [1,424]. In contrast, strong agreement among models suggests decreased cool-season (November-March) precipitation in the Sonoran Desert region (south of about 37 N). Reduced warm-season and cold-season precipitation could limit buffelgrass’s distribution [1].
 
-![A map showing U.S. counties with some southern and western counties highlighted purple or orange, with highlighted counties concentrated along the U.S–Mexico border.]({{ site.baseurl }}/assets/images/species-reviews/pencil_feis-PENCIL_FutureRange.jpg)
+![A map showing U.S. counties with some southern and western counties highlighted purple or orange, with highlighted counties concentrated along the U.S–Mexico border.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-06/feis-PENCIL_FutureRange.jpg?itok=q6MzHbB8)
 
 Photo Credit
 

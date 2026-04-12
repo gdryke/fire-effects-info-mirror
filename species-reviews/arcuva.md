@@ -60,7 +60,7 @@ bearberry
 
 Kinnikinnick is a widespread, circumpolar species [111]. In North America, it grows from the northern half of California north to Alaska and across Canada and the northern United States to New England and Newfoundland. Its range extends south in the Rocky Mountains to New Mexico. In eastern North America, it extends south along the Atlantic Coast to New Jersey and in the Appalachian Mountains to Virginia. Rare, disjunct populations occur in Georgia [59,117,152].
 
-![A photo of a low shrub growing on the rocky shore of a water body, with conifers dominating the slopes visible across the water.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcuva_habitat.jpg)
+![A photo of a low shrub growing on the rocky shore of a water body, with conifers dominating the slopes visible across the water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arcuva_habitat.jpg?itok=yOVQRmv2)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ In British Columbia kinnikinnick indicates sites that are moisture deficient bec
 
 Kinnikinnick is a prostrate, evergreen shrub that produces extensive trailing stems [92]. The bark is thin and exfoliates in largish flakes [142]. The leathery, dark green leaves are about 0.5 to 1 inch (1.27-2.54 cm) long. The flowers are borne in terminal racemes [59] and are followed by bright red berrylike drupes, 0.25 to 0.4 inch (6-10 mm) broad. Each drupe contains five (sometimes four) single-seeded nutlets [50,59].
 
-![A photo of a cluster of several pink, bell-shaped flowers hanging from the end of a stem with bright green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcuva_flowers.jpg)
+![A photo of a cluster of several pink, bell-shaped flowers hanging from the end of a stem with bright green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arcuva_flowers.jpg?itok=6u4ZBrnz)
 
 Photo Credit
 
@@ -185,7 +185,7 @@ Regeneration is primarily asexual [129]. After the second year, the stems (stolo
 
 The berrylike drupes persist on the plants through winter and are dispersed by animals and gravity [114,134]. Seeds have hard seedcoats and dormant embryos, and may be stored in the soil [11,81]. Soil-stored seed has been found near the surface [87]. Study results indicate that removing the surface litter increases seedling establishment, although the total number of germinants in this study was very small [87]. In a natural environment, seedling growth is slow for the first 3 years, then increases. During the first year, root growth exceeds shoot growth [111]. Kinnikinnick plants which originated naturally as seedlings appear to be rare [111].
 
-![A photo of a low shrubs with spreading, woody stems visible between clusters of green leaves. The shrubs is spreading over a rocky slope and has clusters of red berries and pink, bell-shaped flowers. Conifers are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcuva_drupes_flowers.jpg)
+![A photo of a low shrubs with spreading, woody stems visible between clusters of green leaves. The shrubs is spreading over a rocky slope and has clusters of red berries and pink, bell-shaped flowers. Conifers are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arcuva_drupes_flowers.jpg?itok=R6mYp65T)
 
 Photo Credit
 
@@ -277,7 +277,7 @@ Kinnikinnick browse is of moderate importance to bighorn sheep, mountain goat, b
 
 Since kinnikinnick's low-quality fruit spoils slowly, it lasts through winter and is available when other fruits are gone [134]. The fruits of kinnikinnick are eaten by songbirds, gamebirds, including five species of grouse and wild turkey, deer, elk, and small mammals [49,89,134,148]. Black bear and grizzly bear eat kinnikinnick fruits in the autumn, but fruits are especially important to bears in the early spring [55,83,84,148]. In Montana, grouse may be attracted to very recent burns by fire-exposed kinnikinnick fruit [68].
 
-![A photo of a black bear with its nose buried in a low shrub. Reddish berries on the same kind of low shrub are visible in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcuva_bear.jpeg)
+![A photo of a black bear with its nose buried in a low shrub. Reddish berries on the same kind of low shrub are visible in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arcuva_bear.jpeg?itok=whEq05gy)
 
 Photo Credit
 

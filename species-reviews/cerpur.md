@@ -34,7 +34,7 @@ Tesky, Julie L. 1992. _Ceratodon purpureus,_ fire moss. In: Fire Effects Informa
 
 ## Image Gallery
 
-![A photo of green and red moss with reddish stalks topped with bulbous green caps.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerpur_hero.jpg) Fire moss in British Columbia, Canada (CC BY 4.0). _Photo by Caleb Catto, iNaturalist.org, some rights reserved._
+![A photo of green and red moss with reddish stalks topped with bulbous green caps.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-cerpur_hero.jpg) Fire moss in British Columbia, Canada (CC BY 4.0). _Photo by Caleb Catto, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Caleb Catto, iNaturalist.org, some rights reserved.
 

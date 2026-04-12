@@ -72,7 +72,7 @@ Western toads have been collected from sedge meadows near a pond occurring in a 
 
 ## Botanical and Ecological Characteristics
 
-![A close-up of a western toad from the side.]({{ site.baseurl }}/assets/images/species-reviews/feis-anbo_western-toad.jpg)
+![A close-up of a western toad from the side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anbo_western-toad.jpg?itok=hPXHexCT)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Western toad.
 
 **Longevity:** Female western toads at least 10 to 11 years of age have been reported [10]. In Colorado, western toads probably attain a maximum age of at least 9 years [41].
 
-![Photo of a brown toad on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-anbo_individual.jpg)
+![Photo of a brown toad on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-anbo_individual.jpg?itok=x5QOHH_h)
 
 Photo Credit
 

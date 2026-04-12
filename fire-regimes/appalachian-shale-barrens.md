@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Appalachian shale barren communities has no
 
 ## Distribution
 
-![A map showing the distribution of Appalachian shale barren communities in the eastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/appalachian-shale-barrens_feis-appalachian_shale_barrens_locator.jpg)
+![A map showing the distribution of Appalachian shale barren communities in the eastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-appalachian_shale_barrens_locator.jpg?itok=U0SepP6_)
 
 Photo Credit
 

@@ -48,7 +48,7 @@ The fire regime of Washoe pine communities is not well documented. Limited infor
 
 The scientific name of Washoe pine is _Pinus ponderosa_ var. _washoensis_(H. Mason & Stockw.) J.R. Haller & Vivrette (Pinaceae) [11, 54, 119]. It is in subsection Ponderosae of the _Pinus_ genus [73].
 
-![A photo of a somewhat cone-shaped conifer with a few trees behind and minimal ground cover. A conifer-covered hill is partially obscured in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponw_plant.jpg)
+![A photo of a somewhat cone-shaped conifer with a few trees behind and minimal ground cover. A conifer-covered hill is partially obscured in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponw_plant.jpg?itok=9q3Sd1B0)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Washoe ponderosa pine
 
 ## General Distribution
 
-![A map of some western U.S. states, with Oregon highlighted light green and several counties in northern California and Nevada highlighted dark green.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponw_map.jpg)
+![A map of some western U.S. states, with Oregon highlighted light green and several counties in northern California and Nevada highlighted dark green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponw_map.jpg?itok=rK1IeR99)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ In the Warner Mountains, Washoe pine dominates the conifer zone from 6,700 to 7,
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Washoe pine is distinguished from cooccurring varieties of ponderosa pine by its duller, gray-green needles, and from Jeffrey pine by its smaller cones [23]. Baldwin et al. [11] provide an identification key.
 
-![Two photos side by side. On the left is a twig with green needles at its end, and on the right is a close-up of thick, furrowed bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponw_twig_bark.jpg)
+![Two photos side by side. On the left is a twig with green needles at its end, and on the right is a close-up of thick, furrowed bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponw_twig_bark.jpg?itok=2cxc2E3d)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ Washoe pine pollination is accomplished mostly by outcrossing, with some selfing
 
 Washoe pines first bear cones at 15 to 20 years of age. There are 2 to 5 years between large cone crops [61]. Cones take 2 years to mature [37].
 
-![A photo of the end of a pine branch with a dark cone growing from the end and green needles growing from several twigs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponw_cone.jpeg)
+![A photo of the end of a pine branch with a dark cone growing from the end and green needles growing from several twigs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponw_cone.jpeg?itok=joTWQgUh)
 
 Photo Credit
 
@@ -221,7 +221,7 @@ Although fall fires generally cause more damage and mortality than spring prescr
 
 Hood and Lutes [51] provide a model to help predict ponderosa pine mortality from fire based on crown volume or crown length scorch, amount of dead cambium in the bole, and/or bark beetle attacks. The model is adapted for use across the West in FOFEM 6.0 [51].
 
-![A graph with "crown scorch \(%\)" on the x-axis and "mortality \(%\)" on the y-axis and a line sloping upwards as crown scorch increases. Triangles mark specific datapoints.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinponw_mortalityscorchcurve.jpg)
+![A graph with "crown scorch \(%\)" on the x-axis and "mortality \(%\)" on the y-axis and a line sloping upwards as crown scorch increases. Triangles mark specific datapoints.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinponw_mortalityscorchcurve.jpg?itok=0_emVNUD)
 
 Photo Credit
 

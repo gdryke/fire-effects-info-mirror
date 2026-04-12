@@ -77,7 +77,7 @@ Chihuahua pine/pinyon ricegrass| Alluvial| 24 inches (610 mm)| Upper alluvial te
 
 Pinyon ricegrass commonly occurs in pinyon-juniper woodlands of Arizona and New Mexico [8]. It is also known to occur in encinal oak woodlands of Arizona [20]. In western Texas, pinyon ricegrass is present in oak-scrub (chaparral) communities dominated by dwarf oak (_Quercus intricata_) [7]. Pinyon ricegrass occurs at low density in the ponderosa pine-Colorado pinyon-gray oak (_Pinus ponderosa-P. edulis-Quercus grisea_) community type in southwestern New Mexico [21].
 
-![A photo of three small bunchgrasses growing in soils with rocks and litter on the soil surface. Lichens and ferns grow on rocks behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-pipfim_plant.jpg)
+![A photo of three small bunchgrasses growing in soils with rocks and litter on the soil surface. Lichens and ferns grow on rocks behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pipfim_plant.jpg?itok=MYLTYa8M)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Pinyon ricegrass is perennial. Rhizomes are absent. Culms are 14 to 31 inches (35-80 cm) tall, glabrous, and sometimes pubescent below the nodes. The 5.5 to 8 inch (14-20 cm) inflorescence is a loosely disposed panicle. Each branch of the panicle has 2 or 3 spikelets near the apex; there may be up to 60 spikelets/plant. Spikelets are 3.5 to 5 mm long. Lemmas are 3.5 to 5 mm long, smooth, shiny, with deciduous macrohairs. Awns are 10 to 20 mm long, usually twice-geniculate, and persistent. The fruit is a caryopsis, usually 2.5 mm long [5,19].
 
-![A photo of a grass panicle with dirt, cobbles, and litter in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pipfim_panicle.jpeg)
+![A photo of a grass panicle with dirt, cobbles, and litter in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pipfim_panicle.jpeg?itok=SZ4vz8E1)
 
 Photo Credit
 

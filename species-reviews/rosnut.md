@@ -34,7 +34,7 @@ Reed, William R. 1993. _Rosa nutkana,_ Nootka rose. In: Fire Effects Information
 
 ## Image Gallery
 
-![Photo of nootka rose in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosnut_plant.jpg) Nootka rose. _Photo by Robyn Hanson, iNaturalist.org, no rights reserved._
+![Photo of nootka rose in bloom.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-rosnut_plant.jpg) Nootka rose. _Photo by Robyn Hanson, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Robyn Hanson, iNaturalist.org, no rights reserved.
 
@@ -86,7 +86,7 @@ Common plant associates of Nootka rose include common snowberry (Symphoricarpos 
 
 ## Botanical Description
 
-![Photo of nootka rose in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosnut_plant.jpg)
+![Photo of nootka rose in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-rosnut_plant.jpg?itok=03L9Vapf)
 
 Photo Credit
 

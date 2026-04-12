@@ -68,7 +68,7 @@ Bigcone Douglas-fir occurs in mountains of southern California. It is distribute
 
 ## Plant Communities
 
-![A photo of a tall conifer tree growing among shrubs and a few other small trees, above a mountain lake. The vegetation on the hillside across the lake is mostly low shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemac_habitat.jpg)
+![A photo of a tall conifer tree growing among shrubs and a few other small trees, above a mountain lake. The vegetation on the hillside across the lake is mostly low shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-psemac_habitat.jpg?itok=B3BzLgmC)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Publications listing bigcone Douglas-fir as a dominant or indicator species are 
 
 ## Botanical Description
 
-![A photo of a conifer tree branch with short, bunched needles and many brown cones hanging down from the branch. The background is blurry green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-psemac_cones.jpg)
+![A photo of a conifer tree branch with short, bunched needles and many brown cones hanging down from the branch. The background is blurry green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-psemac_cones.jpg?itok=BzTsiltZ)
 
 Photo Credit
 

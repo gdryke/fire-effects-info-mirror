@@ -52,7 +52,7 @@ slender false bluestem, slender bluestem
 
 Slender little bluestem occurs along the Coastal Plain from North Carolina across the Florida panhandle to east Texas. It occurs in the Piedmont from North Carolina to Georgia. It also extends north from Texas to southeastern Oklahoma and southwestern Arkansas [21,26].
 
-![A map of the southeastern United States, showing states and counties, with Oklahoma and various southern counties highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-schten_continentaldistribution.jpg)
+![A map of the southeastern United States, showing states and counties, with Oklahoma and various southern counties highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schten_continentaldistribution.jpg?itok=zeB783s6)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Distribution of slender little bluestem in the conterminous United States.
 
-![A map of Puerto Rico counties, with all counties and several nearby small islands highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-schten_prdistribution.jpg)
+![A map of Puerto Rico counties, with all counties and several nearby small islands highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schten_prdistribution.jpg?itok=PSU2f8h7)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Distribution of slender little bluestem in Puerto Rico.
 
 Slender little bluestem occurs on prairies and in dry pine woods [21], second growth pinelands, pine-hardwood sites, and sandhills [5].
 
-[![A photo of relatively widely spaced young pine trees with a grassy understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-schten_community.jpg)Photo Credit Photo by Will McFarland, iNaturalist (CC BY 4.0). Slender little bluestem in the understory of a mixed pine woodland.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of relatively widely spaced young pine trees with a grassy understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schten_community.jpg?itok=r_1kkCPN)Photo Credit Photo by Will McFarland, iNaturalist (CC BY 4.0). Slender little bluestem in the understory of a mixed pine woodland.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Slender little bluestem in south-central Louisiana occurs on deep, medium-textured silty loam [8] and also on predominantly sandy loam on an upland site at elevations of 130 to 295 feet (40-90 m) [6]. It occurs on the West Gulf Coastal Plain in Louisiana on upland ridges of well-drained to excessively drained sandy soil with frequent water deficits and nutrient limitations; it occurs on hillside seepage bogs with loamy sand, sandy loam, sandy peat, or shallow mucky peat soil with poor nutrient availability; and it occurs on wetland longleaf pine savanna of the outer Coastal Plain Terraces on imperfectly drained sand based, somewhat calcareous soils [4]. It also occurs in pitcher plant bogs in west-central Louisiana on fine, slow-draining loam with pH 4.5 to 5.1 at elevations of 197 to 276 feet (60-84 m) [2,29].
 
@@ -109,7 +109,7 @@ See the Appendix for a list of cover types and plant associations in which this 
 
 Slender little bluestem is a native, warm-season, perennial bunchgrass [26]. Culms are slender, sometimes reclining, and 24 to 39 inches (60-100 cm) long [21,26], the upper half sparingly branched [21]. Leaves are wiry and 2 to 8 inches (5 to 20 cm) long [26]. The inflorescence is a single slender raceme [21,26]. Spikelets are paired. The lemma of the sessile fertile spikelet is awned. The fruit is a caryopsis [21].
 
-![A close-up of three reproductive grass spikes with a blue background.]({{ site.baseurl }}/assets/images/species-reviews/feis-schten_reproduction.jpg)
+![A close-up of three reproductive grass spikes with a blue background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schten_reproduction.jpg?itok=JnJWqsDU)
 
 Photo Credit
 

@@ -94,7 +94,7 @@ Schofield [27] found that red foxes in Michigan preferred lowland brush and oak 
 
 ## Biological Characteristics
 
-![A photo of an orange fox with black feet walking across a road with its ears pointed back. The background is blurry grey and brown.]({{ site.baseurl }}/assets/images/species-reviews/vuvu_feis-VUVU_road2.jpg)
+![A photo of an orange fox with black feet walking across a road with its ears pointed back. The background is blurry grey and brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-VUVU_road2.jpg?itok=fQt-nqGs)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ It is not known whether red foxes in the wild are normally polygamous. However, 
 
 **Gestation and litter size:** Gestation usually lasts 51 to 53 days. Litters of four to seventeen have been reported, with a mean of five [5,13,36]. Generally only one litter is produced per year.
 
-![A photo of five small greyish fox kits standing outside of a den. The area around the den is covered in dead leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuvu_kits.jpg)
+![A photo of five small greyish fox kits standing outside of a den. The area around the den is covered in dead leaves.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-vuvu_kits.jpg?itok=IDb1cYeD)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Red foxes are omnivorous. They eat a variety of animals and plant materials depe
 
 Voles (_Microtus_ spp.), mice (_Muridae_), woodchucks (_Marmota monax_) and several lagomorph species (eastern cottontails [_Sylvilagus floridanus_], snowshoe hares [_Lepus americanus_], and black-tailed jackrabbits [_L. californicus_]) are often preferred [36]. In New York and New England, meadow voles (_Microtus pennsylvanicus_) were the most commonly eaten prey item. Rabbits (_Sylvilagus_ spp.) were also commonly eaten. Throughout most of the year in Ontario, meadow voles are the major prey, constituting as much as 50 percent of the red fox's diet [36].
 
-![A photo of a red and grey fox with a large grey squirrel in its mouth. The fox is standing in tall grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-vuvu_prey.jpg)
+![A photo of a red and grey fox with a large grey squirrel in its mouth. The fox is standing in tall grass.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-vuvu_prey.jpg?itok=9Er6YgWi)
 
 Photo Credit
 

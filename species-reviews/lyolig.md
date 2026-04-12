@@ -34,7 +34,7 @@ Carey, Jennifer H. 1994. _Lyonia ligustrina_ , maleberry. In: Fire Effects Infor
 
 ## Image Gallery
 
-![Photo of maleberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyolig_plant.jpg) Maleberry _Photo by Becky Dill, iNaturalist.org_
+![Photo of maleberry.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-lyolig_plant.jpg) Maleberry _Photo by Becky Dill, iNaturalist.org_
 
 Photo Credit: Photo by Becky Dill, iNaturalist.org
 

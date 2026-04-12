@@ -44,7 +44,7 @@ This FEIS Species Review was written in 2002; for more recent information on whi
 
 ## Taxonomy
 
-![Photo of whitebark pine branch tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinalb_branch_0.jpg)
+![Photo of whitebark pine branch tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinalb_branch_0.jpg?itok=70eGBQQf)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ None
 
 ## Distribution
 
-![Photo of map distribution of whitebark pine North America.]({{ site.baseurl }}/assets/images/species-reviews/pinalb_feis-WhitebarkRange_pinalb.jpg)
+![Photo of map distribution of whitebark pine North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-WhitebarkRange_pinalb.jpg?itok=WiDq3C6b)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ Due to inaccessibility and previously low interest in managing whitebark pine ty
 
 ## Botanical Description
 
-![Photo of whitebark pine cones on the end of a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinalb_cone.jpeg)
+![Photo of whitebark pine cones on the end of a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-pinalb_cone.jpeg?itok=0h_eD3YG)
 
 Photo Credit
 
@@ -221,7 +221,7 @@ Cone production requires 2 years, as is typical for pines (_Pinus_ spp.). Cones 
 
 Animal seed predation on whitebark pine seed is high. Except following good conecrop years, whitebark pine seedling establishment is probably incidental due to high rates of seed predation [214,229]. Even Clark's nutcracker harvesting of whitebark pine seed, often presented as a classic example of animal-plant mutualism [204], may be detrimental on some sites. Although individual Clark's nutcrackers only remove seeds that they plant themselves [147], researchers fear that in areas of high blister rust infection, whitebark pine seed will become so rare that Clark's nutcrackers will consume most of the seed they cache, leaving few seed reserves for regeneration [215]. Clark's nutcrackers were the most efficient harvesters of whitebark pine seed on the Bridger-Teton National Forest of Wyoming, showing a 97% forage success rate (measured as time spent harvesting/seeds collected). Other important predators that harvested directly from whitebark pine cones included pine grosbeaks (92% success rate), ravens (79%), red squirrels (60%), and chipmunks (35%) [89]. Similarly, vertebrates harvested 100% of mature whitebark pine seeds on the slopes of Bachelor Butte in the Cascade Range of Oregon. Most successful seed collectors were Clark's nutcrackers, Douglas' squirrels, least chipmunks, and golden-mantled ground squirrels, respectively [134]. Mammalian and bird seed predation reduced the amount of soil-cached seed significantly (p<0.01) on the Gallatin National Forest of Montana. Northern pocket gophers were the most important seed predator [147].
 
-![Photo of red squirrel midden of whitebark pine seeds. ]({{ site.baseurl }}/assets/images/species-reviews/pinalb_feis-SquirrelMidden_pinalb.jpg)
+![Photo of red squirrel midden of whitebark pine seeds. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SquirrelMidden_pinalb.jpg?itok=TrvSoW9b)
 
 Photo Credit
 
@@ -243,7 +243,7 @@ Whitebark pine appears to be the only North American pine (Pinaceae) with a seed
 
 Germination and the 1st few weeks of seedling life may be the most critical stages of whitebark pine's life history. Seedlings do not emerge until (a) embryonic development has occurred and (b) the seedbed is moist [212]. Clark's nutcrackers often cache whitebark pine seeds before they are fully ripe and developed [117]. Embryonic development continues after planting and requires stratification and weathering of the seedcoat before germination occurs [124]. Germinants typically emerge 2 or more years after caching, when embryos are mature and seedbeds are moist long enough for seeds to fully imbibe (> 4 days under laboratory conditions) [124,208]. Some germination occurs in fresh seed the 1st growing season after caching. Germination of 1st-year, mature seed collected on the Bridge-Teton National Forest, Wyoming, ranged from 6.7 to 56.7% [89]. Above-average precipitation may favor emergence. On the Gallatin National Forest, seeds that were hand planted in 1988, a dry year, showed reduced 1st-year emergence compared to seeds planted in 1989, a moist year. Emergence is best on burned or other mineral soils compared to soils with litter [147]. Light-severity burns do not prepare as good a seedbed as more severe burns [147,225]. Because they are relatively free from competition, seedlings on burns have the best chance of growing into mature trees [145].
 
-![Photo of whitebark pine emergents growing in litter on the Gallatin National Forest.]({{ site.baseurl }}/assets/images/species-reviews/pinalb_feis-EmergentLitter_pinalb.jpg)
+![Photo of whitebark pine emergents growing in litter on the Gallatin National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-EmergentLitter_pinalb.jpg?itok=4l3p2Lpd)
 
 Photo Credit
 
@@ -341,7 +341,7 @@ Unknown mortality| 1.4
  
 ## Fuels
 
-![Photo of downed woody fuels resulting from a 2017 avalanche on the Gallatin National Forest. ]({{ site.baseurl }}/assets/images/species-reviews/pinalb_feis-Avalanche_pinalb.jpg)
+![Photo of downed woody fuels resulting from a 2017 avalanche on the Gallatin National Forest. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-Avalanche_pinalb.jpg?itok=QfLVGtbS)
 
 Photo Credit
 

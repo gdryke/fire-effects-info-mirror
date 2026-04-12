@@ -86,7 +86,7 @@ River birch is named as an overstory dominant, codominant, or indicator species 
 
 River birch is a medium-sized, native, deciduous tree. Isolated specimens have reached 100 feet (30.5 m), but the usual height range is 50 to 80 feet (15.2-24.4 m) and 24 to 36 inches (61-91 cm) d.b.h. [13]. In Wisconsin, it is usually a small, multistemmed tree [2]. The bark is separated into thin papery scales, with coarse scales on lower trunks [7]. It is fairly short-lived [5,34].
 
-![A photo of part of a tree with orangey, peeling bark and many small pointed green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-betnig_tree.jpg)
+![A photo of part of a tree with orangey, peeling bark and many small pointed green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-betnig_tree.jpg?itok=SM3v1nNT)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Male catkins are formed on twig tips in the fall and mature the following April 
 
 ## Regeneration Processes
 
-![A photo of a gravel riverbank with a solid thicket of tree seedlings covering a section of the bank. Other shrubs and trees are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-betnig_seedlings.jpg)
+![A photo of a gravel riverbank with a solid thicket of tree seedlings covering a section of the bank. Other shrubs and trees are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-betnig_seedlings.jpg?itok=jGg8tR3I)
 
 Photo Credit
 

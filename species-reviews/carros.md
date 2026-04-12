@@ -38,7 +38,7 @@ Anderson, Michelle D. 2008. _Carex rossii_ , Ross' sedge. In: Fire Effects Infor
 
 The scientific name of Ross' sedge is _Carex rossii_ Boott (Cyperaceae) [23,29,30,33,36,40,41,43,45,47,49,51,52,53,74,84,93,109,110,111].
 
-![A photo of a bunched sedge growing with forbs with visible bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-carros_plant2.jpg)
+![A photo of a bunched sedge growing with forbs with visible bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carros_plant2.jpg?itok=hWrW6G1J)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ Flora of North America provides a distributional map of Ross' sedge.
 
 ## Site Characteristics
 
-![A photo of a bunched sedge with reproductive stems about as tall as leaves. A bunchgrass grows nearby, and graminoids dominate the meadow behind, with large rocks and sparse conifers around. Tall peaks rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/carros_carros_plant_0_0_0.jpg)
+![A photo of a bunched sedge with reproductive stems about as tall as leaves. A bunchgrass grows nearby, and graminoids dominate the meadow behind, with large rocks and sparse conifers around. Tall peaks rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/carros_plant_0_0_0.jpg?itok=FHbc1RuI)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ The occurrence of Ross' sedge may decrease at higher elevations where snow persi
 
 ## Plant Communities
 
-![A photo of several bunched sedges growing with some forbs with much of the ground covered by pine needles. Conifers grow close together in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-carros_community.jpeg)
+![A photo of several bunched sedges growing with some forbs with much of the ground covered by pine needles. Conifers grow close together in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carros_community.jpeg?itok=ov428K7U)
 
 Photo Credit
 
@@ -157,7 +157,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Ross's sedge is a long-lived, cespitose perennial with dense, medium-sized clumps [20,23,36,39,43,45,47,49,51,62,74]. Where dominant in grassland associations, Ross' sedge can form mats 0.3 to 3 feet (0.1-1 m) across [79]. Culms grow 2 to 15 inches (5-40 cm) tall [36,39,43,45,47,51,62,74,93] with high, slender, erect stems [51,62]. Ross' sedge has several basal leaves, 1 to 4 mm wide and as long as or longer than stems [23,47,49,62,74].
 
-![A photo of a bunch sedge growing on mostly bare ground with slabs of gray rock behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-carros_growthform.jpg)
+![A photo of a bunch sedge growing on mostly bare ground with slabs of gray rock behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carros_growthform.jpg?itok=iJ7OodEz)
 
 Photo Credit
 
@@ -165,7 +165,7 @@ Photo by Dean Lyons, iNaturalist.org, some rights reserved.
 
 Ross' sedge growing near Three Rivers, California ([CC BY-NC 4.0](<https://creativecommons.org/licenses/by-nc/4.0/>)).
 
-![A close-up photo of two reproductive spikes of a sedge with several round, fuzzy perigynia.]({{ site.baseurl }}/assets/images/species-reviews/feis-carros_repro.jpg)
+![A close-up photo of two reproductive spikes of a sedge with several round, fuzzy perigynia.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carros_repro.jpg?itok=HlnrzqvK)
 
 Photo Credit
 

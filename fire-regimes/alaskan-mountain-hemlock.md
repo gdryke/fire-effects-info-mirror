@@ -26,7 +26,7 @@ Zouhar, Kristin. 2017. Fire regimes of Alaskan mountain hemlock ecosystems. In: 
 
 ## Summary
 
-![Photo of a subalpine forest on a slope below treeline, with a mountain peak with patches of snow in the background.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-mountain-hemlock_feis-AK_TSUMER_fig1.jpg)
+![Photo of a subalpine forest on a slope below treeline, with a mountain peak with patches of snow in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_TSUMER_fig1.jpg?itok=R-L2wNNK)
 
 Photo Credit
 
@@ -55,7 +55,7 @@ Common names are used throughout this synthesis. See table A1 for a list of comm
 
 ## Geography and Climate
 
-![Map of the southern Alaska coast, showing locations of mountain hemlock stands in purple and white spruce-mountain hemlock stands in red.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-mountain-hemlock_feis-AK_TSUMER_Fig2_Map.jpg)
+![Map of the southern Alaska coast, showing locations of mountain hemlock stands in purple and white spruce-mountain hemlock stands in red.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_TSUMER_Fig2_Map.jpg?itok=qxG_ZnR-)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Mountain hemlock ecosystems are among the most species-rich communities in south
 
 The following descriptions of Alaskan mountain hemlock communities are modified from NatureServe [77] unless otherwise cited. Corresponding BpS series are given in parentheses after NatureServe's ecological system name.
 
-![Photo of a forested slope.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-mountain-hemlock_feis-AK_TSUMER_landscape2.jpeg)
+![Photo of a forested slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_TSUMER_landscape2.jpeg?itok=kUsLnR0k)
 
 Photo Credit
 
@@ -228,7 +228,7 @@ Evidence from the Kenai Peninsula shows that Alaskan wetlands that may have serv
 
 ## Postsettlement Fires
 
-![Aerial photo showing patches of burned forest that are black and red, and patches of unburned forest that are green.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-mountain-hemlock_feis-AK_TSUMER_Fig3_FunnyRiverFire.jpg)
+![Aerial photo showing patches of burned forest that are black and red, and patches of unburned forest that are green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_TSUMER_Fig3_FunnyRiverFire.jpg?itok=FnRRjEEl)
 
 Photo Credit
 

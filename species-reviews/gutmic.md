@@ -34,7 +34,7 @@ Carey, Jennifer H. 1994. _Gutierrezia microcephala_ , threadleaf snakeweed. In: 
 
 ## Image Gallery
 
-![Close-up photo of a small shrub with very small leaves and an abundance of small yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-gutmic_plant.jpg) Threadleaf snakeweed. _Photo by Cecelia Alexander, iNaturalist.org_
+![Close-up photo of a small shrub with very small leaves and an abundance of small yellow flowers.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-gutmic_plant.jpg) Threadleaf snakeweed. _Photo by Cecelia Alexander, iNaturalist.org_
 
 Photo Credit: Photo by Cecelia Alexander, iNaturalist.org
 

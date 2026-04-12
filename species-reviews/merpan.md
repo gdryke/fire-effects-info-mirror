@@ -96,7 +96,7 @@ Tall bluebells is a dominant species in the following boreal forest community ty
 
 ## Botanical and Ecological Characteristics
 
-![Photo of blossoming tall bluebells.]({{ site.baseurl }}/assets/images/species-reviews/merpan_feis-flower_merpan.jpg)
+![Photo of blossoming tall bluebells.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-flower_merpan.jpg?itok=ymtErdCv)
 
 Photo Credit
 
@@ -198,7 +198,7 @@ Postfire regeneration for tall bluebells is mostly vegetative. Tall bluebells sp
 
 Tall bluebells sprouts from the caudex, rhizomes, and roots after fire. It is known to establish on burned soils, likely from an off-site seed source [2,47,72].
 
-![Photo of tall bluebells after a wildfire in Yukon-Charley Rivers National Park. ]({{ site.baseurl }}/assets/images/species-reviews/merpan_feis-fireresp_merpan.png)
+![Photo of tall bluebells after a wildfire in Yukon-Charley Rivers National Park. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-fireresp_merpan.png?itok=EuLo2gTb)
 
 Photo Credit
 

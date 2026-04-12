@@ -101,7 +101,7 @@ Publications listing mountain snowberry as an indicator or dominant species in p
 
 ## Botanical Description
 
-![Photo of flowering mountain snowberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-symore_flower.jpg)
+![Photo of flowering mountain snowberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-symore_flower.jpg?itok=B-GKAjNK)
 
 Photo Credit
 

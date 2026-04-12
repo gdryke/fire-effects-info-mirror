@@ -52,7 +52,7 @@ teaberry, wintergreen
 
 Eastern teaberry occurs from Newfoundland and New England south in the mountains to Georgia and west to Minnesota [13,32].
 
-![Photo of map distribution of eastern teaberry in Canada and United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-gaupro_map.png)
+![Photo of map distribution of eastern teaberry in Canada and United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gaupro_map.png?itok=ELRHZQWk)
 
 Photo Credit
 

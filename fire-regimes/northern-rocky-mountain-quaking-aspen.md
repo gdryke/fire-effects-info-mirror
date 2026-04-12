@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern Rocky Mountain quaking aspen commu
 
 ## Distribution
 
-![A map showing the distribution of northern Rocky Mountain quaking aspen communities in the interior northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-quaking-aspen_feis-northern_rocky_mountain_quaking_aspen_locator.jpg)
+![A map showing the distribution of northern Rocky Mountain quaking aspen communities in the interior northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_rocky_mountain_quaking_aspen_locator.jpg?itok=ndSU_cV3)
 
 Photo Credit
 

@@ -51,7 +51,7 @@ currant-leaf globemallow
 
 ## Distribution
 
-![A photo of a plant with several thick, earthy green stems with widely spaced leaves and bright orange flowers or flower buds at their tips. A dry, rocky mountain dominates the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-sphgro_habitat.jpeg)
+![A photo of a plant with several thick, earthy green stems with widely spaced leaves and bright orange flowers or flower buds at their tips. A dry, rocky mountain dominates the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sphgro_habitat.jpeg?itok=nPq4vKVQ)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Gooseberryleaf globemallow is widely distributed in salt-desert shrub, pinyon-ju
 
 ## Botanical Description
 
-![A photo of a flowering stem with tight clusters of orange flowers and flower buds on a pale green stem. A green field and blue skies are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-sphgro_flowers.jpg)
+![A photo of a flowering stem with tight clusters of orange flowers and flower buds on a pale green stem. A green field and blue skies are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sphgro_flowers.jpg?itok=UHjsTaXZ)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ Intermountain West| mid-March to early October [20,57]
 
 Gooseberryleaf globemallow reproduces by seed. Because plants are short-lived, successful establishment by seed every 2 to 3 years is necessary for perpetuation of gooseberryleaf globemallow [8]. Gooseberryleaf globemallow populations cycle in response to climatic conditions. Kitchen [29] observed that favorable growing conditions result in "explosive reproductive events" which are often followed by a period of die-off.
 
-![A photo of a field of orange flowers, interspersed with shrubs in the distance and mountains in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-sphgro_hero.jpg)
+![A photo of a field of orange flowers, interspersed with shrubs in the distance and mountains in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sphgro_hero.jpg?itok=ok11zbAY)
 
 Photo Credit
 

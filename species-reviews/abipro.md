@@ -60,7 +60,7 @@ Noble fir occurs in the Cascade Range from Stevens Pass, Washington, south to so
 
 ## Site Characteristics
 
-![A photo of some tall, thin conifer trees growing on the edge of a meadow. The trees only have branches toward the top.]({{ site.baseurl }}/assets/images/species-reviews/feis-abipro_habitat.jpeg)
+![A photo of some tall, thin conifer trees growing on the edge of a meadow. The trees only have branches toward the top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abipro_habitat.jpeg?itok=jKXmUBFO)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Noble fir is a native, long-lived conifer [1,17,46]. It usually lives up to 400 
 
 The trunk is self-pruning and pillarlike [1]. The crown is often open and dome-shaped with short, horizontal branches [1]. The bark of young noble fir is thin but becomes thick with age [22,31]. Cones are erect and generally 11 to 18 inches long [1,22,31].
 
-![A historical black and white photo of a person measuring the diameter of a very large tree trunk. The trunk is 4 or 5 times as wide as the person standing in front of it.]({{ site.baseurl }}/assets/images/species-reviews/feis-abipro_historical.jpg)
+![A historical black and white photo of a person measuring the diameter of a very large tree trunk. The trunk is 4 or 5 times as wide as the person standing in front of it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abipro_historical.jpg?itok=CEWpVzx6)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ An old-growth noble fir's DBH is measured in Oregon, 1945.
 
 ## Seasonal Development
 
-![A close up photo of the tip of a conifer tree with short, light green needles and large, upright, yellowish cones. The background is blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-abipro_cones.jpg)
+![A close up photo of the tip of a conifer tree with short, light green needles and large, upright, yellowish cones. The background is blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abipro_cones.jpg?itok=rPUDGIhq)
 
 Photo Credit
 

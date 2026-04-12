@@ -34,7 +34,7 @@ Hauser, A. Scott 2005. _Calamovilfa longifolia_ , prairie sandreed. In: Fire Eff
 
 ## Introduction
 
-![A photo of a bunchgrass with a somewhat messy base of yellowing leaves and taller reproductive stems, with airy panicles at the top of reproductive stems. The soil around the plant is dry, and another grass of the same species grows immediately adjacent; the two plants are possibly connected by rhizomes.]({{ site.baseurl }}/assets/images/species-reviews/feis-callon_plant.jpeg)
+![A photo of a bunchgrass with a somewhat messy base of yellowing leaves and taller reproductive stems, with airy panicles at the top of reproductive stems. The soil around the plant is dry, and another grass of the same species grows immediately adjacent; the two plants are possibly connected by rhizomes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-callon_plant.jpeg?itok=CLw4_m76)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Saskatchewan| 1,810 to 4,810 feet (550-1,470 m) [24,89]
 
 Prairie sandreed usually occurs on upland sites in mixed- and tallgrass prairies and within Great Lakes dune communities. Commonly associated species include needle-and-thread (_Hesperostipa comata_), prairie Junegrass (_Koeleria macrantha_), sand bluestem (_Andropogon gerardii_ var. _paucipilus_), sand dropseed (_Sporobolus cryptandrus_), and sideoats grama (_Bouteloua curtipendula_) [74,126,146,185]. It occurs on dry interior shortgrass plains and prairies of the Great Plains [26,68,164].
 
-![A photo of spreading bunchgrasses growing in somewhat dense patches along a short sand dune, with shrubs and tree growing behind and bare sand in front.]({{ site.baseurl }}/assets/images/species-reviews/feis-callon_sandy.jpeg)
+![A photo of spreading bunchgrasses growing in somewhat dense patches along a short sand dune, with shrubs and tree growing behind and bare sand in front.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-callon_sandy.jpeg?itok=ovimHg7c)
 
 Photo Credit
 
@@ -210,7 +210,7 @@ In ponderosa pine (_Pinus ponderosa_) woodlands of northwestern Nebraska, prairi
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [19,52,52,68,72,77,85,110,114,124,163,164,174,180]).
 
-![A photo of an open grass panicle in front of tan and green grasses dominating vegetation behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-callon_repro.jpeg)
+![A photo of an open grass panicle in front of tan and green grasses dominating vegetation behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-callon_repro.jpeg?itok=dwQFGLYs)
 
 Photo Credit
 

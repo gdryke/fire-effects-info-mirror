@@ -64,7 +64,7 @@ In many areas McNab’s cypress is restricted to serpentine soils, but in other 
 
 ## Plant Communities
 
-![A photo of a low, shrubby conifer growing on rocky ground, in front of forested mountains.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesman_habitat.jpg)
+![A photo of a low, shrubby conifer growing on rocky ground, in front of forested mountains.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesman_habitat.jpg?itok=MWEk_76u)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Site requirements for cypress seedlings are typical of those for pioneer conifer
 
 ## Immediate Fire Effects
 
-![A photo of a burned conifer branch with small blackened cones that have been opened by fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesman_fireopenedcones.jpg)
+![A photo of a burned conifer branch with small blackened cones that have been opened by fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesman_fireopenedcones.jpg?itok=_DdZg45v)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ McNab’s cypress is a fire-adapted, fire-dependent species. Successful cypress 
 
 McNab’s cypress release large quantities of seed after fire [24]. In Lake County, it occurs on recently burned areas with Sargent cypress [16].
 
-![A photo of a stand of burned, dead trees with a blanket of small conifer seedlings covering the area below the trees. There are low mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesman_seedlings.jpg)
+![A photo of a stand of burned, dead trees with a blanket of small conifer seedlings covering the area below the trees. There are low mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-hesman_seedlings.jpg?itok=fzAuQW5f)
 
 Photo Credit
 

@@ -52,7 +52,7 @@ thornless blackberry
 
 Smooth blackberry's range extends from Newfoundland to Ontario and along the Atlantic Coast south to Georgia and inland to Kentucky and Tennessee [27,32,35].
 
-![Map of the eastern United States and Canada, showing the distribution of smooth blackberry by state.]({{ site.baseurl }}/assets/images/species-reviews/rubcan_feis-RUBCAN_map.jpg)
+![Map of the eastern United States and Canada, showing the distribution of smooth blackberry by state.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-RUBCAN_map.jpg?itok=zFBkYoMf)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Smooth blackberry flowers from May to June. Fruits ripen in early summer and per
 
 Reproductive versatility is well represented in the Rubus genus [7]. Smooth blackberry reproduces from seeds, by sprouting from rhizomes and the root crown, and by layering [5]. Vegetative propagation is the primary source of development of the dense colonies [5,15]. Seeds are probably dispersed by birds and animals that eat the fruit. Aboveground stems can reach 3 feet (1 m) in height in less than 2 months [21].
 
-![Close up image of a cluster of red blackberry fruits surrounded by green leaves.]({{ site.baseurl }}/assets/images/species-reviews/rubcan_feis-RUBCAN_fruits.jpg)
+![Close up image of a cluster of red blackberry fruits surrounded by green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-RUBCAN_fruits.jpg?itok=wnr0m8wW)
 
 Photo Credit
 

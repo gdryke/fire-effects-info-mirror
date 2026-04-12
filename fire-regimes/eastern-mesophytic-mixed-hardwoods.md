@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Eastern mesophytic mixed hardwood communiti
 
 ## Distribution
 
-![A map showing the distribution of eastern mesophytic mixed hardwood communities in the eastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/eastern-mesophytic-mixed-hardwoods_feis-eastern_mesophytic_mixed_hardwoods_locator.jpg)
+![A map showing the distribution of eastern mesophytic mixed hardwood communities in the eastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-eastern_mesophytic_mixed_hardwoods_locator.jpg?itok=58QQzcVq)
 
 Photo Credit
 

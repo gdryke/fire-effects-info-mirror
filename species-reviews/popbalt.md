@@ -36,7 +36,7 @@ Steinberg, Peter D. 2001. _Populus balsamifera_ subsp. _trichocarpa,_ black cott
 
 ## Taxonomy
 
-![Photo of black cottonwood tree showing lower branches and leaves]({{ site.baseurl }}/assets/images/species-reviews/feis-popbalt_tree.jpg)
+![Photo of black cottonwood tree showing lower branches and leaves](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popbalt_tree.jpg?itok=jQvwCnx7)
 
 Photo Credit
 
@@ -63,7 +63,7 @@ None
 
 ## General Distribution
 
-![Photo of map distribution of black cottonwood in North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-popbalt_map.png)
+![Photo of map distribution of black cottonwood in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popbalt_map.png?itok=um3O43um)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Classifications describing plant communities in which black cottonwood is a domi
 
 ## Botanical Description
 
-![Photo of black cottonwood leaves and buds.]({{ site.baseurl }}/assets/images/species-reviews/feis-popbalt_leaves.jpg)
+![Photo of black cottonwood leaves and buds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popbalt_leaves.jpg?itok=cWrHJUpM)
 
 Photo Credit
 

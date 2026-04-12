@@ -54,7 +54,7 @@ few-flowered highbush cranberry, highbush cranberry, lowbush cranberry, mooseber
 
 Squashberry is distributed throughout Alaska and across Canada to Newfoundland. It occurs south through the New England and Great Lakes States, and the Pacific Northwest [1,18,45,49,58]. Populations are also found in Idaho, Montana, North and South Dakota, Wyoming, and Colorado [10,11,26,43,53].
 
-![Map of the United States and southern Canada showing the distribution of squashberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vibedu_map.png)
+![Map of the United States and southern Canada showing the distribution of squashberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vibedu_map.png?itok=wTYgFGQ9)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ AK| gen. veg. pas| Viereck & Dyrness 1980
 
 ## Botanical Description 
  
-![Photo of squashberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-vibedu_plant.jpg)
+![Photo of squashberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vibedu_plant.jpg?itok=jQ6aTgPc)
 
 Photo Credit
 

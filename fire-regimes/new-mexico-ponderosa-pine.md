@@ -42,7 +42,7 @@ Fire regimes broadly describe the role of wildfire in shaping the structure and 
 
 The objective of this report is to synthesize published information on the characteristics of historical and contemporary fire regimes in ponderosa pine communities in two ecoregions in New Mexico. This information can be useful for forest management planning, fire management decision making (especially prescribed burning), and ecological research.
 
-![A prescribed fire burns in a ponderosa pine forest.]({{ site.baseurl }}/assets/images/fire-regimes/feis-new-mexico-ponderosa-pine_frs_prattfire.jpg)
+![A prescribed fire burns in a ponderosa pine forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-new-mexico-ponderosa-pine_frs_prattfire.jpg?itok=rQYBctMU)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ Data extracted from the literature were insufficient to allow for a detailed tim
 
 Mean MFI of all sites (n = 108) was 9.3 years, with relatively low variability among sites (SE = 0.58 years). The range of MFI values among sites was only 37 years with a minimum of 2 years and maximum of 39 years (fig. 2). All but two sites had MFI values less than 30 years (a value generally used to differentiate a high frequency fire regime), and 94% of sites had MFI less than 20 years.
 
-![Frequency distribution of site-level mean fire interval values extracted from 20 studies in New Mexico ponderosa pine ecosystems ]({{ site.baseurl }}/assets/images/fire-regimes/feis-new-mexico-ponderosa-pine_frs_figure2.jpg)
+![Frequency distribution of site-level mean fire interval values extracted from 20 studies in New Mexico ponderosa pine ecosystems ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-new-mexico-ponderosa-pine_frs_figure2.jpg?itok=z7EeqSUL)
 
 Figure 2—Frequency distribution of site-level mean fire interval values (n = 108 sites) extracted from 20 studies in New Mexico ponderosa pine ecosystems and used in this synthesis. Vertical dashed line indicates the overall mean value.
 
@@ -161,7 +161,7 @@ New Mexico Mountains (54)| 107.22| 1.08| 34.66| 0.92| 2,386| 176| 7.3| 3.3
  
 The mean MFI was 3.9 years longer in the Southern Rocky Mountains than in the New Mexico Mountains ecoregion. This is likely due to the combined influence of latitude and elevation. Sites in the Southern Rocky Mountains ecoregion were 1.35° farther north and 154 m higher in elevation, on average, than sites in the New Mexico Mountains ecoregion (table 2). Sites in the Southern Rocky Mountains exhibited greater spread in MFI values (range = 36 years) (fig. 3) and greater spread in elevation (range = 95 m) relative to New Mexico Mountains sites (15 years, 75 m). The two longest fire intervals in the entire data set were from the Southern Rocky Mountains and both were statistical outliers (fig. 3). Both sites were on the higher end of the elevation distribution (2nd and 19th highest elevations out of 108 sites), but otherwise were not anomalous relative to other sites.
 
-![Variability of site-level mean fire intervals from 20 fire history studies on ponderosa pine sites in two ecoregions in New Mexico.]({{ site.baseurl }}/assets/images/fire-regimes/feis-new-mexico-ponderosa-pine_frs_figure3.jpg)
+![Variability of site-level mean fire intervals from 20 fire history studies on ponderosa pine sites in two ecoregions in New Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-new-mexico-ponderosa-pine_frs_figure3.jpg?itok=NCQ9vrlr)
 
 Figure 3—Variability of site-level mean fire intervals from 20 fire history studies on ponderosa pine sites in two ecoregions in New Mexico. The horizontal line in the middle of each box represents the median value (50th percentile), the ends of the boxes are the first (Q1) and third (Q3) quartiles, which cover the central 50% of the data, and the difference between Q3 and Q1 is the interquartile range (IQR). The notches approximate the 95% confidence interval for the median values. Vertical lines extend to the most extreme data points that are no more than ± 1.5 x IQR, and outliers beyond the lines are individually displayed as circles.
 
@@ -232,13 +232,13 @@ Timing of contemporary fires supports the role of lightning as the ignition sour
 
 All 28 Superposed Epoch Analyses showed drier-than-average conditions during the fire year (y-0) and wetter-than-average conditions in each of the 4 years preceding the fire year (fig. 4). The strength of the latter relationship declined with time before fire. In the 2 years immediately preceding the fire year, 93% of results indicated wetter-than-average conditions, whereas 4 years before the fire year, 54% of results indicated wetter-than-average conditions. The pattern of wetter-than-average conditions in the immediate years preceding a fire year is indicative of a fuel-limited system, whereby biomass production that results from increased moisture availability is desiccated and burned in subsequent drier-than-average fire years [2].
 
-![The relationship between fire year and antecedent precipitation conditions from 12 fire history studies in New Mexico ponderosa pine ecosystems.]({{ site.baseurl }}/assets/images/fire-regimes/feis-new-mexico-ponderosa-pine_frs_figure4.jpg)
+![The relationship between fire year and antecedent precipitation conditions from 12 fire history studies in New Mexico ponderosa pine ecosystems.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-05/feis-new-mexico-ponderosa-pine_frs_figure4.jpg?itok=NenPJHIs)
 
 Figure 4—The relationship between fire year and antecedent precipitation conditions from 12 fire history studies in New Mexico ponderosa pine ecosystems. Y-axis is the percent of all observations in each of three precipitation conditions: average precipitation, dry (below average), and wet (above average). Precipitation condition is derived from a combination of climate indices including Palmer Drought Severity, tree ring growth, NINO3 sea surface temperature, and others. X-axis is the year relative to fire year (y-0 is fire year, y-1 is year before fire year, etc.).
 
 The fire-climate relationship was similar between the two ecoregions with all results indicating drier-than-average conditions during the fire year (y-0) and wetter-than-average conditions dominating in the 4 antecedent years for sites in the New Mexico Mountains (NMM) and Southern Rocky Mountains (SRM) ecoregions (fig. 5). The difference between the two ecoregions was one of degree. Southern Rocky Mountain sites exhibited a slightly greater proportion of wetter-than-average conditions (mean = 13% more/year) relative to New Mexico Mountains sites over the 4 years preceding a fire year (fig. 5). Despite this difference, both ecoregions show a strong pattern of wetter-than-average conditions in the 3 years preceding a fire year (NMM mean = 82%, SRM mean = 97%) with a decline in the 4th year preceding a fire year (y-4) (fig. 5).
 
-![The relationship between fire year and antecedent precipitation conditions for two ecoregions in New Mexico from 12 fire history studies in ponderosa pine ecosystems. ]({{ site.baseurl }}/assets/images/fire-regimes/feis-new-mexico-ponderosa-pine_frs_figure5.jpg)
+![The relationship between fire year and antecedent precipitation conditions for two ecoregions in New Mexico from 12 fire history studies in ponderosa pine ecosystems. ](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-05/feis-new-mexico-ponderosa-pine_frs_figure5.jpg?itok=JftDngwn)
 
 Figure 5—The relationship between fire year and antecedent precipitation conditions for two ecoregions in New Mexico (New Mexico Mountains n = 13, and Southern Rocky Mountains n = 11) from 12 fire history studies in ponderosa pine ecosystems. See Figure 4 for axes descriptions.
 

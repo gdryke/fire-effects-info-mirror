@@ -34,7 +34,7 @@ Ulev, Elena D. 2005. _Asclepias speciosa_ , showy milkweed. In: Fire Effects Inf
 
 ## Introduction
 
-![A photo of flowering showy milkweed growing in a meadow with conifers and dramatic rocky peaks behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ascspe_habitat.jpg)
+![A photo of flowering showy milkweed growing in a meadow with conifers and dramatic rocky peaks behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ascspe_habitat.jpg?itok=BEu2vIYN)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Precise distribution information is unavailable for all locations where showy mi
  * United States: AZ AR CA CO ID IL IA KS MI MN MT NE NV NM ND OK OR SD TX UT WA WI WY
  * Canada: AB BC MB SK
 
-![A photo of relatively tall individual stems of showy milkweed with large, widely spaced leaved topped with clusters of pink flowers. Vegetation in the background appears to be dominated by grasses and perhaps forbs, with a few shrubs at the base of a hill in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ascspe_hero.jpg)
+![A photo of relatively tall individual stems of showy milkweed with large, widely spaced leaved topped with clusters of pink flowers. Vegetation in the background appears to be dominated by grasses and perhaps forbs, with a few shrubs at the base of a hill in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ascspe_hero.jpg?itok=Nc6SfsmL)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ In plains grasslands of western Nebraska, showy milkweed is found in grama-buffa
 
 ## Botanical and Ecological Characteristics
 
-![A photo of dried pods with small seeds with fluffy attachments.]({{ site.baseurl }}/assets/images/species-reviews/feis-ascspe_pod.jpg)
+![A photo of dried pods with small seeds with fluffy attachments.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-ascspe_pod.jpg)
 
 Photo Credit
 
@@ -128,7 +128,7 @@ Showy milkweed is a warm-season perennial forb [17,22,29,38,61,63]. Stems are as
 
 Across showy milkweed's range, flowering occurs from May to August [10,17,22,39,44,45,63]. Follicles dry during August and September, and seeds disperse in September and October [10].
 
-![A photo of a ball-shaped cluster of pink and white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-ascspe_flower.jpg)
+![A photo of a ball-shaped cluster of pink and white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ascspe_flower.jpg?itok=KlfEroWa)
 
 Photo Credit
 

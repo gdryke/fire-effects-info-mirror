@@ -34,7 +34,7 @@ Gucker, Corey L. 2011. _Schefflera actinophylla_ , octopus tree. In: Fire Effect
 
 ## Introduction
 
-![A photo of several narrow branches with leafy ends extending above the canopy of a wet tropical forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-schact_habitat.jpg)
+![A photo of several narrow branches with leafy ends extending above the canopy of a wet tropical forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schact_habitat.jpg?itok=KPc2Kvy8)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Because very little primary literature and original research on octopus tree was
 
 ## Botanical Description
 
-![A photo of shiny, green leaves comprised of palmately compound leaflets. Flowers are crowded together on octopus-like stalks that grow from the top of the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-schact_flrslvs.jpg)
+![A photo of shiny, green leaves comprised of palmately compound leaflets. Flowers are crowded together on octopus-like stalks that grow from the top of the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schact_flrslvs.jpg?itok=qDvkSf05)
 
 Photo Credit
 
@@ -247,7 +247,7 @@ No entry.
 
 ## Impacts
 
-![A photo of viny trees growing in a tropical forest, with some trees apparently anchoring themselves on the trunks of other trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-schact_infestation.jpg)
+![A photo of viny trees growing in a tropical forest, with some trees apparently anchoring themselves on the trunks of other trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-schact_infestation.jpg?itok=fOLLWBHY)
 
 Photo Credit
 

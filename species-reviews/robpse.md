@@ -105,7 +105,7 @@ Mean annual total snowfall| 5 cm| 152 cm
  
 ### Nonnative Range
 
-![A photo of a large, tall, flowering tree growing along the side of a road with few trees around it.]({{ site.baseurl }}/assets/images/species-reviews/feis-robpse_habitat.jpg)
+![A photo of a large, tall, flowering tree growing along the side of a road with few trees around it.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-robpse_habitat.jpg?itok=qSmdaPqu)
 
 Photo Credit
 
@@ -273,7 +273,7 @@ Black locust is a nitrogen-fixing species (review by [167]). In North Carolina, 
 
 Black locust matures to a medium-sized tree, generally 40 to 60 feet (12-18 m) in height and 12 to 30 inches (30-76 cm) in diameter (review by [167]). Trees in Michigan have reached 3 to 5 feet (0.9-1.5 m) in diameter, though smaller stems are more common [329]. Within its native range, black locust averaged 4 stems/"rootstalk" [229]. Frequent frosts may result in crooked growth (review by [145]).
 
-![A close up photo of a tree branch with many hanging clusters of puffy white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-robpse_flowers.jpg)
+![A close up photo of a tree branch with many hanging clusters of puffy white flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-robpse_flowers.jpg?itok=iftATOlU)
 
 Photo Credit
 
@@ -314,7 +314,7 @@ Black locust is insect pollinated [113]. Flowers are also visited by hummingbird
 
 ### Seed Production
 
-![A photo of a cluster of hanging brown bean-like seed pods.]({{ site.baseurl }}/assets/images/species-reviews/feis-robpse_seedpods.jpg)
+![A photo of a cluster of hanging brown bean-like seed pods.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-robpse_seedpods.jpg?itok=WC1NZW-C)
 
 Photo Credit
 

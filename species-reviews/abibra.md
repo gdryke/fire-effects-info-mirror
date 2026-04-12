@@ -48,7 +48,7 @@ Literature cited in this Species Review include these reviews: [16,46]. A disser
 
 ## Introduction
 
-![A photo of conifers growing on a slope with layered mountains behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-abibra_habitat.jpg)
+![A photo of conifers growing on a slope with layered mountains behind.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-abibra_habitat.jpg)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Santa Lucia fir, silver fir
 
 ## General Distribution
 
-![A map of central and southern California counties, with parts of Monterey and San Luis Obispo Counties highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-abibra_map.jpg)
+![A map of central and southern California counties, with parts of Monterey and San Luis Obispo Counties highlighted green.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-abibra_map.jpg)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Although bristlecone fir groves usually have sparse understories, some shrubs an
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available: [3,60].
 
-![A close-up photo of a conifer cone with a twig and needles visible. The cone is covered with thin, spiny bract scales.]({{ site.baseurl }}/assets/images/species-reviews/feis-abibra_cone.jpg)
+![A close-up photo of a conifer cone with a twig and needles visible. The cone is covered with thin, spiny bract scales.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-abibra_cone.jpg)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Figure 3—Bristlecone fir seed cone.
 
 Bristlecone fir is a medium-sized conifer [47]. It is typically 30 to 100 feet (10-30 m) tall at maturity [16,59], but some individuals reach 160 feet (50 m) tall [59]. Diameter at breast height is from 4 to 12 inches (10-30 cm); rarely, up to 40 inches (100 cm) [16,47]. The tallest individuals grow in deep ravines and on ocean-facing slopes. Stunted individuals grow on exposed, cold ridges and at high elevations [47]. For summit, transition, and ravine sites, mean heights of 100-year-old bristlecone firs were 40, 70, and 90 feet (12, 21, and 27 m), respectively [59]. The champion tree is 127 feet (39 m) tall, 150 inches (380 cm) in circumference, and 36 feet (11 m) in spread [1]. The bole of bristlecone fir is straight and limby, tapering rapidly [39,47], and the crown is narrow and spikey [2,16,47] (fig. 1). Branches may extend to the ground [3,16,22,39,60], and they become droopy with age. Bark is smooth and thin [2,16]; bark thickness measurements were lacking in the literature. Needles are 1.0 to 2.4 inches (2.5-6.0 cm) long [16,22,60]. Needles are unusually sharp [2,36], wide, and long [59] for a fir, and they have a strong, pungent odor [22,31]. Seed cones are <3.5 inches (9 cm) long [60]; usually, 1.6 to 2 inches (4-5 cm) long, and only occur in the top of the crown [36,59]. They are resinous [36,39] and covered with thin spines (bract scales, see fig. 3); hence, the common name "bristlecone fir". These spines are unique among Abies species [22]. Bristlecone fir is the only fir in which the bract scales extend far out from the cone scales [40]. Seeds are about 0.2 inch (5 mm) long. Seed wings are about as long as the seed [22].
 
-![A photo of narrow, somewhat triangular conifers growing on a steep slope with large, clustered shrubs and some visible bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-abibra_hero.jpg)
+![A photo of narrow, somewhat triangular conifers growing on a steep slope with large, clustered shrubs and some visible bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-abibra_hero.jpg?itok=hVBi_0PL)
 
 Photo Credit
 

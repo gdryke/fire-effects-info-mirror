@@ -36,7 +36,7 @@ Fryer, Janet L. 2008. _Sanguisorba minor,_ small burnet. In: Fire Effects Inform
 
 ## Taxonomy
 
-![Photo of a densely leafy plant with a purplish flower bud emerging.]({{ site.baseurl }}/assets/images/species-reviews/feis-sanmin_plant2.jpeg)
+![Photo of a densely leafy plant with a purplish flower bud emerging.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-sanmin_plant2.jpeg?itok=-d3hu2NJ)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Predicting distribution of nonnative species is often difficult due to gaps in u
 
 ## Botanical Description
 
-![Photo of small burnet foliage.]({{ site.baseurl }}/assets/images/species-reviews/sanmin_feis-plant.jpg)
+![Photo of small burnet foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-plant.jpg?itok=w-kb7fGU)
 
 Photo Credit
 

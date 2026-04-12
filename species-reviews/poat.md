@@ -34,7 +34,7 @@ Sullivan, Janet. 1995. _Poecile atricapillus,_ black-capped chickadee. In: Fire 
 
 ## Image Gallery
 
-![black-capped chickadee perched on a stem]({{ site.baseurl }}/assets/images/species-reviews/poat_feis-POAT_Photo.jpg)
+![black-capped chickadee perched on a stem](https://research.fs.usda.gov/sites/default/files/2025-09/feis-POAT_Photo.jpg)
 
 Photo Credit: Photo by Robert Larson, U.S. Fish and Wildlife Service, Public Domain
 
@@ -97,7 +97,7 @@ In Illinois black-capped chickadees were recorded in northern red oak(_Q. rubra_
 
 ## Biological Characteristics
 
-![black-capped chickadee perched on a stem]({{ site.baseurl }}/assets/images/species-reviews/poat_feis-POAT_Photo.jpg)
+![black-capped chickadee perched on a stem](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-POAT_Photo.jpg?itok=xvSC0FQg)
 
 Photo Credit
 

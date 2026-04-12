@@ -52,7 +52,7 @@ intermediate oatgrass, wild oat grass
 
 Timber oatgrass is widely distributed in North America from Alaska eastward to Newfoundland and south to northern California, Arizona, and New Mexico [10,22,30]. It occurs in northern Michigan and the Black Hills of South Dakota [21,58,69].
 
-[![A photo of a grass growing in a gently sloping field or grassland below cloudy skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-danint_plant.jpg)Photo Credit Photo by Alec McKeand, iNaturalist (CC BY-NC 4.0). Timber oatgrass growing in Valles Caldera National Preserve, New Mexico.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a grass growing in a gently sloping field or grassland below cloudy skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-danint_plant.jpg?itok=0unp2zye)Photo Credit Photo by Alec McKeand, iNaturalist (CC BY-NC 4.0). Timber oatgrass growing in Valles Caldera National Preserve, New Mexico.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### States and Provinces
 
@@ -63,7 +63,7 @@ Timber oatgrass is widely distributed in North America from Alaska eastward to N
 
 Timber oatgrass grows in a wide range of habitats including rock outcrops, sphagnum bogs, dry meadows, grassy balds, and on alluvial flats of river floodplains [3,29,30,53]. It occurs on dry to moist sites from the prairies and grasslands to rocky alpine ridges [22]. In parts of the northern Rocky Mountains timber oatgrass is locally common in subalpine meadows in the fir-spruce zone [40,47]. In British Columbia, it grows in alpine tundra zones [1] and in the Sierra Nevada of California, it occurs in mountain meadows [56]. In fescue grasslands, timber oatgrass occurs in small patches or as a "fairly constant scattering" across the stand [24]. At high elevations timber oatgrass is most abundant in subalpine and alpine parks and meadows but also occurs in openings in upper elevation coniferous types, including fir-spruce and lodgepole pine communities [58,65,69]. It is common in ponderosa pine forests of the Black Hills of South Dakota [59].
 
-[![A photo of an open meadow dominated by dried, golden grasses, transitioning to greener vegetation below conifers upslope. A mountain ridgeline dominates in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-danint_stand.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Timber oatgrass dominates a relatively dry meadow at the head of the North Fork of Hell Roaring Creek below Gallatin Peak in Montana. ](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of an open meadow dominated by dried, golden grasses, transitioning to greener vegetation below conifers upslope. A mountain ridgeline dominates in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-danint_stand.jpg?itok=AwHJI0gY)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Timber oatgrass dominates a relatively dry meadow at the head of the North Fork of Hell Roaring Creek below Gallatin Peak in Montana. ](<https://creativecommons.org/licenses/by/4.0/>)
 
 Across its wide range, timber oatgrass grows from sea level to more than 12,000 feet (3660 m) in elevation [30]. Generalized elevational ranges of timber oatgrass are as follows [12,61,58,69]:
 
@@ -99,7 +99,7 @@ Publications listing timber oatgrass as an indicator include the following:
 
 Timber oatgrass is a native, strongly caespitose, perennial bunchgrass [23,67]. The erect culms are densely tufted and generally reach 4 to 20 inches (10-50 cm) in height [62]. Leaves are mainly basal, flat or involute [69]. The old sheaths and blades are often persistent and wither at the base of the plant [23]. The inflorescence is a narrow panicle, often 1-sided, with short mostly erect branches generally bearing 4 to 9 spikelets [10,23]. One- to 2-flowered spikelets occasionally occur in the axils of the lower leaves [69]. With age, the culms often separate at the nodes where these seed-bearing spikelets are borne. Timber oatgrass has a shallow and fibrous root system [58].
 
-[![A close-up photo of a green and reddish grass panicle, with an open conifer woodland in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-danint_panicle.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). The spikelets of timber oatgrass with the large glumes tightly enveloping the enclosed floret cluster.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a green and reddish grass panicle, with an open conifer woodland in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-danint_panicle.jpg?itok=nwd_3cv1)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). The spikelets of timber oatgrass with the large glumes tightly enveloping the enclosed floret cluster.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

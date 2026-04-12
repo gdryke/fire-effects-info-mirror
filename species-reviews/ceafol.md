@@ -34,7 +34,7 @@ Howard, Janet L. 1992. _Ceanothus foliosus_ , wavyleaf ceanothus. In: Fire Effec
 
 ## Image Gallery
 
-![Photo of wavyleaf ceanothus.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceafol_plant_0.jpeg) Wavyleaf ceanothus. _Photo by David A. Krause, iNaturalist.org, no rights reserved._
+![Photo of wavyleaf ceanothus.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-ceafol_plant_0.jpeg) Wavyleaf ceanothus. _Photo by David A. Krause, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by David A. Krause, iNaturalist.org, no rights reserved.
 
@@ -100,7 +100,7 @@ Waveyleaf ceanothus flowers from March to May, producing most of its vegetative 
 
 ## Regeneration Processes
 
-![Photo of wavyleaf ceanothus.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceafol_plant_0.jpeg)
+![Photo of wavyleaf ceanothus.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-ceafol_plant_0.jpeg?itok=ECYJ3-ol)
 
 Photo Credit
 

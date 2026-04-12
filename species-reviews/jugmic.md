@@ -65,7 +65,7 @@ Little walnut grows from southwestern Kansas through Oklahoma to central New Mex
 
 ## Site Characteristics
 
-![A photo of a small tree with many stems and long, light yellow, pointed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmic_plant.jpeg)
+![A photo of a small tree with many stems and long, light yellow, pointed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-jugmic_plant.jpeg?itok=ni7UlMV9)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Texas: Brewster County| general veg. cts| Denyes 1956
 
 ## Botanical Description 
  
-![A close up photo of a tree with long, pointed leaves and two hard green fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugmic_fruit.jpeg)
+![A close up photo of a tree with long, pointed leaves and two hard green fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-jugmic_fruit.jpeg?itok=8jGOTcyV)
 
 Photo Credit
 

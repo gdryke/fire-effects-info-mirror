@@ -34,7 +34,7 @@ Stone, Katharine R. 2009. _Antigone canadensis_ , sandhill crane. In: Fire Effec
 
 ## Introduction
 
-![A sandhill crane standing in tall grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_craneadult.jpg)
+![A sandhill crane standing in tall grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_craneadult.jpg?itok=BNAjZN6e)
 
 Photo Credit
 
@@ -241,7 +241,7 @@ Sandhill crane eggs are laid at 24- to 48-hour intervals [78] and are subsequent
 
 Sandhill crane nests usually consist of piles of whatever vegetation is readily available [16,42,127,135,151,158]. Consequently, nest composition varies by location. Cow manure may also be used in nest construction [31,135]. See nest site descriptions in Preferred habitat for specific materials used in nest construction.
 
-![A sandhill crane prostrate on its nest on a grassy mound in a wetland.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_craneonnest.JPG)
+![A sandhill crane prostrate on its nest on a grassy mound in a wetland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_craneonnest.JPG?itok=ygBNn7jp)
 
 Photo Credit
 
@@ -296,7 +296,7 @@ After hatching, sandhill crane chicks are mobile relatively quickly and are capa
 
 Sandhill crane chicks are mobile soon after hatching. They are able to walk after 24 hours, allowing the family to move to upland areas to forage [78]. Families usually return to nesting areas to roost at night [78,127]. In southern Michigan, greater sandhill crane chicks remained in the nest about 48 hours. Young could swim soon after hatching and often had to swim after leaving the nest. Parents led chicks toward drier land where they fed for several weeks [155].
 
-![Sandhill crane chick sitting on grass next to an unhatched egg.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_crane%20baby.jpg)
+![Sandhill crane chick sitting on grass next to an unhatched egg.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_crane%20baby.jpg?itok=M8iatgVW)
 
 Photo Credit
 
@@ -310,7 +310,7 @@ Relationships between sandhill crane siblings vary. Near Grays Lake, Idaho, aggr
 
 Gregariousness begins in August when young start flying; family groups of migratory subspecies vacate territories to join post-breeding flocks, which gather annually at specific premigration fall staging areas [31]. Prior to migrating, families in southern Michigan stayed in the general area of the nest, and then began to congregate in large groups as fall approached [155]. Families in the Rocky Mountain population of greater sandhill cranes minimized fall and winter harassment of young by other sandhill cranes by remaining detached from large flocks; integration increased as juveniles matured through the winter [33].
 
-[![Sandhill cranes taking flight in an open area.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_in-flight.jpg)Photo Credit Photo by Frank Schulenburg, with some rights reserved (CC BY-SA 4.0) Two sandhill cranes taking flight along River Road in Butte County, California.](<https://creativecommons.org/licenses/by-sa/4.0/deed.en>)
+[![Sandhill cranes taking flight in an open area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_in-flight.jpg?itok=PtibaxhO)Photo Credit Photo by Frank Schulenburg, with some rights reserved (CC BY-SA 4.0) Two sandhill cranes taking flight along River Road in Butte County, California.](<https://creativecommons.org/licenses/by-sa/4.0/deed.en>)
 
 **Flight**
 
@@ -336,7 +336,7 @@ Records from captive birds suggest that sandhill cranes may live 20 to 30 years.
 
 Migratory sandhill cranes return to breeding territories in the spring; the exact dates vary by subspecies and location. In northern areas, breeding territories may still be snow-covered when sandhill cranes arrive. Lesser sandhill cranes returning to Alaska may encounter frozen lakes and rivers [16,91] or snow >10 inches (25 cm) deep [91]. Greater sandhill cranes in northwest Ontario arrive in mid-April and congregate in ploughed fields until snow melts, then move to breeding territories [36]. In Idaho, nest initiation may begin as soon as snow melts from nesting areas [6].
 
-![Two sandhill cranes in a snowy grassy area.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_snowcrane.jpg)
+![Two sandhill cranes in a snowy grassy area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_snowcrane.jpg?itok=djLABoU-)
 
 Photo Credit
 
@@ -548,7 +548,7 @@ On the Yukon-Kuskokwim Delta, Alaska, most lesser sandhill crane nests were loca
 
 Foraging: Upon spring arrival in the Northwest Territories, lesser sandhill cranes foraged in snow-free areas on the tops of eskers. As snow melted, foraging occurred further down esker sides. In August, both adults and chicks were observed feeding on the sides and tops of eskers [91]. On the Yukon-Kuskokwim Delta, Alaska, lesser sandhill cranes with recently hatched chicks concentrated activities along slough banks where vegetation, primarily sand ryegrass, was taller than the chicks and often taller than adults. Mobile family groups also used heath tundra and shortgrass meadows, where cover was less [16].&
 
-![A less sandhill crane chick standing in tundra with low-growing plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_tundra%20chick.jpg)
+![A less sandhill crane chick standing in tundra with low-growing plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_tundra%20chick.jpg?itok=eDWq7BIa)
 
 Photo Credit
 
@@ -615,7 +615,7 @@ _Wetland Roost Characteristics:_ Wetland roost characteristics vary at different
 
 At the Jasper-Pulaski Fish and Wildlife Area in northwestern Indiana, greater sandhill cranes roosted in seasonally flooded basins and inland fresh meadows. Roosting sandhill cranes did not avoid areas with woody encroachment on shorelines as long as open, shallow water was available, contrasting with river channel roosts in the Platte River Valley. Sandhill cranes also roosted among dense vegetation, which was avoided in other studies. Sandhill cranes avoided water higher than their tibiotarsal joint (about 10 inches (25 cm) high). Sandhill crane use of fall roosts was positively associated with proximity to other roosts and presence of other sandhill cranes [88].
 
-![A large group of sandhill cranes standing in shallow water.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_group%20in%20water.jpg)
+![A large group of sandhill cranes standing in shallow water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_group%20in%20water.jpg?itok=2Zt4CmVl)
 
 Photo Credit
 
@@ -780,7 +780,7 @@ In eastern Siberia, 3 lesser sandhill crane nests were found in areas where vege
 
 #### Hiding Cover for Young
 
-![A sandhill crane chick standing amongst dense wetland vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_juv%20in%20veg.jpg)
+![A sandhill crane chick standing amongst dense wetland vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_juv%20in%20veg.jpg?itok=WFNmGsu_)
 
 Photo Credit
 
@@ -897,7 +897,7 @@ Fire may have both positive and negative indirect effects on sandhill cranes. Fi
 
 Numerous studies have documented sandhill cranes foraging in burned areas, in some cases, immediately after fire ([48,57,93,120,131,143,158,160], Reinecke personal communication cited in [69]).
 
-![An aerial view of two sandhill cranes in a recently burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_cranesinburn.jpg)
+![An aerial view of two sandhill cranes in a recently burned area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_cranesinburn.jpg?itok=VmigwzFL)
 
 Photo Credit
 
@@ -980,7 +980,7 @@ Fire historically maintained the open habitat preferred in many areas occupied b
 
 ## Fire Management Considerations
 
-![A firefighter tends to a prescribed fire in an open area near a forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-anca_fireMSCNWR.jpg)
+![A firefighter tends to a prescribed fire in an open area near a forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-anca_fireMSCNWR.jpg?itok=mXNxcum0)
 
 Photo Credit
 

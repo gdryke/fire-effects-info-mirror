@@ -76,7 +76,7 @@ No entry.
 
 ## Botanical Description
 
-![A photo looking upwards into a large, leafy tree. The tree's bark is gray with some ridges, plates, and furrows, and the leaves are green and pointed.]({{ site.baseurl }}/assets/images/species-reviews/feis-carill_plant.jpeg)
+![A photo looking upwards into a large, leafy tree. The tree's bark is gray with some ridges, plates, and furrows, and the leaves are green and pointed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carill_plant.jpeg?itok=3lHM0kbL)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Pecan flowers from March to May about a week after the leaves have started to op
 
 ## Regeneration Processes
 
-![A close up photo of a dark brown, oval nut hanging from a thin branch. The nearby leaves are thin, pointed, and partly browned and dry. The background is blurry.]({{ site.baseurl }}/assets/images/species-reviews/feis-carill_seed.jpeg)
+![A close up photo of a dark brown, oval nut hanging from a thin branch. The nearby leaves are thin, pointed, and partly browned and dry. The background is blurry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-carill_seed.jpeg?itok=NOLcrkBg)
 
 Photo Credit
 

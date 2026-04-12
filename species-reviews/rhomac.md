@@ -52,7 +52,7 @@ Historical fire regimes within the distribution of Pacific rhododendron range fr
 
 ## Taxonomy
 
-![A photo of a shrub with narrow stems with clusters of green leaves along branch ends and relatively large pink flowers at the tips. A mossy understory with some down logs and uprights tree trunks is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_coverphoto_jasonheadley.jpg)
+![A photo of a shrub with narrow stems with clusters of green leaves along branch ends and relatively large pink flowers at the tips. A mossy understory with some down logs and uprights tree trunks is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_coverphoto_jasonheadley.jpg?itok=IeUNppjy)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ California rhododendron, coast rhododendron
 
 Pacific Rhododendron occurs in coastal and montane areas from northern California to southern British Columbia (fig. 1) [41,76]. It is most common in Oregon and California in the Coast and Cascade Ranges, west of the Cascade crest [4,41,50], but it also occurs east of the crest [84]. Occurrences are more scattered in Washington; it is mainly found on Mount Rainier and the eastern Olympic Peninsula [41,89], (fig. 2). In British Columbia, it only occurs in isolated populations on Vancouver Island and southwestern British Columbia [18,19,76].
 
-![Two maps side by side, with a map of the western United States and southwestern-most Canada on the left showing a narrow polygon highlighted green in Oregon, Washington, California and BC. The image on the right shows the entire United States with a circle around Pacific northwest states.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig1_distribution.jpg)
+![Two maps side by side, with a map of the western United States and southwestern-most Canada on the left showing a narrow polygon highlighted green in Oregon, Washington, California and BC. The image on the right shows the entire United States with a circle around Pacific northwest states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig1_distribution.jpg?itok=G6KOiYHi)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Distribution map from Little (1976) [64] and digitized by Thompson et al. (1999)
 
 Figure 1—Distribution of Pacific rhododendron (left panel) and its relative location in the United States (right panel).
 
-![A map of the northwestern United States, with green shading in Washington, Oregon, Idaho, and Montana, many blue dots in Washington and Oregon, and some black outlined diamonds near the blue dots.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig2_distribution2.jpg)
+![A map of the northwestern United States, with green shading in Washington, Oregon, Idaho, and Montana, many blue dots in Washington and Oregon, and some black outlined diamonds near the blue dots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig2_distribution2.jpg?itok=RE5ZAKtQ)
 
 Photo Credit
 
@@ -177,7 +177,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Pacific rhododendron is a perennial shrub, generally ranging in height from 1 to 5 m [41,50,92], but it can grow to 8 or 9 m tall [5,19,76] and take the form of a small tree. Plants are erect to spreading with stout branches [4,19,76]; they may grow as a compact shrub in forest openings (often after disturbance), [3,36,58], or in a “stunted” form (on coastal marine terraces with shallow soils and seasonal flooding) [96]. Stems are finely hairy when young [19,79] and become smooth or furrowed [25,92] as they mature, at times with peeling or shredding bark [4,25]. Leaves are alternate [41] and evergreen and are generally 8 to 20 cm long [19,50,76], though some may be only 6 cm long [4,25]. In deep shade, leaves may be over 2.5 times larger than on plants growing in full sun, and leaf size increases with leaf age [31]. Leaves are egg-shaped to oblong with a smooth, leathery texture [4,19,25,41], and appear toward the end of the stem [41].
 
-![A photo of a shrubs with leaf clusters towards the ends of its branches and a cluster of bright pink flowers at the end of one stem. A large, furrowed tree trunk dominates the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_Fig3_erichongisto1.jpg)
+![A photo of a shrubs with leaf clusters towards the ends of its branches and a cluster of bright pink flowers at the end of one stem. A large, furrowed tree trunk dominates the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_Fig3_erichongisto1.jpg?itok=xmwd1Vpi)
 
 Photo Credit
 
@@ -187,7 +187,7 @@ Figure 3—Pacific rhododendron in bloom in front of redwood. Humboldt County, C
 
 Pacific rhododendron blooms in large, showy terminal clusters of 10 to 20 bell-shaped pale to deep pink flowers (fig. 3), [19,25,50,76,92], each 2 to 5 cm long [4,19,50,76,92]. Fruits are hairy, glandular woody capsules up to 2 cm long [19,25,76,92] that persist on stems (figs. 4 and 5), [41]. Seeds are small (~5 mm long, 4,460 seeds/gram) [5] but are larger than those of other rhododendron species [75]. Seeds are elongate and flat without tails (fig. 6), and are loose within capsules [25].
 
-![A photo of a cluster of green leaves with a cluster of capsules growing from the end of a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig4_gmjohnson.jpeg)
+![A photo of a cluster of green leaves with a cluster of capsules growing from the end of a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig4_gmjohnson.jpeg?itok=30n1_von)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Photo by ©gmjohnson, some rights reserved.
 
 Figure 4—Fruits on Pacific rhododendron in Mendocino County, CA.
 
-![A photo of open seed capsules growing from the end of a branch each with a seed inside.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig5_tonyiwane.jpg)
+![A photo of open seed capsules growing from the end of a branch each with a seed inside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig5_tonyiwane.jpg?itok=7IfBBbP1)
 
 Photo Credit
 
@@ -203,7 +203,7 @@ Public domain photo by Tony Iwane, no rights reserved.
 
 Figure 5—Open fruits on Pacific rhododendron in Mendocino County, CA.
 
-![An illustration of a Pacific rhododendron seed.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig6_blazich2008.jpg)
+![An illustration of a Pacific rhododendron seed.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-rhomac_fig6_blazich2008.jpg)
 
 Photo Credit
 
@@ -275,7 +275,7 @@ Pacific rhododendron seedlings develop 2 to 4 true leaves (fig. 7) approximately
 
 Pacific rhododendron seedlings often establish on rotting logs and in thick moss mats (e.g., fig. 8), as observed in multiple forest communities in southern British Columbia [18]. Both of these media may retain moisture when other parts of the forest floor become dry, supporting the greenhouse observations that consistent moisture is important for germination and seedling establishment. In the Oregon Cascades, inoculating soil with duff containing mycorrhizal fungi from collection sites reduced seedling mortality and improved growth rates [85].
 
-![An illustration of a seedling in four stages, with the first illustration having the seedhead still on the first leaves, the second illustration having the seedhead still attached to one leaf, the third illustration having larger new leaves and much taller, and the last illustration having the start of a third leaf.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig7_development.jpg)
+![An illustration of a seedling in four stages, with the first illustration having the seedhead still on the first leaves, the second illustration having the seedhead still attached to one leaf, the third illustration having larger new leaves and much taller, and the last illustration having the start of a third leaf.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-rhomac_fig7_development.jpg)
 
 Photo Credit
 
@@ -283,7 +283,7 @@ Illustration from [75].
 
 Figure 7—Development of a Pacific rhododendron seedling from left to right at 1, 9, 40, and 60 days after germination [75].
 
-![A photo of a young shrub with six relatively large leaves at the end of a single short stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig8_leiladuchac.jpg)
+![A photo of a young shrub with six relatively large leaves at the end of a single short stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig8_leiladuchac.jpg?itok=qYuTio3G)
 
 Photo Credit
 
@@ -293,7 +293,7 @@ Figure 8—Pacific rhododendron seedling in the Oregon Coast Range.
 
 Pacific rhododendron can grow more quickly after fire and clearcut logging than in undisturbed forests. In high-elevation mountain hemlock forests in the eastern Cascades of Oregon, cover of Pacific rhododendron may increase “substantially” after fire, and high cover of Pacific rhododendron may indicate past disturbance [84]. A study in the southern Oregon Coast Range found that 15-year-old Pacific rhododendron plants growing in the open after clearcutting were the same size as 25 to 60-year-old plants growing in shaded conditions in adjacent mature forest. However, the leaves of plants growing in the open were less than half as large (21 cm2) as those on plants growing in the shade (49-58 cm2) [31].
 
-![A photo of a small tree with narrow stems with clusters of leaves at branch ends.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig9_christopherjearle.jpg)
+![A photo of a small tree with narrow stems with clusters of leaves at branch ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig9_christopherjearle.jpg?itok=xFuDD7fo)
 
 Photo Credit
 
@@ -311,7 +311,7 @@ Pacific rhododendron regenerates after top-kill by sprouting from the root crown
 
 Pacific rhododendron may reproduce via layering [18]. Douglas and Desrosiers (2006) describe that “asexual reproduction, by layering, appears to be much more common than sexual reproduction” in the Skagit River Valley in British Columbia [18]. In greenhouse or nursery settings, Pacific rhododendron can be propagated by layering and stem cuttings [5]. However, less than 1% of stems rooted in a greenhouse when Pacific rhododendron stem cuttings were collected from a field site in the Oregon Cascades [85]. Flora of North America describes Pacific rhododendron as “sometimes rhizomatous”, suggesting that it can reproduce from rhizomes [25], although this has not been described in the literature.
 
-![A photo of white leafless branches with dense clusters of large leaves at its base.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig10_lisarobinson.jpg)
+![A photo of white leafless branches with dense clusters of large leaves at its base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig10_lisarobinson.jpg?itok=EuFLyKvM)
 
 Photo Credit
 
@@ -327,7 +327,7 @@ Pacific rhododendron is shade tolerant, and rhododendron seedlings are intoleran
 
 Pacific rhododendron occurs across successional stages, from early seral to old growth. In California, Pacific rhododendron is considered an early seral species and rhododendrons are retained when management objectives are to maintain early successional forests [81]. In western Oregon, colonizing forbs and shrubs such as snowbrush ceanothus and other _Ceanothus_ species initially dominate after clearcutting and slash burning, while Pacific rhododendron cover is drastically reduced from pretreatment levels [26,101]. As succession progresses, Pacific rhododendron cover increases, and it becomes an understory dominant in some late successional forests [3,38,83,101]. For example, Pacific rhododendron grew into “tall, dense thickets” that closed the understory canopy in a coast Douglas-fir-redwood forest in southwest Oregon where fire was absent for approximately 100 years [98]. On other sites, Pacific rhododendron cover peaks in early- to mid-succession and declines with canopy closure [83].
 
-![A photo of a leafy shrub with large bunches of pink flowers and burned tree trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig11_noahstrycker.jpeg)
+![A photo of a leafy shrub with large bunches of pink flowers and burned tree trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig11_noahstrycker.jpeg?itok=CL-CSMod)
 
 Photo Credit
 
@@ -351,7 +351,7 @@ Pacific rhododendron is often top-killed by fire of all severities, and its cove
 
 Pacific rhododendron has been classified as “disturbance-sensitive” [20], because it is top-killed by fire even at low severities [98], and it is most abundant in unburned areas and areas burned at low-severity [20]. However, top-killed plants often sprout from the root crown (fig. 11) [22,23,36,37,81,98]. While Pacific rhododendron is more likely to be killed after severe fire, it can sprout after fire of all severities [20,71,98]. Sprouting plants can grow quickly and sometimes form dense thickets in open, postfire environments [31]. In some cases, Pacific rhododendron is one of the first plants to appear after fire [11,98] (fig. 12).
 
-![A photo of a few small leafy stems emerging from a burned woody base. Conifers grow in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig12_dylanwinkler.jpg)
+![A photo of a few small leafy stems emerging from a burned woody base. Conifers grow in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-rhomac_fig12_dylanwinkler.jpg?itok=wI6vPBXj)
 
 Photo Credit
 
@@ -369,7 +369,7 @@ Pacific rhododendron tends to have higher cover on unburned sites or sites that 
 
 Studies that quantify Pacific rhododendron’s response to clearcutting and slash burning in coast Douglas-fir forests of western Oregon and Washington generally find that Pacific rhododendron cover declines precipitously immediately after clearcutting and burning [22,23,30,101], then increases with time-since-treatment [22,23,30,39,83,99] before stabilizing or declining after about 15 to 20 years. Peak cover may correspond to canopy closure of regenerating conifers (see Successional Status) [57,83]. For example, a longterm study (i.e., 13-45 years posttreatment) of vegetation response after clearcut logging and burning on the H. J. Andrews Experimental Forest found that Pacific rhododendron cover and biomass peaked about 20 years after logging and burning and gradually declined through 45 years (fig. 13) [39]. A similar study found that Pacific rhododendron cover stabilized 14 years (at <5%) after logging or logging and burning. However, Pacific rhododendron cover in control areas (i.e., not logged or burned) continued to increase to nearly 20% cover over the 25-year study period [57]. Pacific rhododendron cover did not return to preburn levels during either study [39,57]. In the absence of further disturbance, Pacific rhododendron cover may continue to increase after a temporary reduction at the time of canopy closure, as observed in the southern Oregon Coast Range [3].
 
-![A line graph with "year" on the x-axis and "cover and biomass \(% of total\)" on the y-axis. A solid line showing cover is above a dotted line showing biomass, with both showing a variable pattern of an increase then decrease.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomac_fig13_halpern.jpg)
+![A line graph with "year" on the x-axis and "cover and biomass \(% of total\)" on the y-axis. A solid line showing cover is above a dotted line showing biomass, with both showing a variable pattern of an increase then decrease.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-08/feis-rhomac_fig13_halpern.jpg?itok=aa9KsMS5)
 
 Photo Credit
 

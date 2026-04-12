@@ -34,7 +34,7 @@ Steinberg, Peter D. 2002. _Nassella pulchra_ , purple needlegrass. In: Fire Effe
 
 ## Introduction
 
-![A photo of a bunchgrass with stems with long, purplish awns. Green, shrub-covered hills rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-naspul_plant.jpg)
+![A photo of a bunchgrass with stems with long, purplish awns. Green, shrub-covered hills rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-naspul_plant.jpg?itok=5gxl9OLS)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Purple needlegrass occurs from sea level to 5,000 feet (1,500 m) [36,51].
 
 Purple needlegrass occurs in grasslands, oak and pine woodlands, mixed evergreen forests, chaparral, and coastal scrub. It is most prominent in the vegetation type known as the California prairie or valley grassland. This community is similar to the palouse prairie of Washington and Oregon in that Idaho fescue (_Festuca idahoensis_), prairie Junegrass (_Koeleria macrantha_), Sandberg bluegrass (_Poa secunda_) and bottlebrush squirreltail (_Elymus elymoides_) are present, but purple needlegrass is dominant in place of bluebunch wheatgrass (_Pseudoroegneria_ _spicata_) [34]. Other important perennial associates in California prairie are California oatgrass (_Danthonia californica_), California fescue (_Festuca californica_), tussockgrass (_Nassella lepida_), beardless wildrye (_Leymus triticoides_), and melicgrass (_Melica_ spp.). Mediterranean annuals such as wild oat (_Avena fatua_), slender oat (_A. barbata_), ripgut brome (_Bromus diandrus_), soft chess (_B. hordeaceus_), mouse barley (_Hordeum murinem_), and rattail fescue (_Vulpia myuros_) have replaced native perennial grasses in some areas (see Successional Status). Forbs present include fiddleneck (_Amsinckia_ spp.), shooting star (_Dodecatheon_ spp.), goldenpoppy (_Escholzia_ spp.), lupine (_Lupinus_ spp.), malacothrix (_Malacothrix_ spp.), phacelia (_Phacelia_ spp.), and sage (_Salvia_ spp.) [46].
 
-![A photo of a grassy slope with mixed graminoids and forbs with conifers behind. A trail runs through the right side of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-naspul_community.jpeg)
+![A photo of a grassy slope with mixed graminoids and forbs with conifers behind. A trail runs through the right side of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-naspul_community.jpeg?itok=YUehVgzG)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Vegetation classification systems describing purple needlegrass-dominated commun
 
 Purple needlegrass is a caespitose perennial native grass [23,36]. Culms are 24 to 39 inches (60-100 cm) tall, producing an open, nodding panicle 4 to 8 inches (10-20 cm) long [51]. Leaves are 0.031 to 0.14 inch (0.8-3.5 mm) wide [36]. The species expands vegetatively when tussocks are fragmented. Stands with fire and grazing exclusion are likely to be low density with larger individuals and more litter accumulation. With fragmenting disturbance, stands are higher density with smaller size tussocks and less litter accumulation, at least in the short term [21,45]. Bunches are roughly circular when undisturbed and more irregular with fragmenting disturbance [23,45]. Purple needlegrass is apparently long lived: 1 study found mortality of mature individuals was 2 to 6% annually over a 7-year period [20]. Purple needlegrass is arbuscular mycorrhizal and has a rooting depth of at least 25 inches (64 cm) on deep soils.
 
-![A photo of an open grass panicle with long-awned seeds.]({{ site.baseurl }}/assets/images/species-reviews/feis-naspul_botchar.jpg)
+![A photo of an open grass panicle with long-awned seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-naspul_botchar.jpg?itok=gb-jnnKq)
 
 Photo Credit
 

@@ -54,7 +54,7 @@ Turpentinebroom is found in the Mojave, Sonora, and Colorado deserts of Baja Cal
 
 Distribution of turpentinebroom in the United States. Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC. [2018, August 27] [25].
 
-![Map of the southwestern United States showing the distribution of turpentinebroom by county.]({{ site.baseurl }}/assets/images/species-reviews/thamon_thamon_map.png)
+![Map of the southwestern United States showing the distribution of turpentinebroom by county.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/thamon_map.png?itok=yrO-JAOu)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ Turpentinebroom is commonly found in creosotebush (Larrea tridentata) scrub, bla
 
 ## Botanical Description
 
-![Photo of a dry, nearly leafless shrub on mostly bare ground.]({{ site.baseurl }}/assets/images/species-reviews/thamon_feis-THAMON_plant.jpg)
+![Photo of a dry, nearly leafless shrub on mostly bare ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-THAMON_plant.jpg?itok=2JGh2xYG)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Turpentinebroom flowers in the spring at the same time new vegetative shoots are
 
 ## Regeneration Processes
 
-![Close-up photo of purple fruits on short stalks attached to a small branch.]({{ site.baseurl }}/assets/images/species-reviews/thamon_feis-THAMON_fruits.jpg)
+![Close-up photo of purple fruits on short stalks attached to a small branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-THAMON_fruits.jpg?itok=bg4ERsfK)
 
 Photo Credit
 

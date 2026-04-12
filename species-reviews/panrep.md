@@ -64,7 +64,7 @@ Torpedo grass tolerates a range of site characteristics. It has documented prefe
 
 In North America, torpedo grass occurs in both aquatic and terrestrial plant communities [44,69]. Floras and herbaria records document torpedo grass on a variety of site types, including disturbed areas [38,43,104,113,114,115] like roadsides [36,43,104,113], along paths [113], in fields [113] or in agricultural areas [43]. Torpedo grass establishes in coastal areas, including coastal swales [25,36,40,115], beaches [40], sand dunes, sand bars, seawalls, island shores [36], tide pools [113], and tidal flats [40,113]. It also occurs along inland waterways, including lakes [40,113,114,115], ponds [36,40,113], canals [40,43,113], ditches [36,40,43,104,113], and moist plant communities, including marshes [25,36,43,113,115], bogs [43], and wet prairies [43,113]. See Habitat Types and Plant Communities for detailed descriptions of plant communities where torpedo grass occurs.
 
-![A photo of bright green grass growing up right up to the edge of a lake or pond, with a few large shrubs or trees and a house in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-panrep_infest.jpg)
+![A photo of bright green grass growing up right up to the edge of a lake or pond, with a few large shrubs or trees and a house in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-panrep_infest.jpg?itok=ApFjEcXg)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Torpedo grass is a perennial grass growing up to 3 feet (1 m) tall from sturdy, widely creeping or floating rhizomes [65]. Culms are erect or leaning [65]. Leaf sheaths are hairy and leaf blades are stiff, linear, flat, or folded with an often waxy or whitish surface [69]. Inflorescences are loose, open, terminal panicles, 3 to 9 inches (7-22 cm) long, with erect or ascending branches. Spikelets are 2 to 3 mm long and about 1 mm wide [65]. Fruits are lanceolate, straw-colored caryopses [105]. Seeds are 2.2 to 3.1 mm long, white, and smooth [37].
 
-![A close up photo of a grass stem with straight leaves extending from relatively closely-spaced nodes.]({{ site.baseurl }}/assets/images/species-reviews/feis-panrep_foliage.jpg)
+![A close up photo of a grass stem with straight leaves extending from relatively closely-spaced nodes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-panrep_foliage.jpg?itok=vouXbYYt)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ Torpedo grass populations form extensive colonies [40] and may form dense, float
 
 A nonnative plant guide suggests that torpedo grass flowers nearly year round [65]. Flowering months range from May to November in Florida [25,43,113,114,115]. Herbarium records from Texas documented it flowering and fruiting in June, July, August, October, and December [36].
 
-![A close-up photo of a flowering grass, with grass stems in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-panrep_flower.jpg)
+![A close-up photo of a flowering grass, with grass stems in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-panrep_flower.jpg?itok=B35yUhwi)
 
 Photo Credit
 
@@ -194,7 +194,7 @@ Vegetative regeneration appears to be the primary means of torpedo grass establi
 
 Torpedo grass is rhizomatous [14,20,27,40,43,65,105,112], and most reproduction is accomplished via vegetative spread from and fragmentation of rhizomes [49,65,105]. Rhizome sprouting is not limited to apical regions; it can also occur via axillary buds, which are produced along the entire length of the rhizome [82,106,109]. Torpedo grass plants allocate much of their biomass to rhizomes [14,52,109]. On a golf course in southern Florida, rhizomes comprised 87% of total plant biomass [14]. Rhizomes are strong enough to penetrate wood and asphalt [44].
 
-![A photo of a grass rhizomes sending up multiple green shoots along its length, against an asphalt background.]({{ site.baseurl }}/assets/images/species-reviews/feis-panrep_rhizome.jpg)
+![A photo of a grass rhizomes sending up multiple green shoots along its length, against an asphalt background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-panrep_rhizome.jpg?itok=fcpta5_Q)
 
 Photo Credit
 
@@ -280,7 +280,7 @@ It is not clear whether torpedo grass would influence the successional trajector
 
 Managers report that torpedo grass is often top-killed by fire, but belowground rhizomes usually survive ([7], personal communication [6]). Rhizome mortality may occur when heat from fire penetrates deep into the soil, soil conditions are unusually dry [7], or soils are shallow [98]. As of this writing (2011), it is not known whether torpedo grass seeds survive fire.
 
-![A photo of low grasses smoking, but with no visible flames.]({{ site.baseurl }}/assets/images/species-reviews/feis-panrep_LakeOkeeWildfire.jpg)
+![A photo of low grasses smoking, but with no visible flames.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-panrep_LakeOkeeWildfire.jpg?itok=ucbWFUbJ)
 
 Photo Credit
 
@@ -475,7 +475,7 @@ Torpedo grass invasion is problematic in agricultural systems, including tea, su
 
 In the United States, the impacts of torpedo grass invasion have been most documented in Florida. An invasive plant management guide for Florida reports that torpedo grass was established in > 70% of Florida’s public waters by 1992 [69]. As of 2002, torpedo grass had displaced more than 16,000 acres (6,500 ha) of the 100,000 acres (40,000 ha) of native plant communities in Lake Okeechobee’s marsh [7]. In the late 1990s, torpedo grass management in flood control systems cost approximately $2 million a year [65].
 
-![A photo of grass growing out of standing water, with more vegetation on the bank behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-panrep_stand.jpg)
+![A photo of grass growing out of standing water, with more vegetation on the bank behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-panrep_stand.jpg?itok=hNwtpb5r)
 
 Photo Credit
 

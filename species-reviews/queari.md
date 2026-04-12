@@ -59,7 +59,7 @@ Arizona white oak is distributed from central Arizona to southwestern New Mexico
 
 ## Site Characteristics
 
-![A photo of a small, spreading tree with pale green leaves and dark branches, growing in the open with a yucca-type plant and dry grasses nearby.]({{ site.baseurl }}/assets/images/species-reviews/feis-queari_habitat.jpeg)
+![A photo of a small, spreading tree with pale green leaves and dark branches, growing in the open with a yucca-type plant and dry grasses nearby.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queari_habitat.jpeg?itok=BF56k5VC)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Woody species associated with Arizona white oak but not mentioned in Table A1 in
 
 ## Botanical Description
 
-![A photo of a shrub or tree's dusty green leaves and small, tan acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-queari_acorns.jpeg)
+![A photo of a shrub or tree's dusty green leaves and small, tan acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queari_acorns.jpeg?itok=GbDZbhWW)
 
 Photo Credit
 

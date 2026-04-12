@@ -66,7 +66,7 @@ The scientific name of Eastwood's manzanita is _Arctostaphylos glandulosa_ Eastw
 
 San Gabriel manzanita is recognized as a distinct species [138,142], although some authorities recognize it as subspecies of Eastwood's manzanita (_Arctostaphylos glandulosa_ subsp. _gabrielensis_ J.T. Keeley, M.C. Vasey & V.T. Parker) [3,16,27,60,78].
 
-![A photo of a compact, green shrub growing in a rock crack. A few other shrubs grow nearby, and chaparral-covered hills roll in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcgla_plant.jpg)
+![A photo of a compact, green shrub growing in a rock crack. A few other shrubs grow nearby, and chaparral-covered hills roll in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcgla_plant.jpg?itok=8l-G6m__)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Adams' manzanita, Del Mar manzanita, Transverse Range manzanita, Zaca manzanita
 
 Eastwood's manzanita is one of the widest-ranging manzanita species in North America. It is distributed from west-central Oregon south to Baja California Norte, Mexico [78] (fig. 1).
 
-![A map of the western U.S. with many coastal and central counties in California highlighted green, as well as several counties in Oregon.]({{ site.baseurl }}/assets/images/species-reviews/arcgla_feis-acrgla_fig1_map.jpg)
+![A map of the western U.S. with many coastal and central counties in California highlighted green, as well as several counties in Oregon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acrgla_fig1_map.jpg?itok=g0FLdiaH)
 
 Photo Credit
 
@@ -197,7 +197,7 @@ All infrataxa of Eastwood's manzanita except _Arctostaphylos glandulosa_ subsp. 
 
 The stems, leaves, inflorescences, and fruits of Eastwood's manzanita are sticky [1,23,58]. Leaves are alternate and sclerophyllous [20,121,141]. The inflorescence is a panicle [27] (fig. 2). The fruit is a mealy drupe [3,159] bearing stone seeds. For a single drupe, the stones may be free and separate or fused, depending on the infrataxon [3,27]. Fused stones form a single propagule [74].
 
-![A close-up photo of drooping clusters of bell-shaped white flowers growing at the end of a pinkish stem with leathery green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcgla_fig2_flowers.jpg)
+![A close-up photo of drooping clusters of bell-shaped white flowers growing at the end of a pinkish stem with leathery green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcgla_fig2_flowers.jpg?itok=IOYBAOvj)
 
 Photo Credit
 
@@ -298,7 +298,7 @@ Soil-stored Eastwood's manzanita seeds usually survive fire [11,62], although fi
 
 Eastwood's manzanita sprouts from the basal burl and establishes from seed after fire. Sprouts grow quickly, while seedling mortality is high.
 
-![A photo of green leafy stems sprouting from the charred base of a burned woody shrub. Blackened soil is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcgla_fig3_sprouts.jpg)
+![A photo of green leafy stems sprouting from the charred base of a burned woody shrub. Blackened soil is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcgla_fig3_sprouts.jpg?itok=ru6fePEx)
 
 Photo Credit
 
@@ -314,7 +314,7 @@ Eastwood's manzanita sprouts from its basal burl (lignotuber) after top-kill by 
 
 In the San Gabriel Mountains, Eastwood's manzanita plants that had been repeatedly top-killed by fire had basal burls spreading 3 to 6 feet (1-2 m) across [42]. After the Fern Canyon Fire in the San Bernardino Mountains, Eastwood's manzanita grew rapidly in the first 3 postfire years, with growth continuing more slowly for at least 15 postfire years (fig. 4). Sprout density of Eastwood's manzanita remained stable, averaging one plant/0.001 acre (0.2 plant/m2) over 15 years. Seedlings emerged at a density of 2 plants/0.001 acre (0.5 plant/m2)in postfire year 1, but they were not present on plots in postfire year 2 [47].
 
-![A graph with "postfire year" on the x-axis and "mean Eastwood's manzanita heigh \(inches\)" on the y-axes, with points connected by a line increasing from 10 to 30 inches in years 1 to 5, and individual points in later years showing a more moderate height increase.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcgla_Fig4_graph.jpg)
+![A graph with "postfire year" on the x-axis and "mean Eastwood's manzanita heigh \(inches\)" on the y-axes, with points connected by a line increasing from 10 to 30 inches in years 1 to 5, and individual points in later years showing a more moderate height increase.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcgla_Fig4_graph.jpg?itok=flTEdgKF)
 
 Photo Credit
 
@@ -403,7 +403,7 @@ Eastwood's manzanita foliage and branches are highly flammable [157]. Chaparral 
 
 Moisture content of live chaparral fuels declines through spring, summer, and fall. It also varies with plant age. A study on the Stanislaus National Forest found fuel moisture of manzanitas peaked in late June to early July. Of course, this varies with year-to-year precipitation. Leaf moisture content of Eastwood's manzanita is lowest in late fall, before seasonal rains begin [51]. Fuel moisture of Eastwood's manzanita plants may average 150% to 200% for new growth and 90% to 150% for old growth [34].
 
-![A photo of the woody base of a shrub with smooth, reddish bark peeling on parts of the trunk and exposed rougher inner wood on other parts of the trunk. Larger branches appear to lack green leaves, but leafy green stems sprout from its base.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcgla_fig5_deadwood1.jpg)
+![A photo of the woody base of a shrub with smooth, reddish bark peeling on parts of the trunk and exposed rougher inner wood on other parts of the trunk. Larger branches appear to lack green leaves, but leafy green stems sprout from its base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcgla_fig5_deadwood1.jpg?itok=0f69yHs5)
 
 Photo Credit
 

@@ -63,7 +63,7 @@ In this review, "arctic" refers to treeless areas underlain with continuous perm
 
 Ribbed bog moss is a habitat generalist. It was, for example, 1 of 6 mosses having broad ecological amplitude in a survey of bryophyte habitats on peatlands across Alberta's Mackenzie River basin [92]. Ribbed bog moss tolerates a wide range of moisture levels, substrates, nutrient loads, terrain, and climates.
 
-![Opening in hardwood forest in winter, with leafless trees in the background and green clumps of moss covering the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-aulpal_habitat1.jpg)
+![Opening in hardwood forest in winter, with leafless trees in the background and green clumps of moss covering the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-aulpal_habitat1.jpg?itok=PNHn1B6T)
 
 Photo Credit
 
@@ -203,7 +203,7 @@ The following vegetation typings describe plant communities where ribbed bog mos
 
 Mosses have 2 phases in their life cycle: the gametophyte (n) and sporophyte (2n) generations. Each generation is morphologically distinct. The following description of ribbed bog moss provides characteristics of each generation that may be relevant to fire ecology; it is not meant for identification. Keys for identification are available in these sources: [25,33].
 
-![Close up of moss stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-aulpal_gemmae1.jpg)
+![Close up of moss stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-aulpal_gemmae1.jpg?itok=-TBzRjRV)
 
 Photo Credit
 

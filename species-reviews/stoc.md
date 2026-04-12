@@ -56,7 +56,7 @@ None
 
 ## Distribution
 
-![A map of the distribution of spotted owls, showing the different distributions of northern, California, and Mexican spotted owls along the length of the west coast of North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-stoc_map.jpg)
+![A map of the distribution of spotted owls, showing the different distributions of northern, California, and Mexican spotted owls along the length of the west coast of North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-stoc_map.jpg?itok=_41NZEbJ)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Mexican spotted owls occur in varied habitats. Ponderosa pine-Gambel oak (_Q. ga
 
 ## Biological Characteristics
 
-![A photo of a brown and white spotted owl standing on the broken end of a large log, with a blurry conifer forest in the background.]({{ site.baseurl }}/assets/images/species-reviews/stoc_feis-STOC_ORCoastRange1.jpg)
+![A photo of a brown and white spotted owl standing on the broken end of a large log, with a blurry conifer forest in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-STOC_ORCoastRange1.jpg?itok=85DLuou0)
 
 Photo Credit
 
@@ -209,7 +209,7 @@ Effects of aspect on northern spotted owl habitat selection are ambiguous. Aspec
 
 California and Mexican spotted owls may select northern slopes and/or avoid southern slopes. In the central Sierra Nevada, roost sites, but not nest sites, faced north (mean =16° north) significantly (P<0.05) more often than a uniform distribution [22]. One of the many factors associated with higher reproductive rates in oak woodland of the southern Sierra Nevada was nesting on north-facing slopes [157]. Although likely confounded with vegetation characteristics, California spotted owl nests did not occur on sites with southern aspects in foothill riparian and oak woodlands in the southern Sierra Nevada [184]. However, the average aspects of nesting and roosting sites in the San Bernardino Mountains were not significantly different than average aspects of random sites, according to a detailed summary of California spotted owl habitat studies [85]. In southern Arizona, 7 out of 10 of Mexican spotted owl nest/roost sites were on northwest facing slopes [46]. In Saguaro National Park most roost sites occurred on northwest facing slopes [205]. According to a review and analysis of habitat relationships in the Mexican spotted owl recovery plan, nearly 50% of Mexican spotted owl nests occurred on north or northeast aspects in Arizona and New Mexico study sites [78].
 
-![A photo of a spotted, brown and white owl sitting in a small cave on a red rock cliff.]({{ site.baseurl }}/assets/images/species-reviews/feis-stoc_cave.jpeg)
+![A photo of a spotted, brown and white owl sitting in a small cave on a red rock cliff.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-stoc_cave.jpeg?itok=8q3jrTjS)
 
 Photo Credit
 
@@ -241,7 +241,7 @@ Northern spotted owls in western Oregon roosted higher in the canopy in cold wet
 
 ### Successional Stages
 
-![A photo of a dark, lush forest with large conifer trees, mossy downed logs, and a layered understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-stoc_oldgrowth.jpg)
+![A photo of a dark, lush forest with large conifer trees, mossy downed logs, and a layered understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-stoc_oldgrowth.jpg?itok=yCCDig4R)
 
 Photo Credit
 
@@ -455,7 +455,7 @@ Although several articles discuss fire, spotted owls, and their habitat, results
 
 Spotted owl occupancy of burned areas is variable. Of 21 spotted owls occurring in areas affected by wildfires greater than 1,334 acres (540 ha), 18 were resighted at least 1 year after the fire, and 16 of these remained on their breeding territory following the fire. These values for survival and site fidelity are similar to overall averages [27]. Of 56 confirmed California spotted owl sites in Yosemite National Park, 6 had burned in prescribed natural fire within 8 years before the survey [203]. Burned sites within 0.6 miles (1.0 km) of Mexican spotted owl nests in mixed-conifer, pine, and pine/oak forests of Arizona and New Mexico had occupancy rates of 70%, versus 84% occupancy rate on unburned sites, although the difference was statistically insignificant (P=0.075) [107]. Following the 1994 Hatchery Complex wildfires in the eastern Cascades of Washington, northern spotted owl occupancy was the lowest it had been in 4 years. There was also a significant (P<0.05) association between the amount of unburned spotted owl habitat near (0.5-mile (0.8 km)) activity centers and their occupancy status, with extensively burned areas being unoccupied and largely unburned areas being occupied by reproductive pairs [68].
 
-![A photo of a fluffy gray owlet sitting on a burned log with a partially eaten white mouse in its talons.]({{ site.baseurl }}/assets/images/species-reviews/feis-stoc_juvenile_burn.jpg)
+![A photo of a fluffy gray owlet sitting on a burned log with a partially eaten white mouse in its talons.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-stoc_juvenile_burn.jpg?itok=uzhWThp1)
 
 Photo Credit
 
@@ -475,7 +475,7 @@ The overall effect of fire on spotted owl foraging efficiency and prey availabil
 
 Differences in fire severity may explain much of the variation in spotted owl response to fire [10,21,27,52,172,203], with stand-replacement fires likely having greater negative impacts on spotted owls than low- to moderate-severity fires. For example, survival, occupancy, and reproductive rates of all three subspecies of spotted owls in areas burned mainly by low- to moderate-severity fire were similar to population-level estimates of these parameters [27]. Northern spotted owls nested on a territory in southern Washington the year after 42% of it burned at low severity and 13% burned at moderate severity in the Klickitat wildfire. In contrast, a territory in which 36% of prefire radio-telemetry locations burned at high severity did not appear to provide suitable habitat the following breeding season. However, this territory was also salvaged logged, making it unclear whether fire or logging resulted in habitat degradation [21]. Five of six recently (≤8 years) burned areas occupied by California spotted owls burned primarily at low to moderate severities. In the one that was burned extensively by stand-replacement fire, the nest site was underburned [203]. California spotted owls apparently stopped using a breeding area after it was severely burned in the 1977 Marble Cone fire [52]. Mexican spotted owls nested in moderately burned areas after the Clark Peak wildfire [172] and have been observed returning to burned areas where the stand structure has remained intact [176].
 
-![A photo of a burned conifer forest, with a burned snag at the center of the photo. The tree has a broken top and it looks like there is a large cavity in the top.]({{ site.baseurl }}/assets/images/species-reviews/feis-stoc_burn.jpg)
+![A photo of a burned conifer forest, with a burned snag at the center of the photo. The tree has a broken top and it looks like there is a large cavity in the top.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-12/feis-stoc_burn.jpg?itok=RucvIl76)
 
 Photo Credit
 

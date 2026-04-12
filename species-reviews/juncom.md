@@ -58,7 +58,7 @@ dwarf juniper, prostrate juniper, mountain common juniper, old field common juni
 
 ## General Distribution
 
-![Photo of map distribution of common juniper in North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncom_map.jpg)
+![Photo of map distribution of common juniper in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-juncom_map.jpg?itok=AR0kJ47-)
 
 Photo Credit
 
@@ -149,7 +149,7 @@ Common associates in northern Utah include common snowberry (Symphoricarpos albu
 
 ## Botanical Description
 
-![Photo of common juniper berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncom_hero.jpg)
+![Photo of common juniper berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-juncom_hero.jpg?itok=R-B0N-Xx)
 
 Photo Credit
 

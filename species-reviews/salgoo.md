@@ -52,7 +52,7 @@ black willow, Dudley willow, valley willow, western black willow
 
 ## Distribution
 
-![A map of the southwestern U.S. with counties highlighted in green where Goodding's willow occurs. All of Arizona is highlighted, and many counties in the surrounding states.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgoo_map.jpg)
+![A map of the southwestern U.S. with counties highlighted in green where Goodding's willow occurs. All of Arizona is highlighted, and many counties in the surrounding states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-salgoo_map.jpg?itok=8WRnDdQQ)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Common plant associates of Goodding's willow are Arizona sycamore (_Platanus wri
 
 ## Botanical Description
 
-![A photo of a tree covered in pointed, hanging clusters of small yellow flowers. The tree has long pointed green leaves and thin gray branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgoo_flowers.jpg)
+![A photo of a tree covered in pointed, hanging clusters of small yellow flowers. The tree has long pointed green leaves and thin gray branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-salgoo_flowers.jpg?itok=MHUZs3Mx)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Goodding's willow is an initial to early seral species. It has very low shade to
 
 ## Immediate Fire Effects
 
-![A photo of a group of crooked, irregular-shaped trees with small green leaves hanging over a shallow desert stream with clear water and a sandy bottom. There are tall cacti in the background, growing on desert rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-salgoo_habitat.jpg)
+![A photo of a group of crooked, irregular-shaped trees with small green leaves hanging over a shallow desert stream with clear water and a sandy bottom. There are tall cacti in the background, growing on desert rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-salgoo_habitat.jpg?itok=B5o_djPj)
 
 Photo Credit
 

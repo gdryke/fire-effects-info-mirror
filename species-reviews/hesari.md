@@ -66,7 +66,7 @@ Arizona cypress has a restricted range in the southwestern United States. The ty
 
 Arizona cypress occurs in the southwestern United States where the mean annual precipitation is approximately 16 to 24 inches (400-600 mm). Precipitation is bimodally distributed; relatively wet in summer and winter, and dry in the spring and fall [7].
 
-![A photo of a medium-sized conifer tree growing on bedrock and gravel, with other scrubby trees and smaller shrubs in the background. A small amount of snow is on the ground in front of the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesari_habitat.jpg)
+![A photo of a medium-sized conifer tree growing on bedrock and gravel, with other scrubby trees and smaller shrubs in the background. A small amount of snow is on the ground in front of the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hesari_habitat.jpg?itok=9HU2mUBS)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Publications listing Arizona cypress or its varieties as dominant or codominant 
 
 ## Botanical Description
 
-![A close up photo of a tree's small, scaled, needle-like leaves and small pale bumpy cones. The background is blurry green and yellow.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesari_cones.jpeg)
+![A close up photo of a tree's small, scaled, needle-like leaves and small pale bumpy cones. The background is blurry green and yellow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hesari_cones.jpeg?itok=EggvmOmd)
 
 Photo Credit
 

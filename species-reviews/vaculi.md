@@ -34,7 +34,7 @@ Matthews, Robin F. 1992. _Vaccinium uliginosum_ , bog blueberry. In: Fire Effect
 
 ## Image Gallery
 
-![Photo of flowering bog blueberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaculi_plant.jpeg) Bog blueberry. _Photo by Braden J. Judson, iNaturalist.org, no rights reserved._
+![Photo of flowering bog blueberry.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-vaculi_plant.jpeg) Bog blueberry. _Photo by Braden J. Judson, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Braden J. Judson, iNaturalist.org, no rights reserved.
 

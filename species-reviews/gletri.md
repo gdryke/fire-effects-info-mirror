@@ -52,7 +52,7 @@ common honeylocust, honey shucks locust, sweet bean locust
 
 ## General Distribution
 
-![A map of the eastern U.S. with a large area highlighted in green where honeylocust occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-gletri_map.jpg)
+![A map of the eastern U.S. with a large area highlighted in green where honeylocust occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-gletri_map.jpg?itok=FXXZCUfn)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Mesophytic species commonly associated with honeylocust include red maple (_Acer
 
 ## Botanical Description
 
-![A photo of the canopy of a large, irregular-crowned tree with bright green leaves and many large, curled seed pods hanging below the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-gletri_tree.jpeg)
+![A photo of the canopy of a large, irregular-crowned tree with bright green leaves and many large, curled seed pods hanging below the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-gletri_tree.jpeg?itok=cjtExNPw)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Unlike most leguminous species, honeylocust does not form Rhizobium nodules on i
 
 ## Seasonal Development
 
-![A close up photo of a branch with hanging clusters of yellow flower buds.]({{ site.baseurl }}/assets/images/species-reviews/feis-gletri_flowers.jpg)
+![A close up photo of a branch with hanging clusters of yellow flower buds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-gletri_flowers.jpg?itok=aT8Toprs)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Photo by Paul Wray, Iowa State University, Bugwood.org, some rights reserved.
 
 Honeylocust flowerbuds. [(CC BY-NC 3.0 US)](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
-![A photo of large, purple-brown seed pods hanging from a branch. There are many branches with small green leaves in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-gletri_seedpods.jpg)
+![A photo of large, purple-brown seed pods hanging from a branch. There are many branches with small green leaves in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-gletri_seedpods.jpg?itok=lxPJlMFl)
 
 Photo Credit
 

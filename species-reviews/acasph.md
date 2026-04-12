@@ -36,7 +36,7 @@ Griffith, Randy Scott. 1991. _Acamptopappus sphaerocephalus_ , rayless goldenrod
 
 ## Taxonomy
 
-![Photo of rayless goldenhead.]({{ site.baseurl }}/assets/images/species-reviews/feis-acasphold_plant.jpg)
+![Photo of rayless goldenhead.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-acasphold_plant.jpg?itok=Xsft8kqe)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Rayless goldenhead may be associated with catclaw acacia (_Acacia greggii_), Cal
 
 ## Botanical Description
 
-![Photo of rayless goldenhead.]({{ site.baseurl }}/assets/images/species-reviews/feis-acasph_plant.jpeg)
+![Photo of rayless goldenhead.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-acasph_plant.jpeg?itok=aHr9LkCH)
 
 Photo Credit
 

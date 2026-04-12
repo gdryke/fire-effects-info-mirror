@@ -34,7 +34,7 @@ Crane, M. F. 1990. _Pteridium aquilinum,_ western brackenfern. In: Fire Effects 
 
 ## Image Gallery
 
-![Black and white photo of small western brackenfern from above.]({{ site.baseurl }}/assets/images/species-reviews/pteaqu_anseladamspteaqu1.jpg)
+![Black and white photo of small western brackenfern from above.](https://research.fs.usda.gov/sites/default/files/2025-03/anseladamspteaqu1.jpg)
 
 Photo Credit: Public domain image by Ansel Adams from the series "Ansel Adams Photographs of National Parks and Monuments", compiled from 1941-1942.
 
@@ -78,7 +78,7 @@ bracken, brake fern
 
 Western brackenfern occurs throughout the world with the exception of hot and cold deserts [189]. Subspecies aquilinum is mostly north temperate in distribution; subspecies caudatum is found primarily in the Southern Hemisphere [189]. The distribution of subspecies and varieties found in the United States and Canada is as follows [72,90,119,174,189,232]:
 
-![Distribution map of western bracken fern in the United States and Canada showing that it occurs in all but one state \(Nebraska\) and all but three provinces.]({{ site.baseurl }}/assets/images/species-reviews/pteaqu_pteaqu_distrib_map.jpg)
+![Distribution map of western bracken fern in the United States and Canada showing that it occurs in all but one state \(Nebraska\) and all but three provinces.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-03/pteaqu_distrib_map.jpg?itok=WkbulQkI)
 
 Photo Credit
 

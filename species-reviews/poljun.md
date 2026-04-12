@@ -66,7 +66,7 @@ Juniper haircap moss is most common on dry, exposed sites [21,26,34,71,78,108,10
 
 **Substrates** : Juniper haircap moss is most common on mineral soil [33,53,91,101] but also grows over rock [34,87,98], in humus [108] and peat [79,81,111], and on logs [105] and stumps [26,34,108]. In a black spruce forest in Ontario, juniper haircap moss occurred on sites with a 4-foot (1.3 m)- thick peat layer overlying clay [6]. Juniper haircap moss is not an arboreal species [89]. A vegetation survey in the Cascade Range of Oregon, for example, found juniper haircap moss growing on the forest floor and on logs, but not in trees [105].
 
-![Gray rock face with green moss covering ledges.]({{ site.baseurl }}/assets/images/species-reviews/poljun_feis-POLJUN_habitat1.jpg)
+![Gray rock face with green moss covering ledges.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLJUN_habitat1.jpg?itok=MehrBt0-)
 
 Photo Credit
 

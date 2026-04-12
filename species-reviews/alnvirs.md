@@ -34,7 +34,7 @@ Uchytil, Ronald J. 1989. _Alnus viridis_ subsp. _sinuata,_ Sitka alder. In: Fire
 
 ## Image Gallery
 
-![A thin branch of a tree with somewhat shiny, serrated leaves and small brown cone-like structures hanging in pairs. The background is blurry brown and green forest understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnvirs_tree.jpeg) Sitka alder in British Columbia, CA. _Photo by Braden J. Judson, CC 1.0, iNaturalist.org._
+![A thin branch of a tree with somewhat shiny, serrated leaves and small brown cone-like structures hanging in pairs. The background is blurry brown and green forest understory.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-alnvirs_tree.jpeg) Sitka alder in British Columbia, CA. _Photo by Braden J. Judson, CC 1.0, iNaturalist.org._
 
 Photo Credit: Photo by Braden J. Judson, CC 1.0, iNaturalist.org.
 
@@ -114,7 +114,7 @@ Montana| forest hts| Pfister & others 1977
 
 ## Botanical Description 
  
-![A thin branch of a tree with somewhat shiny, serrated leaves and small brown cone-like structures hanging in pairs. The background is blurry brown and green forest understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnvirs_tree.jpeg)
+![A thin branch of a tree with somewhat shiny, serrated leaves and small brown cone-like structures hanging in pairs. The background is blurry brown and green forest understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-alnvirs_tree.jpeg?itok=wOrrQ-TN)
 
 Photo Credit
 

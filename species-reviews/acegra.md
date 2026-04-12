@@ -34,7 +34,7 @@ Tollefson, Jennifer E. 2006. _Acer grandidentatum_ , bigtooth maple. In: Fire Ef
 
 ## Image Gallery
 
-![Photo of a large, gray tree trunk with green maple leaves and a background of green leaves.]({{ site.baseurl }}/assets/images/species-reviews/acegra_feis-ACEGRA_trunk%26leaves.jpg) A bigtooth maple tree. _© Al Schneider, www.swcoloradowildflowers.com_
+![Photo of a large, gray tree trunk with green maple leaves and a background of green leaves.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-ACEGRA_trunk%26leaves.jpg) A bigtooth maple tree. _© Al Schneider, www.swcoloradowildflowers.com_
 
 Photo Credit: © Al Schneider, www.swcoloradowildflowers.com
 
@@ -170,7 +170,7 @@ Bigtooth maple is a deciduous, small tree or shrub of variable size. Its life fo
 
 Bigtooth maple leaves are palmately lobed, 1 to 4 inches (2.5-10 cm) wide, and pubescent beneath [31,66,160]. Plants usually flower every 2 or 3 years [13]. Flowers are umbellate or corymbose and have no petals. The fruit is a dry, indehiscent, double-winged samara, each side with 1 small seed 0.16 to 0.20 inch long. The ovary and young fruit have long, straight hairs [31,58,61,66,107,160]. Twigs are glabrous and the bark is thin and smooth or flaky [148,153]. Bigtooth maple has both lateral surface roots and a deep tap root. An extensive root system develops during the first growing season. Reproduction by layering of the lower branches extends the root system radially [11,27].
 
-![Photo of a large, gray tree trunk with green maple leaves and a background of green leaves.]({{ site.baseurl }}/assets/images/species-reviews/acegra_feis-ACEGRA_trunk%26leaves.jpg)
+![Photo of a large, gray tree trunk with green maple leaves and a background of green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ACEGRA_trunk%26leaves.jpg?itok=sgqTeS5M)
 
 Photo Credit
 

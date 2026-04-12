@@ -34,7 +34,7 @@ Sclafani, Christie J. 2012. _Mahonia nevinii_ , Nevin's barberry. In: Fire Effec
 
 ## Introduction
 
-![A photo of a shrub with serrate leaves with a raceme of bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahnev_plant.jpg)
+![A photo of a shrub with serrate leaves with a raceme of bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-mahnev_plant.jpg?itok=hJCQ_Zz-)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ None
 
 In October 2012 an extensive search was done to locate information on Nevin's barberry (see [FEIS's list of source literature](<https://research.fs.usda.gov/feis/sources>)). The following paragraphs provide details from the available information.
 
-![A map of California with coastal southwestern floristic provinces highlighted different colors.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahnev_map.gif)
+![A map of California with coastal southwestern floristic provinces highlighted different colors.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-mahnev_map.gif?itok=Sm2M1pqR)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Nevin's barberry grows in alluvial scrub, chaparral, coastal sage scrub, oak woo
 
 ## Botanical Description
 
-![A photo of a profusely flowering shrub, with small, holly-like leaves and bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahnev_hero.jpeg)
+![A photo of a profusely flowering shrub, with small, holly-like leaves and bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-mahnev_hero.jpeg?itok=8KGrDObY)
 
 Photo Credit
 

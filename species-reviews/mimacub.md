@@ -53,7 +53,7 @@ cat-claw mimosa, paired-thorn mimosa, wait-a-minute, wait-a-bit, wait-a-minute b
 
 Catclaw mimosa occurs in central and southern Arizona, southern New Mexico, western and central Texas, and northern Mexico [18,39].
 
-![A map of the southwestern U.S. with counties in Arizona, New Mexico, and Texas highlighted in green, where catclaw mimosa occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-mimacubmap.jpg)
+![A map of the southwestern U.S. with counties in Arizona, New Mexico, and Texas highlighted in green, where catclaw mimosa occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-mimacubmap.jpg?itok=7pZTbR0k)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ Southeast Arizona: Rincon Mountains| 4,300 to 5,600 feet (1,311-1,707 m)
  
 ## Plant Communities
 
-![A photo of an open, straggly shrub growing in a desert with cacti and other desert plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-mimacub_habitat.jpg)
+![A photo of an open, straggly shrub growing in a desert with cacti and other desert plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-mimacub_habitat.jpg?itok=5hSEfVRA)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Published classification schemes listing catclaw mimosa as an indicator or domin
 
 ## Botanical Description
 
-![A close up photo of the branch of a shrub with puffy white flowers and small, divided leaves. The stem is thin and woody with sharp spines.]({{ site.baseurl }}/assets/images/species-reviews/feis-mimacub_flowers.jpg)
+![A close up photo of the branch of a shrub with puffy white flowers and small, divided leaves. The stem is thin and woody with sharp spines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-mimacub_flowers.jpg?itok=AqXy3qeI)
 
 Photo Credit
 

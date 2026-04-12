@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for greasewood shrubland communities has not ye
 
 ## Distribution
 
-![A map showing the distribution of greasewood shrubland communities in the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/greasewood-shrublands_feis-greasewood_shrublands_locator.jpg)
+![A map showing the distribution of greasewood shrubland communities in the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-greasewood_shrublands_locator.jpg?itok=XxUdQhe9)
 
 Photo Credit
 

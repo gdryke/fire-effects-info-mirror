@@ -115,7 +115,7 @@ Sugar maple, tuliptree, red oak, chestnut oak, black locust, and black cherry (_
 
 The following description of princesstree provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [45,63,104,108,158]).
 
-![A photo of a tree branch covered in bell-shaped purple flowers hanging down in front of a leafy forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-pautom_flowers.jpg)
+![A photo of a tree branch covered in bell-shaped purple flowers hanging down in front of a leafy forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-pautom_flowers.jpg?itok=uwXvvBta)
 
 Photo Credit
 
@@ -228,7 +228,7 @@ Recovery of midsuccessional vegetation after disturbance may create unsuitable c
 
 Relatively poor quality sites—for example, those with low fertility and frequent drought—may provide better survival for princesstree in the long term [4]. Over time in the Linville Gorge Wilderness Area, princesstree became increasingly limited to the most xeric portions of the landscape, such as slopes and ridgetops, where native plant regeneration was low. The distribution of princesstree 1 and 4 years after fire indicated that princesstree habitat contracted over this 4-year period; habitat losses were more concentrated on mesic sites, at relatively low elevations, and on relatively flat slopes. Princesstree was reduced mainly where fire severity was low, moisture availability was high, and native plants were regenerating well [79].
 
-![A photo of a heavily burned hillside with a small tree with large green leaves growing from the burned area.]({{ site.baseurl }}/assets/images/species-reviews/feis-pautom_habitat.jpg)
+![A photo of a heavily burned hillside with a small tree with large green leaves growing from the burned area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-pautom_habitat.jpg?itok=yIrJnDKq)
 
 Photo Credit
 
@@ -256,7 +256,7 @@ The effect of fire on seeds depends upon fire severity. In a laboratory experime
 
 ## Fire Adaptations
 
-![A photo of a burned hillside with dead, blackened trees and a dense layer of leafy green plants growing from the burned soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-pautom_burn.jpg)
+![A photo of a burned hillside with dead, blackened trees and a dense layer of leafy green plants growing from the burned soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-pautom_burn.jpg?itok=7JB6Cg57)
 
 Photo Credit
 
@@ -270,7 +270,7 @@ Highly shade-intolerant, princesstree requires large-scale disturbances such as 
 
 Establishment of princesstree after wildfires has been reported in the fire-dependent Table Mountain pine-pitch pine forests of the southern Appalachians (e.g., [40,84,111]). On the western rim of the Linville Gorge Wilderness Area, Dumas and others [40] examined the effects of a fall 2000 wildfire in primarily xeric oak-pine forest. This area had not been burned in 50 years and had succeeded to a mixed-hardwoods community with a dense mountain-laurel (_Kalmia latifolia_) understory [111]. Throughout Linville Gorge Wilderness Area, fire severity ranged from low-severity surface fire to high-severity crown fire (see Kuppinger [79] for more information). In this area, the fire was a low-severity surface fire, with crowning mainly restricted to stands of pitch pine and Table Mountain pine that had been killed by southern pine beetle. Two years after fire, little overstory mortality was evident in healthy stands. Most of the understory, composed primarily of mountain-laurel, was top-killed and had subsequently sprouted. The fire reduced surface organic horizons nearly 50% in burned plots relative to unburned plots and increased light penetration about 15%, resulting in greater soil temperature extremes but no differences in available nitrogen or phosphorus. Rates of soil respiration and litter decomposition tended to be lower in burned than unburned plots. This low-intensity surface fire caused postfire basal sprouting of trees and shrubs, increased species richness in the herb layer, and allowed the establishment of pitch pine and princesstree seedlings. Princesstree had not been detected in the 12,002-acre (4,857 ha) Wilderness Area prior to the fire, but seedlings had "rapidly increased in number and height" by postfire year 4 [40]. Potential brevity of princesstree seeds in the soil seed bank and susceptibility of seeds to fire-induced mortality suggests that princesstree may have established in the Linville Gorge Wilderness Area from seed dispersed after the fire rather than from dormant seed present in the soil seed bank prior to the fire (see Fire Management Considerations and Seed Banking) [79,111].
 
-![A photo of a tree seedling with large, wide leaves growing in a severely burned area with blackened dead trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-pautom_leaves.jpg)
+![A photo of a tree seedling with large, wide leaves growing in a severely burned area with blackened dead trees.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-02/feis-pautom_leaves.jpg?itok=lDOMZCvk)
 
 Photo Credit
 

@@ -62,7 +62,7 @@ Despite its restricted distribution, Brewer spruce has a broad ecological amplit
 
 Brewer spruce grows in a climate of cold, wet winters and warm, relatively dry summers with respective temperature ranges of 30 to 41 degrees Fahrenheit (-1 to 5 deg C) and 52 to 68 degrees Fahrenheit (11-20 deg C). Annual precipitation varies between 39 and 110 inches (1,000-2,800 mm) [18].
 
-[![A photo of a rocky, alpine setting with tall, skinny conifer trees around a small lake. The trees all appear similar, with drooping branches covered in needles. In the background are white rock mountains, the tallest ones have golden light hitting them.]({{ site.baseurl }}/assets/images/species-reviews/feis-picbre_habitat.jpg)Photo Credit Photo by Ethan Gilmore, iNaturalist.org, CC BY-NC 4.0. Brewer spruce, Trinity Alps Wilderness, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a rocky, alpine setting with tall, skinny conifer trees around a small lake. The trees all appear similar, with drooping branches covered in needles. In the background are white rock mountains, the tallest ones have golden light hitting them.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-picbre_habitat.jpg?itok=eDjHGH5m)Photo Credit Photo by Ethan Gilmore, iNaturalist.org, CC BY-NC 4.0. Brewer spruce, Trinity Alps Wilderness, CA.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Brewer spruce stands occur on north-, south-, east-, and west-facing slopes, but the preferred habitat is steep, north-facing slopes [3,18]. Brewer spruce occurs on rocky ridges [18], cold hollows [14], and on dry talus and moraines [17]. It never occurs in areas where the soils are saturated during the growing season, such as boggy or wet areas. The slope is generally 11 to 70 percent [18].
 
@@ -91,7 +91,7 @@ Brewer spruce is listed as a dominant or codominant overstory species in the fol
 
 Brewer spruce is a native, endemic conifer. It has a distinctive, drooping appearance caused by the presence of thousands of long, ropelike branches hanging from all but the topmost horizontal limbs [14,18,19,23]. At maturity, Brewer spruces usually reaches 80 to 100 feet (24-30 m) in height [16], but can reach up to 172 feet (52 m) in height [21]. Diameters range from approximately 3.8 feet (117 cm) [18] to up to 4.5 feet (1.35 m) in some areas [21]. The bark is thin and broken into long, thin, appressed scales [14,16].
 
-![A close up photo of a conifer tree's needles. The needles are stiff and spiky, and have a white stripe down the center. The background shows the tree's trunk and more branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-picbre_needles.jpeg)
+![A close up photo of a conifer tree's needles. The needles are stiff and spiky, and have a white stripe down the center. The background shows the tree's trunk and more branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-picbre_needles.jpeg?itok=puKvfG_w)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ In a series of fires in 1987 that burned throughout the range of Brewer spruce, 
 
 ## Fire Adaptations
 
-[![A photo of the thin, flaking, plated bark of a conifer tree. The trunk of the tree is in dappled light, with drooping green conifer needles surrounding.]({{ site.baseurl }}/assets/images/species-reviews/feis-picbre_bark.jpeg)Photo Credit Photo by Matt Berger, iNaturalist.org, CC BY 4.0. Brewer spruce bark, Klamath National Forest, CA.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of the thin, flaking, plated bark of a conifer tree. The trunk of the tree is in dappled light, with drooping green conifer needles surrounding.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-picbre_bark.jpeg?itok=O3Hl8ouD)Photo Credit Photo by Matt Berger, iNaturalist.org, CC BY 4.0. Brewer spruce bark, Klamath National Forest, CA.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Brewer spruce is not fire resistant; the thin bark, drooping nature of the branches, and shallow root system make it sensitive to fire [17,18,23]. Fire sensitivity appears to have limited the range of Brewer spruce [18]; it is largely confined to fire-resistant open forests on north-facing slopes or rocky ridges [17,23].
 

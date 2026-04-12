@@ -34,7 +34,7 @@ Zouhar, Kris. 2015. _Polystichum munitum_ , western swordfern. In: Fire Effects 
 
 ## Introduction
 
-![Large fern in a forest understory lit up by sunlight coming through a gap in the forest canopy.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_Plant1.jpg)
+![Large fern in a forest understory lit up by sunlight coming through a gap in the forest canopy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_Plant1.jpg?itok=wD1Th2Lm)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ common swordfern, sword fern, sword-fern, western sword fern
 
 Western swordfern occurs along the Pacific Coast from southeastern Alaska south to Baja, California [81,100,126,183], with disjunct populations in northeastern Washington, northern Idaho, northwestern Montana, northeastern Oregon [130,189], and the west Kootenays in British Columbia [74]. Western swordfern is most abundant and widespread in coastal areas from central Vancouver Island and the adjacent mainland southward [170], throughout the western Coast and Cascade ranges [81,100], and into northwestern California [98]. Its latitudinal distribution is described as low-subarctic, high-temperate [183].
 
-![Map of the United States and Canada showing the distribution of western swordfern, predominantly in the Pacific Northwest.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_map1.png)
+![Map of the United States and Canada showing the distribution of western swordfern, predominantly in the Pacific Northwest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_map1.png?itok=812pBHsK)
 
 Photo Credit
 
@@ -217,7 +217,7 @@ Western swordfern is less common in Alaska and was mentioned in only a few veget
 
 **Pacific Silver Fir Forests** : Western swordfern is an understory dominant in Pacific silver fir forests on the Olympic Peninsula (see Appendix B). In the Cascade Range of Oregon and southern Washington, western swordfern occurs on warm sites in the Pacific silver fir series [26,93] but typically has low cover (about 1-2%) [53,93]. 
 
-![Redwood forest with giant trees towering over bright green ferns growing underneath.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_redwood1.jpg)
+![Redwood forest with giant trees towering over bright green ferns growing underneath.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_redwood1.jpg?itok=m0zRHp5U)
 
 Photo Credit
 
@@ -300,7 +300,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Western swordfern populations consist mostly of sporophytes; gametophytes are extremely rare [189], and no description of western swordfern gametophytes was found in the literature. The following description applies to sporophytes.
 
-![Close up of outer part of a fern frond.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_Leaf1.JPG)
+![Close up of outer part of a fern frond.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_Leaf1.JPG?itok=mXX-p_Ky)
 
 Photo Credit
 
@@ -329,7 +329,7 @@ Table 6—Characteristics of western swordfern rhizomes, roots, and shoots in yo
 
 At the start of the growing season western swordfern rosettes of the previous year are flattened by rain or snow, but new fronds grow fast, reaching about 3 feet (1 m) by mid-May on sites in western Washington [180]. In Oregon, western swordfern fronds were partially unfurled on 26 May, and by 28 July the fronds were mature and spores were nearing maturity (Stewart 1976 as cited by [74]). Western swordfern maintained relatively constant cover throughout the growing season in western Oregon [29]. Western swordfern spores mature in August [175], and sporangia dehisce in early to midsummer, releasing thousands of spores [189]. The plant's evergreen fronds persist for several years. Evergreen ferns like western swordfern retain some spores over winter and release them the following spring [74].
 
-![Small group of fern fronds before they have unfurled, also called fiddleheads.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_fiddleheads1.JPG)
+![Small group of fern fronds before they have unfurled, also called fiddleheads.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_fiddleheads1.JPG?itok=ikTU8xqJ)
 
 Photo Credit
 
@@ -351,7 +351,7 @@ Hybrids are frequent where 2 or more Polystichum species occur. Sterile hybrids 
 
 Most medium-sized forest ferns such as western swordfern begin to produce spores between 1 and 5 years of age, and spore production takes place very regularly from year to year. Most ferns similar in size to western swordfern produce tens of millions of spores on each frond [74].
 
-![Close up of sori on the underside of a western swordfern frond.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_Sori1.JPG)
+![Close up of sori on the underside of a western swordfern frond.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_Sori1.JPG?itok=YEmOgi_M)
 
 Photo Credit
 
@@ -385,7 +385,7 @@ Western swordfern rhizomes may become highly branched with age but are not creep
 
 Western swordfern is typically present during most stages of stand development [144]. It can establish in primary succession, such as after deglaciation or volcanic eruption, and in early secondary succession, but typically reaches its best growth and greatest abundance in mid- to late-successional forests [181].
 
-![Fern growing in a dark understory illuminated by spots of sunlight.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_lightspots1.JPG)
+![Fern growing in a dark understory illuminated by spots of sunlight.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_lightspots1.JPG?itok=HjeTtgd9)
 
 Photo Credit
 
@@ -577,7 +577,7 @@ Information on state- and province-level protection status of plants in the Unit
 
 ## Importance to Wildlife
 
-![Small mountain beaver eating a fern frond.]({{ site.baseurl }}/assets/images/species-reviews/polmun_feis-POLMUN_mountain_beaver1.jpg)
+![Small mountain beaver eating a fern frond.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-POLMUN_mountain_beaver1.jpg?itok=FRFYLp7L)
 
 Photo Credit
 

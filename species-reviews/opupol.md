@@ -108,7 +108,7 @@ In the southern Great Plains region of northern Texas, western Oklahoma, and eas
 
 ## Botanical Description
 
-![Single pad of green cactus with long spines emerging in a grid-like pattern and three green, spiny fruits on top.]({{ site.baseurl }}/assets/images/species-reviews/feis-opupol_plant1.jpg)
+![Single pad of green cactus with long spines emerging in a grid-like pattern and three green, spiny fruits on top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-opupol_plant1.jpg?itok=dlhgRGKG)
 
 Photo Credit
 

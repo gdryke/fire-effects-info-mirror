@@ -78,7 +78,7 @@ In Alabama eastern cottontails are found in woodlands dominated by shortleaf pin
 
 ## Biological Characteristics
 
-![A photo of a small brown rabbit in lush green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-syfl_ingrass.jpg)
+![A photo of a small brown rabbit in lush green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-syfl_ingrass.jpg?itok=9xRkfC63)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Annual adult survival is estimated at 20 percent. Average longevity is 15 months
 
 **Breeding Season:** The onset of breeding varies between populations and within populations from year to year. The eastern cottontail breeding season begins later with higher latitudes and elevations. Temperature rather than diet has been suggested as a primary factor controlling onset of breeding; many studies correlate severe weather with delays in the onset of breeding [10]. In New England breeding occurs from March to September [17]. In New York the breeding season occurs from February to September, in Connecticut from mid-March to mid-September. In Alabama the breeding season begins in January. In Georgia the breeding season lasts 9 months and in Texas breeding occurs year-round [10,48]. Populations in western Oregon breed from late January to early September [10]. Mating is promiscuous [27].
 
-![A photo of a brown rabbit with three baby rabbits surrounding the adult. The rabbits are sitting in mown grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-syfl_withyoung.jpg)
+![A photo of a brown rabbit with three baby rabbits surrounding the adult. The rabbits are sitting in mown grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-syfl_withyoung.jpg?itok=M9vP9SAk)
 
 Photo Credit
 
@@ -182,7 +182,7 @@ In Oklahoma Cross Timbers habitats, pastures (some in post oak-blackjack oak sta
 
 In Alabama shortleaf pine-hardwood woodlands eastern cottontail populations were similar on annually and biennially burned plots. Annually burned plots usually had little fuel and thus experienced low-severity fire that burned less than 50 percent of aboveground vegetation. On biennially burned plots fuels were plentiful and supported severe fire that removed all herbaceous vegetation. Eastern cottontails chose artificial brush piles more frequently on biennially burned plots than on annually burned plots in immediate postfire periods. Eastern cottontails moved off of severe fire plots during the immediate postfire period [36,57].
 
-![A photo of a brown rabbit in an area of scrubby palm-like plants and white sand. Some parts of the plants are blackened and burned.]({{ site.baseurl }}/assets/images/species-reviews/feis-syfl_sawpalmetto.jpg)
+![A photo of a brown rabbit in an area of scrubby palm-like plants and white sand. Some parts of the plants are blackened and burned.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-syfl_sawpalmetto.jpg?itok=gR5SxnW3)
 
 Photo Credit
 

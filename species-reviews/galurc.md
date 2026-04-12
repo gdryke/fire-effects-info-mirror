@@ -34,7 +34,7 @@ League, Kevin R. 2006. _Galax urceolata_ , beetleweed. In: Fire Effects Informat
 
 ## Image Gallery
 
-![Photo of beetlewood plants in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-galurc_plant.jpg) Beetlewood. _Photo by Ron Boling, iNaturalist.org, no rights reserved._
+![Photo of beetlewood plants in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-galurc_plant.jpg) Beetlewood. _Photo by Ron Boling, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Ron Boling, iNaturalist.org, no rights reserved.
 
@@ -130,7 +130,7 @@ West Virginia| southern Appalachian mixed oak-hickory forest [31]
 
 ## Botanical and Ecological Characteristics
 
-![Photo of beetlewood plants in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-galurc_plant.jpg) 
+![Photo of beetlewood plants in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galurc_plant.jpg?itok=up7cBIKE) 
  
 Photo Credit
 

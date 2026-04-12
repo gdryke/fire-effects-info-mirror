@@ -65,7 +65,7 @@ Shrubby cinquefoil is widely distributed throughout the northern hemisphere. It 
 
 ## Site Characteristics
 
-![A photo of a shrub with narrow leaflets and bright yellow flowers. Craggy mountains with patchy snow rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-dasfruf_moremountain.jpg)
+![A photo of a shrub with narrow leaflets and bright yellow flowers. Craggy mountains with patchy snow rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-dasfruf_moremountain.jpg?itok=BUqfW29v)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Shrubby cinquefoil is a codominant in the montane grasslands of north-central Mo
 
 Shrubby cinquefoil occurs sparsely in Rocky Mountain juniper stands [147] and in the wooded draws of upland grass communities [201] in the badlands of North Dakota. It occurs commonly in this region with skunkbush sumac (_Rhus trilobata_) and Saskatoon serviceberry [160,201]. In the Black Hills of South Dakota, shrubby cinquefoil is the most common understory species in the ponderosa pine/shrubby cinquefoil/common snowberry/woodland strawberry (_Fragaria vesca_) plant community [40,178].
 
-![A photo of a shrub with narrow leaflets comprising small leaves with bright yellow flowers. A rocky outcrop rises behind, with sagebrush, conifers, and aspens around.]({{ site.baseurl }}/assets/images/species-reviews/feis-dasfruf_wyoming.jpg)
+![A photo of a shrub with narrow leaflets comprising small leaves with bright yellow flowers. A rocky outcrop rises behind, with sagebrush, conifers, and aspens around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-dasfruf_wyoming.jpg?itok=6J6Yi1ZD)
 
 Photo Credit
 
@@ -197,7 +197,7 @@ Classifications describing plant communities in which shrubby cinquefoil is a do
 
 Shrubby cinquefoil is native to North America, Asia, and Europe [5,46,190] and is cold tolerant and winter hardy [190]. It is a deciduous, multi-stemmed [149] and many branched shrub [47,172,183,191] reaching heights of 1 to 6.5 feet (0.3-2 m) [47,93,104,172,183,190,191], but occurring as a cushion plant in alpine areas [9]. Shrubby cinquefoil branches are pubescent in the 1st year, becoming brown and glabrous in the 2nd year [47,104,172]. Bark becomes fibrous on branches in the 2nd and 3rd years [47,93,149,172,190]. Mature plants have both erect and prostrate branches [47,80,190], the latter able to root adventitiously [47]. The growth form of shrubby cinquefoil varies; it occurs as a low mat and as an erect shrub [126,149,191].
 
-![A close-up photo of shrubby cinquefoil leaves and flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-dasfruf_hero.jpg)
+![A close-up photo of shrubby cinquefoil leaves and flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-dasfruf_hero.jpg?itok=HUe8QTLi)
 
 Photo Credit
 
@@ -392,7 +392,7 @@ Waterfowl| —| —| —| —| Fair| Poor
  
 ## Value for Rehabilitation of Disturbed Sites
 
-![Flowering shrubby cinquefoil growing on a scree slope on a steep mountainside below a trail. Conifers dominate below, and rocky mountains extend into the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-dasfruf_mountain.jpg)
+![Flowering shrubby cinquefoil growing on a scree slope on a steep mountainside below a trail. Conifers dominate below, and rocky mountains extend into the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-dasfruf_mountain.jpg?itok=SOJ2s212)
 
 Photo Credit
 

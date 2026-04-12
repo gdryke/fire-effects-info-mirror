@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain riparian communities has not
 
 ## Distribution
 
-![A map showing the distribution of Rocky Mountain riparian communities in the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/rocky-mountain-riparian_feis-rocky_mountain_riparian_locator.jpg)
+![A map showing the distribution of Rocky Mountain riparian communities in the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-rocky_mountain_riparian_locator.jpg?itok=Kgjjve4A)
 
 Photo Credit
 

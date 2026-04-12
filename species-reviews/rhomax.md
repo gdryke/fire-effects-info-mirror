@@ -34,7 +34,7 @@ Anderson, Michelle D. 2008. _Rhododendron maximum_ , great laurel. In: Fire Effe
 
 ## Introduction
 
-![Photo of great laurel showing shiny leaves and growing in shaded understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomax_tree.jpeg)
+![Photo of great laurel showing shiny leaves and growing in shaded understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-rhomax_tree.jpeg?itok=eVkKu-aj)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ Plants Database provides a distributional map of great laurel.
 
 ## Site Characteristics
 
-![Photo of a creek running through a shady forest understory with a dense cover of shrubs.]({{ site.baseurl }}/assets/images/species-reviews/rhomax_feis-RHOMAX_understory.jpg)
+![Photo of a creek running through a shady forest understory with a dense cover of shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-RHOMAX_understory.jpg?itok=3GMxM4AP)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ Virginia:
 
 ## Botanical Description
 
-![Photo showing cluster of white great laurel flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhomax_flower.jpeg)
+![Photo showing cluster of white great laurel flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-rhomax_flower.jpeg?itok=J85bHGJi)
 
 Photo Credit
 
@@ -196,7 +196,7 @@ Great laurel reproduces clonally [10]. It benefits from overstory disturbance, f
 
 ## Successional Status
 
-![Photo of a shady understory with dense shrub cover.]({{ site.baseurl }}/assets/images/species-reviews/rhomax_feis-RHOMAX_plant.jpg)
+![Photo of a shady understory with dense shrub cover.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-RHOMAX_plant.jpg?itok=UpiMcmzq)
 
 Photo Credit
 

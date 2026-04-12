@@ -50,7 +50,7 @@ holly bay, Gordonia, bay
 
 ## General Distribution
 
-![A map of the southeastern U.S. with areas highlighted in green where loblolly bay occurs. Areas along the southeast coast are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-gorlas_map.jpg)
+![A map of the southeastern U.S. with areas highlighted in green where loblolly bay occurs. Areas along the southeast coast are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gorlas_map.jpg?itok=bGIJ-q3T)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ Loblolly bay is distributed continuously along the Atlantic and Gulf coastal pla
 
 Loblolly bay grows in warm, wet, temperate climates with an average annual precipitation of 64 inches (1,630 mm) in Florida to about 44 inches (1,120 mm) in North Carolina. The species grows in acid, swampy soils of pinelands and bays on the Atlantic and Gulf coastal plains. Loblolly bay is found on several soil series. It grows on certain Spodosols, Inceptisols, Ultisols, and Histosols, and to a lesser degree on Entisols and Mollisols. Loblolly bay grows in flat woodlands or shallow depressions with little or no slope, slow runoff, rapid permeability, and poor to very poor drainage. In South Carolina the soils are usually of sandy coastal plain or marine origin, except for the organic soils. The water table is usually at or near the soil surface from 6 to 9 months of the year [1,2,12,18].
 
-[![A landscape photo showing a shrubby tree with pointed, dark green leaves in the understory of a conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-gorlas_habitat.jpg)Photo Credit Photo by John Ruter, University of Georgia, Bugwood.org, CC BY-NC 3.0 US. Loblolly bay in the understory of a conifer forest community.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A landscape photo showing a shrubby tree with pointed, dark green leaves in the understory of a conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gorlas_habitat.jpg?itok=SXRAEeGN)Photo Credit Photo by John Ruter, University of Georgia, Bugwood.org, CC BY-NC 3.0 US. Loblolly bay in the understory of a conifer forest community.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 Loblolly bay grows in warm, wet, temperate climates with an average annual precipitation of 64 inches (1,630 mm) in Florida to about 44 inches (1,120 mm) in North Carolina. The species grows in acid, swampy soils of pinelands and bays on the Atlantic and Gulf coastal plains. Loblolly bay is found on several soil series. It grows on certain Spodosols, Inceptisols, Ultisols, and Histosols, and to a lesser degree on Entisols and Mollisols. Loblolly bay grows in flat woodlands or shallow depressions with little or no slope, slow runoff, rapid permeability, and poor to very poor drainage. In South Carolina the soils are usually of sandy coastal plain or marine origin, except for the organic soils. The water table is usually at or near the soil surface from 6 to 9 months of the year [1,2,12,18].
 
@@ -82,7 +82,7 @@ Loblolly bay occurs in evergreen shrub-tree bogs and bayheads, baldcypress (Taxo
 
 ## Botanical Description
 
-[![A close up photo of a five-petaled white flower with a yellow center, surrounded by stiff, oval green leaves. The background is blurry green and brown.]({{ site.baseurl }}/assets/images/species-reviews/feis-gorlas_flower.jpg)Photo Credit Photo by Karan A. Rawlins, University of Georgia, Bugwood.org, CC BY-NC 3.0 US. Loblolly bay flower, North Carolina.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A close up photo of a five-petaled white flower with a yellow center, surrounded by stiff, oval green leaves. The background is blurry green and brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gorlas_flower.jpg?itok=bcEPv62n)Photo Credit Photo by Karan A. Rawlins, University of Georgia, Bugwood.org, CC BY-NC 3.0 US. Loblolly bay flower, North Carolina.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 Loblolly bay is a small to medium-sized native, evergreen tree or shrub. It grows to about 65 feet (20 m) in height and has a narrow conical to columnar crown [10]. The simple leaves are alternate, leathery, and thick. The rough bark of mature trees is thin, interlaced with flat-topped ridges and separated by narrow furrows. The perfect, solitary flowers are axillary to close-set leaves on the current years twigs. The fruit is a hard, woody, five-valved capsule about 0.6 inch (1.5 cm) long with each valve containing four to eight flat, winged seeds. Loblolly bay has a large primary root with secondary roots branching downward [9,20,23,24].
 

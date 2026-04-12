@@ -66,7 +66,7 @@ No entry.
 
 Knotgrass is found along fresh and brackish marshes, coastal salt marshes, ponds, ditches, shorelines, beaches, and dunes; and in freshwater wetlands of the semiarid grasslands of the Southwest [4,8,11,18]. Some associates include sea purslane (_Sesuvium portulacastrum_), beach dropseed (_Sporobolus virginicus_), Mexican beach peanut (_Okenia hypogaea_), railroad vine (_Ipomoea pes-caprae_), sea lavender (_Argusia gnaphalodes_), beachberry (_Scaevola plumieri_), bay cedar (_Suriana maritima_), cordgrass (_Spartina_ spp.), muhly grass (_Muhlenbergia_ spp.), sedge (_Carex_ spp.), horsetail (_Equisetum_ spp.), spikerush (_Eleocharis_ spp.), rush (_Juncus_ spp.), Olney bulrush (_Scirpus olneyi_), slender wheatgrass (_Elymus trachycaulus_ ssp. _trachycaulus_), and johnsongrass (_Sorghum halpense_) [3,4,11,14].
 
-[![Dense grass covers the ground with a few large bunchgrasses and shrubs amongst the grass and trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/pasdis_pasdis_wetland.jpeg)Photo Credit Photo by nick_goldwater, iNaturalist (CC BY 4.0). Knotgrass dominates a small wetland.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![Dense grass covers the ground with a few large bunchgrasses and shrubs amongst the grass and trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/pasdis_wetland.jpeg?itok=zR6ToQby)Photo Credit Photo by nick_goldwater, iNaturalist (CC BY 4.0). Knotgrass dominates a small wetland.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 ## Botanical and Ecological Characteristics
 
@@ -74,7 +74,7 @@ Knotgrass is found along fresh and brackish marshes, coastal salt marshes, ponds
 
 Knotgrass is a native, perennial, rhizomatous graminoid [9]. Its culms are 7 to 20 inches (0.2-0.6 m) high and are sometimes pubescent [17,18]. Usually, two racemes are found at the end of the stem. Leaf blades are flat and from 2 to 6 inches (5-15 cm) long. Rhizomes form dense, extensive mats [5].
 
-![A forked grass, with the stem ending in two reproductive racemes. Relatively dense grasses dominate the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pasdis_plant.jpg)
+![A forked grass, with the stem ending in two reproductive racemes. Relatively dense grasses dominate the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-pasdis_plant.jpg?itok=MBMCeFFj)
 
 Photo Credit
 

@@ -62,7 +62,7 @@ rock chestnut oak, rock oak, tanbark oak
 
 ## General Distribution
 
-![Two maps of the United States showing the distributions of swamp chestnut oak \(left\) and chestnut oak \(right\) highlighted in green. Most of the southeast and eastern U.S. are highlighted for both, with a few more in the south for swamp chestnut oak, and more in the northeast for chestnut oak.]({{ site.baseurl }}/assets/images/species-reviews/feis-quespp3_maps.jpg)
+![Two maps of the United States showing the distributions of swamp chestnut oak \(left\) and chestnut oak \(right\) highlighted in green. Most of the southeast and eastern U.S. are highlighted for both, with a few more in the south for swamp chestnut oak, and more in the northeast for chestnut oak.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-07/feis-quespp3_maps.jpg?itok=lLBX3kb6)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Swamp chestnut oak is distributed from Illinois and New Jersey south to Texas an
 
 ## Site Characteristics
 
-![A photo of a ridge covered in trees with brilliant yellow leaves. Lots of bare ground is visible, and some low shrubs with red leaves are growing under the trees.]({{ site.baseurl }}/assets/images/species-reviews/quespp3_feis-quemon_habitat.jpg)
+![A photo of a ridge covered in trees with brilliant yellow leaves. Lots of bare ground is visible, and some low shrubs with red leaves are growing under the trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemon_habitat.jpg?itok=oBvVf8kE)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ The following published classifications list swamp chestnut oak and/or chestnut 
 
 ## Botanical Description
 
-![A photo of a tree's green, shiny, serrated leaves in the sun. Some other vegetation. branches, and hanging moss are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/quespp3_feis-quemic_foliage.jpeg)
+![A photo of a tree's green, shiny, serrated leaves in the sun. Some other vegetation. branches, and hanging moss are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemic_foliage.jpeg?itok=7RPWR6JI)
 
 Photo Credit
 

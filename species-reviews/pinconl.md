@@ -34,7 +34,7 @@ Anderson, Michelle D. 2003. _Pinus contorta_ var. _latifolia_ , Rocky Mountain l
 
 ## Introduction
 
-![A photo of a stand of conifers with narrow trunks and few low branches growing relatively close together with an open understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconl_stand.jpg)
+![A photo of a stand of conifers with narrow trunks and few low branches growing relatively close together with an open understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinconl_stand.jpg?itok=sIOXM-Vp)
 
 Photo Credit
 
@@ -247,7 +247,7 @@ Rocky Mountain lodgepole pine stands originating from stand-replacing fire gener
 
 Nonserotinous trees may be favored at both ends of the fire frequency gradient. The absence of fire over a long period may result in stands dominated by trees with nonserotinous cones as regeneration from open cones replaces the original trees [275]. Long intervals between fires often allow large fuel accumulations, resulting in intense burns which may destroy many seeds in serotinous cones. With frequent fires, fuel accumulation may be low and the resulting fire intensity may be too low to open closed cones [229]. In addition, disturbance may occur before the serotinous cone habit is expressed. Though Rocky Mountain lodgepole pine may start bearing cones at less than 10 years of age, serotiny is not expressed until trees are 30 to 60 years old [217].
 
-![A close-up photo of two closed pinecones growing on a branch with twigs with green needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconl_closedcone_0.jpg)
+![A close-up photo of two closed pinecones growing on a branch with twigs with green needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinconl_closedcone_0.jpg?itok=wcaYzaIm)
 
 Photo Credit
 
@@ -255,7 +255,7 @@ Photo courtesy of Oregon State University, Department of Horticulture.
 
 Serotinous Rocky Mountain lodgepole pine cones.
 
-![A photo of an open pinecone growing on a branch with green needles.]({{ site.baseurl }}/assets/images/species-reviews/pinconl_feis-opencone_pinconl.jpg)
+![A photo of an open pinecone growing on a branch with green needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-opencone_pinconl.jpg?itok=5yVP6Et0)
 
 Photo Credit
 
@@ -335,7 +335,7 @@ Rocky Mountain lodgepole pine is moderately fire resistant in open stands due to
 
 Non-drought stressed Rocky Mountain lodgepole pine can transport substantial amounts of water to heated, foliated branches. This mechanism slows the rate of drying for branches subject to intense heat, therefore influencing crown ignition susceptibility and fire behavior [102].
 
-![A photo of a stand of burning conifers, with bright orange flames extending above the tree crowns in the center of the photo. At the right side of the photo, smaller flames are visible along some tree trunks and branches and along the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconl_crownfire.jpg)
+![A photo of a stand of burning conifers, with bright orange flames extending above the tree crowns in the center of the photo. At the right side of the photo, smaller flames are visible along some tree trunks and branches and along the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinconl_crownfire.jpg?itok=muJWEAj-)
 
 Photo Credit
 
@@ -367,7 +367,7 @@ Though it has thin bark, serotinous Rocky Mountain lodgepole pine is a fire evad
 
 Rocky Mountain lodgepole pine also exhibits an invader response to fire, pioneering plant succession following disturbance [4]. In one study, recovery of Rocky Mountain lodgepole pine in grand fir habitat types of northeastern Oregon ranged from 15 to 20% cover by postfire year 5 and 50% cover by postfire year 10, with higher rates of cover corresponding to increased fire severity. In subalpine fir habitat types, postfire year 5 Rocky Mountain lodgepole pine cover ranged from 10 to 80% [181].
 
-![A close-up photo of the ground after a fire, with charred and downed wood visible, as well as several forb rosettes and a tiny pine tree seedling with just a few needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconl_lodgepoleseedling.jpg)
+![A close-up photo of the ground after a fire, with charred and downed wood visible, as well as several forb rosettes and a tiny pine tree seedling with just a few needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinconl_lodgepoleseedling.jpg?itok=LlUZxZoL)
 
 Photo Credit
 
@@ -375,7 +375,7 @@ Image by Garon Smith, used with permission.
 
 A Rocky Mountain lodgepole pine seedling (red arrow) in postfire year 1, following the 2017 Park Creek Fire near Lincoln, Montana.
 
-![A photo of bright green conifers growing amongst deadfall of trees killed by fire. A rocky peak is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinconl_postfireregen.jpg)
+![A photo of bright green conifers growing amongst deadfall of trees killed by fire. A rocky peak is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinconl_postfireregen.jpg?itok=buTn4vhj)
 
 Photo Credit
 

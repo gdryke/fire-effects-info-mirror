@@ -90,7 +90,7 @@ Gooseberry currant is listed as a dominant understory species in the following p
 
 ## Botanical Description
 
-![A close up photo of a shrub's branch with small green leaves and pale pink, tube-shaped flowers. The background is blurry green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribmon_flowers.jpeg)
+![A close up photo of a shrub's branch with small green leaves and pale pink, tube-shaped flowers. The background is blurry green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ribmon_flowers.jpeg?itok=_ohjFMA-)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Fire probably kills most gooseberry currant.
 
  * Ground residual colonizer (on-site, initial community)
 
-![A photo of a small spindly shrub with small yellow leaves growing out of the base of a burned, decayed stump in an open meadow. A conifer forest is visible on the hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribmon_burnedstump.jpg)
+![A photo of a small spindly shrub with small yellow leaves growing out of the base of a burned, decayed stump in an open meadow. A conifer forest is visible on the hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ribmon_burnedstump.jpg?itok=BvDHuTdj)
 
 Photo Credit
 

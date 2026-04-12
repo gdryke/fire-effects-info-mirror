@@ -40,7 +40,7 @@ The scientific name of granite prickly phlox is _Linanthus pungens_ (Torr.) J.M.
 
 ### Synonyms
 
-![A photo of a plant with many dense, mostly unbranched stems covered with shortly, prickly leaves and topped by pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-linpun_sand_habitat.jpg)
+![A photo of a plant with many dense, mostly unbranched stems covered with shortly, prickly leaves and topped by pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linpun_sand_habitat.jpg?itok=iFpTrDS5)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Granite prickly phlox occurs in calcareous soil [44,84,98,144], but growth appea
 
 Granite prickly phlox typically occurs in open, exposed places on flat to steep sites (range: 0-65°) [1,63,82,99,105,110,124,136] on all aspects [13,59,119,124,128,147]. It occurs on washes, bajadas, mesas, and buttes in the desert plains [17,48,67,99,142] and on dry eastern slopes and summits of the montane, subalpine, and alpine zones of the Sierra Nevada and the Cascade Range [41,42,60,63,67,72,77,120,126,137].
 
-![A photo of a plant with several white flowers at the end of some stems growing amongst rocks with some litter.]({{ site.baseurl }}/assets/images/species-reviews/feis-linpun_rock_habitat.jpg)
+![A photo of a plant with several white flowers at the end of some stems growing amongst rocks with some litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linpun_rock_habitat.jpg?itok=-wQSA9jF)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 **Reproductive Structures:** Flowers are sessile or nearly so, tending to open in the evening [28,48,49,60,96,97]. The flowers are solitary or occur in compact, terminal clusters [17,48,50,73]. The corolla is funnel-shaped and ranges from 0.4 to 0.9 inch (1.0-2.5 cm) long [28,48,49,50,57,138,142]. Generally, the flowers are white or cream colored, although pinkish or yellowish flowers are sometimes found [28,48,50,57,60,67,73,93,138,142].
 
-![A photo of a hand holding two small plants with relatively large, woody roots.]({{ site.baseurl }}/assets/images/species-reviews/feis-linpun_roots.jpg)
+![A photo of a hand holding two small plants with relatively large, woody roots.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linpun_roots.jpg?itok=m6_bG-Wj)
 
 Photo Credit
 
@@ -233,7 +233,7 @@ Regeneration processes of granite prickly phlox were poorly understood as of thi
 
 The narrow calyx favors an insect pollinator with a long proboscis. Butterflies may be the most frequent pollinators of phlox [93]. Meinke [87] stated that butterflies in the Pieridae and Lycaenidae families and some moths in the Sphingidae family were the primary pollinators of granite prickly phlox in the Snake River Canyon, Idaho.
 
-![A close-up photo of several white flowers growing at the end of a stem, each with five white petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-linpun_flowers.jpg)
+![A close-up photo of several white flowers growing at the end of a stem, each with five white petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linpun_flowers.jpg?itok=1scdxO30)
 
 Photo Credit
 
@@ -377,7 +377,7 @@ Granite prickly phlox provides forage for wildlife. Its leaves and stems are con
 
 Livestock such as horses, cattle, and domestic sheep consume granite prickly phlox, but granite prickly phlox foliage is typically considered of "low forage value" [35,39] except perhaps in spring (see Palatability) [35,78]. For more information on consumption of granite prickly phlox by livestock, see Grazing.
 
-![A close-up photo of stems with short, prickly leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-linpun_stems.jpg)
+![A close-up photo of stems with short, prickly leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linpun_stems.jpg?itok=Ga1zx7qI)
 
 Photo Credit
 

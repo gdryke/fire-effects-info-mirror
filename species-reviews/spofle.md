@@ -65,7 +65,7 @@ Mesa dropseed occurs mainly in dry areas with mean annual precipitation of 12 in
 
 Mesa dropseed is a component of desert scrub, shrub, grassland, sagebrush (_Artemisia_ spp.) and pinyon-juniper (_Pinus_ -_Juniperus_ spp.) communities [3,46]. Wolters and others [47] placed it in the transition zone between desert scrub and desert grassland. Mesa dropseed is also a component of the mesquite-dropseed-broom snakeweed (_Prosopis_ spp.-_Sporobolus_ spp.-_Gutierrezia sarothrae_) and broom snakeweed-dropseed communities [4,9]. It has become a dominant grass species in fragmented black grama (_Bouteloua eriopoda_) stands [15] and is associated with soaptree yucca (_Yucca elata_) [6,32].
 
-[![A photo of a grass panicle with small seeds in front shrubs growing in reddish sandy soils.]({{ site.baseurl }}/assets/images/species-reviews/feis-spofle_community.jpg)Photo Credit Photo by Ryan Donnelly, iNaturalist (CC BY 4.0). Mesa dropseed growing in a desert shrub community in Dona Ana County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass panicle with small seeds in front shrubs growing in reddish sandy soils.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-spofle_community.jpg?itok=vTYGb89G)Photo Credit Photo by Ryan Donnelly, iNaturalist (CC BY 4.0). Mesa dropseed growing in a desert shrub community in Dona Ana County, New Mexico.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
@@ -73,7 +73,7 @@ Mesa dropseed is a component of desert scrub, shrub, grassland, sagebrush (_Arte
 
 Mesa dropseed is a warm-season, native, perennial bunchgrass. It is short-lived (4-5 years) and sometimes grows as an annual [2,5,7,14,21,36,41,46,49]. Mesa dropseed has long culms (11.8-39.0 inches (30-100 cm)) with many leafy blades and coarse roots [5,7,14]. Dwyer and DeGarmo [10] found that roots decrease in biomass from top to bottom at 1/3rd field capacity and were better distributed as soil moisture decreased. _Sporobolus_ spp. have small seeds (0.04-0.12 inch (0.1-0.3 mm)) [20].
 
-[![A photo of a grass growing on dry soils.]({{ site.baseurl }}/assets/images/species-reviews/feis-spofle_plant.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Mesa dropseed growing in Washington County, Utah.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass growing on dry soils.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-spofle_plant.jpeg?itok=Y3ldhC6G)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Mesa dropseed growing in Washington County, Utah.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

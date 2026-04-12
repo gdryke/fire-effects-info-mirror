@@ -73,7 +73,7 @@ plains poplar
 
 ## General Distribution
 
-![Photo of Eastern cottonwood branch with leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-popdel_leaves.jpeg)
+![Photo of Eastern cottonwood branch with leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popdel_leaves.jpeg?itok=JVJ0alN_)
 
 Photo Credit
 
@@ -204,7 +204,7 @@ Classifications systems listing Rio Grande cottonwood is an indicator species or
 
 ## Botanical Description
 
-![Photo of Eastern cottonwood catkin.]({{ site.baseurl }}/assets/images/species-reviews/feis-popdel_catgin.jpg)
+![Photo of Eastern cottonwood catkin.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-popdel_catgin.jpg?itok=9rp3VeJX)
 
 Photo Credit
 

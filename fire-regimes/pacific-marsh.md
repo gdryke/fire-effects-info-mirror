@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific marsh communities has not yet been 
 
 ## Distribution
 
-![A map showing the distribution of Pacific marsh communities in California]({{ site.baseurl }}/assets/images/fire-regimes/pacific-marsh_feis-pacific_marsh_locator.jpg)
+![A map showing the distribution of Pacific marsh communities in California](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_marsh_locator.jpg?itok=TXqqt6gP)
 
 Photo Credit
 

@@ -107,7 +107,7 @@ Common herb associates with western hemlock include maidenhair fern (Adiantum pe
 
 ## Botanical Description
 
-![A photo of a drooping conifer branch with small, thin needles and hanging green cones in front of a lake.]({{ site.baseurl }}/assets/images/species-reviews/tsuhet_tsuhet_cones_0_0.jpg)
+![A photo of a drooping conifer branch with small, thin needles and hanging green cones in front of a lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/tsuhet_cones_0_0.jpg?itok=J91958WL)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Western hemlock seed appears to germinate well and seedlings grow well on almost
 
 ## Successional Status
 
-![A photo of a stand of straight, tall conifer trees with dark, mossy bark. The understory is mostly herbaceous plants, with a few small conifers visible.]({{ site.baseurl }}/assets/images/species-reviews/tsuhet_tsuhet_stand_0_0.jpeg)
+![A photo of a stand of straight, tall conifer trees with dark, mossy bark. The understory is mostly herbaceous plants, with a few small conifers visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/tsuhet_stand_0_0.jpeg?itok=Rz3cx_UM)
 
 Photo Credit
 
@@ -174,7 +174,7 @@ The frequency of fire in western hemlock stands tends to be low because it commo
 
 ## Plant Response to Fire
 
-![A photo of a steep hillside with a burned stand of tall, straight trees. The ground is almost completely covered by small, young conifers regenerating under the burned canopy.]({{ site.baseurl }}/assets/images/species-reviews/tsuhet_tsuhet_regen_0_0_0.jpeg)
+![A photo of a steep hillside with a burned stand of tall, straight trees. The ground is almost completely covered by small, young conifers regenerating under the burned canopy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/tsuhet_regen_0_0_0.jpeg?itok=pe9L5s9d)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Harris, Holly T. 1990. _Populus balsamifera_ subsp. _balsamifera,_ balsam poplar
 
 ## Image Gallery
 
-![A tall tree with many branches and small green leaves rises above other green shrubs and trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-popbalb_plant.jpg) Balsam poplar. _Steven Katovich, Bugwood.org_
+![A tall tree with many branches and small green leaves rises above other green shrubs and trees.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-popbalb_plant.jpg) Balsam poplar. _Steven Katovich, Bugwood.org_
 
 Photo Credit: Steven Katovich, Bugwood.org
 
@@ -113,7 +113,7 @@ Canada| general veg. pas boreal forests| Roi 1967
 
 ## Botanical Description 
  
-![A tall tree with many branches and small green leaves rises above other green shrubs and trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-popbalb_plant.jpg)
+![A tall tree with many branches and small green leaves rises above other green shrubs and trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-popbalb_plant.jpg?itok=wkcCGxpl)
 
 Photo Credit
 

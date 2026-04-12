@@ -60,7 +60,7 @@ Firegrass occurs in Florida [4,7,14].
 
 Firegrass occurs in dry pine woods of Florida [4,7,10]. It also occurs occasionally on sandhills and in sand pine (Pinus clausa) scrub of central Florida [14]. It sometimes occurs in moist sites as well [12].
 
-[![A photo of a bunchgrass with pine trees and blue skies behind.]({{ site.baseurl }}/assets/images/species-reviews/andterc_andterc_community.jpg)Photo Credit Photo by brettbudach, iNaturalist (CC BY-NC). Firegrass growing in a pine community.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a bunchgrass with pine trees and blue skies behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/andterc_community.jpg?itok=uLw2vtCn)Photo Credit Photo by brettbudach, iNaturalist (CC BY-NC). Firegrass growing in a pine community.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Firegrass in south-central Florida occurs on fine sand. Average annual rainfall is about 55 inches (140 cm) a year, 75 percent of which falls from May to October. Average temperatures from May to October are maximum/minimum 90/64 degrees Fahrenheit (31.6/17.8 deg C) [5]. In extreme southeastern Florida firegrass occurs on rough limestone substrate with crevices and solution holes but very little soil development [7,10]. Firegrass in Liberty County occurs on limestone bedrock with surface soils derived from sand. It occurs on poorly drained, somewhat poorly drained, and moderately to excessively well-drained soils [12].
 
@@ -78,7 +78,7 @@ Plants associated with firegrass on limestone rockland South Florida slash pine 
 
 Firegrass is a native, perennial, caespitose graminoid [3]. Culms are erect, 31 to 59 inches (80-150 cm) tall, and occur in small tufts. The upper half of each culm bears long slender branches. The inflorescence has two racemes and is 1.6 to 2.8 inches (4-7 cm) long [4]. Rachis hairs make the inflorescence villous [14]. The lemma awn is 0.6 inches (1.5 cm) long and twisted. The fruit is a caryopsis [4].
 
-[![A photo of an inflorescence of a grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-andterc_reproduction.jpeg)Photo Credit Photo by Jay Horn, iNaturalist (CC BY 4.0). Racemes of firegrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of an inflorescence of a grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-andterc_reproduction.jpeg?itok=eLhEfWZs)Photo Credit Photo by Jay Horn, iNaturalist (CC BY 4.0). Racemes of firegrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

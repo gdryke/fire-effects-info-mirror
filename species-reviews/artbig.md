@@ -71,7 +71,7 @@ Utah| 3,200 to 7,005 feet (975-2,135 m) [58]
  
 ## Plant Communities
 
-![Photo of a small, greenish-gray shrub on a sandy mound, with scattered small trees, shrubs, and grass clumps in the background.]({{ site.baseurl }}/assets/images/species-reviews/artbig_feis-ARTBIG_habitat.jpg)
+![Photo of a small, greenish-gray shrub on a sandy mound, with scattered small trees, shrubs, and grass clumps in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-ARTBIG_habitat.jpg?itok=KGeJfMFh)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Bigelow sagebrush-broom snakeweed communities merge into blue grama-buffalo gras
 
 ## Botanical Description
 
-![Close-up photo of a slender branch with narrow, greenish gray leaves, and yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/artbig_feis-ARTBIG_flowers.jpeg)
+![Close-up photo of a slender branch with narrow, greenish gray leaves, and yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-ARTBIG_flowers.jpeg?itok=9NOHY85e)
 
 Photo Credit
 
@@ -196,7 +196,7 @@ No entry.
 
 ## Federal Status
 
-![Photo of Bigelow sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-artbig_plant.jpg)
+![Photo of Bigelow sagebrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artbig_plant.jpg?itok=-zXzUFQB)
 
 Photo Credit
 

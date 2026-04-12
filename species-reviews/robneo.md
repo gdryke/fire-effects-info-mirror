@@ -62,7 +62,7 @@ New Mexico locust is found from the mountains of Trans-Pecos Texas north to sout
 
 ## Site Characteristics
 
-![A photo of a group of large shrubs with clusters of soft pink flowers growing in a red rock desert setting, with a rock cliff visible behind the shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-robneo_habitat.jpeg)
+![A photo of a group of large shrubs with clusters of soft pink flowers growing in a red rock desert setting, with a rock cliff visible behind the shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-robneo_habitat.jpeg?itok=xoz-aCmh)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Associated species not mentioned in Table A1 include the following. Associated t
 
 ## Botanical Description
 
-![A close up photo of a shrub or tree's spiny stems, small green leaves, and a cluster of soft pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-robneo_flower.jpg)
+![A close up photo of a shrub or tree's spiny stems, small green leaves, and a cluster of soft pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-robneo_flower.jpg?itok=Ez_sjodA)
 
 Photo Credit
 

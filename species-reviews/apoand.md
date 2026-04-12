@@ -34,7 +34,7 @@ Groen, Amy H. 2005. _Apocynum androsaemifolium_ , spreading dogbane. In: Fire Ef
 
 ## Image Gallery
 
-![Photo of spreading dogbane with pink and white blossoms.]({{ site.baseurl }}/assets/images/species-reviews/feis-apoand_plant_0.jpg) Spreading dogbane. _Photo by Erik Schiff, iNaturalist.org, no rights reserved._
+![Photo of spreading dogbane with pink and white blossoms.](https://research.fs.usda.gov/sites/default/files/2025-10/feis-apoand_plant_0.jpg) Spreading dogbane. _Photo by Erik Schiff, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Erik Schiff, iNaturalist.org, no rights reserved.
 
@@ -119,7 +119,7 @@ Spreading dogbane is common in dry, open areas and is often found after a distur
 
 ## Botanical Description
 
-![Photo of spreading dogbane with pink and white blossoms.]({{ site.baseurl }}/assets/images/species-reviews/feis-apoand_plant_0.jpg)
+![Photo of spreading dogbane with pink and white blossoms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-10/feis-apoand_plant_0.jpg?itok=-nlUVdsc)
 
 Photo Credit
 

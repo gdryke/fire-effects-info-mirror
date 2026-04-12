@@ -69,7 +69,7 @@ In the northeastern United States, eastern hemlock grows at elevations ranging f
 
 ## Plant Communities
 
-![A photo of a snowy forest, looking upward at a large, straight, tall conifer tree. A few smaller conifers are visible but most of the surrounding trees have no leaves. ]({{ site.baseurl }}/assets/images/species-reviews/feis-tsucan_habitat.jpg)
+![A photo of a snowy forest, looking upward at a large, straight, tall conifer tree. A few smaller conifers are visible but most of the surrounding trees have no leaves. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tsucan_habitat.jpg?itok=fMOOOp-f)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Understory associates are scarce because of acidic infertile humus, low light, a
 
 ## Botanical Description
 
-![ A close-up photo of a conifer tree's flat, light green needles and small, round, open brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-tsucan_cones.jpg)
+![ A close-up photo of a conifer tree's flat, light green needles and small, round, open brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tsucan_cones.jpg?itok=aUNtXojl)
 
 Photo Credit
 

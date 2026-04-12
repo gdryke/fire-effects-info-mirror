@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northwestern Great Plains shrubland communi
 
 ## Distribution
 
-![A map showing the distribution of northwestern Great Plains shrubland communities in the northern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northwestern-great-plains-shrublands_feis-northwestern_great_plains_shrublands_locator.jpg)
+![A map showing the distribution of northwestern Great Plains shrubland communities in the northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northwestern_great_plains_shrublands_locator.jpg?itok=aaYA__ew)
 
 Photo Credit
 

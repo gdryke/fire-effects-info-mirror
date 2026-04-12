@@ -73,7 +73,7 @@ The Northern Rocky Mountain montane mixed-conifer Fire Regime Report provides fi
 
 The Northern Rocky Mountain floristic zone extends south of Jasper National Park, Alberta, to Yellowstone National Park in southern Montana and northern Wyoming. Ponderosa pine cover types occupy an estimated 7 million acres (3 million ha) in northeastern Washington, Idaho, Montana, and western Wyoming [174]. They are sparse to absent in southwestern and south-central Montana [131,179]. Figure 1 shows the range of ponderosa pine ecosystems covered in this synthesis.
 
-![Land cover distribution of four Biophysical Settings in the northern Rocky Mountains.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_map.jpg)
+![Land cover distribution of four Biophysical Settings in the northern Rocky Mountains.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-05/feis-northernrockymountainponderosapine_frs_map.jpg?itok=uMNAECfv)
 
 Figure 1—Land cover distribution of Northern Rocky Mountain ponderosa communities based on the LANDFIRE Biophysical Settings (BpS) data layer [104]. Numbers indicate LANDFIRE map zones.
 
@@ -161,7 +161,7 @@ Prior to fire exclusion, fuels in low-elevation ponderosa pine ecosystems were m
 
 Ponderosa pine communities historically had a mixed-severity fire regime of frequent, low- to moderate-severity surface fires and less frequent, stand-replacement surface or crown fires [2,62]. Surface fires would often crown in or burn severely enough to kill trees in dense thickets, creating a mosaic of burn severities on the landscape. Fire histories based on fire scars document that prior to European-American settlement (1890s to early 1900s), surface fires in ponderosa pine habitat types returned every 6 to 13 years on average [2,55,139]. In Douglas-fir habitat types where ponderosa pine was the seral dominant, low- and moderate-severity surface fires returned every 20 to 30 years on average [5,6,17,31,33,157,161]. Under these fire regimes, mature ponderosa pines survived low-severity surface and many moderate-severity surface fires. Most conifer seedlings and saplings were killed [9], although in mosaic fires some young conifer patches and scattered young conifers either survived fire or were missed. Crown fires were usually passive or limited to dense thickets [139]. Stand-replacement fires occurred when fire weather was extreme [4,85,86]. Tables A1 and A2 summarize fire-return intervals for ponderosa pine communities in the Northern Rocky Mountains.
 
-![Burned ponderosa pine stand following a wildfire.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_roaringlionfire.jpg)
+![Burned ponderosa pine stand following a wildfire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-northernrockymountainponderosapine_frs_roaringlionfire.jpg?itok=NCrIKyMq)
 
 Photo Credit
 
@@ -215,13 +215,13 @@ Fire scars show that fires historically occurred at frequent intervals in ponder
 
 Historical frequencies of moderate and severe fires are largely unknown. Because fire history in ponderosa pine ecosystems is largely based on fire scars, it difficult to determine the frequency of moderate- and high-severity fires: Such fires burn up some or all of the overstory, leaving incomplete or no fire-scar evidence of their passing [166]. Table A1 summarizes fire-return interval means and ranges of study sites in the Northern Rocky Mountains where ponderosa pine was historically dominant. These studies reported that fire-return intervals of 10 to 15 years were historically most common in those communities (figure 3).
 
-![Frequency distribution of composite fire intervals.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_firefreq.jpg)
+![Frequency distribution of composite fire intervals.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-05/feis-northernrockymountainponderosapine_frs_firefreq.jpg?itok=13qugxG2)
 
 Figure 3—Frequency distribution of composite fire intervals of fire study sites listed in Table A1. This chart includes only those sites for which composite fire intervals were determined.
 
 **Trends in Fire Frequency** : Fire-return intervals tend to lengthen as warm ponderosa pine habitat types transition to cool Douglas-fir habitat types [131]. Studies across the Northern Rocky Mountain illustrate this trend. Arno [8] conducted fire history studies in ponderosa pine and Douglas-fir habitat types in the Bitterroot Valley and on the Lolo National Forest. He found that fire-return intervals in ponderosa pine habitat types averaged 6 years on dry, south-facing slopes and 12 years on mesic, north-facing slopes. In Douglas-fir habitat types where ponderosa pine is the seral dominant, fire-return intervals averaged 13 years on the north end of the valley and 26 years on the south end (Arno unpublished data cited in [8]). He emphasized that variability in fire-return intervals is, at least in part, due to patchiness of the vegetation on the landscape, local terrain, and surrounding habitats [8]. In northern Idaho and western Montana, mean fire-return intervals ranged from 6 years in dry ponderosa pine types to 40 years in moist ponderosa pine-Douglas-fir types [16,49]. On some sites, frequent surface fires maintained open ponderosa pine forests for several centuries; on others, fires crowned where longer fire-return intervals had led to heavy fuel loads [8,153].
 
-![Location of fire history studies overlaid on four Biophysical Settings of ponderosa communities in the northern Rocky Mountains.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_firehistorystudylocations.jpg)
+![Location of fire history studies overlaid on four Biophysical Settings of ponderosa communities in the northern Rocky Mountains.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-05/feis-northernrockymountainponderosapine_frs_firehistorystudylocations.jpg?itok=Tf3TP5XW)
 
 Figure 4—Locations of fire history studies from Table A1. 
 
@@ -259,7 +259,7 @@ Lake charcoal sediment studies in Idaho, Montana, and Wyoming show that fire reg
 
 Ponderosa pine ecosystems of the Northern Rocky Mountains historically had mosaic surface fires of mostly low to moderate severity, with some crowning in dense, young conifer patches [4,10,36]. High-severity fires were less common [4,10,23,85,86,137]. Based on fire history studies he conducted in ponderosa pine stands across the Northern Rocky Mountains, Barrett [36] estimated overstory mortality from wildfire was <20% before fire exclusion began (1900-1935, depending on location). Low- to moderate-severity fires (Fire Regime Group I) were characteristic of ponderosa pine communities on relatively dry sites [153]. Low-severity surface fires were most common in low-elevation areas with relatively flat topography and an overstory of large, widely spaced ponderosa pines [90]. Fires tended to transition to mixed and moderate severity with increasing elevation, although local variation was common [90].
 
-![A ponderosa pine forest burned in a mixed-severity, mosaic fire.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_roaringlionfire2.jpg)
+![A ponderosa pine forest burned in a mixed-severity, mosaic fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-northernrockymountainponderosapine_frs_roaringlionfire2.jpg?itok=8xp4oD1x)
 
 Photo Credit
 
@@ -267,7 +267,7 @@ USDA Forest Service photo by Janet Fryer.
 
 Figure 5—The 2016 Roaring Lion Wildfire on the Bitterroot National Forest was a mixed-severity, mosaic fire.
 
-![A ponderosa pine forest burned in a low and moderate severity fire.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northern_RM_ponderosa_pine_FRS_understoryburn.JPG)
+![A ponderosa pine forest burned in a low and moderate severity fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-northern_RM_ponderosa_pine_FRS_understoryburn.JPG?itok=7LLiRjCZ)
 
 Photo Credit
 
@@ -275,7 +275,7 @@ USDA Forest Service Image by Janet Fryer.
 
 Figure 6—A patch of the Roaring Lion Fire that burned at low and moderate severity.
 
-![A ponderosa pine forest burned in a high-severity fire.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_roaringlionfire4.jpg)
+![A ponderosa pine forest burned in a high-severity fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-northernrockymountainponderosapine_frs_roaringlionfire4.jpg?itok=PqIWo3Am)
 
 Photo Credit
 
@@ -387,7 +387,7 @@ In another Selway-Bitterroot Wilderness study, fire-return intervals in ponderos
 
 Except in extreme fire years (see Fire Pattern and Size and Climate Change), annual mean area burned in many ponderosa pine communities was less in most of the 20th century than in presettlement times [35,41,46]. Across the Selway-Bitterroot Wilderness, there were almost no mapped fires from 1935 to 1979 [142] (table 6). Brown et al. [46] estimated that in the Selway-Bitterroot Wilderness, mean annual area burned in ponderosa pine-Douglas fir and other communities with a nonlethal understory fire regime was 3.7 times greater from the 1500s to 1935 (7,818 acres (3,164 ha)) than from 1979 to 1990 (2,130 acres (862 ha)) [45,46]. In the Quartzite Mountain area of Washington, average number of acres burned was less during the presettlement period (300 acres (120 ha)) than the settlement period (1,076 acres (435 ha)). There was an abrupt lengthening of fire-return intervals and lessening of acreage burned after 1920 [146] (figure 8).
 
-![Estimated acreage burned within sampled portions of the Quartzite Mountain area by decade from 1990 to 1670.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-ponderosa-pine_feis-northernrockymountainponderosapine_frs_aceaburned.jpg)
+![Estimated acreage burned within sampled portions of the Quartzite Mountain area by decade from 1990 to 1670.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-05/feis-northernrockymountainponderosapine_frs_aceaburned.jpg?itok=H4V2ifow)
 
 Figure 8—Estimated acreage burned within sampled portions of the Quartzite Mountain area by decade [146].
 

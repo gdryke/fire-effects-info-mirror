@@ -59,7 +59,7 @@ Pungent oak is widespread throughout the Edwards Plateau and Trans-Pecos region 
  * United States: AZ NM TX
  * Mexico
 
-![A photo of a rocky desert hillside with a large shrub or small tree in the foreground, with small wrinkled leaves covering most of the plant. The surrounding area is bare rock and some small dry shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-quepun_habitat.jpeg)
+![A photo of a rocky desert hillside with a large shrub or small tree in the foreground, with small wrinkled leaves covering most of the plant. The surrounding area is bare rock and some small dry shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-quepun_habitat.jpeg?itok=803ZLNEe)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Several species that were not previously included in Table A1 but occur with pun
 
 ## Botanical Description
 
-![A close up photo of a shrub or tree's dusty green, wrinkled foliage and smooth, pale green and tan acorns. The plant is in bright sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-quepun_acorns.jpeg)
+![A close up photo of a shrub or tree's dusty green, wrinkled foliage and smooth, pale green and tan acorns. The plant is in bright sun.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-quepun_acorns.jpeg?itok=mnmfcgYX)
 
 Photo Credit
 

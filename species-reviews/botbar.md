@@ -54,7 +54,7 @@ cane beardgrass
 
 ## General Distribution
 
-![A map of the U.S. with counties along the Mexican border up to the Four Corners area highlighted various colors.]({{ site.baseurl }}/assets/images/species-reviews/feis-botbar_distribution_oldreview.jpg)
+![A map of the U.S. with counties along the Mexican border up to the Four Corners area highlighted various colors.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-botbar_distribution_oldreview.jpg?itok=buvlxPQt)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ In their literature review, Shafroth and others [80] report that cane bluestem t
 
 Cane bluestem is generally most common in semidesert and desert grasslands [43,61,64,65], although it also occurs in semidesert shrublands, savannas, and woodlands [49]. It rarely dominates any vegetation type and typically decreases with increasing shading and grazing pressure. In southwestern rangelands, cane bluestem often occurs as scattered plants or small groups of plants; it rarely occurs in dense, pure stands [49,75]. On the Appleton-Whittell Research Sanctuary, cane bluestem was not widespread or abundant in grassland or oak (_Quercus_ spp.) savanna vegetation but, because of its height, was often conspicuous [11].
 
-[![A photo of relatively tall, green, reproductive grass in the foreground, with relatively dense, green desert shrubs in the mid-ground, and desert hills and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-botbar_plants.jpeg)Photo Credit Photo by CK2AZ, iNaturalist (CC BY 4.0). Cane bluestem growing with desert shrubs in southern Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of relatively tall, green, reproductive grass in the foreground, with relatively dense, green desert shrubs in the mid-ground, and desert hills and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-botbar_plants.jpeg?itok=wEOvtkKc)Photo Credit Photo by CK2AZ, iNaturalist (CC BY 4.0). Cane bluestem growing with desert shrubs in southern Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Grasslands
 
@@ -114,7 +114,7 @@ In parts of southern Arizona, southern New Mexico, and western Texas, cane blues
 
 In southeastern Arizona, cane bluestem occurs in desert or semidesert grasslands dominated by grama (_Bouteloua_ spp.) grasses [68,93]. In the Santa Catalina Mountains, desert grasslands occupy quartzite, bajada, and limestone soils [93]. In the central Peloncillo Mountains of New Mexico, cane bluestem occurs in grama steppe [64], and in Texas, cane bluestem is a common midsized grass in mixed-grass prairies (Allred 1956 as cited in [38]).
 
-[![A photo of a green grass with narrow inflorescences in the foreground, with green grasses and yellow, airy inflorescences dominating the midground. In the near distance, scattered shrubs occur, and low mountains dominate the far distance under cloudy skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-botbar_community.jpg)Photo Credit Photo by CK2AZ, iNaturalist (CC BY 4.0). Cane bluestem growing in a grassland in the Apachian Valleys and Low Hills of the Madrean Sky Islands region in Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a green grass with narrow inflorescences in the foreground, with green grasses and yellow, airy inflorescences dominating the midground. In the near distance, scattered shrubs occur, and low mountains dominate the far distance under cloudy skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-botbar_community.jpg?itok=20wIndOY)Photo Credit Photo by CK2AZ, iNaturalist (CC BY 4.0). Cane bluestem growing in a grassland in the Apachian Valleys and Low Hills of the Madrean Sky Islands region in Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Shrublands
 
@@ -130,7 +130,7 @@ Outside of cane bluestem's most common range, savannas and woodland associates c
 
 ## Botanical Description
 
-[![A photo of upside-down-cone-shaped, fuzzy inflorescences of a grass. The background is out of focus but shows more panicles and trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-botbar_inflorescence.jpeg)Photo Credit Photo by Edwin Hurtado, iNaturalist (CC BY-NC 4.0). A cane bluestem inflorescence.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of upside-down-cone-shaped, fuzzy inflorescences of a grass. The background is out of focus but shows more panicles and trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-botbar_inflorescence.jpeg?itok=S2VZKUER)Photo Credit Photo by Edwin Hurtado, iNaturalist (CC BY-NC 4.0). A cane bluestem inflorescence.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [27,40,42,52,61,63]).
 
@@ -148,7 +148,7 @@ Cane bluestem is a warm-season grass [33] that begins growing when daytime tempe
 
 Cane bluestem reproduces exclusively by seed. Regeneration of established plants is common following aboveground biomass removal by grazing [53,88] or fire [12,13,88]. Because cane bluestem is a bunchgrass, increase in plant size through tillering also occurs.
 
-[![A photo of a grass inflorescence with awned seeds visible in the inflorescence. The background is dry with large boulders and a few scattered shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-botbar_inflorescence2.jpg)Photo Credit Photo by Bobby McCabe, iNaturalist (CC BY 4.0). A cane bluestem inflorescence with seeds in Clark County, Nevada.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass inflorescence with awned seeds visible in the inflorescence. The background is dry with large boulders and a few scattered shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-botbar_inflorescence2.jpg?itok=Xs4xg72f)Photo Credit Photo by Bobby McCabe, iNaturalist (CC BY 4.0). A cane bluestem inflorescence with seeds in Clark County, Nevada.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Pollination and Breeding System
 

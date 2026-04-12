@@ -34,7 +34,7 @@ Meyer, Rachelle. 2011. _Ceanothus leucodermis_ , chaparral whitethorn. In: Fire 
 
 ## Introduction
 
-![A photo of many dense clusters of white flowers on a shrub with green leaves mostly below the flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-cealeu_inflorescenes.jpg)
+![A photo of many dense clusters of white flowers on a shrub with green leaves mostly below the flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cealeu_inflorescenes.jpg?itok=R6O5yAMG)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ chaparral white thorn, chaparral whitethorn ceanothus, jackbrush, jack brush
 
 ## General Distribution
 
-![A map of California, with all southern and many central counties highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-cealeu_map.jpg)
+![A map of California, with all southern and many central counties highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cealeu_map.jpg?itok=wLPd1Wxj)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ In Baja California, Mexico, chaparral whitethorn was reported in a chaparral and
 
 ### Soil
 
-![A photo of a shrub with white branches and small green leaves growing in a dry shrubby community, with hills rising behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-cealeu_habitat.jpeg)
+![A photo of a shrub with white branches and small green leaves growing in a dry shrubby community, with hills rising behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cealeu_habitat.jpeg?itok=Liy1aEEZ)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Chaparral whitethorn sometimes occurs in riparian habitats [6,32,48]. On the Los
 
 ## Botanical Description
 
-![A photo of the branch of a shrub, with long, white spines along branches and oval-shaped green leaves.]({{ site.baseurl }}/assets/images/species-reviews/cealeu_cealeu_leavesthorns_0_0.jpg)
+![A photo of the branch of a shrub, with long, white spines along branches and oval-shaped green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/cealeu_leavesthorns_0_0.jpg?itok=ISOhiZao)
 
 Photo Credit
 
@@ -177,7 +177,7 @@ Chaparral whitethorn has root nodules [29,30,52,53] formed by the nitrogen-fixin
 
 Chaparral whitethorn typically flowers from April [23,24,96] to June [23,96,121], although flowering as early as February as been reported [23]. Fruit ripens in July and August [21] and seeds are dispersed in late July. In an oak woodland savanna in the Sierra Nevada, about 95% of chaparral whitethorn seed was dispersed in a 2-week period in late July with low levels of seed dispersal continuing into August [31]. Seeds mature in September and October [121]. Chaparral whitethorn seedlings emerge in spring, but germination rates are low except during early postfire years. Following prescribed burns in the western slope of the Sierra Nevada, 66% of all chaparral whitethorn seedlings emerged in the week of 14 to 21 March. The following year, peak emergence was before 13 March on south-facing slopes and before 3 April on north-facing slopes [122].
 
-![A close-up photo of an inflorescence of small, purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-cealeu_flowers.jpg)
+![A close-up photo of an inflorescence of small, purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cealeu_flowers.jpg?itok=1OR154HN)
 
 Photo Credit
 

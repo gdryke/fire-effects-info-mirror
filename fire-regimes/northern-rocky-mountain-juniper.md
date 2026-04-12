@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern Rocky Mountain juniper communities
 
 ## Distribution
 
-![A map showing the distribution of northern Rocky Mountain juniper communities in the interior northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-juniper_feis-northern_rocky_mountain_juniper_locator.jpg)
+![A map showing the distribution of northern Rocky Mountain juniper communities in the interior northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_rocky_mountain_juniper_locator.jpg?itok=05mHDGTE)
 
 Photo Credit
 

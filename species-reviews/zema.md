@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Zenaida macroura_ , mourning dove. In: Fire Effects Infor
 
 ## Image Gallery
 
-![A mourning dove perched on a branch of a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-zema_bird.jpg) Mourning dove. _Photo by Jim Hudgins, U.S. Fish and Wildlife Service._
+![A mourning dove perched on a branch of a tree.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-zema_bird.jpg) Mourning dove. _Photo by Jim Hudgins, U.S. Fish and Wildlife Service._
 
 Photo Credit: Photo by Jim Hudgins, U.S. Fish and Wildlife Service.
 

@@ -34,7 +34,7 @@ Crane, M. F. 1990. _Selaginella densa,_ lesser spikemoss. In: Fire Effects Infor
 
 ## Image Gallery
 
-![Photo of small moss cluster on a rocky surface.]({{ site.baseurl }}/assets/images/species-reviews/selden_selden.jpg) Little spikemoss. _Image by Dave Powell, USDA Forest Service, Bugwood.org._
+![Photo of small moss cluster on a rocky surface.](https://research.fs.usda.gov/sites/default/files/2025-03/selden.jpg) Little spikemoss. _Image by Dave Powell, USDA Forest Service, Bugwood.org._
 
 Photo Credit: Image by Dave Powell, USDA Forest Service, Bugwood.org.
 

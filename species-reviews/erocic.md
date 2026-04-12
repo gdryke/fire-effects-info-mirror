@@ -58,7 +58,7 @@ Redstem stork's bill is distributed worldwide at latitudes below 70 degrees nort
 
 In North America, redstem stork's bill is distributed across Canada and south to Baja California, Mexico [21,33].
 
-![A map of the United States and Canada with states and territories highlighted in blue where redstem stork's bill occurs. All U.S. states and Canadian territories are highlighted except for Florida in the U.S, and the Northwest Territories and Nunavut in Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-erocic_map.jpg)
+![A map of the United States and Canada with states and territories highlighted in blue where redstem stork's bill occurs. All U.S. states and Canadian territories are highlighted except for Florida in the U.S, and the Northwest Territories and Nunavut in Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-erocic_map.jpg?itok=Q5OlCJoX)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Associated species: The associated species of redstem stork's bill are too numer
 
 Redstem stork's bill is an exotic forb that may be cool- or warm-season, depending on climate [35,46]. The leaves of young plants form a basal rosette. Older leaves grow up to 12 inches (30 cm) long, becoming decumbent to prostrate. The persistent styles of this plant are 1 to 2 inches (2.5-5 cm) long and coil together at maturity, enveloping the fruit at the base. The fruit is a sharp-pointed, narrow capsule. The slender taproot is about 3 inches (8 cm) long [16,37,47].
 
-![A small pink flowered plant with serrated green leaves, growing on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-erocic_plant.jpg)
+![A small pink flowered plant with serrated green leaves, growing on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-erocic_plant.jpg?itok=vE0jqULP)
 
 Photo Credit
 

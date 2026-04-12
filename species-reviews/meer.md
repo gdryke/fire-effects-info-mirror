@@ -68,7 +68,7 @@ See Table A1.
 
 ## Biological Characteristics
 
-![A photo of a woodpecker with a bright red head, white chest, and black wings sitting on a pine branch. The pine has long, bunched needles and there are more of the same trees visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-meer_pine.jpg)
+![A photo of a woodpecker with a bright red head, white chest, and black wings sitting on a pine branch. The pine has long, bunched needles and there are more of the same trees visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-meer_pine.jpg?itok=aJQ50gic)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ The maximum life span of the red-headed woodpecker is unknown. One red-headed wo
 
 ### Development and Reproduction
 
-![A photo of a black and white woodpecker with a bright red head perched on the side of large branch. There is a freshly excavated cavity with a perfectly round entrance in the branch near the woodpecker]({{ site.baseurl }}/assets/images/species-reviews/feis-meer_nestcavity.jpeg)
+![A photo of a black and white woodpecker with a bright red head perched on the side of large branch. There is a freshly excavated cavity with a perfectly round entrance in the branch near the woodpecker](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-meer_nestcavity.jpeg?itok=Sl5SxWie)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ Basal area of cottonwoods (m²/ha)| 332.6| 766
 DBH of cottonwoods (cm)| 17| 67.3 
 Percent overstory canopy cover| 58.7| 48.5 
  
-![A photo of a flooded marsh area with many dead trees. The open water is covered in green algae.]({{ site.baseurl }}/assets/images/species-reviews/feis-meer_swamphabitat.jpg)
+![A photo of a flooded marsh area with many dead trees. The open water is covered in green algae.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-meer_swamphabitat.jpg?itok=ocfhakwC)
 
 Photo Credit
 

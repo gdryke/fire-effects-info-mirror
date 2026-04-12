@@ -36,7 +36,7 @@ Uchytil, Ronald J. 1988. _Andropogon hallii_ , sand bluestem. In: Fire Effects I
 
 ## Taxonomy
 
-![A photo of a blue-green grass growing in a plains community with a few low shrubs growing amongst the grasses, with a few large shrubs or small trees partially visible on a low rise.]({{ site.baseurl }}/assets/images/species-reviews/feis-andhal_plant.jpeg)
+![A photo of a blue-green grass growing in a plains community with a few low shrubs growing amongst the grasses, with a few large shrubs or small trees partially visible on a low rise.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-andhal_plant.jpeg?itok=p9--dgKl)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Sand bluestem is restricted to the drier, sandy soils of the Great Plains [6]. I
  * United States: AZ CO HI IL IA KS MN MT NE NM ND OK SD TX UT WY
  * Mexico
 
-![A photo of a somewhat spreading, tall grass growing on sand dunes with several scattered low, white-flowered forbs in the midground, and more grasses growing on dune tops in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-andhal_habitat.jpeg)
+![A photo of a somewhat spreading, tall grass growing on sand dunes with several scattered low, white-flowered forbs in the midground, and more grasses growing on dune tops in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-andhal_habitat.jpeg?itok=s09lfMGi)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Colorado| General plant associations| Baker 1980
 
 ## Botanical Description 
  
-![A photo of a dense, spreading grass, with tall golden stalks and lower, blue-green leaves growing in sandy soil. Bare ground is visible around plants, but in some areas covered with litter. Smaller bunchgrasses and lunch shrubs grow on a sandy hill behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-andhal_growthform.jpg)
+![A photo of a dense, spreading grass, with tall golden stalks and lower, blue-green leaves growing in sandy soil. Bare ground is visible around plants, but in some areas covered with litter. Smaller bunchgrasses and lunch shrubs grow on a sandy hill behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-andhal_growthform.jpg?itok=fzW7vHpf)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ Seed mature and starting to shatter| October 9| October 9
  
 ## Regeneration Processes
 
-![A photo of the tops of a grass stalks with several reproductive spikes comprised of fluffy-looking seeds stacked on top of one another. Dry grasses and scattered, bushy trees dominate the hills behind under a few puffy clouds in blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-andhal_repro.jpeg)
+![A photo of the tops of a grass stalks with several reproductive spikes comprised of fluffy-looking seeds stacked on top of one another. Dry grasses and scattered, bushy trees dominate the hills behind under a few puffy clouds in blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-andhal_repro.jpeg?itok=TW5_NuIj)
 
 Photo Credit
 

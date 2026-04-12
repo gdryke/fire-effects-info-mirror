@@ -63,7 +63,7 @@ Prostrate knotweed is one of the most widespread weeds in the world (review by [
 
 Prostrate knotweed is native to Europe [98,138] or Eurasia [81]. It was likely introduced to North America with the first colonists and was first collected in Canada in 1821 (review by [32]). One source suggests that it was introduced as a contaminant in agricultural seeds [96]. As of 2010, prostrate knotweed occurs in all 50 of the United States, though as of 2010, Plants Database does not report prostrate knotweed occurring in California. However, several other sources report it occurring there [14,25,59,64,100,129]. Plants Database provides a distribution map of prostrate knotweed in Canada and the United States.
 
-![A photo of a green, oval-leafed plant spreading over the edge of a light grey sidewalk, with grasses growing nearby.]({{ site.baseurl }}/assets/images/species-reviews/feis-polavi_sidewalk.jpg)
+![A photo of a green, oval-leafed plant spreading over the edge of a light grey sidewalk, with grasses growing nearby.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-polavi_sidewalk.jpg?itok=V0vvhV39)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ Much of the information presented in this section comes from a comprehensive rev
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [32,46,47,48,61,73,98,99,109,116,138,154,165,169]). For a key to the prostrate knotweed subspecies recognized in North America, see: [32].
 
-![A photo of a low-growing, dense, oval-leafed green plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-polavi_plant.jpg)
+![A photo of a low-growing, dense, oval-leafed green plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-polavi_plant.jpg?itok=grFBOXq3)
 
 Photo Credit
 
@@ -227,7 +227,7 @@ Prostrate knotweed plants are killed by frosts in the fall. A weed identificatio
 
 ## Regeneration Processes
 
-![A photo of a small plant with oval green leaves and tiny white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-polavi_flowers.jpg)
+![A photo of a small plant with oval green leaves and tiny white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-polavi_flowers.jpg?itok=Xpo3LRnt)
 
 Photo Credit
 

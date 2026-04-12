@@ -34,7 +34,7 @@ Tesky, Julie L. 1994. _Brachylagus idahoensis_ , pygmy rabbit. In: Fire Effects 
 
 ## Image Gallery
 
-![A photo of a small brown rabbit with short ears looking out of a den in the snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-brid_hero_1.jpg) Pygmy rabbit at the Sheldon National Wildlife Refuge. _USDI Fish and Wildlife Service photo, https://www.fws.gov/media/pygmy-rabbit._
+![A photo of a small brown rabbit with short ears looking out of a den in the snow.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-brid_hero_1.jpg) Pygmy rabbit at the Sheldon National Wildlife Refuge. _USDI Fish and Wildlife Service photo, https://www.fws.gov/media/pygmy-rabbit._
 
 Photo Credit: USDI Fish and Wildlife Service photo, https://www.fws.gov/media/pygmy-rabbit.
 
@@ -74,7 +74,7 @@ Pygmy rabbits are found primarily in big sagebrush (Artemisia tridentata) and ra
 
 ## Biological Characteristics
 
-![A photo of a small brown rabbit with short ears looking out of a den in the snow.]({{ site.baseurl }}/assets/images/species-reviews/feis-brid_hero_1.jpg)
+![A photo of a small brown rabbit with short ears looking out of a den in the snow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-brid_hero_1.jpg?itok=4WWpuCD4)
 
 Photo Credit
 

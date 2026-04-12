@@ -31,7 +31,7 @@ Munger, Gregory T. 2008. _Cladonia_ spp., reindeer lichens In: Fire Effects Info
 
 ## Introduction
 
-![Photo showing star-tipped reindeer lichen growing on forest floor.]({{ site.baseurl }}/assets/images/species-reviews/claspp_feis-claste_lichen.jpg)
+![Photo showing star-tipped reindeer lichen growing on forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-claste_lichen.jpg?itok=txkCJucE)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ for**** _**Cladonia stygia:**_
 
 ## Distribution
 
-![Photo of gray reindeer lichen growing on forest floor.]({{ site.baseurl }}/assets/images/species-reviews/claspp_feis-claran_lichen.jpg)
+![Photo of gray reindeer lichen growing on forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-claran_lichen.jpg?itok=p-oweA_F)
 
 Photo Credit
 
@@ -248,7 +248,7 @@ Newfoundland:
 
 ## Botanical and Ecological Characteristics
 
-![Photo of tree reindeer lichen growing in litter.]({{ site.baseurl }}/assets/images/species-reviews/claspp_feis-claarb_lichen.jpeg)
+![Photo of tree reindeer lichen growing in litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-claarb_lichen.jpeg?itok=UjqboBlU)
 
 Photo Credit
 
@@ -256,7 +256,7 @@ Photo © Igor Balashov, iNaturalist.org, some rights reserved
 
 Tree reindeer lichen.
 
-![Photo of black-footed reindeer lichen.]({{ site.baseurl }}/assets/images/species-reviews/claspp_feis-clasty_lichen.jpg)
+![Photo of black-footed reindeer lichen.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-clasty_lichen.jpg?itok=2uZ7kYpE)
 
 Photo Credit
 

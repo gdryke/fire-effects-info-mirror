@@ -34,7 +34,7 @@ Tirmenstein, D. A. 1990. _Taxus brevifolia_ , Pacific yew. In: Fire Effects Info
 
 ## Image Gallery
 
-![A close up image of a conifer branch with flat green needles. The background is shady forest with blurry bark, moss, lichen and needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxbre_plant.jpg) Pacific yew needles, Washington. _Creative Commons photo by Ryan Sorrels, iNaturalist.org._
+![A close up image of a conifer branch with flat green needles. The background is shady forest with blurry bark, moss, lichen and needles.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-taxbre_plant.jpg) Pacific yew needles, Washington. _Creative Commons photo by Ryan Sorrels, iNaturalist.org._
 
 Photo Credit: Creative Commons photo by Ryan Sorrels, iNaturalist.org.
 
@@ -110,7 +110,7 @@ northern Rocky Mountains.| Pacific yew cts| Crawford and Johnson 1985
 
 ## Botanical Description 
  
-![A close up image of a conifer branch with flat green needles. The background is shady forest with blurry bark, moss, lichen and needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxbre_plant.jpg)
+![A close up image of a conifer branch with flat green needles. The background is shady forest with blurry bark, moss, lichen and needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-taxbre_plant.jpg?itok=5XquMf1u)
 
 Photo Credit
 

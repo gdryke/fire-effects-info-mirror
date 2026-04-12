@@ -69,7 +69,7 @@ In Florida sand pine (_P. clausa_) scrub has been invaded by hispid cotton rats 
 
 ## Biological Characteristics
 
-![A photo of a brown rat sitting in grass, with its paws near its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-sihi_ingrass.jpg)
+![A photo of a brown rat sitting in grass, with its paws near its mouth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-11/feis-sihi_ingrass.jpg?itok=GQqhJY5O)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Also in Georgia, 1-acre field enclosures protected from avian predators (covered
 
 ### Predators
 
-![A photo of a snake wrapped tightly around a brown rat, in grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-sihi_snake.jpg)
+![A photo of a snake wrapped tightly around a brown rat, in grass.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-11/feis-sihi_snake.jpg?itok=__iqX6If)
 
 Photo Credit
 

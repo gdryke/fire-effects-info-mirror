@@ -34,7 +34,7 @@ Sullivan, Janet. 1992. _Aquilegia canadensis_ , red columbine. In: Fire Effects 
 
 ## Image Gallery
 
-![A close-up photo of a pink and yellow woodland flower with pointed petals facing toward the ground. The flower is in the shade and the background shows blurry ferns. ]({{ site.baseurl }}/assets/images/species-reviews/feis-aqucan_plant.jpg) Red columbine. _Photo by Jennifer Anderson @ USDA-NRCS PLANTS Database_
+![A close-up photo of a pink and yellow woodland flower with pointed petals facing toward the ground. The flower is in the shade and the background shows blurry ferns. ](https://research.fs.usda.gov/sites/default/files/2025-04/feis-aqucan_plant.jpg) Red columbine. _Photo by Jennifer Anderson @ USDA-NRCS PLANTS Database_
 
 Photo Credit: Photo by Jennifer Anderson @ USDA-NRCS PLANTS Database
 
@@ -81,7 +81,7 @@ Red columbine is found in rocky woods from Nova Scotia to the Northwest Territor
 
 ## Site Characteristics
 
-![A plant with three leaves, delicate stems, and drooping pink and yellow flowers grows in the shade against rock.]({{ site.baseurl }}/assets/images/species-reviews/aqucan_feis-AQUCAN%20habitat.jpg)
+![A plant with three leaves, delicate stems, and drooping pink and yellow flowers grows in the shade against rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-AQUCAN%20habitat.jpg?itok=2zxWgO1K)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ No entry.
 
 ## Botanical Description
 
-![A close-up photo of a pink and yellow woodland flower with pointed petals facing toward the ground. The flower is in the shade and the background shows blurry ferns. ]({{ site.baseurl }}/assets/images/species-reviews/feis-aqucan_plant.jpg)
+![A close-up photo of a pink and yellow woodland flower with pointed petals facing toward the ground. The flower is in the shade and the background shows blurry ferns. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-aqucan_plant.jpg?itok=REiNOYgV)
 
 Photo Credit
 

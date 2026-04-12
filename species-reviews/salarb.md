@@ -63,7 +63,7 @@ Littletree willow occurs in central Alaska, the Yukon Territory and adjacent Nor
 
 ## Site Characteristics
 
-![A photo of a thicket of many-stemmed shrubs with long, thin, pointed leaves along the edge of a riverbed. The river has logs and snags along the edges, and there are low mountains covered in conifer trees on the other side.]({{ site.baseurl }}/assets/images/species-reviews/feis-salarb_habitat.jpeg)
+![A photo of a thicket of many-stemmed shrubs with long, thin, pointed leaves along the edge of a riverbed. The river has logs and snags along the edges, and there are low mountains covered in conifer trees on the other side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salarb_habitat.jpeg?itok=_q5jQ3tt)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Littletree willow is one of the most common early seral willows that dominate or
 
 ## Botanical Description
 
-![A photo of a shrub's long, green, pointed leaves. Many branches and stems are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-salarb_foliage.jpeg)
+![A photo of a shrub's long, green, pointed leaves. Many branches and stems are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salarb_foliage.jpeg?itok=_7vtYrJh)
 
 Photo Credit
 

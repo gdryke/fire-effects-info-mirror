@@ -67,7 +67,7 @@ The status of Shumard oak in Maryland is uncertain. It has been reported in Mary
 
 ## Site Characteristics
 
-![A photo of a tree's long horizontal branch stretching across an open area, with smaller branches and leaves coming off the main branch. The background is open and grassy with other shrubs and smaller trees toward the back.]({{ site.baseurl }}/assets/images/species-reviews/feis-queshu_habitat.jpg)
+![A photo of a tree's long horizontal branch stretching across an open area, with smaller branches and leaves coming off the main branch. The background is open and grassy with other shrubs and smaller trees toward the back.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queshu_habitat.jpg?itok=KcKkO6ct)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Common tree associates not previously mentioned include white ash (_Fraxinus ame
 
 ## Botanical Description
 
-![A close up photo of an oak tree's large, divided leaves and clusters of smooth brown acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-queshu_acorns.jpg)
+![A close up photo of an oak tree's large, divided leaves and clusters of smooth brown acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queshu_acorns.jpg?itok=678ffRoV)
 
 Photo Credit
 

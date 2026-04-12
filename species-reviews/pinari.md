@@ -40,7 +40,7 @@ The scientific name of Rocky Mountain bristlecone pine is _Pinus aristata Engelm
 
 Rocky Mountain bristlecone pine, Great Basin bristlecone pine (_P. longaeva_), and foxtail pine (_P. balfouriana_) share a common ancestor [117,152]. Taxa within the bristlecone-foxtail pine complex (_Pinus_ , subgenus _Strobus_ , section _Parrya_ Mayr, subsection _Balfourianae_ Englm.) are distinguished by growth form, bark, and differences in chemical composition [8,32,93,100]. Bristlecone and foxtail pines readily produce fertile hybrids in the laboratory [131,152]. Disjunct distributions, and possibly other factors, prevent natural hybridization among the 3 species.
 
-![Gnarled tree growing on steep slope.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinari_fig1.jpg)
+![Gnarled tree growing on steep slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinari_fig1.jpg?itok=6IE5-rCJ)
 
 Photo Credit
 
@@ -166,7 +166,7 @@ The Balfourianae complex is unique among pines in that about half of their branc
 
 Root architecture of Rocky Mountain bristlecone pine is not described in the literature (as of 2004). Oswald and Ferchau [105] provide a list of some of Rocky Mountain bristlecone pine's associated mycorrhizae.
 
-![A photograph of a handful of cones growing on the end of branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinari_fig2.jpg)
+![A photograph of a handful of cones growing on the end of branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinari_fig2.jpg?itok=PpTnnOeD)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Rocky Mountain bristlecone pines in lower subalpine habitats are more susceptibl
 
 Stand structure of Rocky Mountain bristlecone pine communities is varied. Rocky Mountain bristlecone pine/alpine clover habitat types on the Arapaho National Forest of Colorado have a moderately closed canopy [59]. The Sawatch and Front ranges support moderate to dense, nearly pure Rocky Mountain bristlecone pine forests on lower subalpine, dry sites [22]. Engelmann spruce, subalpine fir, Rocky Mountain lodgepole pine, and/or limber pine are also present on mesic sites, and mixed stands are generally less dense than pure Rocky Mountain bristlecone pine stands. At other locations in the southern Rocky Mountains, Rocky Mountain bristlecone pine occurs in pure or mostly pure, open groves of varied extent. Some groves are large enough to cover entire upper subalpine watersheds; others are small and isolated. On some sites, tree-sized Rocky Mountain bristlecone pine may overtop krummholz Engelmann spruce and corkbark (or subalpine) fir, which are less tolerant of desiccation [61].
 
-![Mountain slope filled with green trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinari_fig3.jpg)
+![Mountain slope filled with green trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinari_fig3.jpg?itok=vliLqD8q)
 
 Photo Credit
 

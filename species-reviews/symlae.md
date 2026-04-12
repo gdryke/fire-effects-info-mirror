@@ -34,7 +34,7 @@ Sullivan, Janet. 1992. _Symphyotrichum laeve_ , smooth blue aster. In: Fire Effe
 
 ## Image Gallery
 
-![A group of purple flowers with yellow centers.]({{ site.baseurl }}/assets/images/species-reviews/symlae_symlae_plant.jpg) Smooth blue aster flowers. _Photo by Katy Chayka, www.minnesotawildflowers.info, Bugwood.org._
+![A group of purple flowers with yellow centers.](https://research.fs.usda.gov/sites/default/files/2025-05/symlae_plant.jpg) Smooth blue aster flowers. _Photo by Katy Chayka, www.minnesotawildflowers.info, Bugwood.org._
 
 Photo Credit: Photo by Katy Chayka, www.minnesotawildflowers.info, Bugwood.org.
 

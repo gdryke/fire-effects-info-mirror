@@ -72,7 +72,7 @@ The great horned owl breeds from western and central Alaska and central Yukon ea
 
 ## Plant Communities
 
-![A photo of a large owl with ear tufts sitting on a dead branch among tall grasses.]({{ site.baseurl }}/assets/images/species-reviews/buvi_feis-BUVI_portrait.jpeg)
+![A photo of a large owl with ear tufts sitting on a dead branch among tall grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-BUVI_portrait.jpeg?itok=hBtqXFyJ)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Andersen [4] listed the great horned owl as a secondary grassland raptor; it som
 
 ### Development and Reproduction
 
-![A photo of a large, brown and white owl sitting at the edge of a hole in a tree. The downy white heads of two nestling owls are poking out of the hole.]({{ site.baseurl }}/assets/images/species-reviews/feis-buvi_nest.jpeg)
+![A photo of a large, brown and white owl sitting at the edge of a hole in a tree. The downy white heads of two nestling owls are poking out of the hole.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-buvi_nest.jpeg?itok=ADG6L_YG)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Adult great horned owls have no natural routine predators. Antagonistic interact
 
 ### Diet
 
-![A photo of a large, brown and white owl sitting in a leafy tree, with part of a smaller, orange and white owl visible near the larger owl's feet.]({{ site.baseurl }}/assets/images/species-reviews/feis-buvi_barnowlprey.jpeg)
+![A photo of a large, brown and white owl sitting in a leafy tree, with part of a smaller, orange and white owl visible near the larger owl's feet.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-buvi_barnowlprey.jpeg?itok=OBxIJuWa)
 
 Photo Credit
 

@@ -88,7 +88,7 @@ The eastern screech-owl occupies a wide variety of habitat types [29]. It is com
 
 **Breeding Age and Longevity:** One banding study indicated that at least 25 percent of eastern screech-owls bred as yearlings [37]. In the wild, the average lifespan for eastern screech-owl in central Texas was estimated as 3.6 years, although some individuals survived to at least 8 years of age [14]. Captive birds have lived more than 20 years [19].
 
-![A photo of a small orange and white owl with puffy ear tufts looking out of a hole in a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-meas_redmorph.jpg)
+![A photo of a small orange and white owl with puffy ear tufts looking out of a hole in a tree.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-09/feis-meas_redmorph.jpg?itok=POv1Vl-z)
 
 Photo Credit
 
@@ -178,7 +178,7 @@ The eastern screech-owl is listed as a species of special concern on the America
 
 **Pesticide Accumulation:** In the early 1970's eggshell thinning and DDE and PCB levels in eggs were found to be relatively low for eastern screech-owls. It was suggested that the consumption of rodents (lower trophic levels) prior to egg-laying contributed to the relatively low pesticide loads in eggs. Consumption of birds (higher trophic levels) increased after eggs were incubated, and thus did not contribute to egg pesticide loads [37]. Other pesticides have not been investigated in relationship to eastern screech-owl.
 
-![A photo of three gray baby owls with yellow eyes looking out of the hole in a wooden nest box.]({{ site.baseurl }}/assets/images/species-reviews/feis-meas_nestlings.jpg)
+![A photo of three gray baby owls with yellow eyes looking out of the hole in a wooden nest box.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-meas_nestlings.jpg?itok=L1Gfkgz9)
 
 Photo Credit
 

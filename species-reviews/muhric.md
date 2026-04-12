@@ -38,7 +38,7 @@ Aleksoff, Keith C. 1999. _Muhlenbergia richardsonis_ , mat muhly. In: Fire Effec
 
 The scientific name of mat muhly is _Muhlenbergia richardsonis_ (Trin.) Rydb. (Poaceae) [21,24,25,26,44].
 
-[![A photo of a grass growing in a nearly circular mat on gravelly soil, with several similar mats growing behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhric_growthform.jpg)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Mat muhly growing in Placer County, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass growing in a nearly circular mat on gravelly soil, with several similar mats growing behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhric_growthform.jpg?itok=hHtwt3Jw)Photo Credit Photo by Steve Matson, iNaturalist (CC BY 4.0). Mat muhly growing in Placer County, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Synonyms
 
@@ -64,7 +64,7 @@ Mat muhly occurs from southern Yukon east to New Brunswick and Maine and south t
 
 Mat muhly grows from moist lowlands to montane prairies, highland meadows, and rocky slopes [5,12,20,25,27]. In the eastern parts of its range mat muhly is found on wet, gravelly soil. In the Intermountain region mat muhly occurs on dry to moist sites. Plants are occasional on open slopes from 5,700 to 11,000 feet (1,700-3,200 m) [44]. Mat muhly often grows on alkaline soil with textures ranging from sand or gravel to clayey loam. It is one of the more salt-tolerant upland grasses, sometimes forming mixed stands with halophytic species [8]. Mat muhly is found north of 60° latitude only on open, warm microsites that receive high insolation and have dry soil that heats up rapidly [38]. In the Sierra Nevada, mat muhly dominates on high-elevation sites (10,200 to 11,700 feet (3,200-3,658 m)) with very thin soils [31]. This species does well on disturbed sites [2,12,24,40].
 
-[![A photo of grasses covering a flat, low are with some visible bare ground and whiteish rocks sloping upwards in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhric_plants.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Mat muhly growing in Inyo County, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grasses covering a flat, low are with some visible bare ground and whiteish rocks sloping upwards in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhric_plants.jpg?itok=MSOD-szF)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Mat muhly growing in Inyo County, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Elevational ranges vary as follows [12]:
 
@@ -77,7 +77,7 @@ Elevational ranges vary as follows [12]:
 
 Mat muhly typically grows in dry meadows and open flatlands associated with ponderosa pine (_Pinus ponderosa_), lodgepole pine (_P. contorta_), and fir (_Abies_ spp.)-spruce (_Picea_ spp.) zones. It occasionally spreads down into sagebrush (_Artemisia_ spp.) flatlands [37,40]. In upland meadows mat muhly is commonly associated with needlegrass (_Stipa_ spp.), bluegrass (_Poa_ spp.), and mountain muhly (_Muhlenbergia montana_) [40]. In the Midwest mat muhly's associates include shrubby cinquefoil (_Potentilla fruticosa_), purple pitcherplant (_Sarracenia purpurea_), low nutrush (_Scleria verticillata_), and marsh arrowgrass (_Triglochin palustris_) [17]. Mat muhly's associates in pinyon-juniper woodlands include predominantly singleleaf pinyon (_Pinus monophylla_) and Utah juniper (_Juniperus osteosperma_) with an understory of big sagebrush (_Artemisia tridentata_) and desert bitterbrush (_Purshia glandulosa_)[6]. In the Sierra Nevada common associates include western yarrow (_Achillea lanulosa_), northwest cinquefoil (_Potentilla gracilis_), sedge (_Carex_ spp.), rush (_Juncus_ spp.), and bluegrass (_Poa_ spp.) [7]. In alpine areas of the Sierra Nevada, mat muhly is associated with needlegrass (_Stipa_ spp.) and wax currant (_Ribes cereum_), where it is found with the krummholz form of whitebark pine (_Pinus albicaulis_) [31]. In plains grassland communities mat muhly commonly occurs with manyflowered aster (_Aster pansus_), purple milkvetch (_Astragalus goniatus_), Kentucky bluegrass (_Poa pratensis_), and slenderstem peavine (_Lathyrus palustris_) [13].
 
-[![A photo of low grasses growing in a rocky, open meadow with conifers in the background as the ground slopes into a dry, rocky mountainside.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhric_meadow.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Mat muhly growing in a meadow in Kings Canyon National Park, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of low grasses growing in a rocky, open meadow with conifers in the background as the ground slopes into a dry, rocky mountainside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhric_meadow.jpg?itok=DOj3pkss)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Mat muhly growing in a meadow in Kings Canyon National Park, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Mat muhly is described as a dominant or an indicator species in the following community type classifications:
 
@@ -93,7 +93,7 @@ Mat muhly is described as a dominant or an indicator species in the following co
 
 Mat muhly is a mat-forming, strongly rhizomatous, warm-season, native, perennial grass. It forms clumps as large as 48 inches (122 cm) in diameter and grows as large as 12 inches (30.5 cm) in height by the time of maturity in August [14,21,24,25].
 
-[![A close-up of a short grass with rocks behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhric_plant.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Mat muhly.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up of a short grass with rocks behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhric_plant.jpg?itok=J24oN5WJ)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Mat muhly.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

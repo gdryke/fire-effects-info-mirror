@@ -50,7 +50,7 @@ devil's-club
 
 ## General Distribution
 
-![Map showing the distribution of devilsclub in North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-oplhor_distribution.png)
+![Map showing the distribution of devilsclub in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-oplhor_distribution.png?itok=FhqzGVxy)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Herbaceous associates of devilsclub include queencup beadlily (Clintonia uniflor
 
 ## Botanical Description
 
-![Photo of devilsclub.]({{ site.baseurl }}/assets/images/species-reviews/feis-oplhor_plant.jpeg)
+![Photo of devilsclub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-oplhor_plant.jpeg?itok=4jC2-N0E)
 
 Photo Credit
 

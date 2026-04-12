@@ -34,7 +34,7 @@ Habeck, R. J. 1991. _Spiraea betulifolia_ , white spirea. In: Fire Effects Infor
 
 ## Image Gallery
 
-![Photo of white spirea in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-spibet_plant.jpg) White spirea. _Photo by Paul, iNaturalist.org, no rights reserved._
+![Photo of white spirea in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-spibet_plant.jpg) White spirea. _Photo by Paul, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Paul, iNaturalist.org, no rights reserved.
 
@@ -90,7 +90,7 @@ E. Idaho, W. Wyoming| Forest community types| Steele & others 1983
 
 ## Botanical and Ecological Characteristics
 
-![Photo of white spirea in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-spibet_plant.jpg) 
+![Photo of white spirea in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-spibet_plant.jpg?itok=vJIeWU6b) 
  
 Photo Credit
 

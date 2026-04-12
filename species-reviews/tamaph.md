@@ -60,7 +60,7 @@ Athel tamarisk is an introduced species native to Africa and the Middle East [1,
 
 Where established outside of cultivation, Athel tamarisk commonly occurs on salt flats, springs, and other saline habitats especially along streams and rivers [22]. Athel tamarisk has been found along the saline portions of the lower Colorado and Gila rivers and in the Salton Sea Basin [27]. It also grows along irrigation ditches in bottomlands [2].
 
-![A photo of a wide, irregular-crowned tree with pale green needle-like leaves. It is growing in a sandy, rocky desert environment with no other plants visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-tamaph_habitat.jpg)
+![A photo of a wide, irregular-crowned tree with pale green needle-like leaves. It is growing in a sandy, rocky desert environment with no other plants visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tamaph_habitat.jpg?itok=8eIrG8Zw)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Athel tamarisk is sometimes found associated with the following species: screwbe
 
 ## Botanical Description
 
-![A photo of an evergreen tree's small, scaled leaves and puffy stalks of small white flowers. Other green vegetation is visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-tamaph_flowers.jpg)
+![A photo of an evergreen tree's small, scaled leaves and puffy stalks of small white flowers. Other green vegetation is visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-tamaph_flowers.jpg?itok=VH-uzbXt)
 
 Photo Credit
 

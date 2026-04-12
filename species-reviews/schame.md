@@ -59,7 +59,7 @@ bayonet rush, Olney's threesquare bulrush, Olney's three-square, Olney bulrush, 
 
 Chairmaker's bulrush is sporadically distributed from Nova Scotia to Washington state and south to South America. It grows primarily along the Atlantic and Gulf coasts and in arid western states [28].
 
-![A map of U.S. states and Canadian provinces, with many states and one province highlighted green, especially in the south and west U.S.]({{ site.baseurl }}/assets/images/species-reviews/feis-schame_distribution.jpg)
+![A map of U.S. states and Canadian provinces, with many states and one province highlighted green, especially in the south and west U.S.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schame_distribution.jpg?itok=rgC7Ne-Z)
 
 Photo Credit
 
@@ -77,13 +77,13 @@ Distribution of chairmaker's bulrush in Canada and the United States.
 
 In coastal regions, chairmaker's bulrush grows primarily on peat in brackish tidal marshes, where soil salinities range from 2 to 17 ppt, and water levels range from -2 to +4 inches (-5 to +10 cm) [11,18]. Inland, it primarily grows in marshes, wet meadows, and playas that are somewhat alkaline, but also grows in fresh water [6]. In an alkali meadow in Utah, chairmaker's bulrush dominated the area surrounding the water source (a spring), but became rarer farther away from the spring, and was replaced by inland saltgrass and creeping spikerush as water depth decreased and salinity increased [26]. At this Utah meadow, soils under chairmaker's bulrush stands had higher levels of organic matter and phosphorus than other marsh plant communities.
 
-[![Bulrushes growing adjacent to a still body of water.]({{ site.baseurl }}/assets/images/species-reviews/schame_schame_plant.jpeg)Photo Credit Photo by Sebastián de Jesús Herrera Buenfil, iNaturalist (CC BY 4.0). Chairmaker's bulrush growing ajacent to a still body of water.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![Bulrushes growing adjacent to a still body of water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/schame_plant.jpeg?itok=yq6nVDIQ)Photo Credit Photo by Sebastián de Jesús Herrera Buenfil, iNaturalist (CC BY 4.0). Chairmaker's bulrush growing ajacent to a still body of water.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 ## Plant Communities
 
 Chairmaker's bulrush grows in marshes, wet meadows, and playas. It forms nearly monodominant stands in some marshes. In coastal areas it is most abundant in brackish marshes and is commonly associated with seashore saltgrass (_Distichlis spicata_ var. _spicata_), marshhay cordgrass (_Spartina patens_), big cordgrass (_S. cynosuroides_), smooth cordgrass (_S. alterniflora_), and saltmarsh bulrush (_Scirpus robustus_) [20,28]. In desert regions of the West, chairmaker's bulrush bulrush often dominates or codominates slightly to moderately saline marshes bordering lakes or springs. Codominants of western marshes include creeping spikerush (_Eleocharis palustris_), Nebraska sedge (_Carex nebraskensis_), inland saltgrass (_Distichlis spicata_ var. _stricta_), berula (_Berula erecta_), and marsh yellowcress (_Rorippa islandica_) [3,26,32].
 
-![A stand of rushes.]({{ site.baseurl }}/assets/images/species-reviews/feis-schame_stand.jpg)
+![A stand of rushes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schame_stand.jpg?itok=_N8YoOUE)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ Utah| Flowers| Early May [2]
 
 **Sexual Reproduction:** Chairmaker's bulrush seed production has been variously reported as very poor to heavy, with seed yields ranging from 0 to 24 pounds per acre (0-27 kg/ha) [28]. The seeds undergo a long period of afterripening, often requiring 18 months or more before germination can occur. The seeds remain dormant as long as they are submerged in water and thus become a component of the marsh seed bank. Germination and seedling establishment potentially occur on exposed mudflats following marsh drawdown, yet seedling establishment under these natural conditions appears to be rare [19]. Under laboratory conditions, maximum germination of only 25 percent was achieved in distilled water under fluctuating temperatures between 68 and 95 degrees Fahrenheit (20-35 deg C) [20]. Germination decreased with increasing salinity with a 50 percent reduction at 4 parts per thousand (ppt) and no germination at above 13 ppt [20].
 
-![The reproductive end of a bulrush stem, appearing similar to a cluster of 6 small cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-schame_repro.jpeg)
+![The reproductive end of a bulrush stem, appearing similar to a cluster of 6 small cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-schame_repro.jpeg?itok=4-Vvj4KF)
 
 Photo Credit
 

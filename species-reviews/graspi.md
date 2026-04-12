@@ -86,7 +86,7 @@ Spiny hopsage is dominant in a number of desert shrub communities. It is often c
 
 ## Botanical and Ecological Characteristics
 
-![Close-up view of flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-graspi_flowers.jpg)
+![Close-up view of flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-graspi_flowers.jpg?itok=Eh1rp6xt)
 
 Photo Credit
 

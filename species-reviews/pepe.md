@@ -70,7 +70,7 @@ See Habitat.
 
 ## Biological Characteristics
 
-![A photo of a dark brown weasel in a forest with its front paws up on mossy downed logs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pepe_forest2.jpg)
+![A photo of a dark brown weasel in a forest with its front paws up on mossy downed logs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pepe_forest2.jpg?itok=8hTBvpOo)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ Fishers are generalist predators. Their diets are comprised predominantly of sno
 
 In some areas there are differences in diet between age classes and gender. For instance, in Massachusetts and New Hampshire juvenile fishers ate significantly more northern raccoons (_P_ =0.002) than adult fishers, and females ate significantly (_P_ =0.006) more eastern gray squirrels (_Sciurus carolinensis_) than males [100]. The stomachs of female fishers collected in British Columbia had significantly (_P_ ≤0.04) higher occurrence of small mammal remains than males [133], and in New Hampshire significantly (_P_ <0.01) more males contained North American porcupine quills [67]. However, no significant differences in diet were observed between the sexes in Maine (_P_ >0.1) [40] or Vermont (_P_ =0.883). Adults and juveniles also had similar diets in Vermont (_P_ =0.836) [127].
 
-![A photo of a large, dark brown weasel with a yellow chick in its mouth, walking through a snowy forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-pepe_withchick.jpg)
+![A photo of a large, dark brown weasel with a yellow chick in its mouth, walking through a snowy forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-pepe_withchick.jpg?itok=FqGvDwea)
 
 Photo Credit
 

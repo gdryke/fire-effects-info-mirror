@@ -113,7 +113,7 @@ Northern Wisconsin| general veg. hts| Kotar and others 1988
 
 ## Botanical Description 
  
-![A close up photo of a tree's bright red, lobed leaves in the sunshine.]({{ site.baseurl }}/assets/images/species-reviews/feis-querub_foliage.jpeg)
+![A close up photo of a tree's bright red, lobed leaves in the sunshine.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-querub_foliage.jpeg?itok=woENSrd6)
 
 Photo Credit
 
@@ -261,7 +261,7 @@ No entry.
 
 **Browse:** White-tailed deer commonly browse leaves and young seedlings [81,119]. Telfer [116] reported that deer browsed only 2.8 percent of northern red oak in Nova Scotia and New Brunswick. However, in feeding trials in New Hampshire, northern red oak leaves comprised 15 to 30 percent dry matter of deer diets [90]. Elk, hares, cottontail rabbits, and moose also feed on northern red oak browse [116,119]. Pocket gophers occasionally feed on the roots of seedlings [49].
 
-![A photo of a brown, lobed leaf and 8 brown acorns laying on mossy ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-querub_acorns.jpg)
+![A photo of a brown, lobed leaf and 8 brown acorns laying on mossy ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-querub_acorns.jpg?itok=WeJiMJxe)
 
 Photo Credit
 

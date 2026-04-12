@@ -74,7 +74,7 @@ In addition to the community types listed in Table A1, Bachman's sparrows common
 
 ## Biological Characteristics
 
-![A photo of a small, brown sparrow perched on a small snag, with dry grass in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-peae_portrait.jpg)
+![A photo of a small, brown sparrow perched on a small snag, with dry grass in the background.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-peae_portrait.jpg?itok=8P74An6o)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Bachman's sparrows' breeding season typically begins in April and continues thro
 
 Bachman's sparrows typically raise 2 broods per breeding season and will renest after failed attempts [30]. In shortleaf and loblolly pine plantations of Arkansas, the average time between fledging of the 1st brood and starting the 2nd brood was 12.3 days. This was not significantly (p=0.39) different than the 9.7-day average period between a failed nest and a subsequent nest attempt. On average, females attempted 3.1 nests per season. The maximum number of attempts per season was 5 [30]. The maximum number of nests attempted in longleaf pine habitat of South Carolina was also 5. After 2 successful nests, a female attempted 3 times to raise a 3rd brood [63]. Limited evidence, summarized in reviews, suggests that 3 broods per season may occur occasionally [19,62]. Dates of possible 2nd broods are included in one of these reviews [19].
 
-![A photo of a pine savanna with green grass understory and evidence of burning on the trees' trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-peae_nesthabitat.jpg)
+![A photo of a pine savanna with green grass understory and evidence of burning on the trees' trunks.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-peae_nesthabitat.jpg?itok=7LUtp75n)
 
 Photo Credit
 
@@ -170,7 +170,7 @@ It is likely that eggs and young birds are much more vulnerable to fire. Althoug
 
 ## Indirect Fire Effects
 
-![A photo of a small brown sparrow standing on the branch of a narrow, burned pine tree. The bird is perched just above the understory, which is mostly palm-like palmetto plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-peae_burnedpine.jpeg)
+![A photo of a small brown sparrow standing on the branch of a narrow, burned pine tree. The bird is perched just above the understory, which is mostly palm-like palmetto plants.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-peae_burnedpine.jpeg?itok=Wms4r2ux)
 
 Photo Credit
 
@@ -232,7 +232,7 @@ Cabbage palmetto-slash pine| _Sabal palmetto-Pinus elliottii_| <10 [46,69]
  
 ## Fire Management Considerations
 
-![A photo of a pine savanna with grasses burning and producing a large cloud of smoke below the stand of tall pine trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-peae_prescribedfire.jpg)
+![A photo of a pine savanna with grasses burning and producing a large cloud of smoke below the stand of tall pine trees.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-peae_prescribedfire.jpg?itok=IBdHiSBx)
 
 Photo Credit
 

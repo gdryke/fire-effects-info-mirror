@@ -34,7 +34,7 @@ McWilliams, Jack 2003. _Artemisia frigida_ , fringed sagebrush. In: Fire Effects
 
 ## Introduction
 
-![A photo of a silvery, blue-green plant with pinnately divided leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-artfri_plant.jpg)
+![A photo of a silvery, blue-green plant with pinnately divided leaves.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-artfri_plant.jpg)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Fringed sagebrush occurs on rocky ridges and foothills [68].
 
 ## Plant Communities
 
-![A photo of a low, silvery, blue-green shrub growing amongst grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-artfri_community.jpg)
+![A photo of a low, silvery, blue-green shrub growing amongst grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artfri_community.jpg?itok=uN5aqLLP)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ Fringed sagebrush occurs in a wide variety of habitat types encompassing grassla
 
 ## Botanical Description
 
-![A photo of low shrub with pinnately divided leaves. Short stalks have dense yellow flowers at their top.]({{ site.baseurl }}/assets/images/species-reviews/feis-artfri_compact.jpg)
+![A photo of low shrub with pinnately divided leaves. Short stalks have dense yellow flowers at their top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-artfri_compact.jpg?itok=qjrsq4o9)
 
 Photo Credit
 

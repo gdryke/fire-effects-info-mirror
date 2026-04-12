@@ -75,7 +75,7 @@ Common shrub associates not listed as cover types include: creosotebush (_Larrea
 
 Other common associates (forbs and grasses) include skeleton goldeneye (_Viguiera stenoloba_), hairy grama (_Bouteloua hirsuta_), sideoats grama (_B. curtipendula_), threeawn (_Aristida_ spp.), hairy tridens (_Tridens pilosum_), and curly leaf muhly (_Muhlenbergia setifolia_) [3,17,25,28,32].
 
-[![A desert shrubland, with several bunchgrasses in the foreground to the right and a shrub and small tree to the left. Bare space is visible between the foreground plants and shrubs extend into the background.]({{ site.baseurl }}/assets/images/species-reviews/trimut_trimut_community.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Slim tridens plants with brushpea (_Genistidium dumosum_) in Texas.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A desert shrubland, with several bunchgrasses in the foreground to the right and a shrub and small tree to the left. Bare space is visible between the foreground plants and shrubs extend into the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/trimut_community.jpg?itok=s7puJ6bk)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Slim tridens plants with brushpea (_Genistidium dumosum_) in Texas.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
@@ -83,7 +83,7 @@ Other common associates (forbs and grasses) include skeleton goldeneye (_Viguier
 
 Slim tridens is a caespitose, stoloniferous, perennial grass, 8 to 30 inches (20-80 cm) tall. The bunches are usually narrow, not more than 3 or 4 inches (7 or 10 cm) in diameter [12,15,20]. It is considered a warm-season grass and exhibits C4 photosynthesis, which is adaptive for high temperatures and drought conditions [16,22].
 
-[![A small bunchgrass growing out of a cluster of rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-trimut_habit.jpg)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Slim tridens plant.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A small bunchgrass growing out of a cluster of rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-trimut_habit.jpg?itok=dEd3Bo7k)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Slim tridens plant.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -97,7 +97,7 @@ Slim tridens is a warm-season grass, beginning growth early in spring (late Marc
 
 Slim tridens perennates from a shallow rhizome. Vegetative reproduction occurs through production of stolons [15]. Slim tridens also reproduces by seed. Seed collected for restoration project seed mixes resulted in a germination rate (without any attempt at stratification, etc.) of 19.8 percent after 14 days [30].
 
-[![A seed head of a grass with rocks and dirt in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-trimut_repro.jpg)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Slim tridens in fruit.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A seed head of a grass with rocks and dirt in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-trimut_repro.jpg?itok=Zj-rMOL9)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Slim tridens in fruit.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Successional Status
 

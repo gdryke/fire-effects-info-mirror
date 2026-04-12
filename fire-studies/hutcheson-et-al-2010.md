@@ -195,7 +195,7 @@ TRANEP| noseburn| _Tragia nepetaefolia_| **Life Form:** Plants/Forb
 
 ## Image Gallery
 
-![A photo of a stand of small, somewhat crooked oak trees with a few small shrubs and prickly pear cacti growing below the canopy. The ground is covered in dry brown leaves and a few large boulders are scattered around.]({{ site.baseurl }}/assets/images/fire-studies/hutcheson-et-al-2010_feis-queste_habitat.jpg) A stand of post oak in Parker County, Texas, with prickly pear (Opuntia spp.) present in the understory.(CC BY-NC 4.0) _Photo by Aidan Campos, iNaturalist.org, some rights reserved._ 
+![A photo of a stand of small, somewhat crooked oak trees with a few small shrubs and prickly pear cacti growing below the canopy. The ground is covered in dry brown leaves and a few large boulders are scattered around.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-queste_habitat.jpg) A stand of post oak in Parker County, Texas, with prickly pear (Opuntia spp.) present in the understory.(CC BY-NC 4.0) _Photo by Aidan Campos, iNaturalist.org, some rights reserved._ 
  
 Photo Credit: Photo by Aidan Campos, iNaturalist.org, some rights reserved.
 

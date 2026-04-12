@@ -156,7 +156,7 @@ Orange hawkweed is described as a dominant groundlayer species in the following 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [26,51,60,66,72,102,110,111]).
 
-![A close-up photo of a plant's bright orange, dandelion-like flowers on a green, grassy background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hieaur_flower.jpg)
+![A close-up photo of a plant's bright orange, dandelion-like flowers on a green, grassy background.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-hieaur_flower.jpg?itok=3vR0tZyF)
 
 Photo Credit
 
@@ -166,7 +166,7 @@ Orange hawkweed flowers, Alaska. [(CC BY-NC 3.0 US)](<https://creativecommons.or
 
 Orange hawkweed is a rhizomatous [12,16,26,51,107,108], and/or stoloniferous perennial herb [107] that exudes a milky sap [108]. Plants have a basal rosette of leaves covered in trichomes. Each rosette produces 10 to 30 flowering stems that are 10 to 36 inches (25-91 cm) tall. Each inflorescence consists of 5 to 39 orange flower heads. The seeds are tiny, with a tawny tuft of barbs at one end [108].
 
-![A photo of a single-stemmed herbaceous plant with an orange flower on top, that has been dug up and held in front of a blue background. The plant's roots are a shallow and fibrous.]({{ site.baseurl }}/assets/images/species-reviews/feis-hieaur_roots.jpg)
+![A photo of a single-stemmed herbaceous plant with an orange flower on top, that has been dug up and held in front of a blue background. The plant's roots are a shallow and fibrous.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-hieaur_roots.jpg?itok=aOtxikyR)
 
 Photo Credit
 
@@ -359,7 +359,7 @@ No information is available on this topic.
 
 A variety of fact sheets, government publications, and weed management guides suggest that orange hawkweed populations form dense mats that exclude other plants [35,75], including native plants [3,12,75,105] and economically valuable forage species [12,40,75,108]. A 2007 Australian government publication reported that orange hawkweed could cause an estimated $48 million in agricultural production losses [105]. Orange hawkweed may also be a problem in lawns and gardens [75].
 
-![A photo of a wide field covered in orange flowers, with a conifer forest in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hieaur_field.jpeg)
+![A photo of a wide field covered in orange flowers, with a conifer forest in the background.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-hieaur_field.jpeg?itok=n5MQWNUw)
 
 Photo Credit
 

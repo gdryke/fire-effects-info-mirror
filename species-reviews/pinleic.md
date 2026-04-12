@@ -52,7 +52,7 @@ yellow pine, pino real
 
 ## General Distribution
 
-![A map of Arizona and New Mexico with counties in both states highlighted in green where Chihuahuan pine occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinleic_map.jpg)
+![A map of Arizona and New Mexico with counties in both states highlighted in green where Chihuahuan pine occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pinleic_map.jpg?itok=3dV--tPJ)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Chihuahuan pine grows in climates that range from semiarid with bimodal precipit
 
 Chihuahuan pine is common on upland slopes, mesas, canyon bottoms, alluvial terraces, and intermittent washes [9,10,62]. Chihuahuan pine occurs at elevations from 4,920 to 7,800 feet (1,500-2,377 m) throughout its range [9,39,69].
 
-![A tall, narrow pine tree rises out of a rock canyon wall. Other small shrubs and plants grow around but no other large trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinleic_habitat.jpeg)
+![A tall, narrow pine tree rises out of a rock canyon wall. Other small shrubs and plants grow around but no other large trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pinleic_habitat.jpeg?itok=ECtUM6hG)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Species associated with Chihuahuan pine but not mentioned in table A1 include Ar
 
 ## Botanical Description
 
-![A close up photo of a pine's bundled, green needles and open, black and gray cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinleic_cones.jpeg)
+![A close up photo of a pine's bundled, green needles and open, black and gray cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pinleic_cones.jpeg?itok=Poic_kp_)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ The immediate effects of fire on Chihuahuan pine were not described in the liter
 
 ## Postfire Regeneration Strategy (Stickney 1989)
 
-![A photo of a burned pine tree trunk with two small live branches growing from the base.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinleic_sprouting.jpg)
+![A photo of a burned pine tree trunk with two small live branches growing from the base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pinleic_sprouting.jpg?itok=xA5Dz87e)
 
 Photo Credit
 

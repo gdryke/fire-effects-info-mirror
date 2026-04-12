@@ -36,7 +36,7 @@ Simonin, Kevin A. 2001. _Elymus elymoides_ , squirreltail. In: Fire Effects Info
 
 ## Taxonomy
 
-![A photo of several reproductive stems of a grass, with awned seeds stacked tightly together to form the so-called "squirrel tail" that gives this grass its common name.]({{ site.baseurl }}/assets/images/species-reviews/feis-elyely_fruits.jpg)
+![A photo of several reproductive stems of a grass, with awned seeds stacked tightly together to form the so-called "squirrel tail" that gives this grass its common name.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elyely_fruits.jpg?itok=Khpkc82G)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ bottlebrush squirreltail
 
 Squirreltail is found from British Columbia to Saskatchewan, south throughout the western and central United States and into Mexico [200]. The PLANTS database provides a distributional map for squirreltail. _Elymus elymoides_ subsp. _brevifolius_ occurs in the San Bernardino Mountains, Peninsular Ranges, Modoc Plateau, and Mojave Desert of California to Oregon, the Great Plains and south to northern Mexico. _Elymus elymoides_ subsp. _californicus_ is found in the Klamath Range, Cascade Range, Sierra Nevada, San Gabriel Mountains, San Bernardino Mountains, east Sierra Nevada of California to Washington, Montana and Utah. _Elymus elymoides_ subsp. _elymoides_ is found in the Transverse Ranges, San Jacinto Mountains, and Great Basin floristic Province from California to Washington, Wyoming and Colorado. _Elymus elymoides_ subsp. _hordeoides_ occurs in Klamath Range from California to Washington and Nevada.
 
-![A photo of a low bunchgrass with reproductive stems barely exceeding the low leaves growing among dark gray stones with other low, alpine species. Numerous butterflies flutter behind the grasses, and mountains can be seen in the distance beyond a wide valley.]({{ site.baseurl }}/assets/images/species-reviews/feis-elyely_butterflies.jpg)
+![A photo of a low bunchgrass with reproductive stems barely exceeding the low leaves growing among dark gray stones with other low, alpine species. Numerous butterflies flutter behind the grasses, and mountains can be seen in the distance beyond a wide valley.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elyely_butterflies.jpg?itok=DfdFysBR)
 
 Photo Credit
 
@@ -173,7 +173,7 @@ Classifications describing plant communities in which squirreltail is a dominant
 
 ## Botanical Description
 
-![A photo of a bunchgrass with reproductive stems mostly exceeding its short, flat leaves. Reproductive stems have tufts of awned seeds at their ends.]({{ site.baseurl }}/assets/images/species-reviews/feis-elyely_plant.jpg)
+![A photo of a bunchgrass with reproductive stems mostly exceeding its short, flat leaves. Reproductive stems have tufts of awned seeds at their ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elyely_plant.jpg?itok=Rxu3_Js2)
 
 Photo Credit
 
@@ -255,7 +255,7 @@ Prior to invasion of nonnative annuals in the Snake River Plain, Idaho, squirrel
 
 Although squirreltail is generally top-killed by fire, its small size and low density of coarse fuel per unit basal area make it relatively fire tolerant [31,198,208]. Low density of above ground plant tissue produces a quick, "hot" flame, transferring little heat to growing points below the soil surface [208,210]. The solid culms of squirreltail do not readily burn, compared to those of perennial grass associates [210].
 
-![A photo of low grasses growing with scattered shrubs in a somewhat dry, steppe-like area that appears to be transitioning to a weedy grassland after a fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-elyely_postfire.jpg)
+![A photo of low grasses growing with scattered shrubs in a somewhat dry, steppe-like area that appears to be transitioning to a weedy grassland after a fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elyely_postfire.jpg?itok=jEZlXX6p)
 
 Photo Credit
 
@@ -288,7 +288,7 @@ Squirreltail sprouts from surviving root crown [29,201] and colonizes from seed 
 
 Seasonal trends in squirreltail root carbohydrate reserves greatly affect postfire response. Burning is generally harmful during late spring and early summer [30,208] coinciding with low points in carbohydrate reserves [20]. Squirreltail is most tolerant of late summer (anthesis) or mid-fall (before regrowth) fires [30,49,79], coinciding with relatively high carbohydrate reserves [20]:
 
-![A graph with "percent of maximum" on the y-axis and "phenological stages - available energy in roots of squirreltail at several stages of maturity" on the x-axis. Peaks and valleys along the line are labeled "first growth", "2nd leaf", "3rd leaf", "anthesis", "seed ripe", "quiescent", "fall regrowth", and "winter dormancy".]({{ site.baseurl }}/assets/images/species-reviews/feis-elyely_graph.jpg)
+![A graph with "percent of maximum" on the y-axis and "phenological stages - available energy in roots of squirreltail at several stages of maturity" on the x-axis. Peaks and valleys along the line are labeled "first growth", "2nd leaf", "3rd leaf", "anthesis", "seed ripe", "quiescent", "fall regrowth", and "winter dormancy".](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-elyely_graph.jpg?itok=HSv3B8oX)
 
 Photo Credit
 

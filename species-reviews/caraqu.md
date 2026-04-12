@@ -44,7 +44,7 @@ The currently accepted scientific name of water sedge is _Carex aquatilis_ Wahle
 
 Throughout this review _Carex aquatilis_ refers to the species as a whole. _Carex aquatilis_ var. _aquatilis_ , _C. a._ var. _dives_ , and _C. a._ var. _stans_ are referred to by their full scientific names when citing literature that distinguishes varieties.
 
-![A photo of sedges growing in shallow, clear water with a few shrubs behind.]({{ site.baseurl }}/assets/images/species-reviews/caraqu_caraqu_habitat_0_0_0.jpg)
+![A photo of sedges growing in shallow, clear water with a few shrubs behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/caraqu_habitat_0_0_0.jpg?itok=mYkxR8zS)
 
 Photo Credit
 
@@ -279,7 +279,7 @@ Water sedge is a native [95,96], water-obligate [35,87,88,120], long-lived peren
 
 The culms of water sedge are slender, sharply triangular, 6 to 60 inches (15-150 cm) tall [4,96,156,214] and borne singly or few together on rhizomes [96,105,128,156,214]. The culms of _C. a._ var. _aquatilis_ average 20 to 41 inches (50-105 cm) tall [82]. At the southern end of Lake St. Francis, Quebec, water sedge culm density averaged 505/m² [15]. Water sedge plants collected from Idaho State lands had a mean height of 22 inches (55 cm), with a minimum and maximum height of 14 inches (35 cm) and 27 inches (68 cm), respectively [116]. The leaves of water sedge are flat, elongate, 2 to 7 mm wide, and occur on the lower half of the culms [214]. Water sedge plants produce 4 to 5 new leaves a year [186]. In the High Arctic, the leaves of water sedge are mature in terms of photosynthetic rate for approximately 27 days [31]. The inflorescence of water sedge has 3 to 10 cylindrical spikelets [96,128,192], not closely crowded [96], and is 0.6 to 2 inches (1.5-5 cm) long [96]. The fruits of water sedge are lens-shaped achenes 1 to 2 mm wide [120,121,128,192].
 
-![A photo of the shiny green leaves and reproductive spikelets of a sedge. The stems and leaves are leaning to one side, with water behind. The spikelets are relatively long and the perigynia appear as a cylindrical checkerboard of dark brown and light green.]({{ site.baseurl }}/assets/images/species-reviews/feis-caraqu_repro.jpg)
+![A photo of the shiny green leaves and reproductive spikelets of a sedge. The stems and leaves are leaning to one side, with water behind. The spikelets are relatively long and the perigynia appear as a cylindrical checkerboard of dark brown and light green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-caraqu_repro.jpg?itok=xD8fq9di)
 
 Photo Credit
 

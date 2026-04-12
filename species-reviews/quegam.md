@@ -173,7 +173,7 @@ Published classifications listing Gambel oak as an indicator or dominant are lis
 
 ## Botanical Description 
 
-![Close-up of leaves]({{ site.baseurl }}/assets/images/species-reviews/feis-quegam_leaves.jpg)
+![Close-up of leaves](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-quegam_leaves.jpg?itok=t-1y15nO)
 
 Photo Credit
 

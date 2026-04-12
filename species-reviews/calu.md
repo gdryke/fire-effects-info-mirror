@@ -115,7 +115,7 @@ Gray wolves inhabit a variety of plant communities. Their territories usually co
 
 ## Biological Characteristics
 
-![A gray wolf carries the hindquarter of a caribou]({{ site.baseurl }}/assets/images/species-reviews/feis-calu_wolf_with_caribou_hindquarter.jpg)
+![A gray wolf carries the hindquarter of a caribou](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-calu_wolf_with_caribou_hindquarter.jpg?itok=-wX1S3rq)
 
 Photo Credit
 

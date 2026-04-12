@@ -34,7 +34,7 @@ Zouhar, Kristin L. 2001. _Acroptilon repens_ , Russian knapweed. In: Fire Effect
 
 ## Introduction
 
-![A photo of the tops of several Russian knapweed stems with some seedheads and some tufted purple flowers above dusky green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-acrrep_flowers.jpeg)
+![A photo of the tops of several Russian knapweed stems with some seedheads and some tufted purple flowers above dusky green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acrrep_flowers.jpeg?itok=6ZeEgSOs)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ In Utah, Russian knapweed is found in cottonwood/willow and tamarisk (_Tamarix_ 
 
 Russian knapweed is a nonnative, perennial, invasive forb that often forms dense, monotypic colonies from widely spreading horizontal roots. Roots are scaly and dark-brown to black in color, and can extend 14 square yards (12 m²) radially, and up to 23 feet (7 m) deep within 2 growing seasons ([83,86] and sources therein). Records indicate that an infestation of Russian knapweed can survive 75+ years through its root system [83].
 
-![A photo of Russian knapweed plants with dried seedheads at the ends of the many branches of each stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-acrrep_plants.jpeg)
+![A photo of Russian knapweed plants with dried seedheads at the ends of the many branches of each stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acrrep_plants.jpeg?itok=YucidM4E)
 
 Photo Credit
 
@@ -302,7 +302,7 @@ No information.
 
 ## Impacts
 
-![A photo of a rather dense stand of Russian knapweed, comprised mostly of dried, brown plants with seedheads, although a few individuals retain green stems. A few sagebrush plants occur amidst the dense weeds in the foreground, and larger shrubs dominate in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-acrrep_infestation.jpg)
+![A photo of a rather dense stand of Russian knapweed, comprised mostly of dried, brown plants with seedheads, although a few individuals retain green stems. A few sagebrush plants occur amidst the dense weeds in the foreground, and larger shrubs dominate in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acrrep_infestation.jpg?itok=Q5ayotz3)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Gucker, Corey L. 2005. _Galium aparine_ , stickywilly. In: Fire Effects Informat
 
 ## Introduction
 
-![A photo of a somewhat scraggly forb with square stems and whorls of leaves with white flowers at the ends of stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-galapa_hero.jpg)
+![A photo of a somewhat scraggly forb with square stems and whorls of leaves with white flowers at the ends of stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galapa_hero.jpg?itok=uz9cmYnM)
 
 Photo Credit
 
@@ -193,7 +193,7 @@ In northern Kentucky mixed mesophytic forests, sugar maple, white ash (_Fraxinus
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [11,25,41,57,58,65,71,94,129,158,161,165,167].
 
-![A close-up photo of a small white flower growing above a set of green bracts that slightly exceed the length of the petals, and a whorl of leaves below that are much longer than the bracts.]({{ site.baseurl }}/assets/images/species-reviews/feis-galapa_flower.jpg)
+![A close-up photo of a small white flower growing above a set of green bracts that slightly exceed the length of the petals, and a whorl of leaves below that are much longer than the bracts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galapa_flower.jpg?itok=GuPXb7iv)
 
 Photo Credit
 
@@ -256,7 +256,7 @@ In a review article, DeFelice [28] indicates that insects may pollinate stickywi
 
 ### Seed Production
 
-![A photo of the top portion of the stem of a forb covered in bristly hairs. Several fruits grow from the end of stems with whorls of leaves below and have two rounded halves covered in bristles.]({{ site.baseurl }}/assets/images/species-reviews/feis-galapa_seed.jpg)
+![A photo of the top portion of the stem of a forb covered in bristly hairs. Several fruits grow from the end of stems with whorls of leaves below and have two rounded halves covered in bristles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galapa_seed.jpg?itok=GmUNVNjU)
 
 Photo Credit
 
@@ -566,7 +566,7 @@ The Canadian provinces of Alberta, British Columbia, Manitoba, and Saskatchewan 
 
 ## Importance to Wildlife and Livestock
 
-![A photo of the stems of a forb with square stems with many bristles. At nodes, five relatively straight leaves grow in a star shape, each with a 4-petaled white flower growing above.]({{ site.baseurl }}/assets/images/species-reviews/feis-galapa_plant1.jpg)
+![A photo of the stems of a forb with square stems with many bristles. At nodes, five relatively straight leaves grow in a star shape, each with a 4-petaled white flower growing above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-galapa_plant1.jpg?itok=XhhB_rS_)
 
 Photo Credit
 

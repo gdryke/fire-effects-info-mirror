@@ -34,7 +34,7 @@ Tirmenstein, D. 1990. _Vaccinium myrtilloides,_ velvetleaf huckleberry. In: Fire
 
 ## Image Gallery
 
-![Photo of a green shrub with oval-shaped, fuzzy leaves and a small cluster of small, spherical blue fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmyt_plant.jpg) Velvetleaf huckleberry. _Photo by Paul Manning, iNaturalist.org, no rights reserved._
+![Photo of a green shrub with oval-shaped, fuzzy leaves and a small cluster of small, spherical blue fruits.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-vacmyt_plant.jpg) Velvetleaf huckleberry. _Photo by Paul Manning, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Paul Manning, iNaturalist.org, no rights reserved.
 
@@ -114,7 +114,7 @@ Published classifications listing velvetleaf huckleberry an indicator of communi
 
 ## Botanical Description
 
-![Photo of a green shrub with oval-shaped, fuzzy leaves and a small cluster of small, spherical blue fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacmyt_plant.jpg)
+![Photo of a green shrub with oval-shaped, fuzzy leaves and a small cluster of small, spherical blue fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacmyt_plant.jpg?itok=m7DiWJ2T)
 
 Photo Credit
 

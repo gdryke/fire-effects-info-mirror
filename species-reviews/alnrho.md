@@ -34,7 +34,7 @@ Fryer, Janet L. 2014. _Alnus rhombifolia_ , white alder. In: Fire Effects Inform
 
 ## Introduction
 
-![A photo of green, leafy deciduous trees with narrow trunks growing along a steep wash with dry hills behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrho_habitat.jpg)
+![A photo of green, leafy deciduous trees with narrow trunks growing along a steep wash with dry hills behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-alnrho_habitat.jpg?itok=AWR0hIk7)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ California alder, Sierra alder
 
 ## Distribution
 
-![A map of the United States and Canada, with a shaded polygon covering much of California, extending through Oregon and Washington into Idaho. There is a black dot in western Montana.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrho_map.png)
+![A map of the United States and Canada, with a shaded polygon covering much of California, extending through Oregon and Washington into Idaho. There is a black dot in western Montana.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-alnrho_map.png?itok=09PDu2DI)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 White alder is a small to medium-sized deciduous tree, usually ranging from 16 to 82 feet (5-25 m) tall [56,58]. The champion tree is 91 feet (28 m) tall and grows in Polk County, Oregon [3]. In California, white alders commonly reach 11 inches (28 cm) DBH but may reach 21 inches (53 cm) DBH [19]. The crown is conical, spreading, and open [39]; a mature tree may have one to several stems [42,63]. The bark is thin [58]. Leaves are broadly ovate; water-stressed trees produce smaller and fewer leaves than trees on moist sites [33]. The inflorescences are catkins. Staminate catkins grow in clusters of 3 to 7; pistillate catkins may be solitary or grow in racemose [58] clusters of 2 to 6 [39]. After fertilization, pistillate catkins become cone-shaped and woody [115]. The fruit is a leathery, irregularly-shaped samara [39,58] containing a small nut [53,58,157]. Samara wings are narrow, and the samara is light-weight [53].
 
-![A photo of a tree trunk growing along a riverbank with thick, wavy roots growing at the water's edge.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrho_roots.png)
+![A photo of a tree trunk growing along a riverbank with thick, wavy roots growing at the water's edge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-alnrho_roots.png?itok=Wb92ZhG4)
 
 Photo Credit
 
@@ -191,7 +191,7 @@ Pacific Northwest| flowers| January-April [56]
 
 White alder regenerates from seeds and sprouts [110,118]. Seeds are important for colonizing new areas such as sand- and gravelbars, and established plants may sprout after bole damage or top-kill [110,118]. By the Nacimiento River, white alder showed good regeneration from both seeds and sprouts [118].
 
-![Two photos side-by-side photos, with a photo of drooping green catkins on the left and small, flat seeds on the right.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrho_flowers_seeds.png)
+![Two photos side-by-side photos, with a photo of drooping green catkins on the left and small, flat seeds on the right.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-alnrho_flowers_seeds.png?itok=sJXQx_4k)
 
 Photo Credit
 
@@ -251,7 +251,7 @@ In secondary succession, white alder is noted on slumps [31] and burns (see Plan
 
 ## Immediate Fire Effects
 
-![A photo of narrow standing dead tree trunks along a rocky creek with dry hills to either side. Some shrubs and/or trees are resprouting.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrho_burn.jpg)
+![A photo of narrow standing dead tree trunks along a rocky creek with dry hills to either side. Some shrubs and/or trees are resprouting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-alnrho_burn.jpg?itok=oSELr4KA)
 
 Photo Credit
 
@@ -311,7 +311,7 @@ Upper North Fork Matilija| 125| 71 (57)| 97| 37
  
 In contrast to white alder's poor sprouting response, most associated oaks, California sycamores, and Fremont cottonwoods had only been top-killed and were sprouting. The few white alders that were only top-killed sprouted several months after the other hardwoods ([12], Barro 1989 personal communication [11]). By spring of postfire year two, 7% percent of burned white alders were sprouting compared to 83% of California sycamores and 70% of coast live oaks [35]. Abundance of white alder and other hardwoods in postfire year 3 was [12]:
 
-![A sideways bar graph showing number of dead and living individuals of four tree species.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnrho_barro.png)
+![A sideways bar graph showing number of dead and living individuals of four tree species.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-alnrho_barro.png?itok=68uAXzYf)
 
 Photo Credit
 

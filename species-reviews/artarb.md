@@ -47,7 +47,7 @@ Alkali sagebrush has been previously classified as a separate species (_A. longi
 
 Hybridization has apparently occurred between low sagebrush and tall threetip sagebrush (_A. tripartita_ ssp. _tripartita_), basin big sagebrush (_A. tridentata_ ssp. _tridentata_), and Wyoming big sagebrush (_A. t._ ssp. _wyomingensis_) [71,73]. Previously it was assumed that alkali sagebrush did not hybridize because of its early phenology relative to other sagebrushes (_Artemisia_ spp.) [71]. More recently, populations in Sublette County, Wyoming, have been described as stable hybrids of alkali sagebrush and Wyoming big sagebrush [72]. Beetle [13] speculated that hotsprings sagebrush originated as a hybrid of tall threetip sagebrush and the gray low sagebrush. Lahontan sagebrush is thought to possibly be a stable hybrid of gray low sagebrush and Wyoming big sagebrush [72]. Intermediates between gray low sagebrush and alkali sagebrush have been reported [113].
 
-![A photo of an open, mostly flat shrubland with vegetation dominated by low shrubs with scattered white, yellow, and orange flowers. The slope rises in the background - still dominated by low shrubs - to snow-capped peaks.]({{ site.baseurl }}/assets/images/species-reviews/feis-artarb_habitat3.jpg)
+![A photo of an open, mostly flat shrubland with vegetation dominated by low shrubs with scattered white, yellow, and orange flowers. The slope rises in the background - still dominated by low shrubs - to snow-capped peaks.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-artarb_habitat3.jpg)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Low sagebrush grows from California and Nevada north to Oregon and Washington, w
 
  * United States: CA CO ID MT NV NM OR UT WA WY
 
-![A photo of rolling hills covered with evenly spaced low shrubs, with bare ground between individuals covered with a light layer of snow. An orange sunset illuminates the cloudy sky.]({{ site.baseurl }}/assets/images/species-reviews/artarb_artarb_habitat2_0_0_0.jpg)
+![A photo of rolling hills covered with evenly spaced low shrubs, with bare ground between individuals covered with a light layer of snow. An orange sunset illuminates the cloudy sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/artarb_habitat2_0_0_0.jpg?itok=suFZgQjN)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ Gray low sagebrush grows in Lincoln and Teton counties, and hotsprings sagebrush
 
 ### Nevada
 
-![A photo of low shrubs dominating a flat basin with desert hills rising in the background. Scattered forbs grow between shrubs, but plants are relatively widely spaced with rocky bare ground visible between.]({{ site.baseurl }}/assets/images/species-reviews/feis-artarb_habitat.jpg)
+![A photo of low shrubs dominating a flat basin with desert hills rising in the background. Scattered forbs grow between shrubs, but plants are relatively widely spaced with rocky bare ground visible between.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artarb_habitat.jpg?itok=OSls9OGW)
 
 Photo Credit
 
@@ -183,7 +183,7 @@ Classifications describing plant communities in which low sagebrush is a dominan
 
 ### Aboveground
 
-![A photo of a low, dusky green shrub with reproductive stems growing slightly taller than the main body of the shrub. Green grassy hills with scattered conifers occur in the near distance, with dramatic peaks rising behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-artarb_plant.jpg)
+![A photo of a low, dusky green shrub with reproductive stems growing slightly taller than the main body of the shrub. Green grassy hills with scattered conifers occur in the near distance, with dramatic peaks rising behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artarb_plant.jpg?itok=FlrqBAiM)
 
 Photo Credit
 

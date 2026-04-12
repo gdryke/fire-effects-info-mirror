@@ -54,7 +54,7 @@ The scientific name of spotted knapweed is _Centaurea stoebe_ L. subsp. _micrant
 
 While both _C. stoebe_ subsp. _micranthos_ and _C. stoebe_ subsp. _stoebe_ appear to have been introduced to North America, _C. stoebe_ subsp. _micranthos_ was a more successful invader than _C. stoebe_ subsp. _stoebe_[503]. The two subspecies overlap in many morphological traits [344,452], but differ in that _C. stoebe_ subsp. _micranthos_ is tetraploid and tends to be perennial and polycarpic while _C. stoebe_ subsp. _stoebe_ is diploid and tends to be biennial and monocarpic [170]. Invasion success of _C. stoebe_ subsp. _micranthos_ in North America has been attributed to tetraploidy and life history traits that preadapted it to conditions in the invaded range [50,90,169,196,329,334,417,483,490] and allowed for local morphological and phenological post-introduction adaptations [168,169,170,196,329,406], among other factors (see Life History Traits).
 
-![A photo of a light purple flower and flower buds of spotted knapweed at the tops of narrow stems with sparse leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig1_flower.jpg)
+![A photo of a light purple flower and flower buds of spotted knapweed at the tops of narrow stems with sparse leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig1_flower.jpg?itok=HNOOkaau)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Spotted knapweed is native to eastern Europe and western Asia [344]. It is thoug
 
 Spotted knapweed did not spread immediately after being introduced. The first records in North America indicate that it was introduced near Westford, Massachusetts, in 1884, and in Victoria, British Columbia, in 1893. Its distribution remained confined to a few populations for about 20 years in the East and 40 years in the West after initial introductions [44]. Thus, the invasion of spotted knapweed appears to have occurred in two phases along two separate invasion routes: one expanding from the East and one from the West. During the first phase, it spread into ruderal habitats similar to its native niche. During the second phase, it spread from ruderal habitats into natural and seminatural habitats that were less similar to its native niche [44,490] (see Site Characteristics). By 1980, spotted knapweed had spread to 48 counties in the Pacific Northwest. Between 1980 and 1998, spotted knapweed occurred in at least 326 counties in the West, including every county in Washington, Idaho, Montana, and Wyoming [438].
 
-![A map of the U.S. and Canada, with many counties in the north and western U.S. highlighted green, with additional, mostly adjacent counties to the south and east highlighted blue and yellow. Several Census Geographic Units in Canada are highlighted blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig2_EddMaps.JPG)
+![A map of the U.S. and Canada, with many counties in the north and western U.S. highlighted green, with additional, mostly adjacent counties to the south and east highlighted blue and yellow. Several Census Geographic Units in Canada are highlighted blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig2_EddMaps.JPG?itok=ld8Q_qxJ)
 
 Photo Credit
 
@@ -210,7 +210,7 @@ North American floras typically describe spotted knapweed as a biennial and/or a
 
 During the juvenile stage, spotted knapweed is a basal rosette (hereafter, rosette) [101,438]. Basal leaves are borne on short stalks and grow up to 20 cm long and 5 cm wide [80,101,163,438], with margins divided into linear or oblong segments [80]. Beginning usually the second year, each spotted knapweed plant produces 1 to 6 but up to 20 flowering stems/plant [101,438]. Stems range from 0.2 to 1.8 m tall (e.g., [21,77,80,99,163,194,262,273,473,532]). Stem leaves are alternate and grow smaller near the tops of stems. Their uppermost leaves are small and simple [80,101,262,438]. Stems branch in their upper half [438,524,532,551].
 
-![A photo of a large spotted knapweed plant with purple flowers at the end of stems. Dried grasses and small shrubs grow around.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig3_plant.jpg)
+![A photo of a large spotted knapweed plant with purple flowers at the end of stems. Dried grasses and small shrubs grow around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig3_plant.jpg?itok=rXFDBevF)
 
 Photo Credit
 
@@ -440,7 +440,7 @@ Spotted knapweed seeds can germinate under a closed canopy [453], but mature pla
 
 Spotted knapweed frequently occurs in early-successional forests (e.g., [143,167]), but is uncommon in older stands (e.g., [167]). In grand fir/bride’s bonnet habitat type in the Selway-Bitterroot Wilderness, Idaho, spotted knapweed was a dominant understory forb in a burned 15-year-old stand but not found in a nearby burned 215-year-old stand [167]. Spotted knapweed is common in old fields [73,77,101,144,518,551] and has been reported in mid-successional grasslands [164]. Hironaka (1990) presents a replacement series of weedy species in Intermountain rangelands in which summer annuals are replaced by winter annuals (e.g., Russian-thistle is replaced by cheatgrass), and the earlier winter annuals are replaced by later maturing annuals and perennials (e.g., cheatgrass is replaced by medusahead or knapweeds) [205].
 
-![A photo of several spotted knapweed plants growing along a roadside with dried grasses and other seral shrubs. Paved roads are visible to both sides, with an on-ramp to the left and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig4_roadside.jpg)
+![A photo of several spotted knapweed plants growing along a roadside with dried grasses and other seral shrubs. Paved roads are visible to both sides, with an on-ramp to the left and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig4_roadside.jpg?itok=oM_2Bgy7)
 
 Photo Credit
 
@@ -514,7 +514,7 @@ In a greenhouse using burned soils collected from mixed-conifer forest on the ea
 
 Few studies examined spotted knapweed’s response to fire in bunchgrass steppe and available information is conflicting. In perennial bunchgrass steppe in Missoula, Montana, cover of nonnative perennial forbs, primarily spotted knapweed and Dalmatian toadflax, on burned areas 1 year after a July wildfire (≈18%) was less than that on unburned areas (≈25%), but statistical differences were not determined [29]. For more information on this study see Fire as a Control Agent. On a northeastern Washington rangeland, Sheley and Roche (1982) conducted a study on the effects of prescribed fire and other control methods on spotted knapweed, but gave no information on the characteristics of the fire or comparisons to controls [430]. However, Sheley et al. (1999) interpret this study as suggesting that "a single, low-intensity fire increased the cover and density of this weed without improving the residual, desirable understory species" [438]. For more information on this study, see Integrated Management with Fire.
 
-![A photo of a firefighter holding a drip torch with low flames behind them and charred grassland. Unburned grasses with scattered shrubs occur in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig5_bigholerx1.jpg)
+![A photo of a firefighter holding a drip torch with low flames behind them and charred grassland. Unburned grasses with scattered shrubs occur in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig5_bigholerx1.jpg?itok=cnH28Kd5)
 
 Photo Credit
 
@@ -789,7 +789,7 @@ Spotted knapweed provides an important nectar source for many insects, including
 
 Butterflies are frequently observed using spotted knapweed flowers [27,198] (fig. 6), and spotted knapweed is a nectar source for the federally endangered Karner blue butterfly in Wisconsin [166] and New York [143].
 
-![A photo of a monarch butterfly on one of many scattered pinkish purple blooms of spotted knapweed. Scattered yellow flowers also occur amongst the low forbs.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig6_butterfly.jpg)
+![A photo of a monarch butterfly on one of many scattered pinkish purple blooms of spotted knapweed. Scattered yellow flowers also occur amongst the low forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig6_butterfly.jpg?itok=-eE_kg_t)
 
 Photo Credit
 
@@ -852,7 +852,7 @@ Spotted knapweed can occur in dense monocultures (fig. 7) (see Population Struct
 
 #### Impacts on Native Plant Communities
 
-![A photo of a field of flowering spotted knapweed, with scattered conifers on low hills in the near background and mountains in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig7_infestation.jpg)
+![A photo of a field of flowering spotted knapweed, with scattered conifers on low hills in the near background and mountains in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig7_infestation.jpg?itok=sBuMF6gg)
 
 Photo Credit
 
@@ -1028,7 +1028,7 @@ Table 13—Spotted knapweed biological control insects.Scientific name| Common n
  
 Larvae of insects used to control spotted knapweed damage plants by feeding inside either seedheads or roots. With the exception of two of the seedhead weevils, _Larinus minutus_ and _Larinus obtusus_ , adult insects have little impact on plants. Adult _Larinus_ spp. can substantially defoliate knapweed stems and weaken plants. The larvae of each seedhead-feeding insect prefers certain seedhead characteristics and stages of development such that larvae of more than one species can occupy a seedhead at one time [543]. These larvae reduce seed production (e.g., [181,248,249,336,394,427,455,466,468,471]) (see Seed Production and Predation) and thus seedbank densities (see Seed Banking) by damaging and eating seeds and receptacle tissue [543]. The larvae of all five species of root-feeding insects can be present in the root at the same time [543]. These larvae reduce biomass and plant height [93,94,463], flower and seed production [251,463], and plant survival [93,289,360] by feeding on the root’s vascular tissue or cortex [543].
 
-![A close-up photo of a weevil on an opening spotted knapweed flower with a black background.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig8_rootweevil.jpg)
+![A close-up photo of a weevil on an opening spotted knapweed flower with a black background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig8_rootweevil.jpg?itok=GLx1UUst)
 
 Photo Credit
 
@@ -1084,7 +1084,7 @@ Establishment of native species in spotted knapweed communities may be increased
 
 Ongoing and predicted increases in disturbance and elevated atmospheric carbon dioxide and temperature are likely to both expand and contract the distribution of spotted knapweed in parts of the United States and Canada [9,41,45,227] (table 14). Climate models based on 39,854 reported occurrences of spotted knapweed in the United States [9] predicted that by about 2050, spotted knapweed is likely to spread in the northern Great Plains, southern Rocky Mountains, and parts of the Northeast; and to retract from the Southeast [127] (fig. 9). Niche-based models that used distribution information from North America and Europe, predicted that by 2080, spotted knapweed is likely to spread in British Columbia and the Central Rocky Mountains [45]. Many areas in southern coastal Alaska are likely to develop into novel environments under predicted future conditions for 2030, and these areas are likely to become more suitable for spotted knapweed [227].
 
-![A map of the United States with many counties in the north and west highlighted light purple, some central and southern counties mostly adjacent to light purple counties highlighted orange, and scattered counties concentrated in the south and Midwest highlighted dark purple.]({{ site.baseurl }}/assets/images/species-reviews/feis-censtom_fig9_eddmaps.jpg)
+![A map of the United States with many counties in the north and west highlighted light purple, some central and southern counties mostly adjacent to light purple counties highlighted orange, and scattered counties concentrated in the south and Midwest highlighted dark purple.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-censtom_fig9_eddmaps.jpg?itok=40wNHMQG)
 
 Photo Credit
 

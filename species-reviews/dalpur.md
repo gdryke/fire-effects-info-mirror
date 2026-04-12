@@ -34,7 +34,7 @@ League, Kevin R. 2004. _Dalea purpurea_ , purple prairie clover. In: Fire Effect
 
 ## Introduction
 
-![A photo of the upper half of a forb with narrow stems and relatively small, sparse leaves. An elongated spike has bright purple flowers on its lower third.]({{ site.baseurl }}/assets/images/species-reviews/feis-dalpur_plant.jpg)
+![A photo of the upper half of a forb with narrow stems and relatively small, sparse leaves. An elongated spike has bright purple flowers on its lower third.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dalpur_plant.jpg?itok=8ArUPf_X)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Purple prairie clover is indigenous through a large portion of North America. It
 
 Purple prairie clover grows on a variety of sites throughout the Great Plains including dry plains, prairies, hillsides, open woodlands, shaded ravines, sandhills, and roadsides. It occurs on mesic and xeric sites in mixed-grass and tallgrass prairies of the northern and central Great Plains and the shortgrass prairie of the southern Great Plains [24,49,80]. It is most common on marginal sites where soil is exposed and grasses have not formed dense stands [82]. Mean annual precipitation for regions where purple prairie clover subsists ranges from 11 inches (280 mm) in southeast Alberta [32] to 32 inches (810 mm) in Kansas [105] and Oklahoma [13] to 53 inches (1,350 mm) in Mississippi [115].
 
-![A photo of many flowering spikes with the lower portions of the spikes producing bright pink flowers. The flowers are growing with other forbs and grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-dalpur_hero.jpeg)
+![A photo of many flowering spikes with the lower portions of the spikes producing bright pink flowers. The flowers are growing with other forbs and grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dalpur_hero.jpeg?itok=iADcvfI8)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ In northern Arizona's Grand Canyon National Park, purple prairie clover is consi
 
 ## Botanical and Ecological Characteristics
 
-![A photo of an inflorescence that is an elongated, cylindrical spike with bright pinkish purple flowers growing from the bottom quarter of the spike.]({{ site.baseurl }}/assets/images/species-reviews/feis-dalpur_flower.jpg)
+![A photo of an inflorescence that is an elongated, cylindrical spike with bright pinkish purple flowers growing from the bottom quarter of the spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-dalpur_flower.jpg?itok=F-0IVBY5)
 
 Photo Credit
 

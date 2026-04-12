@@ -99,7 +99,7 @@ Tennessee| general veg. cts| Quarterman and others 1972
 
 ## Botanical Description 
  
-![A photo looking up at a tree, with greenish-orange pointed leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargla_plant.jpg)
+![A photo looking up at a tree, with greenish-orange pointed leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cargla_plant.jpg?itok=YAnGrcpG)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Pignut hickory begins producing seed at approximately 30 years of age; maximum s
 
 Seeds of pignut hickory exhibit embryo dormancy that can be broken by stratification at 33 to 40 degrees F (1-4 deg C) for 30 to 150 days [2]. Seeds rarely remain viable in the forest floor for more than one winter [51]. Early seedling growth is typically slow.
 
-![A photo of a stump with leafy sprouts coming out of it.]({{ site.baseurl }}/assets/images/species-reviews/feis-cargla_sprouting.jpg)
+![A photo of a stump with leafy sprouts coming out of it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cargla_sprouting.jpg?itok=Wm_hXc5j)
 
 Photo Credit
 

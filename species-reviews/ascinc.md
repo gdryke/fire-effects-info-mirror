@@ -34,7 +34,7 @@ Pavek, Diane S. 1992. _Asclepias incarnata_ , swamp milkweed. In: Fire Effects I
 
 ## Image Gallery
 
-![Two clusters of pink flowers at the top of leafy green plants with pointed leaves. More of the same plants are growing thickly in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ascinc_plant.jpg) Swamp milkweed in bloom. _Photo by Ansel Oommen, Bugwood.org._
+![Two clusters of pink flowers at the top of leafy green plants with pointed leaves. More of the same plants are growing thickly in the background.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-ascinc_plant.jpg) Swamp milkweed in bloom. _Photo by Ansel Oommen, Bugwood.org._
 
 Photo Credit: Photo by Ansel Oommen, Bugwood.org.
 
@@ -88,7 +88,7 @@ No entry.
 
 ## Botanical Description
 
-![Two clusters of pink flowers at the top of leafy green plants with pointed leaves. More of the same plants are growing thickly in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ascinc_plant.jpg)
+![Two clusters of pink flowers at the top of leafy green plants with pointed leaves. More of the same plants are growing thickly in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-ascinc_plant.jpg?itok=fB6cDf1H)
 
 Photo Credit
 

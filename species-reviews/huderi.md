@@ -38,7 +38,7 @@ Gucker, Corey L. 2005. _Hudsonia ericoides_ , pine barren goldheather. In: Fire 
 
 The currently accepted scientific name of pinebarren goldenheather is _Hudsonia ericoides_ L. (Cistaceae) [12,17,30].
 
-![A photo of a low-growing shrub with tight clusters of small, needle-like leaves growing along brown, twiggy stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-huderi_plant.jpg)
+![A photo of a low-growing shrub with tight clusters of small, needle-like leaves growing along brown, twiggy stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-huderi_plant.jpg?itok=hvrUYYfi)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Plants database provides a map of pinebarren goldenheather's distribution.
 
 Pinebarren goldenheather prefers dry sandy soils in open sites. It is described in thin pinelands, on dunes, upper beaches, dry open flats, and along roadsides on New England's Atlantic Coast [4,34]. Pinebarren goldenheather is considered "locally abundant" in pine barrens vegetation from New Hampshire to Delaware [12].
 
-![A photo of low shrubs growing with short pines. Bare ground is visible between most plants, although vegetation appears to thicken in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-huderi_habitat.jpg)
+![A photo of low shrubs growing with short pines. Bare ground is visible between most plants, although vegetation appears to thicken in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-huderi_habitat.jpg?itok=NcsynEAD)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ Above ground, pinebarren goldenheather has a short thick crown that gives rise t
 
 Along the Atlantic Coast of New England, pinebarren goldenheather flowers between May and July [4,12,34]. In South Carolina, pinebarren goldenheather flowers sometime between June and August, and fruit set occurs in August or September [14,30].
 
-![A photo of a low shrubs with small, narrow leaves and numerous bright yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-huderi_flowers.jpeg)
+![A photo of a low shrubs with small, narrow leaves and numerous bright yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-huderi_flowers.jpeg?itok=YVT6VdP3)
 
 Photo Credit
 

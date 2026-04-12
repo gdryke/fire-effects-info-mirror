@@ -38,7 +38,7 @@ Matthews, Robin F. 1993. _Iliamna rivularis_ , streambank wild hollyhock. In: Fi
 
 The currently accepted scientific name of streambank wild hollyhock is _Iliamna rivularis_(Dougl.) Greene (Malvaceae) [10,11,30]. A typical variety with five-lobed to seven-lobed, cordate leaves and _I. r._ var. _diversa_ (Nels.) Hitchc. with three-lobed to five-lobed, truncate leaves are recognized [11,12].
 
-![A photo of large pink flowers growing up the stems of a large, leafy forb. A few conifers and dramatic peaks are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-iliriv_habitat.jpg)
+![A photo of large pink flowers growing up the stems of a large, leafy forb. A few conifers and dramatic peaks are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-iliriv_habitat.jpg?itok=KZx3OzwQ)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ See the Appendix for plant communities and cover types in which streambank wild 
 
 ## Botanical and Ecological Characteristics
 
-![Photo of flowering streambank wild hollyhock.]({{ site.baseurl }}/assets/images/species-reviews/feis-iliriv.jpg)
+![Photo of flowering streambank wild hollyhock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-iliriv.jpg?itok=-ER8BEcj)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Streambank wild hollyhock is a perennial forb with one to several stems arising 
 
 Streambank wild hollyhock flowers from June to August in the Pacific Northwest [17].
 
-![A photo of large, pink flowers growing from the top of the stem of a tall forb with tall trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-iliriv_flower.jpeg)
+![A photo of large, pink flowers growing from the top of the stem of a tall forb with tall trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-iliriv_flower.jpeg?itok=dHuue4SU)
 
 Photo Credit
 

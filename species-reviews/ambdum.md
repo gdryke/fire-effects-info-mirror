@@ -52,7 +52,7 @@ white bursage, bursage, burroweed
 
 White bursage occurs throughout the Sonoran and Mojave deserts although it is typically considered a Mojave Desert species [1]. It ranges north to Death Valley, California, southern Nevada, and southwestern Utah. It extends along the Gulf in Baja California as far south as Bajia Los Angeles and into Sonora as far south as Tiburon Island [41].
 
-![Photo of map distribution of burrowbush.]({{ site.baseurl }}/assets/images/species-reviews/ambdum_ambdum_map.png)
+![Photo of map distribution of burrowbush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/ambdum_map.png?itok=-ngLTrKQ)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Publications listing white bursage as a dominant or codominant species include:
 
 ## Botanical Description
 
-![Photo of burrobush.]({{ site.baseurl }}/assets/images/species-reviews/feis-ambdum_plant.jpg)
+![Photo of burrobush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ambdum_plant.jpg?itok=VhmngiP6)
 
 Photo Credit
 

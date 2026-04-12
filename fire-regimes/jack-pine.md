@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for jack pine communities has not yet been publ
 
 ## Distribution
 
-![A map showing the distribution of jack pine communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/jack-pine_feis-jack_pine_locator.jpg)
+![A map showing the distribution of jack pine communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-jack_pine_locator.jpg?itok=yPLO_jxs)
 
 Photo Credit
 

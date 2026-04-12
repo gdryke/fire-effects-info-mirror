@@ -50,7 +50,7 @@ mescalbean sophora
 
 ## General Distribution
 
-![A map of Texas and New Mexico with counties highlighted in green where mescal bean occurs. Scattered counties in south and west Texas and southeast New Mexico are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-sopsec_map.jpg)
+![A map of Texas and New Mexico with counties highlighted in green where mescal bean occurs. Scattered counties in south and west Texas and southeast New Mexico are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-sopsec_map.jpg?itok=ltgXyKfY)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Mescal bean is generally not a dominant but occurs as scattered individuals in m
 
 ## Botanical Description
 
-![A close up photo of a drooping cluster of pink-purple flowers against a dark background.]({{ site.baseurl }}/assets/images/species-reviews/feis-sopsec_flower.jpg)
+![A close up photo of a drooping cluster of pink-purple flowers against a dark background.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-sopsec_flower.jpg)
 
 Photo Credit
 

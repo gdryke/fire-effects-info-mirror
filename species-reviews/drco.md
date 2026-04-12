@@ -64,7 +64,7 @@ The eastern indigo snake ranges from southern South Carolina south through Flori
 
 The eastern indigo snake is most abundant in the sandhill plant communities of Florida and Georgia. These communities are primarily scrub oak-longleaf pine (Pinus palustris) with occasional live oak (Quercus virginiana), laurel oak (Q. laurifolia), Chapman's oak (Q. chapmanii), and myrtle oak (Q. myrtifolia). Other communities include longleaf pine-turkey oak (Q. laevis), slash pine (Pinus elliottii)-scrub oak, pine flatwoods, and pine-mesic hardwoods [1].
 
-![Longleaf pine woodland.]({{ site.baseurl }}/assets/images/species-reviews/feis-drco_longleafpinewoodland.jpg)
+![Longleaf pine woodland.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drco_longleafpinewoodland.jpg?itok=n_iKroE-)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Longleaf pine woodland, an eastern indigo snake habitat.
 
 Eastern indigo snakes can grow as long as 125 inches (262 cm). They mate from November through March with a peak in mid-November through late December. The age of sexual maturity is unknown [9]. An average of 3 to 10 eggs are laid in March through July; eggs hatch from May through October [10]. The average life span of the eastern indigo snake is 11 years, although they can live as long as 21 years [11]. They do not hibernate and remain somewhat active during winter, especially if temperatures are higher than 50 degrees Fahrenheit (10 deg C) [9].
 
-![Black snake coiled up on bare ground with some brown plant litter behind it.]({{ site.baseurl }}/assets/images/species-reviews/feis-drco_individual.jpg)
+![Black snake coiled up on bare ground with some brown plant litter behind it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-drco_individual.jpg?itok=UMBaiiGa)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Plains riparian and floodplain commun
 
 ## Distribution
 
-![A map showing the distribution of Great Plains riparian and floodplain communities, covering most of the U.S.]({{ site.baseurl }}/assets/images/fire-regimes/great-plains-riparian-and-floodplain_feis-great_plains_riparian_and_floodplain_locator.jpg)
+![A map showing the distribution of Great Plains riparian and floodplain communities, covering most of the U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-great_plains_riparian_and_floodplain_locator.jpg?itok=96lAk6BA)
 
 Photo Credit
 

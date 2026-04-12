@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain high-elevation grassland com
 
 ## Distribution
 
-![A map showing the distribution of northern Rocky Mountain high-elevation grasslands in the northern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-high-elevation-grasslands_feis-northern_rocky_mountain_high_elevation_grasslands_locator.jpg)
+![A map showing the distribution of northern Rocky Mountain high-elevation grasslands in the northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_rocky_mountain_high_elevation_grasslands_locator.jpg?itok=K-bEJK1Y)
 
 Photo Credit
 

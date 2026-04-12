@@ -70,7 +70,7 @@ Subspecies acicularis is primarily Eurasian but extends into Alaska; subspecies 
 
 Prickly rose is a characteristic species of boreal forests under white spruce and relatively open black spruce. It is very common in northern hardwood forests composed of paper birch (_Betula papyrifera_), aspen (_Populus tremuloides_), and cottonwood (_Populus_ spp.), and in transitional zones between birch and spruce forest. It is less frequent in closed black spruce forests [9].
 
-![A photo of a thorny stem with oval leaves and an orange, elongated fruit growing out of a rock crevice.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosaci_fruit.jpg)
+![A photo of a thorny stem with oval leaves and an orange, elongated fruit growing out of a rock crevice.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rosaci_fruit.jpg?itok=oTUUHHHU)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Classifications listing prickly rose as an indicator or plant community dominant
 
 Prickly rose plants are quite variable in morphological details including pubescence, glandularity, and fruit shape [87]. Prickly rose is a deciduous shrub about 4 feet (1.2 m) in height with many fine roots in the top 8 inches (20 cm) of soil. Deep roots may extend to 55 inches (140 cm) [73]. The main stems are usually covered with slender, straight bristles or prickles. The alternate leaves are pinnately compound with five to nine leaflets and conspicuous stipules [28,72]. The pink or rose-colored flowers have numerous stamens and are borne singly on lateral branches. The globose, fleshy, red or orange-red hip has 10 to 30 achenes. Each achene is 0.15 to 0.2 inch (3.8-5 mm) long with stiff hairs along one side [28,37,72].
 
-![A photo of a forest with an understory of roses with wide, pink flowers and oval leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosaci_flowers.jpg)
+![A photo of a forest with an understory of roses with wide, pink flowers and oval leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-rosaci_flowers.jpg?itok=R4UFOVvJ)
 
 Photo Credit
 

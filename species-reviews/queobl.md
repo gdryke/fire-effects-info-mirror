@@ -59,7 +59,7 @@ Mexican blue oak is found from the Santa Catalina Mountains of southeastern Ariz
 
 ## Site Characteristics
 
-![A photo of a low, wide, irregular-crowned tree with small dark leaves in a rocky desert setting. There are large boulders, and grasses growing nearby, but no other trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-queobl_habitat.jpeg)
+![A photo of a low, wide, irregular-crowned tree with small dark leaves in a rocky desert setting. There are large boulders, and grasses growing nearby, but no other trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queobl_habitat.jpeg?itok=44oxJ5L4)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Species associated with Mexican blue oak that were not previously mentioned in t
 
 ## Botanical Description
 
-![A close up photo of a shrub or tree's dusty blue oval leaves and round, smooth tan acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-queobl_acorns.jpg)
+![A close up photo of a shrub or tree's dusty blue oval leaves and round, smooth tan acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queobl_acorns.jpg?itok=2BedpPYy)
 
 Photo Credit
 

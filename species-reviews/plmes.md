@@ -64,7 +64,7 @@ Although Karner blue butterflies are characteristic of oak (_Quercus_ spp.) sava
 
 ## Biological Characteristics
 
-![Two photos side by side of blue butterflies. The butterfly on the left has a band of orange spots at the edge of its wings, the one on the right does not and is brighter blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-plmes_pair.jpg)
+![Two photos side by side of blue butterflies. The butterfly on the left has a band of orange spots at the edge of its wings, the one on the right does not and is brighter blue.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-plmes_pair.jpg?itok=bJkmaOfP)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ The Karner blue butterfly is multivoltine, having two broods per year that follo
 
 A wide range of values related to Karner blue butterfly recruitment have been reported. Adult Karner blue sex ratios vary from 1 male to 1.44 females [40] to 2 males to 1 female [31]. Wild caught Karner blue butterfly females have been observed to lay from 7.7 (n=20) to 83 eggs (n=50) on average [10,25,74]. Reported percentages of eggs that reach adulthood under controlled conditions vary from 21.4% to 75.2% [25,71,74]. In the wild, loss of eggs may be substantial [10]. Fate of second-brood eggs was experimentally investigated by Spoor and others [60].
 
-![A close-up photo of a lupine plant with a small green caterpillar at the center, and two black ants on either side of the caterpillar.]({{ site.baseurl }}/assets/images/species-reviews/feis-plmes_larva.jpg)
+![A close-up photo of a lupine plant with a small green caterpillar at the center, and two black ants on either side of the caterpillar.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-plmes_larva.jpg?itok=n8OXryhk)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Karner blue butterflies occur in sandy, open areas including oak savannas, pine 
 
 #### Sundial Lupine
 
-![A photo of an open field surrounded by deciduous trees, with many blue/purple lupine flowers blooming in the field.]({{ site.baseurl }}/assets/images/species-reviews/feis-plmes_habitat.jpeg)
+![A photo of an open field surrounded by deciduous trees, with many blue/purple lupine flowers blooming in the field.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-plmes_habitat.jpeg?itok=3poBz-Ht)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Adult Karner blue butterflies obtain nectar from several native and nonnative sp
 
 ### Foraging Sites
 
-![A photo of a small, light blue butterfly with black and orange spots perched on a cluster of bright orange flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-plmes_butterflyweed.jpg)
+![A photo of a small, light blue butterfly with black and orange spots perched on a cluster of bright orange flowers.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-plmes_butterflyweed.jpg?itok=YKrhVLse)
 
 Photo Credit
 

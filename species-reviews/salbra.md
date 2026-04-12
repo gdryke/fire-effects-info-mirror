@@ -55,7 +55,7 @@ barren-ground willow, small-fruit sand dune willow, small-fruit willow
 
 In northern Canada shortfruit willow is distributed from the Yukon Territory to adjacent British Columbia and east to the Hudson Bay. In the contiguous United States shortfruit willow occurs from the Canadian border southward in the cordilleras to Utah and Colorado [3,7,15,19].
 
-![Photo of map distribution of shortfruit willow.]({{ site.baseurl }}/assets/images/species-reviews/feis-salbra_map.png)
+![Photo of map distribution of shortfruit willow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salbra_map.png?itok=H2lulDsF)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Shortfruit willow codominates in several willow and mixed shrub floodplain commu
 
 ## Botanical Description
 
-![Photo of shortfruit willow leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-salbra_plant.jpeg)
+![Photo of shortfruit willow leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-salbra_plant.jpeg?itok=P_FvHokL)
 
 Photo Credit
 

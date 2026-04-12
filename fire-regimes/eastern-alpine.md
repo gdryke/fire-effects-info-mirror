@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for eastern alpine communities has not yet been
 
 ## Distribution
 
-![A map showing the distribution of eastern alpine communities in Maine, New Hampshire, and Vermont.]({{ site.baseurl }}/assets/images/fire-regimes/eastern-alpine_feis-eastern_alpine_locator.jpg)
+![A map showing the distribution of eastern alpine communities in Maine, New Hampshire, and Vermont.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-eastern_alpine_locator.jpg?itok=RY8GoBeV)
 
 Photo Credit
 

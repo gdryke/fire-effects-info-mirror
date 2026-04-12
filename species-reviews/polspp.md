@@ -85,7 +85,7 @@ For Japanese knotweed: crimson beauty, Mexican bamboo, Japanese fleeceflower
 
 Giant knotweed has a discontinuous distribution in North America. In eastern North America, giant knotweed occurs from Tennessee and North Carolina north into eastern Canada. Some states in the Great Lakes region (e.g., Indiana) and New England (e.g., New Hampshire) lack giant knotweed. Giant knotweed is also found in Louisiana. In western North America, giant knotweed occurs from California north to Alaska, with populations also in Idaho and Montana.
 
-![A photo of a person in an orange reflective vest leaning over into a tall, dense mass of green plants with white sprays of flowers.]({{ site.baseurl }}/assets/images/species-reviews/polspp_feis-polcus_stand.jpg)
+![A photo of a person in an orange reflective vest leaning over into a tall, dense mass of green plants with white sprays of flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-polcus_stand.jpg?itok=oYfoLtHB)
 
 Photo Credit
 
@@ -187,7 +187,7 @@ Bohemian knotweed is reported in riparian or wetland plant communities in New Yo
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification of giant and Japanese knotweed are available (e.g., [49,58,78,85,98,142]). For information on differentiating between giant, Japanese, and Bohemian knotweed, see the following: [7,43,153]. These 3 knotweeds are commonly confused [7,16,43,153].
 
-![A close up photo of a plant's wide, heart-shaped leaves and sprays of creamy white flowers.]({{ site.baseurl }}/assets/images/species-reviews/polspp_feis-polsac_flowers.jpg)
+![A close up photo of a plant's wide, heart-shaped leaves and sprays of creamy white flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-polsac_flowers.jpg?itok=IwHwm-Ci)
 
 Photo Credit
 
@@ -197,7 +197,7 @@ Giant knotweed flowers. (CC BY 3.0 US)
 
 Giant knotweed is a stout, rhizomatous, perennial geophyte (review by [7]). Observations from the Czech Republic suggest that giant knotweed roots grow "deep" into the soil. Rhizomes have a diameter of 3 inches (8 cm) and may spread 50 to 65 feet (15-20 m) laterally [79]. Giant knotweed stems are generally clustered, erect [42], hollow, and up to 13 feet (4 m) tall. Leaves are alternate, oval to oblong, and large, frequently 12 inches (30 cm) long, with a cordate base [121]. Flowers are white [94] or greenish and borne on axial or terminal racemes or panicles. Seeds are triangular achenes [121] with 3-mm long nutlets [94].
 
-![A photo of a plant that has been dug up to show its long, white, segmented rhizomes and clump of fibrous roots.]({{ site.baseurl }}/assets/images/species-reviews/polspp_feis-polcus_roots.jpg)
+![A photo of a plant that has been dug up to show its long, white, segmented rhizomes and clump of fibrous roots.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-polcus_roots.jpg?itok=kJPQcgwQ)
 
 Photo Credit
 
@@ -364,7 +364,7 @@ Giant [42,78,115], Japanese ([12,53,65,73,78,83,98,114,115], reviews by [11,88,1
 
 ## Plant Response to Fire
 
-![A photo of a burned forest with dead, blackened trees and a dense growth of a green, leafy plant growing around the dead trees.]({{ site.baseurl }}/assets/images/species-reviews/polspp_feis-polboh_postfire.jpeg)
+![A photo of a burned forest with dead, blackened trees and a dense growth of a green, leafy plant growing around the dead trees.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-polboh_postfire.jpeg?itok=n5qtTpzd)
 
 Photo Credit
 

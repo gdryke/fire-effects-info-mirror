@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Gulf and Atlantic coastal oak-pine communit
 
 ## Distribution
 
-![A map showing the distribution of Gulf and Atlantic coastal oak-pine communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/gulf-and-atlantic-coastal-oak-pine_feis-gulf_and_atlantic_coastal_oak_pine_locator.jpg)
+![A map showing the distribution of Gulf and Atlantic coastal oak-pine communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-gulf_and_atlantic_coastal_oak_pine_locator.jpg?itok=Qq8ACcbt)
 
 Photo Credit
 

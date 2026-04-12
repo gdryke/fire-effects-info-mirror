@@ -34,7 +34,7 @@ Howard, Janet L. 2003. _Sisymbrium altissimum_ , tall tumblemustard. In: Fire Ef
 
 ## Introduction
 
-![Close-up photo of an inflorescence with a small cluster of small yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/sisalt_feis-SISALT_flower.jpg)
+![Close-up photo of an inflorescence with a small cluster of small yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SISALT_flower.jpg?itok=bvLq7JNw)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Tall tumblemustard occurs in disturbed plant communities throughout most of the 
 
 ## Botanical and Ecological Characteristics
 
-![Photo of the flowering top of a green plant showing a branched inflorescence with small yellow flowers and long, narrow seed pods.]({{ site.baseurl }}/assets/images/species-reviews/sisalt_feis-SISALT_seeds.jpg)
+![Photo of the flowering top of a green plant showing a branched inflorescence with small yellow flowers and long, narrow seed pods.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SISALT_seeds.jpg?itok=4mBaGqSg)
 
 Photo Credit
 
@@ -440,7 +440,7 @@ Native Americans made meal from ground tumble mustard seeds. The greens can be u
 
 ## Impacts
 
-![Photo of a large field covered by a green plant with yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/sisalt_feis-SISALT_field1.jpg)
+![Photo of a large field covered by a green plant with yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SISALT_field1.jpg?itok=W1uyJhuB)
 
 Photo Credit
 

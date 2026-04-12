@@ -43,7 +43,7 @@ The scientific genus name for wolfstail is _Lycurus_ spp. Kunth (Poaceae) [4,35]
 
 ### Infrataxa
 
-![A photo of several grass spikes with bristly awns in front of a grassy area with dry, red, rocky slopes behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycspp_plant.jpeg)
+![A photo of several grass spikes with bristly awns in front of a grassy area with dry, red, rocky slopes behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lycspp_plant.jpeg?itok=nfbGzE_F)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Given this confusion, wolfstail species are not distinguished throughout the maj
 
 Wolfstail occurs as a native species in the southwestern United States, Mexico, and northern South America [4,36,43,71,75]. In North America, the distribution of wolfstail extends west from southeastern California to western Texas and Oklahoma and north to central Colorado and southern Utah [3,4,28,35]. A disjunct wolfstail population may exist in York County, Maine. This population likely originated from seed in wool from the Southwest [30,35]. Recent reports of wolfstail in Maine are lacking, however [4]. The distribution of wolfstail in North America is presented by the Plants Database.
 
-![A photo of flowering grass spikes growing in a grassland with a few scattered shrubs or succulents growing behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycspp_habitat.jpeg)
+![A photo of flowering grass spikes growing in a grassland with a few scattered shrubs or succulents growing behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lycspp_habitat.jpeg?itok=PQnUzp_7)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Wolfstail is a tufted perennial grass. Plants can be compressed, erect, or widely spreading at the base [4,19,25,71]. Stems are fine and grow 8 to 24 inches (20-60 cm) tall [17,30,75]. Wolfstail is short lived. On the Santa Rita Experimental Range in southern Arizona, the oldest wolfstail plants were 9 years old [18].
 
-![A photo of a spike-like panicle of a grass with bristly awns. Grass stems are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-lycspp_spike.jpeg)
+![A photo of a spike-like panicle of a grass with bristly awns. Grass stems are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-lycspp_spike.jpeg?itok=0v0VHBRF)
 
 Photo Credit
 

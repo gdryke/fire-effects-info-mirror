@@ -91,7 +91,7 @@ Wyoming| 8,500 to 10,600 feet (2,591-3,233 m)
  
 ## Plant Communities
 
-![A photo of an alpine landscape, focused on a low, prostrate shrub with red and yellow leaves that spreads far into the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaccae_habitat.jpeg)
+![A photo of an alpine landscape, focused on a low, prostrate shrub with red and yellow leaves that spreads far into the distance.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-vaccae_habitat.jpeg?itok=6dVSwJfE)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Dwarf bilberry has been listed as an indicator or dominant in the following clas
 
 ## Botanical Description
 
-![A close up photo of a shrub's round, blue fruits that resemble blueberries.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaccae_fruit.jpeg)
+![A close up photo of a shrub's round, blue fruits that resemble blueberries.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-vaccae_fruit.jpeg?itok=29JcL4hJ)
 
 Photo Credit
 

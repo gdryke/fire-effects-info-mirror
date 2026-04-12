@@ -52,7 +52,7 @@ buttonball, buttonbush, button willow, riverbush
 
 ## General Distribution
 
-![A map of North America with areas highlighted in green where common buttonbush occurs. Most of the eastern U.S. is highlighted as well as part of Mexico, and scattered areas in the southwest and California.]({{ site.baseurl }}/assets/images/species-reviews/feis-cepocc_map.jpg)
+![A map of North America with areas highlighted in green where common buttonbush occurs. Most of the eastern U.S. is highlighted as well as part of Mexico, and scattered areas in the southwest and California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cepocc_map.jpg?itok=k7evmJBU)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ United States| wetland cts| Cowardin & others 1979
 
 ## Botanical Description 
  
-![A photo of part of a leafy shrub, with two spherical clusters of puffy white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-cepocc_plant.jpg)
+![A photo of part of a leafy shrub, with two spherical clusters of puffy white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cepocc_plant.jpg?itok=NB2EWMui)
 
 Photo Credit
 

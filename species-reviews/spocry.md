@@ -34,7 +34,7 @@ Simonin, Kevin A. 2000. _Sporobolus cryptandrus_ , sand dropseed. In: Fire Effec
 
 ## Introduction
 
-![A photo of tall green and gold grasses growing in a field with several old trees growing in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-spocry_texas.jpg)
+![A photo of tall green and gold grasses growing in a field with several old trees growing in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-spocry_texas.jpg?itok=MKnbPhOL)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Sand dropseed occurs from British Columbia south to southern California and New 
 
 Sand dropseed occurs in several soil types [103,123,132] and elevations [123] with site characteristics varying according to region. Within the Nebraska sandhills, preferred sites are sandier areas [136] of dry valley bottoms and dune base slopes [47]. Clay soils [36,103], silty clay loam [36], sandy loam [34], sandy alluvial soils [71], and gravelly soils [31,123,130] are also inhabited. In general, open [102] and disturbed areas with permeable, sandy soils [69,70,102] are preferred. Dry sandy ridges and plains are preferred in south-central New Mexico [26]. In southern Ontario, dry prairies with coarse sand and sandy loam are preferred [41].
 
-![A photo of a small bunchgrass growing in dry, rocky soil with large amounts of bare ground. Sagebrush plants grow behind, and hills rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-spocry_greatbasin.jpeg)
+![A photo of a small bunchgrass growing in dry, rocky soil with large amounts of bare ground. Sagebrush plants grow behind, and hills rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-spocry_greatbasin.jpeg?itok=RvuX6j2M)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Sand dropseed is a warm-season [15,123], shallow-rooted [65], drought resistant 
 
 Sand dropseed is a polymorphic species [103,132]. Leaf blades range from 3 to 10 inches (8-25 cm) long and 8/100 to 2/10 of an inch (2-5 mm) wide [51]. The panicle is purplish to lead colored [91,98], with the inflorescence ranging 6 to 16 inches (15-40 cm) long [61,123] and 1 to 6 inches (2-15 cm) wide [123]. A sheath partially encloses the inflorescence [85].
 
-![A photo of a golden grass panicle with tiny fruits along wiry stems. The panicle is partially enclosed by the sheath.]({{ site.baseurl }}/assets/images/species-reviews/feis-spocry_panicle.jpeg)
+![A photo of a golden grass panicle with tiny fruits along wiry stems. The panicle is partially enclosed by the sheath.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-spocry_panicle.jpeg?itok=XnjXY3Fy)
 
 Photo Credit
 

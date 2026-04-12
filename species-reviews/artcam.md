@@ -103,7 +103,7 @@ _Artemisia campestris_ subsp. _caudata_ is widely distributed but is most common
 
 ## Site Characteristics
 
-![Photo of field sagewort in native habitat.]({{ site.baseurl }}/assets/images/species-reviews/artcam_feis-2stem_artcam.jpg)
+![Photo of field sagewort in native habitat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-2stem_artcam.jpg?itok=uFaEqGXQ)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Field sagewort is almost never a dominant species in vegetation classifications.
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [43,46,56,67,114,123]).
 
-![Photo of field sagewort growing in sandy soil.]({{ site.baseurl }}/assets/images/species-reviews/artcam_feis-singlestem.jpg)
+![Photo of field sagewort growing in sandy soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-singlestem.jpg?itok=5Bp1h0DL)
 
 Photo Credit
 

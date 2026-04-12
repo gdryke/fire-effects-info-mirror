@@ -34,7 +34,7 @@ Van Deelen, Timothy R. 1991. _Baccharis halimifolia_ , eastern baccharis. In: Fi
 
 ## Introduction
 
-![Photo of eastern baccharis.]({{ site.baseurl }}/assets/images/species-reviews/feis-bachal_plant_0.jpg)
+![Photo of eastern baccharis.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bachal_plant_0.jpg?itok=rlQ7nCqP)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ groundsel-tree, groundsel-bush, silverling, sea myrtle, salt bush, buckbrush, co
 
 ## General Distribution
 
-![Map of the southeastern United States showing the distribution of eastern baccharis, primarily along the coast.]({{ site.baseurl }}/assets/images/species-reviews/feis-bachal_map.jpg)
+![Map of the southeastern United States showing the distribution of eastern baccharis, primarily along the coast.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bachal_map.jpg?itok=7La6s77r)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Detailed descriptions of eastern baccharis plant communities are lacking. When p
 
 ## Botanical Description
 
-![Photo of eastern baccharis in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-bachal_plant.jpeg)
+![Photo of eastern baccharis in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-bachal_plant.jpeg?itok=un8eQ-w_)
 
 Photo Credit
 

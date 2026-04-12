@@ -38,7 +38,7 @@ Tirmenstein, D. 1999. _Achnatherum hymenoides_ , Indian ricegrass. In: Fire Effe
 
 The fully documented scientific name of Indian ricegrass is _Achnatherum hymenoides_ (Roemer & J.A. Schultes.) Barkworth [55]. Indian ricegrass hybridizes with various needlegrasses (_Stipa_ spp. _sensu lato_) including green needlegrass (_Nassella viridula_) [65]. _Achnatherum contractum_ is a fertile derivative of an Indian ricegrass × smilo grass (_Piptatherum micranthum_) cross [10].
 
-[![A photo of a bunchgrass growing on rocky soils on a cliffside.]({{ site.baseurl }}/assets/images/species-reviews/feis-achhym_plant2.jpg)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Indian ricegrass growing in Moapa Valley, Nevada.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass growing on rocky soils on a cliffside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-achhym_plant2.jpg?itok=bZpl0m_C)Photo Credit Photo by Dominic Gentilcore, iNaturalist (CC BY 4.0). Indian ricegrass growing in Moapa Valley, Nevada.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Synonyms
 
@@ -67,7 +67,7 @@ Indian ricegrass is widely distributed throughout the western United States. [18
 
 Indian ricegrass grows on dry foothills, rocky valley or upper slopes, plains, and ridges [58,61,99]. It is moderately tolerant of both alkali and salt, and is adapted to soils of low fertility [29, 88]. This species is particularly well adapted to sand and attains greatest abundance on loose sandy soils where it forms almost pure stands [29,60,58]. Indian ricegrass dominates sandy soils throughout the sagebrush-grass zone [124]. Soils supporting Indian ricegrass range in texture from coarse sand to heavy clay [94]. It is also found on shallow shale soils [61].
 
-[![A photo of a bunchgrass with airy panicles growing on reddish, sandy soil with shrubs and grasses in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-achhym_stand.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Indian ricegrass growing in Vermilion Cliffs National Monument, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass with airy panicles growing on reddish, sandy soil with shrubs and grasses in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-achhym_stand.jpg?itok=cEcOGHsp)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Indian ricegrass growing in Vermilion Cliffs National Monument, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Indian ricegrass grows in arid and semiarid climates throughout the Intermountain West [53]. It grows mostly in areas with mesic temperature regimes and arid moisture regimes [92].
 
@@ -108,7 +108,7 @@ Indian ricegrass has been described as an indicator or dominant species in the f
 
 Indian ricegrass is a hardy, cool-season, densely tufted, native perennial bunchgrass that grows from 4 to 24 inches (10-61 cm) in height [18,23,83]. Plant spread is estimated at 8 to 12 inches (20-30 cm) [61]. When mature, seedstalks are open, loosely branched, or with lacy tops [60]. Spikes are erect and range from 0.8 to 2.8 inches (2-7 cm) in length [18]. Indian ricegrass has deep, fibrous, extensive roots and is one of the most drought tolerant of the native range grasses [61,83,123]. The common name is derived from seeds that resemble grains of rice [83,111].
 
-[![A photo of a bunchgrass with airy panicles growing in rocky soil, with shrubs and yellow-flowered forbs visible in the background. Bare ground is visible between plants and mountains rise in the background under cloudy skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-achhym_plant.jpg)Photo Credit Photo by Dawn Nelson, iNaturalist (CC BY 4.0). Indian ricegrass growing in Clark County, Nevada.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass with airy panicles growing in rocky soil, with shrubs and yellow-flowered forbs visible in the background. Bare ground is visible between plants and mountains rise in the background under cloudy skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-achhym_plant.jpg?itok=_v4czOXT)Photo Credit Photo by Dawn Nelson, iNaturalist (CC BY 4.0). Indian ricegrass growing in Clark County, Nevada.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

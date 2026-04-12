@@ -78,7 +78,7 @@ Roundleaf greenbrier occurs in old fields with black locust (Robinia pseudoacaci
 
 Roundleaf greenbrier is a native liana that uses tendrils to climb 10 to 20 feet (3-6 m). The leathery leaves are deciduous, although sometimes tardily so in the southeastern states. The stems are usually quadrangular and diffusely branched with flattened prickles up to 0.3 inches (0.8 cm) long. The fruit is a berry [13,14,31,40]. Roundleaf greenbrier has long, slender, nontuberous rhizomes near the soil surface [14,15,24]. Roundleaf greenbrier canes live 2 to 4 years [15].
 
-![Cluster of shiny, tear-drop shaped, green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-smirot_leaves1.jpg)
+![Cluster of shiny, tear-drop shaped, green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-smirot_leaves1.jpg?itok=9cMLht8x)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ On mesic sites in Connecticut dominated by shrubs, roundleaf greenbrier clones a
 
 Roundleaf greenbrier produces some fruit every year [30]. Seeds are dispersed by animals and water [26]. Seeds often germinate when disturbance increases the amount of light on the soil and brings buried seeds to the surface [30]. Pogge and Bearce [30] tested roundleaf greenbrier seeds for total and potential germination. Exposure to light substantially increased germination. Seeds stored for 5 years at 36 to 45 degrees Fahrenheit (2-7 deg C) and about 2 percent moisture content had high viability.
 
-![Sparse cluster of purple berries amidst dense, leafless branches and twigs.]({{ site.baseurl }}/assets/images/species-reviews/feis-smirot_fruits1.jpg)
+![Sparse cluster of purple berries amidst dense, leafless branches and twigs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-smirot_fruits1.jpg?itok=4Wf5M_I3)
 
 Photo Credit
 

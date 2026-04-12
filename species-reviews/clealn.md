@@ -34,7 +34,7 @@ Coladonato, Milo. 1991. _Clethra alnifolia_ , coastal sweetpepperbush. In: Fire 
 
 ## Image Gallery
 
-![Photo of some slender branches with large, oval green leaves, and white flower heads at the ends of branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-clealn_plant.jpg) Sweet pepperbush. _Photo by Dan Wilder, iNaturalist.org, no rights reserved._
+![Photo of some slender branches with large, oval green leaves, and white flower heads at the ends of branches.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-clealn_plant.jpg) Sweet pepperbush. _Photo by Dan Wilder, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Dan Wilder, iNaturalist.org, no rights reserved.
 
@@ -81,7 +81,7 @@ Common overstory associates include cypress (_Taxodium_ spp.), Atlantic white-ce
 
 ## Botanical Description
 
-![Photo of some slender branches with large, oval green leaves, and white flower heads at the ends of branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-clealn_plant.jpg)
+![Photo of some slender branches with large, oval green leaves, and white flower heads at the ends of branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-clealn_plant.jpg?itok=G20ziugn)
 
 Photo Credit
 

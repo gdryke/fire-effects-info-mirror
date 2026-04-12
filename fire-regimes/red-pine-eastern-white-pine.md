@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for red pine-eastern white pine communities has
 
 ## Distribution
 
-![A map showing the distribution of red pine-eastern white pine communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/red-pine-eastern-white-pine_feis-red_pine_eastern_white_pine_locator.jpg)
+![A map showing the distribution of red pine-eastern white pine communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-red_pine_eastern_white_pine_locator.jpg?itok=ZrlfcIYd)
 
 Photo Credit
 

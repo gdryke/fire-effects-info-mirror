@@ -34,7 +34,7 @@ Howard, Janet L. 1992. _Pickeringia montana_ , chaparral pea. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of flowering chaparral pea.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmon_plant.jpeg) Chaparral pea. _Photo by Marcus Tamura, iNaturalist.org, no rights reserved._
+![Photo of flowering chaparral pea.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-picmon_plant.jpeg) Chaparral pea. _Photo by Marcus Tamura, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Marcus Tamura, iNaturalist.org, no rights reserved.
 

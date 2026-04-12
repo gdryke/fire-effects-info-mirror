@@ -68,7 +68,7 @@ In Colorado, prairie dropseed grows at elevations between 5,300 and 7,200 feet (
 
 Soil types in Kansas include shallow, cherty, clay loams and deep silty, clay loams [15]. In North Dakota prairie dropseed grows in Hamerly and Barnes soil types in moderately drained rolling plains [24].
 
-[![A tussock grass in a field of grasses and forbs.]({{ site.baseurl }}/assets/images/species-reviews/spohet_spohet_community.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Prairie dropseed in a field in Minnesota.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A tussock grass in a field of grasses and forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spohet_community.jpeg?itok=cS9BPlxV)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Prairie dropseed in a field in Minnesota.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Plant Communities
 
@@ -90,7 +90,7 @@ Prairie dropseed is a native, perennial, sod-forming, warm-season grass. It is 1
 
 Prairie dropseed flowers and fruits from August through November [12,23].
 
-[![A close-up of a golden-colored, airy grass panicle with seeds against a dark green and black background.]({{ site.baseurl }}/assets/images/species-reviews/spohet_spohet_repro.jpeg)Photo Credit Photo by florawhite, iNaturalist (CC BY 4.0). Prairie dropseed in fruit.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up of a golden-colored, airy grass panicle with seeds against a dark green and black background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spohet_repro.jpeg?itok=Onh1wfUj)Photo Credit Photo by florawhite, iNaturalist (CC BY 4.0). Prairie dropseed in fruit.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Regeneration Processes
 
@@ -119,7 +119,7 @@ No entry.
 
 Prairie dropseed sprouts and generally increases following fire [1,2,3,7,10,16,17].
 
-[![A burned, blackened tussock grass with many thin green leaves resprouting from the tussock. More resprouting tussocks are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/spohet_spohet_resprout.jpg)Photo Credit Photo by Peter Chen 2.0, iNaturalist (CC BY 4.0). Postfire sprouting by prairie dropseed.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A burned, blackened tussock grass with many thin green leaves resprouting from the tussock. More resprouting tussocks are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/spohet_resprout.jpg?itok=XnTURXAI)Photo Credit Photo by Peter Chen 2.0, iNaturalist (CC BY 4.0). Postfire sprouting by prairie dropseed.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In most prescribed burning studies prairie dropseed was shown to increase in flower production, height, and cover. It has been described as an increaser following spring or winter fires [17]. Following an April wildfire in Wisconsin, flower production increased by 25 times, cover by 30 times, and average plant height by 4 inches (10 cm) [7]. Other studies on the effects of prescribed burning have shown similar results [3,10]. Prairie dropseed appears to increase when burned during winter and spring and decrease when burned during summer or fall [2,16]. Annual fires are less beneficial to prairie dropseed than fires conducted every 2 to 3 years [1].
 

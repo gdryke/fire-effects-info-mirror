@@ -82,7 +82,7 @@ Southern Sierra Nevada| 7,000-9,000| 2,200-3,000
  
 ## Plant Communities
 
-![A photo of several very tall, narrow conifer trees with reddish-brown bark on a steep hillside. Other conifers are visible and the ground is open with some rock and low ground cover. There is a large lake in the distance]({{ site.baseurl }}/assets/images/species-reviews/feis-abimag_habitat.jpeg)
+![A photo of several very tall, narrow conifer trees with reddish-brown bark on a steep hillside. Other conifers are visible and the ground is open with some rock and low ground cover. There is a large lake in the distance](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abimag_habitat.jpeg?itok=hkbjUqTo)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Understory species differ greatly in different habitats [14]. Associated shrubs 
 
 ## Botanical Description
 
-![A photo of the crown of a conifer tree with short, pale green needles and large, upright tan cones. The background is blue sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-abimag_cones.jpeg)
+![A photo of the crown of a conifer tree with short, pale green needles and large, upright tan cones. The background is blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-abimag_cones.jpeg?itok=BOWQ7jzl)
 
 Photo Credit
 

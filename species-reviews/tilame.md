@@ -67,7 +67,7 @@ basswood, linden
 
 ## General Distribution
 
-![Three maps side showing the distributions of three variants of American basswood. In each, a portion of the eastern and southern U.S. are highlighted, with overlap among all three variants.]({{ site.baseurl }}/assets/images/species-reviews/feis-tilame_maps.jpg)
+![Three maps side showing the distributions of three variants of American basswood. In each, a portion of the eastern and southern U.S. are highlighted, with overlap among all three variants.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2025-08/feis-tilame_maps.jpg?itok=173lBYgf)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ The native range of American basswood extends from southwestern New Brunswick an
 
 ## Site Characteristics
 
-![A photo of a stand of trees in a forest with straight, even trunks and no branches until high in the tree. There are no plants, just dead leaves on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-tilame_stand.jpg)
+![A photo of a stand of trees in a forest with straight, even trunks and no branches until high in the tree. There are no plants, just dead leaves on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tilame_stand.jpg?itok=7mJiHlAn)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Publications in which American basswood is listed as a dominant, codominant, or 
 
 ## Botanical Description
 
-![A photo of a tree's broad, pointed leaves and small, round hanging fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-tilame_fruits.jpg)
+![A photo of a tree's broad, pointed leaves and small, round hanging fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tilame_fruits.jpg?itok=M2txRkEY)
 
 Photo Credit
 

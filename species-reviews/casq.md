@@ -34,7 +34,7 @@ Sullivan, Janet. 1994. _Callipepla squamata_ , scaled quail. In: Fire Effects In
 
 ## Image Gallery
 
-![A scaled quial on rocky ground with pricklypear in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-casq_scaled-quail.jpg) Scaled quail. _Photo by Dominic Sherony and courtesy of Wikimedia Commons, with some rights reserved (CC BY-SA 2.0)._
+![A scaled quial on rocky ground with pricklypear in the background.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-casq_scaled-quail.jpg) Scaled quail. _Photo by Dominic Sherony and courtesy of Wikimedia Commons, with some rights reserved (CC BY-SA 2.0)._
 
 Photo Credit: Photo by Dominic Sherony and courtesy of Wikimedia Commons, with some rights reserved (CC BY-SA 2.0).
 

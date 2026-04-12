@@ -34,7 +34,7 @@ Matthews, Robin F. 1993. _Calluna vulgaris_. In: Fire Effects Information System
 
 ## Image Gallery
 
-![Photo of heather in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-calvul_plant.jpeg) Heather. _Photo by mnt99york, iNaturalist.org, no rights reserved._
+![Photo of heather in bloom.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-calvul_plant.jpeg) Heather. _Photo by mnt99york, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by mnt99york, iNaturalist.org, no rights reserved.
 
@@ -79,7 +79,7 @@ Some common plant associates of heather in Europe include Scotch pine (Pinus syl
 
 ## Botanical Description
 
-![Photo of heather in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-calvul_plant.jpeg)
+![Photo of heather in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-calvul_plant.jpeg?itok=-QhhrET3)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Gucker, Corey L. 2004. _Vachellia constricta_ , whitethorn acacia. In: Fire Effe
 
 ## Image Gallery
 
-![Photo of whitethorn acacia plant with yellow blooms growing in a pasture.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaccon_flowers.jpg) Whitethorn acacia _photo by Chris & Pamela Pipes, iNaturalist.org, no rights reserved._
+![Photo of whitethorn acacia plant with yellow blooms growing in a pasture.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-vaccon_flowers.jpg) Whitethorn acacia _photo by Chris & Pamela Pipes, iNaturalist.org, no rights reserved._
 
 Photo Credit: photo by Chris & Pamela Pipes, iNaturalist.org, no rights reserved.
 
@@ -96,7 +96,7 @@ Grasses that are commonly found with whitethorn acacia in desert grassland commu
 
 ## Botanical and Ecological Characteristics
 
-![Photo of whitethorn acacia plant with yellow blooms growing in a pasture.]({{ site.baseurl }}/assets/images/species-reviews/feis-vaccon_flowers.jpg)
+![Photo of whitethorn acacia plant with yellow blooms growing in a pasture.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-vaccon_flowers.jpg?itok=BEjJPXUL)
 
 Photo Credit
 

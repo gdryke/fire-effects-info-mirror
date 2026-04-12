@@ -135,7 +135,7 @@ Of 299 banded immature female interior band-tailed pigeons in Colorado, the mean
 
 ## Habitat
 
-![A photo of a group of gray pigeons sitting in the branches of a tree.]({{ site.baseurl }}/assets/images/species-reviews/pafa_feis-PAFA_flock2.jpg)
+![A photo of a group of gray pigeons sitting in the branches of a tree.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-PAFA_flock2.jpg?itok=WTFpZfej)
 
 Photo Credit
 
@@ -157,7 +157,7 @@ Interior band-tailed pigeons in Colorado prefer to nest in forests dominated by 
 
 Food plays a major role in band-tailed pigeon ecology. It influences distribution [64] and the initiation and duration of the nesting season [43,64]. Band-tailed pigeons are highly mobile [46,52,85] and locate food easily [85]. More than 98% of the band-tailed pigeon diet is vegetarian [46]. Band-tailed pigeons feed on more than 97 plant species, and food choices change seasonally [46]; however, feeding is usually restricted to 1 abundant food item even when other foods are available [46,85].
 
-![A photo of three gray pigeons in a mulberry tree. One pigeon has a ripe mulberry in its beak.]({{ site.baseurl }}/assets/images/species-reviews/feis-pafa_mulberries.jpg)
+![A photo of three gray pigeons in a mulberry tree. One pigeon has a ripe mulberry in its beak.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-pafa_mulberries.jpg?itok=6OymhOjp)
 
 Photo Credit
 
@@ -173,7 +173,7 @@ While nesting, Pacific band-tailed pigeons in western Oregon feed almost exclusi
 
 The band-tailed pigeon uses mineral sites [43,46,66,75]; however, the use is not a universal trait among band-tailed pigeons [43], and the availability of mineral sites is not a limiting factor in the population size of Pacific band-tailed pigeons [74]. Mineral site use is uncommon for interior band-tailed pigeons in Colorado [14]. Mineral sites are used primarily during the nesting season [43,53,54,66] and may be used in response to social stimuli [43].
 
-![A photo of a flock of pigeons gathered in a small, wet, gravelly depression in a grassy field. Many pigeons are standing and others are flying.]({{ site.baseurl }}/assets/images/species-reviews/feis-pafa_mineralsite.jpeg)
+![A photo of a flock of pigeons gathered in a small, wet, gravelly depression in a grassy field. Many pigeons are standing and others are flying.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-pafa_mineralsite.jpeg?itok=rbZyeYFz)
 
 Photo Credit
 

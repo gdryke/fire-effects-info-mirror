@@ -52,7 +52,7 @@ triangle bursage
 
 Triangle bur ragweed occurs throughout much of the Sonoran Desert. It extends southward from southwestern Arizona into Sonora and Baja California, Mexico [2,3,16,24,27].
 
-![Photo of map distribution of triangle bur ragweed in Arizona.]({{ site.baseurl }}/assets/images/species-reviews/feis-ambdel_map.png)
+![Photo of map distribution of triangle bur ragweed in Arizona.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ambdel_map.png?itok=4C7Tco6b)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Other species associated with triangle bur ragweed but not previously mentioned 
 
 ## Botanical Description
 
-![photo of triangle bur ragweed.]({{ site.baseurl }}/assets/images/species-reviews/feis-ambdel_plant.jpg)
+![photo of triangle bur ragweed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-ambdel_plant.jpg?itok=MlOOoU7R)
 
 Photo Credit
 

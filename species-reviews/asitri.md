@@ -48,7 +48,7 @@ custard apple, dog banana, Indian banana, false-banana, pawpaw-apple, fetid-shru
 
 ## Distribution
 
-![A photo of two small, slender trees with wide leaves in front several of broad, straight trunks of much larger trees. There is a trail between the trees leading into shady forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-asitri_habitat.jpg)
+![A photo of two small, slender trees with wide leaves in front several of broad, straight trunks of much larger trees. There is a trail between the trees leading into shady forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-asitri_habitat.jpg?itok=VHKtm0th)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Common tree associates include blackgum (_Nyssa sylvatica_), Ohio buckeye (_Aesc
 
 ## Botanical Description
 
-![A photo of a cluster of oblong, pale green fruits surrounded by dark green, pointed leaves. The fruits are partly in the sun but the rest of the photo is in deep shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-asitri_fruit.jpeg)
+![A photo of a cluster of oblong, pale green fruits surrounded by dark green, pointed leaves. The fruits are partly in the sun but the rest of the photo is in deep shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-asitri_fruit.jpeg?itok=OOtj76lm)
 
 Photo Credit
 

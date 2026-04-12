@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for coastal sage scrub communities has not yet 
 
 ## Distribution
 
-![A map showing the distribution of coastal sage scrub communities in California and Oregon.]({{ site.baseurl }}/assets/images/fire-regimes/coastal-sage-scrub_feis-coastal_sage_scrub_locator.jpg)
+![A map showing the distribution of coastal sage scrub communities in California and Oregon.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-coastal_sage_scrub_locator.jpg?itok=2D80RWga)
 
 Photo Credit
 

@@ -139,7 +139,7 @@ Nonforested communities in southern Florida are also subject to melaleuca coloni
 
 There are some accounts suggesting certain habitats are more susceptible to melaleuca invasion than are others. According to Myers and others [50,51,52], melaleuca is most likely to "displace native vegetation" in the ecotone between south Florida slash pine flatwoods and pond cypress forest (for further discussion about invasibility of the pine-cypress ecotone see Impacts), and around the edges of cypress (_Taxodium_ spp.) domes and strands. Moist pine flatwoods in some areas of southern Florida have been "extensively" invaded by melaleuca, while more northern or drier flatwoods appear less vulnerable to invasion [1].
 
-![A stand of tall, straight trees with pale, peeling bark and pointed green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-melqui_stand.jpeg)
+![A stand of tall, straight trees with pale, peeling bark and pointed green leaves.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-melqui_stand.jpeg?itok=hoqxegme)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Leathery leaves are mostly 2 to 5 inches (4-12 cm) long and 0.4 to 2 inches (1-6
 
 Inflorescences are densely flowered spikes 1 to 4 inches (3-10 cm) long. After flowering, twigs continue to elongate from the ends of spikes, producing either foliage or more flowers [9,30,42,48]. Borne terminally, growth flushes typically alternate between inflorescences and foliage [48]. Fruits are woody capsules, 0.2 inch (0.4 cm) in length and width, persistent up to a year [9,31]. Twigs and branches may contain 12 or more infructescences, each containing 30 to 70 aggregated capsules, separated by a series of leaves or bud scales [48,74].
 
-![A photo of a woody stem with long, pointed green leaves and small woody pods attached to the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-melqui_seedpods.jpeg)
+![A photo of a woody stem with long, pointed green leaves and small woody pods attached to the stem.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-01/feis-melqui_seedpods.jpeg?itok=s9Baa7Ks)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ Melaleuca exhibits several morphological and physiological responses to flooding
 
 In Florida, flowering may occur throughout the year, with heaviest blooming during the wet season (June-November), and sporadic flowering during the dry season (December-May) [50]. Meskimen [48] suggested that heavy rainfall may trigger flowering. Individual trees may bloom from 2 to 5 times per year and individual twigs 3+ times per year [30,48]. Pronounced region-wide flowering occurs at least twice per year [30]. Over 2 seasons at 6 sites in southern Florida, Van and others [100] observed that flowering began in October and November, with peak flower production from November to January, and was mostly completed by February and March. Flowering phenology may vary across a landscape or even within a stand (reviewed by [48]), and may be influenced by soil type [30]. Individual trees may be in flower while the surrounding stand is not [48].
 
-![A photo of a tree overhanging a steep hillside covered in puffy white flowers. The other side of the hill is covered in lush green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-melqui_flowers.jpeg)
+![A photo of a tree overhanging a steep hillside covered in puffy white flowers. The other side of the hill is covered in lush green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-melqui_flowers.jpeg?itok=aNZiXSps)
 
 Photo Credit
 
@@ -323,7 +323,7 @@ See Revegetation for a discussion of "forced succession" as a control method.
 
 ## Immediate Fire Effects
 
-![A photo of a stand of tall, straight trees on fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-melqui_burning.jpg)
+![A photo of a stand of tall, straight trees on fire.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-melqui_burning.jpg?itok=FsXZ3EGz)
 
 Photo Credit
 
@@ -355,7 +355,7 @@ Melaleuca possesses several traits that permit its survival following fire, and 
 
 Two distinct characteristics of melaleuca bark are considered important fire adaptations. First, the thick, spongy, multilayered bark can hold considerable moisture, particular within the innermost layers. This protects the cambium from heat damage during a fire [24,51,94,96,102], allowing the plant to recover via epicormic sprouting along sections of undamaged stem (see Plant Response to Fire). The thickest, most moisture-laden bark is found around the bole and large branches of mature trees, and cambium underlying such bark is well protected. Younger, thinner branches on mature trees and most bark-covered surfaces on younger plants are more susceptible to heat-damaged cambium [52]. Only tissues within "a few millimeters" of the bark surface are susceptible [48]. According to Van and others (unpublished data, as cited in [99]), "large" variations in melaleuca bark thickness have been observed "at different sites" in southern Florida.
 
-![A photo of a stand of severely burned trees, with blackened bark. No living vegetation is visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-melqui_postfire.jpg)
+![A photo of a stand of severely burned trees, with blackened bark. No living vegetation is visible.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-melqui_postfire.jpg?itok=dvN8lP0r)
 
 Photo Credit
 

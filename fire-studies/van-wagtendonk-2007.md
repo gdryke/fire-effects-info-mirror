@@ -54,7 +54,7 @@ PINPONP| Columbia ponderosa pine| _Pinus ponderosa var. ponderosa_| **Life Form:
 
 ## Image Gallery
 
-![A photo of relatively dense, low shrubs with white flowers growing in front of a stand of conifers.]({{ site.baseurl }}/assets/images/fire-studies/van-wagtendonk-2007_feis-van_wagtendonk_1977_hero.jpg) Sierra mountain misery growing with a conifers overstory in Yosemite National Park (CC BY-NC 4.0). _Photo by therold, iNaturalist.org, some rights reserved._ 
+![A photo of relatively dense, low shrubs with white flowers growing in front of a stand of conifers.](https://research.fs.usda.gov/sites/default/files/2026-02/feis-van_wagtendonk_1977_hero.jpg) Sierra mountain misery growing with a conifers overstory in Yosemite National Park (CC BY-NC 4.0). _Photo by therold, iNaturalist.org, some rights reserved._ 
  
 Photo Credit: Photo by therold, iNaturalist.org, some rights reserved.
 

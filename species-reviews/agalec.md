@@ -34,7 +34,7 @@ Gucker, Corey L. 2006. _Agave lechuguilla_ , lechuguilla. In: Fire Effects Infor
 
 ## Introduction
 
-![A photo of several agave plants, comprised of low, tight clusters of sharp, bright green leaves, growing with a variety of desert shrubs and beavertail cacti. Several agave have very tall, narrow stalks growing from their centers. Dry, cliffy mountains rise in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-agalec_plant.jpg)
+![A photo of several agave plants, comprised of low, tight clusters of sharp, bright green leaves, growing with a variety of desert shrubs and beavertail cacti. Several agave have very tall, narrow stalks growing from their centers. Dry, cliffy mountains rise in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-agalec_plant.jpg?itok=OFRwzZsX)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Below are the average soil element levels taken from lechuguilla root zones in C
  
 ## Plant Communities
 
-![A photo of a desert flatland dominated by clusters of light green agave plants, with each cluster presumably comprised of a single individual with clones. Stretches of bare ground occur between clusters and a few dried subshrubs and bunchgrasses grow with the lechuguilla.]({{ site.baseurl }}/assets/images/species-reviews/feis-agalec_community.jpg)
+![A photo of a desert flatland dominated by clusters of light green agave plants, with each cluster presumably comprised of a single individual with clones. Stretches of bare ground occur between clusters and a few dried subshrubs and bunchgrasses grow with the lechuguilla.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-agalec_community.jpg?itok=06KsKMWx)
 
 Photo Credit
 
@@ -171,7 +171,7 @@ Many morphological and physiological adaptations allow lechuguilla to persist in
 
 Lechuguilla flowers are common from May to June throughout its range [23,44]. However, flower production may occur outside of these months. Populations studied in 1996 in northern Mexico flowered in early September, later than southern populations, which flowered in early July [65].
 
-![A photo of numerous flowers growing along a thick, green stalk, with purplish filaments and bright yellow anthers. Tiny beetles are visible crawling amongst the upper flowers, and a hovering fly investigates some lower flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-agalec_flowers.jpg)
+![A photo of numerous flowers growing along a thick, green stalk, with purplish filaments and bright yellow anthers. Tiny beetles are visible crawling amongst the upper flowers, and a hovering fly investigates some lower flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-agalec_flowers.jpg?itok=a6y-nkKy)
 
 Photo Credit
 
@@ -245,7 +245,7 @@ Some suggest that lechuguilla's presence in grama (_Bouteloua_ spp.) grasslands 
 
 ## Immediate Fire Effects
 
-![A photo of a recently burned area, with blackened soil and blackened bases of bunchgrasses and forbs. A few bare branches are visible, as are three yellowed agave plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-agalec_burned.jpeg)
+![A photo of a recently burned area, with blackened soil and blackened bases of bunchgrasses and forbs. A few bare branches are visible, as are three yellowed agave plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-agalec_burned.jpeg?itok=OdmZ-x2z)
 
 Photo Credit
 

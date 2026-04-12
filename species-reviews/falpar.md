@@ -40,7 +40,7 @@ The currently accepted name of Apache-plume is _Fallugia paradoxa_ (D. Don) Endl
 
 Hybrids of Apache-plume with Mexican cliffrose (_Purshia mexicana_ var. _mexicana_) occur in the Kaibab National Forest in Arizona [7] and a few putative hybrids between Stansbury cliffrose (_Purshia mexicana_ var. _stansburiana_) and Apache-plume have been located [34].
 
-![A photo of a large shrub with scattered white flowers and purplish tufts of seeds. A dry hill covered with widely-spaced small conifers rises in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-falpar_plant.jpg)
+![A photo of a large shrub with scattered white flowers and purplish tufts of seeds. A dry hill covered with widely-spaced small conifers rises in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-falpar_plant.jpg?itok=_pYpL4nm)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Apache-plume occurs in Arizona, southern California, Colorado, Nevada, New Mexic
  * United States: AZ CA CO ID NV NM OR TX UT
  * Mexico
 
-![A photo of a fruiting Apache-plume shrubs growing in a dry, rocky drainage with other shrubs. The seed plumes that give Apache-plume its name catch the sun and are bright white. Rocky hills rise behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-falpar_sitechars.jpg)
+![A photo of a fruiting Apache-plume shrubs growing in a dry, rocky drainage with other shrubs. The seed plumes that give Apache-plume its name catch the sun and are bright white. Rocky hills rise behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-falpar_sitechars.jpg?itok=GDrTRZk-)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Apache-plume is not listed as a dominant for any habitat type. However, it appea
  2. pinyon pine/Apache-plume in high sun cold climate types
  3. one-seed juniper/Apache-plume/_Parmelia neoconspersa malpais_ (a lichen) in high sun cold climate types.
 
-![A photo of a fruiting Apache-plume shrub with many seed plums. Seral shrubs including rabbitbrush and forbs grow next to the Apache-plume and sagebrush dominates behind a barbed wire fence in the background. Blue mountains are silhouetted in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-falpar_habitat.jpeg)
+![A photo of a fruiting Apache-plume shrub with many seed plums. Seral shrubs including rabbitbrush and forbs grow next to the Apache-plume and sagebrush dominates behind a barbed wire fence in the background. Blue mountains are silhouetted in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-falpar_habitat.jpeg?itok=SObuyKpJ)
 
 Photo Credit
 
@@ -146,7 +146,7 @@ Apache-plume is part of the shrub understory in the Emory oak/Mexican pinyon (_Q
 
 ## Botanical and Ecological Characteristics
 
-![A close-up photo of seed plumes of Apache-plume and its small leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-falpar_botanicalchars.jpg)
+![A close-up photo of seed plumes of Apache-plume and its small leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-falpar_botanicalchars.jpg?itok=Bfck28VR)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ Leader growth for 2 years, in inches, of Apache-plume during the study in Boise 
 ---|---|---|---|---|---|---|--- 
 **1980**| May 13, 1.1| June 03, 2.6| June 12, 3.7| June 26, 3.8| July 21, 4.4| Aug. 12, 6.2| — 
  
-![A photo of Apache-plume fruits and a flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-falpar_fruitflower.jpg)
+![A photo of Apache-plume fruits and a flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-falpar_fruitflower.jpg?itok=eIM60ZEl)
 
 Photo Credit
 

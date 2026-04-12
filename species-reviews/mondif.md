@@ -34,7 +34,7 @@ Matthews, Robin F. 1993. _Montia diffusa_ , spreading minerslettuce. In: Fire Ef
 
 ## Image Gallery
 
-![Map of the distribution of spreading minerslettuce.]({{ site.baseurl }}/assets/images/species-reviews/feis-mondif_map.jpg) Distribution of spreading minerslettuce. _Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, May 30] [10]._
+![Map of the distribution of spreading minerslettuce.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-mondif_map.jpg) Distribution of spreading minerslettuce. _Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, May 30] [10]._
 
 Photo Credit: Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, May 30] [10].
 
@@ -60,7 +60,7 @@ branching montia
 
 Spreading minerslettuce is distributed primarily west of the Cascade-Sierra Nevada crest from British Columbia to northwestern California [4,7,11].
 
-![Map of the distribution of spreading minerslettuce.]({{ site.baseurl }}/assets/images/species-reviews/feis-mondif_map.jpg)
+![Map of the distribution of spreading minerslettuce.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-mondif_map.jpg?itok=W8VRUreu)
 
 Photo Credit
 

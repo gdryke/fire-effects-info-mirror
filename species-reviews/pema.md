@@ -34,7 +34,7 @@ Sullivan, Janet. 1995._Peromyscus maniculatus_ , North American deermouse. In: F
 
 ## Image Gallery
 
-![Deer mouse hanging from plant stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-pema.jpeg) North American deermouse (Peromyscus maniculatus) _Photo by Mike Budd, US Fish and Wildlife Service, Public Domain_
+![Deer mouse hanging from plant stem.](https://research.fs.usda.gov/sites/default/files/2025-10/feis-pema.jpeg) North American deermouse (Peromyscus maniculatus) _Photo by Mike Budd, US Fish and Wildlife Service, Public Domain_
 
 Photo Credit: Photo by Mike Budd, US Fish and Wildlife Service, Public Domain
 
@@ -96,7 +96,7 @@ In the following states, North American deermice were listed in the specified ve
 
 ## Biological Characteristics
 
-![Deer mouse hanging from plant stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-pema.jpeg)
+![Deer mouse hanging from plant stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-10/feis-pema.jpeg?itok=g934C-iH)
 
 Photo Credit
 

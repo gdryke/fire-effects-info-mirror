@@ -34,7 +34,7 @@ Meyer, Rachelle. 2008. _Acronicta albarufa_ , barrens dagger moth. In: Fire Effe
 
 ## Image Gallery
 
-![A photo of a gray-brown moth specimen, held in place by a pin, with a tag behind it that says "New Mexico" and other words that are covered by the moth.]({{ site.baseurl }}/assets/images/species-reviews/feis-acal_photo.jpeg) A barrens dagger moth specimen from Otero County, New Mexico, where it is thought to be extirpated.(CC BY-NC 4.0) _Photo by Paul Dennehy, iNaturalist.org, some rights reserved._
+![A photo of a gray-brown moth specimen, held in place by a pin, with a tag behind it that says "New Mexico" and other words that are covered by the moth.](https://research.fs.usda.gov/sites/default/files/2026-01/feis-acal_photo.jpeg) A barrens dagger moth specimen from Otero County, New Mexico, where it is thought to be extirpated.(CC BY-NC 4.0) _Photo by Paul Dennehy, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Paul Dennehy, iNaturalist.org, some rights reserved.
 
@@ -68,7 +68,7 @@ Barrens dagger moths generally occur in oak (_Quercus_ spp.) or pine (_Pinus_ sp
 
 ## Biological Characteristics
 
-![A photo of a gray-brown moth specimen, held in place by a pin, with a tag behind it that says "New Mexico" and other words that are covered by the moth.]({{ site.baseurl }}/assets/images/species-reviews/feis-acal_photo.jpeg)
+![A photo of a gray-brown moth specimen, held in place by a pin, with a tag behind it that says "New Mexico" and other words that are covered by the moth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-acal_photo.jpeg?itok=pngrvYTU)
 
 Photo Credit
 

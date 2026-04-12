@@ -58,7 +58,7 @@ In this review "presettlement" refers to times prior to the start of the Gold Ru
 
 ## Distribution and Plant Community Composition
 
-![A map of California, Nevada, and Oregon and parts of adjacent states. Open water, including coastal areas, are shaded dark blue, barren areas are shaded black, and California Central Valley Riparian Woodland and Shrubland and shaded light blue and are concentrated in a lengthwise strip in the center of California.]({{ site.baseurl }}/assets/images/fire-regimes/woody-riparian-communities-central-valley-california_feis-ca_valley_riparian_mapa.jpg)
+![A map of California, Nevada, and Oregon and parts of adjacent states. Open water, including coastal areas, are shaded dark blue, barren areas are shaded black, and California Central Valley Riparian Woodland and Shrubland and shaded light blue and are concentrated in a lengthwise strip in the center of California.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ca_valley_riparian_mapa.jpg?itok=TkekQu_p)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Greatest alterations in hydrology are due to water diversion for agriculture, da
 
 The decline of American beaver populations has also altered flow rates [17,18,20,39]. Historically, beaver dams were far more numerous than they are now, and collectively, they greatly slowed water velocity. Sediment and debris carried by streams lodged behind the dams, trapping sediments and nutrients along the stream length. Backed-up water raised the water table and increased wetland areas. With removal of American beavers by trapping, many beaver dams eventually failed, and stream energy became confined to narrower channels (review [47]). Narrow channels increased water velocity and tended to separate channels from floodplains [47]. The lateral extent of riparian vegetation likely decreased as the zone of saturation decreased [17].
 
-![An aerial photo of a slow-moving, somewhat windy and canal-like river moving through a patchwork of cultivated fields.]({{ site.baseurl }}/assets/images/fire-regimes/woody-riparian-communities-central-valley-california_feis-CA_valley_riparian_SanJoaquin.jpg)
+![An aerial photo of a slow-moving, somewhat windy and canal-like river moving through a patchwork of cultivated fields.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-CA_valley_riparian_SanJoaquin.jpg?itok=xyVGUjUu)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Riparian ecosystems are among the most invaded ecosystems globally [15,43], and 
 
 Holland [24] identified a saltcedar cover type, dominated by Tamarix chinensis or T. ramosissima, that occurs in the Central Valley. Giant reed grows in low-gradient riparian systems of California [13,30]. Both giant reed [8,31] and saltcedar [31] are implicated in increasing fire frequency and intensity in some riparian zones in the West. Giant reed and other flammable invasives can increase the amount and continuity of riparian fuels, which may alter fire behavior [8,30] and result in more severe and intense fires [30]. On some riparian sites in the West, giant reed stands form continuous, dense fuels, potentially converting these riparian zones from fire barriers to areas of fire spread [56]. In the Central Valley, giant reed is especially invasive on point and gravel bars [34]. Giant reed has fueled wildfires in riparian areas of southern California [33]. It has the potential to do so in the Central Valley, where it may facilitate fire spread into upland wildlands or rangelands.
 
-![A photo of a slow river with a sandy bank on one shore and dense, green vegetation on the other shore with some trees behind.]({{ site.baseurl }}/assets/images/fire-regimes/woody-riparian-communities-central-valley-california_feis-ca_valley_riparian_arudon_0.jpg)
+![A photo of a slow river with a sandy bank on one shore and dense, green vegetation on the other shore with some trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-ca_valley_riparian_arudon_0.jpg?itok=2xjHKc9S)
 
 Photo Credit
 

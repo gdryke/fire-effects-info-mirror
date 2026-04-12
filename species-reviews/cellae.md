@@ -76,7 +76,7 @@ hackberry, lowland hackberry, sugar hackberry, Arizona sugarberry, netleaf hackb
 
 ## General Distribution
 
-![A map of the eastern U.S. and Mexico with areas highlighted in green where sugarberry occurs. Most of the southeastern U.S. and small scattered locations in Mexico are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-cellae_map.jpg)
+![A map of the eastern U.S. and Mexico with areas highlighted in green where sugarberry occurs. Most of the southeastern U.S. and small scattered locations in Mexico are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-cellae_map.jpg?itok=5WYe1OFP)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Publications in which sugarberry is listed as a dominant or codominant include:
 
 ## Botanical Description
 
-![A photo of a medium-sized tree with a thin trunk and a wide, round crown growing on the edge of a shrubby area, with other similar sized or smaller trees growing around it and some dry grass below.]({{ site.baseurl }}/assets/images/species-reviews/feis-cellae_tree.jpg)
+![A photo of a medium-sized tree with a thin trunk and a wide, round crown growing on the edge of a shrubby area, with other similar sized or smaller trees growing around it and some dry grass below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-cellae_tree.jpg?itok=UIDhMWLV)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Sugarberry is a moderately tall (60 to 100 feet [18-30 m]), native deciduous tre
 
 Sugarberry flowers when the leaves first appear in spring, from March to May, depending on latitude. Fruit appears in July and August, ripening into October. The fruit is retained on the tree until midwinter [2]. Most or all leaves are lost by mid-December in the Rio Grande Valley, Texas [63].
 
-![A photo of a tree's light green, pointed leaves and small red berries. The leaves and berries are densely packed and fill the frame.]({{ site.baseurl }}/assets/images/species-reviews/feis-cellae_berries.jpeg)
+![A photo of a tree's light green, pointed leaves and small red berries. The leaves and berries are densely packed and fill the frame.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-cellae_berries.jpeg?itok=6laghHct)
 
 Photo Credit
 

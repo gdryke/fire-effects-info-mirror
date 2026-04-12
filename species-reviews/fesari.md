@@ -38,7 +38,7 @@ Gucker, Corey L. 2006. _Festuca arizonica_ , Arizona fescue. In: Fire Effects In
 
 The scientific name of Arizona fescue is _Festuca arizonica_ Vasey (Poaceae) [28,55,64,66,67,121,122].
 
-![A photo of bunchgrasses with bare ground between plants dominating an open area in front of somewhat dense conifers.]({{ site.baseurl }}/assets/images/species-reviews/fesari_feis-habitat1.jpg)
+![A photo of bunchgrasses with bare ground between plants dominating an open area in front of somewhat dense conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-habitat1.jpg?itok=RDqeRSqQ)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ Arizona fescue is common in Arizona, New Mexico, and southern Colorado [68,78,12
 
 ## Site Characteristics
 
-![A photo of a bunch grass from the side, with a variety of flowering forbs and shrubs behind, and conifers blanketing slopes in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesari_plant2.jpg)
+![A photo of a bunch grass from the side, with a variety of flowering forbs and shrubs behind, and conifers blanketing slopes in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-fesari_plant2.jpg?itok=mqhnlRZO)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ white fir-Rocky Mountain Douglas-fir-ponderosa pine/Arizona fescue| NM [80]
 
 ## Botanical Description 
  
-![A photo of an upright grass with a flowering reproductive stem. More of the same grass occurs in bunches behind, with litter-covered ground between plants. Straight conifers are visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesari_plant.jpeg)
+![A photo of an upright grass with a flowering reproductive stem. More of the same grass occurs in bunches behind, with litter-covered ground between plants. Straight conifers are visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-fesari_plant.jpeg?itok=Y6XigfHt)
 
 Photo Credit
 
@@ -221,7 +221,7 @@ Arizona fescue is present in predominantly late seral or climax communities. The
 
 The following diagram outlines the general secondary successional pathway of Arizona fescue in ponderosa pine forests of Arizona. Early seral communities are shown at the bottom. Community composition changes over time, in the absence of disturbances, are progressively higher in the diagram. The community at the top is stable and late seral. Disturbance severity and postdisturbance conditions will dictate which community, lower in the diagram, is the recovering community. Low severity disturbances and favorable postdisturbance conditions may not retrogress and instead pre- and postdisturbance communities would be the same [17].
 
-![A figure with descriptions of succession with bidirectional arrows between each stage. The stages are as follows: bunchgrass stage, sod-forming grass stage, prostrate perennial forb stage, short-lived half shrub stage, annual-dominated stage, and denuded soil stage. Each stage includes a list of several example species.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesari_succession.gif)
+![A figure with descriptions of succession with bidirectional arrows between each stage. The stages are as follows: bunchgrass stage, sod-forming grass stage, prostrate perennial forb stage, short-lived half shrub stage, annual-dominated stage, and denuded soil stage. Each stage includes a list of several example species.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-fesari_succession.gif)
 
 Secondary successional stages may not be as discrete as the above diagram suggests. Overlapping of the stages and species is likely. The double sided arrows indicate that succession and retrogression are both possible. In the case of a severe disturbance, many or all of the intermediate stages could be skipped with denuded soil the result. Complete recovery of a bunchgrass community from the denuded soil stage could take more than 100 years under "reduced" stocking rates. Successional advancement of sites in northern Arizona from the denuded soil stage to the half shrub stage took 30 years under "reduced" livestock stocking rates [17].
 
@@ -303,7 +303,7 @@ Sapling| 10,070| 30.5| 15,866| 33| intensity of backing and headfires were 17 kW
  
 The large decrease in Arizona fescue coverage in canopy sawtimber stands may be related to the high fuel loads, smoldering, and high consumption percentages. Decreases in the sapling community occurred in both burned and control plots but decreases were much greater on burned plots. It is possible that Arizona fescue plants growing under the high tree density (sapling community) were less resilient than those in the other stands [118]. A summary of Arizona fescue coverage on burned and unburned plots in the different stand types is provided in the graph below.
 
-![A graph showing burned and control cover of Arizona fescue in different stand types.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesari_cover.gif)
+![A graph showing burned and control cover of Arizona fescue in different stand types.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-fesari_cover.gif?itok=hD5qhDDA)
 
 Arizona fescue plants in the pole and open sawtimber stands, described above, did not produce seed on burned sites in the 1st postfire year. However, 67% of the plants produced seed on burned sawtimber sites in the 2nd postfire year, which exceeded the percentage of plants producing seed in unburned sawtimber stands. Seed was produced in the pole stands in the 2nd postfire year but the percentage of seed producing plants was still much less than that of unburned sites. Fewer seed producing plants in burned pole stands than open sawtimber stands may be related to the postfire growing environment or total heat yield of the fire, which was much greater in pole stands. The percentage of plants producing seed on burned and unburned sites is provided below [124].
 
@@ -319,7 +319,7 @@ Control and burned production were significantly (_p_ =0.05) different in young 
 
 For young stands in postfire year 7, there were no data available.
 
-![A graph showing Arizona fescue production in two stand types with various times since fire. Control plots trend slightly higher than burned plots. In a young stand 5 years after fire, production in the control stand was more than 8 times greater than in the burned stand.]({{ site.baseurl }}/assets/images/species-reviews/feis-fesari_production.gif)
+![A graph showing Arizona fescue production in two stand types with various times since fire. Control plots trend slightly higher than burned plots. In a young stand 5 years after fire, production in the control stand was more than 8 times greater than in the burned stand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-fesari_production.gif?itok=GY6X6Wwq)
 
 ### Quaking Aspen Woodlands
 

@@ -65,7 +65,7 @@ common soft-brome, soft chess
 
 Soft brome is native to Eurasia, where it is most common in the Mediterranean region [61,95]. It has naturalized in all other continents except Antarctica [54,95]. Soft brome is widely distributed but scattered and uncommon in most of North America [35,38,54,59], ranging from coastal southern Alaska south to Baja California and east to Maine, North Carolina, and Texas [22,35,38,50,54,83]. Soft brome is most common in low-elevation valleys and foothills of California and southwestern Oregon where climate is mediterranean. It is more abundant in mediterranean areas of California than in Mediterranean Europe [61].
 
-![A map of the United States and Canada with most states and provinces highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-brohor_distribution_oldreview.jpg)
+![A map of the United States and Canada with most states and provinces highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brohor_distribution_oldreview.jpg?itok=I0tj29HR)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Utah| 4,220–8,350| 1,280–2,530| [95]
 
 Soft brome is typically dominant in annual grassland communities of California and southwestern Oregon [9,61,63]. It is an important component of some sagebrush (_Artemisia_ spp.) steppe and Palouse prairie communities of eastern Washington and Oregon and southern Idaho, especially where cheatgrass (_Bromus tectorum_) is a community dominant [24,82]. Soft brome is not usually important in other plant communities in which it occurs [38,54,76,83].
 
-[![A close-up of an annual grass panicle, with different kinds of annual grasses visible behind and a hill covered in conifers in the backgrounds.]({{ site.baseurl }}/assets/images/species-reviews/feis-brohor_habitat.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Soft brome growing in San Benito County, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up of an annual grass panicle, with different kinds of annual grasses visible behind and a hill covered in conifers in the backgrounds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brohor_habitat.jpeg?itok=TX_-Gcrh)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Soft brome growing in San Benito County, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 **California Annual Grassland:** The native prairie that occurred on coastal and inland valleys of California and southwestern Oregon has been almost entirely replaced by annual grassland, agricultural land, or urban areas [9,19,41,45]. Conversion from native prairie to annual grassland occurred in less than two hundred years [45,61]. Soft brome is thought to have naturalized in native California prairie in about 1860 [45]. Species composition of native grasslands was poorly documented and will always be open to debate [96]. Most experts agree that coastal prairie and mesic inland valleys were dominated by perennial bunchgrasses [10,11,20,45,61]. Drier inland valleys may have been dominated by native annual grasses [8]. Hoover [52] argued that most native California prairie was dominated by annual forbs.
 
@@ -131,7 +131,7 @@ A medusahead (_Taeniatherum caput-medusae_)-rattail fescue-soft brome community 
 
 ## Botanical and Ecological Characteristics
 
-![A photo of grass spikelets.]({{ site.baseurl }}/assets/images/species-reviews/feis-brohor_plant_oldreview.jpg)
+![A photo of grass spikelets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brohor_plant_oldreview.jpg?itok=mjNFsEJc)
 
 Photo Credit
 

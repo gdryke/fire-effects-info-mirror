@@ -114,7 +114,7 @@ In the few studies available, white poplar exhibited greater flood tolerance in 
 
 ## Plant Communities
 
-![A photo of a multi-stemmed leafy tree growing along a lake. The ground below is covered in upright leafy shoots.]({{ site.baseurl }}/assets/images/species-reviews/popspp_feis-POPSPP_habitat2.jpeg)
+![A photo of a multi-stemmed leafy tree growing along a lake. The ground below is covered in upright leafy shoots.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-POPSPP_habitat2.jpeg?itok=f3o_oh1U)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 White poplar is typically a small tree but may reach 130 feet (40 m) tall and 7 feet (2 m) in diameter [24,47,107]. The crown is open, wide, and rounded [18,47,105,122]. Low branches are reportedly very persistent [102]. Sometimes the white poplar trunk is divided at the base [39], and often it is crooked [102]. Bark is smooth on young trunks [39] but becomes rough on the lower portion of mature trunks [51]. White poplar is short-lived [13,18,117], and its wood is weak and prone to storm breakage [13].
 
-![A photo of a tree's wide, lobed leaves, showing that the fronts of the leaves are deep green, and the backs are bright white.]({{ site.baseurl }}/assets/images/species-reviews/feis-popspp_leaves.jpg)
+![A photo of a tree's wide, lobed leaves, showing that the fronts of the leaves are deep green, and the backs are bright white.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-popspp_leaves.jpg?itok=lSTVFemL)
 
 Photo Credit
 
@@ -171,7 +171,7 @@ In the United States, white poplar typically flowers in the spring (March-early 
 
 White poplar predominantly regenerates vegetatively. Because only female trees are generally present at a given location [24], sexual reproduction is usually limited to white poplar hybrids [101].
 
-![A close up photo of the tip of a tree branch with fluffy, red-to white catkins coming off the stem tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-popspp_flowers.jpg)
+![A close up photo of the tip of a tree branch with fluffy, red-to white catkins coming off the stem tips.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-popspp_flowers.jpg?itok=j6AHYY5t)
 
 Photo Credit
 
@@ -338,7 +338,7 @@ Although details and documentation of white poplar's impacts on native vegetatio
 
 Concern about the impacts of white poplar in wildlands varies, as do recommendations for prioritizing its control. White poplar is listed as a "significant threat" by many eastern weed organizations [61,98,109,118]. In a survey of Wisconsin's authorities on local flora, white poplar ranked 35th out of 66 nonnative invasive plants evaluated for their negative impacts on native plant communities [87]. It was ranked 36th in a list of 81 nonnative, invasive species impacting natural habitats of Canada [14]. Based on models using climatic tolerances, biological traits, and invasiveness in other wildlands, researchers predicted that white poplar was a very high threat for establishing and proliferating in Manitoba's Riding Mountain National Park [80]. White poplar was assigned high priority for removal from Point Pelee National Park, Ontario (Dunster 1990 cited in [123]).
 
-![A photo of a dirt track with a tree with silvery-green leaves growing densely on both sides of the track.]({{ site.baseurl }}/assets/images/species-reviews/feis-popspp_dense.jpg)
+![A photo of a dirt track with a tree with silvery-green leaves growing densely on both sides of the track.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-popspp_dense.jpg?itok=HPTUJn_J)
 
 Photo Credit
 
@@ -382,7 +382,7 @@ For information on the use of prescribed fire to control this species, see Fire 
 
 Vegetative regeneration and spread can be encouraged by cutting white poplar stems [73]. To be a viable control option, cutting will likely need to be frequent, repeated, and/or paired with another control method. Weed handbooks suggest controlling white poplar by repeated and frequent cutting [34,120]. In the tallgrass restoration handbook, white poplar spread is said to be controlled by girdling large trees and repeatedly cutting sprouts [97]. In a review, Czarapata [16] reports that white poplar stems with less than a 2-inch (5 cm) DBH may be controlled by cutting followed by herbicide treatments. Sprouting of girdled stems larger than 2 inches (5 cm) in DBH may be limited by applying an herbicide to the wound [16].
 
-![A photo of an open, scrubby area with clumps of grass and shrubs, and a series of mounded woody plants with silvery-green leaves scattered across the area.]({{ site.baseurl }}/assets/images/species-reviews/feis-popspp_sprouting.jpg)
+![A photo of an open, scrubby area with clumps of grass and shrubs, and a series of mounded woody plants with silvery-green leaves scattered across the area.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-popspp_sprouting.jpg?itok=pm8Rijk2)
 
 Photo Credit
 

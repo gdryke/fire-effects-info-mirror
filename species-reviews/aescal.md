@@ -81,7 +81,7 @@ California: Pinnacles National Monument| CA buckeye woodland community types | H
 
 ## Botanical Description 
  
-![A photo of a leafy shrub growing in a sunny location, with many tall spikes of white flowers pointing upward.]({{ site.baseurl }}/assets/images/species-reviews/feis-aescal_plant.jpg)
+![A photo of a leafy shrub growing in a sunny location, with many tall spikes of white flowers pointing upward.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-aescal_plant.jpg?itok=QJjOGip3)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ California buckeye flowers from April to September [24]. New leaves emerge from 
 
 ## Regeneration Processes
 
-![A photo of some large, shiny brown seeds on the ground. One seed still has a blackish coat on it, split down the middle to show the seed inside. The ground is muddy and grassy.]({{ site.baseurl }}/assets/images/species-reviews/feis-aescal_seed.jpg)
+![A photo of some large, shiny brown seeds on the ground. One seed still has a blackish coat on it, split down the middle to show the seed inside. The ground is muddy and grassy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-aescal_seed.jpg?itok=_2JC-6qA)
 
 Photo Credit
 

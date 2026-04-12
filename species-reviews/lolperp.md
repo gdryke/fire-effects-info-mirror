@@ -84,7 +84,7 @@ No entry.
 
 Perennial ryegrass is an introduced, cool-season bunchgrass that grows up to 35 inches (90 cm) tall. It has erect culms and short rhizomes. Perennial ryegrass does not have a creeping growth habit [14,46]. It is generally short-lived (2 to 3 years) [54].
 
-[![A bunchgrass on the side of a gravel road.]({{ site.baseurl }}/assets/images/species-reviews/lolperp_lolperp_plant.jpg)Photo Credit Photo by Jenny Saito, iNaturalist (CC BY 4.0). Perennial ryegrass.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![A bunchgrass on the side of a gravel road.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/lolperp_plant.jpg?itok=XjziT9Qm)Photo Credit Photo by Jenny Saito, iNaturalist (CC BY 4.0). Perennial ryegrass.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 Perennial ryegrass forms vesicular-arbuscular endomycorrhizal associations [2].
 
@@ -118,7 +118,7 @@ This type of transient seed banking is related to exploitation of grasslands tha
 
 Along roadsides and in disturbed habitats in the United Kingdom, perennial ryegrass will reproduce well from seed. In neighboring lawns or pastures it may be entirely dependent on vegetative reproduction (probably because the flowering stems are removed before seed production can occur) [18]. The success of self-seeding for stand maintenance in the United States would appear to depend on the ability of seedlings to establish well before frost. Established plants are fairly winter hardy, but since they are short-lived, recruitment from seed would be important for stand persistence [18,49,57].
 
-[![Green reproductive spikes of a grass, with out-of-focus grasses in the background.]({{ site.baseurl }}/assets/images/species-reviews/lolperp_lolperp_repro.jpg)Photo Credit Photo by Neptalí Ramírez Marcial, iNaturalist (CC BY 4.0). Perennial ryegrass reproduction.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![Green reproductive spikes of a grass, with out-of-focus grasses in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/lolperp_repro.jpg?itok=fpLpSr-4)Photo Credit Photo by Neptalí Ramírez Marcial, iNaturalist (CC BY 4.0). Perennial ryegrass reproduction.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 ## Successional Status
 

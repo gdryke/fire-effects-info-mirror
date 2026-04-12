@@ -48,7 +48,7 @@ In February 2021, an extensive search was done to locate information on the biol
 
 ## Taxonomy
 
-![A photo of a green, leafy plant with pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-latbij_plant.jpg)
+![A photo of a green, leafy plant with pink flowers.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-latbij_plant.jpg)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Latah tule pea, pine woods peavine, pinewoods sweetpea, peavine, White Pinewoods
 
 ## Distribution
 
-![A map of the western United States and Canada, with a few counties in Idaho, Montana, Oregon, and Washington highlighted dark green, and California and British Columbia highlighted light green.]({{ site.baseurl }}/assets/images/species-reviews/feis-latbij_map.jpg)
+![A map of the western United States and Canada, with a few counties in Idaho, Montana, Oregon, and Washington highlighted dark green, and California and British Columbia highlighted light green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-latbij_map.jpg?itok=FBoCHwK2)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ See table A2 for a representative list of plant classifications in which drypark
 
 ## Botanical Description
 
-![A photo of the pink flowers of drypark pea, with the plant's long, narrow leaves behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-latbij_flower.jpg)
+![A photo of the pink flowers of drypark pea, with the plant's long, narrow leaves behind.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-latbij_flower.jpg)
 
 Photo Credit
 

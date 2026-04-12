@@ -58,7 +58,7 @@ None
 
 Bigelow's sedge is primarily a circumboreal species, occurring from Alaska to Greenland. The southern extent of its range reaches the alpine regions of New England and New York [1,12,17,32]. Populations are also reported at high elevations in Montana, Idaho, Wyoming, Utah, and Colorado [8,9,16,18,40].
 
-![A map of Canadian provinces and many U.S. states. Many provinces and some states \(AK, CO, ID, MT, and WY\) are highlighed green.]({{ site.baseurl }}/assets/images/species-reviews/carbig_carbig_map.jpg)
+![A map of Canadian provinces and many U.S. states. Many provinces and some states \(AK, CO, ID, MT, and WY\) are highlighed green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carbig_map.jpg?itok=9mC5Yjs-)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ Throughout its range, Bigelow's sedge generally occurs as scattered individuals.
 
 Common associated species include willows (_Salix_ spp.), dwarf arctic birch (_Betula nana_), lingonberry (_Vaccinium vitis-idaea_), bog blueberry (_V. uliginosum_), crowberry (_Empetrum nigrum_), northern Labrador tea (_Ledum palustre_), American green alder (_Alnus crispa_), cloudberry (_Rubus chamaemorus_), alpine bearberry (_Arctostaphylos alpina_), varileaf cinquefoil (_Potentilla diversifolia_), elephanthead lousewort (_Pedicularis groenlandica_), white mountain avens (_Dryas octopetala_), entire leaf mountain avens (_D. integrifolia_), alpine timothy (_Phleum alpinum_), alpine rush (_Juncus alpinus_), tussock cottongrass (_Eriophorum vaginatum_), polargrass (_Arctagrostis latifolia_), tufted hairgrass (_Deschampsia caespitosa_), bluejoint reedgrass (_Calamagrostis canadensis_), other sedges (_Carex_ spp.), feathermosses (_Hylocomium_ and _Aulacomium_ spp.), lichens (_Cladonia_ and _Cladina_ spp.), and sphagnum mosses.
 
-[![Green graminoids with golden reproductive spikes cover the ground.]({{ site.baseurl }}/assets/images/species-reviews/carbig_carbig_plants.jpg)Photo Credit Photo by Peter Nathaniel Boyer, iNaturalist (CC BY 4.0) Bigelow's sedge plants.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Green graminoids with golden reproductive spikes cover the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carbig_plants.jpg?itok=bOgNtVRt)Photo Credit Photo by Peter Nathaniel Boyer, iNaturalist (CC BY 4.0) Bigelow's sedge plants.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
@@ -111,7 +111,7 @@ Bigelow's sedge reproduces predominantly by vegetative means, forming extensive 
 
 Bigelow's sedge also reproduces sexually, producing at least some viable seed [5]. Shoots flower after 2 years of age and are wind pollinated [35]. Well-developed dormancy mechanisms allow for the incorporation of Bigelow's sedge seed into the buried seed pool [15]. Seeds buried up to 200 years may germinate, but seedlings of younger seeds (buried 1 to 20 years) are more vigorous [37]. Seedling recruitment after disturbance is 8 to 12 times higher on organic soil than on mineral soil [15].
 
-[![A close-up of the reproductive spikes of a carex. Each spike consists of black disks stacked in a cylindrical shape.]({{ site.baseurl }}/assets/images/species-reviews/carbig_carbig_reproductive.jpeg)Photo Credit Photo by Urgamal Magsar, iNaturalist (CC BY 4.0). Reproductive Bigelow's sedge.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up of the reproductive spikes of a carex. Each spike consists of black disks stacked in a cylindrical shape.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/carbig_reproductive.jpeg?itok=npDyFXag)Photo Credit Photo by Urgamal Magsar, iNaturalist (CC BY 4.0). Reproductive Bigelow's sedge.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Successional Status
 

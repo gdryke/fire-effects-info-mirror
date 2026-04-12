@@ -73,7 +73,7 @@ Its wide North American distribution both north to south and east to west sugges
 
 Floras report Oriental lady's thumb occurring on moist soil [13,48,73,80], though it is occasionally reported in dry areas [35,73]. In more than 40 terrestrial field records from Connecticut, Massachusetts, and New Hampshire, the majority of sites were described as mesic, a few were described as saturated or inundated, and only 1 was described as dry [35]. In Massachusetts and Connecticut, Oriental lady's thumb was restricted to consistently moist soils that did not flood [58], but other sources report it occurring in areas that flooded or were inundated with water [8,27,35,52]. Some sources state that Oriental lady's thumb occurs on well-drained soils [10,11,46]. In greenhouse experiments, Oriental lady's thumb roots showed high phenotypic plasticity in response to moisture availability; both flooding and lack of moisture led to lower root biomass. Oriental lady's thumb plants produced the longest roots when exposed to constant moisture, and roots were shortest when exposed to dry or flooded conditions [3].
 
-![A photo of a green plant with tiny pink flowers growing in shallow, clear water with a log at the edge and a rocky bottom.]({{ site.baseurl }}/assets/images/species-reviews/feis-polcesl_water.jpg)
+![A photo of a green plant with tiny pink flowers growing in shallow, clear water with a log at the edge and a rocky bottom.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-polcesl_water.jpg?itok=VNKBqn0U)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Oriental lady's thumb seedlings occurred at low density (1.05 seedlings/m² ) al
 
 ## Botanical Description
 
-![A close up photo of a plant's cluster of pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-polcesl_flower.jpg)
+![A close up photo of a plant's cluster of pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-polcesl_flower.jpg?itok=__sKq5YM)
 
 Photo Credit
 
@@ -274,7 +274,7 @@ No entry.
 
 ## Impacts
 
-![A photo of a forest with a dense understory of a green plant with small pink flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-polcesl_field.jpg)
+![A photo of a forest with a dense understory of a green plant with small pink flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-polcesl_field.jpg?itok=W9hg49au)
 
 Photo Credit
 

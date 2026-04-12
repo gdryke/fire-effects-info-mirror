@@ -50,7 +50,7 @@ rosemary
 
 ## Distribution
 
-![Photo of map distribution of sand heath.]({{ site.baseurl }}/assets/images/species-reviews/feis-cereri_map.png)
+![Photo of map distribution of sand heath.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-cereri_map.png?itok=Jifm5XPi)
 
 Photo Credit
 
@@ -74,7 +74,7 @@ Sand heath commonly occurs in scrub oak woods, dry open pinelands, and stable du
 
 In addition to overstory associates mentioned above, common associates include loblolly-bay (_Gordonia lasianthus_), myrtle oak (_Quercus myrtifolia_), sand live oak (_Q. virginiana_ var. _geminata_), chapman oak (_Q. chapmanii_), hickory (_Carya_ spp.), and red bay (_Persea borbonia_). Shrub species found with sand heath include rusty lyonia (_Lyonia ferruginea_), yaupon (_Ilex vomitoria_), gallberry (_I. glabra_), fetterbush (_L. lucida_), saw palmetto (_Serenoa repens_), cabbage palmetto (_Sabal palmetto_), and wax myrtle (_Myrica cerifera_) [5,6,8].
 
-![Photo of sand heath habitat.]({{ site.baseurl }}/assets/images/species-reviews/cereri_feis-habitat_cereri.jpg)
+![Photo of sand heath habitat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-habitat_cereri.jpg?itok=PHc04r8k)
 
 Photo Credit
 

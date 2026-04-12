@@ -34,7 +34,7 @@ Tirmenstein, D. A. 1990. _Ungnadia speciosa_ , Mexican buckeye. In: Fire Effects
 
 ## Image Gallery
 
-![A green leafy shrub/tree with many brown woody seed pods hanging down.]({{ site.baseurl }}/assets/images/species-reviews/feis-ungspe_plant.jpeg) Mexican buckeye with seed pods. _Creative Commons image by Michelle W., iNaturalist.org._
+![A green leafy shrub/tree with many brown woody seed pods hanging down.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-ungspe_plant.jpeg) Mexican buckeye with seed pods. _Creative Commons image by Michelle W., iNaturalist.org._
 
 Photo Credit: Creative Commons image by Michelle W., iNaturalist.org.
 
@@ -83,7 +83,7 @@ Mexican buckeye has not been listed as a dominant or indicator in published clas
 
 ## Botanical Description
 
-![A green leafy shrub/tree with many brown woody seed pods hanging down.]({{ site.baseurl }}/assets/images/species-reviews/feis-ungspe_plant.jpeg)
+![A green leafy shrub/tree with many brown woody seed pods hanging down.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ungspe_plant.jpeg?itok=ymoZPug7)
 
 Photo Credit
 

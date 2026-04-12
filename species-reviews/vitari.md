@@ -40,7 +40,7 @@ The scientific name of canyon grape is _Vitis arizonic_ a Engelm. (Vitaceae) [29
 
 When literature is cited is this review that refers to the _Vitis_ genus only, the common name for the genus, grape, is used.
 
-![A photo of a leafy vine growing along the ground in all directions, with red rocks and dirt and a few small trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-vitari_hero.jpg)
+![A photo of a leafy vine growing along the ground in all directions, with red rocks and dirt and a few small trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vitari_hero.jpg?itok=fw0CcRXD)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Canyon grape occurs in southeastern Nevada, southwestern Utah, Arizona, New Mexi
 
 Canyon grape is most common on moist but well drained sites with minimal shade [65]. In Nevada canyon grape occurs along streambanks, in canyons, and in woodlands dominated by creosotebush (Larrea tridentata), mesquite (Prosopis spp.), cottonwood (Populus spp.), or sagebrush (Artemisia spp.) [30]. Canyon bottoms, rocky slopes, and moist areas of southern Utah provide canyon grape habitat [73]. In Arizona canyon grape often climbs the surrounding vegetation in deciduous forests and woodlands along perennial and semiperennial streams [10,31].
 
-![Dense green and yellow vines climbing over rocks.]({{ site.baseurl }}/assets/images/species-reviews/vitari_feis-VITARI_habitat1.jpg)
+![Dense green and yellow vines climbing over rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-VITARI_habitat1.jpg?itok=PW6oyVPg)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Root systems are described as "relatively sparse and wandering," and it is thoug
 
 Canyon grape plants are dioecious or "subdioecious," and flowers are "actually or functionally unisexual"[16,17]. Small flowers occur in 2 to 4 inch (4-10 cm)-long clusters that are borne opposite the leaves. A nectar disk occurs at the base of the ovary [16,38,46,67,73]. Berries or grapes develop in clusters [43]. Grapes are juicy, thin skinned, and approximately 0.2 to 0.4 inch (6-10 mm) in diameter. They house 2 to 4 pear-shaped seeds that measure 4 to 5 mm long [16,30,38,46,67,73].
 
-![Small bunch of purple grapes among large green leaves.]({{ site.baseurl }}/assets/images/species-reviews/vitari_VITARI_fruit1.jpg)
+![Small bunch of purple grapes among large green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/VITARI_fruit1.jpg?itok=X3q0IDkR)
 
 Photo Credit
 

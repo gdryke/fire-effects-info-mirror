@@ -59,7 +59,7 @@ Tealeaf willow grows throughout most of Alaska and the Yukon Territory. It also 
 
 ## Site Characteristics
 
-![Photo of tealeaf willow.]({{ site.baseurl }}/assets/images/species-reviews/feis-salpul_plant.jpeg)
+![Photo of tealeaf willow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salpul_plant.jpeg?itok=L67VS1db)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Tealeaf willow is an upright, multiple-stemmed, deciduous shrub generally betwee
 
  * Phanerophyte
 
-![Photo of a leafy green shrub with small red fruits on the banks of a small river with with an open green field on the opposite bank.]({{ site.baseurl }}/assets/images/species-reviews/salpul_feis-SALPUL_habitat.jpg)
+![Photo of a leafy green shrub with small red fruits on the banks of a small river with with an open green field on the opposite bank.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-SALPUL_habitat.jpg?itok=1LHei3kO)
 
 Photo Credit
 

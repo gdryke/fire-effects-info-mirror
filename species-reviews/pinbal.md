@@ -55,7 +55,7 @@ Foxtail pine, Great Basin bristlecone pine (_P. longaeva_), and Rocky Mountain b
 
 foxtail pine, southern foxtail pine, northern foxtail pine, Sierra foxtail pine, Klamath foxtail pine
 
-![Several mature foxtail pine growing on open slope.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBAL_Open.Stand_.Stucture.jpg)
+![Several mature foxtail pine growing on open slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBAL_Open.Stand_.Stucture.jpg?itok=ub5405Ph)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Holland [44], Rundel and others [84], and Sawyer and Thornburgh [89] provide veg
 
 Foxtail pine is a native conifer. It is a low-growing pine, generally 20 to 50 feet (6-15 m) tall, but occasionally reaching 72+ feet (22+ m) in height [39,78]. The champion tree is a northern foxtail pine on the Trinity National Forest that measures 76 feet (23 m) in height, 34 feet (10 m) in spread, and 26.3 feet (8 m) in circumference [2]. Foxtail pine's trunk is usually single-stemmed. Unlike other North American conifers, foxtail pine rarely assumes krummholz form at high elevations; instead, it retains a straight bole [8,10,85,86]. Bark of mature foxtail pine is "exceptionally thick" [8]: nearly as thick as that of ponderosa pine (Pinus ponderosa). Bark thickness measurements of 1.85 inches (4.70 cm) [46] and 2.4 to 3.1 inches (6-8 cm) [8] are reported for mature foxtail pines. Mature tree crowns are 8.5 feet (2.6 m) or less in diameter. Branches are short and thick in diameter [39,78]. Branching habit is sparse in southern foxtail pine [60]; southern foxtail pine also tends to be self-pruning. Northern foxtail pine branches tend to be thicker, and may extend to the ground [6,39,68] (the photos in the Introductory section illustrate this difference). Foxtail is a 5-needle pine. The Balfourianae complex is unique among pines in that about half of their branches originate from within the needle fascicles [24,60]. Needle clusters are thickly set toward the branch ends, resembling foxtails [59]. Needles persist for 5 to 7+ years [65,71]; trees at lower elevations tend to retain needles longer than trees at timberline [65]. Female cones are 2.4 to 7.5 inches (6-19 cm) long, dehiscent, and have tiny prickles. Seeds are small (~0.3 inch (8 mm) long), with detachable seed wings about 3 times longer than the seeds [39,78]. Northern foxtail pines tend to have heavier cones and larger seeds with longer seed wings than southern foxtail pines [67].
 
-![Close up of brown foxtail pine seed cones growing on branches with green needles.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBAL_1st2ndYrSeedCones.JPG)
+![Close up of brown foxtail pine seed cones growing on branches with green needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBAL_1st2ndYrSeedCones.JPG?itok=_0QOgcfz)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ U.S. Forest Service photo by Janet Fryer.
 
 Closed 1st-year and open 2nd-year female cones of southern foxtail pine.
 
-![Close up of dark green foxtail pine needles and light green pollen cones at the end of a branch.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBA_PollenCones.jpg)
+![Close up of dark green foxtail pine needles and light green pollen cones at the end of a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBA_PollenCones.jpg?itok=Z8qWuNTz)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Morphological differences between southern foxtail pine, northern foxtail pine, 
 
 Foxtail pine communities are typically open, with a sparse understory and scattered woody debris. Arid, high-elevation conditions allow woody debris to persist for many years without decaying [44]. In Sequoia-Kings Canyon National Park, southern foxtail pine grows in widely spaced woodlands in its upper elevational range and is often the only tree species. At lower elevations it forms a more dense forest, either in mixed or monospecific stands [10,12,84,85]. The foxtail pine-alpine ecotone is usually abrupt as a result of foxtail pine's inability to form krummholz [64]. Northern foxtail pine communities tend toward greater density then southern foxtail pine communities [85]. In the Klamath Ranges, stand densities of northern foxtail pine communities ranged from a minimum of 51 trees/ha in the Yolla Bolly Mountains to a maximum of 381 trees/ha in the Trinity Mountains [30]. Stand densities of southern foxtail pine communities in Sequoia-Kings Canyon National Park range from 50 trees/ha to 600 trees/ha [30,64,83,85]. Ryerson [85] found a mean stand density of 100 trees/ha on sites across southern foxtail pine's distribution.
 
-![Aerial view of a large foxtail pine stand.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBAL_Stand.Large_.JPG)
+![Aerial view of a large foxtail pine stand.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBAL_Stand.Large_.JPG?itok=mN_hKzNx)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ Foxtail pine seed is dispersed by wind [59,60]. How long seed is retained in the
 
 Although Clark's nutcrackers disperse bristlecone pine seeds, there have been no sightings of the Clark's nutcrackers dispersing foxtail pine seeds [61,71]. Trees growing from Clark's nutcracker caches often have multiple, genetically distinct stems [59,60]. The typical single-stemmed habit [8,10,85] of foxtail pine suggests that Clark's nutcracker dispersal and caching is unusual. Ryerson [86], however, noted the presence of a few multiple-stemmed trees throughout foxtail pine's distribution, suggesting the possibility of Clark's nutcracker seed dispersal and caching. Tomback and others [100] suggested that Clark's nutcrackers may disperse some foxtail pine seed, and that rodents may act as secondary dispersers. Fryer observed Clark's nutcrackers collecting seed in the John Muir Wilderness (see photo below). Genetic identities of multiple-stemmed foxtail pine "individuals" had not been determined as of 2004. Further investigation is needed on mechanisms of seed dispersal for foxtail pine.
 
-![Two Clark's nutcrackers sitting atop a foxtail pine.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBA_ClNu.jpg)
+![Two Clark's nutcrackers sitting atop a foxtail pine.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBA_ClNu.jpg?itok=R0x76cJG)
 
 Photo Credit
 
@@ -189,7 +189,7 @@ Seeds require stratification [25,28]. Fresh, stratified southern foxtail pine se
 
 Based on limited information, foxtail pine seedling establishment appears to be episodic, occurring during periods of mild, wet winters [63,85].
 
-![Foxtail pine seedlings and small trees in the foreground and mature trees in the back ground.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBAL_Stand%26Regen.JPG)
+![Foxtail pine seedlings and small trees in the foreground and mature trees in the back ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBAL_Stand%26Regen.JPG?itok=OQUd0DjH)
 
 Photo Credit
 
@@ -226,7 +226,7 @@ Fire and climate may play an interactive role in determining the California red 
 
 Foxtail pine has many characteristics of a fire survivor [82,90]. Some of its morphological characteristics are similar to ponderosa pine, a highly fire-adapted species [4]. Like ponderosa pine, foxtail pine is a long-lived tree with a large-diameter bole, thick bark, and large-diameter branches [8,46,82]. Branches are generally sparse and self-pruning in southern foxtail pine [39,60,68,82], although thin branching and a self-pruning habit are less common in northern foxtail pine [39,60,68]. Few fire studies on foxtail pine have been conducted; however, Ryerson [85] found mature, fire-scarred southern foxtail pines throughout the tree's distribution. As further evidence of foxtail pine's ability to survive fire, Keifer [49] reported that in the Sierra lodgepole pine-southern foxtail pine ecotone in Sequoia-Kings Canyon National Park, foxtail pines were uneven-aged and showed multiple fire scars, while Sierra lodgepole pines were even-aged and showed no evidence of scarring. More fire history studies are needed on foxtail pine.
 
-![Close up of brown, furrowed bark of a foxtail pine with a dark fire scar.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBAL_Bark.JPG)
+![Close up of brown, furrowed bark of a foxtail pine with a dark fire scar.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBAL_Bark.JPG?itok=9-WhbnSe)
 
 Photo Credit
 
@@ -250,7 +250,7 @@ Rourke [82] reported that wildfire "was the most important chronic disturbance a
 
 Based on fire scar and contemporary fire history data, a review found that foxtail pine communities in the southern Sierra Nevada have a fire-return intervals ranging from 130 to 260 years. Model estimates averaged about 250 years. In Sequoias-Kings Canyon National Park, mean minimum and maximum fire-return intervals in subalpine forests were generally longer on relatively mesic, north-facing slopes (minimum = 374 years, maximum = 1,016 years) than on xeric, south-facing slopes (minimum = 187 years, maximum = 508 years). For the southern Sierra Nevada, contemporary fire rotation estimates were 2,100 years based on all fires, and 7,200 years for lightning-ignited fires alone [73].
 
-![Foxtail pine trees growing on an open slope.]({{ site.baseurl }}/assets/images/species-reviews/pinbal_feis-PINBA_NoUnderstory.jpg)
+![Foxtail pine trees growing on an open slope.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-PINBA_NoUnderstory.jpg?itok=cR3bLPIg)
 
 Photo Credit
 

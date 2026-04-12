@@ -34,7 +34,7 @@ Howard, Janet L. 1996. _Perognathus mollipilosus_ , Great Basin pocket mouse. In
 
 ## Image Gallery
 
-![A photo of a small brown mouse with a long tail standing on gravel, with a few small plants growing out of the gravel. The photo is taken at night with flash.]({{ site.baseurl }}/assets/images/species-reviews/pemo_feis-PEMO_Oregon2.jpeg) A Great Basin pocket mouse at Malheur National Wildlife Refuge, Harney County, Oregon.(CC BY-NC 4.0) _Photo by Alex Sowers, iNaturalist.org, some rights reserved._
+![A photo of a small brown mouse with a long tail standing on gravel, with a few small plants growing out of the gravel. The photo is taken at night with flash.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-PEMO_Oregon2.jpeg) A Great Basin pocket mouse at Malheur National Wildlife Refuge, Harney County, Oregon.(CC BY-NC 4.0) _Photo by Alex Sowers, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Alex Sowers, iNaturalist.org, some rights reserved.
 
@@ -78,7 +78,7 @@ The Great Basin pocket mouse occupies steppes and open, arid shrublands and wood
 
 ## Biological Characteristics
 
-![A photo of a small brown mouse with a long tail standing on gravel, with a few small plants growing out of the gravel. The photo is taken at night with flash.]({{ site.baseurl }}/assets/images/species-reviews/pemo_feis-PEMO_Oregon2.jpeg)
+![A photo of a small brown mouse with a long tail standing on gravel, with a few small plants growing out of the gravel. The photo is taken at night with flash.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-PEMO_Oregon2.jpeg?itok=n3J3m_XC)
 
 Photo Credit
 

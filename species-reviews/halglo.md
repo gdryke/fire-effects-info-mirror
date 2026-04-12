@@ -34,7 +34,7 @@ Pavek, Diane S. 1992. _Halogeton glomeratus_ , halogeton. In: Fire Effects Infor
 
 ## Image Gallery
 
-![A small spiky plant with red stems, growing out of sand and rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-halglo_plant.jpg) Halogeton. _Photo by Sheri Hagwood, hosted by the USDA-NRCS PLANTS Database._
+![A small spiky plant with red stems, growing out of sand and rock.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-halglo_plant.jpg) Halogeton. _Photo by Sheri Hagwood, hosted by the USDA-NRCS PLANTS Database._
 
 Photo Credit: Photo by Sheri Hagwood, hosted by the USDA-NRCS PLANTS Database.
 
@@ -88,7 +88,7 @@ Associated species, in addition to those previously mentioned (see Habitat Types
 
 Halogeton is an exotic succulent annual forb [42,104]. It has a generalized type of root system; the taproot can penetrate as deep as 20 inches (51 cm), with a radial spread of 18 inches (46 cm) [32]. Many main stems branch from the base of the plant and are low spreading before becoming erect [107]. Halogeton can be a few inches high in dense stands to 2 feet [61 cm] high in widely spaced stands [103,107]. Leaves are small, fleshy, and spine tipped [26,49]. Flowers are inconspicuous in leaf axils and produce winged black and wingless brown seeds [26,101].
 
-![A small spiky plant with red stems, growing out of sand and rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-halglo_plant.jpg)
+![A small spiky plant with red stems, growing out of sand and rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-halglo_plant.jpg?itok=nu3qXi9E)
 
 Photo Credit
 

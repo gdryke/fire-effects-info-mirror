@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Wyoming ponderosa pine communities has not 
 
 ## Distribution
 
-![A map showing the distribution of Wyoming ponderosa pine communities in the interior western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/wyoming-ponderosa-pine_feis-wyoming_ponderosa_pine_locator.jpg)
+![A map showing the distribution of Wyoming ponderosa pine communities in the interior western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-wyoming_ponderosa_pine_locator.jpg?itok=JcIyv78X)
 
 Photo Credit
 

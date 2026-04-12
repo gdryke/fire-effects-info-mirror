@@ -34,7 +34,7 @@ Gucker, Corey L. 2007. _Nolina microcarpa_ , sacahuista. In: Fire Effects Inform
 
 ## Introduction
 
-![A photo of several sacahuista plants in the foreground with flowering stalks. Small bunchgrasses grow in the foreground with bare ground between plants, and somewhat scraggly woody shrubs grow in the background with more sacahuista. Dry mountains rise in the distance.]({{ site.baseurl }}/assets/images/species-reviews/nolmic_nolmic_community_0_0.jpg)
+![A photo of several sacahuista plants in the foreground with flowering stalks. Small bunchgrasses grow in the foreground with bare ground between plants, and somewhat scraggly woody shrubs grow in the background with more sacahuista. Dry mountains rise in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/nolmic_community_0_0.jpg?itok=8NaQKVsh)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ beargrass, palmilla, smallseed sacahuista
 
 Sacahuista is a native species found throughout Arizona, New Mexico and northern Mexico [36,41]. Utah's Washington County represents sacahuista's northernmost distribution [76]. Taxonomists disagree on sacahuista's range in western Texas. Some indicate that sacahuista occurs in the Trans Pecos region of Texas [41,55], while others report no sacahuista in western Texas [25]. Flora of North America provides a distributional map for sacahuista.
 
-![A photo of several bunchgrass-like plants with a mix of dried and green stems. Other shrubs and some bunch grasses appear to occur in the background, with dried annual plants occurring in patches with bare ground between.]({{ site.baseurl }}/assets/images/species-reviews/feis-nolmic_habitat1.jpg)
+![A photo of several bunchgrass-like plants with a mix of dried and green stems. Other shrubs and some bunch grasses appear to occur in the background, with dried annual plants occurring in patches with bare ground between.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-nolmic_habitat1.jpg?itok=PpTAA727)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Sacahuista is locally dominant or important in Chihuahua desertscrub, Madrean ev
 
 ## Botanical Description
 
-![A photo of a grass-like cluster of fibrous leave with a several dried stalks extending from the centers of the bunches.]({{ site.baseurl }}/assets/images/species-reviews/feis-nolmic_habitat.jpg)
+![A photo of a grass-like cluster of fibrous leave with a several dried stalks extending from the centers of the bunches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-nolmic_habitat.jpg?itok=mS9sFrdH)
 
 Photo Credit
 
@@ -154,7 +154,7 @@ Sacahuista reproduces sexually through seed production and asexually by sproutin
 
 Nolina (_Nolina_ spp.) flowers are insect pollinated, likely by _Hymenoptera_ and/or _Diptera_ species [70]. Nolina plants are primarily dioecious, but perfect flowers may occur [70].
 
-![A close-up photo of numerous thin, papery seeds clustered at the top of a stalk. Seeds obscure much of the stalk behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-nolmic_seed.jpg)
+![A close-up photo of numerous thin, papery seeds clustered at the top of a stalk. Seeds obscure much of the stalk behind.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-nolmic_seed.jpg)
 
 Photo Credit
 

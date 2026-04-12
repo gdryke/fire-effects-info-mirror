@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Basin desert grassland communities ha
 
 ## Distribution
 
-![A map showing the distribution of Great Basin desert grassland communities in the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/great-basin-desert-grasslands_feis-great_basin_desert_grasslands_locator2.jpg)
+![A map showing the distribution of Great Basin desert grassland communities in the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-great_basin_desert_grasslands_locator2.jpg?itok=a1gJ3qWT)
 
 Photo Credit
 

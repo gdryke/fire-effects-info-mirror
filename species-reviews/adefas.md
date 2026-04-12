@@ -53,7 +53,7 @@ greasewood chamise, chamiso
 
 ## General Distribution
 
-![A map of California and Nevada with counties highlighted in green where chamise occurs. Many counties in California are highlighted, and just one in Nevada.]({{ site.baseurl }}/assets/images/species-reviews/feis-adefas_map.jpg)
+![A map of California and Nevada with counties highlighted in green where chamise occurs. Many counties in California are highlighted, and just one in Nevada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-adefas_map.jpg?itok=qWOnkL5q)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Chamise is the most characteristic and widely distributed chaparral species in C
 
 ## Site Characteristics
 
-![A photo of an open hillside covered with low, shrubby plants. Some have light yellow-white blossoms and others are darker green, with some sand visible between the shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-adefas_habitat.jpg)
+![A photo of an open hillside covered with low, shrubby plants. Some have light yellow-white blossoms and others are darker green, with some sand visible between the shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-adefas_habitat.jpg?itok=mcQTwKvP)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Published classifications listing chamise as a dominant or indicator species inc
 
 ## Botanical Description
 
-![A photo of part of a shrub covered in sprays of white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-adefas_flowers.jpeg)
+![A photo of part of a shrub covered in sprays of white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-adefas_flowers.jpeg?itok=O37Sb5iF)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ Chamise is a fire-sensitive species [136], and mortality may be substantial foll
 
 The following photographs show top-killed chamise immediately after the 2003 Otay Mountain Wildfire in San Diego County and chamise sprouting in postfire year 2. 
 
-![A photo of a completely burned, charred hillside with dead, burned plants and smoke in the air.]({{ site.baseurl }}/assets/images/species-reviews/adefas_adefas_burned.jpg)
+![A photo of a completely burned, charred hillside with dead, burned plants and smoke in the air.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/adefas_burned.jpg?itok=Gnj2NFym)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ Photo courtesy of the San Diego Wildfires Education Project.
 
 Burned chamise in Otay Mountain Wilderness Area, 2003.
 
-![A photo of a dry hilly landscape dotted with green shrubs. The rest of the vegetation is dry grass and dead, burned trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-adefas_sprouting.jpg)
+![A photo of a dry hilly landscape dotted with green shrubs. The rest of the vegetation is dry grass and dead, burned trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-adefas_sprouting.jpg?itok=shiP0hDx)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ Photo courtesy of the San Diego Wildfires Education Project.
 
 Sprouting chamise in Otay Mountain Wilderness Area, 2005.
 
-![A photo of a multi-stemmed shrub growing out of bare sandy soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-adefas_sprout.jpg)
+![A photo of a multi-stemmed shrub growing out of bare sandy soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-adefas_sprout.jpg?itok=E8rVGJ1S)
 
 Photo Credit
 

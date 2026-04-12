@@ -50,7 +50,7 @@ Florida nutmeg, gopherwood, polecat wood, Savin, stinking cedar
 
 ## General Distribution
 
-![A map of Florida, Alabama, and Georgia, with counties highlighted in green where Florida torreya occurs. Four counties where the three states meet are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-tortax_map.jpg)
+![A map of Florida, Alabama, and Georgia, with counties highlighted in green where Florida torreya occurs. Four counties where the three states meet are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tortax_map.jpg?itok=mXmK95kP)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ Common overstory associates not listed in Table 1A include spruce pine (_P. glab
 
 ## Botanical Description
 
-![A photo of a conifer branch with flat needles reaching across the frame in a dark, thick forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-tortax_foliage.jpg)
+![A photo of a conifer branch with flat needles reaching across the frame in a dark, thick forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-tortax_foliage.jpg?itok=Lthhzwqp)
 
 Photo Credit
 

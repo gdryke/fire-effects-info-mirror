@@ -67,7 +67,7 @@ While no studies measured the spread rate of common tansy, several references pr
 
 Throughout its nonnative North American range, common tansy is often described on recently and/or periodically disturbed sites that include vacant lots, gardens, pastures, railroads, roadsides, irrigation ditches, stream banks, and lake shores [30,37,40,64,97,100]. Common tansy is also reported in marshes, swamps, rangelands [40], prairies [15,31], meadows, and woodlands [97].
 
-![A landscape photo of open agricultural fields, with a large area green plants with yellow flowers in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-tanvul_habitat.jpeg)
+![A landscape photo of open agricultural fields, with a large area green plants with yellow flowers in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-tanvul_habitat.jpeg?itok=Rqvx1N_V)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Aboveground Description
 
-![A photo of an upright, leafy plant with flat yellow flower heads at the tops of the stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-tanvul_plant.jpg)
+![A photo of an upright, leafy plant with flat yellow flower heads at the tops of the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-tanvul_plant.jpg?itok=fD00X3ok)
 
 Photo Credit
 
@@ -148,7 +148,7 @@ In several parts of common tansy's nonnative North American range, there are sim
 
 Common tansy flowers from July to October throughout its North American range [24,26,32,44,77]. Although patterns in flowering date were not evident from the broad phenological descriptions in North American floras, they were described for common tansy genotypes collected throughout Finland and grown in a common garden. Plants collected from western and central Finland flowered earlier than those from southern and eastern Finland [45].
 
-![A close up photo of a plant's divided, serrated leaf and a group of ten round, yellow flowers with tiny petals forming a flat flowerhead.]({{ site.baseurl }}/assets/images/species-reviews/feis-tanvul_flowers.jpg)
+![A close up photo of a plant's divided, serrated leaf and a group of ten round, yellow flowers with tiny petals forming a flat flowerhead.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-tanvul_flowers.jpg?itok=NNE8oDy7)
 
 Photo Credit
 
@@ -182,7 +182,7 @@ Most common tansy florets are perfect, although the outermost florets are female
 
 Based on field studies in the Czech Republic and a review of available literature, Prach and Wade [71] indicated that common tansy typically produces seed in its 2nd year and that populations produce 10,000 to 100,000 seeds/m²/year. No other studies reported common tansy's reproductive age. In Gallatin County, common tansy produced an average of 67 flower heads/inflorescence, an estimated 9,966 flowers/stem, an estimated 2,553 filled achenes/plant, and an estimated 198,625 filled achenes/m² [40]. Provided below is information about seed germination as related to seed production and/or collection time.
 
-![A photo of an upright, leafy plant with brown, dead flowers at the top, in front of a sunny rocky riverbank.]({{ site.baseurl }}/assets/images/species-reviews/feis-tanvul_deadflowers.jpg)
+![A photo of an upright, leafy plant with brown, dead flowers at the top, in front of a sunny rocky riverbank.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-tanvul_deadflowers.jpg?itok=7GqApbPy)
 
 Photo Credit
 
@@ -280,7 +280,7 @@ Two weed fact sheets report that dense patches of dried common tansy stems burn 
 
 Altered fire regimes in common tansy habitats were not reported, but fuels in dense patches of the previous year's stems may change fire behavior or increase fire severity in areas with an abundance of common tansy. Fire studies on sites with dense common tansy populations are needed.
 
-![A photo of a clump of dead flower stems and heads growing in an open, dry-grass area.]({{ site.baseurl }}/assets/images/species-reviews/feis-tanvul_senesced.jpg)
+![A photo of a clump of dead flower stems and heads growing in an open, dry-grass area.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-tanvul_senesced.jpg?itok=s9b-1UDq)
 
 Photo Credit
 

@@ -64,7 +64,7 @@ Canadian lynx, gray lynx, gray wildcat, lynx, wildcat
 
 ## General Distribution
 
-![A photo of a fluffy gray and brown Canada lynx lying in the snow, with its black ear tufts blowing in the breeze. The background is blurry green forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyca_portrait.jpg)
+![A photo of a fluffy gray and brown Canada lynx lying in the snow, with its black ear tufts blowing in the breeze. The background is blurry green forest.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-lyca_portrait.jpg?itok=3zF0pjYC)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Monitoring population trends of Canada lynxes requires conducting winter trackin
 
 Reproductive success of Canada lynxes fluctuates in an approximate 10-year cyclical manner corresponding with the snowshoe hare cycle. During periods of snowshoe hare abundance, Canada lynx birth rates typically range from 73% to 93% for adults and 33% to 100% for yearlings [80,97]. One to two years following a snowshoe hare decline, the birth rate declines [97]. Adult females may continue to conceive but live births are few or none [80,97]. Of 3,130 adult female Canada lynx carcasses examined in the Yukon, Tanana, and Copper basins of Alaska, the number of Canada lynx placental scars/female decreased from 3.7 to 1.4 scars during a snowshoe hare decline phase [74].
 
-![A photo of three small fluffy Canada lynx kittens grouped together on the forest floor hissing at the camera. The kittens have green tags on both ears.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyca_kittens.jpg)
+![A photo of three small fluffy Canada lynx kittens grouped together on the forest floor hissing at the camera. The kittens have green tags on both ears.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-lyca_kittens.jpg?itok=sprQXvFZ)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Canada lynxes are negatively associated with topographic complexity [24,59], and
 
 Twenty-seven adult Canada lynxes (12 females and 15 males) preferred dense coniferous/mixedwood and deciduous forests for habitat on the Mackenzie Bison Sanctuary in the Northwest Territories. Dense coniferous forest was characterized as 50% to 100% canopy cover of black spruce or white spruce, jack pine, and tamarack (_Larix laricina_) or mixed coniferous/deciduous forest. Dense deciduous forest was characterized as dense- to closed-canopy deciduous forest (usually quaking aspen (_Populus tremuloide_ s)) or mixed deciduous forest and tall >7 feet (2 m) willow (_Salix_ spp.) [86].
 
-![A photo of a fluffy brown and gray Canada lynx standing in the snow in front of brushy winter forest. The lynx is looking back over its shoulder at the camera.]({{ site.baseurl }}/assets/images/species-reviews/feis-lyca_yukon.jpg)
+![A photo of a fluffy brown and gray Canada lynx standing in the snow in front of brushy winter forest. The lynx is looking back over its shoulder at the camera.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-lyca_yukon.jpg?itok=RMOeSPGV)
 
 Photo Credit
 

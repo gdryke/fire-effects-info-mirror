@@ -72,7 +72,7 @@ Blackjack oak occurs in the central and eastern United States from Long Island, 
 
 ## Site Characteristics
 
-![A photo of a tree growing on the edge of a ridge, out of very thin soil on bedrock. The tree has green and brown leaves, and there is bare rock and grass around it. In the distance there is a view of a valley bottom and a river.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemar_habitat.jpg)
+![A photo of a tree growing on the edge of a ridge, out of very thin soil on bedrock. The tree has green and brown leaves, and there is bare rock and grass around it. In the distance there is a view of a valley bottom and a river.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemar_habitat.jpg?itok=H_GjGXjU)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ The following published classifications list blackjack oak as a dominant or codo
 
 ## Botanical Description
 
-![A photo of a tree's lobed, lush, green leaves. The background is more different kinds of foliage, including a vine.]({{ site.baseurl }}/assets/images/species-reviews/feis-quemar_foliage.jpeg)
+![A photo of a tree's lobed, lush, green leaves. The background is more different kinds of foliage, including a vine.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quemar_foliage.jpeg?itok=O5mTaON0)
 
 Photo Credit
 

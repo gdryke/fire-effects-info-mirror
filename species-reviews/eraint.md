@@ -61,7 +61,7 @@ Plains lovegrass occurs from Florida and Georgia west to Arizona [19,49]. It ext
 
 Plains lovegrass is found on dry or sandy prairies [25], dry slopes [19], rocky hillsides, in canyons [29], open woods [24], and on disturbed sites [49]. Its occurrence is related to topography but varies from one area to another. Plains lovegrass in south-central Arizona showed a strong positive correlation with slope. Over 60 percent of occurrences were on slopes steeper than 30 percent [14]. In southeastern Arizona, plains lovegrass on undisturbed grassland occurred on level to gently rolling uplands [8]. In northwestern Arizona, plains lovegrass was found on rocky ledges and among boulders in interior chaparral [13].
 
-![A photo of a grass with many airy reproductive panicles growing from the base of a reddish rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-eraint_habit.jpg)
+![A photo of a grass with many airy reproductive panicles growing from the base of a reddish rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-eraint_habit.jpg?itok=nutSdwDF)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Associates of plains lovegrass in the mixed-grass and shortgrass prairie of the 
 
 Plains lovegrass is a native, warm-season, C-4, perennial bunchgrass [24,31,33,34]. Culms are wiry [19], erect, pith filled to hollow [24], and 12 to 35 inches (30-90 cm) tall [19]. Leaf blades are 4 to 10 inches [10-25 cm] long [25,26]. The inflorescence is an erect, open, diffuse, pyramidal panicle [24,25] 6 to 14 inches (15-35 cm) long. Spikelets are three- to nine-flowered [19,25,31]; the fruit is a caryopsis [25].
 
-[![A photo of a diffuse panicle of a grass with the forest floor in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-eraint_panicle.jpeg)Photo Credit Photo by Edith Bergquist, iNaturalist (CC BY-NC 4.0). Plains lovegrass panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a diffuse panicle of a grass with the forest floor in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-eraint_panicle.jpeg?itok=I8IEwO9T)Photo Credit Photo by Edith Bergquist, iNaturalist (CC BY-NC 4.0). Plains lovegrass panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

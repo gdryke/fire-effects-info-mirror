@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Rocky Mountain Douglas-fir communities has 
 
 ## Distribution
 
-![A map showing the distribution of Rocky Mountain Douglas-fir communities in the interior northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/rocky-mountain-douglas-fir_feis-rocky_mountain_douglas_fir_locator.jpg)
+![A map showing the distribution of Rocky Mountain Douglas-fir communities in the interior northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-rocky_mountain_douglas_fir_locator.jpg?itok=4HGNFgtK)
 
 Photo Credit
 

@@ -51,7 +51,7 @@ false mockorange, fendlera, fendlerbush
 
 ## General Distribution
 
-![Photo of map distribution of cliff fendlerbush in the United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-fenrup_map.png)
+![Photo of map distribution of cliff fendlerbush in the United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fenrup_map.png?itok=oTmmkMOz)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Cliff fendlerbush is often found associated with oneseed juniper (Juniperus mono
 
 ## Botanical Description
 
-![Photo of cliff fendlerbush in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-fenrup_plant.jpg)
+![Photo of cliff fendlerbush in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fenrup_plant.jpg?itok=fSAZ9o-k)
 
 Photo Credit
 

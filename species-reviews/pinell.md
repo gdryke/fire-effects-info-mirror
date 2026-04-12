@@ -63,7 +63,7 @@ For Florida slash pine: South Florida slash pine, Dade County slash pine, Dade C
 
 The native range of the typical slash pine variety includes the Coastal Plain from southern South Carolina to central Florida and west to eastern Louisiana. Slash pine has been planted as far north as Kentucky and Virginia [37], and as far west as eastern Texas, where it now reproduces naturally [24]. Florida slash pine occurs in central and southern Florida and in the lower Florida Keys [2,24].
 
-![Three maps of the southeastern U.S. with areas highlighted where general slash pine and the two slash pine varieties occur. Florida and surrounding areas of the coastal southeastern U.S. are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinell_maps.jpg)
+![Three maps of the southeastern U.S. with areas highlighted where general slash pine and the two slash pine varieties occur. Florida and surrounding areas of the coastal southeastern U.S. are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-06/feis-pinell_maps.jpg?itok=qooTqOBG)
 
 Photo Credit
 
@@ -103,11 +103,11 @@ north central Florida| general forest cts| Monk 1968
 
 ## Botanical Description 
  
-[![A photo of a stand of straight, tall pine trees with no branches until near the canopy, and round crowns of needles. The understory is mostly brown grass, with a few small shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinelle_habitat.jpeg)Photo Credit Photo by Robert Simons, iNaturalist.org, CC BY-NC 4.0. Typical variety of slash pine, Alachua Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a stand of straight, tall pine trees with no branches until near the canopy, and round crowns of needles. The understory is mostly brown grass, with a few small shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinelle_habitat.jpeg?itok=B7plVmye)Photo Credit Photo by Robert Simons, iNaturalist.org, CC BY-NC 4.0. Typical variety of slash pine, Alachua Co., FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Slash pine is a native evergreen conifer with thick platy bark and relatively long needles. It grows rapidly and lives approximately 200 years. Slash pine has an extensive lateral root system and a moderate taproot [24]. The typical slash pine variety has a straight bole and a narrow ovoid crown. Mature trees of this variety vary in height from 60 to 100 feet (18-30.5 m) and average 24 inches (61 cm) in d.b.h. [13].
 
-[![A stand of tall, straight pine trees growing on sandy, open ground, with open, rounded crowns. The understory is open with lots of bare ground and a few grasses and small shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinelld_habitat.jpg)Photo Credit Wikimedia Commons photo by Chris M. Morris, CC BY 2.0. Florida slash pine, Big Pine Key, FL.](<https://creativecommons.org/licenses/by/2.0/deed.en>)
+[![A stand of tall, straight pine trees growing on sandy, open ground, with open, rounded crowns. The understory is open with lots of bare ground and a few grasses and small shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinelld_habitat.jpg?itok=0siNwFJg)Photo Credit Wikimedia Commons photo by Chris M. Morris, CC BY 2.0. Florida slash pine, Big Pine Key, FL.](<https://creativecommons.org/licenses/by/2.0/deed.en>)
 
 The two varieties differ considerably in morphology. Florida slash pine has longer needles, smaller cones, denser wood, and a thicker and longer taproot [24]. The trunk forks into large spreading branches which form a broad, rounded crown [13,46]. Mature trees attain only 56 feet (17 m) in height. The relatively short stature of Florida slash pine probably evolved to avoid tropical storm damage [21].
 
@@ -166,7 +166,7 @@ Estimates of the natural fire frequency of slash pine flatwoods range from 3 to 
 
 The bark structure of slash pine is important to its fire resistance. Outer bark layers overlap and protect grooves where the bark is thinner [6]. The platy bark flakes off to dissipate heat [21].
 
-![A close up photo of a grassy-looking tuft of pine needles growing out of open ground. There are some palm-like plants in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinelld_grassstage.jpg)
+![A close up photo of a grassy-looking tuft of pine needles growing out of open ground. There are some palm-like plants in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinelld_grassstage.jpg?itok=vhw425jV)
 
 Photo Credit
 

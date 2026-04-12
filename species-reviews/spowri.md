@@ -36,7 +36,7 @@ Esser, Lora L. 1995. _Sporobolus wrightii_ , big sacaton. In: Fire Effects Infor
 
 ## Taxonomy
 
-[![A photo of a large bunchgrass with shrubby and grassy hills behind and desert mountain peaks in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-spowri_habitat.jpeg)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Big sacaton growing in Santa Cruz County, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a large bunchgrass with shrubby and grassy hills behind and desert mountain peaks in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-spowri_habitat.jpeg?itok=MJ5Cktpc)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Big sacaton growing in Santa Cruz County, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 The currently accepted scientific name of big sacaton is _Sporobolus wrightii_ Munro (Poaceae) [27,30,45,54].
 
@@ -50,7 +50,7 @@ sacaton, giant sacaton
 
 ## Distribution
 
-[![A photo of a large grass with some green stems and some yellow stems with old panicles. Subshurbs, shrubs, and grasses dominate desert vegetation behind, with desert mountains rising in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-spowri_plant.jpg)Photo Credit Photo by CK2AZ, iNaturalist (CC BY 4.0). Big sacaton growing near Willcox, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a large grass with some green stems and some yellow stems with old panicles. Subshurbs, shrubs, and grasses dominate desert vegetation behind, with desert mountains rising in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-spowri_plant.jpg?itok=dZFrqvGi)Photo Credit Photo by CK2AZ, iNaturalist (CC BY 4.0). Big sacaton growing near Willcox, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## General Distribution
 
@@ -71,7 +71,7 @@ Big sacaton occurs mainly in semidesert grassland and shrubland communities [2,7
 
 In southeastern Arizona big sacaton grassland is common in lowland habitats and on floodplains [4,6,12]. Common associates include vine-mesquite (_Panicum obtusum_), hairy grama (_Bouteloua hirsuta_), slender grama (_B. filiformis_), and sand dropseed (_Sporobolus cryptandrus_) [6,34,43]. In Arizona and New Mexico big sacaton occurs on lower elevation plateaus and mesas with New Mexico feathergrass (_Stipa neomexicana_) [46]. In New Mexico a giant dropseed (_Sporobolus giganteus_)-big sacaton-little bluestem (_Schizachyrium scoparium_) series has been described [19]. In Texas big sacaton is a prominent species in bottomlands and on creek flats of the Rio Grande [33]. At the mouth of the Rio Grande, a big sacaton series has been described [40]. It forms a mosaic with shrublands in the Texas ebony (_Pithecellobium flexicaule_)-snake eyes (_Phaulothamnus spinescens_) series, tidal flats in the glasswort (_Salicornia bigelovii_ /_S. virginica_)-saltwort (_Batis maritima_) series and cordgrass (_Spartina_ spp.) marshes. It is also a member of the saltgrass (_Distichlis spicata_)-Olney threesquare (_Scirpus americanus_) series [40].
 
-[![A photo of bunchgrasses growing at even intervals, with lower grasses covering interspaces.]({{ site.baseurl }}/assets/images/species-reviews/feis-spowri_stand.jpg)Photo Credit Photo by Daniel McNair, iNaturalist (CC BY 4.0). A stand of big sacaton.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of bunchgrasses growing at even intervals, with lower grasses covering interspaces.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-spowri_stand.jpg?itok=zEXdX4jT)Photo Credit Photo by Daniel McNair, iNaturalist (CC BY 4.0). A stand of big sacaton.](<https://creativecommons.org/licenses/by/4.0/>)
 
 In the Chihuahuan Desert big sacaton grassland communities have been described [25,49,50]. In Arizona a western honey mesquite (_Prosopis glandulosa_ var. _torreyana_) and big sacaton grassland occurs [49]. Big sacaton is found in bolson depressions surrounded by desert scrub such as honey mesquite; these basins may encircle a saline marsh or playa [50]. Common associates include fourwing saltbush (_Atriplex canescens_), mound saltbush (_A. obovata_), tobosa (_Hilaria mutica_), alkali sacaton (_Sporobolus airoides_), and seepweed (_Suaeda_ spp.) [25,50]. In north-central Mexico big sacaton is found in stands of prickly-pear (_Opuntia_ spp.) cactus [29].
 
@@ -85,7 +85,7 @@ The following publications list big sacaton as a community dominant or codominan
 
 ## Botanical Description
 
-[![A close-up photo of a grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-spowri_panicle.jpeg)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Big sacaton seedheads.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-spowri_panicle.jpeg?itok=MScgeHvu)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Big sacaton seedheads.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Big sacaton is a native, perennial bunchgrass 3 to 6 feet (0.9-1.8 m) tall [5,14,27,47] that grows in dense clumps up to 3 feet (0.9 m) in diameter [47,48]. Leaves are up to 12 inches (30 cm) long [47,48]. Seedheads are open and 1 to 2 feet (0.3-0.6 m) long [48].
 

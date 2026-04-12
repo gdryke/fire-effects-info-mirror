@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for mesic-dry western hemlock communities has n
 
 ## Distribution
 
-![A map showing the distribution of mesic-dry western hemlock communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/western-hemlock-mesic-dry_feis-western_hemlock_mesic_dry_locator.jpg)
+![A map showing the distribution of mesic-dry western hemlock communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-western_hemlock_mesic_dry_locator.jpg?itok=BQb2bQ19)
 
 Photo Credit
 

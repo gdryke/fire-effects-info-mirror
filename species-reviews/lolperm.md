@@ -51,7 +51,7 @@ annual ryegrass, darnel
 
 ## Distribution
 
-[![A photo of a grass spike in front of a rocky hill with cover primarily by forbs and possibly graminoids and bare ground, under blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-lolperm_spikelets.jpeg)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Italian ryegrass growing in Santa Clara County, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass spike in front of a rocky hill with cover primarily by forbs and possibly graminoids and bare ground, under blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-lolperm_spikelets.jpeg?itok=t8UC00wW)Photo Credit Photo by Matt Berger, iNaturalist (CC BY 4.0). Italian ryegrass growing in Santa Clara County, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## General Distribution
 
@@ -73,11 +73,11 @@ Italian ryegrass is reported to grow at less than 3,280 (1,000 m) in California 
 
 Italian ryegrass occurs in grassland communities. It is a component of the California annual grasslands, a community composed of exotic grass species [6,28]. It occurs in a serpentine bunchgrass community, a freshwater seep community, and a non-native grassland community in Ring Mountain Preserve in California [16].
 
-[![A photo of grasses and a few forbs in a grassland, with shades of green and gold.]({{ site.baseurl }}/assets/images/species-reviews/feis-lolperm_grassland.jpeg)Photo Credit Photo by Millie Basden, iNaturalist (CC BY 4.0). Italian ryegrass growing in a grassland in San Diego County, California.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of grasses and a few forbs in a grassland, with shades of green and gold.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-lolperm_grassland.jpeg?itok=-hrXL_5h)Photo Credit Photo by Millie Basden, iNaturalist (CC BY 4.0). Italian ryegrass growing in a grassland in San Diego County, California.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical and Ecological Characteristics
 
-[![A close-up photo of grass spikes.]({{ site.baseurl }}/assets/images/species-reviews/feis-lolperm_spikelets2.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Italian ryegrass spikes.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of grass spikes.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2025-05/feis-lolperm_spikelets2.jpg?itok=4RfV-SvA)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Italian ryegrass spikes.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ## Botanical Description
 

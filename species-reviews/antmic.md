@@ -75,7 +75,7 @@ Some species associated with littleleaf pussytoes in sagebrush or grassland habi
 
 Littleleaf pussytoes is a stoloniferous, mat-forming, perennial forb. Stems are generally 1.6 to 12 inches (4-30 cm) tall. Leaves are spoon-shaped or narrowly oblong and simple, alternate, and mostly basal. Cauline leaves are reduced upwards. The inflorescence is a congested to open cyme with 2 to 13 heads. The fruit is an achene 0.03 to 0.05 inch (0.08-0.12 cm) long [12,16,28]. Stolons are usually 0.4 to 2 inches (1-5 cm) long [1].
 
-![A silver ruler against rosettes of gray-green foliage.]({{ site.baseurl }}/assets/images/species-reviews/antmic_antmic_leaves.jpeg)
+![A silver ruler against rosettes of gray-green foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/antmic_leaves.jpeg?itok=Hdlx2T9A)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Littleleaf pussytoes flowers from the end of May to July [5,12].
 
 Littleleaf pussytoes reproduces from seed or spreads vegetatively through stolons. Seeds are light and wind dispersed. They are generally not stored in soil seedbanks [22]. Littleleaf pussytoes is dioecious [1,16].
 
-![A close-up of closed white flower buds clustered at the top of a green stem.]({{ site.baseurl }}/assets/images/species-reviews/antmic_antmic_flower.jpeg)
+![A close-up of closed white flower buds clustered at the top of a green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/antmic_flower.jpeg?itok=a9XWhm02)
 
 Photo Credit
 

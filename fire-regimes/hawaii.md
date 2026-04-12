@@ -98,7 +98,7 @@ Several factors make characterizing Hawai'ian presettlement and historical fire 
 
 This Fire Regime Synthesis brings together information from 2 sources: the scientific literature as of 2013, and the Biophysical Settings (BpS) models and associated Fire Regime Data Products developed by LANDFIRE, which are based on literature, local data, and/or expert estimates. This synthesis is intended to:
 
-![Satellite image of Hawai'ian islands]({{ site.baseurl }}/assets/images/fire-regimes/hawaii_feis-Hawaii.Nasa_.jpg)
+![Satellite image of Hawai'ian islands](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-Hawaii.Nasa_.jpg?itok=mCC30h0b)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Published reviews that describe characteristics of fire regimes in Hawai'ian eco
 
 This review describes fire regime characteristics in 3 groups of plant communities, which are based primarily on elevation and moisture gradients: lowland dry and mesic communities, upland dry and mesic communities, and lowland and upland wet communities.
 
-![A map of the Hawai'ian Islands shaded different colors to indicate vegetation type.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_map.jpg)
+![A map of the Hawai'ian Islands shaded different colors to indicate vegetation type.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-07/feis-hawaii_map.jpg?itok=TbMFEulp)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Figure 2. Distribution of Hawai'ian landcover.
 
 ### Lowland Dry and Mesic Communities
 
-![A map of the Hawai'ian Islands with green and red highlighting, mostly around the coast of each island. The center of each island is shaded white.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_lowland_dry_map1.jpg)
+![A map of the Hawai'ian Islands with green and red highlighting, mostly around the coast of each island. The center of each island is shaded white.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_lowland_dry_map1.jpg?itok=kc-yCz3T)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Native grasses found in lowland dry and mesic communities included kawelu (_Erag
 
 ### Upland Dry and Mesic Communities
 
-![A map of the Hawai'ian Islands with some islands almost entirely white, while other islands are shaded a variety of colors, primarily in their centers.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_upland_dry_map1.jpg)
+![A map of the Hawai'ian Islands with some islands almost entirely white, while other islands are shaded a variety of colors, primarily in their centers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_upland_dry_map1.jpg?itok=pH1EufZh)
 
 Photo Credit
 
@@ -190,7 +190,7 @@ This vegetation type is comprised of very sparse native shrublands. Common speci
 
 ### Lowland and Upland Wet Communities
 
-![A map of the Hawai'ian Islands with islands shaded primarily white, with several shades of dark green mostly on their eastern sides.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_wet_map1.jpg)
+![A map of the Hawai'ian Islands with islands shaded primarily white, with several shades of dark green mostly on their eastern sides.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_wet_map1.jpg?itok=9nUvsxw7)
 
 Photo Credit
 
@@ -256,7 +256,7 @@ By the time of European contact in the late 1700s, most of the native dry and me
 
 Observations by early European explorers confirm the presence of extensive fire-maintained tanglehead grasslands (rather than native forest and woodlands) occupying coastal lowlands, plains, and hillsides of leeward areas [10,17,26,51]. In 1792, Menzies observed a "large fire kindled a few miles to the eastward of Waimea, Kaua'i, and spreading over the face of that plain country, which was mostly covered with dry, rank grass (tanglehead) that burnt with great rapidity". The inhabitants explained that the fire had been set so that the next crop of grass would grow up clear and free of stumps, and would therefore be better for thatching their houses [26]. Others noted the "predominance of course spiry grass that had the appearance of having undergone the action of fire" [26], and Egler [17] describes the sport of rolling burning barrels of tar down the grass-covered hillsides. These pili-dominated grasslands produce abundant, continuous, fine fuels which are dry most of the year, readily carry fire, and are promoted and maintained by annual burning [51].
 
-![An aerial photo of a dark green, rectangular patch of forest on a hillside, with brown and green grasses and a few scattered trees covering much of the rest of the hillside.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_auwahi_dryland_forest.jpg)
+![An aerial photo of a dark green, rectangular patch of forest on a hillside, with brown and green grasses and a few scattered trees covering much of the rest of the hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_auwahi_dryland_forest.jpg?itok=8gQWpwdk)
 
 Photo Credit
 
@@ -264,7 +264,7 @@ Photo courtesy of Arthur Medeiros.
 
 Remnant stand of dry forest surrounded by nonnative grasses, located at Auwahi, Maui.
 
-![A photo ofgrasses blowing in the wind in the foreground, with a grass-covered hillside extending behind. A sliver of ocean is visible before another coastline and slope in the background.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_pili_grasslands.jpg)
+![A photo ofgrasses blowing in the wind in the foreground, with a grass-covered hillside extending behind. A sliver of ocean is visible before another coastline and slope in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_pili_grasslands.jpg?itok=qrOQ8HwW)
 
 Photo Credit
 
@@ -293,7 +293,7 @@ A grass/fire cycle fueled by nonnative grasses and/or ferns has been identified 
 
 Prior to human settlement (approximately 400 CE and later), fires may have occurred infrequently in the montane dry and mesic communities of Maui and Hawai'i (the two islands where these higher-elevation communities occur) [20,25,37,38,44]. Communities in this upland zone often have a pronounced dry season and are characterized by a mosaic of koa or 'ohi'a stands, shrublands, and grasslands. Infrequent fire occurrence is implied from 2 studies of soil profiles on the island of Hawai'i. On the southeast flank of Mauna Loa, in Hawai'i Volcanoes National Park, researchers found charcoal approximately 2,170 years old in 2 soil pits in forests at 4,000-4,300 feet (1,200-1,300 m), indicating that a fire burned forest vegetation in the area at around 220 BC [37] (Table 1). Soil pits dug in nearby savanna vegetation did not contain charcoal, but analysis of soil properties led the researchers to suggest that the savanna originated from the fire. At the Pohakuloa Training Area, Hawai'i, researchers found 18 pieces of macroscopic charcoal in 5 soil pits in dry montane Florida hopbush and grass-dominated shrublands. The ages of charcoal fragments ranged from modern (2 pieces) to 7,730 years BP (1 piece); 13 pieces were older than 1,500 years BP [20,25] (Table 2). Fragments were dated at 8 distinct ages implying at least 8 distinct fires occurred prior to human colonization. Four fragments were identified as either 'akoko or 'ohi'a, but neither of these species occur there as of 2012. Kinney [25] suggests that present-day communities may be responses to "both recent anthropogenic fires and the deeply embedded volcanic history of the landscape". Ages of these charcoal particles predate the arrival of Polynesians to Hawai'i indicating that repeated fires occurred prior to human settlement. While these 2 studies indicate the occurrence of infrequent fire in montane communities, the scope of literature remains inadequate to characterize fire regimes in these communities.
 
-![A photo of green shrubs and some dried grasses covering a foreground slope, with a large, farmed valley below and mountains behind.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_montane_shrublands.jpg)
+![A photo of green shrubs and some dried grasses covering a foreground slope, with a large, farmed valley below and mountains behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_montane_shrublands.jpg?itok=iTNKmPDF)
 
 Photo Credit
 
@@ -325,7 +325,7 @@ Literature describing post-European fire regime characteristics in montane and s
 
 ### Presettlement Fire Regime
 
-![A photo of dense trees growing on a slope, with some ferns visible and trunks emergent from the canopy.]({{ site.baseurl }}/assets/images/fire-regimes/feis-hawaii_rain_forest.jpg)
+![A photo of dense trees growing on a slope, with some ferns visible and trunks emergent from the canopy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-hawaii_rain_forest.jpg?itok=ma3sYG3H)
 
 Photo Credit
 
@@ -474,7 +474,7 @@ Hawaii| Hawaii wet-mesic coastal strand| 7918270| NA| —| —| —| —
 
 Thumbnail
 
-[![Table1.pdf]({{ site.baseurl }}/assets/images/fire-regimes/hawaii_Table1.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-07/Table1.pdf>)
+[![Table1.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-07/Table1.pdf-p1.jpg?itok=VzagcxkI)](<https://research.fs.usda.gov/sites/default/files/2025-07/Table1.pdf>)
 
 ## References
 

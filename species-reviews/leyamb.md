@@ -36,7 +36,7 @@ Anderson, Michelle D. 2004. _Leymus ambiguus_ , Colorado wildrye. In: Fire Effec
 
 ## Taxonomy
 
-![A photo of a grayish, light green bunchgrass growing on a gravelly substrate with more bunchgrasses growing around and behind. Shrubby conifers grow behind, and bedrock with sparse shrubs growing on it slopes upwards in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-leyamb_plant.jpg)
+![A photo of a grayish, light green bunchgrass growing on a gravelly substrate with more bunchgrasses growing around and behind. Shrubby conifers grow behind, and bedrock with sparse shrubs growing on it slopes upwards in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leyamb_plant.jpg?itok=XIJqezR_)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ Colorado wildrye grows primarily along the east slope of the Rocky Mountains, fr
 
 Plants database provides a distributional map of Colorado wildrye.
 
-![A photo of several bunchgrasses with narrow reproductive spikes growing amongst other grasses and forbs with some visible bare ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-leyamb_plants.jpg)
+![A photo of several bunchgrasses with narrow reproductive spikes growing amongst other grasses and forbs with some visible bare ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leyamb_plants.jpg?itok=98RHXipP)
 
 Photo Credit
 

@@ -101,7 +101,7 @@ Red currant is listed as a codominant in the following cover and habitat types:
 
 ## Botanical Description
 
-![Photo of a woody stem with large green leaves and small branches covered with pink blossoms.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribtri_plant.jpg)
+![Photo of a woody stem with large green leaves and small branches covered with pink blossoms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ribtri_plant.jpg?itok=6VrFFKV-)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Red currant flowers from May to June in the northern Great Plains [32,50,74] and
 
 Red currant probably regenerates vegetatively [37]; however, information specific to red currant was not available in the literature. Red currant regenerates from seed [37,85].
 
-![Photo of a cluster of woody stems with large green leaves and red berries growing in rocky habitat.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribtri_hero.jpeg)
+![Photo of a cluster of woody stems with large green leaves and red berries growing in rocky habitat.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ribtri_hero.jpeg?itok=brUTOIS2)
 
 Photo Credit
 

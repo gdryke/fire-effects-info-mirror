@@ -76,7 +76,7 @@ The distribution of each acorn woodpecker subspecies is listed below [6]:
 
 ## Plant Communities
 
-![A photo of an open savanna and hillside dotted with oak trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-mefo_oaksavanna.jpg)
+![A photo of an open savanna and hillside dotted with oak trees.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-mefo_oaksavanna.jpg?itok=FQCU_PMh)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Acorn woodpecker populations in the southwestern United States occupy primarily 
 
 ## Biological Characteristics
 
-![A photo of a black, white and red woodpecker with a white eye perched on a branch.]({{ site.baseurl }}/assets/images/species-reviews/mefo_feis-MEFO_oak2.jpg)
+![A photo of a black, white and red woodpecker with a white eye perched on a branch.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-MEFO_oak2.jpg?itok=FcjPlHJm)
 
 Photo Credit
 
@@ -223,7 +223,7 @@ According to Breeding Bird Surveys conducted in western North America from 1968 
 
 #### Granaries
 
-![A photo of a black, white and red woodpecker on a tree trunk completely covered in holes, many of which are filled with acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-mefo_granary.jpg)
+![A photo of a black, white and red woodpecker on a tree trunk completely covered in holes, many of which are filled with acorns.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2026-01/feis-mefo_granary.jpg?itok=HkqoEYWm)
 
 Granaries are used by acorn woodpeckers for acorn storage [35,45,46,60,72,76,89,106,121,155]. There is usually one primary granary in an acorn woodpecker group territory, and one or more smaller secondary granaries [46,72,76,91,122,132]. Primary granaries are larger and contain more storage holes than secondary granaries [46,72,91,155]. Of 53 acorn woodpecker groups studied at Hastings Reservation, mean number of granaries within a territory was 2.1 (range 1 to 7) [91]. Acorns are harvested during fall and early winter and stored in holes drilled in the granary. The same granaries are used year after year, and new storage holes are continually created [35,45,46,72]. Dead or live trees are used for granaries, as long as they contain deep, dry bark [60], and granaries are typically located in tree trunks or lower tree limbs [76]. The cambium layer is rarely penetrated, so little detrimental effect to the granary tree occurs [106]. Eventually, granary trees are lost to fire, rotting, or falling [46,72]. Granaries may also be located in utility poles, fence posts [72,91,106], pine cones [60,91], eaves and wood trim of buildings [72,91,106], and under clay roof tiles [91]. Acorn woodpeckers in San Diego County, California, stored coast live oak acorns in Coulter pine (_P. coulteri_) cones, which exceeded 12 inches (30 cm) in length [60]. In Engelmann oak and coast live oak habitat in Santa Rosa Plateau Reserve, California, acorn woodpeckers stored surplus acorns in boulders composed of porphyritic basalt [91].
 
@@ -384,7 +384,7 @@ In general, birds are usually favored by successional diversity and new growth o
 
 Acorn woodpeckers are adapted to habitat with recurring fires of varying severity [39,105,142], which create a mosaic of habitat types [111,112,157]. Acorn woodpecker abundance appears to increase several years following fire [18,62], probably due to an increase in acorn production [62]. Following fire in ponderosa pine habitat, acorn woodpecker use may increase in response to increases in insect populations [88].
 
-![A photo of a black, white, and red woodpecker with a large insect in its beak, perched on the side of a burned tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-mefo_burned.jpg)
+![A photo of a black, white, and red woodpecker with a large insect in its beak, perched on the side of a burned tree.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-mefo_burned.jpg?itok=N2RqPR-q)
 
 Photo Credit
 

@@ -82,7 +82,7 @@ Soras were observed at low abundances on a site with Douglas-fir (_Pseudotsuga m
 
 ## Biological Characteristics
 
-![A photo of a brown and gray wetland bird with a black mask, yellow beak, and green-yellow legs walking on long, flattened green grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-poca_grasses.jpg)
+![A photo of a brown and gray wetland bird with a black mask, yellow beak, and green-yellow legs walking on long, flattened green grasses.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-poca_grasses.jpg?itok=blVB4NyC)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Sora eggs are eaten by several species including American minks (_Mustela vison_
 
 Although sora nesting activities have been observed from late April through early August, the peak nesting period typically occurs from May to early July. In New York, nesting was initiated in late April [34]. A nest search and literature review study of soras in Colorado reports a clutch initiated in early August. However, mean clutch initiation dates occurred in May and June in regions across the state [12]. Studies from northern Ohio [2], North Dakota [59], and Alberta [36] report nesting from May to July. In a review, sora nests with eggs were recorded from early May to early July in Indiana [42].
 
-![A photo of a nest made of dry reeds with 11 white eggs in the nest.]({{ site.baseurl }}/assets/images/species-reviews/feis-poca_nest.jpg)
+![A photo of a nest made of dry reeds with 11 white eggs in the nest.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-poca_nest.jpg?itok=AUJJEA9u)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ During late summer, soras are flightless for a period during their post-nuptial 
 
 Water and emergent vegetation are important sora habitat characteristics.
 
-![A photo of a wetland with green grassy vegetation growing out of algae-covered water. Some trees and hills are visible in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-poca_habitat.jpeg)
+![A photo of a wetland with green grassy vegetation growing out of algae-covered water. Some trees and hills are visible in the distance.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-poca_habitat.jpeg?itok=l8u9EA4A)
 
 Photo Credit
 

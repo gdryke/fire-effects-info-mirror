@@ -36,7 +36,7 @@ Hauser, A. Scott. 2005. _Juncus arcticus_ subsp. _littoralis_ , mountain rush. I
 
 ## Taxonomy
 
-![A photo of rush stems with infrutescences growing from nodes along the round stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-junarcl_plant.jpg)
+![A photo of rush stems with infrutescences growing from nodes along the round stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-junarcl_plant.jpg?itok=_y4Z7j3U)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Plants database provides a distributional map of mountain rush.
 
 ## Site Characteristics
 
-![A photo of dense vegetation,, with rushes at the lowest part of a depression, grasses growing slightly up a hill, and conifers growing uphill of the grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-junarcl_sitechars.jpg)
+![A photo of dense vegetation,, with rushes at the lowest part of a depression, grasses growing slightly up a hill, and conifers growing uphill of the grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-junarcl_sitechars.jpg?itok=5xdrwPqZ)
 
 Photo Credit
 
@@ -331,7 +331,7 @@ Saskatchewan:
 
 ## Botanical Description
 
-![A photo of a round rush stem with an inflorescence emerging from partway up the stem with clusters of small, intricate flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-junarcl_flowers.jpg)
+![A photo of a round rush stem with an inflorescence emerging from partway up the stem with clusters of small, intricate flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-junarcl_flowers.jpg?itok=SMqZmfs8)
 
 Photo Credit
 
@@ -386,7 +386,7 @@ The phenological development of mountain rush in a western Utah salt marsh commu
  
 ## Regeneration Processes
 
-![A photo of a rush growing in sandy soil. Where stems are denser, many have inflorescences. The plant extends from older stems in straight lines with ever-shorter stems as they get farther from the older stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-junarcl_rhizomes.jpg)
+![A photo of a rush growing in sandy soil. Where stems are denser, many have inflorescences. The plant extends from older stems in straight lines with ever-shorter stems as they get farther from the older stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-junarcl_rhizomes.jpg?itok=RKQnIfcP)
 
 Photo Credit
 

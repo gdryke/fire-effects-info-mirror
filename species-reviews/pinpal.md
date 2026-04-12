@@ -83,7 +83,7 @@ North Carolina| veg. cts| Wells 1928
 
 ## Botanical Description 
  
-[![A close up photo of a pine tree's long, light green needles and brown, woody cones. The branch has scaly reddish brown bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpal_cones.jpeg)Photo Credit Photo by Tim Guida, iNaturalist.org, CC BY-NC 4.0. Longleaf pine with mature cones, Jackson County, MS.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of a pine tree's long, light green needles and brown, woody cones. The branch has scaly reddish brown bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinpal_cones.jpeg?itok=mbQBTOui)Photo Credit Photo by Tim Guida, iNaturalist.org, CC BY-NC 4.0. Longleaf pine with mature cones, Jackson County, MS.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Longleaf pine is a long-lived, native, evergreen conifer with scaly bark. Needles are 8 to 18 inches (20-46 cm) long; cones are 6 to 8 inches (15-20 cm) long. Mature trees attain a height of 100 to 120 feet (30.5-36.6 m) and have the potential of living 4 to 5 centuries. The longleaf pine seed is the largest of all southern pines. On good sites, longleaf pine grows an 8- to 12-foot-long (2.4-3.7 m) taproot and extensive lateral roots [7,38,54].
 
@@ -105,7 +105,7 @@ Longleaf pine seed develops in a 3-year process. Strobili are initiated during m
 
 ## Successional Status
 
-[![A photo of a stand of tall, thin pine trees with sparse, open crowns. The understory is mostly low palm-type plants with some grasses. The canopy is very open and all the trees are the same kind of pine.]({{ site.baseurl }}/assets/images/species-reviews/pinpal_feis-PINPAL_habitat.jpg)Photo Credit Photo by Nash Turley, iNaturalist.org, CC BY-NC 4.0. A longleaf pine stand with saw palmetto understory, Orange County, FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a stand of tall, thin pine trees with sparse, open crowns. The understory is mostly low palm-type plants with some grasses. The canopy is very open and all the trees are the same kind of pine.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-PINPAL_habitat.jpg?itok=9zoSsmYW)Photo Credit Photo by Nash Turley, iNaturalist.org, CC BY-NC 4.0. A longleaf pine stand with saw palmetto understory, Orange County, FL.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Longleaf pine is intolerant of shade and competition. With frequent fire, uneven-aged pure stands of longleaf pine form parklike savannas [7,20,37]. Because longleaf pine regenerates in openings created by the death of mature trees, small clusters of trees of the same age are dispersed throughout the stand [43]. In the absence of frequent fire, longleaf pine is replaced by hardwoods and other southern pines [7,54]. Loblolly pine and shortleaf pine will invade and soon dominate a site of grass-stage longleaf pine [11]. Recruitment of longleaf pine ceases 15 years after fire. Invasion by hardwoods accelerates the decline of mature longleaf pine [24].
 
@@ -132,7 +132,7 @@ Longleaf pine is classified as fire-resistant [10,36]. It is ideally suited to a
 
 Longleaf pine has many adaptations to fire. The grass-stage seedling is resistant to fire. If top-killed, it sprouts from the root collar. Once the terminal bud develops, it is protected by a moist, dense tuft of needles. As the tuft burns towards the bud from the needle tips, water is vaporized. The steam reflects heat away from the bud and extinguishes the fire [37,38]. The bud also has scales for protection and a silvery pubescence that probably reflects heat [29,37].
 
-[![A photo of a burned forest of tall straight trees, with two small pine trees in the foreground with almost all brown needles, but some green growth at the very top. There is very little green on the ground and all the tree trunks are black, but there are green needles showing at the top of the image.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinpal_postfire.jpeg)Photo Credit Photo by Jared Gorrell, iNaturalist.org, CC BY-NC 4.0. A longleaf pine stand after fire with growth from the terminal bud on two saplings, Moore County, NC.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a burned forest of tall straight trees, with two small pine trees in the foreground with almost all brown needles, but some green growth at the very top. There is very little green on the ground and all the tree trunks are black, but there are green needles showing at the top of the image.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-pinpal_postfire.jpeg?itok=EP9mxmqF)Photo Credit Photo by Jared Gorrell, iNaturalist.org, CC BY-NC 4.0. A longleaf pine stand after fire with growth from the terminal bud on two saplings, Moore County, NC.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 During the grass-stage, the seedling invests heavily in a taproot and in root collar size. When height growth is initiated, often the year after a fire, the seedling uses its stored reserves to quickly grow a straight stem with no branches. After one growing season, the terminal bud is usually above the level of the next surface fire [37,38].
 

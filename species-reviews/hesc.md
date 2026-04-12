@@ -89,7 +89,7 @@ Three reviews are also referred to repeatedly, including a management report foc
 
 ### Physical Description
 
-![A photo of a small, slender, speckled brown salamander on mossy wood.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesc_log.jpg)
+![A photo of a small, slender, speckled brown salamander on mossy wood.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-hesc_log.jpg?itok=-i2Vitwl)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Female four-toed salamanders lay clutches of up to about 50 eggs in solitary or 
 
 Four-toed salamander nests contain eggs of one or more females, with less than 50 eggs comprising individual clutches. Observations of four-toed salamander nests in Michigan suggest that single clutches were comprised of less than 40 eggs [13]. In eastern Wisconsin, nests of 40 eggs or less were considered single clutches [79]. The occurrence of 80 ova in a mature female led the researcher to consider this the maximum size of a single clutch in south-central and coastal Virginia [94]. The number of eggs in nests observed in New York averaged 24.4 and ranged from 12 to 65 [42]. In south-central and coastal Virginia, 40% of nests had 30 to 50 eggs, and nest size ranged from 6 to 868 eggs [94]. In eastern Wisconsin, the number of eggs in nests ranged from 17 to 200 eggs and averaged 51.3 eggs [79]. Communal nests of over 500 [95] and 800 eggs [94] in the coastal plain of Virginia and over 1,000 eggs in southern Michigan [13] have been documented. The proportion of nests considered communal ranged from less than 5% near the Tennessee-North Carolina border [27] to 46% in eastern Wisconsin [79]. Hypotheses for the occurrence of communal nests include limited nesting sites [48] and dilution of predation risk [22].
 
-![Two photos side by side. On the left, a small speckled brown salamander stands in wet moss over a cluster of round, white-grey eggs. On the right, a boggy forest with standing water.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesc_eggs_and_habitat.jpg)
+![Two photos side by side. On the left, a small speckled brown salamander stands in wet moss over a cluster of round, white-grey eggs. On the right, a boggy forest with standing water.](https://research.fs.usda.gov/sites/default/files/styles/900px_wide/public/2026-01/feis-hesc_eggs_and_habitat.jpg?itok=rjAZrbXO)
 
 Photo Credit
 
@@ -264,7 +264,7 @@ Fires occurring during inactive periods such as late summer or winter would like
 
 ## Indirect Fire Effects
 
-![A photo of a bog habitat with lily pads and some grasses growing in standing water, and burned trees with exposed roots on the other side of the bog.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesc_postfire_pocosinlakes.jpg)
+![A photo of a bog habitat with lily pads and some grasses growing in standing water, and burned trees with exposed roots on the other side of the bog.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2026-01/feis-hesc_postfire_pocosinlakes.jpg?itok=7lyNfJa8)
 
 Four-toed salamander larvae may be impacted by changes to stream pool and woodland pond habitats following fire. Alterations to adult habitat that are likely to have the largest impact on four-toed salamanders are changes to canopy cover and ground cover including mosses, leaf litter, and coarse woody debris. Other changes that could impact four-toed salamanders are changes in landscape-level habitat configuration and declines in prey availability.
 

@@ -39,7 +39,7 @@ This Fire Regime Synthesis brings together information from two sources: the sci
 
 Common names are used throughout this synthesis. See table A1 for a complete list of common and scientific names of plant species mentioned in this synthesis and links to FEIS Species Reviews.
 
-![Aerial view of the 2016 Rail wildfire burning on the Wallowa-Whitman National Forest.]({{ site.baseurl }}/assets/images/fire-regimes/feis-blue-mountains-conifer_frs_fire.jpg)
+![Aerial view of the 2016 Rail wildfire burning on the Wallowa-Whitman National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-blue-mountains-conifer_frs_fire.jpg?itok=ajMiet5r)
 
 Photo Credit
 
@@ -51,7 +51,7 @@ Figure 1—The 2016 Rail wildfire burning on the Wallowa-Whitman National Forest
 
 ## General Distribution
 
-![National Forests of the Blue Mountains.]({{ site.baseurl }}/assets/images/fire-regimes/feis-blue-mountains-conifer_frs_figure2.jpg)
+![National Forests of the Blue Mountains.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-blue-mountains-conifer_frs_figure2.jpg?itok=v5HnukxZ)
 
 Figure 2—National Forests of the Blue Mountains.
 
@@ -99,7 +99,7 @@ Prior to fire exclusion, fires typically burned from summer (July-August) until 
 
 In the Blue Mountains, fire frequency varies more strongly with latitude than with forest type, suggesting that fire frequency is at least partly controlled by the regional climate. From 1687 to 1900, for example, an average of 14 fires burned sites in dry forests in the south, while an average of 5 fires burned sites in dry forests in the north [24]. Fires burned at least twice as frequently in the south than in the north due to less summer precipitation, longer snow-free periods, and possibly more lightning strikes in the south [24, 47]. This contributes to lower fuel moisture contents and a higher probability that fires will ignite and spread [24].
 
-![Locations of fire history studies from table A3. Land cover distribution of Blue Mountain conifer communities.]({{ site.baseurl }}/assets/images/fire-regimes/feis-blue-mountains-conifer_frs_figure3.jpg)
+![Locations of fire history studies from table A3. Land cover distribution of Blue Mountain conifer communities.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-05/feis-blue-mountains-conifer_frs_figure3.jpg?itok=9VpoXIXm)
 
 Figure 3—Locations of fire history studies presented in table A2. Land cover distribution of Blue Mountain conifer communities is based on the LANDFIRE Biophysical Settings (BpS) data layer [35].
 
@@ -121,7 +121,7 @@ Dry forests were predominately burned by surface fires at low severity to modera
 
 Fire occurrence in dry forests across the Inland Northwest, including the Blue Mountains, is influenced by large-scale climate patterns. In the Pacific Northwest, phases of El Niño–Southern Oscillation (ENSO) affect weather during the following year. After El Niño phases, winters and springs are warm and dry, resulting in anomalously shallow snow packs. The Pacific Decadal Oscillation (PDO) causes climate variation similar to El Niño, though its impact on weather varies on longer timescales [25]. From 1651 to 1900, more fires occurred when ENSO and PDO were both in the warm phase, and fewer occurred when they were both in the cool phase (P = 0.02). Independently, neither ENSO nor PDO had a strong impact on fire frequency in dry forests [26].
 
-![Frequency distribution of mean fire-return intervals from 34 study sites across 3 of the forest types included in this synthesis]({{ site.baseurl }}/assets/images/fire-regimes/feis-blue-mountains-conifer_frs_figure4.jpg)
+![Frequency distribution of mean fire-return intervals from 34 study sites across 3 of the forest types included in this synthesis](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-05/feis-blue-mountains-conifer_frs_figure4.jpg?itok=GbgNfygG)
 
 Figure 4—Frequency distribution of mean fire-return intervals (MFRIs) from 34 study sites across 3 of the forest types included in this synthesis [27, 32, 39, 51]. Results are based on composite fire intervals. Fire scar studies were not available for lodgepole pine or subalpine fir-Engelmann spruce forests. See table A2 for data and site details.
 
@@ -196,7 +196,7 @@ Invasive annual grasses have replaced perennial bunchgrasses in many conifer sta
 
 Overgrazing, fire exclusion, logging, and nonnative annual grasses have impacted fire regimes in the Blue Mountains [5, 23, 24]. Livestock grazing, which began in the mid-1800s, reduced the abundance and continuity of herbaceous fine fuels that had previously carried surface fires across the landscape [22, 30]. By the early 1900s fires had become less frequent due to overgrazing, and this pattern continued with the advent of effective fire suppression in the 1940s [27]. Fire exclusion reduced the area of forest that burns annually from an estimated 425,000 acres (175,000 ha) prior to fire exclusion to an average of 99,000 acres (40,000 ha) from 1986 to 1992 [5]. From 1900 to 2000 only a few small fires were recorded [24]. On the Malheur National Forest, a wildfire in 1910 burned approximately 14% of the forest. The next two largest fires (in 2001 and 2007) each burned less than 9% of the forest [32]. From the 1920s through the 1980s, extensive high-grade logging and clearcutting removed large, fire-tolerant trees (Douglas-fir, ponderosa pine, and western larch) from forests across the Inland Northwest [22]. Removal of canopy dominants and fire exclusion enabled shade-tolerant, fire-intolerant conifer species to proliferate [23] and led to development of even-aged, dense forests that can sustain stand-replacement fires [21]. In addition, the establishment of nonnative grasses such as bulbous bluegrass, cheatgrass, and ventenata has increased fine fuel continuity [5, 11]. Because annual grasses such as cheatgrass and ventenata dry out earlier than perennial grasses [5, 11], fine fuels are available earlier in the growing season [11]. In forests of the Intermountain West, areas where nonnative annual grasses dominate the ground layer often have longer fire seasons, increased fire sizes, and increased rates of spread than areas where native perennial grasses dominate the ground layer [11]. On the Ochoco National Forest, for example, ventenata contributed to fuel continuity and fire spread during the 2015 Corner Creek Fire. Firefighters witnessed rapid fire spread from ventenata-infested scablands into ponderosa pine woodlands (Hallmark 2016 personal communication [17]). Denser forest structure and changes in plant species composition may increase fire severity and alter successional pathways of forests in the Blue Mountains [5, 16, 21, 31].
 
-![Two men cutting a ponderosa pine tree.]({{ site.baseurl }}/assets/images/fire-regimes/feis-blue-mountains-conifer_frs_figure5.jpg)
+![Two men cutting a ponderosa pine tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-blue-mountains-conifer_frs_figure5.jpg?itok=caBNtkGK)
 
 Photo Credit
 
@@ -244,7 +244,7 @@ Efforts are underway to improve forest resilience by mechanically thinning stand
 
 Thin + burn was the only treatment that reduced total basal area to the target level of 70 feet2/acre (16 m2/ha). It yielded multiple age classes of ponderosa pine and Douglas-fir trees and stand densities below the threshold where serious mortality from bark beetles would be expected [65]. Though all treatments opened stands and altered tree species composition, none—including the thin + burn treatment—restored the stands to historical conditions. The authors suggested that repeated thin + burn treatments are needed at 10- to 15-year intervals to bring stand structure and composition more in line with historical conditions. They commented that one set of treatments is not likely to mitigate nearly 80 years of fire exclusion and fuel accumulation in low-elevation, dry forests [66]. For additional details, see FEIS’s Research Project Summary of the Youngblood et al. [65, 66] studies.
 
-![A prescribed fire burning on the Umatilla National Forest.]({{ site.baseurl }}/assets/images/fire-regimes/feis-blue-mountains-conifer_frs_rxfire.jpg)
+![A prescribed fire burning on the Umatilla National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-blue-mountains-conifer_frs_rxfire.jpg?itok=W0bTiN5A)
 
 Photo Credit
 

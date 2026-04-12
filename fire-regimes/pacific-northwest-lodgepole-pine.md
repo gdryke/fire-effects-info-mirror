@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific Northwest lodgepole pine communitie
 
 ## Distribution
 
-![A map showing the distribution of Pacific Northwest lodgepole pine communities in Oregon.]({{ site.baseurl }}/assets/images/fire-regimes/pacific-northwest-lodgepole-pine_feis-pacific_northwest_lodgepole_pine_locator.jpg)
+![A map showing the distribution of Pacific Northwest lodgepole pine communities in Oregon.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_northwest_lodgepole_pine_locator.jpg?itok=yKkZtyf6)
 
 Photo Credit
 

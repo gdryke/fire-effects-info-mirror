@@ -128,7 +128,7 @@ In Kentucky, yellow toadflax is found along roadsides with purple crownvetch (_C
 
 The following description of toadflax presents characteristics that may be relevant to fire ecology, and is not meant for identification. Correct identification of toadflax is important if control strategies are planned, because it may be confused with native snapdragons (_Antirrhinum_ spp.). Keys for identification are available (e.g., [14,31,43,117,119]).
 
-![Photo of a patch of single-stemmed, green plants with narrow leaves and yellow flowers clustered together at the ends of the stems.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINVUL__plants.jpg)
+![Photo of a patch of single-stemmed, green plants with narrow leaves and yellow flowers clustered together at the ends of the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINVUL__plants.jpg?itok=HUEba1dh)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Photo by Michael Shephard, USDA Forest Service, Bugwood.org.
 
 Yellow toadflax infestation ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![Photo of a cluster of single stemmed plants with round, green leaves and large spikes of yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_plants.jpg)
+![Photo of a cluster of single stemmed plants with round, green leaves and large spikes of yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_plants.jpg?itok=JD0eatdq)
 
 Photo Credit
 
@@ -165,7 +165,7 @@ A life span of at least 4 years for individual roots has been reported for yello
 
 ## Seasonal Development
 
-![Photo of a plant rosette, with many prostrate, green stems with teardrop-shaped leaves radiating outward, and a few dried, brown, leafless, vertical stems emerging from the center.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_stems.jpg)
+![Photo of a plant rosette, with many prostrate, green stems with teardrop-shaped leaves radiating outward, and a few dried, brown, leafless, vertical stems emerging from the center.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_stems.jpg?itok=f4m-wLbh)
 
 Photo Credit
 
@@ -211,7 +211,7 @@ Dalmatian toadflax and yellow toadflax are both insect pollinated [6,95,114]. Co
 
 Both Dalmatian toadflax and yellow toadflax are self-incompatible [6,20,95,114]. However, a review by Saner and others [95] suggests that a small proportion of yellow toadflax seeds can develop without cross-pollination.
 
-![Close-up photo of a cluster of yellow, tube-shaped flowers at the top of a single stem covered with narrow, green leaves.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINVUL_flower.jpg)
+![Close-up photo of a cluster of yellow, tube-shaped flowers at the top of a single stem covered with narrow, green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINVUL_flower.jpg?itok=T2mHZ5uO)
 
 Photo Credit
 
@@ -219,7 +219,7 @@ Photo by Y. Liu, iNaturalist.org, some rights reserved.
 
 Yellow toadflax blooming on the South Side of Chicago, Illinois, in September ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![Close up photo of a flower stem with several large, yellow, pea-like flowers, with a wasp dipping its head into one.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_flowers.jpg)
+![Close up photo of a flower stem with several large, yellow, pea-like flowers, with a wasp dipping its head into one.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_flowers.jpg?itok=eosKA-S3)
 
 Photo Credit
 
@@ -239,7 +239,7 @@ Nadeau and King [69] found that seed production of 210,000 seeds per m2 within a
 
 Many seed studies fail to differentiate between viable and nonviable seeds. Clements and Cavers [12] observed seasonal differences in number of viable seeds produced by yellow toadflax and attributed these differences to differential seed development in response to variable resource availability.
 
-![Photo of several green stems with narrow, green leaves, and multiple dried, brown seed pods along the upper parts of the stems.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINVUL_seedheads.jpg)
+![Photo of several green stems with narrow, green leaves, and multiple dried, brown seed pods along the upper parts of the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINVUL_seedheads.jpg?itok=LdgZiy_g)
 
 Photo Credit
 
@@ -247,7 +247,7 @@ Photo © Sandy Wolkenberg, iNaturalist.org, some rights reserved.
 
 Yellow toadflax seed pods in Webster, New York, on 14 November 2025 ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![Photo of a flower stem with mature, light brown fruits with papery outer layers.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_seedhead.jpg)
+![Photo of a flower stem with mature, light brown fruits with papery outer layers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_seedhead.jpg?itok=nD5ATy6z)
 
 Photo Credit
 
@@ -293,7 +293,7 @@ Yellow toadflax seedlings (genets) can produce daughter shoots (ramets) from veg
 
 Roots of Dalmatian toadflax seedlings grow an average of about 2 inches (6 cm) per week, with the uppermost primary branch tending to grow horizontally at depths of 0.8 to 4 inches (2-10 cm) [88].
 
-![Overhead photo of three small green plants with narrow leaves radiating from each. The plants are emerging from brown leaf litter on the forest floor. ]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINVUL_seedlings.jpg)
+![Overhead photo of three small green plants with narrow leaves radiating from each. The plants are emerging from brown leaf litter on the forest floor. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINVUL_seedlings.jpg?itok=PiHE2ado)
 
 Photo Credit
 
@@ -301,7 +301,7 @@ Photo © Sandy Wolkenberg, iNaturalist.org, some rights reserved.
 
 Yellow toadflax juveniles ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![Photo of a cluster of four small plants with teardrop-shaped leaves emerging from the soil and litter next to a black, lichen-covered rock.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_seedlings.jpg)
+![Photo of a cluster of four small plants with teardrop-shaped leaves emerging from the soil and litter next to a black, lichen-covered rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_seedlings.jpg?itok=Ev9QRtdh)
 
 Photo Credit
 
@@ -321,7 +321,7 @@ Established infestations of yellow toadflax appear to expand mainly by vegetativ
 
 In studies in Pullman, Washington, persistence of Dalmatian toadflax was dependent on both yearly extension of lateral roots and establishment of new seedlings [86,89].
 
-![Photo of an excavated plant showing 5 separate stems emerging from the same horizontal root system.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINVUL_roots.jpg)
+![Photo of an excavated plant showing 5 separate stems emerging from the same horizontal root system.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINVUL_roots.jpg?itok=WdSdZsU4)
 
 Photo Credit
 
@@ -329,7 +329,7 @@ Photo by Steve Dewey, Utah State University, Bugwood.org.
 
 Yellow toadflax roots and sprouts ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![Photo of an excavated plant showing many basal stems with round, green leaves; numerous small, white, new stems sprouting from the root crown area; and a cluster of fine roots emerging below. ]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_roots.jpg)
+![Photo of an excavated plant showing many basal stems with round, green leaves; numerous small, white, new stems sprouting from the root crown area; and a cluster of fine roots emerging below. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_roots.jpg?itok=Jm16f83m)
 
 Photo Credit
 
@@ -533,7 +533,7 @@ Its impacts in wildlands and natural areas are not as clear. Like any invasive p
 
 In a survey of ranchers and farmers in north-central Idaho, 1% of respondents perceived Dalmatian toadflax as a moderate threat in 1982, and none perceived it as a problem in 1988 [10]. Toadflax can, however, spread rapidly, and it is important to eradicate infestations while they are still small in order to contain their spread [24,120]. For example, Dalmatian toadflax was introduced at a mine site in the 1970s on private land adjacent to the Raymond Mountain Wilderness Study Area in Wyoming. From this site, Dalmatian toadflax spread over 15 years to cover a 10-mile radius in the wilderness area and adjacent private land [120].
 
-![Photo of a large green meadow with a large patch of single-stemmed, green plants topped with spikes of yellow flowers. A conifer forest and blue skies in the background.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINVUL_infestation.jpg)
+![Photo of a large green meadow with a large patch of single-stemmed, green plants topped with spikes of yellow flowers. A conifer forest and blue skies in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINVUL_infestation.jpg?itok=924P3tlg)
 
 Photo Credit
 
@@ -541,7 +541,7 @@ Photo by Dave Powell, USDA Forest Service, Bugwood.org.
 
 Yellow toadflax infestation on the Pike National Forest, south-central Colorado ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![Photo of a field densely occupied by plants topped with yellow flower spikes, with a stand of trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/linspp_feis-LINDAL_infestation.jpg)
+![Photo of a field densely occupied by plants topped with yellow flower spikes, with a stand of trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-LINDAL_infestation.jpg?itok=AJWGlpZS)
 
 Photo Credit
 

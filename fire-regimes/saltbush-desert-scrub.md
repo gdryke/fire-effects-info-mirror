@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for saltbush desert scrub communities has not y
 
 ## Distribution
 
-![Map of the western United States showing the distribution of saltbush communities in parts of nearly every western state.]({{ site.baseurl }}/assets/images/fire-regimes/saltbush-desert-scrub_feis-SaltbushDesertScrub_FRR_map.jpg)
+![Map of the western United States showing the distribution of saltbush communities in parts of nearly every western state.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-SaltbushDesertScrub_FRR_map.jpg?itok=_Um9HiCI)
 
 Photo Credit
 

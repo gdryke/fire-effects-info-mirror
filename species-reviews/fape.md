@@ -168,7 +168,7 @@ Peregrine falcons in northern California reproduced later than pairs in southern
 
 Timing of spring and fall migration is highly variable by location. According to a review of Indiana populations, spring migrations peak in April and May, while fall migrations peak in October [124]. Spring migration in central Alberta occurs from 20 April to 31 May. Spring migration of adult peregrine falcons in central Alberta peaks 8 May to 12 May, while immatures (under 2 years old) are primarily spotted from 15 May to 24 May [49]. Peregrine falcons that migrate to Florida typically arrive in September and leave in May [166]. Peregrine falcons overwintering in Brazil arrive from October to December and remain until March. Individuals observed in Brazil during late April are likely migrating from areas even farther south [1].
 
-![A peregrine falcon flying.]({{ site.baseurl }}/assets/images/species-reviews/feis-fape_flight.jpg)
+![A peregrine falcon flying.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fape_flight.jpg?itok=68nk8ReS)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ Few studies of migratory behavior had been completed as of 2009. Cochran [40] tr
 
 ### Reproductive Biology
 
-![A peregrine falcon with young on a nest amongst rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-fape_nest.jpg)
+![A peregrine falcon with young on a nest amongst rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fape_nest.jpg?itok=oPV87fb-)
 
 Photo Credit
 
@@ -376,7 +376,7 @@ Rough-legged hawks, gyrfalcons, and common ravens utilize similar nesting sites 
 
 Peregrine falcons exhibit a high degree of nest-site fidelity [3,8,45,60,80,172]. High nest-site fidelity likely reinforces pair bonds [172]. Peregrine falcons typically return to the same territory to breed in successive years, but not necessarily to the same eyrie [27,35,45,116,119,138,144,169,173]. In Colorado, 77% of females and 83% of males returned to the same breeding territory in subsequent years [60]. A pair of peregrine falcons on Rankin Inlet, Nunavut, remained bonded at the same territory for at least 4 years [45]. A nest site may be used for decades, with many pairs of peregrine falcons occupying the same territory over time [144]. However, some previously used nesting sites may not be occupied every year [58]. Nest site reoccupancy rates can range from 50% to 100% [3,35,58,60].
 
-![A peregrine falcon perched on a rock.]({{ site.baseurl }}/assets/images/species-reviews/feis-fape_adult.jpg)
+![A peregrine falcon perched on a rock.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fape_adult.jpg?itok=iwMwC9T4)
 
 Photo Credit
 
@@ -446,7 +446,7 @@ Peregrine falcons in California have been observed feeding in burned areas zero 
 
 Wetlands in eastern Alaska support a large variety of wildlife [192] and may provide a large prey base for peregrine falcons. Fire maintains many marshes in northern regions. Periodic fires maintain marshes by preventing encroachment of woody vegetation and burning dry matted grasses. Wetland productivity decreased in eastern Alaska as a result of fire exclusion, although the importance of the decrease is unknown [192].
 
-![An aerial view of a steep rocky cliff used b y peregrine falcon for nesting.]({{ site.baseurl }}/assets/images/species-reviews/feis-fape_fire.jpg)
+![An aerial view of a steep rocky cliff used b y peregrine falcon for nesting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-fape_fire.jpg?itok=lQja-fIK)
 
 Photo Credit
 

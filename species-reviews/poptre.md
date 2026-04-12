@@ -59,7 +59,7 @@ trembling aspen, aspen
 
 ## General Distribution
 
-![A map of North America showing areas highlighted in green where quaking aspen occurs. Most of Canada is highlighted, as well as parts of the northern U.S.]({{ site.baseurl }}/assets/images/species-reviews/feis-poptre_map.jpg)
+![A map of North America showing areas highlighted in green where quaking aspen occurs. Most of Canada is highlighted, as well as parts of the northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-poptre_map.jpg?itok=WmUum7S3)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Quaking aspen occurs on a wide variety of sites [40,111]. It grows on moist upla
 
 Quaking aspen is a major cover type in North America. In Minnesota, Wisconsin, and Utah, quaking aspen occupies more land than any other forest type. Quaking aspen also occurs in a large number of other forest cover types over its extensive range. It is common in spruce-fir (Picea-Abies spp.) types of the Great Lakes States and central Canada and in mixed northern hardwoods. Mixed jack pine (Pinus banksiana) and quaking aspen occur on the Precambrian shield in Canada and Minnesota. In the Rocky Mountains, quaking aspen groves are scattered throughout Engelmann spruce-subalpine fir (Picea engelmannii-A. lasiocarpa) forests. Quaking aspen is common in mixed conifer forests of New Mexico, Arizona, and California. At its lower altitudinal limit in the western United States, quaking aspen is associated with scrub oaks (Quercus spp.) or sagebrush (Artemisia spp.). Prostrate quaking aspen occur above timberline [125]. Throughout its range, quaking aspen occurs in mid- to upper riparian zones [56,123].
 
-![A landscape photo of a stand of yellow trees mixed with some pines, in a rocky alpine environment.]({{ site.baseurl }}/assets/images/species-reviews/feis-poptre_sonorapass.jpg)
+![A landscape photo of a stand of yellow trees mixed with some pines, in a rocky alpine environment.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-poptre_sonorapass.jpg?itok=tSLklZ2_)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Quaking aspen is listed as a dominant species in over 100 habitat, plant communi
 
 Quaking aspen is a native deciduous tree. It is small- to medium-sized, typically less than 48 feet (15 m) in height and 16 inches (40 cm) dbh [75]. It has spreading branches and a pyramidal or rounded crown [60,75,88,166]. The bark is thin. Leaves are orb- to ovately shaped, with flattened petioles [90]. The fruit is a tufted capsule bearing six to eight seeds. A single female catkin usually bears 70 to 100 capsules [88,166]. The root system is relatively shallow, with wide spreading lateral roots and vertical sinker roots descending from the laterals. Laterals may extend over 100 feet (30 m) into open areas [88]. Gifford [59] found that vertical roots of quaking aspen in Utah extended more than 9 feet (2.7 m) down, branching into fine, dense roots at their extremities [88].
 
-![An old-fashioned film photo of a large stand of yellow and green trees seen from above, surrounded by rolling hills, with water and low mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-poptre_habitat.jpg)
+![An old-fashioned film photo of a large stand of yellow and green trees seen from above, surrounded by rolling hills, with water and low mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-poptre_habitat.jpg?itok=Kp3qSkR4)
 
 Photo Credit
 
@@ -226,7 +226,7 @@ Quaking aspen is able to naturally regenerate without fire or cutting on some si
 
 Quaking aspen sprouts from the roots and establishes from off-site, wind-blown seed after fire [27,123,157]. It is the classic soboliferous species described by Stickney [157]: a plant that sprouts from carbohydrate-storing lateral roots (sobols).
 
-![A photo of a leafy seedling sprouting from dark grey ground, with a few grasses and herbaceous plants nearby.]({{ site.baseurl }}/assets/images/species-reviews/feis-poptre_sprout_0.jpg)
+![A photo of a leafy seedling sprouting from dark grey ground, with a few grasses and herbaceous plants nearby.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-poptre_sprout_0.jpg?itok=KIK8a514)
 
 Photo Credit
 
@@ -299,7 +299,7 @@ For additional fire regime information, search FEIS for this species by entering
 
 Prescribed fire is recommended for quaking aspen [2,25,123,143]. Currently, an estimated 600 acres (240 ha) of quaking aspen burns per year in the Intermountain Region. At that rate, it will require 12,000 years to burn the entire quaking aspen type in that Region. It is likely that seral quaking aspen will be replaced by conifers; stable quaking aspen stands may become less productive [46]. In many areas of the West, quaking aspen stands have lived longer than they did prior to fire exclusion, and many stands are in a state of decline due to advanced age [62]. Gruell and Loope [69] found that in Jackson Hole, Wyoming, quaking aspen stands begin to deteriorate after about 80 years. Houston [80] stated in 1973 that quaking aspen in Yellowstone National Park were primarily large trees ranging from 75 to 120 years of age.
 
-![A photo of a person in firefighting gear lighting a fire at the edge of a forest road, into some brush and a stand of trees with straight white trunks. Some flames are visible slightly further off the road.]({{ site.baseurl }}/assets/images/species-reviews/feis-poptre_frostfire.jpg)
+![A photo of a person in firefighting gear lighting a fire at the edge of a forest road, into some brush and a stand of trees with straight white trunks. Some flames are visible slightly further off the road.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-poptre_frostfire.jpg?itok=0o-Lm_xF)
 
 Photo Credit
 

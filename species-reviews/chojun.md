@@ -34,7 +34,7 @@ Zouhar, Kris. 2003. _Chondrilla juncea_ , rush skeletonweed. In: Fire Effects In
 
 ## Introduction
 
-![Overhead photo of a nearly leafless plant with many stems and a few small, yellow flowers on a dry gravelly soil with some grasses growing up through its canopy.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_plant.jpg)
+![Overhead photo of a nearly leafless plant with many stems and a few small, yellow flowers on a dry gravelly soil with some grasses growing up through its canopy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_plant.jpg?itok=T5zN8GtI)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Induction of bolting and flowering in rush skeletonweed is somewhat dependent on
 
 ### Disturbance
 
-![Photo of a large, bushy green plant on a dry roadside. The stems are mostly leafless, and a few yellow flowers are visible.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_roadside_plant.jpg)
+![Photo of a large, bushy green plant on a dry roadside. The stems are mostly leafless, and a few yellow flowers are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_roadside_plant.jpg?itok=jAZiyf7-)
 
 Photo Credit
 
@@ -174,7 +174,7 @@ In Canada, rush skeletonweed occurs, and could potentially spread widely, in dis
 
 ## Botanical Description
 
-![Close-up photo of the lower few inches of a plant stem with very small hairs at the base.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_lower_stem.jpg)
+![Close-up photo of the lower few inches of a plant stem with very small hairs at the base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_lower_stem.jpg?itok=5oCZLTeh)
 
 Photo Credit
 
@@ -277,7 +277,7 @@ Rush skeletonweed reproduces by seed, by root fragments, and by vegetative sprea
 
 ### Pollination and Breeding System
 
-![Close-up photo of a small yellow flower on a leafless stem, a small flying insect is perched on one petal.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_flower.jpg)
+![Close-up photo of a small yellow flower on a leafless stem, a small flying insect is perched on one petal.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_flower.jpg?itok=bnF1AlJ6)
 
 Photo Credit
 
@@ -309,7 +309,7 @@ Activity of biological control agents can also affect viable seed production in 
 
 Mowing rush skeletonweed before flowering, once or twice in a season, resulted in significantly (p<0.05) lower seed production [57].
 
-![Photo of a hand holding a branching, leafless stem with several dried fruits releasing light, feathery seeds with a fluffy pappus.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_seeds.jpg)
+![Photo of a hand holding a branching, leafless stem with several dried fruits releasing light, feathery seeds with a fluffy pappus.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_seeds.jpg?itok=nbYWtbFy)
 
 Photo Credit
 
@@ -347,7 +347,7 @@ Moisture loss may be rapid when fully or partially imbibed rush skeletonweed see
 
 ### Seedling Establishment and Growth
 
-![Overhead photo of a small rosette, with narrow, about ten tear-drop shaped leaves of varying size.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_seedling.jpg)
+![Overhead photo of a small rosette, with narrow, about ten tear-drop shaped leaves of varying size.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_seedling.jpg?itok=uUuwr8Nf)
 
 Photo Credit
 
@@ -367,7 +367,7 @@ Experimental evidence presented by McVean [58] indicates fairly high levels of r
 
 ### Vegetative Reproduction and Regeneration
 
-![Photo of an excavated plant with the sky in the background showing a rosette of green leaves, with a few leafless stems arising from it, and a large tap root with a few fine horizontal roots below.]({{ site.baseurl }}/assets/images/species-reviews/chojun_feis-CHOJUN_roots.jpg)
+![Photo of an excavated plant with the sky in the background showing a rosette of green leaves, with a few leafless stems arising from it, and a large tap root with a few fine horizontal roots below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CHOJUN_roots.jpg?itok=zF0xwm8K)
 
 Photo Credit
 

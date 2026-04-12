@@ -61,7 +61,7 @@ common fireweed, perennial fireweed, narrow-leaved fireweed, great willow-herb, 
 
 Fireweed is a circumboreal native species and is found in all of the Canadian provinces [72,82,127,188]. It occurs throughout the United States except in the southeastern states and Texas [83,94,113,175,191].
 
-![A map showing the distribution of fireweed in North America.]({{ site.baseurl }}/assets/images/species-reviews/feis-chaang_map.jpg)
+![A map showing the distribution of fireweed in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-chaang_map.jpg?itok=9P5n2j4V)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Other postdisturbance species associated with fireweed are bluejoint reedgrass (
 
 Fireweed is a robust native perennial forb. It has fine roots and rhizomes that extend down vertically to 17.7 inches (45 cm) from the plant, with most growing between 0 and 5.9 inches (0-15 cm) deep [103,154,161]. The single stems are from 3 to 9 feet (1-2.7 m) tall and may be very leafy [72,104]. Leaves are 2.8 to 5.9 inches (7-15 cm) long [72]. One plant may have 15 or more flowers [29]. Each flower produces a capsule with 300 to 500 seeds [72,196]. Seeds have a tuft of long hairs on one end [196].
 
-![A close-up photo of fireweed's purple flowers against a blurry green background.]({{ site.baseurl }}/assets/images/species-reviews/feis-chaang_flowers_larger.jpeg)
+![A close-up photo of fireweed's purple flowers against a blurry green background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-chaang_flowers_larger.jpeg?itok=phALzeue)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ Image by Ron E Baniaga, courtesy of CalPhotos.
 
 Fireweed flowers.
 
-![A close-up photo of fireweed's fluffy white seed pods against a blurry green background.]({{ site.baseurl }}/assets/images/species-reviews/chaang_feis-chaaang_seeds.jpg)
+![A close-up photo of fireweed's fluffy white seed pods against a blurry green background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-chaaang_seeds.jpg?itok=cfkT5do2)
 
 Photo Credit
 
@@ -186,7 +186,7 @@ Fire top-kills fireweed. Seed in the surface organic layers is killed by fire [7
 
 Fireweed is a component of diverse ecosystems in boreal and temperate regions with variable fire regimes. Fireweed is primarily adapted to fire through its rhizomes and its prolific production of wind-dispersed seed. Depending upon depth of rhizomes in the soil, fireweed is moderately susceptible to resistant to fire [43,150,219]. The majority of roots and rhizomes are in the top 2 inches (5 cm) of mineral soil and can survive relatively intense fires [43,74,150].
 
-![A photo showing a forest with black, burned lodgepole pine tree trunks, green ground vegetation, and a mass of purple fireweed in bloom in the understory.]({{ site.baseurl }}/assets/images/species-reviews/chaang_chaang_yellowstone.jpg)
+![A photo showing a forest with black, burned lodgepole pine tree trunks, green ground vegetation, and a mass of purple fireweed in bloom in the understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/chaang_yellowstone.jpg?itok=Ab6D76ky)
 
 Photo Credit
 
@@ -204,7 +204,7 @@ Initial establishment of fireweed seedlings usually exceeds expectations of freq
 
 Fireweed is usually an increaser following fire [36,78,193,205]. Within 3 postfire months, fireweed was present at 3 percent frequency and 1 percent cover in central Alberta [7]. Fireweed slowly increases in abundance, often with 100 percent frequency and 30 percent or more cover, to peak on average postfire years 5 [18,39,51,63,80,155,170]. In the Cascade Range, fireweed had significantly (p<0.05) different amounts of cover at postfire years 3 to 5, but from years 11 to 16, there was no significant (p>0.05) change in cover between burned and unburned areas [160]. However, at 11 postfire years, fireweed was present at 91 percent frequency on upland sites in northwestern Oregon [165]. It was not in the surrounding Douglas-fir-western hemlock (Tsuga heterophylla) stand. Fireweed was still one of the principal cover species 10 to 12 postfire years on severe fire sites in northern Idaho and western Montana [45,140,147,203]. In other studies, the highest frequency for fireweed was reached 17 to 20 years after fire [45,142,162].
 
-![A photo of a burned forest floor with several types of vegetation sprouting from the ground. One plant is grass-like, one is a broadleaf plant, and the third is small seedlings. Two red arrows point to the small seedlings.]({{ site.baseurl }}/assets/images/species-reviews/feis-chaangeedlingsbeargrasssprout.jpg)
+![A photo of a burned forest floor with several types of vegetation sprouting from the ground. One plant is grass-like, one is a broadleaf plant, and the third is small seedlings. Two red arrows point to the small seedlings.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-chaangeedlingsbeargrasssprout.jpg?itok=9yspBk9r)
 
 Photo Credit
 

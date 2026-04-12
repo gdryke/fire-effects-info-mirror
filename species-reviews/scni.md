@@ -34,7 +34,7 @@ Tesky, Julie L. 1993. _Sciurus niger_ , eastern fox squirrel. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of a brown squirrel with a cream-colored underbelly sitting in a many-branched tree with snow on its branches.]({{ site.baseurl }}/assets/images/species-reviews/scni_feis-SCNI_InTree.jpg) Eastern fox squirrel at Wauby National Wildlife Refuge. _USFWS, Public Domain, https://www.fws.gov/media/eastern-fox-squirrel_
+![Photo of a brown squirrel with a cream-colored underbelly sitting in a many-branched tree with snow on its branches.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-SCNI_InTree.jpg) Eastern fox squirrel at Wauby National Wildlife Refuge. _USFWS, Public Domain, https://www.fws.gov/media/eastern-fox-squirrel_
 
 Photo Credit: USFWS, Public Domain, https://www.fws.gov/media/eastern-fox-squirrel
 

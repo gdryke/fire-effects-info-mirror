@@ -126,7 +126,7 @@ In the early 1970s, black ash colonized the Portage la Prairie grassland area of
 
 ## Botanical and Ecological Characteristics
 
-![Photo of black ash foliage on a sapling growing in understory.]({{ site.baseurl }}/assets/images/species-reviews/feis-franig_plant.jpeg)
+![Photo of black ash foliage on a sapling growing in understory.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-franig_plant.jpeg?itok=VUuJGGZo)
 
 Photo Credit
 

@@ -83,7 +83,7 @@ Black oak is widely distributed throughout the eastern and central United States
 
 ## Site Characteristics
 
-![A photo of a large, broad, green tree growing in the open, surrounded by grasses and shrubs. The sky is partly cloudy.]({{ site.baseurl }}/assets/images/species-reviews/feis-quevel_habitat.jpg)
+![A photo of a large, broad, green tree growing in the open, surrounded by grasses and shrubs. The sky is partly cloudy.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quevel_habitat.jpg?itok=Wne-yVOX)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ The following published classifications list black oak as a dominant or codomina
 
 ## Botanical Description
 
-![A close up photo of a tree's green, lobed, slightly pointed leaves. The background is blurry dark green.]({{ site.baseurl }}/assets/images/species-reviews/feis-quevel_foliage.jpg)
+![A close up photo of a tree's green, lobed, slightly pointed leaves. The background is blurry dark green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quevel_foliage.jpg?itok=bc_ogfy6)
 
 Photo Credit
 

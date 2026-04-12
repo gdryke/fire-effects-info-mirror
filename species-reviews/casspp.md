@@ -57,7 +57,7 @@ These species hybridize with each other [14].
 
 Sheoaks were introduced to the United States near the turn of the 20th century [14]. They are widely distributed in southern Florida and are also found in California, Arizona, and Hawaii [12,17].
 
-![A composite image of three maps of Florida, showing counties highlighted in blue where three sheoak species occur. In each map, a scattering of counties, mostly in southern Florida, are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-casspp_maps.jpg)
+![A composite image of three maps of Florida, showing counties highlighted in blue where three sheoak species occur. In each map, a scattering of counties, mostly in southern Florida, are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-06/feis-casspp_maps.jpg?itok=-YhVLx-r)
 
 Photo Credit
 
@@ -93,11 +93,11 @@ Characteristics of individual species are as follows:
 
 C. cunninghamiana (river sheoak) - 80 feet (25 m) in height, 2 feet (6 m) d.b.h., dioecious, nonsprouter.
 
-[![A close up photo of a branch with long, green, needle-like scaled leaves and light green, spiky cone-like fruits.]({{ site.baseurl }}/assets/images/species-reviews/casspp_feis-cascun_branch.jpeg)Photo Credit Photo by Claire Herzog, iNaturalist.org, CC BY 4.0. River sheoak with fruit, Florida.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close up photo of a branch with long, green, needle-like scaled leaves and light green, spiky cone-like fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-cascun_branch.jpeg?itok=zOj2tnXM)Photo Credit Photo by Claire Herzog, iNaturalist.org, CC BY 4.0. River sheoak with fruit, Florida.](<https://creativecommons.org/licenses/by/4.0/>)
 
 C. equisetifolia (beach sheoak) - 50 to 100 feet (15-30 m) in height, 1.0 to 1.5 feet (3-5 m) d.b.h., monoecious, nonsprouter.
 
-![A drooping branch with long, green, needlelike leaves. There are catkin-like light brown flowers hanging down, and tufts of pink flowers. The tree is growing at a beach.]({{ site.baseurl }}/assets/images/species-reviews/casspp_feis-casequ_flowers.jpg)
+![A drooping branch with long, green, needlelike leaves. There are catkin-like light brown flowers hanging down, and tufts of pink flowers. The tree is growing at a beach.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-casequ_flowers.jpg?itok=L6I144T5)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Beach sheoak male and female flowers.
 
 C. glauca (gray sheoak) - 40 to 50 feet (10-15 m) in height, 1.5 feet (5 m) d.b.h., dioecious, aggressive sprouter, in Florida, usually does not produce fruit [12]. 
 
-![A photo of a tree branch with pale green, scaled, needle-like leaves and bunches of light brown, woody fruits that look like cones.]({{ site.baseurl }}/assets/images/species-reviews/casspp_feis-casgla_branch.jpg)
+![A photo of a tree branch with pale green, scaled, needle-like leaves and bunches of light brown, woody fruits that look like cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-casgla_branch.jpg?itok=kyWgn43V)
 
 Photo Credit
 

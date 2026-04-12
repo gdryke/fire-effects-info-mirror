@@ -48,7 +48,7 @@ Some regional floras consider the five subspecies to be separate species [11,14,
 
 Inland gooseberry and Canadian gooseberry are the most widespread subspecies and much of the information in this review pertains to them. In this review, "Canadian gooseberry" refers to the typical subspecies, and the scientific name is used to refer to the species as a whole.
 
-![A photo of the end of a leafy branch of a shrub with white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-riboxy_flowers.jpg)
+![A photo of the end of a leafy branch of a shrub with white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-riboxy_flowers.jpg?itok=I8PCBypB)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Canadian gooseberry occurs in openings within the lowland boreal forest region o
 
  _Ribes oxyacanthoides_ is a native, deciduous shrub that grows to 1.5 to 5 feet (0.5-1.5 m) in height. The branches are erect to sprawling and covered with prickles. The nodes have several 0.2- to 0.5-inch (0.5-1.3 cm) long stout spines. Flowers occur singly or in clusters of two to three. The berry is 0.3 to 0.6 inch (0.7-1.6 cm) in diameter and contains numerous seeds. Henderson's gooseberry differs in that it is a low, intricately branched shrub growing only 1 to 1.6 feet (0.3-0.5 m) in height [31].
 
-![A photo of a leafy shrub with dark blue berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-riboxy_fruits.jpg)
+![A photo of a leafy shrub with dark blue berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-riboxy_fruits.jpg?itok=F27xwJEB)
 
 Photo Credit
 

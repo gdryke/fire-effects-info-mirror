@@ -135,7 +135,7 @@ Japanese barberry may thus promote a positive feedback loop in which the species
 
 ## Plant Communities
 
-![A photo of a forest with a dense, continuous understory of a shrub with orange-red leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-berthu_forest.jpg)
+![A photo of a forest with a dense, continuous understory of a shrub with orange-red leaves.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-berthu_forest.jpg?itok=9mcP28Qz)
 
 Photo Credit
 
@@ -169,7 +169,7 @@ Japanese barberry is most problematic in mature forest communities in the easter
 
 ## Botanical Description
 
-![A close-up photo of a shrub's leafy stem and hanging, cream-colored flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-berthu_flowers.jpg)
+![A close-up photo of a shrub's leafy stem and hanging, cream-colored flowers.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-berthu_flowers.jpg?itok=9RxB3ScC)
 
 Photo Credit
 
@@ -191,7 +191,7 @@ Japanese barberry has a large, shallow root system with rhizomes and many fine r
 
 ### Plant Growth Form and Stand Structure
 
-![A photo of a leafy, multi-branched, spreading shrub in a forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-berthu_plant.jpg)
+![A photo of a leafy, multi-branched, spreading shrub in a forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-berthu_plant.jpg?itok=8Gz56o0I)
 
 Photo Credit
 
@@ -239,7 +239,7 @@ Woody species utilize stored, belowground carbohydrate reserves to survive dorma
 
 ## Regeneration Processes
 
-![A close-up photo of a shrub's branch covered in hanging, bright red oval fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-berthu_fruits.jpg)
+![A close-up photo of a shrub's branch covered in hanging, bright red oval fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-berthu_fruits.jpg?itok=z8n9VoSa)
 
 Photo Credit
 

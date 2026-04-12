@@ -105,7 +105,7 @@ Classifications in which screwbean mesquite is a characteristic or associate spe
 
 ## Botanical and Ecological Characteristics
 
-![Photo of screwbean mesquite seed pods.]({{ site.baseurl }}/assets/images/species-reviews/feis-propub_seed.jpeg)
+![Photo of screwbean mesquite seed pods.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-propub_seed.jpeg?itok=nHYLSGPH)
 
 Photo Credit
 

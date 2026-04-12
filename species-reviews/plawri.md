@@ -68,7 +68,7 @@ Arizona planetree, buttonwood, Wright's sycamore
 
 ## General Distribution
 
-![Distribution of Arizona sycamore.]({{ site.baseurl }}/assets/images/species-reviews/feis-plawri_fig2.jpg)
+![Distribution of Arizona sycamore.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-plawri_fig2.jpg?itok=fGYxTY_6)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 **Aboveground Description**
 
-![Close-up of Arizona sycamore leaves and fruit clusters.]({{ site.baseurl }}/assets/images/species-reviews/feis-plawri_fig3.jpg)
+![Close-up of Arizona sycamore leaves and fruit clusters.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-plawri_fig3.jpg?itok=jLfNxTvf)
 
 Photo Credit
 
@@ -345,7 +345,7 @@ Arizona sycamore and Fremont cottonwood-Arizona sycamore woodlands and Arizona s
 
 A myriad of wildlife species use riparian habitats [53,54,90,118,128,210,211,213]. Riparian areas comprise a small part of total land area in the southwestern United States and northern Mexico, but they are extremely important to biotic communities [213]. Riparian areas are among the most diverse and productive ecosystems in desert bioregions, supporting floras and faunas that are biologically richer than adjacent uplands [28,39,43,213]. Riparian areas and washes provide water, cover, and breeding habitat for many species of wildlife, including obligate riparian species [77,128]. For wildlife that also use uplands, riparian areas provide refuge from the harsher, surrounding environments [128]. Wildlife that use riparian ecosystems for breeding, migration, and wintering habitat include large ungulate [53,213], small mammal, bird [3,53,90,154,189,211], reptile, amphibian, and arthropod species [29,32,53,154,213]. Deciduous woodlands with Arizona sycamore provide birds and small mammals with nesting sites and foraging opportunities that are often absent in upland plant communities [16,39,174]. Many invertebrate species live in and consume Arizona sycamore litter [111]. Riparian ecosystems provide habitat for many threatened or endangered species. Of 40 Federally listed Threatened or Endangered wildlife species in New Mexico—which includes several endemic species—at least 70% require aquatic and/or riparian habitat to feed, reproduce, and/or carry out their life cycles [200,213]. Riparian areas and washes also provide water, cover, and breeding habitat for livestock [31,77,128].
 
-![A whiskered screech-owl sheltering in an Arizona sycamore cavity.]({{ site.baseurl }}/assets/images/species-reviews/feis-plawri_fig4.jpg)
+![A whiskered screech-owl sheltering in an Arizona sycamore cavity.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-plawri_fig4.jpg?itok=X1fQ5PVc)
 
 Photo Credit
 

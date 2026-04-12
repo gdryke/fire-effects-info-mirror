@@ -55,7 +55,7 @@ Boer lovegrass, curved lovegrass, Catalina lovegrass, African love grass
 
 Weeping lovegrass is a nonnative species that occupies a relatively large range in the United States. Weeping lovegrass populations are sporadic along the western US coast, in the southern half of the continental states, along the eastern US coast, and in Hawaii and Puerto Rico. In the continental states, populations occur as far north as Illinois and Ohio [8,28]. Weeping lovegrass is most common in Arizona, New Mexico, Oklahoma, and Texas [37,47] but is "becoming common" in New Jersey and Pennsylvania [44]. Generally, weeping lovegrass is most common in those areas where it was intentionally planted. For a map of the scattered weeping lovegrass populations throughout the United States, see the Grass Manual on the Web.
 
-[![A photo of a field of grass with golden panicles and green stems. A few trees are visible on the horizon.]({{ site.baseurl }}/assets/images/species-reviews/feis-eracur_field.jpeg)Photo Credit Photo by Lea Watson, iNaturalist.org Weeping lovegrass dominating a field near Whitesboro, Texas, [CC BY-NC 4.0](< \(CC BY-NC 4.0\).>).](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a field of grass with golden panicles and green stems. A few trees are visible on the horizon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-eracur_field.jpeg?itok=3iaLsxUO)Photo Credit Photo by Lea Watson, iNaturalist.org Weeping lovegrass dominating a field near Whitesboro, Texas, [CC BY-NC 4.0](< \(CC BY-NC 4.0\).>).](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Weeping lovegrass is native to southern Africa [8,123], and several ecotypes from different parts of South Africa were seeded and have become established in the United States [23,26].
 
@@ -99,7 +99,7 @@ Weeping lovegrass occupies forest edges and pine-oak (_Pinus-Quercus_ spp.) and 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [8,44,49,123]).
 
-[![A photo of a bunchgrass with other bunchgrasses behind and shrubby trees. Sandy, reddish bare ground is visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-eracur_plant.jpg)Photo Credit Photo by ck2az, iNaturalist.org Weeping lovegrass growing near Benson, Arizona, ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass with other bunchgrasses behind and shrubby trees. Sandy, reddish bare ground is visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-eracur_plant.jpg?itok=SH-luaoH)Photo Credit Photo by ck2az, iNaturalist.org Weeping lovegrass growing near Benson, Arizona, ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Aboveground Description
 
@@ -107,7 +107,7 @@ Weeping lovegrass is a large bunchgrass that is generally a long-lived perennial
 
 Weeping lovegrass generally produces open, nodding panicles. Inflorescences may measure 16 inches (40 cm) long and 6 inches (15 cm) wide. Spikelets may reach 1 cm long and contain 4 to 15 florets [8,47,123]. Seeds are rather long, up to 1.7 mm, and flattened [8,47,88].
 
-[![A photo of a grass panicle with a desert landscape out of focus in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-eracur_panicle.jpg)Photo Credit Photo by Mark Pollock, iNaturalist.org A weeping lovegrass panicle, ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a grass panicle with a desert landscape out of focus in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-eracur_panicle.jpg?itok=aAVPdlwk)Photo Credit Photo by Mark Pollock, iNaturalist.org A weeping lovegrass panicle, ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).](<https://creativecommons.org/licenses/by/4.0/>)
 
 Weeping lovegrass ecotypes and/or cultivars described in the Distribution and Occurrence section typically differ only in leaf size, palatability, "vigor", and/or cold tolerance [23,26]. Cultivars are likely best identified through historical planting records and not through morphological differences.
 

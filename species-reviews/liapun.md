@@ -56,7 +56,7 @@ blazing star, dotted button snakeroot, dotted gayfeather, gayfeather, liatris
 
 Dotted blazing star occurs from Alberta south to New Mexico and Mexico, east to Manitoba and Michigan, and south to Arkansas [20,40]. Liatris punctata var. punctata occurs in the Midwest and Great Lakes; L. p. var. mucronata from Kansaa and Missouri to Texas and Louisiana; L. p. var. mexicana in Oklahoma and Texas [19,43]. Distribution of dotted blazing star. Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, 29 May 2018] [43].
 
-![Map distribution of dotted blazing star.]({{ site.baseurl }}/assets/images/species-reviews/liapun_feis-map_liapun.jpg)
+![Map distribution of dotted blazing star.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-map_liapun.jpg?itok=64gOtJ9f)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Associates of dotted blazing star on sandy soil in northeastern Colorado include
 
 Dotted blazing star is a native, warm-season, perennial forb [40]. It has one to several stems 4 to 32 inches (0.1-0.8 m) tall [20]. The inflorescence is a dense spike up to 12 inches (30 cm) long [40]. The fruit is an achene. The pappus is persistent [3]. The stems arise from an erect or weakly spreading thick, short rootstock elongated into a thickened taproot [20]. The taproot is 4.25 to 16.4 feet (1.3-5 m) deep, with laterals at various levels [3]. Dotted blazing star develops rhizomes [31].
 
-![Photo of dotted blazing star in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-liapun.jpg)
+![Photo of dotted blazing star in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-liapun.jpg?itok=1Ft1KRIP)
 
 Photo Credit
 
@@ -113,7 +113,7 @@ Creative Commons image by Matt Lavin.
 
 Dotted blazing star.
 
-![Photo of dotted blazing star fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-liapun_seeds.jpg)
+![Photo of dotted blazing star fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-liapun_seeds.jpg?itok=wwgsjsCQ)
 
 Photo Credit
 
@@ -226,7 +226,7 @@ Young dotted blazing star plants are eaten by rodents [31].
 
 Dotted blazing star is an important nectar source for Lepidoptera. The population distribution of the endangered skipper butterfly (Hesperus leonardus montana) near Deckers, Colorado, corresponds almost exactly with dotted blazing star occurrence [30].
 
-![Photo of pawnee montane skipper on a dotted blazing star flower.]({{ site.baseurl }}/assets/images/species-reviews/liapun_feis-liapin_skipper.jpg)
+![Photo of pawnee montane skipper on a dotted blazing star flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-liapin_skipper.jpg?itok=xTBkCJ1h)
 
 Photo Credit
 

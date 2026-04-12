@@ -34,7 +34,7 @@ Habeck, R. J. 1992. _Menziesia ferruginea_ , rusty menziesia. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of rusty menziesia]({{ site.baseurl }}/assets/images/species-reviews/feis-menfer_plant.jpg) Rusty menziesia. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
+![Photo of rusty menziesia](https://research.fs.usda.gov/sites/default/files/2025-08/feis-menfer_plant.jpg) Rusty menziesia. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Kallum McDonald, iNaturalist.org, no rights reserved.
 

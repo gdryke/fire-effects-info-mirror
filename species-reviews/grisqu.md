@@ -94,7 +94,7 @@ Associates of curlycup gumweed on land adjacent to creek bottoms in central Mont
 
 ## Botanical and Ecological Characteristics
 
-![Flowering curlycup gumweed.]({{ site.baseurl }}/assets/images/species-reviews/grisqu_grisqu_0_1.png)
+![Flowering curlycup gumweed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/grisqu_0_1.png?itok=MWRrT6G8)
 
 Photo Credit
 

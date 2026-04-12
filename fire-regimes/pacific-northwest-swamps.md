@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific Northwest swamp communities has not
 
 ## Distribution
 
-![A map showing the distribution of Pacific Northwest swamp communities in Oregon and Washington.]({{ site.baseurl }}/assets/images/fire-regimes/pacific-northwest-swamps_feis-pacific_northwest_swamps_locator.jpg)
+![A map showing the distribution of Pacific Northwest swamp communities in Oregon and Washington.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_northwest_swamps_locator.jpg?itok=TUydjTuz)
 
 Photo Credit
 

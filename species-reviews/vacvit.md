@@ -34,7 +34,7 @@ Tirmenstein, D. 1991. _Vaccinium vitis-idaea_ , lingonberry. In: Fire Effects In
 
 ## Introduction
 
-![Photo of lingonberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacvit_plant.jpeg)
+![Photo of lingonberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacvit_plant.jpeg?itok=jiT9vx6b)
 
 Photo Credit
 
@@ -62,7 +62,7 @@ lowbush cranberry, northern mountain cranberry, mountain cranberry
 
 Lingonberry is a circumpolar, circumboreal species that occurs throughout parts of North America, Eurasia, and Japan [101,106]. The New World subspecies (ssp. _minus_) extends from northwestern Greenland across the Canadian Arctic southward to New England [114]. It grows westward to the Great Lakes and British Columbia and reaches islands in the Bering Sea [42,114]. In North America, lingonberry is restricted to areas north of the glacial boundary [106]. The subspecies vitis-idaea occurs throughout northern Europe from Scandinavia to northern Italy and the Caucasus, across northern Siberia and Japan southward into northern China and Korea [42].
 
-![Photo of map distribution of lingonberry in North America.]({{ site.baseurl }}/assets/images/species-reviews/vacvit_vacvit_map_0_0.png)
+![Photo of map distribution of lingonberry in North America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/vacvit_map_0_0.png?itok=4AhLKJe-)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ Lingonberry is listed as a dominant or indicator in the following plant associat
 
 ## Botanical Description
 
-![Photo of lingonberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/vacvit_feis-plant_flower_vacvit.jpg)
+![Photo of lingonberry in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-plant_flower_vacvit.jpg?itok=aaAkvgh_)
 
 Photo Credit
 

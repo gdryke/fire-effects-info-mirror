@@ -34,7 +34,7 @@ Snyder, S. A. 1993. _Aix sponsa_ , wood duck. In: Fire Effects Information Syste
 
 ## Image Gallery
 
-![A male wood duck.]({{ site.baseurl }}/assets/images/species-reviews/feis-aisp_male.jpg) A male wood duck. _Photo by Lane Wintermute, U.S. Fish and Wildlife Service._
+![A male wood duck.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-aisp_male.jpg) A male wood duck. _Photo by Lane Wintermute, U.S. Fish and Wildlife Service._
 
 Photo Credit: Photo by Lane Wintermute, U.S. Fish and Wildlife Service.
 

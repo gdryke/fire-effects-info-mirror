@@ -32,7 +32,7 @@ While fuel loads and stand structures in areas that have not been altered by log
 
 ## Introduction
 
-![Photo of a forested slope with ocean and mountains in the background.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-pacific-maritime_feis-AK_PacificMaritime_Fig1.jpg)
+![Photo of a forested slope with ocean and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_PacificMaritime_Fig1.jpg?itok=OA_jg4Jy)
 
 Photo Credit
 
@@ -59,7 +59,7 @@ Common names are used throughout this synthesis. For a complete list of common a
 
 The Alaskan Pacific maritime ecosystems covered in this synthesis occur along the Pacific Coast from eastern Kodiak Island south and east through southeastern Alaska and into northern British Columbia. This corresponds to the distribution of Sitka spruce in Alaska and northern British Columbia [30,129], the coastal rainforests ecological province described by Barrett et al. [16], and the subpolar and northern part of the perhumid temperate rainforest zones described by Veblen and Alaback [127]. Subpolar temperate rainforests occur in south-central Alaska—west and north of Yakutat Bay, mostly in the Prince William Sound region. Perhumid temperate rainforests occur from southeastern Alaska and northern British Columbia south to northern Vancouver Island [127].
 
-![Map of the southeastern Alaska coast showing the distribution of plant communities.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-pacific-maritime_feis-AK_PacificMaritime_Map_Fig2.jpg)
+![Map of the southeastern Alaska coast showing the distribution of plant communities.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_PacificMaritime_Map_Fig2.jpg?itok=ofRFfUOh)
 
 Photo Credit
 
@@ -189,7 +189,7 @@ Floods, triggered by rainstorms, rain on snow, or rapid snowmelt, can cause vary
 
 #### Insects and Disease
 
-![Photo of a forested toeslope bordering the ocean, with foliage on almost all of the trees turned reddish brown.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-pacific-maritime_feis-AK_PacificMaritime_sawfly_damage_Fig3.jpg)
+![Photo of a forested toeslope bordering the ocean, with foliage on almost all of the trees turned reddish brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_PacificMaritime_sawfly_damage_Fig3.jpg?itok=_yWUEFzL)
 
 Photo Credit
 
@@ -291,7 +291,7 @@ Generalized accounts of fire in coastal western hemlock-Sitka spruce forests des
 
 ## Contemporary Fuels and Fire Regimes
 
-![Aerial photo of a large clearcut and large areas of second growth forest with smaller patches of old-growth forest.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-pacific-maritime_firelab-AK_PacificMaritime_Clearcut_Fig4.jpg)
+![Aerial photo of a large clearcut and large areas of second growth forest with smaller patches of old-growth forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/firelab-AK_PacificMaritime_Clearcut_Fig4.jpg?itok=YoCw5vNB)
 
 Photo Credit
 
@@ -317,7 +317,7 @@ Alaskan wetlands are drying and succeeding to upland habitat in some coastal are
 
 ### Mortality
 
-![Photo of a forested hill adjacent to the ocean with about half of the trees green and the rest with orange foliage.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-pacific-maritime_feis-AK_PacificMaritime_SpruceBeetle_Fig5.jpg)
+![Photo of a forested hill adjacent to the ocean with about half of the trees green and the rest with orange foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_PacificMaritime_SpruceBeetle_Fig5.jpg?itok=SxCpQMrO)
 
 Photo Credit
 
@@ -331,7 +331,7 @@ Widespread mortality of spruce following spruce beetle outbreaks in the late 20t
 
 Extensive yellow-cedar mortality and decline in southeastern Alaska and adjacent coastal British Columbia is a persistent feature on affected landscapes, not only because tree death occurs gradually, but also because yellow-cedar trees remain standing for 80 to 100 years after death (figure 6). Standing dead or dying yellow-cedars occur on >500,000 acres (>200,000 ha) in Alaska, from the southern part of southeastern Alaska north to the western coast of Chichagof Island (57.6° N), and on about 235,000 acres (95,000 ha) in British Columbia. At the northern extent of the decline on Chichagof Island, yellow-cedar death occurs in a narrow, low-elevation band from sea level up to about 500 feet (150 m). Every year, forest health reports document new areas of active yellow-cedar decline, which is strongly affected by warmer winters, reduced snow-pack, and earlier snowmelt that culminate in freezing damage to fine roots and eventual tree death [59,60]. See the FEIS Species Review on yellow-cedar and the comprehensive review of yellow-cedar by Hennon et al. [60] for more information and references to the primary literature on yellow-cedar decline.
 
-![Photo of a forested hillslope adjacent to the ocean, with most of the trees dead and turned gray, and a scattering of trees still green.]({{ site.baseurl }}/assets/images/fire-regimes/alaskan-pacific-maritime_feis-AK_PacificMaritime_YellowCedarDecline_Fig6.jpg)
+![Photo of a forested hillslope adjacent to the ocean, with most of the trees dead and turned gray, and a scattering of trees still green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-AK_PacificMaritime_YellowCedarDecline_Fig6.jpg?itok=SyZXI-sv)
 
 Photo Credit
 

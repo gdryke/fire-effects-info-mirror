@@ -46,7 +46,7 @@ The scientific name of the northern river otter is _Lontra canadensis_ Schreber 
  * _Lontra canadensis periclyzomae_ Elliot
  * _Lontra canadensis sonora_ Rhoads
 
-![A northern river otter on log in the Green River at the Seedskadee National Wildlife Refuge, Wyoming.]({{ site.baseurl }}/assets/images/species-reviews/feis-loca_northern-river-otter.jpg)
+![A northern river otter on log in the Green River at the Seedskadee National Wildlife Refuge, Wyoming.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-loca_northern-river-otter.jpg?itok=ePSGEGPw)
 
 Photo Credit
 

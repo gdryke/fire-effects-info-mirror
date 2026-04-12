@@ -68,7 +68,7 @@ Florida yew usually occurs in small clonal stands or clumps and rarely as indivi
 
 ## Botanical Description
 
-![A close up photo of conifer stems covered in flat green needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxflo_foliage.jpeg)
+![A close up photo of conifer stems covered in flat green needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-taxflo_foliage.jpeg?itok=G74CCnED)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Florida yew arils mature in September or early October of their first season [3]
 
 Florida yew is dioecious [16]. The seeds of other yews (_Taxus_ spp.) often take two growing seasons to germinate. Passage through the digestive tract of birds is probably required for germination of any yew seed [17]. Seedling recruitment in Florida yew varies among sites. The majority of seedlings occur under female Florida yew trees, but seedling height growth is negatively affected by the presence and density of a canopy. Of one hundred tagged seedlings at each of two sites, 21 and 39 percent survived to 10 months. Seedlings are apparently only moderately shade tolerant; very low levels of seedling recruitment were observed at the site which had a closed canopy [16].
 
-![A photo of a conifer branch laying horizontally along the ground, with branches sticking straight up along the branch. The setting is a dense forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxflo_fallen.jpg)
+![A photo of a conifer branch laying horizontally along the ground, with branches sticking straight up along the branch. The setting is a dense forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-taxflo_fallen.jpg?itok=uk4OTxyV)
 
 Photo Credit
 

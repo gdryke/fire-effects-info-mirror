@@ -159,7 +159,7 @@ Pitch pine is often dominant in pine barrens vegetation in the northeastern Unit
 
 ## Botanical and Ecological Characteristics
 
-![Photo of burned pitch pine ten weeks after a late April fire showing epicormic sprouting on the branches.]({{ site.baseurl }}/assets/images/species-reviews/pinrig_feis-stem_sprouts_pinrig.jpg)
+![Photo of burned pitch pine ten weeks after a late April fire showing epicormic sprouting on the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-stem_sprouts_pinrig.jpg?itok=euLwsnt7)
 
 Photo Credit
 
@@ -304,7 +304,7 @@ On Mt Everett, pitch pine is a dominant species but its replacement or continued
 
 ## Fire Ecology and Management
 
-![Photo of pitch pine thirty-eight days after an early May fire showing new sprouts on branch tips.]({{ site.baseurl }}/assets/images/species-reviews/pinrig_feis-green_tops_pinrig.jpg)
+![Photo of pitch pine thirty-eight days after an early May fire showing new sprouts on branch tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-green_tops_pinrig.jpg?itok=ZsZdVWQa)
 
 Photo Credit
 
@@ -320,7 +320,7 @@ Pitch pine survival may be affected by tree size, bark thickness, time since las
 
 In pitch pine-dominated stands of Burlington County, New Jersey, a "light" prescribed fire killed pitch pine trees less than 6 inches (15 cm) in DBH, but a severe fire killed trees in the 11- to 15-inch (28-38 cm) DBH size class in open-canopy, upland sites [90]. Fourteen months after an April 1933 surface wildfire in mixed-oak stands in Ulster County, New York, 6 live "butt-scorched" trees found in August were still alive. The surface fire killed the continuous mountain-laurel understory [155]. A cross section from a pitch pine that was 12 inches (30 cm) at stump height in Monroe County, Pennsylvania, revealed that the tree survived and recorded 9 fires over its nearly 120-year lifespan. Researchers noted that the growth rate slowed with successive fires [20], but it seems that tree age may have also reduced growth rate.
 
-![Photo of burned pitch pine showing basal sprouts.]({{ site.baseurl }}/assets/images/species-reviews/pinrig_feis-basal_sprouts_pinrig.jpg)
+![Photo of burned pitch pine showing basal sprouts.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-basal_sprouts_pinrig.jpg?itok=dsfuYoLG)
 
 Photo Credit
 

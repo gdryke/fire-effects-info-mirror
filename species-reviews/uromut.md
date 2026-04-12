@@ -77,7 +77,7 @@ Para grass occurs in tropical climates and its distribution is limited by its su
 
 A weed guide reports that para grass is invasive in riparian habitats, freshwater wetlands, swamps, and disturbed sites [56]. The few North American plant community descriptions available in the literature as of this writing (2010) support this statement. Some of the information presented in this section relies on personal communications between the author and managers in central peninsular Florida [27,48].
 
-[![A photo of grass growing into a body of water, with land visible on the other side. The foreground shows a thick layer of dead grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-uromut_community.jpg)Photo Credit Photo by naturesacademy, iNaturalist (CC BY-NC 4.0). Para grass growing in Sarasota County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of grass growing into a body of water, with land visible on the other side. The foreground shows a thick layer of dead grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-uromut_community.jpg?itok=64dei5Jd)Photo Credit Photo by naturesacademy, iNaturalist (CC BY-NC 4.0). Para grass growing in Sarasota County, Florida.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Florida
 
@@ -99,7 +99,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Para grass is a perennial stoloniferous grass [14,32]. Stems may reach 3 feet (1 m) when erect or 15 feet (3 m) when creeping. Inflorescences are terminal panicles up to 8 inches (20 cm) long, with 8 to 20 ascending, alternate branches. Spikelets are dense, paired, and approximately 3 mm long [32].
 
-![A photo of grass stems growing horizonally across bark-covered ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-uromut_stolon.jpg)
+![A photo of grass stems growing horizonally across bark-covered ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-uromut_stolon.jpg?itok=7vjKAxDU)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ Para grass appears to posses some traits (e.g., sprouting after top-kill, rapid 
 
 In the Lake Okeechobee region of Florida, one manager observed para grass mortality following high-severity wildfire. After lower-severity wildfire, para grass was generally top-killed but sprouted within 2 weeks [48]. After high-severity prescribed fire at the Archbold Biological Station, Florida, para grass cover was immediately reduced by >95%, but sprouting occurred within 6 to 7 days of the treatment. The manager thought it likely that para grass cover returned to prefire levels within 3 to 6 months [27]. Para grass cover showed no change after 5 years of annual, high-severity prescribed fire in Everglades National Park [13]. See Use of Prescribed Fire as a Control Agent for more information on fire characteristics of these studies.
 
-![A photo of grasses growing through a layer of brownish stems covering the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-uromut_postfire_sprouting.jpg)
+![A photo of grasses growing through a layer of brownish stems covering the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-uromut_postfire_sprouting.jpg?itok=FjUmYP8w)
 
 Photo Credit
 
@@ -202,7 +202,7 @@ Managers in Everglades National Park examining the impact of repeated spring pre
 
 A manager from the Lake Okeechobee region of Florida reported that para grass establishment has altered local fuel characteristics. He observed that para grass establishment in freshwater marshes increased standing biomass and fuel loading, which in turn increased fire severity, particularly in times of drought. In some areas, para grass establishment facilitated peat fires that resulted in uncharacteristically high cypress (_Taxodium_ spp.) mortality [48].
 
-![A photo of a dense understory of grass with trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-uromut_fuels.jpg)
+![A photo of a dense understory of grass with trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-uromut_fuels.jpg?itok=WOq6EoBS)
 
 Photo Credit
 
@@ -218,7 +218,7 @@ It is not clear what fire regime para grass is best adapted to. Fire severity ma
 
 In the Lake Okeechobee region, para grass was able to survive and sprout following low-severity prescribed fire, but para grass was killed by high-severity wildfire that burned down to mineral soil [48]. Para grass survived and sprouted following a high-severity prescribed fire near the Archbold Biological Station [27] and maintained its presence through 5 years of annual, high-severity prescribed fires in Everglades National Park, with no detectable change in cover over time [13]. See Use of Prescribed Fire as a Control Agent for more information on this topic.
 
-![A photo of low, brownish ground cover with a few green plants giving off patchy smoke.]({{ site.baseurl }}/assets/images/species-reviews/feis-uromut_lakeokee_wildfire.jpg)
+![A photo of low, brownish ground cover with a few green plants giving off patchy smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-uromut_lakeokee_wildfire.jpg?itok=qjUGJ2Bj)
 
 Photo Credit
 

@@ -57,7 +57,7 @@ mockorange, syringa, Gordon's mockorange
 
 ## General Distribution
 
-![Photo of map distribution of Lewis' mock orange in US.]({{ site.baseurl }}/assets/images/species-reviews/feis-philew_map.png)
+![Photo of map distribution of Lewis' mock orange in US.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-philew_map.png?itok=iljPhljV)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Lewis' mock orange occurs in seral shrubfields and chaparral communities. In nor
 
 ## Botanical Description
 
-![Photo of flowering Lewis mock orange.]({{ site.baseurl }}/assets/images/species-reviews/feis-philew_plant.jpg)
+![Photo of flowering Lewis mock orange.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-philew_plant.jpg?itok=ZzFntIWU)
 
 Photo Credit
 

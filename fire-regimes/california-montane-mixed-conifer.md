@@ -32,7 +32,7 @@ A complete Fire Regime Synthesis for California montane mixed-conifer communitie
 
 Ponderosa pine communities occur from about 1,000 to 5,900 feet (300-1,800 m) in northern California and about 4,000 to 6,900 feet (1,200-2,100 m) in southern California. Jeffrey pine communities occur from about 4,900 to 7,900 feet (1,500-2,400 m) in northern and 5,600 to 9,200 feet (1,700-2,800 m) in southern California. Both pines also occur in montane mixed-conifer forests, so boundaries between "yellow pine" and montane mixed-conifer forests are not discrete ("yellow pine" refers to both ponderosa and Jeffery pines). The mixed-conifer zone extends from around 4,000 feet (1,200 m) to 6,500-7,500 feet (2,000-2,300 m) or more, depending on latitude, with the upper elevational range falling within the zone of maximum snowfall. See table 2 for scientific names of plants.
 
-![A map showing the distribution of California montane mixed-conifer communities in California and surrounding states.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-mixed-conifer_feis-california_montane_mixed_conifer_locator.jpg)
+![A map showing the distribution of California montane mixed-conifer communities in California and surrounding states.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-california_montane_mixed_conifer_locator.jpg?itok=uHsirChW)
 
 Photo Credit
 
@@ -40,7 +40,7 @@ Map based on the LANDFIRE (2020) BpS data layer [6].
 
 Figure 1—Land cover distribution of California montane mixed-conifer Biophysical Settings (BpS).
 
-![A photo of an open pine forest with tall, straight trees with orangey bark.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-mixed-conifer_feis-ca_montane_mixedconifer_pinjef.jpg)
+![A photo of an open pine forest with tall, straight trees with orangey bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-ca_montane_mixedconifer_pinjef.jpg?itok=lX2obOcU)
 
 Photo Credit
 
@@ -48,7 +48,7 @@ Image used with permission of Charles Webber © California Academy of Sciences.
 
 Jeffrey pine forest in Mono County.
 
-![A photo looking out at low mountains covered in conifer forest with open areas visible between the trees.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-mixed-conifer_feis-ca_montane_mixedconifer_pinpon.jpg)
+![A photo looking out at low mountains covered in conifer forest with open areas visible between the trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-ca_montane_mixedconifer_pinpon.jpg?itok=Wa5LXZ4T)
 
 Photo Credit
 
@@ -56,7 +56,7 @@ Image used with permission of J. E. (Jed) and Bonnie McClellan © California Aca
 
 Ponderosa pine forest in Trinity County.
 
-![A photo of a mountain conifer forest, with some dead trees visible and open areas between trees.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-mixed-conifer_feis-ca_montane_mixedconifer_mixconifer.jpg)
+![A photo of a mountain conifer forest, with some dead trees visible and open areas between trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-ca_montane_mixedconifer_mixconifer.jpg?itok=OmEkacPo)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Fires in presettlement YPMC forests were generally small in size, but numerous. 
 
 ## Contemporary Changes
 
-![A map showing historical fire return intervals on Forest and National Park Service lands in California, with colors from red to blue showing longer or shorter fire intervals.]({{ site.baseurl }}/assets/images/fire-regimes/california-montane-mixed-conifer_feis-ca_montane_mixedconifer_pfrid_map.jpg)
+![A map showing historical fire return intervals on Forest and National Park Service lands in California, with colors from red to blue showing longer or shorter fire intervals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-04/feis-ca_montane_mixedconifer_pfrid_map.jpg?itok=xW_HQkvQ)
 
 Figure 2—Mean percentage of fire-return interval departure (PFRID) on Forest Service and National Park Service lands in California. Land with warm colors have more fire than in presettlement times; cool colors have less fire [4, 5].
 

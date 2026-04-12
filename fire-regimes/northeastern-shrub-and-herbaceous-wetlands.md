@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northeastern shrub and herbaceous wetland c
 
 ## Distribution
 
-![A map showing the distribution of northeastern shrub and herbaceous wetland communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northeastern-shrub-and-herbaceous-wetlands_feis-northeastern_shrub_and_herbaceous_wetlands_locator.jpg)
+![A map showing the distribution of northeastern shrub and herbaceous wetland communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-northeastern_shrub_and_herbaceous_wetlands_locator.jpg?itok=CoC-VZMd)
 
 Photo Credit
 

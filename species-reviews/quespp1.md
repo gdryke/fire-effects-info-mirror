@@ -117,7 +117,7 @@ Swamp laurel oak is often present in forested wetlands, a transitional community
 
 ## Botanical Description
 
-![A tree with long, pointed, pale green leaves hangs over still, dark water.]({{ site.baseurl }}/assets/images/species-reviews/quespp1_feis-quelau_habitat.jpeg)
+![A tree with long, pointed, pale green leaves hangs over still, dark water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quelau_habitat.jpeg?itok=D2MR2u77)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Photo by Eric M. Powell, iNaturalist.org, some rights reserved.
 
 Swamp laurel oak, Clay County, Florida. [(CC BY-NC 4.0)](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
-![A large tree with an irregular-shaped, broad crown and pointed green leaves grows on the side of a red dirt road, surrounded by other smaller trees.]({{ site.baseurl }}/assets/images/species-reviews/quespp1_feis-quehem_habitat.jpg)
+![A large tree with an irregular-shaped, broad crown and pointed green leaves grows on the side of a red dirt road, surrounded by other smaller trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quehem_habitat.jpg?itok=QvEzlUxU)
 
 Photo Credit
 

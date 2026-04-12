@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South-central riparian and floodplain commu
 
 ## Distribution
 
-![A map showing the distribution of South-central riparian and floodplain communities in the southern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/south-central-riparian-and-floodplain_feis-south_central_riparian_and_floodplain_locator.jpg)
+![A map showing the distribution of South-central riparian and floodplain communities in the southern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-south_central_riparian_and_floodplain_locator.jpg?itok=2MzaQuQW)
 
 Photo Credit
 

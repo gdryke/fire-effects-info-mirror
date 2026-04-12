@@ -50,7 +50,7 @@ Himalayan blackberry displaces native riparian shrubs by overtopping and outcomp
 
 The scientific name of Himalayan blackberry is _Rubus armeniacus_ Focke [35,68,113,203], and the scientific name of European blackberry is _Rubus bifrons_ Vest ex. Tratt [68,74,81,107,113,166,208]. They are members of the Rose family (Rosaceae). The morphology and genetics of _R. armeniacus_ and _R. bifrons_ are very similar [74], and some systematists consider them the same species under the name _R. bifrons_ [74,107]. This Species Review treats the two taxa as separate species. Both belong to the _R. fruiticosus_ complex (subgenus _Rubus_) [45,104,150], an aggregate of blackberry species that are native to Eurasia [6,46,76] and primarily reproduce vegetatively [45].
 
-![Photo of two leafy stems with small thorns; one has oval leaves and the other deeply dissected leaves. ]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RubarmRublac_leaves_Fig1_0.JPG)
+![Photo of two leafy stems with small thorns; one has oval leaves and the other deeply dissected leaves. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RubarmRublac_leaves_Fig1_0.JPG?itok=CpHajS1U)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ On 26 August 2025, the common name "European blackberry" was added to this Speci
 
 ### Himalayan blackberry
 
-![Map of the United States showing the county-level distribution of Himalayan blackberry, concentrated mostly in states along the West Coast and Southwest.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RubarmMap_Fig2.jpg)
+![Map of the United States showing the county-level distribution of Himalayan blackberry, concentrated mostly in states along the West Coast and Southwest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RubarmMap_Fig2.jpg?itok=m_mXYetJ)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ Populations of Himalayan blackberry become less frequent and dense east of the S
 
 ### European blackberry
 
-![Map of the United States showing the county-level distribution of European blackberry in scattered counties in the Southeast, but absent from Florida.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RubbifMap_Fig3.jpg)
+![Map of the United States showing the county-level distribution of European blackberry in scattered counties in the Southeast, but absent from Florida.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RubbifMap_Fig3.jpg?itok=z8kA0YQL)
 
 Photo Credit
 
@@ -181,7 +181,7 @@ East of the Cascade Range, Himalayan blackberry grows on sites with relatively m
 
 **California (excluding deserts)**
 
-![Photo of a forest understory in fall, showing an abundance of litter and debris on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-Rubarm_Quekel_Fig4.JPG)
+![Photo of a forest understory in fall, showing an abundance of litter and debris on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-Rubarm_Quekel_Fig4.JPG?itok=L7mgYEyd)
 
 Photo Credit
 
@@ -213,7 +213,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Himalayan blackberry is a trailing shrub [62,74,113,185] or subshrub [113,203]. Vegetative stems (primocanes) arch, then droop and trail along the ground. They are generally from 1 to 7 m long [62,74,81,104], averaging about 3 m long [104]. Flowering stems (floricanes) branch out from primocanes [74] (fig. 5). In western Oregon, primocane stems ranged from 0.5 to 1.4 m long (mean = 0.9 m), and stands ranged from 0.8 to 3.4 m tall (mean = 1.5 m) [40]. The stems are armed with large, recurved to straight prickles [62,74,81,193]. The thick, arching stems and large prickles help distinguish Himalayan blackberry from other blackberry species of North America [177].
 
-![Photo of a five-petaled white flower and several more unopened flower buds at the end of a stem emerging from a green, leafy background. ]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RUBARM_flower_fig5.jpg)
+![Photo of a five-petaled white flower and several more unopened flower buds at the end of a stem emerging from a green, leafy background. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBARM_flower_fig5.jpg?itok=qyl7lezY)
 
 Photo Credit
 
@@ -221,7 +221,7 @@ CalPhoto image © 2016 Keir Morse.
 
 Figure 5—Himalayan blackberry flowering at Deer Creek Center, Oregon. 
 
-![Photo of a cluster of white flowers at the end of a slender branch emerging from a leafy green background.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RUBBIF_flower_fig6.jpg)
+![Photo of a cluster of white flowers at the end of a slender branch emerging from a leafy green background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBBIF_flower_fig6.jpg?itok=EEJdW4HI)
 
 Photo Credit
 
@@ -231,7 +231,7 @@ Figure 6—European blackberry floricane.
 
 The leaves of Himalayan blackberry are deciduous to evergreen [62,74]. Himalayan blackberry is sometimes described as "semievergreen" because its leaves stay green well into fall [22], and some leaves are retained through winter. The compound leaves have mostly three leaflets on primocanes and mostly five leaflets on floricanes [62]. They are armed with short prickles [62,74,81,193].
 
-![Photo of the underground portion of a woody plant that has been dug up to show the clusters of fine roots and a much larger, semi-woody rhizome.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RUBARM_RootSystem_fig7.JPG)
+![Photo of the underground portion of a woody plant that has been dug up to show the clusters of fine roots and a much larger, semi-woody rhizome.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBARM_RootSystem_fig7.JPG?itok=Llm2FOJa)
 
 Photo Credit
 
@@ -311,7 +311,7 @@ Himalayan blackberry is both self- and cross-pollinated [46,120,150]. Cross-poll
 
 #### Seed Production and Predation
 
-![Photo of two clusters of dark purple berries at the end of a woody, prickly stem with several leaves. The background shows a diversity of plants and trees.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RUBARM_fruits_Fig8.jpg)
+![Photo of two clusters of dark purple berries at the end of a woody, prickly stem with several leaves. The background shows a diversity of plants and trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBARM_fruits_Fig8.jpg?itok=Qfk6pqBV)
 
 Photo Credit
 
@@ -387,7 +387,7 @@ Fire top-kills Himalayan blackberry [104,122]. Himalayan blackberry stems on moi
 
 Himalayan blackberry has morphological and regeneration characteristics that enable it to survive and regenerate after fire. Soil insulates its root crown and rhizomes, protecting them from injury from fire (fig. 7). Himalayan blackberry has a soil-stored seed bank, and fire may break dormancy of its seed, so postfire seedling establishment is possible. Seed dispersal by animals allows for establishment onto new sites, including burns (see Regeneration Processes). Its growth is favored on open sites such as burns [122].
 
-![Photo showing an excavated plant with a cluster of fine roots, a large, woody rhizome, and a new stem emerging from the root crown.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RubarmSprout_Fig9.jpg)
+![Photo showing an excavated plant with a cluster of fine roots, a large, woody rhizome, and a new stem emerging from the root crown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RubarmSprout_Fig9.jpg?itok=TJTTtzk8)
 
 Photo Credit
 
@@ -419,7 +419,7 @@ A study in northern California shows a similar trend, with little change in Hima
 
 ## Fuels
 
-![Photo of a jumble of dead and down stems and litter, with several green leafy branches mixed in.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-Rubarm_LitterFuels_fig10.JPG)
+![Photo of a jumble of dead and down stems and litter, with several green leafy branches mixed in.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-Rubarm_LitterFuels_fig10.JPG?itok=6Vaxzj0W)
 
 Photo Credit
 
@@ -427,7 +427,7 @@ Photo by Janet Fryer, USDA Forest Service.
 
 Figure 10—Himalayan blackberry understory in a Fremont cottonwood-shining willow riparian community. Dead and live Himalayan blackberry canes have captured much of the tree litter. The Himalayan blackberry shrub layer is about 2 m tall, arching into low tree branches.
 
-![Photo of a small cluster of leafless trees over a jumble of leafy stems on the ground below.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-Rubarm_LitterFuels2_Fig11.jpg)
+![Photo of a small cluster of leafless trees over a jumble of leafy stems on the ground below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-Rubarm_LitterFuels2_Fig11.jpg?itok=01-A12L4)
 
 Photo Credit
 
@@ -476,7 +476,7 @@ For additional fire regime information, see FEIS publications on historical fire
 
 It is unclear how fuel loads and fire regimes of invaded plant communities may be affected by Himalayan blackberry. Quantitative comparisons of fuel loads in invaded versus uninvaded communities were lacking as of 2020. Fuels are difficult to measure in Himalayan blackberry thickets due to inaccessibility [91]. However, Himalayan blackberry forms dense thickets [76,77,103,127,169], and dense Himalayan blackberry populations can potentially alter fuel loads and fire behavior on invaded sites. Himalayan blackberry thickets may displace native plant species, including native blackberries [36] (see Impacts), and change the physical structure of invaded communities.
 
-![Photo of a mass of woody stems on fire, in front of a cluster of trees, with a person holding a hand tool and watching it burn.]({{ site.baseurl }}/assets/images/species-reviews/rubspp_feis-RUBARM_fire_fig12.JPG)
+![Photo of a mass of woody stems on fire, in front of a cluster of trees, with a person holding a hand tool and watching it burn.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-RUBARM_fire_fig12.JPG?itok=cAgEVqjj)
 
 Photo Credit
 

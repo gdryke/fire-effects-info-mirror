@@ -34,7 +34,7 @@ Sullivan, Janet. 1993. _Taxus canadensis,_ Canada yew. In: Fire Effects Informat
 
 ## Image Gallery
 
-![Photo of Canada yew.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxcan_plant.jpg) Canada yew. _Photo by infiniteuniverse, iNaturalist.org, no rights reserved._
+![Photo of Canada yew.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-taxcan_plant.jpg) Canada yew. _Photo by infiniteuniverse, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by infiniteuniverse, iNaturalist.org, no rights reserved.
 
@@ -87,7 +87,7 @@ Publications naming Canada yew as an indicator or shrub-layer dominant include t
 
 ## Botanical Description
 
-![Photo of Canada yew.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxcan_plant.jpg)
+![Photo of Canada yew.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-taxcan_plant.jpg?itok=-KtPedRY)
 
 Photo Credit
 

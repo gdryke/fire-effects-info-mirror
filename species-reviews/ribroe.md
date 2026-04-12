@@ -92,7 +92,7 @@ Sierra gooseberry is a community dominant in the****Sierra gooseberry-varileaf p
 
 ## Botanical Description
 
-![Photo of a horizontal woody branch with round, green leaves growing outward and upward and dark red flower blossoms dangling from the underside.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribroe_flower.jpg)
+![Photo of a horizontal woody branch with round, green leaves growing outward and upward and dark red flower blossoms dangling from the underside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ribroe_flower.jpg?itok=dj-vPKSp)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ Sierra gooseberry flowers from April to June in southern California [20,56,57] a
 
 ## Regeneration Processes
 
-![Photo of a horizontal woody stem covered with thorns and green, three-lobed leaves. Spherical yellow fruits, densely covered with red spines are dangling from the underside. ]({{ site.baseurl }}/assets/images/species-reviews/feis-ribroe_seeds.jpg)
+![Photo of a horizontal woody stem covered with thorns and green, three-lobed leaves. Spherical yellow fruits, densely covered with red spines are dangling from the underside. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ribroe_seeds.jpg?itok=JRIhGt2G)
 
 Photo Credit
 
@@ -195,7 +195,7 @@ The percent cover of Sierra gooseberry following clearcutting in a red fir (_Abi
 
 ## Immediate Fire Effects 
  
-![Photo showing Sierra gooseberry sprouts flowering among charred trees 15 months after the 2013 Rim Wildfire on the Stanislaus National Forest.]({{ site.baseurl }}/assets/images/species-reviews/ribroe_feis-fire1_ribroe.jpg)
+![Photo showing Sierra gooseberry sprouts flowering among charred trees 15 months after the 2013 Rim Wildfire on the Stanislaus National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-fire1_ribroe.jpg?itok=3V63-Yry)
 
 Photo Credit
 

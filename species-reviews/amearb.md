@@ -62,7 +62,7 @@ downy serviceberry, Juneberry, shadbush, shadblow, sugarplum
 
 ## General Distribution
 
-![A map of the U.S. and Canada, with states and territories highlighted in green where common serviceberry occurs. The eastern half of the U.S. and Canada are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-amearb_map.jpg)
+![A map of the U.S. and Canada, with states and territories highlighted in green where common serviceberry occurs. The eastern half of the U.S. and Canada are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-amearb_map.jpg?itok=7Yf3zP3T)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ No entry.
 
 ## Botanical Description
 
-[![A close up photo of the smooth, grey bark of a tree with a few small bumps scattered on the bark.]({{ site.baseurl }}/assets/images/species-reviews/feis-amearb_bark.jpg)Photo Credit Photo by Paul Wray, Iowa State University, Bugwood.org. Common serviceberry bark.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A close up photo of the smooth, grey bark of a tree with a few small bumps scattered on the bark.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-amearb_bark.jpg?itok=HvEwgoU9)Photo Credit Photo by Paul Wray, Iowa State University, Bugwood.org. Common serviceberry bark.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 Common serviceberry is a tall, deciduous shrub or small tree, growing up to 30 feet (9 m) or more [20]. Its trunk is about 16 inches (40 cm) in diameter [4]. The maximum recorded height and diameter for common serviceberry is 70 feet (21 m) high and 2 feet (0.6 m) d.b.h. [14]. Its branches are purplish when young but turn grey at maturity. Leaves are alternate and simple with serrate margins. They are almost twice as long as broad. Flowers are white, and the berrylike pomme fruit is dark red to purple [20]. There are 4 to 10 seeds per fruit [1].
 
@@ -106,7 +106,7 @@ Common serviceberry is a tall, deciduous shrub or small tree, growing up to 30 f
 
 In the northern part of its range, common serviceberry flowers at the same time its leaves emerge in April and May. Fruits are produced in June and July [20]. In southern parts of its range, common serviceberry flowers in March and produces fruit from June through August [1,4].
 
-[![A close up photo of part of a flowering shrub. There are many white flowers with skinny, separated petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-amearb_plant.jpg)Photo Credit Photo by John Ruter, University of Georgia, Bugwood.org. Common serviceberry flowers.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
+[![A close up photo of part of a flowering shrub. There are many white flowers with skinny, separated petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-amearb_plant.jpg?itok=wB--y3bW)Photo Credit Photo by John Ruter, University of Georgia, Bugwood.org. Common serviceberry flowers.](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
 ## Regeneration Processes
 

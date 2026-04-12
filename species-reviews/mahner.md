@@ -72,7 +72,7 @@ Cascade barberry commonly grows as scattered, or abundant, individuals but can d
 
 ## Plant Communities
 
-![A photo of a dark, lush forest understory with many green shrubs growing together. The central shrub has pointed, opposite, serrated leaves on straight stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahner_habitat.jpeg)
+![A photo of a dark, lush forest understory with many green shrubs growing together. The central shrub has pointed, opposite, serrated leaves on straight stems.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-mahner_habitat.jpeg?itok=GsvO1Kue)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Cascade barberry is an understory dominant in montane to submontane coniferous a
 
 Cascade barberry is a low-growing rhizomatous evergreen shrub which typically reaches 4 to 24 inches in height [28,69]. On exceptional sites, plants may grow to 7 feet (2.1 m) [81]. The simple stems are ascending to erect and generally occur in loose colonies of several stems [69,46,71]. Compound leaves are borne in terminal tufts [66,69]. Coarsely serrate to spinose, ovate to lance-ovate or acute leaflets occur in groups of 7 to 21 [46,69,95]. Leaflets are dark green, thick, and leathery [71,95]. Yellow flowers are borne in erect clusters or racemes up to 8 inches (21 cm) in length [66,69,71]. The fruit is a large, dark blue, globose berry with grayish or whitish bloom [28,69,71,95]. Berries are 0.3 to 0.4 inch (8-10 mm) in diameter, occur in clusters [35], and contain a number of black seeds [95].
 
-![A close up photo of a shrub's serrated, shiny green leaves and a cluster of dusty blue berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-mahner_berries.jpg)
+![A close up photo of a shrub's serrated, shiny green leaves and a cluster of dusty blue berries.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2025-09/feis-mahner_berries.jpg?itok=RVxipzDw)
 
 Photo Credit
 

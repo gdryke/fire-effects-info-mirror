@@ -84,7 +84,7 @@ The following published classifications list scarlet oak as a codominant species
 
 ## Botanical Description
 
-![A photo of a tree's dark red, dissected leaves. The entire photo is filled with red leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-quecoc_foliage.jpg)
+![A photo of a tree's dark red, dissected leaves. The entire photo is filled with red leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quecoc_foliage.jpg?itok=Nw06yTQe)
 
 Photo Credit
 
@@ -199,7 +199,7 @@ In Maine's Official List of Endangered and Threatened Plants, scarlet oak is lis
 
 ## Importance to Wildlife and Livestock
 
-![A photo looking at the ground, which is covered in brown acorn caps. Most of the acorns have been eaten by rodents, but a few are scattered around. There is a small log in the middle of the pile of acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quecoc_acorncache.jpeg)
+![A photo looking at the ground, which is covered in brown acorn caps. Most of the acorns have been eaten by rodents, but a few are scattered around. There is a small log in the middle of the pile of acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quecoc_acorncache.jpeg?itok=6Cj2NW_-)
 
 Photo Credit
 

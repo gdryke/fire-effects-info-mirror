@@ -36,7 +36,7 @@ Fryer, Janet L. 2010. _Holodiscus discolor_ , oceanspray. In: Fire Effects Infor
 
 ## Taxonomy
 
-![A photo of large clusters of the white flowers and some green leaves of a shrub, with conifers and mountains behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdis_plant.jpg)
+![A photo of large clusters of the white flowers and some green leaves of a shrub, with conifers and mountains behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-holdis_plant.jpg?itok=fb289H3r)
 
 Photo Credit
 
@@ -73,7 +73,7 @@ Oceanspray is common in sands and clay loams (review by [196]) but may occur in 
 
 Oceanspray occurs on a variety of parent materials. In the Cascade Range of Oregon, coast Douglas-fir/oceanspray communities occur on poorly developed basalts, andesites, and other parent materials of volcanic origin [153]. At Oregon Caves National Monument, mixed-conifer forests with oceanspray occur on soils of diorite origin [240]. Poison-oak (_Toxicodendron diversilobum_)-oceanspray-Mexican elderberry (_Sambucus mexicana_) communities of San Luis Obispo County, California, are associated with andesite-derived soils [235].
 
-![A photo of green shrubs with dense, white sprays of flowers growing in between large, blocky boulders.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdis_rocks.jpg)
+![A photo of green shrubs with dense, white sprays of flowers growing in between large, blocky boulders.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-holdis_rocks.jpg?itok=hC8aUPSZ)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ Oceanspray is called "the most widespread and possibly the most abundant floweri
 
 In Oregon, coast Douglas-fir/oceanspray associations on the Willamette National Forest are primarily structurally diverse old-growth stands, containing long-lived canopy trees and a subcanopy of younger trees. Most of the stands are >150 years old [94]. Oceanspray is common to dominant in dry white fir (_A. concolor_) forests in the Siskiyou Mountains of southwestern Oregon [238], and it is an important shrub in Port Orford-cedar (_Chamaecyparis lawsoniana_) communities of southwestern Oregon and northwestern California [257]. It is important in many mixed-conifer forests of southern Oregon and California [33,34]. These communities are codominated by Pacific ponderosa pine (_P. ponderosa_ var. _ponderosa_), coast Douglas-fir, Jeffrey pine (_P. jeffreyi_), California black oak (_Quercus kelloggii_), tanoak (_Lithocarpus densiflorus_), and/or canyon live oak (_Q. chrysolepis_) [34]. Oceanspray is also important in knobcone pine (_P. attenuata_) communities of southern Oregon and California [39].
 
-![A photo of a shrub with sprays of white flowers and green leaves on the edge of a steep hill, with conifers below and mountains in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdis_habitat.jpg)
+![A photo of a shrub with sprays of white flowers and green leaves on the edge of a steep hill, with conifers below and mountains in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-holdis_habitat.jpg?itok=T0nZm8En)
 
 Photo Credit
 
@@ -190,7 +190,7 @@ Publications describing plant communities where oceanspray is a dominant or indi
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (for example, [97,99,117,193]). Morris and others [161] provide a key for identifying oceanspray and other shrubs in winter. Oceanspray and rockspirea are distinguished by their forms, leaf characteristics, and distributions [136]; intergradation of the 2 species is most pronounced in Nevada [104] and Utah [236].
 
-![A photo of a cluster of many white flowers, with green leaves below.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdis_flowerbranch.jpg)
+![A photo of a cluster of many white flowers, with green leaves below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-holdis_flowerbranch.jpg?itok=HFpfWbEi)
 
 Photo Credit
 
@@ -451,7 +451,7 @@ See Palatability for more information on ungulate use of oceanspray after fire.
 
 ## Fuels
 
-![A photo of a somewhat low, bright green shrub with sprays of whitish flowers in the foreground, and apparently more of the same shrubs providing a consistent layer of relatively thick, brushy growth. A large tree stump is in the middle of the photo, and dense conifers are visible in the background, with a reddish dirt road just visible to the back left of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-holdis_fuels.jpg)
+![A photo of a somewhat low, bright green shrub with sprays of whitish flowers in the foreground, and apparently more of the same shrubs providing a consistent layer of relatively thick, brushy growth. A large tree stump is in the middle of the photo, and dense conifers are visible in the background, with a reddish dirt road just visible to the back left of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-holdis_fuels.jpg?itok=iPno-9IU)
 
 Photo Credit
 

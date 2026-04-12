@@ -53,7 +53,7 @@ The scientific name of Missouri goldenrod is _Solidago missouriensis_ Nutt. (Ast
 
 _Solidago missouriensis_ var. _fasciculata_ was applied to tall, leafy-stemmed plants in the eastern part of the species’ range [27, 35, 45, 49, 183], and _S. m._ var. _missouriensis_ was applied to shorter, often large-headed plants to the west [28, 49]. Plants from Arizona, Colorado, and New Mexico with long, linear leaves have been classified as _S. m._ var. _tenuissima_[42, 155], and large-headed plants with narrow bracts from prairies west of the Cascade Range in Oregon and Washington were sometimes classified as _S. m._ var. _tolmieana_ [42, 68, 155]. However, Cronquist et al. (1994) did not find varietal distinctions useful [28], and Hitchcock and Cronquist (2018) no longer recognize varieties [69]. Heil et al. (2013) suggest that varieties are “strongly intergrading and without geographic integrity” [65].
 
-![A photo of a field of shrubby forbs with dense yellow flowers on their tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-solmis_fig1_colony.jpg)
+![A photo of a field of shrubby forbs with dense yellow flowers on their tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-solmis_fig1_colony.jpg?itok=_PmAv7yy)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ prairie goldenrod, smooth goldenrod, Tolmie’s goldenrod
 
 Missouri goldenrod is widespread and occurs from around 56° N latitude [132] in south-central and southwestern Canada, south into most of the Midwestern and western United States [111, 155]. It is most common in prairies and plains grasslands from southwestern Ontario and Minnesota, south to northern Arkansas and Texas, and west into the Rocky Mountains [94, 98]. It is less common east of the Mississippi River (e.g., [159]) and in the Intermountain West [28], and it is rare west of the Cascade Range [69]. In the southwestern United States, Missouri goldenrod is scattered to uncommon in Nevada [79] and the Four Corners region [65], and it is occasional in open forests and riparian areas in other parts of Arizona [40, 80, 104] and New Mexico [33, 34, 67, 121, 141]. Missouri goldenrod is probably not native in the Northeast, where it occurs in Maryland, Delaware, and New Jersey [155], and it was likely introduced to those places along railway lines [42].
 
-![A map of the U.S. and southern Canada, with most western and central states and most southern provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-solmis_fig2_distribution.jpg)
+![A map of the U.S. and southern Canada, with most western and central states and most southern provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-solmis_fig2_distribution.jpg?itok=uF10lBj-)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Alberta, southwestern| ~3,000–7,500 feet (914-2,286 m) [182]
  
 Missouri goldenrod grows best in well-drained soils with sandy loam to clay loam textures but tolerates both coarser and finer textured soils [111, 132]. In plains grasslands, Missouri goldenrod grows in deep loams and silty clay loams [93, 114, 164] formed in loess parent materials on level to steep uplands [93]. It occurs in sparse stands on sites with easily disturbed substrates such as gypsum sand dunes and shale outcrops [121]. It occurs on uplands, slopes, and lowlands with varied soil textures in tallgrass prairie (e.g., [38]) including floodplains [129]. In Nebraska Sandhills prairie, Missouri goldenrod occurs in deep, moist, sandy soil [61], on sand dunes [71], and in sand barrens [29].
 
-![A photo of several dense, shrubby forbs growing on a hillside with clusters of many small yellow flowers on their flowering stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-solmis_fig3_hillside.jpg)
+![A photo of several dense, shrubby forbs growing on a hillside with clusters of many small yellow flowers on their flowering stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-solmis_fig3_hillside.jpg?itok=37DNQ70u)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ This description includes characteristics that may be relevant to fire ecology a
 
 Missouri goldenrod is a warm-season, perennial and clonal forb with erect or ascending stems arising singly [28, 49, 79, 94, 183] or sometimes in small clusters [28, 49, 90, 94, 183] from creeping rhizomes [28, 49, 65, 94, 175, 183], or from an area variously described as “thickened” [103, 183], persistent and woody [90], a “woody base” [111], caudex [45], “woody caudex” [138], or “spreading caudex” [49]. Hereafter, this transition point between stems and roots will be referred to simply as the root crown.
 
-![A photo of somewhat long, green leaves in loose clusters growing from the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-solmis_fig4_basalleaves.jpg)
+![A photo of somewhat long, green leaves in loose clusters growing from the ground.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-solmis_fig4_basalleaves.jpg)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Figure 4—Missouri goldenrod basal leaves.
 
 Stems are simple, rarely branched, and mostly range from about 12 to 31 inches (30-80 cm) tall [65, 69, 90, 138]. Taller plants (up to about 35 or 39 inches (90-100 cm) tall) occur mostly in the eastern part of the range, but occasionally west to Washington, and have been treated as _S. m._ var. _fasiculata_(e.g., [35, 45, 49, 132, 183]). Shorter plants (seldom more than about 20 inches (50 cm) tall) are described in the western part of the range (e.g., [28, 65, 79, 94, 175]), and these have been treated as _S. m._ var _missouriensis_(e.g., [28, 42, 132]). Two phenotypes of Missouri goldenrod clones were described in old fields on sandy soils in Minnesota: one with uniformly short stems (about 2-6 inches (5-15 cm) tall), and the other with uniformly tall stems (about 8-16 inches (20-40 cm) tall) [116].
 
-![A photo of green, leafy stems with clusters of small bright yellow flowers at their tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-solmis_fig5_clone.jpg)
+![A photo of green, leafy stems with clusters of small bright yellow flowers at their tops.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-solmis_fig5_clone.jpg)
 
 Photo Credit
 
@@ -256,7 +256,7 @@ Seed mass (µg)| 17.6| 39.3
  
 Missouri goldenrod seeds are small and have a small pappus (fig. 6) that facilitates dispersal by wind [23, 117]. Estimates of annual seed rain from native prairie and old field sites in Kansas [130] and from an abandoned pasture site in a Saskatchewan grassland [72] had contrasting results. Missouri goldenrod seeds represented 3.6% of the total annual seed rain at 72 sample points in prairie plots and 1.7% in adjacent old field plots in a Kansas prairie (table 3), where it was a “common forb” in both areas (cover not given) [130]. Missouri goldenrod was not detected in the seed rain in or adjacent to plots where it occurred with about 1% cover in a Saskatchewan pasture that was cultivated and planted with wheat, Kentucky bluegrass, and smooth brome ~30 years prior [72].
 
-![A photo of a dried brownish seed head and stem.]({{ site.baseurl }}/assets/images/species-reviews/solmis_solmis_fig6_seeds_0_0.jpg)
+![A photo of a dried brownish seed head and stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/solmis_fig6_seeds_0_0.jpg?itok=ZHdNX0ld)
 
 Photo Credit
 

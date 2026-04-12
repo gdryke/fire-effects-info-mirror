@@ -59,7 +59,7 @@ Redwood is endemic to the coastal area of northern California and southwestern O
 
 ## Site Characteristics
 
-![A photo of large, straight conifer trees with reddish-brown trunks growing in a dark, lush forest. There is dappled sunlight and lots of green vegetation on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqsem_habitat.jpeg)
+![A photo of large, straight conifer trees with reddish-brown trunks growing in a dark, lush forest. There is dappled sunlight and lots of green vegetation on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-seqsem_habitat.jpeg?itok=VFog9sq0)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Understory associates include vine maple (_Acer circinatum_), chittam bark (_Rha
 
 ## Botanical Description
 
-![A close up photo of a tree's orange-red, fibrous, thick bark in dappled sunlight. The background is blurry but conifer needles and part of another tree trunk are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqsem_bark.jpg)
+![A close up photo of a tree's orange-red, fibrous, thick bark in dappled sunlight. The background is blurry but conifer needles and part of another tree trunk are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-seqsem_bark.jpg?itok=reG3-uhV)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ Fire has had an ecological role in the redwood forest type [53]. The mean fire i
 
 ## Plant Response to Fire
 
-![A photo of a stand of burned, black conifers with bunches of bright green needles growing from the base of each tree. The ground is black with nothing else growing, and all the needles visible on the trees are brown and dead.]({{ site.baseurl }}/assets/images/species-reviews/feis-seqsem_postfire.jpeg)
+![A photo of a stand of burned, black conifers with bunches of bright green needles growing from the base of each tree. The ground is black with nothing else growing, and all the needles visible on the trees are brown and dead.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-seqsem_postfire.jpeg?itok=XqLiiZMz)
 
 Photo Credit
 

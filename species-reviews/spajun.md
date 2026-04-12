@@ -91,7 +91,7 @@ Spanish broom is 1 of 4 nonnative invasive broom species that occur in North Ame
 
 The following description of Spanish broom provides a summary of the range of characteristics described in reviews [16,38] and florae [15,27]. It provides characteristics that may be relevant to fire ecology, and is not meant for identification. A key for identification is available in Hickman [27].
 
-![A photo of a large, many-branched shrub covered in yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-spajun_plant.jpg)
+![A photo of a large, many-branched shrub covered in yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-spajun_plant.jpg?itok=ITBMbRGk)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Spanish broom, Los Angeles County, California. (CC0 1.0)
 
 Spanish broom is a tall shrub to small tree, up to 10 to 15 feet (3-5 m) tall. Its long, slender stems are erect with few branches. Stems are cylindrical, rush-like, and green when young, maturing into woody branches with bark. Mature plants have 1 to several trunks. Spanish broom leaves are small, 0.5 to 1 inch (2-2.5 cm) long, oval, and smooth-margined. Leaves are ephemeral, remaining on the plant for 4 months or less. The inflorescence is an open terminal raceme with several flowers located on current-year shoots. Flowers are large, pea-like, up to 1 inch long, and grow on short stalks on both sides of the main stem. Fruit is a linear, dehiscent legume, 2 to 4 inches (5-10 cm) long and 5 mm wide, with 10 to 15 seeds.
 
-![A close-up photo of a shrub's thin green stems and stalks of yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-spajun_flower.jpeg)
+![A close-up photo of a shrub's thin green stems and stalks of yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2026-02/feis-spajun_flower.jpeg?itok=CJM18HWk)
 
 Photo Credit
 
@@ -198,7 +198,7 @@ See FEIS Species Reviews on French broom and Scotch broom for more information o
 
 No experimental evidence is available regarding fire adaptations in Spanish broom. According to a review by Nilsen [38], however, seeds of Spanish broom are similar in structure to those of Scotch broom. In heterogeneous or low-temperature fires Scotch broom seed banks are not effectively reduced; therefore, under similar fire conditions it is unlikely that fire will effectively reduce seed bank regeneration of Spanish broom. Spanish broom is also likely to sprout from trunk bases and stem meristems following low-severity fire. Conversely, a severe fire that kills all aboveground stems and burns hot and close to the ground will completely kill standing individuals and most likely remove some of the seed bank [38].
 
-![A photo of a burned, open landscape with a few burned shrubs and grasses and lots of bare soil. A shrub is sprouting from a blackened base and blooming with yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/spajun_feis-SPAJUN_postfire2.jpg)
+![A photo of a burned, open landscape with a few burned shrubs and grasses and lots of bare soil. A shrub is sprouting from a blackened base and blooming with yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-SPAJUN_postfire2.jpg?itok=8nghuAxi)
 
 Photo Credit
 
@@ -300,7 +300,7 @@ Spanish broom flowers are used in the ornamental trade and are also used for yel
 
 Spanish broom rapidly colonizes disturbed habitats and develops thick shrub communities that prevent colonization by native chaparral species. It may be a fire hazard during the dry season [38]. However, it is listed by the California Invasive Plant Council as a "wildland pest plant of lesser invasiveness" [8].
 
-![A photo of a sandy trail in between dry shrub-covered hills. Along the trail many large shrubs are blooming with yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-spajun_infestation.jpeg)
+![A photo of a sandy trail in between dry shrub-covered hills. Along the trail many large shrubs are blooming with yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-spajun_infestation.jpeg?itok=ij3qlu0n)
 
 Photo Credit
 

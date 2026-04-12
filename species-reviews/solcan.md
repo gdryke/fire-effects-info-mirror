@@ -34,7 +34,7 @@ Coladonato, Milo. 1993. _Solidago canadensis_ , Canada goldenrod. In: Fire Effec
 
 ## Image Gallery
 
-![An upright plant with a tuft of small yellow flowers grows out of rocky, sandy soil in a sunny location.]({{ site.baseurl }}/assets/images/species-reviews/feis-solcan_plant.jpg) Canada goldenrod at Crater Lake National Park. _©2010 Keir Morse._
+![An upright plant with a tuft of small yellow flowers grows out of rocky, sandy soil in a sunny location.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-solcan_plant.jpg) Canada goldenrod at Crater Lake National Park. _©2010 Keir Morse._
 
 Photo Credit: ©2010 Keir Morse.
 
@@ -89,7 +89,7 @@ Common understory associates of Canada goldenrod include red clover (Trifolium p
 
 ## Botanical Description
 
-![An upright plant with a tuft of small yellow flowers grows out of rocky, sandy soil in a sunny location.]({{ site.baseurl }}/assets/images/species-reviews/feis-solcan_plant.jpg)
+![An upright plant with a tuft of small yellow flowers grows out of rocky, sandy soil in a sunny location.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-solcan_plant.jpg)
 
 Photo Credit
 

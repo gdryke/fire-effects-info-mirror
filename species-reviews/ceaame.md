@@ -34,7 +34,7 @@ Coladonato, Milo. 1993. _Ceanothus americanus,_ New Jersey tea. In: Fire Effects
 
 ## Image Gallery
 
-![Photo of New Jersey tea.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceaame_plant.jpg) New Jersey tea. _Photo by Brighton Lee, iNaturalist.org, no rights reserved._
+![Photo of New Jersey tea.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-ceaame_plant.jpg) New Jersey tea. _Photo by Brighton Lee, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Brighton Lee, iNaturalist.org, no rights reserved.
 

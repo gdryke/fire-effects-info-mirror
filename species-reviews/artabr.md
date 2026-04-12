@@ -34,7 +34,7 @@ Howard, Janet L. 1998. _Artemisia abrotanum_ , southernwood. In: Fire Effects In
 
 ## Image Gallery
 
-![Photo of southernwood.]({{ site.baseurl }}/assets/images/species-reviews/feis-artabro_plant.jpg) Southernwood _© Alexander Yakovlev, iNaturalist.org_
+![Photo of southernwood.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-artabro_plant.jpg) Southernwood _© Alexander Yakovlev, iNaturalist.org_
 
 Photo Credit: © Alexander Yakovlev, iNaturalist.org
 
@@ -77,7 +77,7 @@ Southernwood rarely persists after cultivation and is not an important member of
 
 ## Botanical Description
 
-![Photo of southernwood.]({{ site.baseurl }}/assets/images/species-reviews/feis-artabro_plant.jpg)
+![Photo of southernwood.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-artabro_plant.jpg?itok=ZkkTevdf)
 
 Photo Credit
 

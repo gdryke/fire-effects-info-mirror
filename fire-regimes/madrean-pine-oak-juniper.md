@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Madrean pine–oak–juniper communities ha
 
 ## Distribution
 
-![Map of the southwestern United States showing the distribution of Madrean pine-oak-juniper communities, mostly in central and southern Arizona and southern New Mexico and a scattering of locations in far western Texas. ]({{ site.baseurl }}/assets/images/fire-regimes/madrean-pine-oak-juniper_feis-MadreanPineOakJuniper_FRR_map.jpg)
+![Map of the southwestern United States showing the distribution of Madrean pine-oak-juniper communities, mostly in central and southern Arizona and southern New Mexico and a scattering of locations in far western Texas. ](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-MadreanPineOakJuniper_FRR_map.jpg?itok=jybGQ1Qe)
 
 Photo Credit
 

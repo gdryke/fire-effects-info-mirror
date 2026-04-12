@@ -55,7 +55,7 @@ Tree-of-heaven is native to Taiwan and central China, where it occurs from 22° 
 
 A century after the North American introductions, tree-of-heaven is still most common in its initial centers of distribution: the Northeast and California. In the eastern United States, it is most invasive from New England south to the mid-Atlantic states [93,233]. Tree-of-heaven is frequently found in the upper Midwest. It is weakly invasive in the middle and southern Great Plains [114,258]. It is uncommon south of North Carolina in the Southeast and in the South [82,233,324], but it is spreading in the South. By a 2008 estimate, tree-of-heaven was present in over 214,000 acres (86,600 ha) of southern forests [208]. In the West, tree-of-heaven is common throughout much of California and is locally common in Oregon and Washington [93,137]. In California, it is invasive in the Bay Area, the Central Valley, and in foothill counties with a history of gold mining (figure 1) [139,153]. It grows along waterways in the Pacific Northwest, including banks of the Snake and Columbia rivers [137]. In the Southwest it invades riparian zones and mesic canyons [287].
 
-![A photo of a forested park setting with old wood fencing and a covered bridge, and a bright green, multi-trunked tree growing in the middle.]({{ site.baseurl }}/assets/images/species-reviews/feis-ailalt_columbia.jpg)
+![A photo of a forested park setting with old wood fencing and a covered bridge, and a bright green, multi-trunked tree growing in the middle.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-ailalt_columbia.jpg?itok=ADN33qhT)
 
 Photo Credit
 
@@ -155,7 +155,7 @@ The following vegetation classifications describe plant communities in which tre
 
 The following description of tree-of-heaven provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (for example, [71,104,105,135,199,317,324]). Billings and others [28] provide a key for identifying tree-of-heaven and other eastern trees in winter.
 
-![A photo of a large, bushy tree with green leaves and orangey seedpods covering the tree almost to the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-ailalt_tree.jpg)
+![A photo of a large, bushy tree with green leaves and orangey seedpods covering the tree almost to the ground.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-ailalt_tree.jpg?itok=osUDHdkv)
 
 Photo Credit
 
@@ -177,7 +177,7 @@ Roots are shallow and wide-spread [211]. Young trees have a taproot and several 
 
 Tree-of-heaven typically occurs in clumps, although it may form rows along streams, roads, and fences, and occasionally it grows as widely spaced, single stems. Clumping can result from an even-aged seedling establishment or from clonal expansion through root sprouting [249]. Open-grown colonies may eventually become dense by sprouting. Davis [61] observed a half-acre (0.2 ha) stand in Kentucky that had 32 stems. Stands subject to infrequent control measures may develop into even-aged thickets [77,151]. Untreated stands self-thin, so the stand tends to become even-aged over time. Two years after tree-of-heaven harvest in Pennsylvania, density of tree-of-heaven sprouts averaged 17,860 two-year-old sprouts/acre (mean height=9 feet (3 m)), with 10,019 one-year-old sprouts/acre (mean height=2 feet (0.6 m)). After 3 years many of the sprouts had died, so dead stems were more common than live stems [151]. Sprouts volunteering in closed-canopy understories remain suppressed and few in number. For example, Hunter [148] reported scattered, single-stemmed trees-of-heaven—rather than thickets—in the understory of a mixed-evergreen forest in northern California. On the Jefferson National Forest, Virginia, tree-of-heaven had a clumped distribution on low-leave shelterwood sites and a random distribution on clearcuts and high-leave shelterwood sites [47].
 
-![A photo of a dense stand of trees with tall, skinny trunks and grass growing on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-ailalt_stand.jpg)
+![A photo of a dense stand of trees with tall, skinny trunks and grass growing on the ground.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-ailalt_stand.jpg?itok=NoU75cHv)
 
 Photo Credit
 
@@ -524,7 +524,7 @@ Allelopathic species may alter stand structure and alter key ecosystem processes
 
 Tree-of-heaven may alter litter layer depth and increase available soil nitrogen in native plant communities. In Spain, tree-of-heaven litter decayed faster than litter of native English elm (_P_ =0.01), and nitrogen release was greater beneath trees-of-heaven than beneath English elms (_P_ =0.005). Soils beneath trees-of-heaven were not higher in nitrogen, however; the authors speculated this may be due to quick nitrogen uptake by nearby plants [50]. Studies on Mediterranean islands of Spain, France, Italy, and Greece found tree-of-heaven presence significantly decreased soil carbon:nitrogen ratios and reduced diversity of native species compared to uninvaded plots (_P_ <0.05 for both variables) [307]. In aquatic ecosystems, preference of invertebrate detritus-feeders for tree-of-heaven litter over litter of native trees (see Palatability) may alter decay rates of native species [284]. Relative palatability of tree-of-heaven litter may affect successional trajectories and increase invasibility of mixed-hardwood communities. In a greenhouse study, earthworms consumed or buried nearly 100% of tree-of-heaven litter; in turn, this increased establishment and growth of nonnative tall fescue (_Schedonorus arundinaceus_), which had been seeded onto mesocosms (soil-filled tubs) with litter, soil, and earthworms. Tall fescue recruitment was less in mesocosms with native American chestnut (_Castanea dentata_), northern red oak, or tuliptree litter than in mesocosms with tree-of-heaven litter [22]. A study in a sugar maple-white ash-northern red oak forest in Connecticut found significantly greater total soil nitrogen, calcium, and nutrient- cycling rates on sites with tree-of-heaven compared to sites without it. This effect increased in soil samples nearer to tree-of-heaven and with increasing tree-of-heaven DBH [106].
 
-![A photo of a tree growing out of a building's foundation into an alley. The tree is taller than the building, which is blue on the front with an "open" sign in the window.]({{ site.baseurl }}/assets/images/species-reviews/feis-ailalt_foundation.jpg)
+![A photo of a tree growing out of a building's foundation into an alley. The tree is taller than the building, which is blue on the front with an "open" sign in the window.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ailalt_foundation.jpg?itok=aQ5ku1p_)
 
 Photo Credit
 

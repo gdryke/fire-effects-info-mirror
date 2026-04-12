@@ -38,7 +38,7 @@ Howard, Janet L. 1994. _Toxicodendron diversilobum_ , Pacific poison-oak. In: Fi
 
 The currently accepted scientific name of Pacific poison-oak is _Toxicodendron diversilobum_ (Torr. & Gray) E. Greene (Anacardiacae) [31]. Pacific poison-oak and western poison-ivy (_Toxicodendron rydbergii_) hybridize in the Columbia River Gorge area [38].
 
-![A photo of a yellow and orange viny shrub with leaves of three leaflets.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxdiv_plant.jpg)
+![A photo of a yellow and orange viny shrub with leaves of three leaflets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-toxdiv_plant.jpg?itok=wBTSdkxK)
 
 Photo Credit
 
@@ -103,7 +103,7 @@ Published classifications naming Pacific poison-oak as a dominant part of the ve
 
 Pacific poison-oak is a many-stemmed, deciduous, native shrub or woody vine. Shrubs are erect with stems from 2 to 6 feet (1-2 m) tall. Vine stems commonly reach 10 to 30 feet (3-10 m), but may be as long as 100 feet (30 m) [22]. As a vine, Pacific poison-oak climbs trees or other support by adventitious roots and/or wedging stems within grooves or crevices of the support [7,22,62]. The bright green leaves have three (sometimes five) round to ovate, diversely lobed or toothed leaflets that usually resemble oak leaves [45,62]. Small flowers occur in leaf axils, with male and female flowers on separate plants [38,53]. The fruits are white drupes [45]. Rhizomes are at or just below the soil surface, and are extensive [46].
 
-![A photo of a sunlit branch of a viny shrub with leaves of three leaflets.]({{ site.baseurl }}/assets/images/species-reviews/feis-toxdiv_leaves.jpeg)
+![A photo of a sunlit branch of a viny shrub with leaves of three leaflets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-toxdiv_leaves.jpeg?itok=FYVfwuyc)
 
 Photo Credit
 

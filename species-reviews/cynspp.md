@@ -81,7 +81,7 @@ Louise's and/or European swallow-wort occur in the following states and Province
 
 **Range of Sites** : Swallow-worts inhabit a broad spectrum of habitats, invading both early- and midsuccessional upland plant communities ranging from open fields to wooded areas. Swallow-worts are associated with disturbed [1,16,18,43,56] and "waste" areas [16], such as transportation corridors [16,34,41,42,43], railroad embankments [16,41,43,52,61], limestone quarries [16,41,42,43], no-till cropping systems [16,42,70], cultivated grounds [41,42], pastures [16,43,70], old fields [8,41,42], and Christmas tree plantations [16,42,70]. They are also found close to human habitation, in gardens [16,41,70], lawns [16,70], shrubbery [70], city green-spaces [8], hedgerows [16,41,42,70], and fencerows [16,52,70]. Once escaped from such areas, they may easily spread into nearby, less disturbed habitats [8,16,49,56], such as a variety of deciduous and mixed-forest types [16,34,41,42,43,52,56,70], shrubby habitats [5,41,42,43,70], and wood edges [5,61]. Either species may colonize areas along rocky outcrops, rivers and streams that experience spring flood scouring, and coastal areas that experience hydrologic extremes [16]. While some references associate swallow-worts mainly with upland areas [41,42], Louise's swallow-wort also occurs in wetlands and above the high tide line of some rocky coastal areas, where it tolerates relatively high salt concentrations [41,49]. European swallow-wort is less likely to grow near gardens than Louise's swallow-wort and more likely to grow on roadsides or in wildlands [16,56]. Field observations, herbaria specimen data, and distributional patterns suggest that European swallow-wort is more effective at dispersal and better able to establish in a variety of habitats [16,57]. While Louise's swallow-wort forms dense colonies over a wide region in southern Ontario and Quebec, it is more scattered in occurrence and generally has fewer outlying plants around infestation areas than European swallow-wort [16].
 
-![Dense patch of green vines.]({{ site.baseurl }}/assets/images/species-reviews/cynspp_firelab-cynros_infestation.jpg)
+![Dense patch of green vines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/firelab-cynros_infestation.jpg?itok=IyGSuXn5)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ The leaves of swallow-worts are opposite [12,16,24,32]. Louise's swallow-wort le
 
 The seeds of swallow-worts have a narrow, membranous, marginal wing and 1-inch-long (2 cm) apical tufts of hairs (comas), which aid in wind dispersal [8,16,32]. Louise's swallow-wort seeds are 6.0 to 8.0 mm × 3.0 to 4.7 mm in area; European swallow-wort seeds are 4.0 to 6.5 mm × 2.4 to 3.1 mm [16].
 
-![Close up of green leaves and star-shaped flowers on a vine.]({{ site.baseurl }}/assets/images/species-reviews/cynspp_feis-cynlou_flower.jpg)
+![Close up of green leaves and star-shaped flowers on a vine.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cynlou_flower.jpg?itok=aH9KpN3C)
 
 Photo Credit
 
@@ -151,7 +151,7 @@ Photo by Leslie J. Mehrhoff, University of Connecticut, Bugwood.org.
 
 Louise's swallow-wort.
 
-![Close up of a few green leaves and small, star-shaped flowers.]({{ site.baseurl }}/assets/images/species-reviews/cynspp_feis-cynros_flower.jpg)
+![Close up of a few green leaves and small, star-shaped flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-cynros_flower.jpg?itok=SoN38HZt)
 
 Photo Credit
 

@@ -44,7 +44,7 @@ Main threats to Pine Hill flannelbush include development and long-term effects 
 
 ## Introduction
 
-![A photo of a leafy shrub with orange flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-fredec_plant.jpg)
+![A photo of a leafy shrub with orange flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-fredec_plant.jpg?itok=bLZgrAk6)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ None
 
 ## General Distribution
 
-![A county-level map of California and Nevada, with two California counties highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-fredec_fig1_distribution.png)
+![A county-level map of California and Nevada, with two California counties highlighted green.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-fredec_fig1_distribution.png)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Pine Hill flannelbush occurs in xeric chapparal [7,8,29] and in chaparral/pine w
 
 ## Botanical Description
 
-![A close-up photo of an orange flower, fruit capsules, and leaves. Leaves and fruits are visibly textured.]({{ site.baseurl }}/assets/images/species-reviews/feis-fredec_fig2_flowerfruit.jpeg)
+![A close-up photo of an orange flower, fruit capsules, and leaves. Leaves and fruits are visibly textured.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-fredec_fig2_flowerfruit.jpeg?itok=lQ1JmYb6)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Pine Hill flannelbush is an evergreen shrub that is typically decumbent, growing
  * Chamaephyte
  * Geophyte [21]
 
-![A close-up photo of dry fruit husks still attached to a brownish stem with leathery green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-fredec_fig3_capsule.jpeg)
+![A close-up photo of dry fruit husks still attached to a brownish stem with leathery green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-fredec_fig3_capsule.jpeg?itok=hY99i0Rj)
 
 Photo Credit
 

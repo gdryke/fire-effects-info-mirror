@@ -53,7 +53,7 @@ blue-poplar, tulip-poplar, yellow-poplar, yellow wood
 
 ## General Distribution
 
-![A map of the eastern U.S. and eastern Canada with most eastern states and territories highlighted in green, where tuliptree occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-lirtul_map.jpg)
+![A map of the eastern U.S. and eastern Canada with most eastern states and territories highlighted in green, where tuliptree occurs.](https://research.fs.usda.gov/sites/default/files/styles/300px_wide/public/2025-05/feis-lirtul_map.jpg?itok=e1uqk77X)
 
 Tuliptree occurs in eastern North America. The species ranges from Vermont, west through southern Ontario and Michigan, south to Louisiana, and east to northern Florida [1,2].
 
@@ -64,7 +64,7 @@ Tuliptree occurs in eastern North America. The species ranges from Vermont, west
 
 ## Site Characteristics
 
-![A photo of a tall, broad tree with yellow-green leaves, growing around other trees including some conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-lirtul_tree.jpg)
+![A photo of a tall, broad tree with yellow-green leaves, growing around other trees including some conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-lirtul_tree.jpg?itok=uVyXxPpE)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ No entry.
 
 ## Botanical Description
 
-![A close up photo of the leaves of a tree in the sun. The leaves are wide, green, and flat with four or five points.]({{ site.baseurl }}/assets/images/species-reviews/feis-lirtul_leaves.jpg)
+![A close up photo of the leaves of a tree in the sun. The leaves are wide, green, and flat with four or five points.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-lirtul_leaves.jpg?itok=jJNyRrra)
 
 Photo Credit
 
@@ -197,7 +197,7 @@ The lower pH limit for tuliptree on acid mine spoils is 4.5 [29]. Liming the spo
 
 ## Other Uses
 
-![A close up photo of a flower with orange, yellow, and cream petals.]({{ site.baseurl }}/assets/images/species-reviews/feis-lirtul_flower.jpg)
+![A close up photo of a flower with orange, yellow, and cream petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-lirtul_flower.jpg?itok=n5ydfsaN)
 
 Photo Credit
 

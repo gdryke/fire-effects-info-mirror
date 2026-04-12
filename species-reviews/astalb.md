@@ -36,7 +36,7 @@ Sclafani, Christie J. 2013. _Astragalus albens_ , Cushenbury milkvetch. In: Fire
 
 ## Available Information
 
-![A photo of a low forb with leaves comprised of opposite leaflets and upright stems with purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-astalb_plant.jpg)
+![A photo of a low forb with leaves comprised of opposite leaflets and upright stems with purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-astalb_plant.jpg?itok=u9AcdC-y)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ None
 
 ## Distribution
 
-![A map of California with polygons delineating floristic provinces. In the southeast of the state, the "Mojave Desert" province is highlighted yellow, and the "San Bernardino Mountains" province is highlighted pink.]({{ site.baseurl }}/assets/images/species-reviews/feis-astalb_map.gif)
+![A map of California with polygons delineating floristic provinces. In the southeast of the state, the "Mojave Desert" province is highlighted yellow, and the "San Bernardino Mountains" province is highlighted pink.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-astalb_map.gif?itok=QDetKG9S)
 
 Photo Credit
 

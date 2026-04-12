@@ -34,7 +34,7 @@ Tesky, Julie L. 1992. _Hylocomium splendens,_ splendid feather moss. In: Fire Ef
 
 ## Image Gallery
 
-![A photo of layered, bright green moss with a few deciduous leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-hylspl_hero.jpeg) Splendid feather moss growing in Sevier County, Tennessee (CC BY 4.0). _Photo by Will Kuhn, iNaturalist.org, some rights reserved._
+![A photo of layered, bright green moss with a few deciduous leaves.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-hylspl_hero.jpeg) Splendid feather moss growing in Sevier County, Tennessee (CC BY 4.0). _Photo by Will Kuhn, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by Will Kuhn, iNaturalist.org, some rights reserved.
 

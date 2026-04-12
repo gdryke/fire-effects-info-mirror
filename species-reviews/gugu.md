@@ -85,7 +85,7 @@ Wolverines in the continental United States are primarily found in stands domina
 
 ## Biological Characteristics
 
-![A photo of a brown and tan wolverine clinging to the narrow top of a conifer tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-gugu_denali.jpeg)
+![A photo of a brown and tan wolverine clinging to the narrow top of a conifer tree.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-gugu_denali.jpeg?itok=18WfY6_O)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Kits are weaned by 10 weeks of age [31,64] and remain with their mothers up to 2
 
 ## Habitat
 
-![A photo of a brown and white wolverine standing in an open area with low-lying brown and red dried vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-gugu_alaska.jpeg)
+![A photo of a brown and white wolverine standing in an open area with low-lying brown and red dried vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-gugu_alaska.jpeg?itok=M7pco5vH)
 
 Photo Credit
 
@@ -226,7 +226,7 @@ Excess food is cached under soil or snow, in water wells, or in trees [46,64]. L
 
 ### Cover Requirements
 
-![A photo of a snowfield leading up to a hole in a small hill, with sets of tracks coming and going to the hole.]({{ site.baseurl }}/assets/images/species-reviews/feis-gugu_snowden.jpeg)
+![A photo of a snowfield leading up to a hole in a small hill, with sets of tracks coming and going to the hole.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-gugu_snowden.jpeg?itok=b_qjZXZT)
 
 Photo Credit
 
@@ -244,7 +244,7 @@ Natal den use varies by location. In Idaho, natal dens were discovered in mid- t
 
 Wolverine maternal dens are similar in structure to natal dens. Maternal dens are also constructed by digging snow tunnels leading to natural openings beneath large boulders or to the root masses and boles of fallen trees [31,77]. In Alaska, maternal dens were located either in a snow drift or in a rock cave [77]. A maternal den in the Northwest Territories was located in a large snowdrift on a southeastern facing rock outcrop [70]. Maternal den systems in Finland were 3 to 130 feet (1 to 40 m) in length [90]. Maternal dens in Alaska were located 2.0 to 2.4 miles (3.2-3.8 km) from natal dens [77]. Females in Idaho and Alaska used 4 to 6 maternal dens in a season [31,77]. Both natal and maternal dens are occasionally reused during consecutive years [31,70,77].
 
-![A photo of a hollow in the base of a fallen tree, with parts of the wood chewed away around the entrance to the hole.]({{ site.baseurl }}/assets/images/species-reviews/gugu_gugu_natalden2_0_0.jpg)
+![A photo of a hollow in the base of a fallen tree, with parts of the wood chewed away around the entrance to the hole.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2026-01/gugu_natalden2_0_0.jpg?itok=Z0KSJa1a)
 
 Photo Credit
 
@@ -270,7 +270,7 @@ As of 2008, the direct effects of fire on wolverines are unknown. Since wolverin
 
 ## Indirect Fire Effects
 
-![A dark photo of tall, narrow conifer trees partly on fire, with smoke obscuring much of the view.]({{ site.baseurl }}/assets/images/species-reviews/feis-gugu_fire.jpg)
+![A dark photo of tall, narrow conifer trees partly on fire, with smoke obscuring much of the view.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-gugu_fire.jpg?itok=TDhjw6Y7)
 
 Photo Credit
 

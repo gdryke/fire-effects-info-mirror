@@ -54,7 +54,7 @@ Douglas hawthorn, river hawthorn, western thornapple
 
 ## General Distribution
 
-![A map of North America with areas highlighted in green where black hawthorn occurs. Most of the Pacific Northwest and southwestern Canada are highlighted, as well as scattered areas in the interior West.]({{ site.baseurl }}/assets/images/species-reviews/feis-cradou_map.jpg)
+![A map of North America with areas highlighted in green where black hawthorn occurs. Most of the Pacific Northwest and southwestern Canada are highlighted, as well as scattered areas in the interior West.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cradou_map.jpg?itok=3Qxo30Rg)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Black hawthorn can be found at lower elevations from 2,200 to 5,400 feet (670-1,
 
 ## Plant Communities
 
-![A bushy shrub on the edge of a conifer forest, covered in small white flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-cradou_habitat.jpg)
+![A bushy shrub on the edge of a conifer forest, covered in small white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cradou_habitat.jpg?itok=oWVc0NKK)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Northeastern Oregon| riparian cts| Kauffman and others 1985
 
 ## Botanical Description 
  
-![A close up photo of a cluster of white flowers with 5 petals each on the end of a woody stem. Small green leaves surround the flowers, the background is blurry grey.]({{ site.baseurl }}/assets/images/species-reviews/feis-cradou_plant.jpg)
+![A close up photo of a cluster of white flowers with 5 petals each on the end of a woody stem. Small green leaves surround the flowers, the background is blurry grey.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-cradou_plant.jpg?itok=F4a6m_Sh)
 
 Photo Credit
 

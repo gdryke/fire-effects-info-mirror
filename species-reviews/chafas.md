@@ -89,7 +89,7 @@ A published classification listing showy partridge pea as an understory dominant
 
 ## Botanical Description
 
-![A straight stem of a plant with green leaflets and yellow flowers blooming along the stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-chafas_plant.jpg)
+![A straight stem of a plant with green leaflets and yellow flowers blooming along the stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-chafas_plant.jpg?itok=J1LVCA7g)
 
 Photo Credit
 

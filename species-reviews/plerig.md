@@ -38,7 +38,7 @@ Matthews, Robin F. 2000. _Pleuraphis rigida_ , big galleta. In: Fire Effects Inf
 
 The currently accepted scientific name of big galleta is _Pleuraphis rigida_ Thurber (Poaceae) [20,25]. Big galleta hybridizes naturally with galleta (_P. jamesii_) [19,20,40,54].
 
-![A photo of a large, somewhat scraggly and spreading bunchgrass. Low forbs provide some spreading cover for dry soil, and medium-sized shrubs are widely spaced. Desert hills rise in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-plerig_plant.jpg)
+![A photo of a large, somewhat scraggly and spreading bunchgrass. Low forbs provide some spreading cover for dry soil, and medium-sized shrubs are widely spaced. Desert hills rise in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plerig_plant.jpg?itok=hV8Gtncf)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Big galleta is found on dry, open, sandy to rocky slopes and flats, on sand dune
 
 Big galleta is reported to be the most drought tolerant of the Pleuraphis species and is well adapted to desertscrub communities [19]. It is widely distributed on sand dunes throughout the lower Colorado River Valley of the Sonoran Desert and in some Mohave Desert communities [50,51]. In Arizona, big galleta reaches best development in depressions and on heavy alluvial soils below 4,000 feet (1200 m) [27]. Big galleta is generally found below 4,800 feet (1600 m) in California [20] and below 3,600 feet (1220 m) in Utah [54].
 
-![A photo of a spreading bunchgrass surrounded by bare ground with somewhat pebbly composition. Several Joshua trees rise in the background along with a large shrub, probably creosotebush.]({{ site.baseurl }}/assets/images/species-reviews/feis-plerig_joshuatree.jpg)
+![A photo of a spreading bunchgrass surrounded by bare ground with somewhat pebbly composition. Several Joshua trees rise in the background along with a large shrub, probably creosotebush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plerig_joshuatree.jpg?itok=Kz8M0MQ9)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Classifications describing plant communities in which big galleta is a dominant 
 
 ## Botanical Description
 
-![A photo of the reproductive stems of a large bunchgrass, with large stones and red cliffs visible through the stems behind. The sun is just rising from behind the cliffs.]({{ site.baseurl }}/assets/images/species-reviews/feis-plerig_botchar.jpg)
+![A photo of the reproductive stems of a large bunchgrass, with large stones and red cliffs visible through the stems behind. The sun is just rising from behind the cliffs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-plerig_botchar.jpg?itok=uo7xK_Px)
 
 Photo Credit
 

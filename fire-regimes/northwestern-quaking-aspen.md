@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northwestern quaking aspen communities has 
 
 ## Distribution
 
-![A map showing the distribution of northwestern quaking aspen communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northwestern-quaking-aspen_feis-northwestern_quaking_aspen_locator.jpg)
+![A map showing the distribution of northwestern quaking aspen communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northwestern_quaking_aspen_locator.jpg?itok=ZhSzV-Jf)
 
 Photo Credit
 

@@ -71,7 +71,7 @@ Columbia brome occurs from British Columbia south to the San Francisco Bay area 
 
 Columbia brome is found on open or forested sites from sea level to lower subalpine mountain habitats [18,27] in moist to dry conditions [8,42]. It grows in shaded or open woods, on moist or dry streambanks [22], in seepage areas [2], rocky ravines [32], and on dry rocky slopes [22].
 
-[![A photo of a nodding grass panicle with trees and purple flowers in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-brovul_habitat.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Columbia brome growing on a forested site in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a nodding grass panicle with trees and purple flowers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brovul_habitat.jpg?itok=nHVL1Uoq)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Columbia brome growing on a forested site in Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Columbia brome grows in soils of many types.
 
@@ -120,7 +120,7 @@ Columbia brome is a native perennial bunchgrass [8,18,41]. Culms are slender, ho
 
 Columbia brome phenology at Nash Crater lava flows in Linn County, Oregon, was recorded from the middle of May to the last of September 1949. Columbia brome began flowering the second week of June and completed flowering the last week of June, when fruiting began; fruiting continued through the first week of September [35].
 
-![A close-up photo of the end of a grass stem, with flowers not yet emerging.]({{ site.baseurl }}/assets/images/species-reviews/feis-brovul_flowerbud.jpg)
+![A close-up photo of the end of a grass stem, with flowers not yet emerging.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brovul_flowerbud.jpg?itok=x0Dh4Qfk)
 
 Photo Credit
 

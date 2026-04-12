@@ -65,7 +65,7 @@ Austrian pine is native to Europe and Asia. Its range there extends from Spain a
 
 ## Site Characteristics
 
-![A photo of a pine tree growing horizontally on a steep cliff over the edge of a lake. Other trees and shrubs are growing around it.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinnig_habitat.jpg)
+![A photo of a pine tree growing horizontally on a steep cliff over the edge of a lake. Other trees and shrubs are growing around it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinnig_habitat.jpg?itok=Pse-SCFa)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ In Europe trees usually associated with Austrian pine include Scotch pine (Pinus
 
 ## Botanical Description
 
-![A photo of a pine tree's long green needles and open brown cones in a snowy forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinnig_cones.jpeg)
+![A photo of a pine tree's long green needles and open brown cones in a snowy forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinnig_cones.jpeg?itok=LSPzsdff)
 
 Photo Credit
 

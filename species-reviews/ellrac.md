@@ -40,7 +40,7 @@ Georgia plume is apparently a fire-adapted species, but information on its postf
 
 ## Introduction
 
-![Photo of several racemes of white flowers at the ends of thin, reddish branches that are covered with narrow, oblong leaves. ]({{ site.baseurl }}/assets/images/species-reviews/ellrac_feis-ELLRAC_fig1.jpg)
+![Photo of several racemes of white flowers at the ends of thin, reddish branches that are covered with narrow, oblong leaves. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ELLRAC_fig1.jpg?itok=MvQQDpiU)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ georgia-plume, southern plume, southern-plume
 
 Georgia plume is endemic to the coastal plain and Piedmont regions of south-central and eastern Georgia [9, 11, 23] (fig. 2), where it occurs in fragmented, declining populations [9, 30, 42]. Georgia plume once occurred in South Carolina [6]; however, those plants may have been cultivated (Bozeman 1999, Georgia Department of Natural Resources, personal communication cited in [17]). Georgia plume is hardy as far north as New England [12], and it has been planted in the Northeast as an ornamental [9].
 
-![Map showing approximate distribution of Georgia plume with locations in South Carolina and Georgia.]({{ site.baseurl }}/assets/images/species-reviews/feis-ellrac_map.jpg)
+![Map showing approximate distribution of Georgia plume with locations in South Carolina and Georgia.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-ellrac_map.jpg?itok=Xwpy6hHS)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ Several soil variables are associated with Georgia plume. In a habitat suitabili
 
 Georgia plume grows in cabbage palmetto [42] and oak [10, 25, 35, 59] scrub; oak-pine [10, 25, 31, 42] woodlands; loblolly pine [21, 31] and longleaf pine [10, 21, 25, 26, 31, 35] woodlands and forests; longleaf pine woodland-bay swamp ecotones [3]; and mixed coniferous-deciduous bottomland [22, 42] and riparian [31, 52] forests. Typically, it is an ecotone species on sites transitioning from longleaf-scrub oak sandhill communities to more mesic coniferous-deciduous forests [26]. In woodland and forest understories, it often grows in association with cabbage palmetto (fig. 3) and farkleberry [22, 31, 59]. On sandstone outcrops, it grows in oak scrub and longleaf pine woodlands [59]. In Bulloch County, Georgia plume grows on sandy ridges vegetated with turkey oak-sand post oak scrub [19]. In the Big Hammock Natural Area, it grows in xeric turkey oak-myrtle oak scrub and Darlington oak-southern live oak hammocks [22]. NatureServe (2013, 2019) recognizes two associations with Georgia plume that occur on high, xeric dunes above rivers in eastern Georgia: longleaf pine-turkey oak coastal plain woodland [34] and myrtle oak-sand live oak-American witchhazel-Georgia plume shrubland [35].
 
-![Photo of a forest understory with a variety of shrubby, green plants.]({{ site.baseurl }}/assets/images/species-reviews/ellrac_feis-ELLRAC_Fig3_habitat.jpg)
+![Photo of a forest understory with a variety of shrubby, green plants.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-ELLRAC_Fig3_habitat.jpg?itok=7wUpRdpI)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Figure 3—A mixed bottomland coastal plain forest ([CC BY-NC](<https://creative
 
 ## Botanical Description
 
-![Close-up photo of an inflorescence densely covered with with, five-petaled flowers.]({{ site.baseurl }}/assets/images/species-reviews/ellrac_feis-ELLRAC_fig4_raceme.jpg)
+![Close-up photo of an inflorescence densely covered with with, five-petaled flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ELLRAC_fig4_raceme.jpg?itok=jRt7mcjL)
 
 Photo Credit
 
@@ -110,7 +110,7 @@ Photo © Jason Hollinger, some rights reserved.
 
 Figure 4—A Georgia plume raceme ([CC BY](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![Photo showing the excavated root crown of a woody plant, showing several woody stems emerging from one thickened root crown.]({{ site.baseurl }}/assets/images/species-reviews/ellrac_feis-ELLRAC_Fig5_roots.jpg)
+![Photo showing the excavated root crown of a woody plant, showing several woody stems emerging from one thickened root crown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-ELLRAC_Fig5_roots.jpg?itok=Cs2SHtWO)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ The fruit is a small, winged [17, 47, 60], four- to five-parted capsule, 0.3 to 
 
 Georgia plume flowers from June to August in Georgia [6, 9, 12, 14, 25], with sporadic flowering into September [37]. Heaviest flowering is in July [25]. Flowering occurs progressively later in northern locations where it is cultivated [9]. Individual plants flower for about 3 weeks [22]. Individual racemes flower for about 10 days, with flowers opening sequentially up the racemes. Individual flowers remain open for about 2 days before they abscise their petals [47]. Georgia plume is protandrous: it sheds pollen before the ovules are mature [47]. Flowers are receptive to pollen only when they are fully open and petals are either abscising or already abscised [43, 44], and the period of pollen viability is “extremely short” [42]. If fruits develop (see Seed Production), they generally mature in late summer [37]; some fruiting may continue into December [1, 37]. If seeds develop, they disperse in fall [47].
 
-![Photo of a leafy shrub with a dense covering of narrow, oblong leaves in orange and yellow colors.]({{ site.baseurl }}/assets/images/species-reviews/ellrac_feis-ELLRAC_Fig6_FallColors.jpg)
+![Photo of a leafy shrub with a dense covering of narrow, oblong leaves in orange and yellow colors.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-02/feis-ELLRAC_Fig6_FallColors.jpg?itok=EA0h8hdG)
 
 Photo Credit
 

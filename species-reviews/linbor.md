@@ -44,7 +44,7 @@ The currently accepted scientific name of twinflower is _Linnaea borealis_ L. [2
 
 Some authorities [33,62] recognize _L. b._ ssp. _borealis_ and _L. b._ ssp. _longiflora_ as the only distinct subspecies of twinflower.
 
-![A photo of many thin stems arising from small rosettes of green leaves with two drooping pink flowers on each stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-linbor_hero.jpg)
+![A photo of many thin stems arising from small rosettes of green leaves with two drooping pink flowers on each stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-linbor_hero.jpg?itok=PaQ1y6eU)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Twinflower occurs in several grassland and many hardwood and coniferous forest t
 
 ## Botanical and Ecological Characteristics
 
-![Photo of blooming twinflower.]({{ site.baseurl }}/assets/images/species-reviews/feis-linbor.jpg)
+![Photo of blooming twinflower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-linbor.jpg?itok=C7bACcOX)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ McWilliams, Jack 2003. _Artemisia filifolia_ , sand sagebrush In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of sand sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-artfil_plant.jpg) Sand sagebrush. _Photo by Calinsdad, iNaturalist.org, no rights reserved._
+![Photo of sand sagebrush.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-artfil_plant.jpg) Sand sagebrush. _Photo by Calinsdad, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Calinsdad, iNaturalist.org, no rights reserved.
 
@@ -113,7 +113,7 @@ Sand sagebrush communities are generally associated with deep sand deposits. San
 
 ## Botanical and Ecological Characteristics
 
-![Photo of sand sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-artfil_plant.jpg)
+![Photo of sand sagebrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artfil_plant.jpg?itok=Z5zGXZkA)
 
 Photo Credit
 

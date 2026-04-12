@@ -119,7 +119,7 @@ Water is obtained mostly from food, but Abert's squirrels sometimes drink at sto
 
 ### Preferred Habitat
 
-![A photo of a gray and white squirrel with long pointed ear tufts sitting on a small pine tree branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-scab_p_pine.jpeg)
+![A photo of a gray and white squirrel with long pointed ear tufts sitting on a small pine tree branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-scab_p_pine.jpeg?itok=x22E0c9C)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ Abert's squirrels are probably able to escape most fires. There are no reports o
 
 ## Fire Effects on Habitat
 
-![A photo of a squirrel clinging face down to a large burned tree trunk, surrounded by lush ferns.]({{ site.baseurl }}/assets/images/species-reviews/feis-scab_burnedtree.jpeg)
+![A photo of a squirrel clinging face down to a large burned tree trunk, surrounded by lush ferns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-scab_burnedtree.jpeg?itok=2MRsGCth)
 
 Photo Credit
 

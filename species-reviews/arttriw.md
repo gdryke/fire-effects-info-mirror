@@ -65,7 +65,7 @@ Subspecies of big sagebrush differ in ploidy levels. Wyoming big sagebrush is pr
 
 This review refers to plant species and infrataxa by their common names. See table A1 for scientific names of plants mentioned in this review.
 
-![A photo of a sagebrush plant in the foreground with green, upright branches, with bare ground around and more sagebrush plants evenly spaced in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_plant.jpg)
+![A photo of a sagebrush plant in the foreground with green, upright branches, with bare ground around and more sagebrush plants evenly spaced in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_plant.jpg?itok=Qb1WCQMc)
 
 Photo Credit
 
@@ -156,7 +156,7 @@ Annual pan evaporation (inches)| 64.3 (4.8)| 66.1 (2.0)| 51.6 (2.3)| 52.2 (2.7)|
 
 Wyoming big sagebrush sites have mostly warm (mesic) soil temperature regimes and dry (aridic) soil moisture regimes, but some sites have cool and dry (frigid and aridic) and warm and moist (mesic and xeric) soil temperature and moisture regimes (fig. 2, table 6). On warm and moist sites, Wyoming big sagebrush may overlap with mountain big sagebrush [142,325,491,492]. Warm and dry soil temperature and moisture regimes are more prevalent in the eastern portion of the sagebrush biome than the western portion [142] (fig. 2). Soils of Wyoming big sagebrush sites are variable in texture, depth, and development (ranging from weakly to strongly developed) due to different soil parent materials and amounts and distribution of precipitation [325] (see Climate). Wyoming big sagebrush grows mostly on shallow to moderately deep, well-drained, moderately acidic to moderately basic soils, which may be noncalcareous to highly calcarious near the surface [67,169,325,327,331,371,402,582,706,787].
 
-![A map of western states, with areas from south-central Nevada, Utah, and western Colorado up to the Canadian border shaded various colors, indicating soils and temperatures are warm and dry in Nevada, much of Utah, and part of Washington and Wyoming, and cooler areas at higher elevations and in eastern Montana, in particular.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_soil_regimes.jpg)
+![A map of western states, with areas from south-central Nevada, Utah, and western Colorado up to the Canadian border shaded various colors, indicating soils and temperatures are warm and dry in Nevada, much of Utah, and part of Washington and Wyoming, and cooler areas at higher elevations and in eastern Montana, in particular.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_soil_regimes.jpg?itok=T-hZPOCF)
 
 Photo Credit
 
@@ -214,7 +214,7 @@ Wyoming big sagebrush is an aromatic, evergreen shrub [67]. The main stem branch
 
 Wyoming big sagebrush is a tall sagebrush [495]. It occasionally reaches up to 79 inches (200 cm) tall [258,464], but is typically shorter than 40 inches (100 cm) [23,166,220,258,285,325,346,463]. Wyoming big sagebrush may be dwarfed as a result of edaphic conditions [53,582].
 
-![A photo of sagebrush shrubs spaced somewhat widely, with bare ground between plants and some dead wood visible on the ground. Hills in the background are covered with low, brown vegetation and low trees near the tops.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_botanical_description.jpg)
+![A photo of sagebrush shrubs spaced somewhat widely, with bare ground between plants and some dead wood visible on the ground. Hills in the background are covered with low, brown vegetation and low trees near the tops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_botanical_description.jpg?itok=g5-MDLMa)
 
 Photo Credit
 
@@ -455,7 +455,7 @@ Miller et al. [490,502] categorized succession from mountain big sagebrush commu
 
 A fourth late-successional, closed stage or "mature" phase (Phase IV), is sometimes included in woodland succession where trees are dominant, shrubs and herbaceous plant cover is minimal or absent, and shrubs are >90% dead [502,508]. The time required to transition between phases in woodland succession is variable and depends on the sagebrush taxon and site characteristics. Although not reported for Wyoming big sagebrush communities, successional advancement from mountain big sagebrush and low sagebrush communities to western juniper woodlands (Phase I to Phase III) varied from 60 to 80 years on cool, moist sites to >125 years on warm, dry sites in southeastern Oregon and southwestern Idaho [367,493]. Johnson and Miller [367,493] developed a chart for mountain big sagebrush communities with varying productivity that hypothesizes the time necessary to transition from initial western juniper establishment to development of late-successional woodlands. Rates of succession varied with elevation and insolation exposure, with fastest development on high-elevation, low-exposure sites (i.e., cool, relatively moist sites, ~70 years) and slowest development on low-elevation, high-exposure sites (i.e., warm, dry sites, ~130 years) (fig. 4). This suggests that Wyoming big sagebrush communities on warm, dry sites would also take longer—likely >125 years—to succeed to late-successional western juniper woodlands than those on cooler, moister sites. In big sagebrush communities, the transition from midsuccessional to late-successional woodlands causes a shift from shrub and herbaceous fuels to a predominance of tree canopy fuels. With these changes, the potential for surface fires burning under moderate weather conditions declines and the potential for crown fires burning under extreme weather conditions increases [216,493,504,623,846,863] (see Fuels).
 
-![A photo of a graph with "trees/ha" on a y-axis, "canopy cover \(%\)" on the other y-axis, and "years" on the x-axis. Polygons formed by lines at different values correspond to phases labeled "minimum stocking", "stand closure", and "max tree density & canopy cover".]({{ site.baseurl }}/assets/images/species-reviews/arttriw_arttri_fig4_tree_establishment.jpg)
+![A photo of a graph with "trees/ha" on a y-axis, "canopy cover \(%\)" on the other y-axis, and "years" on the x-axis. Polygons formed by lines at different values correspond to phases labeled "minimum stocking", "stand closure", and "max tree density & canopy cover".](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/arttri_fig4_tree_establishment.jpg?itok=UICxnEJ_)
 
 Photo Credit
 
@@ -469,7 +469,7 @@ Researchers have developed numerous state-and-transition models that describe su
 
 ## Immediate Fire Effects
 
-![A photo of a sagebrush community with a line of flames in the near distance with a large cloud of black smoke filling the sky.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_burn.jpg)
+![A photo of a sagebrush community with a line of flames in the near distance with a large cloud of black smoke filling the sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_burn.jpg?itok=YPjvtJWZ)
 
 Photo Credit
 
@@ -557,7 +557,7 @@ The length of time for Wyoming big sagebrush cover to return to prefire or unbur
 
 In order to synthesize information on Wyoming big sagebrush postfire recovery time, I obtained data on Wyoming big sagebrush cover and postfire recovery from 112 burned sites (fig. 6) examined in 24 published studies (table A3). I obtained most data from publications, but for two studies I obtained site-level data directly from researchers [168,423]. In most studies, researchers compared Wyoming big sagebrush cover on burned sites to cover on nearby unburned sites. Burned sites ranged from 1 to 66 years since fire, with mean Wyoming big sagebrush cover values ranging from 0% to 26%. Mean cover values on unburned sites also ranged widely (1%-49%) and averaged 13% cover [38,39,43,46,72,129,149,165,168,196,221,229,234,317,423,452,474,567,716,760,770,775,807,842]. In three studies, postfire Wyoming big sagebrush cover was compared with prefire cover [129,452,567].
 
-![A map of the western United States with portions of the intermoutain west highlighted green, purple, and blue, with green dots interspersed in highlighted areas, mostly in the north.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_postfire_recovery_sitesa.jpg)
+![A map of the western United States with portions of the intermoutain west highlighted green, purple, and blue, with green dots interspersed in highlighted areas, mostly in the north.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_postfire_recovery_sitesa.jpg?itok=Bc3SPVUt)
 
 Photo Credit
 
@@ -575,11 +575,11 @@ Mean Wyoming big sagebrush cover on burned sites remained below that of the aver
 
 Wyoming big sagebrush cover recovered slowly (fig. 7B). Averaged in 5-year time-since-fire bins, full recovery of unburned cover did not occur within 66 years since fire. None of the 112 burned sites were recovered. Only three burned sites neared recovery (93%-96% of unburned values), and all of these were located near Wisdom in southwestern Montana. One burned site recovered to 26.4% cover by postfire year 33, which was 93% of a paired, unburned site with 28.5% cover [423]. This was the only burned site that exceeded 20% cover of Wyoming big sagebrush, which is the amount of sagebrush cover typically found in sage-grouse winter habitat [15,160,173,619]. The two other burned sites neared recovery with 11.1% and 13.4% Wyoming big sagebrush cover 9 years since fire. These sites were compared with paired, unburned sites that had 11.6% and 13.9% Wyoming big sagebrush cover [760]. Only two other burned sites exceeded ~40% postfire recovery. One site had 72% recovery in postfire year 32 [760], and the other had 76% recovery in postfire year 29 [775]. Researchers considered postfire recovery rates on these five burned sites "atypical" [757] and "exceptional" [19]. Postfire recovery might have been relatively rapid on these sites because they were relatively moist. Average annual precipitation was ≥12 inches (300 mm) at these sites [426,760,775] (see Vegetation and Site Characteristics). In addition, these sites were burned under prescription [423,760,775], and recovery may be faster after prescribed fires than wildfires if prescribed fires are smaller and patchier [392,520] (see Fire Characteristics). None of the remaining 107 burned sites exceeded 5.4% Wyoming big sagebrush cover up to 66 years since fire. Most (83 of 112) had <1% cover. The 6 oldest sites ranged from 36 to 66 years since fire. These sites were only 0% to 18% recovered [168], were located where annual precipitation averaged 10.8 to 16.35 inches (274-415 mm), and were burned by wildfires [166].
 
-![Triangles variously occuring above or below, but generally close to, the line representing mean unburned cover. Circles representing burned cover up to >70 years since fire are uniformly well below the line indicating mean unburned cover, regardless of time since fire, with the exception of one site burned 31-35 years ago.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig7a_cover_over_time.jpg)
+![Triangles variously occuring above or below, but generally close to, the line representing mean unburned cover. Circles representing burned cover up to >70 years since fire are uniformly well below the line indicating mean unburned cover, regardless of time since fire, with the exception of one site burned 31-35 years ago.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-06/feis-arttriw_fig7a_cover_over_time.jpg?itok=PTTGc7UL)
 
 Figure 7A—Wyoming big sagebrush cover versus time-since-fire in Wyoming big sagebrush communities. Mean cover (SE) of Wyoming big sagebrush on burned sites (circles) in 5-year, time-since-fire bins plotted with mean cover of paired, unburned sites (triangles).
 
-![Point mostly between 0 and 20% recovery despite time since fire values \(up to >70 years\), with the exception of two sites: one 26-30 TSF at 40% recovery and one 31-35 TSF above 80% recovery.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig7b_postfire_recovery.jpg)
+![Point mostly between 0 and 20% recovery despite time since fire values \(up to >70 years\), with the exception of two sites: one 26-30 TSF at 40% recovery and one 31-35 TSF above 80% recovery.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-06/feis-arttriw_fig7b_postfire_recovery.jpg?itok=_mSWu49R)
 
 Figure 7B—Wyoming big sagebrush postfire recovery versus time-since-fire in Wyoming big sagebrush communities. Mean ratio (SE) of burned to unburned (or prefire) cover (i.e., "postfire recovery") of Wyoming big sagebrush in 5-year, time-since-fire bins.
 
@@ -609,7 +609,7 @@ Warm and moist (mesic/xeric)| 12-16 inches (305-406 mm)| Wyoming big sagebrush, 
 Cool and moist (frigid/xeric)| 12-22 inches (305-569 mm)| Mountain big sagebrush, low sagebrush, antelope bitterbrush, and/or snowberry (potential for juniper and pinyon expansion in some areas)| **Moderately high.** Precipitation and productivity are generally high.| **Moderate.** Climate suitability for nonnative annual grasses is moderate. 
 Cold and moist (cryic/xeric)| >14 inches (356 mm)| Mountain big sagebrush, snowfield big sagebrush, snowberry, serviceberry, silver sagebrush, and/or low sagebrush| **Moderately high.** Precipitation and productivity are generally high. Short growing seasons can decrease resilience on the coldest sites.| **High.** Climate suitability for nonnative annual grasses is low. 
  
-![A conceptual model showing greater resilience to disturbance of north-facing slopes than south-facing slopes \(A\) and disturbed vegetation having lower resistance to cheatgrass invasion \(B\), with both related to relative warmth and precipitation characteristics.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig8_resilience_resistance.jpg)
+![A conceptual model showing greater resilience to disturbance of north-facing slopes than south-facing slopes \(A\) and disturbed vegetation having lower resistance to cheatgrass invasion \(B\), with both related to relative warmth and precipitation characteristics.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_fig8_resilience_resistance.jpg?itok=MaSp6xyk)
 
 Photo Credit
 
@@ -667,7 +667,7 @@ Biomass, and thus fuel loading and often fuel continuity, generally increase alo
 
 Precipitation is highly variable year to year in many Wyoming big sagebrush sites (e.g., [777]) (see Climate), and it affects the amount of fuels (biomass and plant cover) on these sites [493,504]. Fuels can be sparse in Wyoming big sagebrush communities [118,830], especially in dry years. This can make prescribed burning difficult [127] (see Fire Management Considerations: Considerations for Fuels). In southeastern Oregon, total herbaceous biomass in 3 Wyoming big sagebrush/Thurber needlegrass communities ranged from 100 pounds/acre (110 kg/ha) during a dry year (50% of average annual precipitation) to 520 pounds/acre (580 kg/ha) during a wet year (185% of average annual precipitation). Forb biomass changed up to 4-fold between dry (17 pounds/acre (19 kg/ha)) and wet (67 pounds/acre (75 kg/ha)) years [495]. In central Utah, mean total plant cover in Wyoming big sagebrush stands ranged from 37% to 79% during 20 years. The correlation of total live plant cover to total precipitation the preceding year was not significant, although nearly so (R² = 0.42; P = 0.07), and total live plant cover appeared to increase during wet periods and decline during droughts [811]. In central Nevada, comparisons of peaks in charcoal abundance with climate records suggest a positive correlation between fire occurrence and relatively wet periods in landscapes now dominated by Wyoming big sagebrush and basin big sagebrush, implying that these big sagebrush communities are fuel-limited, where fine-fuel biomass increases during relatively wet periods and is then ignited during relatively dry years [476].
 
-![A photo of vegetation assessment tools standing in a community dominated by sagebrush plants with bunchgrasses and forbs between shrubs, with some bare ground clearly visible. Low hills are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig9_fuels.jpg)
+![A photo of vegetation assessment tools standing in a community dominated by sagebrush plants with bunchgrasses and forbs between shrubs, with some bare ground clearly visible. Low hills are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_fig9_fuels.jpg?itok=-xfAUweL)
 
 Photo Credit
 
@@ -677,7 +677,7 @@ Figure 9—A Wyoming big sagebrush/needle and thread association in eastern Oreg
 
 When nonnative annual grasses establish and spread into big sagebrush communities, the abundance and continuity of fine surface fuels is likely to increase—especially following years with abundant precipitation—which can increase fire activity on invaded sites [813] (see Consequences of Annual Grass Invasion). Fire may spread into Wyoming big sagebrush communities from adjacent, cheatgrass-dominated sites, and spread from cheatgrass-dominated Wyoming big sagebrush sites into adjacent communities (fig. 10). In the Great Basin, 80% of multiday fires occurring from 2000 to 2009 that started in cheatgrass grasslands spread into adjacent communities, including Wyoming big sagebrush-basin big sagebrush steppes [22].
 
-![An aerial photo of a fire with blackened vegetation at the bottom of a hill with woodland vegetation smoking on the hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig10_constantia_fire.jpg)
+![An aerial photo of a fire with blackened vegetation at the bottom of a hill with woodland vegetation smoking on the hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_fig10_constantia_fire.jpg?itok=lfzWtnoh)
 
 Photo Credit
 
@@ -788,7 +788,7 @@ Big sagebrush habitats provide important food and cover for ungulates, including
 
 Conifer expansion in big sagebrush habitats has varied effects on wild ungulates. Pronghorn generally avoid wooded areas [647,730] and may benefit from fires that reduce conifers and increase long-range visibility [851], while elk and mule deer are year-round residents in pinyon-juniper habitats [439,565] and may not benefit from fire and other disturbances that remove trees. A review of the effects of reducing juniper and pinyon abundance on wildlife found that mule deer and elk responded positively to mechanical removal or thinning in only 10% and 20% of the studies conducted, respectively [78]. Bighorn sheep occur in a variety of plant communities, including pinyon-juniper woodlands, but avoid dense forests [405].
 
-![A photo of four pronghorn walking through a sagebrush community, with small amounts of patchy snow on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_pronghorn.jpg)
+![A photo of four pronghorn walking through a sagebrush community, with small amounts of patchy snow on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_pronghorn.jpg?itok=alAwHJfO)
 
 Photo Credit
 
@@ -810,7 +810,7 @@ Search species in table A2 in FEIS to find FEIS Species Reviews for fire effects
 
 ### Considerations for Nonnative Invasive Plants
 
-![A photo of a sagebrush stand, with shrub interspaces filled with a moderately dense understory of dry annual grasses.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_cheatgrass_invaded.jpg)
+![A photo of a sagebrush stand, with shrub interspaces filled with a moderately dense understory of dry annual grasses.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_cheatgrass_invaded.jpg?itok=JpTPoNnB)
 
 Photo Credit
 
@@ -859,7 +859,7 @@ While protection from disturbance (i.e., suppression of wildfires and exclusion 
 
 In areas where native perennial plant cover is depleted, seeding after fire may help stabilize soils, speed recovery of sagebrush and other shrubs, and prevent establishment and spread of nonnative species [63,171,187,231,492,620,669,713,719,860]. However, seeding sagebrush communities after fire has had low success rates, particularly on warm, dry sites [11,201,592,632]. For example, analyses of 101 postfire seeding sites in Oregon, Idaho, Nevada, and Utah from 1990 to 2003 indicated that postfire seeding success was least likely on warm, dry Wyoming big sagebrush sites. Seeding was most successful on sites with relatively low annual temperatures (especially cool springs and falls) and relatively high total and spring precipitation, such as mountain big sagebrush sites [11]. Seeding may not be needed if native plant species can recover naturally after fire [288]. In Utah, natural revegetation (no seeding) after fire was least successful on dry, low-elevation (<6,000 feet (1,820 m)) sagebrush sites because cheatgrass "readily invaded the burned areas" and was most successful on moist, high-elevation sagebrush sites, especially on northern and eastern aspects. Favorable weather (above normal precipitation and above average winter temperatures) followed burning [438]. Controlling cheatgrass established on burned Wyoming big sagebrush sites may aid in establishing desired seeded plant species [690]. Miller et al. [492] provide guidelines for determining when and where to seed sagebrush stands (fig. 13). For more information, see Value for Restoration of Disturbed Sites and Field Guides and Handbooks.
 
-![A diagram of post-fire recovery and seeding.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_seeding.jpg)
+![A diagram of post-fire recovery and seeding.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_seeding.jpg?itok=613rSXO6)
 
 Photo Credit
 
@@ -951,7 +951,7 @@ Managers use state-and-transition models to determine recovery potentials and ma
 
 Several authors [714,803] developed a state-and-transition model for the Great Basin that describes Wyoming big sagebrush ecological states and shows how management affects those states (fig. 14). The "healthy sagebrush" state (WSS-1) is dominated by Wyoming big sagebrush, native grasses, and forbs, and nonnative annual grasses are present but sparse. Wildfire occurring at 107-year intervals maintains this state. Without fire for extended periods, this state may shift to the "overgrown sagebrush" state (WSS-2). In WSS-2, Wyoming big sagebrush and possibly rubber rabbitbrush are dominant with an understory of Sandberg bluegrass and increasing abundance of nonnative annual grasses. Junipers may be present or increasing in abundance. In WSS-1, the success of treatments that maintain that state (i.e., prescribed fire, mechanical treatments, herbicides, and seeding of desired species) is 100% and treatment costs are low. In WSS-2, the success of treatments intended to transition the state back to WSS-1 is 50% and treatment costs are high. If treatments are not successful, WSS-2 succeeds to the nonnative "annual grass dominated" state (WSS-3). Once in WSS-3, returning to WSS-1 is unlikely, with only a 2.5% treatment success rate, and treatment costs are high. Fire occurring in WSS-3 tends to maintain this state. Thus, the probability of treatment success is strongly influenced by the relative abundance of native perennial grasses and nonnative annual grasses [714,803].
 
-![A diagram or economic costs of various treatment methods with relation to wildfire, ecological succession, and treatment success.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_wbs_stm.jpg)
+![A diagram or economic costs of various treatment methods with relation to wildfire, ecological succession, and treatment success.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_wbs_stm.jpg?itok=CUcO6vIq)
 
 Photo Credit
 
@@ -1023,7 +1023,7 @@ Because of its importance as forage and cover for wildlife, several researchers 
 
 See table A2 for animals mentioned in this section and search FEIS for Species Reviews on these species.
 
-![A photo of rabbit tracks in snow between dormant sagebrush plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig15_pygmy_rabbit.jpg)
+![A photo of rabbit tracks in snow between dormant sagebrush plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_fig15_pygmy_rabbit.jpg?itok=-iR0ACzV)
 
 Photo Credit
 
@@ -1045,7 +1045,7 @@ All sagebrush taxa are potentially valuable forage; however, wild ungulates ofte
 
 Sage-grouse, voles, and ungulates browse Wyoming big sagebrush primarily in winter, when it is more palatable than most other available vegetation [172,232,723,785]. Wyoming big sagebrush may be more available than mountain big sagebrush in winter due to shallower snowpack on Wyoming big sagebrush sites [181,286,671,762] (see Climate). For this reason, Wyoming big sagebrush is often severely browsed [671]. For example, elk, mule deer, and pronghorn on the northern Yellowstone winter range browsed in Wyoming big sagebrush sites at low elevation (an average of 87% of leaders browsed) 8 times more than in mountain big sagebrush sites at high elevation (11%); in part because Wyoming big sagebrush plants were more available above the snow at low-elevation sites [671]. Wambolt and Sherwood [772] stated that low-elevation Wyoming big sagebrush sites on the northern Yellowstone winter range "offer the best winter foraging opportunities for ungulates" because of shallow snow.
 
-![A photo of a sagebrush plant mostly covered with several inches of snow, with stems poking out of the snow and some incompletely covered patches.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_fig16_snow_covered.jpg)
+![A photo of a sagebrush plant mostly covered with several inches of snow, with stems poking out of the snow and some incompletely covered patches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_fig16_snow_covered.jpg?itok=4HvLTsJa)
 
 Photo Credit
 
@@ -1187,7 +1187,7 @@ tansy ragwort| U| U| U| U| U
 yellow starthistle| M| M| M| L| H 
 yellow toadflax| M| M| U| L| M 
  
-![A map of the Great Basin and Columbia Plateau, with red and white shading, with red concentrated in the northern part of the shown area.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_cheatgrass_distribution.jpg)
+![A map of the Great Basin and Columbia Plateau, with red and white shading, with red concentrated in the northern part of the shown area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriw_cheatgrass_distribution.jpg?itok=mo_omSu5)
 
 Photo Credit
 
@@ -1376,7 +1376,7 @@ Summary of postfire recovery studies
 
 Thumbnail
 
-[![feis-arttriw_tablea3.pdf]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_tablea3.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-06/feis-arttriw_tablea3.pdf>)
+[![feis-arttriw_tablea3.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-06/feis-arttriw_tablea3.pdf-p1.jpg?itok=27iKtwW_)](<https://research.fs.usda.gov/sites/default/files/2025-06/feis-arttriw_tablea3.pdf>)
 
 ## Figure A1
 
@@ -1384,7 +1384,7 @@ Postfire canopy cover and recovery by ecoregion
 
 Thumbnail
 
-[![feis-arttriw_figure_a1.pdf]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriw_figure_a1.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-06/feis-arttriw_figure_a1.pdf>)
+[![feis-arttriw_figure_a1.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-06/feis-arttriw_figure_a1.pdf-p1.jpg?itok=XpbIPwd4)](<https://research.fs.usda.gov/sites/default/files/2025-06/feis-arttriw_figure_a1.pdf>)
 
 ## References
 

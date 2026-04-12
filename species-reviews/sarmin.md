@@ -34,7 +34,7 @@ Walkup, Crystal. 1991. _Sarracenia minor_ , hooded pitcherplant. In: Fire Effect
 
 ## Image Gallery
 
-![A green and red plant with curved pitcher-like stems and drooping cream-colored flowers growing in a grassy, wet setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarmin_plant.jpg) Hooded pitcherplant. _Photo by Karan A. Rawlins, University of Georgia, Bugwood.org_
+![A green and red plant with curved pitcher-like stems and drooping cream-colored flowers growing in a grassy, wet setting.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-sarmin_plant.jpg) Hooded pitcherplant. _Photo by Karan A. Rawlins, University of Georgia, Bugwood.org_
 
 Photo Credit: Photo by Karan A. Rawlins, University of Georgia, Bugwood.org
 
@@ -83,7 +83,7 @@ No entry.
 
 ## Botanical Description
 
-![A green and red plant with curved pitcher-like stems and drooping cream-colored flowers growing in a grassy, wet setting.]({{ site.baseurl }}/assets/images/species-reviews/feis-sarmin_plant.jpg)
+![A green and red plant with curved pitcher-like stems and drooping cream-colored flowers growing in a grassy, wet setting.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-sarmin_plant.jpg?itok=87u_NXRt)
 
 Photo Credit
 

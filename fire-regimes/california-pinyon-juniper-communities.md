@@ -26,7 +26,7 @@ U.S. Department of Agriculture, Forest Service, Missoula Fire Sciences Laborator
 
 ## Image Gallery
 
-![Photo of an evergreen woodland on a rocky slope overlooking a broad valley with a mountain rang on the far side.]({{ site.baseurl }}/assets/images/fire-regimes/california-pinyon-juniper-communities_feis-CA_P-J_FRS_habitat.jpg) Figure 2—A California juniper community in Riverside County. _Image by Charles Webber, © California Academy of Sciences. Used with permission._
+![Photo of an evergreen woodland on a rocky slope overlooking a broad valley with a mountain rang on the far side.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-CA_P-J_FRS_habitat.jpg) Figure 2—A California juniper community in Riverside County. _Image by Charles Webber, © California Academy of Sciences. Used with permission._
 
 Photo Credit: Image by Charles Webber, © California Academy of Sciences. Used with permission.
 
@@ -84,7 +84,7 @@ tall tumblemustard| _Sisymbrium altissimum_
 
 **Revision:** Map updated from 2008 BpS [7] to 2020 BpS [10]. 
  
-![Image of a map of the southwestern United States centered on Nevada and California, showing the distribution of pinyon-juniper woodland and savanna Biophysical Settings.]({{ site.baseurl }}/assets/images/fire-regimes/california-pinyon-juniper-communities_feis-CA_P-J_FRS_map.jpg)
+![Image of a map of the southwestern United States centered on Nevada and California, showing the distribution of pinyon-juniper woodland and savanna Biophysical Settings.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-CA_P-J_FRS_map.jpg?itok=vJqLhx3Q)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ Figure 1—Land cover distribution of California pinyon-juniper communities.
 
 Historically, pinyon-juniper woodlands of California occurred on rocky substrates and hillslopes above sagebrush communities. Three types of pinyon-juniper communities are discussed in the review: persistent woodlands, savannas, and wooded shrublands (wooded due to juniper expansion). Persistent pinyon-juniper woodlands are long lived and stable; typically, they have sparse understories and occur on poor soils. Stand structure ranged from open, savanna-like woodlands to closed canopies. Open structure with a perennial grass ground layer was common in persistent pinyon-juniper woodlands of northern California; shrub cover was typically <5%. Structure of persistent pinyon-juniper in southern California was likely highly variable, depending on site productivity [9]).
 
-![Photo of an evergreen woodland on a rocky slope overlooking a broad valley with a mountain rang on the far side.]({{ site.baseurl }}/assets/images/fire-regimes/california-pinyon-juniper-communities_feis-CA_P-J_FRS_habitat.jpg)
+![Photo of an evergreen woodland on a rocky slope overlooking a broad valley with a mountain rang on the far side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-CA_P-J_FRS_habitat.jpg?itok=6HJ5e-7o)
 
 Photo Credit
 

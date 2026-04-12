@@ -34,7 +34,7 @@ Zouhar, Kris. 2003. _Potentilla recta_ , sulfur cinquefoil. In: Fire Effects Inf
 
 ## Introduction
 
-![Photo of the top of a plant stem, showing divided branches with a yellow flower or flower bud at the end of each.]({{ site.baseurl }}/assets/images/species-reviews/potrec_feis-POTREC_Flowers.jpg)
+![Photo of the top of a plant stem, showing divided branches with a yellow flower or flower bud at the end of each.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-POTREC_Flowers.jpg?itok=Tjm1ah-_)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Leaflet serrations sometimes deep| leaflet serrations halfway to mid-vein
  
 The following description of sulfur cinquefoil presents characteristics that may be relevant to fire ecology, and is based on descriptions from several sources [6,20,28,47,91], unless otherwise cited. It is not meant for identification. Identification guidelines, line drawings, and color photos are available (e.g. [66]). Keys for identification are also available (e.g. [28,47]).
 
-![Close-up photo of an vertical plant stem, showing a few palmate leaves, and short, erect hairs covering the stem and backs of leaf veins.]({{ site.baseurl }}/assets/images/species-reviews/potrec_feis-POTREC_hairs1.jpg)
+![Close-up photo of an vertical plant stem, showing a few palmate leaves, and short, erect hairs covering the stem and backs of leaf veins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-POTREC_hairs1.jpg?itok=XqhgcWnK)
 
 Photo Credit
 
@@ -158,7 +158,7 @@ Photo by Theodore Webster, USDA Agricultural Research Service, Bugwood.org.
 
 Sulfur cinquefoil plant showing erect hairs on stem and leaves ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/3.0/us/>)).
 
-![Photo of the lower portion of a green, understory plant, showing many palmately compound leaves with six finely serrated leaflets.]({{ site.baseurl }}/assets/images/species-reviews/potrec_feis-POTREC_leaves.jpg)
+![Photo of the lower portion of a green, understory plant, showing many palmately compound leaves with six finely serrated leaflets.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-POTREC_leaves.jpg?itok=YEPrMzIQ)
 
 Photo Credit
 
@@ -222,7 +222,7 @@ Soule and Werner [79] studied reproductive effort (the proportion of aboveground
 
 ### Pollination and Breeding System
 
-![Photo of two plants with palmately compound leaves with serrated leaflets along the stems, and stems branching at the top with each branch terminating in a seed head.]({{ site.baseurl }}/assets/images/species-reviews/potrec_feis-POTREC_seedheads.jpg)
+![Photo of two plants with palmately compound leaves with serrated leaflets along the stems, and stems branching at the top with each branch terminating in a seed head.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-POTREC_seedheads.jpg?itok=ER7Ipksk)
 
 Photo Credit
 
@@ -270,7 +270,7 @@ A study by Bosy and Aarssen [11] demonstrates that physical orientation of sulfu
 
 ### Seedling Establishment and Growth
 
-![Overhead photo of a small seedling with a few serrated leaves emerging from brown soil.]({{ site.baseurl }}/assets/images/species-reviews/potrec_feis-POTREC_seedling.jpg)
+![Overhead photo of a small seedling with a few serrated leaves emerging from brown soil.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-POTREC_seedling.jpg?itok=fZqktL3X)
 
 Photo Credit
 

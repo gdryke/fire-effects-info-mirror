@@ -207,7 +207,7 @@ sugar maple-basswood/eastern hophornbeam/beaked hazelnut/largeflower bellwort (U
 
 ## Botanical and Ecological Characteristics
 
-![Photo of beaked hazelnut female flower with orange tinge.]({{ site.baseurl }}/assets/images/species-reviews/feis-corcor_flower.jpg)
+![Photo of beaked hazelnut female flower with orange tinge.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-corcor_flower.jpg?itok=cGc6CF3t)
 
 Photo Credit
 
@@ -215,7 +215,7 @@ Photo by Kallum McDonald, iNaturalist.org, no rights reserved
 
 Beaked hazelnut female flowers.
 
-![Photo of beaked hazelnut catkins.]({{ site.baseurl }}/assets/images/species-reviews/feis-corcor_catkins.jpg)
+![Photo of beaked hazelnut catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-corcor_catkins.jpg?itok=TEMTpUsR)
 
 Photo Credit
 

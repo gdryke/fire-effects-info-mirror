@@ -60,7 +60,7 @@ White mulberry has established outside of cultivation in many areas [11,25,56,57
 
 ## Site Characteristics
 
-![A photo of a large, round-crowned tree growing in a grassy, parklike environment with other trees nearby.]({{ site.baseurl }}/assets/images/species-reviews/feis-moralb_tree.jpg)
+![A photo of a large, round-crowned tree growing in a grassy, parklike environment with other trees nearby.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-moralb_tree.jpg?itok=7q45yuAd)
 
 Photo Credit
 
@@ -225,7 +225,7 @@ Two reports describe white mulberry as occurring in a riparian forest community 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [11,25,44,56,57,60,105,122,148,173]).
 
-![A photo of a tree's pointed, serrated green leaves and red to dark purple blackberry-like fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-moralb_fruit.jpg)
+![A photo of a tree's pointed, serrated green leaves and red to dark purple blackberry-like fruits.](https://research.fs.usda.gov/sites/default/files/styles/600px_wide/public/2026-02/feis-moralb_fruit.jpg?itok=d7qz6rip)
 
 Photo Credit
 
@@ -281,7 +281,7 @@ Greenhouse experiments show variable germination rates, with germination general
 
 A forestry handbook from India reports that white mulberry seeds take 35 days to germinate [111], though one review reports an expected germination rate of 73% to 84% 8 to 12 days following 60-day stratification in sand [141].
 
-![A photo of a green tree seedling growing in a forested area, with pale green, divided leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-moralb_seedling.jpg)
+![A photo of a green tree seedling growing in a forested area, with pale green, divided leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-moralb_seedling.jpg?itok=i1_6PYMP)
 
 Photo Credit
 
@@ -434,7 +434,7 @@ The milky sap of white mulberry is toxic to humans and irritates the skin (revie
 
 ## Impacts
 
-![A photo of a large, open field covered with a green leafy shrub or tree with branches reaching upward.]({{ site.baseurl }}/assets/images/species-reviews/feis-moralb_infestation.jpg)
+![A photo of a large, open field covered with a green leafy shrub or tree with branches reaching upward.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-moralb_infestation.jpg?itok=ln-5ewNo)
 
 Photo Credit
 

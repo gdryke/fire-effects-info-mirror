@@ -76,7 +76,7 @@ Centipede grass grows under cultivation [13,16] and also occurs on sandy roadsid
 
 Centipede grass is an introduced warm-season, turf-forming, perennial grass with prostrate growth form [14]. It creeps by thick, short-noded, leafy stolons [16]. It has compressed racemes [13] 1.2 to 2 inches (3-5 cm) long. Spikelets are flat, two-flowered [6], and awnless [13]. The fruit is a caryopsis [16]. Centipede grass has greater root mass in the top 4 inches (10 cm) of soil than do some other warm-season turf grasses. It also has high root density, length, and mass at all depths to which its roots grow [9].
 
-[![A photo of a grass with a creeping, prostrate growth form, with leaf blades growing from a thick, brownish stem on a gravel surface.]({{ site.baseurl }}/assets/images/species-reviews/feis-ereoph_growthform.jpeg)Photo Credit Photo by mark-groeneveld, iNaturalist (CC BY 4.0). Creeping stolons of centipede grass.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
+[![A photo of a grass with a creeping, prostrate growth form, with leaf blades growing from a thick, brownish stem on a gravel surface.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ereoph_growthform.jpeg?itok=LBjrRq39)Photo Credit Photo by mark-groeneveld, iNaturalist (CC BY 4.0). Creeping stolons of centipede grass.](<https://creativecommons.org/licenses/by/4.0/deed.en>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -96,7 +96,7 @@ Centipede grass sprouts from stolons and reproduces by seed [34]. Raceme product
 
 Centipede grass produces new stolons each growing season. These runners replace the live growth of the previous year. They grow over the top of the latter, developing a thick, spongy thatch. Centipede grass does not produce rhizomes [26].
 
-![A photo of short grass like what may be in a lawn.]({{ site.baseurl }}/assets/images/species-reviews/feis-ereoph_plant.jpg)
+![A photo of short grass like what may be in a lawn.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ereoph_plant.jpg?itok=0RI4YpW-)
 
 Photo Credit
 

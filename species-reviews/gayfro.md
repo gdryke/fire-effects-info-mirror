@@ -63,7 +63,7 @@ dangleberry, hairy dangleberry
 
 Blue huckleberry occurs in the eastern United States. The range of the typical variety extends from New York, Massachusetts, and New Hampshire south along the Atlantic Coastal Plain to South Carolina [15]. Although blue huckleberry occurs primarily east of the Appalachian Mountains, it has been reported in Ohio, Tennessee, and West Virginia [3,13]. Gaylussacia frondosa var. tomentosa occurs from South Carolina to central Florida and west to Alabama [14,26]. The range of G. f. var. nana extends from southern Georgia south to central Florida, and west to Mississippi and possibly Louisiana [15].
 
-![Photo of distribution of blue huckleberry in United States.]({{ site.baseurl }}/assets/images/species-reviews/feis-gayfro_map.png)
+![Photo of distribution of blue huckleberry in United States.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-gayfro_map.png?itok=SxoiTbQZ)
 
 Photo Credit
 

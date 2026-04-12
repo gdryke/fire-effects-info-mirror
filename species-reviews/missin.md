@@ -92,7 +92,7 @@ Available information indicates that Chinese silvergrass prefers moist but not s
 
 Chinese silvergrass occurs in a wide range of soil acidities. In Japan, Chinese silvergrass grasslands have soil pH from 3.8 [52,53] to 6.5 [26,34,52,53,100]; however, seedling establishment may be inhibited on sites with very low or high pH (see Seedling Establishment and Plant Growth). Soils in Chinese silvergrass grasslands may be slightly more acidic in the B and C horizons than in the A horizon [34]. On sites where Chinese silvergrass distribution was scattered, soil pH ranged from 2.7 to 6.8 [2]. In eastern Asia, Chinese silvergrass excretes citric acid, allowing it to grow in acidic soils containing high concentrations of aluminum [52]. In Japan, Chinese silvergrass is a dominant species in acidic volcanic ash soils [118]. Landscapers from Portland, Oregon, recommend that Chinese silvergrass cultivars be planted in slightly acidic soil, preferably enriched with organic material [29].
 
-[![A photo of a bunchgrass growing near the cliffy bank of a river with deciduous trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-missin_habitat.jpeg)Photo Credit Photo by runcator, iNaturalist (CC BY-NC 4.0). Chinese silvergrass growing in Potomac, Maryland.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a bunchgrass growing near the cliffy bank of a river with deciduous trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-missin_habitat.jpeg?itok=87PrYGCY)Photo Credit Photo by runcator, iNaturalist (CC BY-NC 4.0). Chinese silvergrass growing in Potomac, Maryland.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ## Plant Communities
 
@@ -110,13 +110,13 @@ In its native range, Chinese silvergrass is occasionally an understory dominant 
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [24,36,36,38,65,87]).
 
-[![A photo of a bunchgrass with airy panicles with leafless deciduous trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-missin_plant.jpg)Photo Credit Photo by Brandon Corder, iNaturalist (CC BY 4.0). Chinese silvergrass growing in Mercer County, Pennsylvania.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a bunchgrass with airy panicles with leafless deciduous trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-missin_plant.jpg?itok=SZl_mxhS)Photo Credit Photo by Brandon Corder, iNaturalist (CC BY 4.0). Chinese silvergrass growing in Mercer County, Pennsylvania.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Aboveground
 
 Chinese silvergrass is a perennial [37,84] grass. In North America, Chinese silvergrass is 3 feet (1 m) [87] to 10 feet (3 m) tall [23,36,38,98]. Studies from Japan indicate that Chinese silvergrass does not get taller than 6 feet (2 m) [34,78,100,103,113], but in the Philippines it may grow taller than 10 feet (3 m) [21]. Chinese silvergrass may be taller in warmer climates [14]. A clump of Chinese silvergrass may attain a width equal to its height at maturity [29]. Individual leaf blades are up to 3 feet (1 m) long and from 0.8 inch (2 cm) [38,87] to 4 inches (10 cm) wide [36]. Its flowers occur in a panicle [31,65] that is 6 to 24 inches (20-61 cm) long [31] and consists of an aggregate of racemes 4 to 8 inches (10-20 cm) long [38]. Chinese silvergrass seed collected from a Japanese grassland measured an average of 2.1 mm long × 0.8 mm wide [35].
 
-[![A close-up photo of a dry grass panicle with fluffy-looking seeds. A leaf-covered forest floor and tree trunks are in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-missin_panicle.jpg)Photo Credit Photo by Jim Arrigoni, iNaturalist (CC BY 4.0). Chinese silvergrass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a dry grass panicle with fluffy-looking seeds. A leaf-covered forest floor and tree trunks are in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-missin_panicle.jpg?itok=ObaoEtU6)Photo Credit Photo by Jim Arrigoni, iNaturalist (CC BY 4.0). Chinese silvergrass panicle.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Belowground
 

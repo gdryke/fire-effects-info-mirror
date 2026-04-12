@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for North Pacific montane shrubland communities
 
 ## Distribution
 
-![A map showing the distribution of North Pacific montane shrubland communities in Washington state.]({{ site.baseurl }}/assets/images/fire-regimes/north-pacific-montane-shrubland_feis-north_pacific_montane_shrubland_locator.jpg)
+![A map showing the distribution of North Pacific montane shrubland communities in Washington state.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-north_pacific_montane_shrubland_locator.jpg?itok=GNalFwjy)
 
 Photo Credit
 

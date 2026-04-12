@@ -86,7 +86,7 @@ California redbud/western poison ivy (Toxicodendron rydbergii)/scarlet monkeyflo
 
 ## Botanical and Ecological Characteristics
 
-![Photo of California redbud tree with pink blossoms.]({{ site.baseurl }}/assets/images/species-reviews/feis-cerorb_tree.jpg)
+![Photo of California redbud tree with pink blossoms.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-cerorb_tree.jpg?itok=V5wI7_Qu)
 
 Photo Credit
 

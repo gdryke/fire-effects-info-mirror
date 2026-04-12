@@ -36,7 +36,7 @@ Gucker, Corey L. 2012. _Hesperoyucca whipplei, H. newberryi_ ; chaparral yucca, 
 
 ## Taxonomy
 
-![A photo of a plant with a basal rosette of narrow, succulent leaves and a tall flowering stalk with creamy white flowers clustered along the top of the stalk. Desert shrubs are scattered behind, and low mountain rise in the distance below blue skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspp_habitat.jpg)
+![A photo of a plant with a basal rosette of narrow, succulent leaves and a tall flowering stalk with creamy white flowers clustered along the top of the stalk. Desert shrubs are scattered behind, and low mountain rise in the distance below blue skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hesspp_habitat.jpg?itok=MSDxe0Xd)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ for _Hesperoyucca newberryi_ (McKelvey) Clary:
 
 Chaparral yucca and Newberry's yucca are native to North America and occur in many disjunct populations in northern Baja California, southern California, and/or northwestern Arizona [99]. The Flora of North America [23] indicates that chaparral yucca occurs in southern California, and Newberry's yucca occurs in western Arizona.
 
-![Two maps side by side of the western United States and Canada, with the map on the left showing a shaded polygon in southern California and the map on the right showing a shaded polygon in northwestern Arizona.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspp_map.png)
+![Two maps side by side of the western United States and Canada, with the map on the left showing a shaded polygon in southern California and the map on the right showing a shaded polygon in northwestern Arizona.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hesspp_map.png?itok=rnU24zil)
 
 Photo Credit
 
@@ -129,7 +129,7 @@ Although chaparral yucca tolerates a variety of soil types, it may be most abund
 
 In California, chaparral yucca is most common in coastal sage scrub and chaparral [42,83] and may also occur, although much less commonly, in desert grasslands, creosote bush (_Larrea tridentata_) and other desert shrublands, and desert, oak (_Quercus_ spp.), juniper (_Juniperus_ spp.), and pine (_Pinus_ spp.) woodlands [22,31,117]. In Arizona, Newberry's yucca occurred on schists in the Colorado River canyon with catclaw acacia (_Acacia greggii_) and mesquite (_Prosopis_ spp.) [14]. Additional studies of habitat and plant community relationships of Newberry's yucca were lacking.
 
-![A photo of a wash bottom with scattered relatively dense chaparral yucca plants. Larger trees grow at the wash bottom and shrubs dominate hillsides.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspp_wash.jpg)
+![A photo of a wash bottom with scattered relatively dense chaparral yucca plants. Larger trees grow at the wash bottom and shrubs dominate hillsides.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hesspp_wash.jpg?itok=CGzUiyqY)
 
 Photo Credit
 
@@ -171,7 +171,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 ### Growth Forms
 
-![A photo of clusters of basal rosettes comprised of narrow, succulent leaves growing on a steep, dry hillside. A single flowering stalk rises from one of the rosettes with white flowers clustered along the top of the stalk.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspp_plant.jpg)
+![A photo of clusters of basal rosettes comprised of narrow, succulent leaves growing on a steep, dry hillside. A single flowering stalk rises from one of the rosettes with white flowers clustered along the top of the stalk.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-hesspp_plant.jpg)
 
 Photo Credit
 
@@ -401,7 +401,7 @@ Researchers estimated that about 80% of chaparral yucca plants sprouted by the f
 
 ### Reproduction Response to Fire
 
-![A photo of a cluster of mostly green rosettes with charred bases and a green flowering stalk topped by creamy white flowers. Green shrubs across the visibly charred hillside, and more yuccas are visible that are mostly or entirely charred. The individual in the foreground is the only flowering individual.]({{ site.baseurl }}/assets/images/species-reviews/feis-hesspp_burnflower.jpg)
+![A photo of a cluster of mostly green rosettes with charred bases and a green flowering stalk topped by creamy white flowers. Green shrubs across the visibly charred hillside, and more yuccas are visible that are mostly or entirely charred. The individual in the foreground is the only flowering individual.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-hesspp_burnflower.jpg?itok=LGCcgAJJ)
 
 Photo Credit
 

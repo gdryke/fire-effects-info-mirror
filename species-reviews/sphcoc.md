@@ -34,7 +34,7 @@ Tollefson, Jennifer E. 2006. _Sphaeralcea coccinea_ , scarlet globemallow. In: F
 
 ## Introduction
 
-![A photo of the orange flowers and flower buds of scarlet globemallow.]({{ site.baseurl }}/assets/images/species-reviews/feis-sphcoc_plant.jpg)
+![A photo of the orange flowers and flower buds of scarlet globemallow.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sphcoc_plant.jpg?itok=64daneNu)
 
 Photo Credit
 
@@ -65,7 +65,7 @@ red false globemallow, copper mallow
 
 ## General Distribution
 
-![A photo of flowering scarlet globemallow from above growing in bare, cracked, dirt.]({{ site.baseurl }}/assets/images/species-reviews/feis-sphcoc_habitat.jpg)
+![A photo of flowering scarlet globemallow from above growing in bare, cracked, dirt.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sphcoc_habitat.jpg?itok=N1Da88c5)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ In addition to these widespread plant communities, scarlet globemallow also occu
 
 ## Botanical Description
 
-![A photo of scarlet globemallow with bright orange flowers, with one flowering stem in the foreground and additional flowering scarlet globemallow behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-sphcoc_hero.jpg)
+![A photo of scarlet globemallow with bright orange flowers, with one flowering stem in the foreground and additional flowering scarlet globemallow behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-sphcoc_hero.jpg?itok=cztjkLyX)
 
 Photo Credit
 

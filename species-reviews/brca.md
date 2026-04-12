@@ -100,7 +100,7 @@ Canada geese primarily use wetland areas dominated by emergent vegetation such a
  * Incubation - varies between populations; 24 to 29 days
  * Fledge - varies with populations; 42 to 86 days [1,14,15]
 
-![Canada goose on nest.]({{ site.baseurl }}/assets/images/species-reviews/feis-brca_canadagoose.jpg)
+![Canada goose on nest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-brca_canadagoose.jpg?itok=sj3Lxvwx)
 
 Photo Credit
 

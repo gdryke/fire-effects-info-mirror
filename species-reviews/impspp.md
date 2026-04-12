@@ -40,7 +40,7 @@ The scientific name of **Brazilian satintail** is _Imperata brasiliensis_ Trin. 
 
 The scientific name of **cogongrass** is _I. cylindrica_ (L.) Beauv. (Poaceae) [9,25,43,64,72,105,173]. Some authorities recognize 5 varieties of cogongrass; according to that treatment, _I. c._ var. _major_(Nees) CE Hubb. is the entity found in North America [64,133]. Gabel (within [9]),[43] does not recognize varieties of cogongrass.
 
-![A photo of dense grass with thick, drooping leaves and upright, cottony tufts on reproductive stems.]({{ site.baseurl }}/assets/images/species-reviews/impspp_feis-impcyl_plant.jpeg)
+![A photo of dense grass with thick, drooping leaves and upright, cottony tufts on reproductive stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-impcyl_plant.jpeg?itok=5NNethv-)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Cogongrass tolerates both xeric and flooded soils, but cannot tolerate soils tha
 
 Details of Brazilian satintail communities of South America are also limited. In Peru, Brazilian satintail dominates montane savannas. Copperleaf (_Acalypha_ spp.), muttonwood (_Rapanea_ spp.), speedwell (_Veronica_ spp.), and false-willow (_Baccharis_ spp.) are dominant woody genera; bracken fern (_Pteridium aquilinum_) often codominates on Brazilian satintail grassland areas. Scott [128] lists associated plant species on Brazilian satintail-dominated savannas of eastern Peru.
 
-![A photo of evenly-spaced pine trunks with a grass understory growing in pine needle litter.]({{ site.baseurl }}/assets/images/species-reviews/impspp_feis-impcyl_pine.jpg)
+![A photo of evenly-spaced pine trunks with a grass understory growing in pine needle litter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-impcyl_pine.jpg?itok=oWQqr7kE)
 
 Photo Credit
 
@@ -248,7 +248,7 @@ Both Brazilian satintail and cogongrass are adapted to very frequent fires [55,6
 
 ## Plant Response to Fire
 
-![A photo of narrow grass stems with reproductive panicles, most of which are compressed into long, narrow cylinders, but one of which is expanded into a cottony tuft.]({{ site.baseurl }}/assets/images/species-reviews/impspp_feis-impbra_postfire_flowering.jpg)
+![A photo of narrow grass stems with reproductive panicles, most of which are compressed into long, narrow cylinders, but one of which is expanded into a cottony tuft.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-impbra_postfire_flowering.jpg?itok=bgM17IUr)
 
 Photo Credit
 

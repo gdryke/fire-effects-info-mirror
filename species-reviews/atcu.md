@@ -77,7 +77,7 @@ Burrowing owl occurs in grasslands, shrub-grasslands, and savannas [63].
 
 ### Development and Reproduction
 
-![A photo of five fuzzy grey and brown owlets standing in a group on a dirt mound surrounded by short grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-atcu_juveniles.jpg)
+![A photo of five fuzzy grey and brown owlets standing in a group on a dirt mound surrounded by short grass.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-atcu_juveniles.jpg?itok=k1ewvw_z)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Rattlesnakes and prairie dogs raid burrows for burrowing owl eggs and nestlings 
 
 ### Diet
 
-![A photo of a small brown and white owl standing on rocky ground with a large grasshopper in its beak.]({{ site.baseurl }}/assets/images/species-reviews/feis-atcu_prey.jpg)
+![A photo of a small brown and white owl standing on rocky ground with a large grasshopper in its beak.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-atcu_prey.jpg?itok=PH3_sSAL)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Burrowing owls occupy grasslands, shrub steppes, and savannas. They also occur i
 
 ### Cover Requirements
 
-![A photo of a small brown and white owl standing at the entrance of a burrow in red clay soil.]({{ site.baseurl }}/assets/images/species-reviews/feis-atcu_burrow.jpeg)
+![A photo of a small brown and white owl standing at the entrance of a burrow in red clay soil.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-atcu_burrow.jpeg?itok=xoRNCYL8)
 
 Photo Credit
 

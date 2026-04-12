@@ -76,7 +76,7 @@ catalpa-willow, desert catalpa, false willow, flowering-willow, mimbre, willowle
 
 ## General Distribution
 
-![Map showing the distribution of desert-willow in the United States and Mexico.]({{ site.baseurl }}/assets/images/species-reviews/feis-chilin_fig_2.jpg)
+![Map showing the distribution of desert-willow in the United States and Mexico.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-chilin_fig_2.jpg?itok=OCuaR9HX)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ See table A3 for a list of representative plant community classifications in whi
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Identification keys are available (e.g., [1,6,43,55,129,251]). Henrickson (1985) provides highly detailed botanical descriptions of desert-willow and its subspecies [85].
 
-![Desert-willow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-chilin_fig_3.jpg)
+![Desert-willow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-chilin_fig_3.jpg?itok=1v7ttZjj)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Figure 3—Desert-willow blooming in Springs Preserve Garden in Las Vegas, Nevad
 
 Desert-willow is a deciduous [85,92,127,130,232] small tree or shrub [1,127,129]. It is typically 3 to 7.5 m tall [127] but sometimes up to 12 m tall [1]. Habit is described as "tall and straggling" [180] (fig. 1). Trunks range from 10 to 40 cm in diameter [1], with one to several stems arising from the root crown [91,129,251]. The bark is "very thin": not more than 0.6 cm thick [91]. The upper crown is spreading [119]. Like its namesake, willow, desert-willow has slender, flexible branchlets [68] and drooping, elongated (linear-lanceolate) leaves [46,68,85,155,237]. Leaves are simple [6,100,130,251], with a thick, waxy cuticle that reduces water loss [220,226]. Some leaves may have extrafloral nectaries [85,157]. In a Sonoran Desert population, presence of extrafloral nectaries was variable both within and among individual trees [157]. The inflorescence is a raceme or panicle with showy, tubular flowers [85,129,161,251] (fig. 3). The fruit is a slender capsule [127,129,251] from 10 to 30 cm long and about 6 mm in diameter [119,127,237]. In part, this genus/species is distinguished by its long, leathery capsules. Its seeds have a fringe of soft white hairs on each end [85,127,130,161,180,232,251] (fig. 4). Seeds are flat, about 8 mm long [127], and have 10 to 15 mm-long hairs [129,161,232,251].
 
-![Desert-willow seeds.]({{ site.baseurl }}/assets/images/species-reviews/feis-chilin_fig4.jpeg)
+![Desert-willow seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-chilin_fig4.jpeg?itok=SzPa-AwQ)
 
 Photo Credit
 

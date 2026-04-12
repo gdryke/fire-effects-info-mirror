@@ -34,7 +34,7 @@ Griffith, Randy Scott. 1991. _Krameria erecta_ , littleleaf ratany. In: Fire Eff
 
 ## Image Gallery
 
-![Photo of littleleaf ratany in bloom.]({{ site.baseurl }}/assets/images/species-reviews/kraere_feis-karere_plant.jpg) Littleleaf ratany _Photo by Cecelia Alexander, iNaturaist.org, no rights reserved._
+![Photo of littleleaf ratany in bloom.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-karere_plant.jpg) Littleleaf ratany _Photo by Cecelia Alexander, iNaturaist.org, no rights reserved._
 
 Photo Credit: Photo by Cecelia Alexander, iNaturaist.org, no rights reserved.
 

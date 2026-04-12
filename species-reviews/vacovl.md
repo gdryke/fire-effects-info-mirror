@@ -36,7 +36,7 @@ Tirmenstein, D. 1990. _Vaccinium ovalifolium_ , oval-leaf huckleberry. In: Fire 
 
 ## Taxonomy
 
-![Photo of oval-leaf huckleberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacovl_plant.jpg)
+![Photo of oval-leaf huckleberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacovl_plant.jpg?itok=d_9MqurS)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ ovalleaf huckleberry, ovalleaf blueberry
 
 ## Distribution
 
-![Map of the United States and Canada showing the distribution of oval-leaf huckleberry in the northern states and most Canadian provinces and territories.]({{ site.baseurl }}/assets/images/species-reviews/vacovl_feis-VACOVL_map.jpg)
+![Map of the United States and Canada showing the distribution of oval-leaf huckleberry in the northern states and most Canadian provinces and territories.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-VACOVL_map.jpg?itok=WcoEajFP)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Old-growth forests of the Canadian Rocky Mountain national parks [1] Structure o
 
 ## Botanical Description
 
-![Photo of oval-leaf huckleberry.]({{ site.baseurl }}/assets/images/species-reviews/vacovl_feis-plantold_vacovl.jpg)
+![Photo of oval-leaf huckleberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-plantold_vacovl.jpg?itok=PsyUApNe)
 
 Photo Credit
 

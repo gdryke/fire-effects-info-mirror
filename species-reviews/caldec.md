@@ -34,7 +34,7 @@ Tollefson, Jennifer E. 2008. _Calocedrus decurrens_ , incense-cedar. In: Fire Ef
 
 ## Introduction
 
-![Photo of the ends of needle-like, scaly, green cedar leaves, many terminating in a yellowish enlargements, and others bearing brown, winged fruits.]({{ site.baseurl }}/assets/images/species-reviews/caldec_feis-CALDEC_cones.jpeg)
+![Photo of the ends of needle-like, scaly, green cedar leaves, many terminating in a yellowish enlargements, and others bearing brown, winged fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-CALDEC_cones.jpeg?itok=Av4uxB6C)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ None
 
 ## General Distribution
 
-![Photo showing an incense-cedar growing near Yosemite Falls in Yosemite National Park.]({{ site.baseurl }}/assets/images/species-reviews/caldec_feis-tree_caldec.jpg)
+![Photo showing an incense-cedar growing near Yosemite Falls in Yosemite National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-tree_caldec.jpg?itok=m72l4Qgz)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Douglas-fir-incense-cedar/Piper's Oregon-grape (_Berberis piperiana_) associatio
 
 ## Botanical Description
 
-![Photo looking up toward the canopy of Incense-cedar and showing furrowed bark on the tree trunk ]({{ site.baseurl }}/assets/images/species-reviews/feis-caldec_trunk.jpg)
+![Photo looking up toward the canopy of Incense-cedar and showing furrowed bark on the tree trunk ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-caldec_trunk.jpg?itok=Aoz2W5XT)
 
 Photo Credit
 
@@ -163,7 +163,7 @@ Incense-cedar has a well developed root system [174] consisting of widespreading
 
 Incense-cedar has a long growing season that ranges from 91 to 146 days [66,174]. The growing period for incense-cedar at the California Forest and Range Experiment Station in the Sierra Nevada was longer and ended later for incense-cedar than for any of 5 other conifer species studied [66]. Like other members of the cypress family, incense-cedar does not form overwintering buds. Its shoot tips stop growing in the fall and resume growth in the spring [66,90,120]. Seasonal radial growth starts in the spring before height growth [174]. At the California Forest and Range Experiment Station, the 8-year average start date of height growth was 24 May, and the 7-year average start date of radial growth was 15 April [66]. Male cones open and shed pollen in late winter and early spring [7,48,120,174]. Female cones develop in 1 year, maturing by late summer or early fall [48,96,120,174,193]. Seed dispersal begins in late August at low elevations and in October at high elevations and continues into the winter months [65]. On the Challenge Experimental Forest, dissemination of incense-cedar seeds began on 15 September [139].\
 
-![Photo of incense-cedar seedling showing the foliage.]({{ site.baseurl }}/assets/images/species-reviews/feis-caldec_foliage.jpeg)
+![Photo of incense-cedar seedling showing the foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-caldec_foliage.jpeg?itok=-3ynYGZy)
 
 Photo Credit
 
@@ -243,7 +243,7 @@ Although recruitment of incense-cedar is not fire-dependent [110], fire does inf
 
 ## Immediate Fire Effects
 
-![Photo showing the charred base of the trunk of a fire-scarred incense-cedar after the 2000 Storrie Fire on the Plumas National Forest.]({{ site.baseurl }}/assets/images/species-reviews/caldec_feis-base_caldec.jpg)
+![Photo showing the charred base of the trunk of a fire-scarred incense-cedar after the 2000 Storrie Fire on the Plumas National Forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-base_caldec.jpg?itok=dduSrkGP)
 
 Photo Credit
 
@@ -264,7 +264,7 @@ The probability of incense-cedar mortality increases with increasing char height
  * Initial off-site colonizer (off site, initial community)
  * Secondary colonizer (on-site or off-site seed sources) [197]
 
-![Photo showing a burned incense-cedar in foreground, 8 months after the 2014 King Fire on the El Dorado National Forest. ]({{ site.baseurl }}/assets/images/species-reviews/caldec_feis-burnedstand_caldec.jpg)
+![Photo showing a burned incense-cedar in foreground, 8 months after the 2014 King Fire on the El Dorado National Forest. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-burnedstand_caldec.jpg?itok=S5Tj2hga)
 
 Photo Credit
 
@@ -372,7 +372,7 @@ Small incense-cedar trees create a dense understory that provides cover for smal
 
 Incense-cedar is used for erosion control along road cuts and along streams between 2,000 and 6,000 feet (600-1,800 m) elevation in southern California [99]. Incense-cedar seedlings planted in the spring were more successful than fall plantings in an area disturbed by landslides and avalanches near Lake Tahoe, California [18]. Information on propagation of incense-cedar is provided in Kruckeberg [114].
 
-![Photo of a cone shaped hut made from long, narrow slabs of bark attached to a stick frame.]({{ site.baseurl }}/assets/images/species-reviews/caldec_feis-CALDEC_BarkHouse.jpg)
+![Photo of a cone shaped hut made from long, narrow slabs of bark attached to a stick frame.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-CALDEC_BarkHouse.jpg?itok=FPucY37s)
 
 Photo Credit
 

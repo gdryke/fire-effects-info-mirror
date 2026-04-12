@@ -38,7 +38,7 @@ Archer, Amy J. 2000. _Achnatherum thurberianum_ , Thurber's needlegrass. In: Fir
 
 The scientific name of Thurber's needlegrass is _Achnatherum thurberianum_ (Piper) Barkworth (Poaceae) [39]. This species hybridizes with Indian ricegrass (_A. hymenoides_) [44,81].
 
-[![A photo of golden, dried grass panicles with fuzzy awns of seeds visible. Grasses stretch into the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-achthu_plant2.jpg)Photo Credit Photo by Matt Reala, iNaturalist (CC BY-NC 4.0). Thurber's needlegrass growing in Lava Beds National Monument in California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of golden, dried grass panicles with fuzzy awns of seeds visible. Grasses stretch into the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-achthu_plant2.jpg?itok=QgnMtxrg)Photo Credit Photo by Matt Reala, iNaturalist (CC BY-NC 4.0). Thurber's needlegrass growing in Lava Beds National Monument in California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Synonyms
 
@@ -54,7 +54,7 @@ No entry.
 
 Thurber's needlegrass occurs in eastern parts of Washington, Oregon, and California; and across northern Nevada to southern Idaho, southwestern Montana, and northeastern Wyoming [17].
 
-![A map of the western United States showing counties. Montana, Wyoming, and Colorado are shaded light green in their entirety and Utah, Nevada, California, Oregon, and Washington each have some counties shaded darker green.]({{ site.baseurl }}/assets/images/species-reviews/feis-achthu_distribution_oldreview.jpg)
+![A map of the western United States showing counties. Montana, Wyoming, and Colorado are shaded light green in their entirety and Utah, Nevada, California, Oregon, and Washington each have some counties shaded darker green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-achthu_distribution_oldreview.jpg?itok=7Dt83LJ3)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Distribution of Thurber's needlegrass.
 
 Thurber's needlegrass is commonly found in semiarid landscapes [1,52,56,57,58], and occurs on a variety of soil types [1,42,58], most of which are dry and coarse textured [81]. This species is often found on arid hillsides [48,97], and is most prevalent on north and east slopes where there is more moisture and less variation in temperature [38,48,91].
 
-[![A photo of a bunchgrass with erect panicles growing on a dry site next to an apparently leafless woody shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-achthu_plant.jpg)Photo Credit Photo by Sheri Hagwood, hosted by USDA-NRCS PLANTS Database. Thurber's needlegrass.](<https://creativecommons.org/licenses/by-nc-sa/3.0/>)
+[![A photo of a bunchgrass with erect panicles growing on a dry site next to an apparently leafless woody shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-achthu_plant.jpg?itok=gmEmGujP)Photo Credit Photo by Sheri Hagwood, hosted by USDA-NRCS PLANTS Database. Thurber's needlegrass.](<https://creativecommons.org/licenses/by-nc-sa/3.0/>)
 
 Specific examples of sites where Thurber's needlegrass is prevalent follow:
 
@@ -106,7 +106,7 @@ References describing Thurber's needlegrass as a community or habitat dominant o
 
 Thurber's needlegrass is a native, perennial, cool-season bunchgrass [63,81]. This species is densely tufted with erect culms 12 to 24 inches (30-60 cm) tall, and involute blades 4 to 10 inches (10-25 cm) long and 0.04 to 0.08 inch (1-2 mm) wide. The culms are narrow, erect, and few flowered [44]. Inflorescence characteristics include 3- to 9-inch- (7-24 cm) long panicles and single-flowered spikelets with sharp calluses and awned lemmas [81]. The crown typically acquires a circular appearance, as the plant dies from the center outward [24]. Maximum reported rooting depth of Thurber's needlegrass in Idaho is 24 inches (61 cm) [75].
 
-![A photo of a grass panicle with bent awns of seeds apparent. A shrub and grasses are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-achthu_panicle.jpg)
+![A photo of a grass panicle with bent awns of seeds apparent. A shrub and grasses are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-achthu_panicle.jpg?itok=Zj5DLC1x)
 
 Photo Credit
 

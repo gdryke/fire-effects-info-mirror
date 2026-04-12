@@ -52,7 +52,7 @@ California torreya, stinking cedar, stinking nutmeg, stinking yew
 
 California nutmeg is endemic to California. Its range has two distinct parts: one in the Coast Ranges and one in the Cascade-Sierra Nevada foothills. In the Coast Ranges, it is distributed from southwest Trinity County south to Monterey County. In the Cascade-Sierra Nevada foothills, it is distributed from Shasta County south to Tulare County [8]. Although not rare, it is not an abundant species. Local occurrence is widely scattered throughout its range [3], and trees are often infrequent in these localities [8].
 
-![A map of California with areas highlighted where California nutmeg occurs. There are just a few small scattered spots highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-torcal_map.jpg)
+![A map of California with areas highlighted where California nutmeg occurs. There are just a few small scattered spots highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-torcal_map.jpg?itok=Tqusm4q4)
 
 Photo Credit
 
@@ -66,7 +66,7 @@ Distribution of California nutmeg.
 
 ## Site Characteristics
 
-![A photo of a tall conifer growing out of rocky ridge in the mountains. There are other small conifers near it, and more on the other side of a canyon.]({{ site.baseurl }}/assets/images/species-reviews/feis-torcal_habitat.jpg)
+![A photo of a tall conifer growing out of rocky ridge in the mountains. There are other small conifers near it, and more on the other side of a canyon.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-torcal_habitat.jpg?itok=c1-caJsr)
 
 Photo Credit
 
@@ -90,7 +90,7 @@ California nutmeg is plastic in its habitat requirements, and occurs in many div
 
 ## Botanical Description
 
-![A photo of two round, brown, nut-like fruits on a conifer tree. Some needles are visible and the background is black.]({{ site.baseurl }}/assets/images/species-reviews/feis-torcal_arils.jpg)
+![A photo of two round, brown, nut-like fruits on a conifer tree. Some needles are visible and the background is black.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-torcal_arils.jpg?itok=VuOWrWW7)
 
 Photo Credit
 
@@ -137,7 +137,7 @@ California nutmeg sprouts from the roots, root crown, and bole following top-kil
 
 ## Plant Response to Fire
 
-![A photo of a burned forest with tall, dead trees and dry grass on the ground. In the foreground some conifers are sprouting from the base of burned, broken tree trunks. A few live trees are visible behind and on the other side of a valley.]({{ site.baseurl }}/assets/images/species-reviews/feis-torcal_postfire.jpg)
+![A photo of a burned forest with tall, dead trees and dry grass on the ground. In the foreground some conifers are sprouting from the base of burned, broken tree trunks. A few live trees are visible behind and on the other side of a valley.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-torcal_postfire.jpg?itok=_Vs8G6v_)
 
 Photo Credit
 

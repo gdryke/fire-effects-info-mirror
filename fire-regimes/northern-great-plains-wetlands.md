@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern Great Plains wetland communities h
 
 ## Distribution
 
-![A map showing the distribution of northern Great Plains wetland communities in the northern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-great-plains-wetlands_feis-northern_great_plains_wetlands_locator.jpg)
+![A map showing the distribution of northern Great Plains wetland communities in the northern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_great_plains_wetlands_locator.jpg?itok=bGR-ibnG)
 
 Photo Credit
 

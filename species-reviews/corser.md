@@ -36,7 +36,7 @@ Gucker, Corey. 2012. _Cornus sericea_ , redosier dogwood. In: Fire Effects Infor
 
 ## Taxonomy
 
-![A photo of bare shrub stems poking out of snow, with conifers in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-corser_habitat.jpg)
+![A photo of bare shrub stems poking out of snow, with conifers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-corser_habitat.jpg?itok=JeapiK8v)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ American dogwood, creek dogwood, red dogwood
 
 ## General Distribution
 
-![A map of U.S. states and Canadian provinces, with nearly all highlighted green, except southeastern U.S. states.]({{ site.baseurl }}/assets/images/species-reviews/feis-corser_distribution.png)
+![A map of U.S. states and Canadian provinces, with nearly all highlighted green, except southeastern U.S. states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-corser_distribution.png?itok=HqdugS8P)
 
 Photo Credit
 
@@ -260,7 +260,7 @@ See the Fire Regime Table (table A1) for a list of plant communities in which re
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [84,88,112,114,255,318]).
 
-![A photo of a tight cluster of white flowers at the end of branches with medium-sized leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-corser_flowers.jpg)
+![A photo of a tight cluster of white flowers at the end of branches with medium-sized leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-corser_flowers.jpg?itok=PLKYA9vl)
 
 Photo Credit
 
@@ -296,7 +296,7 @@ Redosier dogwood reproduces sexually from seed. It regenerates from aboveground 
 
 Redosier dogwood produces perfect flowers that are obligate outcrossing and insect-pollinated [124,230,271]). In experiments, redosier dogwood flowers that were bagged to prevent cross pollination did not produce fruits, suggesting that successful fruit production depends on cross pollination [92]. Because redosier dogwood flowers are 0.4 inch (1 cm) broad, fertilization of the stigmas by anthers of neighboring flowers is unlikely [168]. Observations suggest that bumblebees may be the most frequent visitors to redosier dogwood flowers [168], but many bee, fly, and butterfly visitors have been observed [168,317].
 
-![A tight cluster of whitish berries amongst the leaves of a shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-corser_fruit.jpg)
+![A tight cluster of whitish berries amongst the leaves of a shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-corser_fruit.jpg?itok=C_L0Q8RU)
 
 Photo Credit
 

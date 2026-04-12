@@ -60,7 +60,7 @@ Logging may be used as a fire surrogate. To promote biodiversity, retaining the 
 
 The scientific name of black spruce is _Picea mariana_ (Mill.) B.S.P. (Pinaceae) [113,121,177,210,253,344].
 
-![A photo of an open area with sedges and other graminoids growing close together with somewhat short conifers growing at either side of an open area.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_bog.jpg)
+![A photo of an open area with sedges and other graminoids growing close together with somewhat short conifers growing at either side of an open area.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-picmar_bog.jpg)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ bog spruce, swamp spruce
 
 ## General Distribution
 
-![A map of the United States and Canada with much of Canada, Alaska, and northeastern states highlighted green, with highlighted extending into many eastern states bordering Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_map.jpg)
+![A map of the United States and Canada with much of Canada, Alaska, and northeastern states highlighted green, with highlighted extending into many eastern states bordering Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_map.jpg?itok=KpIosw18)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ Black spruce is not well adapted to coastal fog or salt spray, so it is rare in 
 
 Permafrost tends to be continuous in black spruce's northernmost distributions, becoming discontinuous to the south [383]. The permafrost layer beneath black spruce is often shallow in boreal regions [85]. In the growing season, soils thaw to a depth of 8 to 35 inches (20-90 cm) [388]. In interior Alaska, black spruce dominates bogs with shallow permafrost [124,182,225]; permafrost tables are often as shallow as 12 inches (30 cm) [104]. Permafrost is often absent on newly deposited alluvium and south slopes and becomes discontinuous south of the Alaska Range, so black spruce is less dominant on such sites [388].
 
-![A photo of somewhat stunted tree growing with scrub and graminoids.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_hero.jpg)
+![A photo of somewhat stunted tree growing with scrub and graminoids.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_hero.jpg?itok=KPUbUmZs)
 
 Photo Credit
 
@@ -173,7 +173,7 @@ See the Fire Regime Table for a list of plant communities in which black spruce 
 
 Black spruce dominates or codominates most Alaskan taiga landscapes [206]; black spruce is the most common forest type in the state [85]. It has dominated Alaska's boreal region for the past 5,500 years [265]. Black spruce communities presently occupy 39% to 44% of interior Alaska [69]. At the landscape level, Alaskan black spruce communities form mosaics with quaking aspen-birch, white spruce, and mixedwood (spruce-hardwood) stands. Black spruce generally occupies the most poorly drained, coldest portions of these mosaics (see Site characteristics). White spruce and hardwoods generally occupy relatively warm sites, and balsam poplar and black cottonwood dominate floodplains of major rivers [388].
 
-![A photo of a foggy rolling hillside with layers of conifers visible in the fog.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_forestfog.jpg)
+![A photo of a foggy rolling hillside with layers of conifers visible in the fog.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_forestfog.jpg?itok=GWEe_ucy)
 
 Photo Credit
 
@@ -305,7 +305,7 @@ Black spruce is monoecious [346]. Some perfect cones have been found in Alaska [
 
 Trees begin producing seed as young as 10 years of age [383] but generally do not produce much seed until they are ≥30 years old [395]. Black spruce usually produces cones at a younger age than white spruce [263,415], which gives it a successional advantage on sites with relatively short fire-return intervals. Maximum seed production occurs in trees around 50 to 150 years old [383]. In Alberta, black spruce first produced cones around 15 years of age, bearing "heavily and regularly" from 50 to past 150 years of age [174]. In open black spruce woodlands in the Northwest Territories, black spruce seed production peaked when stands were 100 to 200 years old [54,55]. Seed production may lessen after that [113].
 
-![A photo of a short conifer branch with short needles and smallish cones near its end.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_cones.jpg)
+![A photo of a short conifer branch with short needles and smallish cones near its end.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_cones.jpg?itok=0SMHkZgs)
 
 Photo Credit
 
@@ -534,7 +534,7 @@ The general pattern of succession in conifer forests of this region is early dom
 
 Relatively long fire-return intervals favor black spruce over jack pine. A model developed for poorly drained black spruce-jack pine boreal forests east of James Bay predicted that a 47-year fire-return interval favored successional replacement of black spruce by jack pine. However, continued dominance of black spruce was predicted with 211- to 270-year fire-return intervals [241]. On 2 sites in Québec that burned 38 and 43 years previously, jack pine had replaced black spruce successionally as the dominant tree species. The authors observed that while black spruce did not "substantially regenerate" in these early postfire decades, jack pine density "noticeably increased in most cases" [235].
 
-![A photo of scrubby, low vegetation and standing dead, narrow conifer trunks. A patch of living conifers is visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_kalang.jpg)
+![A photo of scrubby, low vegetation and standing dead, narrow conifer trunks. A patch of living conifers is visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_kalang.jpg?itok=9hk_uHNa)
 
 Photo Credit
 
@@ -558,7 +558,7 @@ Severe fires can slow or stop paludification. Paludification has been attributed
 
 Fire usually kills black spruce [29,124,262,263,264,368]. Because even mature trees have thin bark and shallow roots, they are poorly adapted to survive fire [264,383]. Stand mortality is usually around 100% [65]: Even low-severity surface fire is usually lethal [213,262,264]. All aboveground portions of the plant typically ignite, and major roots may burn as well. Crowning is common in black spruce stands because of layered fuels. Low branches are usually rooted in moss or lichen layers [383]. Branches are often draped with lichens and are easily ignited by surface fires [213,262,383]. Fire carries up through successive dense branches into the crown [262]. The roots often lie in the organic soil layer, where ground fires kill them [264]. Lutz [264] reported that in Alaska, "slowly burning ground fires may burn off roots as large as 8 to 9 inches in diameter".
 
-![A photo of exposed roots growing from narrow trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_burnedroots.jpg)
+![A photo of exposed roots growing from narrow trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_burnedroots.jpg?itok=wMiQHAKZ)
 
 Photo Credit
 
@@ -669,7 +669,7 @@ After the May 1971 Little Sioux Wildfire in northeastern Minnesota, black spruce
 
 A 20-year study after a wildfire in southeastern Yukon found spruce (black spruce and white spruce) seedling density averaged ≥8 stems/m² in postfire year 10. Spruce seedling density remained constant or increased slightly from postfire years 10 to 20 (P=0.08); in contrast, quaking aspen and lodgepole pine densities declined after postfire year 10 (P<0.001). In postfire year 19, mean spruce heights ranged from 0.6 to 4.1 feet (0.2-1.3 m). Tree heights were not correlated with either total tree or individual tree species densities [206].
 
-![A photo of fire burning several silhouetted trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_mixedfire.png)
+![A photo of fire burning several silhouetted trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_mixedfire.png?itok=A_eiDEQo)
 
 Photo Credit
 
@@ -825,7 +825,7 @@ In west-central Alberta, a history of stand-level, crowning wildfire followed by
 
 Patchy fires are common in black spruce communities, with patches burned down to mineral soil intermixed with unburned patches and patches where the soil organic layer was partially burned [124,184]. Upland black spruce communities tend to burn more uniformly than lowland black spruce peatlands. Sphagnum mosses can absorb and sequester water up to about 20 times their own dry mass [325]. This likely explains why black spruce peatlands with >7 feet (2 m) of accumulated sphagnum dry slowly and rarely burn [221].
 
-![A photo of a burned forest stand, with narrow tree trunks with a few red needles standing on a charred forest floor, with patches of red, scorched moss.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_pattern.jpg)
+![A photo of a burned forest stand, with narrow tree trunks with a few red needles standing on a charred forest floor, with patches of red, scorched moss.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_pattern.jpg?itok=kR40zDIs)
 
 Photo Credit
 
@@ -947,7 +947,7 @@ Fire Studies available in FEIS:
 
 Wildfire is the primary factor limiting spread of eastern dwarf mistletoe in unmanaged black spruce stands (review by [13]). Fires of sufficient intensity to kill eastern dwarf mistletoe do not hinder postfire establishment of black spruce [13]. Eastern dwarf mistletoe density tends to increase with stand age [166]. In eastern Minnesota, eastern dwarf mistletoe was not present in black spruce stands <30 years old (Anderson 1949 in [13]). Heinselman [164] stated that "because of the fire exclusion policy and private protection agencies and organizations, we are seeing a vast expansion of dwarf mistletoe in forest areas, particularly on species like black spruce."
 
-![A photo of a conifer branch with a dense tuft of twigs and needles growing at its end.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_arcpus.jpg)
+![A photo of a conifer branch with a dense tuft of twigs and needles growing at its end.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_arcpus.jpg?itok=XZsk3cuI)
 
 Photo Credit
 
@@ -955,7 +955,7 @@ Photo taken by Steven Katovich, USDA Forest Service, Bugwood.org.
 
 Eastern dwarf mistletoe infection on black spruce in Minnesota.
 
-![A photo of a prescribed burn, with some visible flames and dark smoke with conifers behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_arcpus_fire.jpg)
+![A photo of a prescribed burn, with some visible flames and dark smoke with conifers behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_arcpus_fire.jpg?itok=gj4akjhF)
 
 Photo Credit
 
@@ -1027,7 +1027,7 @@ In north-central Ontario, deer mouse populations increased after logging and sla
 
 Short-term studies in the Great Lakes region showed postfire shifts in bird guilds, a temporary decrease in small mammals, habitat improvements for larger mammals, and no effect on fish populations. Surveys in northeastern Minnesota found foliage gleaners such as Blackburnian warbler were most important in a 70-year-old jack pine-black spruce stand. A wildfire burned the stand in August 1976. In May 1977, ground- and shrub-foragers such as gray-cheeked thrush had become most important [21]. A study conducted 3 years after a 1979 wildfire on the Seney National Wildlife Refuge, Michigan, also found postfire shifts in bird guilds. The fire created a mosaic of open bogs in lowlands interspersed with tamarack-black spruce-red maple peatlands on uplands. In postfire year 3, bird species that forage in early-seral forests, especially brown thrashers and song sparrows, used the upland peatlands. Small mammal numbers dropped the fall after the fire, and no small mammal species used burned areas more than unburned areas. Small mammal numbers increased 17-fold in the second postfire fall. By postfire year 3, American beavers were concentrating in alder thickets, which were dense with new sprouts. Likely due to heavy berry crops, survival of American black bear cubs was good in postfire year 3. An inventory in postfire year 2 showed no significant postfire drop in northern pike, yellow perch, or brown bullhead populations. This was attributed to the ability of remaining peat to hold silt and minerals, leaving the mineral content of the water similar to that of prefire levels [17].
 
-![A photo of an owl in shadows, partly visible behind part of a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-picmar_owl.jpg)
+![A photo of an owl in shadows, partly visible behind part of a tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-picmar_owl.jpg?itok=R7NSwBrF)
 
 Photo Credit
 

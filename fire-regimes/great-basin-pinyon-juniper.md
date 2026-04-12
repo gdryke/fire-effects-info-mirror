@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Great Basin pinyon-juniper communities has 
 
 ## Distribution
 
-![Image of a map of the western United States centered on Nevada and showing the distribution of pinyon-juniper communities spread primarily across Nevada and western Utah.]({{ site.baseurl }}/assets/images/fire-regimes/great-basin-pinyon-juniper_feis-GB_P-J_FRR_map.jpg)
+![Image of a map of the western United States centered on Nevada and showing the distribution of pinyon-juniper communities spread primarily across Nevada and western Utah.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-GB_P-J_FRR_map.jpg?itok=RwX0wV8H)
 
 Photo Credit
 

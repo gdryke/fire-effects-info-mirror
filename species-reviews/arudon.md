@@ -36,7 +36,7 @@ McWilliams, Jack. 2004. _Arundo donax_ , giant reed. In: Fire Effects Informatio
 
 ## Taxonomy
 
-![A photo of very tall graminoids growing in a dense thicket on tall stalks with reproductive spikes at their tops. A tree grows behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-arudon_habitat.jpg)
+![A photo of very tall graminoids growing in a dense thicket on tall stalks with reproductive spikes at their tops. A tree grows behind.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-arudon_habitat.jpg)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Elevation ranges reported for giant reed in other areas include:
 
 ## Plant Communities
 
-![A photo of dense riparian vegetation growing along the bank of a muddy river, with red cliffs rising behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-arudon_community.jpg)
+![A photo of dense riparian vegetation growing along the bank of a muddy river, with red cliffs rising behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-arudon_community.jpg?itok=u5V1mQ2k)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ In riparian woodlands within the Chihuahuan desert, Hendrickson and Johnston [45
 
 The following description of giant reed provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [40,53,56,57,62,63,69,77,103,105,107]). Giant reed and common reed, a native grass distributed across most of the United States, can be difficult to distinguish. Proper identification of giant reed is essential before implementing control measures [24].
 
-![A photo of the stem of a large graminoid with regularly spaced, thick, green leaves growing from it.]({{ site.baseurl }}/assets/images/species-reviews/feis-arudon_leaves.jpg)
+![A photo of the stem of a large graminoid with regularly spaced, thick, green leaves growing from it.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-arudon_leaves.jpg)
 
 Photo Credit
 

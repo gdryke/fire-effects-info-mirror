@@ -34,7 +34,7 @@ Matthews, Robin F. 1993. _Delphinium bicolor_ , little larkspur. In: Fire Effect
 
 ## Image Gallery
 
-![Photo of Little larkspur flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-delbic.jpg) Little larkspur flower. _Creative Commons image by Matt Lavin._
+![Photo of Little larkspur flower.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-delbic.jpg) Little larkspur flower. _Creative Commons image by Matt Lavin._
 
 Photo Credit: Creative Commons image by Matt Lavin.
 
@@ -42,7 +42,7 @@ Little larkspur flower.
 
 ## Introduction
 
-![Photo of Little larkspur flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-delbic.jpg)
+![Photo of Little larkspur flower.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-delbic.jpg?itok=K6uqn0kO)
 
 Photo Credit
 

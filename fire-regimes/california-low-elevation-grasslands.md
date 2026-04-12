@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for California low-elevation grassland communit
 
 ## Distribution
 
-![A map showing the distribution of California low-elevation grassland communities in California and Oregon.]({{ site.baseurl }}/assets/images/fire-regimes/california-low-elevation-grasslands_feis-california_low_elevation_grasslands_locator.jpg)
+![A map showing the distribution of California low-elevation grassland communities in California and Oregon.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-04/feis-california_low_elevation_grasslands_locator.jpg?itok=0QZtKuwl)
 
 Photo Credit
 

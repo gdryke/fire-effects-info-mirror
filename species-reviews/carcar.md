@@ -63,7 +63,7 @@ The range of American hornbeam extends from central Maine west to southwestern Q
 
 ## Site Characteristics
 
-![A photo of a small tree in a forest leaning at almost a 45 degree angle, with yellowish-orange leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-carcar_habitat.jpg)
+![A photo of a small tree in a forest leaning at almost a 45 degree angle, with yellowish-orange leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-carcar_habitat.jpg?itok=n4fLsQz-)
 
 Photo Credit
 
@@ -83,7 +83,7 @@ American hornbeam primarily occurs in the understory of bottomland mixed-hardwoo
 
 ## Botanical Description
 
-![A photo of a tree's smooth, slightly fluted trunk and some ridged, pointed leaves on small stems. The background is blurry lush vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-carcar_bark.jpeg)
+![A photo of a tree's smooth, slightly fluted trunk and some ridged, pointed leaves on small stems. The background is blurry lush vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-carcar_bark.jpeg?itok=AJ4Fq78V)
 
 Photo Credit
 

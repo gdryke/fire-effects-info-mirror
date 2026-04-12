@@ -65,7 +65,7 @@ In northern portions of its range, the timber rattlesnake occupies upland decidu
 
 **Virginia, West Virginia, Maryland, and Pennsylvania:** Along the eastern edge of the unglaciated Appalachian Mountains of northwestern Virginia, eastern West Virginia, western Maryland, and southern Pennsylvania, timber rattlesnakes occupy deciduous forest dominated by oaks [49]. In Berks County, Pennsylvania, timber rattlesnakes occupy forests dominated by chestnut oak (_Q. prinus_), northern red oak, black birch (_Betula nigra_), and red maple [60].
 
-![A photo of a large black snake coiled on a rocky outcropping overlooking leafy treetops and green, rolling hills.]({{ site.baseurl }}/assets/images/species-reviews/feis-crho_habitat2.jpg)
+![A photo of a large black snake coiled on a rocky outcropping overlooking leafy treetops and green, rolling hills.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-crho_habitat2.jpg?itok=6h-0CLwq)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Dark phase timber rattlesnake on a rock outcropping , Tucker County, West Virgin
 
 ## Biological Characteristics
 
-![A close-up photo of a brown striped rattlesnake coiled on gravel with some grasses nearby, with its head and rattle poking upward.]({{ site.baseurl }}/assets/images/species-reviews/feis-crho_portrait.jpg)
+![A close-up photo of a brown striped rattlesnake coiled on gravel with some grasses nearby, with its head and rattle poking upward.](https://research.fs.usda.gov/sites/default/files/styles/480px_wide/public/2026-01/feis-crho_portrait.jpg?itok=-Dxg4gkg)
 
 Photo Credit
 
@@ -198,7 +198,7 @@ Across the timber rattlesnake's range, mating occurs from mid-July to late Octob
 
 Timber rattlesnakes have low reproductive rates due to long reproductive intervals, late sexual maturity (see Development), and high reproductive costs [7,8,65]. Females produce litters at 2-year, 3-year, or 4-year intervals. Long reproductive intervals allow time for females to store yolk protein in developing eggs and to gain weight after parturition [4,7,8,8,27,30,31,49]. Of 30 females trapped in the Adirondack Forest Preserve in northeastern New York, 57% reproduced at 3-year intervals and 27% reproduced at 4-year intervals. Biennial reproduction was not detected but is possible, according to the author [8]. In the Appalachian Mountains of Virginia, Maryland, and Pennsylvania, the mean reproductive interval was 3 years. Females more than 14 years old reproduced at 2-year intervals, and females younger than 7 years old reproduced at 4-year intervals [49]. In Kansas, female timber rattlesnakes reproduce at 2-year or 3-year intervals [27]. A female that reproduces triennially may produce only 3 to 5 litters during a lifetime of 16 to 22 years [7,8].
 
-![A photo of a black rattlesnake curled up with two small gray baby rattlesnakes.]({{ site.baseurl }}/assets/images/species-reviews/feis-crho_withyoung.jpg)
+![A photo of a black rattlesnake curled up with two small gray baby rattlesnakes.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-crho_withyoung.jpg?itok=0z26zuKB)
 
 Photo Credit
 
@@ -222,7 +222,7 @@ After birth, newborns may follow adults' scent trails to denning areas for hiber
 
 ## Habitat
 
-![A photo of a long striped snake moving toward cover in a pine forest with dense green understory vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-crho_habitat3.jpeg)
+![A photo of a long striped snake moving toward cover in a pine forest with dense green understory vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-crho_habitat3.jpeg?itok=M9GtJDJP)
 
 Photo Credit
 
@@ -326,7 +326,7 @@ Timber rattlesnakes are opportunistic carnivores, and northern and southern popu
 
 The timber rattlesnake diet consists primarily of small mammals and birds [7,12,18,27,40,58,61,78]. Less commonly taken prey include insects, lizards, toads, and small snakes [18,78]. A supply of drinking water is required [58].
 
-![A photo of a large striped rattlesnake in fallen leaves at the base of a tree, with a gray squirrel partly in its mouth.]({{ site.baseurl }}/assets/images/species-reviews/feis-crho_squirrel.jpg)
+![A photo of a large striped rattlesnake in fallen leaves at the base of a tree, with a gray squirrel partly in its mouth.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-crho_squirrel.jpg?itok=_5iDNNqk)
 
 Photo Credit
 

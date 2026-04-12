@@ -34,7 +34,7 @@ Taylor, Jane E. 2006. _Artemisia arctica_ , boreal sagebrush. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of boreal sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-artarc_plant.jpeg) Boreal sagebrush. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
+![Photo of boreal sagebrush.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-artarc_plant.jpeg) Boreal sagebrush. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Kallum McDonald, iNaturalist.org, no rights reserved.
 
@@ -159,7 +159,7 @@ Boreal sagebrush flowers from June to September [14]. Further information on sea
 
 ## Regeneration Processes
 
-![Photo of boreal sagebrush.]({{ site.baseurl }}/assets/images/species-reviews/feis-artarc_plant.jpeg)
+![Photo of boreal sagebrush.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artarc_plant.jpeg?itok=okf_REfo)
 
 Photo Credit
 

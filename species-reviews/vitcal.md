@@ -67,7 +67,7 @@ California wild grape is a conspicuous vine of riparian forests and woodlands. I
  * Terrestrial natural communities of California [10]
  * The vascular plant communities of California [28]
 
-![A photo of a hillside covered in a viney plant with relatively large, somewhat round leaves. A hillside in the background is dominated by intermittent shrubs and leafless trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-vitcal_dominant.jpeg)
+![A photo of a hillside covered in a viney plant with relatively large, somewhat round leaves. A hillside in the background is dominated by intermittent shrubs and leafless trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vitcal_dominant.jpeg?itok=yI6lBQvh)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Groundcover associates include Bermuda grass (_Cynodon dactylon_), holly fern (_
 
 California wild grape is a native, usually dioecious, deciduous liana. Stems are from 6.6 to 60 feet (2-20 m) long. When support such as trees or shrubs is available, California wild grape attaches to and climbs the support using branched tendrils located opposite its leaves. It has a sprawling and bushlike form when support is unavailable. California wild grape leaves are from 2.8 to 5.6 inches (7-14 cm) broad. The fruit is a pulpy berry. The seeds have a thick, hard testa; hard endosperm; and minute embryo [19,21,24].
 
-![A photo of a leafy vine with woody stems and blue-purple grape clusters hanging from stems periodically.]({{ site.baseurl }}/assets/images/species-reviews/feis-vitcal_hero.jpg)
+![A photo of a leafy vine with woody stems and blue-purple grape clusters hanging from stems periodically.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-vitcal_hero.jpg?itok=nwDUDhHx)
 
 Photo Credit
 

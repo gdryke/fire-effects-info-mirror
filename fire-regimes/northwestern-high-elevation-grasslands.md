@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northwestern high-elevation grassland commu
 
 ## Distribution
 
-![A map showing the distribution of northwestern high-elevation grassland communities in Oregon and Idaho.]({{ site.baseurl }}/assets/images/fire-regimes/northwestern-high-elevation-grasslands_feis-northwestern_high_elevation_grasslands_locator.jpg)
+![A map showing the distribution of northwestern high-elevation grassland communities in Oregon and Idaho.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northwestern_high_elevation_grasslands_locator.jpg?itok=u4_R7zHc)
 
 Photo Credit
 

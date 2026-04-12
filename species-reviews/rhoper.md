@@ -34,7 +34,7 @@ Coladonato, Milo. 1992. _Rhododendron periclymenoides,_ pink azalea. In: Fire Ef
 
 ## Image Gallery
 
-![Photo of flowering pink azalea.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhoper_plant.jpg) Pink azalea. _Photo by Lori B., iNaturalist.org, no rights reserved._
+![Photo of flowering pink azalea.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-rhoper_plant.jpg) Pink azalea. _Photo by Lori B., iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Lori B., iNaturalist.org, no rights reserved.
 

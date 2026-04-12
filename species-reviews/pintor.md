@@ -61,7 +61,7 @@ Torrey pine is the rarest pine in North America [9]. The natural distribution of
 
 ## Site Characteristics
 
-![A photo of a short, flat-topped pine cone growing on top of a cliff over the ocean. Rock, small dry shrubs, and some small prickly pear cacti grow around, but no other trees are visible. ]({{ site.baseurl }}/assets/images/species-reviews/feis-pintor_habitat.jpeg)
+![A photo of a short, flat-topped pine cone growing on top of a cliff over the ocean. Rock, small dry shrubs, and some small prickly pear cacti grow around, but no other trees are visible. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pintor_habitat.jpeg?itok=Fe4xaUEm)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Plant communities of southern California [42]. Some species commonly associated 
 
 ## Botanical Description
 
-![A photo of three large, round, open pine cones attached to a thin branch. long green needles and brown scaly branches surround the cones in the center.]({{ site.baseurl }}/assets/images/species-reviews/feis-pintor_cones.jpg)
+![A photo of three large, round, open pine cones attached to a thin branch. long green needles and brown scaly branches surround the cones in the center.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pintor_cones.jpg?itok=btHvhLN2)
 
 Photo Credit
 

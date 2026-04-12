@@ -70,7 +70,7 @@ Water oak occurs on the Southeastern Coastal Plain from southern New Jersey and 
 
 ## Site Characteristics
 
-![A photo of a tree with rounded, lobed leaves surrounded by palm-like plants and other lush vegetation. The tree has branches and leaves almost all the way to the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-quenig_habitat.jpg)
+![A photo of a tree with rounded, lobed leaves surrounded by palm-like plants and other lush vegetation. The tree has branches and leaves almost all the way to the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quenig_habitat.jpg?itok=sv0wUoO_)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Water oak occurs primarily in bottomland forests. The following published classi
 
 ## Botanical Description
 
-![A photo of a tree's green, round-lobed leaves. There is some other vegetation and bare ground in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-quenig_foliage.jpeg)
+![A photo of a tree's green, round-lobed leaves. There is some other vegetation and bare ground in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quenig_foliage.jpeg?itok=orMd1JQL)
 
 Photo Credit
 

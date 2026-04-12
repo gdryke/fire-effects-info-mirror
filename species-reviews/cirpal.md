@@ -36,7 +36,7 @@ Gucker, Corey L. 2009. _Cirsium palustre_ , marsh thistle. In: Fire Effects Info
 
 ## Taxonomy
 
-![Overhead, close-up photo of a purple thistle flower with many florets radiating out from a darker center.]({{ site.baseurl }}/assets/images/species-reviews/cirpal_feis-CIRPAL_Flower.jpg)
+![Overhead, close-up photo of a purple thistle flower with many florets radiating out from a darker center.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-CIRPAL_Flower.jpg?itok=7Kui3IA_)
 
 Photo Credit
 
@@ -70,7 +70,7 @@ Marsh thistle was reported in New England by 1902 and in the Great Lakes area by
 
 The range of marsh thistle in North America is "rapidly expanding". Marsh thistle populations in Europe occur almost as far north as the Arctic Circle, suggesting marsh thistle could grow and spread throughout the boreal forest regions of North America [17]. In Wisconsin and Michigan, the area occupied by and the abundance of marsh thistle have increased since its introduction and continue to increase [56]. Marsh thistle was first recorded in Michigan in 1934 and by 1956 was considered locally frequent and common in Michigan's Upper Peninsula and on islands in the Straits of Mackinac [78,79]. By 1959, marsh thistle spread to the Lower Peninsula, and it continues to spread south. "Dense, ungainly colonies" occupy miles of ditch banks in Michigan, and populations have spread into adjacent natural areas [79]. Although marsh thistle has occurred in British Columbia since the 1950s, its spread has been more recent. A "diminutive patch" of marsh thistle west of McBride, British Columbia, was reported in 1991, but marsh thistle had spread at least 130 miles (210 km) by early 2000. Spread occurred primarily along roadways and through river valleys [41]. For more on the potential impacts of marsh thistle persistence and spread, see Nonfire Management Considerations: Impacts and Control.
 
-![Photo of a tall, spiny plant emerging from the grasses along the edge of a lake.]({{ site.baseurl }}/assets/images/species-reviews/cirpal_feis-CIRPAL_WolePlant.jpg)
+![Photo of a tall, spiny plant emerging from the grasses along the edge of a lake.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-CIRPAL_WolePlant.jpg?itok=f4D3dvy-)
 
 Photo Credit
 
@@ -130,7 +130,7 @@ Marsh thistle flower heads also appear spiny [83]. Perfect disk florets occur in
 
 Marsh thistle produces achenes that measure between 2.5 and 3.5 mm and are attached to a feathery pappus of fine cottony hairs [17,19,37,83]. The pappus is typically less than 0.4 inch (1 cm) long [37], and achenes average 2 mg (Grime and others 1988 cited in [28]).
 
-![Photo of the lower stem of a spiny, herbaceous green plant with many spiny leaves.]({{ site.baseurl }}/assets/images/species-reviews/cirpal_feis-CIRPAL_LowerStem.jpg)
+![Photo of the lower stem of a spiny, herbaceous green plant with many spiny leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-CIRPAL_LowerStem.jpg?itok=AWDgC4eV)
 
 Photo Credit
 
@@ -138,7 +138,7 @@ Photo ©Steve Garske, Great Lakes Indian Fish & Wildlife Commission.
 
 Marsh thistle basal stem.
 
-![Close-up photo of the flowering head of a thistle plant, showing several pink flowers and and many fluffy white seeds.]({{ site.baseurl }}/assets/images/species-reviews/cirpal_feis-CIRPAL_FlowersSeedheads.jpg)
+![Close-up photo of the flowering head of a thistle plant, showing several pink flowers and and many fluffy white seeds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-CIRPAL_FlowersSeedheads.jpg?itok=VrqddAdZ)
 
 Photo Credit
 
@@ -406,7 +406,7 @@ Wildlife and livestock use or avoidance of marsh thistle was not discussed in th
 
 ## Impacts
 
-![Photo of an open area between forest stands with a dense patch of thistles amongst grasses and other herbaceous plants.]({{ site.baseurl }}/assets/images/species-reviews/cirpal_feis-CIRPAL_Infestation.jpg)
+![Photo of an open area between forest stands with a dense patch of thistles amongst grasses and other herbaceous plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-CIRPAL_Infestation.jpg?itok=eQOAl8RI)
 
 Photo Credit
 

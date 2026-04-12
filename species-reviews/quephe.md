@@ -89,7 +89,7 @@ Willow oak is commonly found in transitional communities between swamps and upla
 
 ## Botanical Description
 
-![A close up photo of a tree's light green, long, pointed leaves. The background is blurry with more of the same leaves, in dappled shade.]({{ site.baseurl }}/assets/images/species-reviews/feis-quephe_foliage.jpg)
+![A close up photo of a tree's light green, long, pointed leaves. The background is blurry with more of the same leaves, in dappled shade.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quephe_foliage.jpg?itok=pEPmreA9)
 
 Photo Credit
 
@@ -105,7 +105,7 @@ Willow oak is a large, deciduous, graceful tree with a straight, tall, slender t
 
 ## Seasonal Development
 
-![A photo of a large, broad tree with pale yellow-green foliage and small hanging flowers, growing in the open. There is another smaller tree next to it, and some low shrubs and grasses. The sky is blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-quephe_habitat.jpg)
+![A photo of a large, broad tree with pale yellow-green foliage and small hanging flowers, growing in the open. There is another smaller tree next to it, and some low shrubs and grasses. The sky is blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-quephe_habitat.jpg?itok=2xSM7phP)
 
 Photo Credit
 

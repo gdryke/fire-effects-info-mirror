@@ -44,7 +44,7 @@ The scientific name of fragrant sumac is _Rhus aromatica_ Ait. (Anacardiaceae) [
 
 Although most florae recognize 3 varieties of fragrant sumac listed above, a 4th variety, _R. a._ var. _illinoensis_(Greene) Rehd., is recognized by some authors [25,54].
 
-![A close-up photo of the leaves and fruits of fragrant sumac. Several leaves are visible with three leaflets, with the center leaflet larger than the others. A cluster of orange-red berries grows on a woody stem,]({{ site.baseurl }}/assets/images/species-reviews/feis-rhuaro_fruit.jpg)
+![A close-up photo of the leaves and fruits of fragrant sumac. Several leaves are visible with three leaflets, with the center leaflet larger than the others. A cluster of orange-red berries grows on a woody stem,](https://research.fs.usda.gov/sites/default/files/2025-12/feis-rhuaro_fruit.jpg)
 
 Photo Credit
 
@@ -52,7 +52,7 @@ Photo by Ray Aslin, Kansas Forest Service.
 
 Fruiting fragrant sumac.
 
-![A photo of a short, leafy, somewhat herbaceous shrub. Leaves are comprised of three leaflets, the center of which is larger than the other two. Several clusters of red berries are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhuaro_plant.jpg)
+![A photo of a short, leafy, somewhat herbaceous shrub. Leaves are comprised of three leaflets, the center of which is larger than the other two. Several clusters of red berries are visible.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-rhuaro_plant.jpg)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ aromatic sumac
 
 Plants database provides a distributional map of fragrant sumac and its infrataxa [79].
 
-![A photo of a brights green shrub growing with purple flowers and trees and shrubs just visible in one corner of the photo.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhuaro_habitat.jpg)
+![A photo of a brights green shrub growing with purple flowers and trees and shrubs just visible in one corner of the photo.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rhuaro_habitat.jpg?itok=zG5d-W26)
 
 Photo Credit
 
@@ -123,7 +123,7 @@ In addition to the forest communities discussed above, fragrant sumac occurs in 
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Several florae provide keys for identifying fragrant sumac [4,11,25,26,34,69].
 
-![A photo of a cluster of small, somewhat understated light yellow flowers growing at the end of a woody stem. A few early green leaves grow from the mostly bare stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhuaro_flowering.jpeg)
+![A photo of a cluster of small, somewhat understated light yellow flowers growing at the end of a woody stem. A few early green leaves grow from the mostly bare stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rhuaro_flowering.jpeg?itok=madW450v)
 
 Photo Credit
 
@@ -200,7 +200,7 @@ Perennating buds on roots and rhizomes are protected by soil and may allow fragr
  * Ground residual colonizer (on-site, initial community)
  * Secondary colonizer (on-site or off-site seed sources) [77]
 
-![A photo of green leaves on reddish-brown stems growing from the base of some charred branches on bare soil. The newest leaves are still small and reddish-green.]({{ site.baseurl }}/assets/images/species-reviews/feis-rhuaro_sprout.jpg)
+![A photo of green leaves on reddish-brown stems growing from the base of some charred branches on bare soil. The newest leaves are still small and reddish-green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rhuaro_sprout.jpg?itok=tOV5M2Bx)
 
 Photo Credit
 

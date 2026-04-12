@@ -61,7 +61,7 @@ Arizona cottontop is distributed from the southwestern United States to central 
 
 Arizona cottontop is found on plains and hillsides on open, well-drained sites [14,17]. Some of the diverse areas in which it occurs include mesas and rocky hills in Arizona [24], deep hardland range sites in Texas [5], and broad alluvial plains, fans, and river bottoms in the Chihuahuan and Sonoran deserts [10].
 
-[![Fuzzy reproductive spikes of a gras in the foreground, with golden grasses behind. A few tall, green trees are in the near background, with slopes and blue skies in the far background.]({{ site.baseurl }}/assets/images/species-reviews/feis-digcal_community.jpeg)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Arizona cottontop growing with other grasses in Santa Cruz County, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Fuzzy reproductive spikes of a gras in the foreground, with golden grasses behind. A few tall, green trees are in the near background, with slopes and blue skies in the far background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-digcal_community.jpeg?itok=OcN22Ahn)Photo Credit Photo by Sue Carnahan, iNaturalist (CC BY 4.0). Arizona cottontop growing with other grasses in Santa Cruz County, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 Arizona cottontop grows on a wide variety of soils, including clayey loam, sandy loam, and loose gravelly soils, as well as limestone ledges and porphyritic hills. However, it is more abundant and productive on clay, sand, or sandy-loam subsoils than on shallow, stony, or cobbly soils [8].
 
@@ -90,7 +90,7 @@ See the Appendix for a list of cover types and plant associations in which Arizo
 
 Arizona cottontop is a native, perennial, long-lived, warm-season bunchgrass [8]. It has slender, erect stems which are from 12 to 40 inches (30-100 cm) tall. The leaves are normally 3 to 5 inches (8-13 cm) long but may be up to 10 inches (25 cm) in length. They are 0.125 to 0.25 inches (2-6 mm) broad [14,20]. The inflorescence is a narrow, densely flowered panicle, usually 3 to 4.75 inches (8-12 cm) long [14]. Spikelets are normally borne in pairs on the rachis. The cottony seedhead is covered with long silky hairs [24], and the seeds are about 0.07 inches (1.7 mm) long. Arizona cottontop's root system is finely divided and branched. It is concentrated mostly in the upper 8 inches (20 cm) of soil, but in coarse-textured soils it extend down to about 40 inches (100 cm) [8].
 
-[![A grass with a few long, cylindrical, fluffy reproductive spikes grows on a red rock, with green trees and blue skies in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-digcal_habit.jpg)Photo Credit Photo by Elchanan Heller, iNaturalist (CC BY 4.0). Arizona cottontop growing near Saguaro National Park, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A grass with a few long, cylindrical, fluffy reproductive spikes grows on a red rock, with green trees and blue skies in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-digcal_habit.jpg?itok=vPn0dYy5)Photo Credit Photo by Elchanan Heller, iNaturalist (CC BY 4.0). Arizona cottontop growing near Saguaro National Park, Arizona.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 
@@ -100,7 +100,7 @@ Arizona cottontop is a native, perennial, long-lived, warm-season bunchgrass [8]
 
 Arizona cottontop is dormant during dry periods but utilizes both winter and summer precipitation. However, most herbage is produced during the summer growing season [8]. It responds quickly to spring and summer rains, making rapid growth [20], and also responds with rapid growth following winter rains [15]. Essentially all basal culms produced in any given year sprout during the spring growing period; summer growth on most basal culms is a continuation of growth on shoots that sprouted in spring [8]. Shoots are produced throughout the growing season. Inflorescences begin emerging 2 to 3 weeks after growth starts in the summer, and the topmost spikelets begin to fall within 5 to 8 days of full emergence. All seeds on a panicle have usually fallen within 7 to 8 days of first shatter. New panicles are produced as late in the fall as soil moisture is available [8]. Plants can set seed from July to November when conditions are favorable [14]. Germinable seed is therefore present whenever conditions are favorable for germination and establishment.
 
-![A close-up of a reproductive spike of a grass, with fuzzy seeds attached to a light green stem. Background is out of focus in warm orange and brown tones.]({{ site.baseurl }}/assets/images/species-reviews/feis-digcal_repro.jpg)
+![A close-up of a reproductive spike of a grass, with fuzzy seeds attached to a light green stem. Background is out of focus in warm orange and brown tones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-digcal_repro.jpg?itok=4thKLRVu)
 
 Photo Credit
 

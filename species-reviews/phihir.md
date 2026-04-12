@@ -58,7 +58,7 @@ Cumberland mockorange, streambank mockorange
 
 Hairy mockorange occurs in the southern Appalachian Mountains from Virginia south to Georgia and Alabama. A disjunct population occurs on the Ozark Plateau in Arkansas [4,6,8,19].
 
-![Photo of map distribution of hairy mockorange.]({{ site.baseurl }}/assets/images/species-reviews/feis-phihir_map.png)
+![Photo of map distribution of hairy mockorange.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-phihir_map.png?itok=XNg4Aebo)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Hairy mockorange occurs in deciduous forests [5,7]. Information concerning veget
 
 Hairy mockorange is a native, deciduous shrub that grows 3 to 6 feet (1-2 m) tall. The spreading branches twist around each other and arch to the ground. Branches more than 2 years old have exfoliating and shredding bark. The fruit is a four-valved dehiscent capsule. The seeds are 0.04 inch (1 mm) long [7,16].
 
-![Photo of the stems and leaves of hairy mockorange showing white hairs, particularly the undersides of the leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-phihir_leaf.jpg)
+![Photo of the stems and leaves of hairy mockorange showing white hairs, particularly the undersides of the leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-phihir_leaf.jpg?itok=J0nN8nNd)
 
 Photo Credit
 

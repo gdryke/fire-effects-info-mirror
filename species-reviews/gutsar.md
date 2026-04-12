@@ -64,7 +64,7 @@ Broom snakeweed grows from Saskatchewan and Alberta through the Rocky Mountains 
  * Canada: AB, MB, SK
  * Mexico
 
-![Photo of flowering broom snakeweed.]({{ site.baseurl }}/assets/images/species-reviews/feis-gutsar_hero.jpg)
+![Photo of flowering broom snakeweed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-gutsar_hero.jpg?itok=znSp9tZE)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Broom snakeweed is a common constituent of many early seral sagebrush (Artemisia
 
 ## Botanical and Ecological Characteristics
 
-![photo of flowering broom snakeweed.]({{ site.baseurl }}/assets/images/species-reviews/feis-gutsar_card.jpg)
+![photo of flowering broom snakeweed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-gutsar_card.jpg?itok=f6sNmJDy)
 
 Photo Credit
 

@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South-central mixed hardwood communities ha
 
 ## Distribution
 
-![A map showing the distribution of South-central mixed hardwood communities in the southern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/south-central-mixed-hardwoods_feis-south_central_mixed_hardwoods_locator.jpg)
+![A map showing the distribution of South-central mixed hardwood communities in the southern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-south_central_mixed_hardwoods_locator.jpg?itok=JseDvT2w)
 
 Photo Credit
 

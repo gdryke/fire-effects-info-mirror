@@ -74,7 +74,7 @@ Indiana bats begin to arrive at hibernacula (caves and mines in which they spend
 
 Spring migration can begin as early as late March, but most Indiana bats do not leave their winter hibernacula until late April to early May [2]. Females emerge from hibernacula first, usually between late March and early May. Most males do not begin to emerge until mid- to late April [58,93]. Females arrive at summer locations beginning in mid-April. Females form summer nursery colonies of up to 100 adult females during summer [47,93]. Males typically roost alone or in small bachelor groups during the summer. Many males spend the summer near their winter hibernacula, while others migrate to other areas, similar to areas used by females [93].
 
-![A photo of a brown bat clinging to the ceiling of a cave, with multiple other bats clustered near it.]({{ site.baseurl }}/assets/images/species-reviews/feis-myso_individual.jpg)
+![A photo of a brown bat clinging to the ceiling of a cave, with multiple other bats clustered near it.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-myso_individual.jpg?itok=4WF_GjDt)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ Roost proximity to water is highly variable and therefore probably not as import
 
 Studies on the foraging needs for Indiana bats are inconclusive. Callahan and others [17] reported that bats foraged in a landscape composed of pasture, corn fields, woodlots, and a strip of riparian woodland, although Indiana bat activity was not necessarily recorded in all these habitat types. Murray and Kurta [67] made some qualitative assessments of Indiana bat foraging habitat in Michigan: the majority of bats were found foraging in forested wetlands and other woodlands, while 1 bat foraged in an area around a small lake and another in an area with 50% woodland and 50% open fields. Another Indiana bat foraged over a river, while 10 others foraged in areas greater than 0.6 mile (1 km) from the same river [67]. Bat activity was centered around small canopy gaps or closed forest canopy along small 2nd-order streams in West Virginia [33]. Indiana bats foraged under the dense oak-hickory forest canopy along ridges and hillsides in eastern Missouri, but rarely over streams [57]. Indiana bats have been detected foraging in upland forest [11,23,47,93] in addition to riparian areas such as floodplain forest edges [11,23,44,55,69,72,93]. Romme and others [78] also suggested that foraging habitat would ideally have 50% to 70% canopy closure. Indiana bats rarely utilize open agricultural fields and pastures, upland hedgerows, open water, and deforested creeks for traveling or foraging [36,44,67]. Boyles and others [9] concluded that most activity occurred under the canopy as opposed to above the canopy.
 
-![A photo of a cave with large clusters of bats clinging to the ceiling of the cave, and many more bats flying.]({{ site.baseurl }}/assets/images/species-reviews/feis-myso_flying.jpg)
+![A photo of a cave with large clusters of bats clinging to the ceiling of the cave, and many more bats flying.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-myso_flying.jpg?itok=5PfRHWfF)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Archer, Amy J. 2000. _Pinus serotina_ , pond pine. In: Fire Effects Information 
 
 ## Introduction
 
-![A photo of somewhat scraggly, relatively dense pines growing in the near distance, with tall, dry grasses in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinser_stand2.jpg)
+![A photo of somewhat scraggly, relatively dense pines growing in the near distance, with tall, dry grasses in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-pinser_stand2.jpg?itok=fdIAM_Na)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ Pond pine is distributed from Cape May, New Jersey, southward through the coasta
 
 Pond pine is found on a variety of sites in the southeastern United States. Pond pine occupies the wettest sites within the wet pine type. It is found in swamps, pond borders, and pocosins, characterized by undrained peat soils and/or wet, sandy flats. Pond pine grows extensively in the broad, poorly drained interstream areas of peaty soils in the lower coastal plains of North Carolina. Further south, it is found on wet pine flatwoods (pine forests on poorly drained soils) and savannas of the lower coastal marine terraces and in bays and ponds throughout the coastal plain [25].
 
-![A photo of a stand of straight, narrow trunks of somewhat dense pines with relatively short, sparse branches. A dry understory is dominated by low grasses and forbs.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinser_stand.jpg)
+![A photo of a stand of straight, narrow trunks of somewhat dense pines with relatively short, sparse branches. A dry understory is dominated by low grasses and forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-pinser_stand.jpg?itok=hwwJA6Qv)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ References describing pond pine as a community or habitat dominant or subdominan
 
 ## Botanical Description
 
-![A photo of a mature pine slightly in front of densely growing trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinser_plant.jpeg)
+![A photo of a mature pine slightly in front of densely growing trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-pinser_plant.jpeg?itok=DoT84wrI)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ The minimum seed-bearing age of pond pine is between 4 and 10 years; however, co
 
 The specific epithet of pond pine, serotina, means "late" and refers to the delayed opening of cones. Cones often persist for 2 to 8 years, giving the tree the appearance of being a prolific seed producer [8,14]. All pond pine cones are probably closed when they first mature [79]. Viability does not decrease in cones that remain closed for as long as 3 years [8]. Cones older than 5 years may open individually following weathering and insect depredations; sound seed may be sparse in cones more than 5 years old [79]. Seed is released from older, open cones of pond pine during 2 seasonal periods: April through September and October through January [8,16]. Regeneration of pond pine is hampered by 2 problems under average conditions. First, serotinous pond pine cones often require heat to open the scaled cones, and 2nd, continual moistness of the organic soil provides an excellent growth medium for intense competitors such as other trees, evergreen brush, and switchcane (_Arundinaria gigantea_ ssp. _tecta_) [16].
 
-![A photo of a cone with short spines and no visible openings growing from a branch with pine needles visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinser_cone.jpg)
+![A photo of a cone with short spines and no visible openings growing from a branch with pine needles visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-pinser_cone.jpg?itok=C0sF2WKy)
 
 Photo Credit
 

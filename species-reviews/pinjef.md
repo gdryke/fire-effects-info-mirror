@@ -34,7 +34,7 @@ Gucker, Corey L. 2007. _Pinus jeffreyi_ , Jeffrey pine. In: Fire Effects Informa
 
 ## Introduction
 
-![A photo of tall, straight tree trunks in the foreground, with few low branches. A hill rises in the near distance and is covered in tall, straight conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinjef_stand.jpg)
+![A photo of tall, straight tree trunks in the foreground, with few low branches. A hill rises in the near distance and is covered in tall, straight conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinjef_stand.jpg?itok=5K51qcTY)
 
 Photo Credit
 
@@ -188,7 +188,7 @@ This description provides characteristics that may be relevant to fire ecology, 
 
 Jeffrey pine is a large, slow-growing, long-lived conifer [63,133]. Trees often live 400 or 500 years. In Jeffrey pine/huckleberry oak vegetation in central Sierra Nevada, the oldest Jeffrey pine tree was an estimated 631 years old [133]. Jeffrey pine may reach 200 feet (60 m) tall [69,112], and diameters of up to 8.2 feet (2.5 m) are reported [32]. Crowns are rounded [54] or long and symmetrical [111].
 
-![A photo of a tree with a gnarled trunk growing on a bedrock slab, with no branches to the left side of the photo and several branches extending towards the right side of the photo. Snow-capped peaks are visible in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinjef_wind.jpg)
+![A photo of a tree with a gnarled trunk growing on a bedrock slab, with no branches to the left side of the photo and several branches extending towards the right side of the photo. Snow-capped peaks are visible in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinjef_wind.jpg?itok=qMXvCF0h)
 
 Photo Credit
 
@@ -278,7 +278,7 @@ Percent germination decreased with seed size, which related to cone size (see Se
 
 Emergence is typically more successful when seeds are buried in caches than when unburied. A multitude of experiments have investigated the fate of seeds from caches in western Nevada. When seeds were buried to mimic yellow-pine chipmunks caches and protected from small mammals, 55.2% of buried seed emerged. Just 1 of 100 seeds left on the soil surface produced seedlings. Burial by ant activity likely aided germination of the seed on the soil surface [189].
 
-![A photo of a cluster of about six pine seedlings emerging from seeds. Each seedling has a short stem and a single tuft of needles. The tips of the needles of each seedling are still emerging from the seed.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinjef_seedlings.jpg)
+![A photo of a cluster of about six pine seedlings emerging from seeds. Each seedling has a short stem and a single tuft of needles. The tips of the needles of each seedling are still emerging from the seed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinjef_seedlings.jpg?itok=g-lF33AW)
 
 Photo Credit
 
@@ -393,7 +393,7 @@ Low prefire "vigor", small crowns| None-light| ≥60| ≥15
 
 Jeffrey pine resists fire kill through a variety of structural and physiological adaptations. Rapid taproot growth and early development of insulating bark offer protection to Jeffrey pine seedlings and young trees [61]. Jeffrey pine is considered moderately fire resistant as a sapling (2-4 inch (5-10 cm) DBH) and highly resistant as an adult [99]. Thick bark, protected terminal buds, self-pruning branches, open crowns, and high moisture content of needles minimize Jeffrey pine fire damage [61]. There is some speculation that deep bark fissures may be a fire adaptation [197]. Jeffrey pine's ability to shed burning bark scales as a means to reduce fire damage has received mention in the literature [81], and firefighters have reported observing fires extinguished by shedding bark scales [197]. Bark shedding processes have not been tested experimentally [81].
 
-![A photo of the base of a large conifer with no branches near its base.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinjef_bark.jpg)
+![A photo of the base of a large conifer with no branches near its base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinjef_bark.jpg?itok=OYsYgPx7)
 
 Photo Credit
 
@@ -421,7 +421,7 @@ Scorched Jeffrey pine on burned sites may regrow needles if terminal buds are no
 
 Throughout California, survival of Jeffrey pine decreased with increased fire severity and fuel loadings. Low-severity fires typically produced low Jeffrey pine mortality. All 4 Jeffrey pine trees monitored after a severe fire in Cuyamaca Rancho State Park, California, died within 1 year of the fire. The study area had not burned for 95 years or more, and forests had more white fir and incense-cedar and greater stem density than they did before fire exclusion [159]. Just a single Jeffrey pine tree died after an October prescribed fire on Spooner Summit in Lake Tahoe Basin. Prefire and postfire fuel loadings were 5.1 and 4.9 tons/acre, respectively. Of the 245 Jeffrey pine trees marked before the fire, 26 suffered complete crown scorch but 1 year after fire had green growth. However, researchers predicted some additional postfire mortality from insect attacks and drought. _Dendroctonus valens_ and _Ips pini_ together attacked 31% of burned Jeffrey pine trees, and 53% and 12% of Jeffrey pine trees were attacked by _D. valens_ and _I. pini_ alone, respectively [39]. Less than 3% of the total canopy was killed in the Starr King Fire, which burned south of Yosemite Valley in mixed Jeffrey pine, red fir, and western juniper vegetation. The fire burned from 4 August to 3 October; fire intensity was very low in the first 10 days. Between 29 August and 9 September, fire size nearly doubled. Fireline intensity estimated beneath Jeffrey pine ranged from 29.49 to 539.48 BTU/s/foot. Downed Jeffrey pine logs and snags burned "intensely" [185].
 
-![A photo of a conifer-dominated hillside, with sparse conifers in a field in the foreground and rocky outcrop just behind. The slope above the rocky outcrop is covered more densely with trees. About half of the trees in the foreground have been scorched and a patch of trees was entirely charred on the hillside behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-pinjef_donnell.jpg)
+![A photo of a conifer-dominated hillside, with sparse conifers in a field in the foreground and rocky outcrop just behind. The slope above the rocky outcrop is covered more densely with trees. About half of the trees in the foreground have been scorched and a patch of trees was entirely charred on the hillside behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pinjef_donnell.jpg?itok=Vvmkg6C9)
 
 Photo Credit
 

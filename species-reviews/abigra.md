@@ -40,7 +40,7 @@ The scientific name of grand fir is _Abies grandis_ (Dougl.) Lindl. (Pinaceae) [
 
 Grand fir hybridizes with white fir (_A. concolor_) [116,45]. A broad zone of intergraded grand × white fir populations occur from northeastern Washington and Oregon south to northern California and east to west-central Idaho [174].
 
-![A photo of a medium-sized conifer with the yellow leaves of deciduous trees to either side and a larger conifer growing behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-abigra_habitat.jpg)
+![A photo of a medium-sized conifer with the yellow leaves of deciduous trees to either side and a larger conifer growing behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abigra_habitat.jpg?itok=Lnf5cy5K)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ In Montana, the grand fir habitat type is often bound by Rocky Mountain Douglas-
 
 Grand fir occurs on moist to dry sites in the Cascade Range. Overstory associates on moist sites may include western hemlock, western redcedar, Pacific silver fir (_Abies amabilis_), and Sitka spruce (_Picea sitchensis_)[46]. Mid- and understories are diverse and dense on moist sites and commonly include Pacific yew (_Taxus brevifolia_), red alder (_Alnus rubra_), Pacific dogwood (_Cornus nuttallii_), redstem ceanothus (_Ceanothus sanguineus_), shinyleaf ceanothus (_C. velutinus_), thimbleberry (_Rubus parviflorus_), huckleberries (_Vaccinium_ spp.), pachistima, queencup beadlily, and/or vanillaleaf (_Achlys triphylla_). Hot, dry sites are usually open and less diverse, with Pacific ponderosa pine, Rocky Mountain Douglas-fir and western white pine (_Pinus monticola_) as common overstory associates. Understories are typically grassy and dominated by pinegrass (_Calamagrostis rubescens_) and elk sedge (_Carex geyeri_) [33,115,181].
 
-![A photo of the bases of large conifers, with thick, furrowed bark, and few branches reaching near the ground. Ground cover is relatively sparse.]({{ site.baseurl }}/assets/images/species-reviews/feis-abigra_oldgrowth.jpg)
+![A photo of the bases of large conifers, with thick, furrowed bark, and few branches reaching near the ground. Ground cover is relatively sparse.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abigra_oldgrowth.jpg?itok=I5J2AXXl)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ In the Willamette Valley of Oregon, associates of grand fir in coastal Douglas-f
 
 In southwestern Oregon and northwestern California, grand fir is common in mixed evergreen and conifer forests [102], where it is associated with Shasta red fir (_Abies magnifica_ var. _shastensis_), noble fir (_A. procera_), redwood (_Sequoia sempervirens_), western hemlock, Sitka spruce, and coastal Douglas-fir [2,102]. Mid-story and shrub associates in redwood forest of Redwood National Park, California, include tanoak (_Lithocarpus densiflorus_), Pacific madrone, evergreen huckleberry (_Vaccinium ovatum_), red huckleberry (_V. parvifolium_), and Pursh's buckthorn (_Frangula purshiana_). Commonly associated ferns and herbs include western sword fern (_Polystichum munitum_), deer fern (_Blechnum spicant_), Oregon oxalis (_Oxalis oregana_), and salal (_Gaultheria shallon_) [125].
 
-![A photo of tall conifers behind deciduous trees, with blue skies behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-abigra_trees.jpeg)
+![A photo of tall conifers behind deciduous trees, with blue skies behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abigra_trees.jpeg?itok=yA0_Cr9K)
 
 Photo Credit
 
@@ -196,7 +196,7 @@ Cones open| 30 August| 9 September| 11 October
 
 Cone and seed production begins at 20 to 50 years of age, and cone productivity increases with age [54,174,183]. In a good year, an average grand fir tree produces over 40 cones [71]. A year of heavy cone production is typically followed by several years of light production [73,158,174,185,179]. Pollen and ovulate cones begin development during the summer and go through a period of winter dormancy before pollination, fertilization, and seed production the 2nd spring and summer [165]. Hard frosts may inhibit cone development [71].
 
-![A photo of a cluster of green cones of a confier growing from a reddish twig with green needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-abigra_cones.jpg)
+![A photo of a cluster of green cones of a confier growing from a reddish twig with green needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abigra_cones.jpg?itok=pjkvyYwA)
 
 Photo Credit
 
@@ -272,7 +272,7 @@ In northeastern Oregon, 3 wildfire sites were selected to study fire's effects o
 
 Fire may aid grand fir regeneration on most sites, but grand fir may regenerate poorly after fire on south-facing slopes or on dry sites [58,98]. In a grand fir/pachistima habitat in the Coeur d'Alene River drainage of northern Idaho, grand fir established readily on unburned sites following clearcutting, but required shade for regeneration on clearcut and burned sites [195].
 
-![A photo of tall conifers wreathed in orange flames. Flames are consistent across the ground and several trunk burn in the midground, while two as-of-yet-unburned trees a silhouetted in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-abigra_rxfire.jpg)
+![A photo of tall conifers wreathed in orange flames. Flames are consistent across the ground and several trunk burn in the midground, while two as-of-yet-unburned trees a silhouetted in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-abigra_rxfire.jpg?itok=-ssv1Org)
 
 Photo Credit
 

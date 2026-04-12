@@ -58,7 +58,7 @@ Pinemat manzanita is distributed from the Cascade Range in Washington south thro
 
 ## Site Characteristics
 
-![Photo of flowering pinemat manzanita.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcnev_plant.jpeg)
+![Photo of flowering pinemat manzanita.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcnev_plant.jpeg?itok=7PtdKmE7)
 
 Photo Credit
 

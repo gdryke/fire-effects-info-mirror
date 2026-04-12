@@ -52,7 +52,7 @@ Wright silktassel, silktassel, quinine-bush, coffeberry-bush, coffee berry, bear
 
 Wright's silktassel occurs in southern and central Arizona, southern New Mexico, the Trans-Pecos region of Texas, and northern Mexico [13].
 
-![A map of the southwestern U.S. with counties in Arizona, New Mexico, and Texas highlighted in green where Wright's silktassel occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-garwri_map.jpg)
+![A map of the southwestern U.S. with counties in Arizona, New Mexico, and Texas highlighted in green where Wright's silktassel occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-garwri_map.jpg?itok=LSxUEGS9)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ Arizona: Rincon Mountains| 4,300 to 7,200 feet (1,311-2,195 m)
  
 ## Plant Communities
 
-![A photo of a large, bushy shrub growing on the edge of a trail in a dry, desert environment.]({{ site.baseurl }}/assets/images/species-reviews/feis-garwri_habitat.jpeg)
+![A photo of a large, bushy shrub growing on the edge of a trail in a dry, desert environment.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-garwri_habitat.jpeg?itok=g-uf3LXc)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Associated shrubs in Arizona chaparral include turbinella oak, Emory oak (_Querc
 
 ## Botanical Description
 
-![A photo of a shrub with pointed leaves and many purply-red round fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-garwri_fruit.jpg)
+![A photo of a shrub with pointed leaves and many purply-red round fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-garwri_fruit.jpg?itok=TGnT4d9T)
 
 Photo Credit
 
@@ -133,7 +133,7 @@ Wright's silktassel is a common component of interior chaparral, a vegetation ty
 
 Fire generally top-kills Wright's silktassel. Wildfires in Arizona chaparral are often severe, defoliating all aboveground vegetation and leaving only charred stems and a layer of ash over mineral soil [2,22]. Prescribed burning in September in Arizona chaparral 6 weeks following shrub desiccation with herbicides resulted in 88.5 to 99.0 percent shrub top-kill. Ninety five percent of Wright's silktassel shrubs were top-killed in these fall burns [23].
 
-![A photo of a burned hillside with clumps of green vegetation growing at the base of blackened, burned trunks.]({{ site.baseurl }}/assets/images/species-reviews/feis-garwri_sprouting.jpg)
+![A photo of a burned hillside with clumps of green vegetation growing at the base of blackened, burned trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-garwri_sprouting.jpg?itok=S0Nw5soz)
 
 Photo Credit
 

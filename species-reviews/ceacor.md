@@ -34,7 +34,7 @@ Reeves, Sonja L. 2006. _Ceanothus cordulatus_ , whitethorn ceanothus. In: Fire E
 
 ## Introduction
 
-![A photo of a mounded, gray-green shrub growing in an open forest floor, with trunks of conifers visible behind, and bare ground and tree litter around the shrub.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceacor_plant.jpg)
+![A photo of a mounded, gray-green shrub growing in an open forest floor, with trunks of conifers visible behind, and bare ground and tree litter around the shrub.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ceacor_plant.jpg?itok=NwJYD69C)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ mountain whitethorn, snow bush
 
 Whitethorn ceanothus is a characteristic shrub species found in high-elevation brushfields in Baja, California, and mountains of southern California, north to southwest Oregon, and east to the western edge of Nevada [23,27,36,56]. Plants Database provides a distributional map of whitethorn ceanothus.
 
-![A photo of a long shrub with dense clusters of white flowers growing along a riverbank with a scraggly, old conifer. On the other wise of the river, conifers grow on gray, slabby rocks.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceacor_habitat2.jpg)
+![A photo of a long shrub with dense clusters of white flowers growing along a riverbank with a scraggly, old conifer. On the other wise of the river, conifers grow on gray, slabby rocks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ceacor_habitat2.jpg?itok=tUQ74usG)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ Whitethorn ceanothus is known to occur between 2,100 to 11,000 feet (650-3,350 m
 
 ## Plant Communities
 
-![A photo of widely spaced conifers growing on a slope with a few scattered boulders. Whitethorn ceanothus provides much of the ground cover as a spreading shrub, with patches of bare ground and litter, as well as a few taller shrubs interspersed.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceacor_habitat.jpg)
+![A photo of widely spaced conifers growing on a slope with a few scattered boulders. Whitethorn ceanothus provides much of the ground cover as a spreading shrub, with patches of bare ground and litter, as well as a few taller shrubs interspersed.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ceacor_habitat.jpg?itok=HM3TlIR8)
 
 Photo Credit
 
@@ -102,7 +102,7 @@ Common understory associates of whitethorn ceanothus include: huckleberry oak (_
 
 This description provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available [25,47,52,74].
 
-![A photo of the end of the branch of a shrub, with clusters of numerous white flowers on twigs with some oval-shaped, shiny, green leaves along twigs.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceacor_flowering.jpg)
+![A photo of the end of the branch of a shrub, with clusters of numerous white flowers on twigs with some oval-shaped, shiny, green leaves along twigs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ceacor_flowering.jpg?itok=gdv_ZdMw)
 
 Photo Credit
 
@@ -191,7 +191,7 @@ Whitethorn ceanothus is highly dependent on fire [11,14]. After fire it regenera
 
 ## Plant Response to Fire
 
-![A photo of a trail winding through charred trees trunks with relatively dense understory growth by a gray-green shrub, with some brighter green, taller shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceacor_postfire.jpg)
+![A photo of a trail winding through charred trees trunks with relatively dense understory growth by a gray-green shrub, with some brighter green, taller shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ceacor_postfire.jpg?itok=TjwIq4DF)
 
 Photo Credit
 
@@ -271,7 +271,7 @@ No information is available on this topic.
 
 ## Other Management Considerations
 
-![A photo of thorny shrubs growing so densely that individuals cannot be distinguished. Green leaves grow on narrow stems, and charred tree trunks stand in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceacor_brushfield.jpg)
+![A photo of thorny shrubs growing so densely that individuals cannot be distinguished. Green leaves grow on narrow stems, and charred tree trunks stand in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-ceacor_brushfield.jpg?itok=dmxZ-6L0)
 
 Photo Credit
 

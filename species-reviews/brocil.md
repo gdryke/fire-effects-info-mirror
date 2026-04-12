@@ -94,7 +94,7 @@ Fringed brome occurs in a wide variety of habitat types including pinyon-juniper
 
 Fringed brome occurs in coniferous forest, in both climax and seral communities. A Douglas-fir/fringed brome habitat type has been described for northern New Mexico and northern Arizona [1,20,38]. Fringed brome is a member of the single-leaf pinyon-Utah juniper (_Pinus monophylla-J. osteosperma_) association of northern Arizona [13]. Fringed brome is a dominant understory species in subalpine fir, lodgepole pine, white fir (_Abies concolor_), and blue spruce (_Picea pungens_) habitat types of Arizona and New Mexico [1,2,20,43]. It is a common understory species in subalpine fir and Engelmann spruce (_P. engelmannii_) habitat types of Idaho and western Wyoming [11].
 
-[![A reproductive grass with a loose, pendulous panicle. Shrubs and conifers cover mountains behind below cloudy skies.]({{ site.baseurl }}/assets/images/species-reviews/feis-brocil_community.jpg)Photo Credit Photo by Susan Fawcett, iNaturalist (CC BY-NC 4.0). Fringed brome growing in a coniferous forest in Colorado.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A reproductive grass with a loose, pendulous panicle. Shrubs and conifers cover mountains behind below cloudy skies.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brocil_community.jpg?itok=cTAnxyFW)Photo Credit Photo by Susan Fawcett, iNaturalist (CC BY-NC 4.0). Fringed brome growing in a coniferous forest in Colorado.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Fringed brome also occurs in a number of other communities. It is found in seral aspen community types, including the aspen/fringed brome community typed described for Utah [48] and aspen-dominated community types in Wyoming, Colorado, and New Mexico [45]. Fringed brome is a member of the sedge-goldenrod (_Carex_ spp.-_Solidago_ spp.) wet prairie community in Michigan [33]. It also occurs in peatlands of north-central Minnesota in minerotrophic fens [60].
 
@@ -118,7 +118,7 @@ Species not previously mentioned but commonly associated with fringed brome in U
 
 Fringed brome is a nonrhizomatous, native perennial that is generally tufted [21,24,27]. Culms are slender, usually 1.7 to 4 feet (0.5-1.2 m) tall, but up to 5.2 feet (1.6 m) tall in the Great Plains [24,59]. The blades are flat, 0.12 to 0.6 inch (3-15 mm) wide and 6 to 10 inches (15-25 cm) long [25,59]. The panicle is narrowly elongate, 2.8 to 7.2 inches (7-18 cm) long with branches ascending to drooping [24,46]. Fringed brome has a well-developed root system [25].
 
-[![A photo of a drooping, grayish gold panicle of a grass. A forest with a pond or creek is in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-brocil_reproduction.jpg)Photo Credit Photo by Derek, iNaturalist (CC BY 4.0). Drooping panicles of fringed brome.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a drooping, grayish gold panicle of a grass. A forest with a pond or creek is in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-brocil_reproduction.jpg?itok=jJlePYJr)Photo Credit Photo by Derek, iNaturalist (CC BY 4.0). Drooping panicles of fringed brome.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

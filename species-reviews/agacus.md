@@ -34,7 +34,7 @@ Matthews, Robin F. 1993. _Agastache cusickii_ , Cusick's giant hyssop. In: Fire 
 
 ## Image Gallery
 
-![A plant with white flowering spikes grows in a screefield. A mountain dominates the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-agacus_plant.jpg) A Cusick's giant hyssop plant. _iNaturalist photo by Jessica Irwin._
+![A plant with white flowering spikes grows in a screefield. A mountain dominates the background.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-agacus_plant.jpg) A Cusick's giant hyssop plant. _iNaturalist photo by Jessica Irwin._
 
 Photo Credit: iNaturalist photo by Jessica Irwin.
 
@@ -79,7 +79,7 @@ Mid- to high-elevation sites in the Santa Rosa and Toiyabe ranges in Nevada are 
 
 Cusick's giant hyssop is a dwarf perennial forb, usually 4 to 8 inches (10-20 cm) tall with a spiked inflorescence. Numerous simple or branched stems arise from a woody taproot and branching caudex. Leaves are mostly 0.4 to 1.0 inch (1-2.5 cm) long and are finely puberulent. The fruits are nutlets [3,4,5].
 
-[![A plant with white flowering spikes grows in a screefield. A mountain dominates the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-agacus_plant.jpg)Photo Credit iNaturalist photo by Jessica Irwin. A Cusick's giant hyssop plant.](<https://www.inaturalist.org/observations/242329374>)
+[![A plant with white flowering spikes grows in a screefield. A mountain dominates the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agacus_plant.jpg?itok=h5TNc9PD)Photo Credit iNaturalist photo by Jessica Irwin. A Cusick's giant hyssop plant.](<https://www.inaturalist.org/observations/242329374>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

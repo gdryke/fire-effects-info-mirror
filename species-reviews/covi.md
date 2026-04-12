@@ -44,7 +44,7 @@ Generally, fire management for northern bobwhites is aimed at creating and maint
 
 ## Introduction
 
-![A pair of northern bobwhites in a field of purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/covi_feis-colinus_virginianus_usfws.jpg)
+![A pair of northern bobwhites in a field of purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-colinus_virginianus_usfws.jpg?itok=p-LE6HYg)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Northern bobwhites are nonmigratory, year-round resident birds that occur in the
 
 For details on the distribution of specific subspecies, see Brennan et al. (2020) [15].
 
-![The native, year-round distribution of northern bobwhite is shown in purple. Its distribution in the United States extends from Wyoming east to Massachusetts south to Florida and west to New Mexico and Colorado. In Canada, it occurs in Ontario. It also occurs in Mexico and Central America.]({{ site.baseurl }}/assets/images/species-reviews/feis-covi_distribution.jpg)
+![The native, year-round distribution of northern bobwhite is shown in purple. Its distribution in the United States extends from Wyoming east to Massachusetts south to Florida and west to New Mexico and Colorado. In Canada, it occurs in Ontario. It also occurs in Mexico and Central America.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-covi_distribution.jpg?itok=VnWJsrg6)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Northern bobwhites tend to avoid areas with dense tree and shrub cover [15,53,17
 
 This review includes information covering many aspects of the northern bobwhite’s life history and focuses on those most relevant to fire. Much of the information on the general biology of northern bobwhites comes from literature reviews by Brennan et al. (2020) [15] and NatureServe (2023) [214]. Hernandez et al. (2007) provide a review of northern bobwhite ecology in Texas [114], Valdez et al. (2019) provide a review of northern bobwhite ecology in Mexico [308], and Environment and Climate Change Canada (2018) provides a review of northern bobwhite ecology in Canada [71].
 
-![A pair of northern bobwhites in a grassy field.]({{ site.baseurl }}/assets/images/species-reviews/feis-covi_malefemalebobwhite.jpg)
+![A pair of northern bobwhites in a grassy field.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-covi_malefemalebobwhite.jpg?itok=hUa4UTfi)
 
 Photo Credit
 
@@ -222,7 +222,7 @@ In the Midwest, egg laying normally occurs from April or May to August [39,215].
 
 In Ontario, nests with eggs have been found from late May through mid-September [44].
 
-![A northern bobwhite nest full of eggs built on the ground with pine needles.]({{ site.baseurl }}/assets/images/species-reviews/feis-covi_nest.jpg)
+![A northern bobwhite nest full of eggs built on the ground with pine needles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-covi_nest.jpg?itok=jC8c0_V1)
 
 Photo Credit
 
@@ -302,7 +302,7 @@ Northern bobwhites forage on the ground, scratching lightly through scattered li
 
 Northern bobwhites are relatively weak scratchers and cannot forage where the substrate is comprised of dense (>5 cm deep) litter or vegetation, so bare ground and sparse litter that can be moved easily are important components of high-quality foraging habitats [84,129,150,282,308]. Northern bobwhites also require sparse vegetation cover below 0.2 m that is sufficiently easy for the birds to walk through, and some understory protective cover above the height of a northern bobwhite (from about 0.2 to 1.0 above ground) [15,65,164,282]. Diets appear more diverse on sites with more bare ground and greater mobility [59]. Fire reduces litter and vegetation and increases bare ground, which is beneficial for northern bobwhites in some areas [59,129,150]. For example, on reclaimed surface mines in West Virginia, foraging rates of ≤3-week-old juveniles in two broods were highest in burned plots and lowest in unburned plots. The highest foraging rate for one of the broods was obtained on a burned plot where vegetation averaged 14.8 cm tall, while lowest foraging rates were recorded on unburned plots where vegetation height averaged 28.7 cm and 59.6 cm, far out of reach of the birds [19] (see Fire Effects on Food). Snow cover restricts northern bobwhite movements, and in areas with snow, northern bobwhites seek snow-free patches for foraging, usually in and around woody vegetation [15,71].
 
-![A northern bobwhite sitting on a nest underneath a pricklypear.]({{ site.baseurl }}/assets/images/species-reviews/feis-covi_nestingsite.jpg)
+![A northern bobwhite sitting on a nest underneath a pricklypear.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-covi_nestingsite.jpg?itok=oWDy28d4)
 
 Photo Credit
 
@@ -784,7 +784,7 @@ The masked bobwhite is a critically imperiled subspecies in Arizona [214]. See t
 
 Information on state-level protection status of animals in the United States and Canada is available at NatureServe, although recent changes in status may not be included.
 
-![The conservation status of northern bobwhites in the United States and Canada. Dark grey indicates that it is presumed extirpated in two states. Red indicates it is critically imperiled in four states and one province. Orange indicates it is imperiled in two states. Yellow indicates it is vulnerable in four states. Shades of blue indicate it is apparently secure or secure in 19 states. It has been introduced in six states and provinces. ]({{ site.baseurl }}/assets/images/species-reviews/feis-covi_natureserveconservationstatus.jpg)
+![The conservation status of northern bobwhites in the United States and Canada. Dark grey indicates that it is presumed extirpated in two states. Red indicates it is critically imperiled in four states and one province. Orange indicates it is imperiled in two states. Yellow indicates it is vulnerable in four states. Shades of blue indicate it is apparently secure or secure in 19 states. It has been introduced in six states and provinces. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-covi_natureserveconservationstatus.jpg?itok=lMJ8BnmY)
 
 Photo Credit
 

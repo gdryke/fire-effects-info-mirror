@@ -48,7 +48,7 @@ deciduous swamp fetterbush, deciduous fetterbush, dog hobble, fetterbush, pepper
 
 ## Distribution
 
-![Photo of map distribution of swamp doghobble in US.]({{ site.baseurl }}/assets/images/species-reviews/feis-eubrac_map.png)
+![Photo of map distribution of swamp doghobble in US.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-eubrac_map.png?itok=viOLgrtO)
 
 Photo Credit
 

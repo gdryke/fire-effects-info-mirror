@@ -52,7 +52,7 @@ tobosa, tobosa grass
 
 Tobosagrass is native to the southwestern and south-central United States and northern Mexico. In the Southwest, it occurs in the Chihuahuan and Sonoran deserts and surrounding areas. In Texas, it occurs most commonly in the Trans-Pecos, High Plains, Rolling Plains, Edwards Plateau, and South Texas Plains ecoregions. It is rare in Oklahoma [6,80]. One publication stated that tobosagrass occurs in southeastern California [110] but this appears to be erroneous, as tobosagrass is not included in California floras.
 
-![A map showing counties of the U.S. with AZ, NM, OK, and TX counties highlighted dark or light green, two counties in Oklahoma highlighted yellow, and counties of other states colored brown.]({{ site.baseurl }}/assets/images/species-reviews/feis-plemut_distribution.png)
+![A map showing counties of the U.S. with AZ, NM, OK, and TX counties highlighted dark or light green, two counties in Oklahoma highlighted yellow, and counties of other states colored brown.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plemut_distribution.png?itok=Liavh1vl)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Tobosagrass typically occurs on mildly alkaline to strongly alkaline soils (pH r
 
 Tobosagrass occurs on dry to moist sites and on soils that are poorly drained to well drained [22,45,154]. Some authors suggested that tobosagrass prefers intermittently flooded areas [24,48,163]. However, tobosagrass may be killed when submersed in water for periods of "longer than a few days" [23] to "several months" [120,163]. At the Jornada Long Term Ecological Research Site in south-central New Mexico, Wondzell and others [178] concluded that tobosagrass was "intolerant of flooding" because of its absence from the lowest portions of playas. Instead, tobosagrass was most abundant in the soils surrounding the playas that absorbed water from sheet flow when the playas flooded [178]. Many authors stated that tobosagrass reaches its best development in swales and depressions that receive run-off water, where water either slowly exits to an arroyo or enters the soil before standing very long (e.g., [25,39,48,128,159]).
 
-![A photo of a wide, flat valley dominated by dried bunchgrasses with red soil visible between plants and a few scattered leafless shrubs. In the distance there appears to be standing water at the low point and a desert mountain range in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-plemut_swale.jpg)
+![A photo of a wide, flat valley dominated by dried bunchgrasses with red soil visible between plants and a few scattered leafless shrubs. In the distance there appears to be standing water at the low point and a desert mountain range in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plemut_swale.jpg?itok=a5khWlzG)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ Black grama and tobosagrass are diagnostic dominants in the grama-tobosagrass sh
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [57,82,95,163]).
 
-![A close-up photo of a grass with some reproductive stems. Shrubs or trees are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-plemut_plant.jpg)
+![A close-up photo of a grass with some reproductive stems. Shrubs or trees are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plemut_plant.jpg?itok=ZThNVDKW)
 
 Photo Credit
 
@@ -279,7 +279,7 @@ Tobosagrass is likely to survive most fires and sprout from extensive rhizomes a
 
 While some observations indicate that tobosagrass may be killed by fire [22], most studies indicate that tobosagrass may be top-killed by fire but is unlikely to be killed. Even high-intensity prescribed fires are unlikely to kill tobosagrass (see Fire Intensity) (e.g., [132,133]). After a spring prescribed fire on the Rolling Plains, mean tobosagrass cover was reduced from 74% before the fire to 0% immediately after the fire. By the middle of the 1st growing season, however, tobosagrass cover averaged 16% [115]. In Truth or Consequences, New Mexico, during a year of average precipitation, tobosagrass cover on black grama grasslands was significantly lower 1 month following a patchy July prescribed fire than prior to the fire. However, 1 year after the fire, tobosagrass cover was similar between burned and unburned plots, which were similar to preburn values [151]. At the Jornada Experimental Range, Bill McCall (1963 personal communication cited in [22]) observed that fire killed tobosagrass plants in swales. Another researcher at the Jornada Experimental Range reported that a fire in the early 1940s on tobosagrass range killed tobosagrass plants (K. A. Valentine 1964 personal communication cited in [22]). In 1965, the site remained almost bare and no tobosagrass occurred there [22].
 
-![A photo of a dry grassland with some low shrubs with a fire burning across almost the entire width of the photo in the near distance, giving off plumes of dark smoke.]({{ site.baseurl }}/assets/images/species-reviews/feis-plemut_fire.jpg)
+![A photo of a dry grassland with some low shrubs with a fire burning across almost the entire width of the photo in the near distance, giving off plumes of dark smoke.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-plemut_fire.jpg?itok=1Vx9yXTk)
 
 Photo Credit
 

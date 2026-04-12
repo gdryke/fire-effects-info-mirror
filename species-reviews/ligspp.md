@@ -45,7 +45,7 @@ The currently accepted genus name for privet is _Ligustrum_ L. (Oleaceae) [3,19,
 
 When discussing characteristics common to all 4 species, this report refers to them collectively as privet or privets. When referring to individual species, the common names listed above are used.
 
-![A photo of leafy, upright stems with bright green leaves and a cluster of many small white flowers at the end of a branch.]({{ site.baseurl }}/assets/images/species-reviews/ligspp_feis-ligjap_plant.jpg)
+![A photo of leafy, upright stems with bright green leaves and a cluster of many small white flowers at the end of a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-ligjap_plant.jpg?itok=HPqe-7FZ)
 
 Photo Credit
 
@@ -53,7 +53,7 @@ Photo by J. S. Peterson, USDA, NRCS PLANTS Database.
 
 Japanese privet.
 
-![A photo of a much-branched shrub with long stems having dark green, opposite leaves with a spreading growth form.]({{ site.baseurl }}/assets/images/species-reviews/ligspp_feis-ligsin_plant.jpg)
+![A photo of a much-branched shrub with long stems having dark green, opposite leaves with a spreading growth form.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-ligsin_plant.jpg?itok=NasYQO4p)
 
 Photo Credit
 
@@ -61,7 +61,7 @@ Photo by Larry Allain, USDA, NRCS PLANTS Database.
 
 Chinese privet.
 
-![A photo of the stems of a shrub with green, opposite leaves with somewhat dentate leaf margins.]({{ site.baseurl }}/assets/images/species-reviews/ligspp_feis-ligamu_plant.jpg)
+![A photo of the stems of a shrub with green, opposite leaves with somewhat dentate leaf margins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-ligamu_plant.jpg?itok=kPRlGNZb)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Photo by Jon T. Lindstrom, Univ. of Arkansas.
 
 Amur privet.
 
-![A photo of a shrub with dark green, linear-lanceolate leaves with panicles of white flowers at branch ends.]({{ site.baseurl }}/assets/images/species-reviews/ligspp_feis-ligvul_plant.jpg)
+![A photo of a shrub with dark green, linear-lanceolate leaves with panicles of white flowers at branch ends.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-ligvul_plant.jpg?itok=dEkkXKf-)
 
 Photo Credit
 
@@ -142,7 +142,7 @@ None of the privet species discussed in this summary is a climax dominant or ind
 
 ## Botanical Description
 
-![A photo of a panicle of many white flowers growing at the end of a shrub's branch.]({{ site.baseurl }}/assets/images/species-reviews/ligspp_feis-ligsin_flowering.jpg)
+![A photo of a panicle of many white flowers growing at the end of a shrub's branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-ligsin_flowering.jpg?itok=V29XRvO-)
 
 Photo Credit
 

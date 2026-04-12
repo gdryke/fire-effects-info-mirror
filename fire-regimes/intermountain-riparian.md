@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for intermountain riparian communities has not 
 
 ## Distribution
 
-![A map showing the distribution of intermountain riparian communities in the western U.S.]({{ site.baseurl }}/assets/images/fire-regimes/intermountain-riparian_intermountain_riparian_locator_0_0_0.jpg)
+![A map showing the distribution of intermountain riparian communities in the western U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/intermountain_riparian_locator_0_0_0.jpg?itok=PRt4n-7v)
 
 Photo Credit
 

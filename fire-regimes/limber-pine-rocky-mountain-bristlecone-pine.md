@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for limber pine-Rocky Mountain bristlecone pine
 
 ## Distribution
 
-![A map showing the distribution of limber pine-Rocky Mountain bristlecone pine communities in the west-central U.S.]({{ site.baseurl }}/assets/images/fire-regimes/limber-pine-rocky-mountain-bristlecone-pine_feis-limber_pine_rocky_mountain_bristlecone_pine_locator.jpg)
+![A map showing the distribution of limber pine-Rocky Mountain bristlecone pine communities in the west-central U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-limber_pine_rocky_mountain_bristlecone_pine_locator.jpg?itok=ZwOu5KPL)
 
 Photo Credit
 

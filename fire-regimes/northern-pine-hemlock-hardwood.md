@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern pine-hemlock-hardwood communities 
 
 ## Distribution
 
-![A map showing the distribution of northern pine-hemlock-hardwood communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-pine-hemlock-hardwood_feis-northern_pine_hemlock_hardwood_locator.jpg)
+![A map showing the distribution of northern pine-hemlock-hardwood communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_pine_hemlock_hardwood_locator.jpg?itok=QH_YKTtr)
 
 Photo Credit
 

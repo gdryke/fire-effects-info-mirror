@@ -73,7 +73,7 @@ Common persimmon is found in many plant associations, but it is not an indicator
 
 ## Botanical Description
 
-![A photo looking up at a tree with thick, gray bark with square alligator-like plating, and many broad, oval green leaves. ]({{ site.baseurl }}/assets/images/species-reviews/feis-diovir_plant.jpg)
+![A photo looking up at a tree with thick, gray bark with square alligator-like plating, and many broad, oval green leaves. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-diovir_plant.jpg?itok=2veIoyDy)
 
 Photo Credit
 
@@ -147,7 +147,7 @@ No entry.
 
 ## Importance to Wildlife and Livestock
 
-![A close up photo of two fruits hanging from a branch. One fruit is light orange, the other is darker red-orange, and both have a whitish film. They are attached to the branch by a brown four-pointed structure. The background is blurry vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-diovir_fruit.jpg)
+![A close up photo of two fruits hanging from a branch. One fruit is light orange, the other is darker red-orange, and both have a whitish film. They are attached to the branch by a brown four-pointed structure. The background is blurry vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-diovir_fruit.jpg?itok=aBwGLww6)
 
 Photo Credit
 

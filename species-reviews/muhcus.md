@@ -38,7 +38,7 @@ Fryer, Janet L. 2009. _Muhlenbergia cuspidata_ , plains muhly. In: Fire Effects 
 
 The scientific name of plains muhly is _Muhlenbergia cuspidata_ (Torr.) Rydb. (Poaceae) [4,23,28,30,31,52,68,105,108].
 
-[![A photo of a green bunchgrass, with rocky bare ground around and scattered, relatively small sagebrush plants and bunchgrasses behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhcus_plants.jpg)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Plains muhly growing in Wheatland County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a green bunchgrass, with rocky bare ground around and scattered, relatively small sagebrush plants and bunchgrasses behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhcus_plants.jpg?itok=jFr51JTl)Photo Credit Photo by Matt Lavin, iNaturalist (CC BY 4.0). Plains muhly growing in Wheatland County, Montana.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Synonyms
 
@@ -66,7 +66,7 @@ Plains muhly is often noted on eroded soils [110]. On prairies of southern Canad
 
 Plains muhly prefers coarse-textured soils [4,23,28]; parent materials are variable. Plains muhly typically grows in sandy soils and, as the alternative common name "stonyhills muhly" suggests, cobbly and gravelly soils [4,21,23,28,31], but it is not restricted to coarse soils. Plains muhly is noted on silty clays in glaciated plains of Montana [81] and in southwestern North Dakota [112]. In southwestern Saskatchewan, plains muhly grew in loams but not sands or clays [47]. It also grows on fine loams in South Dakota [91]. In North Dakota, the needle-and-thread grass-plains muhly-narrowleaf sedge vegetation type occurred on sandy loams of moderate to steep slope. Soils where plains muhly was codominant were characterized by "extreme shallowness", with bedrock, gravel, or scoria (volcanic rock containing cavities created by gas bubbles trapped in lava) close to the soil surface. Soil organic matter content was "surprisingly" high (5.05%); the soil was slightly saline (conductivity of 0.97); and pH range was 7.2 to 8.9 [112]. In South Dakota, plains muhly grew in soils formed from "any parent material that was rapidly eroding" [110]. Plains muhly often grows on limestone-derived soils, including limestone outcrops [4]. Plains muhly occurs on limey upland and thin loess soils in Nebraska [97].
 
-![A photo of low bunchgrasses growing between cobbles, with flowering white forbs visible behind. In the background, conifer trunks are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhcus_habitat.jpeg)
+![A photo of low bunchgrasses growing between cobbles, with flowering white forbs visible behind. In the background, conifer trunks are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhcus_habitat.jpeg?itok=oMGm2e4Z)
 
 Photo Credit
 
@@ -97,7 +97,7 @@ Prairie communities, where plains muhly is most common, have semiarid to dry sub
 
 Plains muhly dominates some but not most of the plant communities in which it grows [78]. It is most abundant in short- and mixed-grass prairies and less important in tallgrass prairies, mountain grasslands, shrublands, and woodlands.
 
-[![A photo of dried reproductive grass stems, with a grassland behind and trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhcus_grassland.jpg)Photo Credit Photo by jeffwinters, iNaturalist (CC BY-NC 4.0). Plains muhly growing in prairie on a ridgetop in Johnson County, Kansas.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of dried reproductive grass stems, with a grassland behind and trees in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhcus_grassland.jpg?itok=hVzxWrZG)Photo Credit Photo by jeffwinters, iNaturalist (CC BY-NC 4.0). Plains muhly growing in prairie on a ridgetop in Johnson County, Kansas.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Shortgrass Prairie
 
@@ -155,7 +155,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Plains muhly is a densely tufted [28,35] perennial bunchgrass. Culms are coarse, arising from a bulbous, thick, scaly base [28,30,35,51,68]. Plants are of medium height [21], with culms ranging from 8 to 20 inches (20-60 cm) tall and 1 to 2 mm thick. Leaves are narrow and folded. The inflorescence is a narrow, uneven, spikelike panicle 2 to 5 inches (5-10 cm) long [4,28,30,51,68,108]. Flower spikelets are 2.5 to 3 mm long [35], with awnless lemmas [28]. Spikelets are 1- [51,72] or rarely 2-flowered [87], with 1 seed/spikelet generally developing [51]. The fruits are caryopses 1.6 to 2.3 mm long [4]. Seeds are 1.6 to 2.3 mm long [87] and weigh 213 g/L or 11,345 seeds/g [21].
 
-[![A close-up photo of a grass panicle with somewhat round fruits developing along the grass stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-muhcus_seeds.jpg)Photo Credit Photo by Jason Headley, iNaturalist (CC BY 4.0). Fruiting plains muhly.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A close-up photo of a grass panicle with somewhat round fruits developing along the grass stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-muhcus_seeds.jpg?itok=2fPLgJpH)Photo Credit Photo by Jason Headley, iNaturalist (CC BY 4.0). Fruiting plains muhly.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Belowground
 

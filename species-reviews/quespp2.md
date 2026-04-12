@@ -47,7 +47,7 @@ In the broadest sense, the _Q. dumosa_ complex includes at least 6 [213]of Calif
 
 This taxonomic dilemma creates confusion as to which taxon is actually being discussed in literature written before the 21st century. Most 20th-century literature that refers to "_Q. dumosa_ " actually applies to California scrub oak [52,79], but entities on the Mojave Desert ecotone that are identified in older literature as "_Q. dumosa_ " may actually be Muller oak (_Q. cornelius-mulleri_) [171] or Sonora scrub oak [215]. Unlike these strictly southern California species, California scrub oak has a broader geographic distribution that extends into northern California, so except for desert ecotones and other areas of geographic overlap in the southern part of the state, the burden of reassigning species designations to entities discussed in older literature as "_Q. dumosa_ " is somewhat lessened. However, the history of taxonomic confusion means that for oaks in the _Q. dumosa_ complex, species designations used in this review cannot be guaranteed.
 
-![A photo of a leafy shrub with many small leaves on many intertwined branches.]({{ site.baseurl }}/assets/images/species-reviews/quespp2_feis-queberplant.jpg)
+![A photo of a leafy shrub with many small leaves on many intertwined branches.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-queberplant.jpg)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Coastal sage scrub oak rarely comes in contact with other white oaks due to its 
 
 California scrub oak and coastal sage scrub oak occur in the geographical provinces colored below. Note that their distributions overlap only in a narrow portion of the south coast [207].
 
-![A map of California with coastal floristic provinces highlighted different colors.]({{ site.baseurl }}/assets/images/species-reviews/quespp2_feis-quebermap.gif)
+![A map of California with coastal floristic provinces highlighted different colors.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quebermap.gif?itok=OnB_okF4)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Map courtesy of the Jepson Herbarium [207].
 
 Distribution of California scrub oak.
 
-![A map of California with one the South Coast floristic province highlighted purple.]({{ site.baseurl }}/assets/images/species-reviews/quespp2_feis-quedummap.gif)
+![A map of California with one the South Coast floristic province highlighted purple.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quedummap.gif?itok=umHEwI43)
 
 Photo Credit
 
@@ -171,7 +171,7 @@ California scrub oak is a common component of ceanothus chaparral; hoaryleaf cea
 
 In the Bureau of Land Management's Central California Region, in Horse Valley and near Willow Creek, California scrub oak occurred in mixed chaparral along with bigberry manzanita, birchleaf mountain-mahogany, and California buckeye. This community occupied north-facing slopes, while coastal sage scrub codominated with black sage (_Salvia mellifera_) and California buckwheat on south-facing slopes [53].
 
-![A photo of the leafy top of a shrub with clusters of somewhat leathery, green leaves and several green upward-pointing acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-quespp2_hero.jpg)
+![A photo of the leafy top of a shrub with clusters of somewhat leathery, green leaves and several green upward-pointing acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-quespp2_hero.jpg?itok=YXrw4Kuu)
 
 Photo Credit
 
@@ -231,7 +231,7 @@ California's scrub oaks in the white oak subgenus have highly convergent botanic
 
 ### California Scrub Oak
 
-![A photo of small green acorns growing from the end of a twig of a shrub. Small, green, spine-toothed leaves grow along twigs.]({{ site.baseurl }}/assets/images/species-reviews/quespp2_feis-queberacorn.jpg)
+![A photo of small green acorns growing from the end of a twig of a shrub. Small, green, spine-toothed leaves grow along twigs.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-queberacorn.jpg)
 
 Photo Credit
 
@@ -245,7 +245,7 @@ Halsey [70] described California scrub oak as a drought avoider, with deep roots
 
 ### Coastal Sage Scrub Oak
 
-![A photo of the twig of a shrub with clusters of bright green spine-toothed leaves and a small acorn.]({{ site.baseurl }}/assets/images/species-reviews/quespp2_feis-quedumacorn.jpg)
+![A photo of the twig of a shrub with clusters of bright green spine-toothed leaves and a small acorn.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-quedumacorn.jpg)
 
 Photo Credit
 

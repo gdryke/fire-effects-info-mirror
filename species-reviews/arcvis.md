@@ -36,7 +36,7 @@ Fryer, Janet L. 2015. _Arctostaphylos viscida_ , sticky whiteleaf manzanita. In:
 
 This review summarizes the scientific literature as of 2015 on fire effects to and ecology of sticky whiteleaf manzanita. Details and documentation of source materials follow this summary. Common names are used in this Species Review. See the Appendix for a list of scientific names.
 
-![A photo of a dense cluster of pink, bell-shaped flowers with leathery green leaves behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcvis_fig1_flowers.jpg)
+![A photo of a dense cluster of pink, bell-shaped flowers with leathery green leaves behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcvis_fig1_flowers.jpg?itok=LfTUTHyO)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ Mariposa manzanita
 
 ## Distribution
 
-![A map of some western U.S. states, with many counties in California and a few counties in southwestern Oregon highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcvis_fig3_map.jpg)
+![A map of some western U.S. states, with many counties in California and a few counties in southwestern Oregon highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcvis_fig3_map.jpg?itok=3CxUGDS6)
 
 Photo Credit
 
@@ -115,7 +115,7 @@ Sticky whiteleaf manzanita occurs at elevations of about 100 to 7,200 feet (30-2
 
 Sticky whiteleaf manzanita grows in chaparral, oak woodlands, and mixed-conifer forests [10,51].
 
-![A photo of a gnarled low shrub with many bare branches and some clusters of green leaves. A valley extends behind with dramatic cliffs to either side, with conifers dominating some slopes.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcvis_fig2_inspirationpoint.jpg)
+![A photo of a gnarled low shrub with many bare branches and some clusters of green leaves. A valley extends behind with dramatic cliffs to either side, with conifers dominating some slopes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcvis_fig2_inspirationpoint.jpg?itok=pOVMCC3v)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Sticky whiteleaf manzanita is an erect evergreen shrub. It ranges from 3 to 13 feet (1-4 m) tall and has spreading branches [2,83]. Plants are usually single-stemmed [60]. Branches of mature plants often show ribbonlike, vertical strips of dead tissue, and dead branches usually remain attached [1,9]. Branch die-back and leaf shed occur during extended drought [9,94]. Branch die-back may also occur in plants in deep shade [22]. This species lacks an enlarged root crown or burl [2].
 
-![A photo of upright, leathery green leaves with pinkish clusters of berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcvis_fig4_fruits.jpg)
+![A photo of upright, leathery green leaves with pinkish clusters of berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcvis_fig4_fruits.jpg?itok=kr6Shz0t)
 
 Photo Credit
 
@@ -269,7 +269,7 @@ Sticky whiteleaf manzanita's seed remains dormant in the soil seed bank until fi
 
 Sticky whiteleaf manzanita has many chemical properties and morphological features that make it flammable. See Fuels for details.
 
-![A photo of a small plant with several leafy stems growing out of dirt with charred woody material around.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcvis_fig5_seedling.jpg)
+![A photo of a small plant with several leafy stems growing out of dirt with charred woody material around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcvis_fig5_seedling.jpg?itok=0pm6U9nL)
 
 Photo Credit
 
@@ -307,7 +307,7 @@ Other studies:
 
 Chaparral is the most fire-prone of California's ecosystems, largely due to the flammable compounds in chaparral plants and the structure of chaparral stands [12,99,115]. Sticky whiteleaf manzanita and other chaparral species are highly flammable due to a high proportion of volatile products—including tannins, resins, terpenes, oils, and wax—in plant parts, low moisture content, and a high percentage of fine fuels and dead material in live plants [72,100]. Dense, interlocking crowns of mature stands encourage fire continuity and spread [72,100]. Sticky whiteleaf manzanita sheds its evergreen leaves when they are old and physiologically inefficient. Continuous shedding of sticky whiteleaf manzanita bark also contributes to the litter load [83]. The litter of sticky whiteleaf manzanita, and sclerophyllous species is general, is slow to decay on many sites [103]. Sticky whiteleaf manzanita and other obligate seeders are particularly noted for accumulating dense litter [34]. On the San Dimas Experimental Forest near San Diego, a 25-year-old wedgeleaf ceanothus-Mariposa manzanita community had "unusually high" litter accumulation over 4 years. On a 220-foot² (20 m²) plot, crown cover of shrubs averaged 50%. Litter production averaged 2.3 tons/acre (5.2 tonnes/ha), ranging from 2.0 to 3.1 tons/acre (4.5-7.0 tonnes/ha) across years. In contrast, litter accumulation a few thousand feet higher, in a California black oak community, averaged 0.5 ton/acre (1.1 tonnes/ha)[67].
 
-![A photo of a branch partly covered in peeling, reddish brown bark, with other smaller branches intertwined behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-arcvis_fig6_bark.jpg)
+![A photo of a branch partly covered in peeling, reddish brown bark, with other smaller branches intertwined behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-arcvis_fig6_bark.jpg?itok=9KvEylAH)
 
 Photo Credit
 

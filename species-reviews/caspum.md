@@ -69,7 +69,7 @@ Allegheny chinquapin, coastal chinquapin, Ozark chinquapin, chinkapin
 
 The range of chinquapin extends from New Jersey and Pennsylvania south to Florida and west to eastern Texas, eastern Oklahoma, and southern Ohio [4,16]. Ozark chinquapin is limited to the Ozark highlands of Arkansas, Missouri, and Oklahoma, and has been extirpated from most of Alabama by chestnut blight [10].
 
-![Three maps showing the distributions of chinquapin and its two varieties. In two maps, most of the southeastern US is highlighted; in the third, just a few southeastern states are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-caspum_maps.jpg)
+![Three maps showing the distributions of chinquapin and its two varieties. In two maps, most of the southeastern US is highlighted; in the third, just a few southeastern states are highlighted.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-caspum_maps.jpg?itok=2VchES5e)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Chinquapin is locally abundant as a low, clonal shrub on longleaf pine (_Pinus p
 
 ## Botanical Description
 
-![A photo of a large shrub or small tree covered in cream-colored sprays of flowers, growing in an open area with lush vegetation around.]({{ site.baseurl }}/assets/images/species-reviews/feis-caspum_tree.jpg)
+![A photo of a large shrub or small tree covered in cream-colored sprays of flowers, growing in an open area with lush vegetation around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-caspum_tree.jpg?itok=DlWXDLVr)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Chinquapin flowers from April to July, depending on latitude [4]. The ripened nu
 
 Chinquapin reproduces readily from seed. It is monoecious, self-incompatible, and wind pollinated [8,10]. Chinquapin cultivar 'golden' seedlings may produce nuts as early as the second or third growing season. Nut crops are not large until the fourth or fifth year. Six-year-old plants produced 1,200 to 1,500 nuts per plant. Seeds planted in the fall show good germination (> 90%); seeds stored over the winter tend to dry out and germinate at much reduced rates (< 50%) [9].
 
-![A photo of a plant's long, thin spikes of yellow flowers and oval, shiny green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-caspum_flowers.jpg)
+![A photo of a plant's long, thin spikes of yellow flowers and oval, shiny green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-caspum_flowers.jpg?itok=mMl38Vty)
 
 Photo Credit
 
@@ -125,7 +125,7 @@ Photo by John Ruter, University of Georgia, Bugwood.org, some rights reserved.
 
 Chinquapin flowers. [(CC BY-NC 3.0 US)](<https://creativecommons.org/licenses/by-nc/3.0/us/>)
 
-![A close up photo of a woody plant's spiky, round, yellow fruits and pointed, shiny green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-caspum_fruits.jpg)
+![A close up photo of a woody plant's spiky, round, yellow fruits and pointed, shiny green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-caspum_fruits.jpg?itok=mo255K5g)
 
 Photo Credit
 
@@ -152,7 +152,7 @@ Chinquapin is probably easily top-killed by most fires. Chinquapin was a member 
 
 ## Fire Adaptations
 
-![A photo of a low, shrubby plant growing over a large open area, with a few palm-like shrubs growing in the middle, and a stand of straight trees with burned trunks in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-caspum_clonal.jpeg)
+![A photo of a low, shrubby plant growing over a large open area, with a few palm-like shrubs growing in the middle, and a stand of straight trees with burned trunks in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-caspum_clonal.jpeg?itok=TItyaEZ9)
 
 Photo Credit
 

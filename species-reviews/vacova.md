@@ -54,7 +54,7 @@ box blueberry, box huckleberry, evergreen blueberry, evergreen huckleberry, shot
 
 ## General Distribution
 
-![Map of the western United States showing the county-level distribution of California huckleberry along the coast.]({{ site.baseurl }}/assets/images/species-reviews/vacova_feis-VACOVA_map.jpg)
+![Map of the western United States showing the county-level distribution of California huckleberry along the coast.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-VACOVA_map.jpg?itok=Qn4Am9JD)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ western Oregon| 0 to 300 feet (0-91 m)
 
 California huckleberry grows as an understory dominant or codominant in certain mature Sitka spruce (_Picea sitchensis_), Douglas-fir (_Pseudotsuga menziesii_), western hemlock (_Tsuga heterophylla_), and western redcedar (_Thuja plicata_) forests of the Northwest. It also occurs in coastal headland shrub communities codominated by species such as Pacific rhododendron (_Rhododendron macrophyllum_), poison-oak (_Toxicodendron diversilobum_), and salal (_Gaultheria shallon_).
 
-![Photo of a foggy forest understory with shrubs in the foreground and tree trunks in the background. ]({{ site.baseurl }}/assets/images/species-reviews/vacova_feis-VACOVA_habitat1.jpg)
+![Photo of a foggy forest understory with shrubs in the foreground and tree trunks in the background. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-VACOVA_habitat1.jpg?itok=UGGu5rLb)
 
 Photo Credit
 
@@ -122,7 +122,7 @@ Root crown| 15.4
 Lateral roots| 5.0 
 Taproot| 79.6 
  
-![Photo of California huckleberry in bloom.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacova_oldphoto_plant.jpg)
+![Photo of California huckleberry in bloom.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacova_oldphoto_plant.jpg?itok=eZDkZTf-)
 
 Photo Credit
 
@@ -215,7 +215,7 @@ For additional fire regime information, search FEIS for this species by entering
 
 None
 
-![Photo of California huckleberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-vacova_plant.jpg)
+![Photo of California huckleberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-vacova_plant.jpg?itok=VFpYpbDz)
 
 Photo Credit
 

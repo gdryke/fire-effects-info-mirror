@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for northern Rocky Mountain conifer swamp commu
 
 ## Distribution
 
-![A map showing the distribution of northern Rocky Mountain conifer swamp communities in the northwestern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/northern-rocky-mountain-conifer-swamps_feis-northern_rocky_mountain_conifer_swamps_locator.jpg)
+![A map showing the distribution of northern Rocky Mountain conifer swamp communities in the northwestern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-northern_rocky_mountain_conifer_swamps_locator.jpg?itok=u5LeHeHV)
 
 Photo Credit
 

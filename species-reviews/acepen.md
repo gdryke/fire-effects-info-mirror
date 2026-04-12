@@ -57,7 +57,7 @@ Striped maple is widely distributed over the northeastern quarter of the United 
  * United States: CT GA KY ME MD MA MI MN NH NJ NY NC OH PA RI SC TN VT VA WV
  * Canada: NB NS ON PE PQ
 
-![A photo of an open, spreading shrub or small tree growing in the understory of a deciduous forest. The ground is mostly dead leaves with some rock and moss.]({{ site.baseurl }}/assets/images/species-reviews/feis-acepen_habitat.jpg)
+![A photo of an open, spreading shrub or small tree growing in the understory of a deciduous forest. The ground is mostly dead leaves with some rock and moss.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-acepen_habitat.jpg?itok=FnojaYjH)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ The most common understory associates of striped maple include hobblebush (_Vibu
 
 ## Botanical Description
 
-![A photo of the wide, three-pointed leaves of a deciduous shrub or tree with chains of samaras dangling below the leaves. The leaves are very green and there is more green vegetation behind them.]({{ site.baseurl }}/assets/images/species-reviews/feis-acepen_foliage.jpeg)
+![A photo of the wide, three-pointed leaves of a deciduous shrub or tree with chains of samaras dangling below the leaves. The leaves are very green and there is more green vegetation behind them.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-acepen_foliage.jpeg?itok=RismYiBp)
 
 Photo Credit
 

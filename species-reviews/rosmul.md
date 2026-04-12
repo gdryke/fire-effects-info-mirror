@@ -38,7 +38,7 @@ Munger, Gregory T. 2002. _Rosa multiflora_ , multiflora rose. In: Fire Effects I
 
 The currently accepted name for multiflora rose is _Rosa multiflora_ Thunb. ex Murr. (Rosaceae) [32,33,34,45,73].
 
-![A photo of a shrub with dark green leaves and light yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosmul_plant.gif)
+![A photo of a shrub with dark green leaves and light yellow flowers.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-rosmul_plant.gif)
 
 Photo Credit
 
@@ -46,7 +46,7 @@ Photo © K.R. Robertson/Illinois Natural History Survey.
 
 Flowering multiflora rose.
 
-![A photo of a green field with patchy shrubs and tall, leafless trees in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosmul_habitat.jpg)
+![A photo of a green field with patchy shrubs and tall, leafless trees in the background.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-rosmul_habitat.jpg)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ The following biogeographic classification systems demonstrate where multiflora 
 
 Multiflora rose frequently colonizes roadsides, old fields, pastures, prairies, savannas, open woodlands, and forest edges, and may also invade dense forests where disturbance provides canopy gaps [19,40,78]. It is most productive in sunny areas with well-drained soils.
 
-![A photo of a green, grassy field with white-flowered shrubs growing in dense patches with a few trees behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosmul_habitat2.jpg)
+![A photo of a green, grassy field with white-flowered shrubs growing in dense patches with a few trees behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rosmul_habitat2.jpg?itok=5VQKbf8T)
 
 Photo Credit
 
@@ -101,7 +101,7 @@ Multiflora rose is listed as a "characteristic shrub" of the successional shrubl
 
 Multiflora rose is a perennial shrub that forms dense, impenetrable "clumps" of vegetation. Isolated plants can produce clumps up to 33 feet (10 m) in diameter [26,63]. Bushes grow to a height of 6 to 10 feet (1.8-3 m) and occasionally 15 feet (4.6 m) [26]. Stems (canes) are few to many, originating from the base, much branched, and erect and arching to more or less trailing or sprawling. Canes grow to 13 feet (4 m) long and are armed with stout recurved prickles [34,70]. Leaves are alternate, pinnately compound, and 3 to 4 inches (8-11 cm) long with 5 to 11 (usually 7 or 9), 1 to 1.6 inch (2.5-4 cm) long leaflets [26,33,70]. Flowers are 0.5 to 0.75 inches (1.3-1.9 cm) across and number 25 to 100 or more in long or pointed panicles. Fruits (hips) are globular to ovoid, 0.25 inches (0.64 cm) or less in diameter [26]. Seeds are angular achenes [40].
 
-![A photo of the top of a green, leafy shrub, with somewhat dense branches below and long, almost viny extensions of stems to the side.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosmul_plant2.jpg)
+![A photo of the top of a green, leafy shrub, with somewhat dense branches below and long, almost viny extensions of stems to the side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rosmul_plant2.jpg?itok=KQ2Sojaw)
 
 Photo Credit
 
@@ -120,7 +120,7 @@ The biology and ecology of multiflora rose are not well-studied. More research i
 
 ## Seasonal Development
 
-![A photo of a cluster of bright white flowers with yellow centers growing at the end of a stem with dark green leaves. Lighter green, younger leaves are visible around the flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-rosmul_flowers.jpg)
+![A photo of a cluster of bright white flowers with yellow centers growing at the end of a stem with dark green leaves. Lighter green, younger leaves are visible around the flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-rosmul_flowers.jpg?itok=oQ4raxRm)
 
 Photo Credit
 

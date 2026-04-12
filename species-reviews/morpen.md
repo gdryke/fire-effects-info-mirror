@@ -50,7 +50,7 @@ bayberry, candleberry
 
 ## General Distribution
 
-![Map of North America showing the distribution of northern bayberry in northeastern coastal areas from New Foundland and Quebec south to Virginia and North Carolina.]({{ site.baseurl }}/assets/images/species-reviews/morpen_feis-map_morpen.jpg)
+![Map of North America showing the distribution of northern bayberry in northeastern coastal areas from New Foundland and Quebec south to Virginia and North Carolina.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-map_morpen.jpg?itok=OYY3YGNq)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Northern bayberry occurs along the South River of Maryland. The river is subject
 
 ## Plant Communities
 
-![Photo of a patch of low, green shrubs growing among widely spaced grasses on sand dunes near the ocean.]({{ site.baseurl }}/assets/images/species-reviews/morpen_feis-plant1_morpen.jpg)
+![Photo of a patch of low, green shrubs growing among widely spaced grasses on sand dunes near the ocean.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-plant1_morpen.jpg?itok=g6f9IBc-)
 
 Photo Credit
 
@@ -119,7 +119,7 @@ Northern bayberry/common reed (_Phragmites australis_) at Robins Island (Long Is
 
 ## Botanical Description
 
-![Photo of a densely leafy shrub showing branches covered with whorls of bright green, oblong leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-morpen_hero.jpg)
+![Photo of a densely leafy shrub showing branches covered with whorls of bright green, oblong leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-morpen_hero.jpg?itok=7OrtL30M)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ Nova Scotia| June [74]
 
 Northern bayberry reproduces by seed [34,90] and rhizomes [12,18,49].
 
-![Photo showing purple northern bayberry berries growing near the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-morpen_berries.jpg)
+![Photo showing purple northern bayberry berries growing near the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-morpen_berries.jpg?itok=-zF0EC8s)
 
 Photo Credit
 
@@ -210,7 +210,7 @@ Northern bayberry reproduces by rhizomes [12,18,49].
 
 ## Successional Status
 
-![Photo showing stand of dense, bright green shrubbery growing adjacent to tall conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-morpen_habitat.jpg)
+![Photo showing stand of dense, bright green shrubbery growing adjacent to tall conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-morpen_habitat.jpg?itok=ISdwsZ8-)
 
 Photo Credit
 

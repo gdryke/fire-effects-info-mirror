@@ -34,7 +34,7 @@ Anderson, Michelle D. 2005. _Artemisia ludoviciana_ , white sagebrush. In: Fire 
 
 ## Introduction
 
-![A photo of upright forbs with grayish foliage and pale yellow flowers at the tops of their stems. Dried annual grasses grow with the forbs.]({{ site.baseurl }}/assets/images/species-reviews/feis-artlud_community2.jpg)
+![A photo of upright forbs with grayish foliage and pale yellow flowers at the tops of their stems. Dried annual grasses grow with the forbs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artlud_community2.jpg?itok=Okj4VDoY)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ White sagebrush is particularly common in plains and prairie grassland communiti
 
 In prairie communities, common associates include threeawns (_Aristida_ spp.), big bluestem, sand bluestem, blue grama, hairy grama, sideoats grama, buffalo grass, prairie sandreed, needle-and-thread grass, porcupine grass, prairie Junegrass, switchgrass (_Panicum virgatum_), little bluestem, indiangrass (_Sorghastrum nutans_), prairie dropseed (_Sporobolus heterolepis_), and giant dropseed (_S. giganteus_). Common woody associates are big sagebrush, black sagebrush, sand sagebrush, rubber rabbitbrush, green rabbitbrush, winterfat, saltbushes (_Atriplex_ spp.), hickories (_Carya_ spp.), eastern redcedar, eastern cottonwood (_Populus deltoides_), post oak, blackjack oak, and black oak (_Q. velutina_) [37,72,115].
 
-![Uprights stems with grayish green foliage and brownish ends of old flowers gone to seed along the stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-artlud_community.jpeg)
+![Uprights stems with grayish green foliage and brownish ends of old flowers gone to seed along the stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artlud_community.jpeg?itok=O5tCBeuR)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Vegetation classifications identifying white sagebrush as a plant community domi
 
 ## Botanical Description
 
-![A photo of loosely clustered, leafy, straight stems and somewhat open flowering panicles.]({{ site.baseurl }}/assets/images/species-reviews/feis-artlud_plant.jpg)
+![A photo of loosely clustered, leafy, straight stems and somewhat open flowering panicles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-artlud_plant.jpg?itok=RxRb5I0f)
 
 Photo Credit
 

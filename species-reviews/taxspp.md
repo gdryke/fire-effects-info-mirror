@@ -68,7 +68,7 @@ Pond cypress is generally confined to areas from southeastern Virginia to southe
 
 Bald cypress grows along the Atlantic Coastal Plain from southern Delaware to southern Florida, westward along the lower Gulf Coast Plain to southeastern Texas almost to the Mexican border. Inland, it grows along streams of the Southeastern States and north in the Mississippi Valley to southeastern Oklahoma, southeastern Missouri, southern Illinois, and southwestern Indiana [11,18,36]. It is cultivated in Hawaii [55].
 
-![Two maps of the U.S. side by side showing the distributions of pond cypress on the left and bald cypress on the right. Southeastern states are highlighted for pond cypress, and a larger number of southern, southeastern, and eastern states are highlighted for bald cypress.]({{ site.baseurl }}/assets/images/species-reviews/feis-taxspp_maps.jpg)
+![Two maps of the U.S. side by side showing the distributions of pond cypress on the left and bald cypress on the right. Southeastern states are highlighted for pond cypress, and a larger number of southern, southeastern, and eastern states are highlighted for bald cypress.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-07/feis-taxspp_maps.jpg?itok=Qws1ztkd)
 
 Photo Credit
 
@@ -82,7 +82,7 @@ Distribution of pond cypress (left) and bald cypress (right).
 
 ## Site Characteristics
 
-![A photo of a swamp forest, with all the trees in standing water with green algae on top of the water. All the trees have buttressed trunks.]({{ site.baseurl }}/assets/images/species-reviews/taxspp_feis-taxdis_habitat.jpg)
+![A photo of a swamp forest, with all the trees in standing water with green algae on top of the water. All the trees have buttressed trunks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-taxdis_habitat.jpg?itok=sLt2CWa4)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Bald cypress has been included as an indicator or dominant in the following vege
 
 ## Botanical Description
 
-![A photo of a group of trees growing in dark standing water. The trees are tall and thin with buttressed trunks, and brownish, drooping needles. More trees are visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/taxspp_feis-taxasc_habitat.jpg)
+![A photo of a group of trees growing in dark standing water. The trees are tall and thin with buttressed trunks, and brownish, drooping needles. More trees are visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-taxasc_habitat.jpg?itok=_hoec3Ve)
 
 Photo Credit
 

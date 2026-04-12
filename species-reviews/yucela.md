@@ -75,7 +75,7 @@ In southwestern Texas and central and southern Arizona soaptree yucca grows betw
 
 ## Plant Communities
 
-![A photo of a flat area with bare ground and low grasses occurring with a stand of soaptree yucca with few other shrubs. Desert mountains rise in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucela_habitat.jpg)
+![A photo of a flat area with bare ground and low grasses occurring with a stand of soaptree yucca with few other shrubs. Desert mountains rise in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucela_habitat.jpg?itok=7WXFvBED)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Soaptree yucca, creosotebush, and fourwing saltbush (_Atriplex canescens_) are t
 
 ## Botanical Description
 
-![A photo of an upright yucca with several stems of different heights and one old stalk of a previous year's flowering inflorescence. Red dirt has a sparse covering of grasses and forbs, and widely spaced shrubs occur in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucela_plant.jpg)
+![A photo of an upright yucca with several stems of different heights and one old stalk of a previous year's flowering inflorescence. Red dirt has a sparse covering of grasses and forbs, and widely spaced shrubs occur in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucela_plant.jpg?itok=AdPmCr2L)
 
 Photo Credit
 
@@ -136,7 +136,7 @@ Fire generally top-kills soaptree yucca, but it can be fire tolerant depending o
 
 Soaptree yucca can sprout from the stem after fire, even when some leaves are burnt. If the apical meristem is damaged the stem may branch, but more commonly it dies and is replaced by sprouts from rhizomes and the root crown [40,43,48].
 
-![A photo of burned stems of soaptree yucca with about five clusters of green leaves sprouting from the base.]({{ site.baseurl }}/assets/images/species-reviews/feis-yucela_resprout.jpg)
+![A photo of burned stems of soaptree yucca with about five clusters of green leaves sprouting from the base.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-yucela_resprout.jpg?itok=RUo0aLCl)
 
 Photo Credit
 

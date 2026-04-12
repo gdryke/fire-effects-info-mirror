@@ -38,7 +38,7 @@ Gucker, Corey L. 2008. _Holcus lanatus_ , common velvetgrass. In: Fire Effects I
 
 The scientific name of common velvetgrass is _Holcus_ _lanatus_ L. (Poaceae) [9,78]. A review reports that common velvetgrass and creeping velvetgrass (_H. mollis_) hybridize. Hybrids closely resemble creeping velvetgrass [157].
 
-[![A photo of relatively dense grasses with many panicles, some open and airy and others compact, but both from the same grass species.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_community.jpg)Photo Credit Photo by Ethan, iNaturalist (CC BY-NC 4.0). Common velvetgrass with both open and compact panicles.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of relatively dense grasses with many panicles, some open and airy and others compact, but both from the same grass species.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_community.jpg?itok=FJiUjxcG)Photo Credit Photo by Ethan, iNaturalist (CC BY-NC 4.0). Common velvetgrass with both open and compact panicles.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Synonyms
 
@@ -60,7 +60,7 @@ Common velvetgrass is native to Europe, western Asia, northwestern Africa, and t
 
 In North America, common velvetgrass habitats include pastures, cultivated fields, meadows, ditch banks, lawns, roadsides, and other disturbed sites [9,31,73,79,114,153].
 
-![A photo of a coastal habitat dominated by low vegetation, with grasses growing in a small depression. The ocean is just visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_habitat1.jpg)
+![A photo of a coastal habitat dominated by low vegetation, with grasses growing in a small depression. The ocean is just visible in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_habitat1.jpg?itok=NcQn48Co)
 
 Photo Credit
 
@@ -108,7 +108,7 @@ In North America, soils vary in common velvetgrass habitats. In one review, comm
 
 In both its native and nonnative ranges, common velvetgrass occupies a wide range of habitats. In Europe common velvetgrass occurs in pastures, grasslands, wet to mesic meadows, and open forests and woodlands [14,161].
 
-[![A close-up photo of several gold and purple grass panicles, with more of what appears to be the same grass extending behind. Shrub-covered hills are out of focus in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_habitat.jpg)Photo Credit Photo by ajsherman, iNaturalist (CC BY-NC 4.0). Common velvetgrass growing at Point Reyes National Seashore, California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up photo of several gold and purple grass panicles, with more of what appears to be the same grass extending behind. Shrub-covered hills are out of focus in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_habitat.jpg?itok=ZUH8akf5)Photo Credit Photo by ajsherman, iNaturalist (CC BY-NC 4.0). Common velvetgrass growing at Point Reyes National Seashore, California.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Pacific Coast
 
@@ -136,7 +136,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Common velvetgrass is typically a pubescent, tufted, perennial grass. However, in the Carolinas and Atlantic Coastal regions, common velvetgrass behaves as an annual [37,115]. European studies revealed that life span and life history can vary with environmental conditions. Plants grown from seed collected from dry, southern European habitats flowered in their first year and died within 2 to 4 years. Plants grown from seed collected in northern Europe failed to flower in their first year and were longer lived. Plants grown from seed collected in exposed maritime habitats displayed a low, spreading growth form and produced leaves that were only 13 inches (32 cm) long, but plants from seed collected from continental habitats were erect and reached 28 to 35 inches (70-90 cm) tall [19].
 
-![A photo of a tufted grass with compact panicles growing in rocky soil with rocks behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_plant.jpg)
+![A photo of a tufted grass with compact panicles growing in rocky soil with rocks behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_plant.jpg?itok=FgEdomPR)
 
 Photo Credit
 
@@ -148,7 +148,7 @@ Common velvetgrass growing in Maui, Hawai'i.
 
 Common velvetgrass stems are generally erect, hollow, and grow to 12 to 39 inches (30-100 cm) tall [3,9,73,114,153]. At the base, stems may be somewhat prostrate and produce roots at the nodes [9,31,85]. Leaf blades are flat and measure 4 to 12 mm wide and 2 to 8 inches (5-20 cm) long [31,69,114,153]. Common velvetgrass produces a dense, compact panicle that can reach 6 inches (15 cm) long [3,114,153]. Spikelets are generally 2-flowered. Upper florets are staminate with fairly robust awns that become hooked when dry. Lower florets are perfect [149,153,164]. Common velvetgrass seeds measure 1.5 to 2.5 mm long [115,149].
 
-[![A close-up photo of a grass panicle.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_panicle.jpg)Photo Credit Photo by Keith A Bradley, iNaturalist (CC BY-NC 4.0). Common velvetgrass panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close-up photo of a grass panicle.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_panicle.jpg?itok=PNYIal5H)Photo Credit Photo by Keith A Bradley, iNaturalist (CC BY-NC 4.0). Common velvetgrass panicle.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ### Belowground Description
 
@@ -432,7 +432,7 @@ While common velvetgrass could potentially increase fine fuel loads in many of i
 
 The Fire Regime Table (table A1) provides fire regime information for many vegetation types and plant communities in which common velvetgrass may occur. For additional fire regime information, search FEIS for this species by entering the species name on the Advanced Search page and selecting “Fire Regime” as the publication type.
 
-![A photo of a dense layer of grass with some low trees or shrubs behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_fuel.jpg)
+![A photo of a dense layer of grass with some low trees or shrubs behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_fuel.jpg?itok=q2HZ2qoJ)
 
 Photo Credit
 
@@ -512,7 +512,7 @@ While several methods may be useful to control common velvetgrass, it is likely 
 
 Some researchers suggest that marking common velvetgrass treatment areas in the early morning when dew is trapped in its velvety hairs may help to focus control efforts and minimize nontarget effects [46].
 
-![A photo of grass leaves covered in dew.]({{ site.baseurl }}/assets/images/species-reviews/feis-hollan_wet.jpg)
+![A photo of grass leaves covered in dew.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-hollan_wet.jpg?itok=0YiHvtdh)
 
 Photo Credit
 

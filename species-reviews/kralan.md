@@ -34,7 +34,7 @@ Carey, Jennifer H. 1995. _Krascheninnikovia lanata_ , winterfat. In: Fire Effect
 
 ## Image Gallery
 
-![Photo of winterfat.]({{ site.baseurl }}/assets/images/species-reviews/feis-kralan_plant.jpeg) Winterfat in the Kingston Range, California. _Photo by Leah Gardner, iNaturalist.org, no rights reserved._
+![Photo of winterfat.](https://research.fs.usda.gov/sites/default/files/2025-06/feis-kralan_plant.jpeg) Winterfat in the Kingston Range, California. _Photo by Leah Gardner, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Leah Gardner, iNaturalist.org, no rights reserved.
 

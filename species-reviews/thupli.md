@@ -59,7 +59,7 @@ Western redcedar occurs along the Pacific Coast from the southern part of the Al
 
 ## Site Characteristics
 
-![A photo of a large, straight conifer tree growing in a dark, lush forest. The tree's bark and low branches are covered in moss, there are ferns and other low shrubs growing around the tree, and some filtered light is visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-thupli_tree.jpg)
+![A photo of a large, straight conifer tree growing in a dark, lush forest. The tree's bark and low branches are covered in moss, there are ferns and other low shrubs growing around the tree, and some filtered light is visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-thupli_tree.jpg?itok=X7uVRKwe)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ Common shrub and herb associates of both coastal and interior regions are as fol
 
 ## Botanical Description
 
-![A close-up photo of a conifer tree's scaled, flat green needles and tiny, brown cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-thupli_foliage.jpeg)
+![A close-up photo of a conifer tree's scaled, flat green needles and tiny, brown cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-thupli_foliage.jpeg?itok=sH51IrYz)
 
 Photo Credit
 

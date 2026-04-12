@@ -34,7 +34,7 @@ Uchytil, Ronald J. 1991. _Salix planifolia_ , diamondleaf willow. In: Fire Effec
 
 ## Image Gallery
 
-![Photo of a cluster of slender branches with long, narrow leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-salpla_plant.jpg) Diamondleaf willow. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
+![Photo of a cluster of slender branches with long, narrow leaves.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-salpla_plant.jpg) Diamondleaf willow. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Kallum McDonald, iNaturalist.org, no rights reserved.
 
@@ -126,7 +126,7 @@ North & South Dakota| May| June| [44]
  
 ## Regeneration Processes
 
-![Photo of a cluster of slender branches with long, narrow leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-salpla_plant.jpg)
+![Photo of a cluster of slender branches with long, narrow leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-salpla_plant.jpg?itok=WbKTNJan)
 
 Photo Credit
 

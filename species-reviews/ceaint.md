@@ -104,7 +104,7 @@ Overstory tree associates of deerbrush not previously listed as Kuchler [48] or 
 
 ## Botanical Description
 
-![Deerbrush flowers at the end of a stem.]({{ site.baseurl }}/assets/images/species-reviews/feis-ceaint_flowers.jpeg)
+![Deerbrush flowers at the end of a stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-ceaint_flowers.jpeg?itok=GLZgrfhO)
 
 Photo Credit
 

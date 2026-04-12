@@ -71,7 +71,7 @@ American hazelnut is a dominant or codominant shrub in maple-basswood (Acer-Tili
 
 ## Botanical Description
 
-![Photo of American hazelnut.]({{ site.baseurl }}/assets/images/species-reviews/feis-corame_plant2.jpeg)
+![Photo of American hazelnut.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-corame_plant2.jpeg?itok=eY6gr0Wl)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ The flowers of American hazelnut are formed in the summer and open the following
 
 ## Regeneration Processes
 
-![Photo of American hazelnut.]({{ site.baseurl }}/assets/images/species-reviews/feis-corame_plant.jpg)
+![Photo of American hazelnut.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-corame_plant.jpg?itok=AO5JSQcy)
 
 Photo Credit
 

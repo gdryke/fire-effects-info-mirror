@@ -58,7 +58,7 @@ American cowparsnip, cow parsnip
 
 Common cowparsnip occurs from Newfoundland west to Alaska and south to California, Arizona, New Mexico, Kansas, Missouri, and Georgia [22,26,30,47,68]. It is not found in northern Canada or in the extreme southern and southeastern regions of the United States.
 
-![Photo of distribution of common cowparsnip.]({{ site.baseurl }}/assets/images/species-reviews/feis-hermax_map.jpg)
+![Photo of distribution of common cowparsnip.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-hermax_map.jpg?itok=MfjP30z5)
 
 Photo Credit
 
@@ -109,7 +109,7 @@ Species not previously mentioned but commonly associated with common cow parsnip
 
 ## Botanical and Ecological Characteristics
 
-![Flowering common cowparsnip in Yosemite National Park.]({{ site.baseurl }}/assets/images/species-reviews/feis-hermax.jpg)
+![Flowering common cowparsnip in Yosemite National Park.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-hermax.jpg?itok=cyyPIPIZ)
 
 Photo Credit
 

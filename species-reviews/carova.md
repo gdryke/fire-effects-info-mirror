@@ -103,7 +103,7 @@ southwest Ohio| general veg. pas| Braun 1936
 
 ## Botanical Description 
  
-![A photo into the foliage of a tree with pointed green leaves, with a large, light green fruit at the center.]({{ site.baseurl }}/assets/images/species-reviews/feis-carova_fruit.jpg)
+![A photo into the foliage of a tree with pointed green leaves, with a large, light green fruit at the center.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-carova_fruit.jpg?itok=_4IKo6g_)
 
 Photo Credit
 

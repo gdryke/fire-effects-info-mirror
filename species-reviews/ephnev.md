@@ -34,7 +34,7 @@ Anderson, Michelle D. 2004. _Ephedra nevadensis_ , Nevada jointfir. In: Fire Eff
 
 ## Introduction
 
-![A photo of a many-branched shrub with green uprights stems growing on the edge of a dramatic, dry canyon.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephnev_habitat.jpg)
+![A photo of a many-branched shrub with green uprights stems growing on the edge of a dramatic, dry canyon.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-ephnev_habitat.jpg)
 
 Photo Credit
 
@@ -60,7 +60,7 @@ gray ephedra, Nevada ephedra, Mormon-tea, Mormon tea
 
 Nevada jointfir occurs in the West, from southeastern Oregon south to Baja California Norte, Mexico, and east to eastern Utah and Arizona [27,31,32,48,50].
 
-![A map of the western United States with counties in Arizona, California, Nevada, Oregon, and Utah highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephnev_map.jpg)
+![A map of the western United States with counties in Arizona, California, Nevada, Oregon, and Utah highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephnev_map.jpg?itok=ztAtOgnP)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Nevada jointfir is commonly found on ridgetops as well as upper and lower slope 
 
 Nevada jointfir grows abundantly at the edge of the salt desert zone [9], but is also common in a variety of sagebrush (_Artemisia_ spp.), desert shrub, and pinyon-juniper (_Pinus_ -_Juniperus_ spp.) communities [13,47,66]. It generally grows as scattered plants or in small clumps but also occurs in isolated, large, pure stands [66].
 
-![A photo of large shrubs, some with visible woody bases, growing with bare ground and large rocks between them. In the foreground, a Nevada jointfir individual has a woody base and some dead stems, but retains green stems on about half of the plant.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephnev_hero.jpg)
+![A photo of large shrubs, some with visible woody bases, growing with bare ground and large rocks between them. In the foreground, a Nevada jointfir individual has a woody base and some dead stems, but retains green stems on about half of the plant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephnev_hero.jpg?itok=sA1-2lc3)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ West and others [79] classify Nevada jointfir as a plant community dominant in N
 
 ## Botanical and Ecological Characteristics
 
-![A close-up photo of a stem of Nevada jointfir, with small yellow cones emerging from a joint.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephnev_cones.jpg)
+![A close-up photo of a stem of Nevada jointfir, with small yellow cones emerging from a joint.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephnev_cones.jpg?itok=4b-smaRx)
 
 Photo Credit
 

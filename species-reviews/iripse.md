@@ -34,7 +34,7 @@ Stone, Katharine R. 2009. _Iris pseudacorus_ , paleyellow iris. In: Fire Effects
 
 ## Introduction
 
-![Close-up photo of a bright yellow flower with three large petals against a background of green foliage.]({{ site.baseurl }}/assets/images/species-reviews/iripse_feis-IRIPSE_flower.jpg)
+![Close-up photo of a bright yellow flower with three large petals against a background of green foliage.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-IRIPSE_flower.jpg?itok=zQs4llMQ)
 
 Photo Credit
 
@@ -114,7 +114,7 @@ In southern West Virginia, paleyellow iris occurred in both floodplain and ripar
 
 ## Botanical Description
 
-![Photo of an herbaceous plant with long, narrow, green leaves and a bright yellow flower with three large petals.]({{ site.baseurl }}/assets/images/species-reviews/iripse_feis-IRIPSE_plant.jpg)
+![Photo of an herbaceous plant with long, narrow, green leaves and a bright yellow flower with three large petals.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-IRIPSE_plant.jpg?itok=01rRMib0)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ On the fringes of saltmarshes in Ireland, shore level influenced paleyellow iris
 
 ### Vegetative Reproduction and Regeneration
 
-![Photo of an excavated plant showing a cluster of fine roots and a large rhizome cut in half lengthwise.]({{ site.baseurl }}/assets/images/species-reviews/iripse_feis-IRIPSE_rhizome.jpg)
+![Photo of an excavated plant showing a cluster of fine roots and a large rhizome cut in half lengthwise.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-IRIPSE_rhizome.jpg?itok=JOOVaWtm)
 
 Photo Credit
 
@@ -292,7 +292,7 @@ Paleyellow iris has been used as a rehabilitation plant to reduce bacterial load
 
 ## Impacts
 
-![Photo of the edge of a lake showing a dense, continuous patch of yellow flowering plants along the shoreline.]({{ site.baseurl }}/assets/images/species-reviews/iripse_feis-IRIPSE_stand.jpg)
+![Photo of the edge of a lake showing a dense, continuous patch of yellow flowering plants along the shoreline.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-IRIPSE_stand.jpg?itok=x36y1bEY)
 
 Photo Credit
 

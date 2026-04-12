@@ -34,7 +34,7 @@ Esser, Lora L. 1993. _Oxytropis sericea_ , white locoweed. In: Fire Effects Info
 
 ## Image Gallery
 
-![A map of the western United States with states highlighted in green where white locoweed occurs. Most, but not all, western states are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-oxyser_map.jpg) Distribution of white locoweed. _Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, June 1] [37]._
+![A map of the western United States with states highlighted in green where white locoweed occurs. Most, but not all, western states are highlighted.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-oxyser_map.jpg) Distribution of white locoweed. _Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, June 1] [37]._
 
 Photo Credit: Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team, Greensboro, NC [2018, June 1] [37].
 
@@ -61,7 +61,7 @@ crazyweed, silky crazyweed, whitepoint crazyweed, whitepoint locoweed
 
 ## General Distribution
 
-![A map of the western United States with states highlighted in green where white locoweed occurs. Most, but not all, western states are highlighted.]({{ site.baseurl }}/assets/images/species-reviews/feis-oxyser_map.jpg)
+![A map of the western United States with states highlighted in green where white locoweed occurs. Most, but not all, western states are highlighted.](https://research.fs.usda.gov/sites/default/files/2025-04/feis-oxyser_map.jpg)
 
 Photo Credit
 

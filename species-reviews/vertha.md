@@ -34,7 +34,7 @@ Gucker, Corey L. 2008. _Verbascum thapsus_ , common mullein. In: Fire Effects In
 
 ## Introduction
 
-![Photo of a single-stemmed, tall, herbaceous plant with large leaves becoming smaller up the stem, which ends in a long, dense spike of small, yellow flowers growing on a steep slope next to a road.]({{ site.baseurl }}/assets/images/species-reviews/vertha_feis-VERTHA_CAroadside.jpg)
+![Photo of a single-stemmed, tall, herbaceous plant with large leaves becoming smaller up the stem, which ends in a long, dense spike of small, yellow flowers growing on a steep slope next to a road.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-VERTHA_CAroadside.jpg?itok=wZDn2OiK)
 
 Photo Credit
 
@@ -68,7 +68,7 @@ While the method and speed of common mullein's spread across the United States i
 
 In most places, common mullein is limited to disturbed areas and rarely persists beyond the earliest stages of succession. A 2004 report from the Forest Service's Eastern Region lists common mullein as a widespread nonnative species typically restricted to disturbed areas and not particularly invasive in undisturbed habitats [138]. However, persistent and unusually dense populations are reported in some Hawaii [33] and California [16] habitats. Potential effects of common mullein's persistence in these areas are addressed in the Impacts and Control sections.
 
-![Photo of a tall, herbaceous plant with long spikes of small yellow flowers growing alongside a gravel road with grass and tall conifer trees on the other side.]({{ site.baseurl }}/assets/images/species-reviews/vertha_feis-VERTHA_AZroadside.jpg)
+![Photo of a tall, herbaceous plant with long spikes of small yellow flowers growing alongside a gravel road with grass and tall conifer trees on the other side.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-VERTHA_AZroadside.jpg?itok=9TKHEYPa)
 
 Photo Credit
 
@@ -127,7 +127,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 Common mullein is a densely woolly, sturdy biennial that may reach more than 7 feet (2 m) tall in its flowering year [36,66,113,144]. Annual and triennial forms occasionally occur [110]. A basal rosette of large furry leaves and a substantial crown are produced in the first year [10]. In the second year, common mullein typically produces a single, stout (>1 cm thick), erect flowering stem. One or more erect branches near the base of the inflorescence are normal [56,104,131]. Basal leaves are simple, measure 3 to 20 inches (8-50 cm) long, and may be persistent. Stem leaves are alternate, and their size is reduced toward the inflorescence [30,104,144]. The thick coating of branched hairs on the stems and leaves breaks the force of surface winds and prevents water loss to evaporation [10].
 
-![Photo of the top of an herbaceous plant showing abnormal growth at the top of the long flower spike.]({{ site.baseurl }}/assets/images/species-reviews/vertha_feis-VERTHA_fasciated.jpg)
+![Photo of the top of an herbaceous plant showing abnormal growth at the top of the long flower spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-VERTHA_fasciated.jpg?itok=AT_kvSB8)
 
 Photo Credit
 
@@ -360,7 +360,7 @@ For more information on common mullein and fire, see Fire Ecology and Management
 
 ## Fire Ecology and Management
 
-![Photo of a large field adjacent to a forested hillside and dominated by a large patch of single-stemmed, herbaceous plants with long spikes of small yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/vertha_feis-VERTHA_burned_0.jpg)
+![Photo of a large field adjacent to a forested hillside and dominated by a large patch of single-stemmed, herbaceous plants with long spikes of small yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-VERTHA_burned_0.jpg?itok=4whyM3oD)
 
 Photo Credit
 
@@ -506,7 +506,7 @@ Today common mullein is one of several plants used in herbal ear drops used to t
 
 ## Impacts
 
-![Photo of a patch of tall green herbaceous plants with large leaves and a spike of small yellow flowers at the top.]({{ site.baseurl }}/assets/images/species-reviews/vertha_feis-VERTHA_patch.jpg)
+![Photo of a patch of tall green herbaceous plants with large leaves and a spike of small yellow flowers at the top.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-VERTHA_patch.jpg?itok=uaiGLKnH)
 
 Photo Credit
 

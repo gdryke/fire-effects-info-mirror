@@ -64,7 +64,7 @@ Bluejack oak is restricted to well-drained, sandy upland soils, flatwoods, and r
 
 ## Plant Communities
 
-![A photo of a broad, mounded tree with dusty green leaves growing with mixed pine trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-queinc_habitat.jpg)
+![A photo of a broad, mounded tree with dusty green leaves growing with mixed pine trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queinc_habitat.jpg?itok=vjLjNh4j)
 
 Photo Credit
 
@@ -89,7 +89,7 @@ Bluejack oak is listed as a dominant, codominant, or indicator species in the fo
 
 ## Botanical Description
 
-![A close up photo of an oak tree's long, oval leaves and round, black acorns.]({{ site.baseurl }}/assets/images/species-reviews/feis-queinc_acorns.jpg)
+![A close up photo of an oak tree's long, oval leaves and round, black acorns.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queinc_acorns.jpg?itok=b_fHUgaE)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Bluejack oak is well adapted to survive fire and may be dependent on fire to mai
 
 ## Plant Response to Fire
 
-![A photo of a dense, multi-stemmed shrub growing at the base of a large burned tree trunk. The background is an open forest with low shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-queinc_postfire.jpeg)
+![A photo of a dense, multi-stemmed shrub growing at the base of a large burned tree trunk. The background is an open forest with low shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-queinc_postfire.jpeg?itok=Vxp6t0vB)
 
 Photo Credit
 

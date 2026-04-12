@@ -59,7 +59,7 @@ The scientific name of mountain big sagebrush is _Artemisia tridentata_ subsp. _
  * _Artemisia tridentata_ Nutt. subsp. _wyomingensis_ Beetle & Young, Wyoming big sagebrush
  * _Artemisia tridentata_ Nutt. subsp. _xericensis_ Winward ex R. Rosentreter & R. Kelsey, xeric big sagebrush
 
-![A photo of sagebrush plants with some grasses between shrubs and relatively shrubby conifers behind. The woodland appears to have similar composition well into the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_habitat.jpg)
+![A photo of sagebrush plants with some grasses between shrubs and relatively shrubby conifers behind. The woodland appears to have similar composition well into the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_habitat.jpg?itok=EEgo1Qpp)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ mountain sagebrush, Vasey sage, Vasey's big sagebrush
 
 ## General Distribution
 
-![A map of continental U.S. states and southern Canadian provinces, with many western states and provinces highlighted green.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_distribution.jpg)
+![A map of continental U.S. states and southern Canadian provinces, with many western states and provinces highlighted green.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_distribution.jpg?itok=fp8A1gsn)
 
 Photo Credit
 
@@ -426,7 +426,7 @@ A fourth, late-successional, closed stage or "mature" phase, is sometimes includ
 
 Numerous state-and-transition models have been proposed that describe successional processes—including the establishment and spread of junipers and pinyons into mountain big sagebrush communities—and model community transitions following natural and human-caused disturbances in mountain big sagebrush communities (e.g., [43,121,122,195,258,300,503,600,622,717,721]). For more information, see State-and-Transition Models.
 
-![A photo of a graph with "trees/ha" on a y-axis, "canopy cover \(%\)" on the other y-axis, and "years" on the x-axis. Polygons formed by lines at different values correspond to phases labeled "minimum stocking", "stand closure", and "max tree density & canopy cover".]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_stateandstransition_tree_establishment.jpg)
+![A photo of a graph with "trees/ha" on a y-axis, "canopy cover \(%\)" on the other y-axis, and "years" on the x-axis. Polygons formed by lines at different values correspond to phases labeled "minimum stocking", "stand closure", and "max tree density & canopy cover".](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_stateandstransition_tree_establishment.jpg?itok=UxyEweXt)
 
 Photo Credit
 
@@ -446,7 +446,7 @@ Mountain big sagebrush typically establishes early in succession in a variety of
 
 ## Immediate Fire Effects
 
-![A photo of a pine woodland burning, with flames nearly twice as tall as some trees and black smoke rising. Sagebrush plants are visible in the foreground.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fire.jpg)
+![A photo of a pine woodland burning, with flames nearly twice as tall as some trees and black smoke rising. Sagebrush plants are visible in the foreground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fire.jpg?itok=PFW-PIBZ)
 
 Photo Credit
 
@@ -520,7 +520,7 @@ Our analyses found that mountain big sagebrush canopy cover and postfire recover
 
 * * *
 
-![A map of the western United States with orange and blue shading, mostly in the intermountain region. Green dots are scattered throughout shaded areas.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_postfire_recoverya.jpg)
+![A map of the western United States with orange and blue shading, mostly in the intermountain region. Green dots are scattered throughout shaded areas.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_postfire_recoverya.jpg?itok=Mp1hRkFp)
 
 Photo Credit
 
@@ -547,17 +547,17 @@ Our analyses showed that, overall, mountain big sagebrush canopy cover increased
 
 Like canopy cover, postfire recovery generally increased with time-since-fire up to around 30 years, and then became more variable (figure 6B). When canopy cover values were averaged within 5-year time-since-fire bins, full recovery began around 26 to 30 years after fire, on average, when mountain big sagebrush canopy cover averaged around 28%. Few burns (10%) had recovered within 25 years, but most burns (67%) had recovered after 25 years. Of the 263 sites <25 years old, only 27 had recovered; five of these recovered sites had relatively low canopy cover (<20%) for their unburned comparisons [272,391,459], which might explain their rapid recovery. Of the 43 burns >25 years old, 29 had recovered. Of the 14 burns >40 years old, 12 had recovered, and the other two were 60% recovered after 41 years [767] and 87% recovered after 67 years [432].
 
-![Points plotted along "time-since-fire \(years\)" on the x-axis and "mean canopy cover \(%\)" on the y-axis, with blue triangles around a red line \(representing mean unburned cover for each sites and across all sites, respectively\). Mean burned cover is represented by orange circles and show an increasing trend from 1-5 years since fire to >70 years since fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig6_cover_over_time1.jpg)
+![Points plotted along "time-since-fire \(years\)" on the x-axis and "mean canopy cover \(%\)" on the y-axis, with blue triangles around a red line \(representing mean unburned cover for each sites and across all sites, respectively\). Mean burned cover is represented by orange circles and show an increasing trend from 1-5 years since fire to >70 years since fire.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-06/feis-arttriv_fig6_cover_over_time1.jpg?itok=EGZpOCtU)
 
 Figure 6A—Mean mountain big sagebrush canopy cover versus time-since-fire in mountain big sagebrush communities. Mean canopy cover (±SE) of mountain big sagebrush on burned sites averaged within 5-year, time-since-fire bins (circles) plotted with paired means of unburned comparisons (triangles).
 
-![A graph with "time-since-fire \(years\)" along the x-axis and "postfire recovery \(%\)" along the y-axis, with points following an increasing trend as time-since-fire increases \(to ">70 years"\).]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig6_postfire_recovery.jpg)
+![A graph with "time-since-fire \(years\)" along the x-axis and "postfire recovery \(%\)" along the y-axis, with points following an increasing trend as time-since-fire increases \(to ">70 years"\).](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-06/feis-arttriv_fig6_postfire_recovery.jpg?itok=HvNfHHX_)
 
 Figure 6B—Mean mountain big sagebrush postfire recovery versus time-since-fire in mountain big sagebrush communities. Mean ratio (±SE) of burned to unburned canopy cover (i.e., "postfire recovery") of mountain big sagebrush averaged within 5-year, time-since-fire bins. Data points above 100% indicate recovered sites.
 
 On average, a given site has a low chance of recovery (12%) within 15 years, a 50% chance of recovery in 29 years, and a high chance of recovery (95%) in 49 years (binary logistic regression, _P_ < 0.0001) (figure 7); however, the certainty around these probabilities varies. Based upon 95% confidence intervals (CI) shown by the gray area in figure 7, uncertainty of recovery is greatest for sites about 25 to 50 years after fire, due to a similar number of recovered and unrecovered sites in that age range. For example, at 40 years, the average chance of recovery is 84%, but the 95% CI ranges from about 68% to 94%. Overall, the model was better at predicting unrecovered sites (_n_ = 250) than recovered sites (_n_ = 56), an influence of the substantially larger number of unrecovered sites that had less variability in time-since-fire. Of the 250 unrecovered sites, time-since-fire averaged 12 years (range = 66 years), and postfire canopy cover averaged 6% with a low of 0% and a high of 47%. Of the 56 recovered sites, time-since-fire averaged 31 years (range = 91 years), and postfire canopy cover averaged 31% with a low of 8% and a high of 57%.
 
-![A log plot with "time-since-fire \(years\)" on the x-axis and "probability of recovery" on the y-axis, with circles clustered near the bottom, especially before 25 years, and a cluster of circles near the top, especially around 25 years and later.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig7_logplot.jpg)
+![A log plot with "time-since-fire \(years\)" on the x-axis and "probability of recovery" on the y-axis, with circles clustered near the bottom, especially before 25 years, and a cluster of circles near the top, especially around 25 years and later.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig7_logplot.jpg?itok=3au8bamg)
 
 Figure 7—Binary logistic regression analysis of mountain big sagebrush postfire recovery as a function of time-since-fire (n = 306 burned sites). Circles around the "1" line on the y-axis indicate recovered sites, and circles around the "0" line indicate sites that had not recovered to unburned canopy cover. The solid line represents the probability function derived from the prediction equation, and the gray area shows the 95% confidence interval.
 
@@ -567,13 +567,13 @@ When mountain big sagebrush canopy cover and postfire recovery were plotted agai
 
 Sites in the Middle Rockies appeared slowest to recover (figure A1). Only 1 of 63 burned sites had recovered, and only 15 sites ever exceeded 5% canopy cover within 35 years after fire (figure A1.b). Unburned canopy cover averaged 24% on these sites, which is similar to most ecoregions and suggests similar site productivity. Thus, slow recovery, overall, was not driven by high unburned cover values (i.e., highly productive comparison sites, as in the Wyoming Basin). Rather, several studies attributed the very low (<2%) mean mountain big sagebrush canopy cover up to 19 years after fire in and around Yellowstone National Park [267,398,654,681] to heavy postfire browsing by wild ungulates [267,398,681].
 
-![A plot of sites with different symbols for different ecoregions with "time-since-fire \(years\)" on the x-axis and "mean canopy cover \(%\)" on the y-axis, with mean canopy cover increasing with time-since-fire, and some clusters by ecoregion.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig8.jpg)
+![A plot of sites with different symbols for different ecoregions with "time-since-fire \(years\)" on the x-axis and "mean canopy cover \(%\)" on the y-axis, with mean canopy cover increasing with time-since-fire, and some clusters by ecoregion.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig8.jpg?itok=A5ZUtpPe)
 
 Figure 8—Mean mountain big sagebrush canopy cover by ecoregion versus time-since-fire in 5-year bins. The 20% canopy cover value is highlighted to represent typical sagebrush cover in sage-grouse winter habitat [23,141,150,535], and the 26% canopy cover value is highlighted to represent the average mountain big sagebrush canopy cover on unburned sites across all sites and ecoregions (n = 306).
 
 Not all sites in the Middle Rockies ecoregion were slow to recover. On one site, for example, mountain big sagebrush reached 20% canopy cover 15 years after fire. This site appeared to have a sprouting hybrid of mountain big sagebrush, which would lead to relatively faster postfire recovery. The identity of the hybrid was not determined, but silver sagebrush occurred nearby [1] and is known to sprout following top-kill and to hybridize with mountain big sagebrush (see Vegetative Regeneration). These results emphasize the importance of prefire plant community composition as well as prefire canopy cover in estimating postfire recovery times. While this site was not considered recovered because mean unburned cover was 30% on the paired unburned site [2], it had adequate cover to provide suitable winter habitat for greater sage-grouse [1] (figure 9).
 
-![A photo of somewhat sparse sagebrush plants with forbs and grasses between sagebrush plants and snow-capped mountains in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig9_blacktail_15th_year.jpg)
+![A photo of somewhat sparse sagebrush plants with forbs and grasses between sagebrush plants and snow-capped mountains in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig9_blacktail_15th_year.jpg?itok=TIsfRCTz)
 
 Photo Credit
 
@@ -605,7 +605,7 @@ As prefire cover of native shrubs and herbs decreases and that of conifers incre
 
 Although cheatgrass is problematic in all big sagebrush ecosystems, it is less problematic in mountain big sagebrush than Wyoming big sagebrush ecosystems (see Considerations for Nonnative Invasive Plants). Resistance of Great Basin sagebrush ecosystems to cheatgrass invasion depends on site characteristics [123], particularly soil temperature and moisture regimes and cover of perennial grasses prior to and immediately after fire [416]. Low soil temperatures constrain cheatgrass germination, growth, and reproduction in mountain big sagebrush and mixed mountain shrublands; however, soil temperatures are optimal in relatively warm, dry Wyoming big sagebrush communities. Slope, aspect, and soil characteristics modify soil temperature and moisture and influence resistance of sagebrush communities to cheatgrass establishment and spread at landscape to plant community scales [33,121,122,123,139,416] (figure 10B). For example, 3 years after fire at a high-elevation site (7,900 feet (2,400 m)) in Wyoming, cheatgrass cover was considerably greater on a southwestern aspect (20%) where Wyoming big sagebrush occurred than on eastern aspects (<3%) where mountain big sagebrush occurred [144]. In the Uinta Mountains, Utah, cheatgrass was generally uncommon in mountain big sagebrush communities on plateaus above 8,040 feet (2,450 m), but it was "conspicuous" on south-facing aspects, particularly on steep slopes (>40%) [227].
 
-![A conceptual model showing greater resilience to disturbance of north-facing slopes than south-facing slopes \(A\) and disturbed vegetation having lower resistance to cheatgrass invasion \(B\), with both related to relative warmth and precipitation characteristics.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig10_resilience_resistance.jpg)
+![A conceptual model showing greater resilience to disturbance of north-facing slopes than south-facing slopes \(A\) and disturbed vegetation having lower resistance to cheatgrass invasion \(B\), with both related to relative warmth and precipitation characteristics.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig10_resilience_resistance.jpg?itok=zMaHdnwf)
 
 Photo Credit
 
@@ -655,7 +655,7 @@ However, mountain big sagebrush density may increase following heavy livestock g
 
 ### Fuels
 
-![A photo of sagebrush-dominated vegetation on the left side of the photo, and apparently subshrub- and grass-dominated vegetation on the right side of the photo. Junipers are scattered across low hills in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig11_burnline.jpg)
+![A photo of sagebrush-dominated vegetation on the left side of the photo, and apparently subshrub- and grass-dominated vegetation on the right side of the photo. Junipers are scattered across low hills in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig11_burnline.jpg?itok=tan3GYMt)
 
 Photo Credit
 
@@ -673,7 +673,7 @@ Mountain big sagebrush sites have mostly small-diameter fuels. In the Bighole Va
 
 When trees establish and spread in mountain big sagebrush communities (see Shrubland Succession and Woodland Expansion), fuel characteristics change because cover of live mountain big sagebrush and herbaceous plants decreases as tree cover increases, and communities succeed from sagebrush steppe to late-successional conifer woodland (e.g., [35,329,413,426,523,617,688,745,750,751,765]). Fuel loads increase and peak as trees establish in early woodland succession, then decline from early to midsuccession. In late woodland succession, 10-hour fuel loads decrease, and 100-hour fuel loads increase (figure 12). In mountain big sagebrush steppe and during the initial stage of conifer establishment (Phase I), fuel loads are dominated by herbaceous plants and shrubs, the midsuccessional stage (Phase II) by shrubs and litter, and late-successional stage (Phase III) by living trees and downed dead trees and branches [688,717,751]. Dead sagebrush becomes increasingly common throughout succession. In the Sheep Rock Mountains, Utah, the percent of dead mountain big sagebrush plants in western juniper-singleleaf pinyon woodlands increased from none in <10-year-old stands to 16.2% in a 46-year-old stand, and 66.6% in stands >100 years old [35].
 
-![A line graph showing fuel loading of different fuel types in different woodland types.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig12_fuel_loading.jpg)
+![A line graph showing fuel loading of different fuel types in different woodland types.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig12_fuel_loading.jpg?itok=AFo7OHZ-)
 
 Photo Credit
 
@@ -685,7 +685,7 @@ As mountain big sagebrush steppe succeeds to woodland, tree crowns increase in s
 
 The presence of woodland vegetation can increase fire severity in mountain big sagebrush communities. An analysis of a 46,680-acre (18,890 ha) July wildfire in southwestern Idaho showed that remotely-sensed burn severity in sagebrush steppe measured 1 and 2 years after fire was negatively correlated with the amount of mountain big sagebrush and low sagebrush steppe and early-successional woodlands nearby (approximate range of _r_ -values = -0.5 to -0.7) and positively correlated with the amount of late-successional woodlands nearby (approximate range of _r_ -values = 0.5-0.7, _P_ < 0.05 for all comparisons) (figure 13) [601].
 
-![Nine photos of various unburned or burned sagebrush or woodland vegetation types.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv13_postfire_succession.jpg)
+![Nine photos of various unburned or burned sagebrush or woodland vegetation types.](https://research.fs.usda.gov/sites/default/files/styles/550px_wide/public/2025-06/feis-arttriv13_postfire_succession.jpg?itok=VKVYHvJl)
 
 Photo Credit
 
@@ -693,7 +693,7 @@ Images from Strand et al. [601] and used with permission.
 
 Figure 13—Photographs of a) mountain big sagebrush steppe before fire, b) midsuccessional woodlands before fire, c) late-successional woodlands before fire, d) mountain big sagebrush steppe 1 year after fire, e) midsuccessional woodlands 1 year after fire, f) late-successional woodlands 1 year after fire, g) mountain big sagebrush steppe 2 years after fire, h) midsuccessional woodlands 2 years after fire, and i) late-successional woodlands 2 years after fire. The photographs are not taken in the exact same location each year, but in the same potential vegetation type and structural stage.
 
-![An aerial photo of a fire with blackened vegetation at the bottom of a hill with woodland vegetation smoking on the hillside.]({{ site.baseurl }}/assets/images/species-reviews/arttriv_feis-artriv_fig14_constantia_fire.jpg)
+![An aerial photo of a fire with blackened vegetation at the bottom of a hill with woodland vegetation smoking on the hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-artriv_fig14_constantia_fire.jpg?itok=c_XJGpwn)
 
 Photo Credit
 
@@ -830,7 +830,7 @@ Box 1—Preventing the establishment of invasive plants in burned areas can be a
 
 * * *
 
-![A diagram of post-fire recovery and seeding.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_seeding.jpg)
+![A diagram of post-fire recovery and seeding.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_seeding.jpg?itok=QhtPCm6p)
 
 Photo Credit
 
@@ -899,7 +899,7 @@ There is a growing body of literature and tools to help managers manage or rehab
 
 Increasingly, managers rely on state-and-transition models to determine recovery potentials and management alternatives for sagebrush communities [395] and to explore how management alternatives may interact with natural disturbances and affect the potential long-term trajectory of the ecosystem [195]. Numerous state-and-transition models have been proposed for mountain big sagebrush communities that describe plant community states and model transitions between states resulting from natural and human-caused disturbances (e.g., [43,121,122,195,245,258,300,503,600,622,717]). Recent models incorporate information on resilience to disturbance and resistance to nonnative annual grasses (e.g., [121]). Changes in disturbance regimes and the establishment and spread of nonnative species can cause plant communities to decline in resilience, with the potential for crossing a threshold to a new state that differs in plant composition, structure, and function. Once a threshold is crossed, a return to the former state is often difficult (and often expensive) to achieve because of altered species composition and site attributes [43,345]. More degraded states are typically less likely to be successfully rehabilitated or restored than healthier states [121]. Wildfire can either help to maintain ecosystem function within a desirable ecological state, or move the ecosystem to a less desirable ecological state, such as one dominated by nonnative annual grasses [622]. Careful assessment of site condition is necessary to determine the relevance of a particular state-and-transition model, the suitability of a site for management, and the most appropriate treatment(s) for the site [121].
 
-![A diagram or economic costs of various treatment methods with relation to wildfire, ecological succession, and treatment success.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig16_stm.png)
+![A diagram or economic costs of various treatment methods with relation to wildfire, ecological succession, and treatment success.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig16_stm.png?itok=XxbQQl0l)
 
 Photo Credit
 
@@ -967,7 +967,7 @@ None
 
 ## Importance to Wildlife and Livestock
 
-![A photo of a small bird standing on a sagebrush twig.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_sparrow.jpg)
+![A photo of a small bird standing on a sagebrush twig.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_sparrow.jpg?itok=3ptBvpBe)
 
 Photo Credit
 
@@ -1059,7 +1059,7 @@ Since European-American settlement, density of junipers and pinyons has increase
 
 The greatest proportion of conifer expansion has occurred on cool to warm, relatively moist sagebrush sites (table 7, figure 18), particularly in mountain big sagebrush communities and low sagebrush communities on moderately deep soils. Conifer expansion has also occurred on relatively cool, moist sites in black sagebrush and Wyoming big sagebrush communities [303,416,419]. The probability of woodlands replacing these sagebrush communities increases on productive sites with nearby conifer seed sources, when fire-free intervals are >50 years [419].
 
-![A map of some western states, with colored shading from south-central Nevada, Utah, and western Colorado north to the Canadian border.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig18_soil_regimes1.jpg)
+![A map of some western states, with colored shading from south-central Nevada, Utah, and western Colorado north to the Canadian border.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig18_soil_regimes1.jpg?itok=2loqWMYl)
 
 Photo Credit
 
@@ -1073,7 +1073,7 @@ Some authors have attributed juniper expansion since European-American settlemen
 
 While conifer expansion is a concern in many big sagebrush communities, tree density and canopy cover have not changed or have declined in many pinyon-juniper communities in the western United States (e.g., [81,368,539]). At Dinosaur National Monument and the surrounding area, a comparison of historical vegetation reconstructed using General Land Office survey records from 1910 with modern records showed a net decline in pinyon-juniper woodlands and montane shrublands and an increase in sagebrush shrublands (a combination of mountain big sagebrush and Wyoming big sagebrush communities). Shorter fire rotations since European-American settlement appeared to be driving the decline. Pinyon-juniper woodlands converted mostly to sagebrush shrublands and grasslands. However, some pinyon-juniper expansion did occur near historical pinyon-juniper-sagebrush ecotones, particularly at 6,600 to 7,900 feet (2,000-2,400 m) and on 10% to 30% slopes [16].
 
-![Successional model showing that the degree of tree encroachment and site productivity influenced by time since the last fire.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig19_woodland_succession.jpg)
+![Successional model showing that the degree of tree encroachment and site productivity influenced by time since the last fire.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig19_woodland_succession.jpg?itok=rKv3yFXP)
 
 Photo Credit
 
@@ -1120,7 +1120,7 @@ tansy ragwort| U| U| U| U| U
 yellow starthistle| M| M| M| L| H 
 yellow toadflax| M| M| U| L| M 
  
-![A map of the Great Basin and Columbia Plateau, with red and white shading, with red concentrated in the northern part of the shown area.]({{ site.baseurl }}/assets/images/species-reviews/feis-arttriv_fig20_cheatgrass_distribution.jpg)
+![A map of the Great Basin and Columbia Plateau, with red and white shading, with red concentrated in the northern part of the shown area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-arttriv_fig20_cheatgrass_distribution.jpg?itok=DRwUc5uk)
 
 Photo Credit
 
@@ -1342,7 +1342,7 @@ Summary of postfire recovery studies
 
 Thumbnail
 
-[![ARTTRIV_TableA3.pdf]({{ site.baseurl }}/assets/images/species-reviews/arttriv_ARTTRIV_TableA3.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-06/ARTTRIV_TableA3.pdf>)
+[![ARTTRIV_TableA3.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-06/ARTTRIV_TableA3.pdf-p1.jpg?itok=-l26Qr0W)](<https://research.fs.usda.gov/sites/default/files/2025-06/ARTTRIV_TableA3.pdf>)
 
 ## Figure A1
 
@@ -1350,7 +1350,7 @@ Postfire canopy cover and recovery by ecoregion
 
 Thumbnail
 
-[![ARTTRIV_FigureA1.pdf]({{ site.baseurl }}/assets/images/species-reviews/arttriv_ARTTRIV_FigureA1.pdf-p1.jpg)](<https://research.fs.usda.gov/sites/default/files/2025-06/ARTTRIV_FigureA1.pdf>)
+[![ARTTRIV_FigureA1.pdf](https://research.fs.usda.gov/sites/default/files/styles/media_library/public/2025-06/ARTTRIV_FigureA1.pdf-p1.jpg?itok=fsi3xB2O)](<https://research.fs.usda.gov/sites/default/files/2025-06/ARTTRIV_FigureA1.pdf>)
 
 ## References
 

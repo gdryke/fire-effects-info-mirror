@@ -38,7 +38,7 @@ Carey, Jennifer H. 1994. _Artemisia absinthium_ , absinthium. In: Fire Effects I
 
 The scientific name of absinthium is _Artemisia absinthium_ L. (Asteraceae) [2,6,7,27]. Most North American authors do not recognize varieties of absinthium. However, Boivin [2] has classified plants in Canada as insipid wormwood (_A. a._ var. _insipida_ Stechmann).
 
-![An upright, pale green plant with small pointed leaves grows in an open field environment with grasses around it, and trees in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-artabs_plant.jpg)
+![An upright, pale green plant with small pointed leaves grows in an open field environment with grasses around it, and trees in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-artabs_plant.jpg?itok=lnKs4IB_)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Absinthium, native to Europe, was introduced to North America in 1841 [15]. It i
 
 Absinthium grows on disturbed sites such as along fencelines and roadsides, on borrow pits and gravel piles, and on overgrazed pastures and fields recently abandoned from cultivation [15].
 
-![A photo of several tall, leafy forbs with fringed leaves growing in a hillside pasture, with a building in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-artabs_pasture.jpg)
+![A photo of several tall, leafy forbs with fringed leaves growing in a hillside pasture, with a building in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-artabs_pasture.jpg?itok=jzOaq-Lw)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ Absinthium occurs with western snowberry (_Symphoricarpos occidentalis_) in mois
 
 Absinthium is a nonnative, long-lived, fragrant, perennial herb that grows each year from a woody base. An individual plant has 20 or more stems each growing 1.3 to 4.9 feet (0.4-1.5 m) tall. The fruit is a cypsela without a pappus. The well-developed root system consists of a taproot occasionally reaching 2 inches (5 cm) in diameter with shallow lateral branches extending 6 feet in all directions [18]. Absinth wormwood may be weakly rhizomatous [14,27]. The roots lack the interxylary bark of some _Artemisia_ spp. which protects the roots from desiccation [15].
 
-![A close-up photo of small, understated, yellow, drooping flowers amongst sage green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-artabs_flowering.jpg)
+![A close-up photo of small, understated, yellow, drooping flowers amongst sage green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-artabs_flowering.jpg?itok=taURyrbu)
 
 Photo Credit
 

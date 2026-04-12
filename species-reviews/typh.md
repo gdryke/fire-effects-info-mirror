@@ -34,7 +34,7 @@ Tesky, Julie L. 1994. _Tympanuchus phasianellus_ , sharp-tailed grouse. In: Fire
 
 ## Image Gallery
 
-![A male sharp-tailed grouse displaying its colorful head and neck.]({{ site.baseurl }}/assets/images/species-reviews/feis-typh_sharp-tailed-grouse.jpg) A sharp-tailed grouse at the Charles M. Russell National Wildlife Refuge, Montana. _Photo by Brett Billins, U.S. Fish and Wildlife Service_
+![A male sharp-tailed grouse displaying its colorful head and neck.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-typh_sharp-tailed-grouse.jpg) A sharp-tailed grouse at the Charles M. Russell National Wildlife Refuge, Montana. _Photo by Brett Billins, U.S. Fish and Wildlife Service_
 
 Photo Credit: Photo by Brett Billins, U.S. Fish and Wildlife Service
 
@@ -98,7 +98,7 @@ Northern, Northwestern and Alaskan sharp-tailed grouse inhabit brushy stages of 
 
 ## Biological Characteristics
 
-![A male sharp-tailed grouse displaying its colorful head and neck.]({{ site.baseurl }}/assets/images/species-reviews/feis-typh_sharp-tailed-grouse.jpg)
+![A male sharp-tailed grouse displaying its colorful head and neck.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-typh_sharp-tailed-grouse.jpg?itok=zGZ8oqEc)
 
 Photo Credit
 

@@ -68,7 +68,7 @@ Dwarf birch is a widespread arctic species with a circumpolar distribution. In N
  * United States: AK
  * Canada: AB BC MB NF NT NS NU PQ SK YK
 
-![Photo showing dwarf birch growing on the tundra in Chugach State Park, AK]({{ site.baseurl }}/assets/images/species-reviews/betnan_betnan_habitat_0_0.jpg)
+![Photo showing dwarf birch growing on the tundra in Chugach State Park, AK](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/betnan_habitat_0_0.jpg?itok=m4r4veuz)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Dwarf birch is listed as a dominant species in the following vegetation classifi
 
 ## Botanical and Ecological Characteristics
 
-![Photo showing dwarf birch catkins on branch tips.]({{ site.baseurl }}/assets/images/species-reviews/feis-betnan_catkin.jpg)
+![Photo showing dwarf birch catkins on branch tips.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-02/feis-betnan_catkin.jpg?itok=Vg3a6KsD)
 
 Photo Credit
 

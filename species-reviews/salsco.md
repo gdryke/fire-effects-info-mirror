@@ -36,7 +36,7 @@ Anderson, Michelle D. 2001. _Salix scouleriana_ , Scouler's willow. In: Fire Eff
 
 ## Taxonomy
 
-![Photo of Scouler's willow foliage in the sun.]({{ site.baseurl }}/assets/images/species-reviews/feis-salsco_plant_0.jpg)
+![Photo of Scouler's willow foliage in the sun.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-salsco_plant_0.jpg?itok=ERVwJtzF)
 
 Photo Credit
 
@@ -121,7 +121,7 @@ Classifications describing plant communities in which Scouler's willow is a domi
 
 ## Botanical Description
 
-![Close up photo of the end of a slender, brown branch with catkins emerging from small alternate branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-salsco_catgins.jpg)
+![Close up photo of the end of a slender, brown branch with catkins emerging from small alternate branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-salsco_catgins.jpg?itok=77tHkPFx)
 
 Photo Credit
 

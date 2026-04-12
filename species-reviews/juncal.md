@@ -59,7 +59,7 @@ California juniper is distributed from Shasta County, California, south as far a
 
 ## Site Characteristics
 
-![A landscape photo of a tan, rock landscape with two large, shrubby conifer trees growing out of the boulders and bedrock. It is sunny and the sky is blue. A few dry grasses and small plants are visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncal_habitat.jpeg)
+![A landscape photo of a tan, rock landscape with two large, shrubby conifer trees growing out of the boulders and bedrock. It is sunny and the sky is blue. A few dry grasses and small plants are visible.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-juncal_habitat.jpeg?itok=PkEH3gX_)
 
 Photo Credit
 
@@ -99,7 +99,7 @@ California juniper is listed as a codominant or dominant species in the followin
 
 ## Botanical Description
 
-![A close up photo of a conifer with tight green needles and many pale, dusty blue berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncal_berries.jpg)
+![A close up photo of a conifer with tight green needles and many pale, dusty blue berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-juncal_berries.jpg?itok=U1ja6uXT)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Mature California juniper is not shade tolerant. Seedlings, however, appear to b
 
 ## Immediate Fire Effects
 
-![A landscape photo with a large, round, brown, dead shrub growing in an open area. There are other burned trunks of what look like cacti or palm-type plants, and some dry grasses growing on the ground.]({{ site.baseurl }}/assets/images/species-reviews/feis-juncal_postfire.jpeg)
+![A landscape photo with a large, round, brown, dead shrub growing in an open area. There are other burned trunks of what look like cacti or palm-type plants, and some dry grasses growing on the ground.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-juncal_postfire.jpeg?itok=-gR-eHWU)
 
 Photo Credit
 

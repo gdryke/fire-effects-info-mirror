@@ -46,7 +46,7 @@ The currently accepted scientific name for the golden eagle is _Aquila chrysaeto
 
 _Aquila chrysaetos canadensis_ is the only subspecies that occurs in North America [9,21].
 
-![A golden eagle spreads its wings while perched on a branch.]({{ site.baseurl }}/assets/images/species-reviews/feis-aqch_golden-eagle.jpg)
+![A golden eagle spreads its wings while perched on a branch.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-aqch_golden-eagle.jpg?itok=_RkgugDc)
 
 Photo Credit
 

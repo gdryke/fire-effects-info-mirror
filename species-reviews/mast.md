@@ -64,7 +64,7 @@ In North America the gadwall winters from coastal Alaska south to southern Mexic
 
 During the breeding season, gadwalls often inhabit islands in wetland communities with patches of dense western snowberry (Symphoricarpos occidentalis), slim nettle (Urtica gracilis), Canada thistle (Cirsium arvense), rose (Rosa spp.), and brome (Bromus spp.). Additionally, gadwalls commonly use areas dominated by cattail (Typha spp.), bulrush (Scirpus spp.), sedge (Carex spp.), and common rivergrass (Scolochloa festucacea) [8]. Gadwalls will also use upland cover types of cropland, pasture and hayland, grassland, and mixed prairie and weed [8,9,16].
 
-![Male gadwall.]({{ site.baseurl }}/assets/images/species-reviews/feis-mast_swimming.jpg)
+![Male gadwall.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-mast_swimming.jpg?itok=Q6Qv1YrE)
 
 Photo Credit
 
@@ -84,7 +84,7 @@ Male gadwall in Washington Park Arboretum, Seattle.
  * Maturity - Gadwalls become sexually mature and acquire their breeding plumage during their first winter [6].
  * Migration - Gadwalls are one of the last ducks to arrive on breeding areas in the spring [1]. Some early dates of arrival for various areas in North America are as follows [2]: Southern Iowa - March 10 Minnesota, Heron Lake - March 17 Montana - April 1 Manitoba - April 23 Saskatchewan - April 18 Alberta - May 5
 
-![Male gadwall.]({{ site.baseurl }}/assets/images/species-reviews/feis-mast_male.jpg)
+![Male gadwall.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-mast_male.jpg?itok=QKuShZQ9)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ Image by Andreas Trepte with some rights reserved (CC BY-SA 2.5)
 
 Male gadwall.
 
-![Female gadwall.]({{ site.baseurl }}/assets/images/species-reviews/feis-mast_female.jpg)
+![Female gadwall.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-mast_female.jpg?itok=2UmtNE4P)
 
 Photo Credit
 

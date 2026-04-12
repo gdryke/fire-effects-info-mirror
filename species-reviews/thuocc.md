@@ -61,7 +61,7 @@ Northern white-cedar occurs in southeastern Canada and the adjacent northern Uni
 
 Northern white-cedar grows on both uplands and lowlands. The uplands are primarily seepage areas, old fields, and limestone cliffs and boulder fields. The lowland sites include swamps, streambanks, and lakeshores. Northern white-cedar occurs from near sea level to more than 2,000 feet (600 m) in elevation. It grows up to 4,270 feet (1,300 m) in the Adirondack Mountains in New York on sites where water is flowing over rocks [26].
 
-![A photo of a conifer tree growing on the side of a rocky cliff, with branches hanging down and then pointing out. At the bottom of the cliff is a river with light blue water.]({{ site.baseurl }}/assets/images/species-reviews/feis-thuocc_cliff.jpg)
+![A photo of a conifer tree growing on the side of a rocky cliff, with branches hanging down and then pointing out. At the bottom of the cliff is a river with light blue water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-thuocc_cliff.jpg?itok=aygijRXe)
 
 Photo Credit
 
@@ -98,7 +98,7 @@ The groundcover in northern white-cedar swamp forests includes sphagnum and othe
 
 ## Botanical Description
 
-![A close up photo of a conifer tree's scaled needles and small brown open cones.]({{ site.baseurl }}/assets/images/species-reviews/feis-thuocc_cones.jpeg)
+![A close up photo of a conifer tree's scaled needles and small brown open cones.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-thuocc_cones.jpeg?itok=HmoGZYvl)
 
 Photo Credit
 

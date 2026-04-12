@@ -34,7 +34,7 @@ Coladonato, Milo. 1991. _Juglans nigra,_ black walnut. In: Fire Effects Informat
 
 ## Image Gallery
 
-![A photo looking up into a tree with light green, pointed leaves. At the center is a cluster of 3 round, green fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugnig_plant.jpg) Black walnut with fruits. _Photo by Rebekah D. Wallace, University of Georgia, Bugwood.org._
+![A photo looking up into a tree with light green, pointed leaves. At the center is a cluster of 3 round, green fruits.](https://research.fs.usda.gov/sites/default/files/2025-05/feis-jugnig_plant.jpg) Black walnut with fruits. _Photo by Rebekah D. Wallace, University of Georgia, Bugwood.org._
 
 Photo Credit: Photo by Rebekah D. Wallace, University of Georgia, Bugwood.org.
 
@@ -91,7 +91,7 @@ Black walnut normally begins flowering about mid-April in the southern part of i
 
 ## Regeneration Processes
 
-![A photo looking up into a tree with light green, pointed leaves. At the center is a cluster of 3 round, green fruits.]({{ site.baseurl }}/assets/images/species-reviews/feis-jugnig_plant.jpg)
+![A photo looking up into a tree with light green, pointed leaves. At the center is a cluster of 3 round, green fruits.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-jugnig_plant.jpg?itok=9EqX64V6)
 
 Photo Credit
 

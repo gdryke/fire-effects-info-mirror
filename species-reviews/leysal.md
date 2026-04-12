@@ -48,7 +48,7 @@ Salina wildrye subspecies are as follows:
 
 Saline wildrye (_L. s._ subsp. _salmonis_) hybridizes with bottlebrush squirreltail (_Elymus elymoides_), though resulting plants are sterile [32].
 
-![A photo of large bunchgrasses growing with mat shrubs with bare ground between plants. A few shrubby conifers grow in the near distance, and a snow-capped peak rises in the far distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-leysal_stand.jpg)
+![A photo of large bunchgrasses growing with mat shrubs with bare ground between plants. A few shrubby conifers grow in the near distance, and a snow-capped peak rises in the far distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leysal_stand.jpg?itok=NTC72pLP)
 
 Photo Credit
 
@@ -91,7 +91,7 @@ Though some authors report that saline wildrye is restricted to a narrow elevati
 
 ## Plant Communities
 
-![A photo of a golden grass with dried reproductive spikes growing on a slope in a very sparse, graminoid-dominated understory of a pinyon-juniper woodland. A mesa or hill rising behind is visible through the trees.]({{ site.baseurl }}/assets/images/species-reviews/feis-leysal_pj.jpg)
+![A photo of a golden grass with dried reproductive spikes growing on a slope in a very sparse, graminoid-dominated understory of a pinyon-juniper woodland. A mesa or hill rising behind is visible through the trees.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leysal_pj.jpg?itok=yz4H9_nq)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Classifications identifying saline wildrye as a plant community dominant include
 
 ## Botanical Description
 
-![A close-up photo of a green, narrow reproductive grass spike.]({{ site.baseurl }}/assets/images/species-reviews/feis-leysal_spike.jpg)
+![A close-up photo of a green, narrow reproductive grass spike.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-leysal_spike.jpg?itok=TS-qBOVo)
 
 Photo Credit
 

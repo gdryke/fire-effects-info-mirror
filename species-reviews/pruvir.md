@@ -36,7 +36,7 @@ Johnson, Kathleen A. 2000. _Prunus virginiana_ , chokecherry. In: Fire Effects I
 
 ## Taxonomy
 
-![A photo of a leafy green shrub with cylindrical bunches of white flowers drooping below the stem they are growing from.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruvir_flowers.jpg)
+![A photo of a leafy green shrub with cylindrical bunches of white flowers drooping below the stem they are growing from.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pruvir_flowers.jpg?itok=Em-3cis8)
 
 Photo Credit
 
@@ -162,7 +162,7 @@ Chokecherry is listed as a dominant or indicator species in the following publis
 
 ## Botanical Description
 
-![A photo of a leafy shrub with dark purple berries in drooping clusters.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruvir_fruits.jpeg)
+![A photo of a leafy shrub with dark purple berries in drooping clusters.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pruvir_fruits.jpeg?itok=aKo-kDVj)
 
 Photo Credit
 
@@ -196,7 +196,7 @@ Leaves fallen/withered| 30 September| 14 October
 
 Chokecherry reproduces sexually and vegetatively. In laboratory experiments involving excised rhizomes which were approximately 11 years of age, Schier [129] observed that chokecherry rhizomes sprouted at a faster rate and had higher sprouting percentages than Gambel oak (_Quercus gambelii_) rhizomes.
 
-![A photo of many young chokecherry stems growing on a grassy hillside.]({{ site.baseurl }}/assets/images/species-reviews/feis-pruvir_thicket.jpg)
+![A photo of many young chokecherry stems growing on a grassy hillside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-pruvir_thicket.jpg?itok=ljqbyADf)
 
 Photo Credit
 

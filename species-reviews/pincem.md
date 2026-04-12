@@ -72,7 +72,7 @@ Mexican pinyon is found on nearly level to steep slopes, foothills and ridgetops
 
 Mexican pinyon typically occurs from 4,000 to 7,000 feet (1,219-2,188 m) in elevation [14,19,33,84]. The maximum elevation of Mexican pinyon changes with latitude, extending from as low as 2,000 feet (610 m) in the northeastern part of its range to as high as 8,203 feet (2,500 m) in southern Mexico [13,80,93].
 
-![A photo of a low, round-crowned conifer tree growing on bare red bedrock, with roots snaking over the rock and into cracks.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincem_habitat.jpg)
+![A photo of a low, round-crowned conifer tree growing on bare red bedrock, with roots snaking over the rock and into cracks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pincem_habitat.jpg?itok=X1g29R2O)
 
 Photo Credit
 
@@ -106,7 +106,7 @@ Woody species associated with Mexican pinyon but not mentioned in Table A1 inclu
 
 ## Botanical Description
 
-![A photo of the top of a conifer tree with bundles of pale green needles and several open brown cones at the tips of the branches.]({{ site.baseurl }}/assets/images/species-reviews/feis-pincem_cones.jpg)
+![A photo of the top of a conifer tree with bundles of pale green needles and several open brown cones at the tips of the branches.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-pincem_cones.jpg?itok=SEdhYM0e)
 
 Photo Credit
 

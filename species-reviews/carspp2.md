@@ -44,7 +44,7 @@ According to Ford and others [42], studies by A. A. Reznicek at the University o
 
 There is little apparent difference between beaked sedge and Northwest Territory sedge, other than small morphological characteristics. The ecological and habitat characteristics are the same. The majority of literature cited in this review names _C. rostrata_ as the plant studied; however, this identification is suspect given the recent changes in accepted taxonomy and the large overlapping ranges of these two species. Given this confusion, beaked sedge and Northwest Territory sedge are not distinguished throughout most of this review. The common name "beaked sedge" is used when referring to species identified in the literature as either _C. rostrata_ or _C. utriculata_ , because this is the most common name used in the literature. Where information can be uniquely attributed to Northwest Territory sedge, it is noted.
 
-![A photo of the reproductive parts of a sedge, with two light green cylinders of stacked perigynia.]({{ site.baseurl }}/assets/images/species-reviews/carspp2_feis-carros_plant.jpg)
+![A photo of the reproductive parts of a sedge, with two light green cylinders of stacked perigynia.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carros_plant.jpg?itok=7MPWDobQ)
 
 Photo Credit
 
@@ -52,7 +52,7 @@ Photo by Samuel Brinker, iNaturalist.org, some rights reserved.
 
 Beaked sedge growing in Ontario, Canada ([CC BY-NC 4.0](<https://creativecommons.org/licenses/by-nc/4.0/>)).
 
-![A photo of the reproductive parts of a sedge, with two light green and brown cylinders of stacked perigynia on a narrow green stem.]({{ site.baseurl }}/assets/images/species-reviews/carspp2_feis-carutr_plant.jpg)
+![A photo of the reproductive parts of a sedge, with two light green and brown cylinders of stacked perigynia on a narrow green stem.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carutr_plant.jpg?itok=KXkxg1s0)
 
 Photo Credit
 
@@ -100,7 +100,7 @@ Flora of North America provides distributional maps of beaked sedge and Northwes
 
 Sites where beaked sedge commonly occurs include shrub heaths, open and wooded fens, wet meadows, bogs, peatlands, prairie potholes, seeps, wetlands, and riparian areas [1,2,21,27,43,44,49,51,68,69,71,84,93,96,100,104,131,133,137,144,146,153,158]. Beaked sedge stands typically colonize wet meadows and seeps with subsurface flow and are often associated with active or abandoned beaver complexes [52,103]. Beaked sedge is tolerant of seasonal flooding, shallow water table depths, and anaerobic soil conditions [39,91,144]. In the Northeast, Northwest Territory sedge may dominate areas in open sphagnum peatlands [3] or where an existing sphagnum mat has been disturbed [137]. Stands dominated by Northwest Territory sedge are common and characteristic of peatlands throughout the Rocky Mountains that have seasonal standing water up to 15 inches (40 cm) deep [26,30,122].
 
-![A photo of a lake with small trees and dense sedges growing at its edge. Conifers grow behind the lake in the background.]({{ site.baseurl }}/assets/images/species-reviews/carspp2_feis-carros_habitat.jpg)
+![A photo of a lake with small trees and dense sedges growing at its edge. Conifers grow behind the lake in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carros_habitat.jpg?itok=2Gsyovkw)
 
 Photo Credit
 
@@ -143,7 +143,7 @@ Wyoming| 5,000 to 11,000 feet (1,524-3,353 m) [26,29,46,65,155]
 
 In western North America, beaked sedge occurs as a dominant herbaceous component of riparian communities; subarctic, boreal, and north-temperate wetlands; and wet subalpine meadows [1,9,23,24,36,41,65,116,122,128]. Common and potentially codominant sedge species include Nebraska sedge (_C. nebrascensis_), leafy tussock sedge (_C. aquatilis_), smallwinged sedge (_C. microptera_), wheat sedge (_C. atherodes_), woollyfruit sedge (_C. lasiocarpa_), mountain sedge (_C. scopulorum_), analogue sedge (_C. simulata_), and blister sedge (_C. vesicaria_) [1,20,21,23,24,102,103,118,119,122,123,128,131,138,144]. Other herbaceous associates include bluejoint reedgrass (_Calamagrostis canadensis_), tufted hairgrass (_Deschampsia cespitosa_), spotted water hemlock (_Cicuta maculata_), fowl mannagrass (_Glyceria striata_), creeping bentgrass (_Agrostis stolonifera_), Baltic rush (_Juncus balticus_), and Kentucky bluegrass (_Poa pratensis_) [1,21,100,102,103,119,128,144]. Beaked sedge is also common in willow (_Salix_ spp.) and shrub fens [30,36]. A study of fen vegetation in Rocky Mountain National Park found that beaked sedge had a low presence in treed fen areas but comprises 5% to 25% of cover in herbacous fen areas [72].
 
-![A photo of evenly spaced and somewhat dense sedges growing in shallow water with conifers in the background.]({{ site.baseurl }}/assets/images/species-reviews/carspp2_feis-carutr_habitat.jpg)
+![A photo of evenly spaced and somewhat dense sedges growing in shallow water with conifers in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-carutr_habitat.jpg?itok=HaiKzGyX)
 
 Photo Credit
 

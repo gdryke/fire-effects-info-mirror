@@ -38,7 +38,7 @@ Howard, Janet L. 2004. _Sorghum halepense_ , Johnsongrass. In: Fire Effects Info
 
 The scientific name of Johnsongrass is _Sorghum halepense_ (L.) Pers. (Poaceae) [49,70,72,93,109,111,149,176,184,194,200,201,204,206]. _Sorghum_ species are interfertile, and Johnsongrass readily hybridizes with sorghum (_S. bicolor_) [11,70,72,206]. In the southern Great Plains and South, plants classified as Johnsongrass may actually be stable Johnsongrass × sorghum introgrades [72,182,206].
 
-![A photo of a large bunchgrass with reddish inflorescences.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorhal_habitat.jpg)
+![A photo of a large bunchgrass with reddish inflorescences.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sorhal_habitat.jpg?itok=eqMJ59KL)
 
 Photo Credit
 
@@ -58,7 +58,7 @@ johnson grass, Johnsongrass, johnsongrass
 
 ## General Distribution
 
-![A photo of a lush green grass with large, open, reddish panicles rising above its thick green leaves. A field of golden grasses is just behind the lush grass, but there is bare ground around the lush grass.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorhal_plant2.jpg)
+![A photo of a lush green grass with large, open, reddish panicles rising above its thick green leaves. A field of golden grasses is just behind the lush grass, but there is bare ground around the lush grass.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sorhal_plant2.jpg?itok=GrnUytCZ)
 
 Photo Credit
 
@@ -104,7 +104,7 @@ Johnsongrass is most common in ecosystems with moist to mesic moisture regimes i
 
 A vegetation survey on the lower Rio Grande of Texas found Johnsongrass was the most common herbaceous cover (34%) in Fremont cottonwood-Goodding willow (_Populus fremontii-Salix gooddingii_) communities, followed by docks (_Rumex_ spp.) (32% cover). Saltcedar (_Tamarix chinensis_ ) and seepwillow (_Baccharis_ spp.) were most common in the shrub layer [56]. On the Tensas River National Wildlife Refuge, Louisiana, Johnsongrass is waa dominant herbaceous species (8% cover) in winged elm-American elm-cedar elm-green ash (_Ulmus alata-U. americana-U. crassifolia-Fraxinus pennsylvanica_) woodlands. Other dominant herbs included purple loosestrife (_Lythrum salicaria_ , 21% cover), trumpet creeper (_Campsis radicans_ , 13% cover), and bushy bluestem (_Andropogon glomeratus_ , 7% cover) [123].
 
-![A photo of a tall grass with open panicles growing in front of a monoculture of deep green stems with some open water.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorhal_field.jpg)
+![A photo of a tall grass with open panicles growing in front of a monoculture of deep green stems with some open water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sorhal_field.jpg?itok=uHoRi8Kl)
 
 Photo Credit
 
@@ -126,7 +126,7 @@ Johnsongrass was planted as a forage grass in wetland areas of the Southwest [4]
 
 The following description of Johnsongrass provides characteristics that may be relevant to fire ecology, and is not meant for identification. Keys for identification are available (e.g., [72,93,94,96,111,149,176,194]).
 
-![A photo of an uprooted grass laying on a white background with dirt in its thick, white roots and green leaves above.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorhal_plant.jpg)
+![A photo of an uprooted grass laying on a white background with dirt in its thick, white roots and green leaves above.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sorhal_plant.jpg?itok=UlUtm6Zz)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ Photo by Allan Kates, Virginia Polytechnic Institute (in [84]).
 
 Entire Johnsongrass plant.
 
-![A photo of a thick, pale rhizome with the pale bases of culms extending from it and thick roots growing from it.]({{ site.baseurl }}/assets/images/species-reviews/feis-sorhal_rhiz.jpg)
+![A photo of a thick, pale rhizome with the pale bases of culms extending from it and thick roots growing from it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sorhal_rhiz.jpg?itok=ffv6hRVZ)
 
 Photo Credit
 

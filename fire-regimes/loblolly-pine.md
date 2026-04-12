@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for loblolly pine communities has not yet been 
 
 ## Distribution
 
-![A map showing the distribution of loblolly pine communities in the southeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/loblolly-pine_feis-Loblolly_Pine_locator.jpg)
+![A map showing the distribution of loblolly pine communities in the southeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-Loblolly_Pine_locator.jpg?itok=oJ14aYHX)
 
 Photo Credit
 

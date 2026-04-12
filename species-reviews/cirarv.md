@@ -50,7 +50,7 @@ Californian thistle, creeping thistle, field thistle
 
 ## General Distribution
 
-![Close-up photo of a cluster of purple flowers atop green foliage against a background of green plants.]({{ site.baseurl }}/assets/images/species-reviews/cirarv_feis-CIRARV_flowers.jpg)
+![Close-up photo of a cluster of purple flowers atop green foliage against a background of green plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRARV_flowers.jpg?itok=njk-rzrS)
 
 Photo Credit
 
@@ -85,7 +85,7 @@ Generally, Canada thistle establishes and develops best on open, moist, disturbe
 
 ## Plant Communities
 
-![Photo of a large field with patches of vegetation distinguished by different colors, including a large swath of purple.]({{ site.baseurl }}/assets/images/species-reviews/cirarv_feis-CIRARV_Infestation.jpg)
+![Photo of a large field with patches of vegetation distinguished by different colors, including a large swath of purple.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRARV_Infestation.jpg?itok=MGWNr1QJ)
 
 Photo Credit
 
@@ -111,7 +111,7 @@ In **California** , Canada thistle infests middle-elevation Sierran meadows, inc
 
 ## Botanical Description
 
-![Photo of a cluster of prickly plants with green foliage and small purple flowers against a blue sky.]({{ site.baseurl }}/assets/images/species-reviews/cirarv_feis-CIRARV_field2.jpg)
+![Photo of a cluster of prickly plants with green foliage and small purple flowers against a blue sky.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRARV_field2.jpg?itok=TMzOkyF7)
 
 Photo Credit
 
@@ -131,7 +131,7 @@ While allelopathy has not been conclusively demonstrated for Canada thistle, thi
 
  * Geophyte [178]
 
-![Photo of three spiny green plants topped with clusters of flowerheads gone to seed, as indicated by their fluffy white appearance.]({{ site.baseurl }}/assets/images/species-reviews/cirarv_feis-CIRARV_InSeed.jpg)
+![Photo of three spiny green plants topped with clusters of flowerheads gone to seed, as indicated by their fluffy white appearance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRARV_InSeed.jpg?itok=_4xwBoBb)
 
 Photo Credit
 
@@ -177,7 +177,7 @@ Canada thistle reproduces both sexually by seed and vegetatively by creeping roo
 
 **Seed banking** : The soil seed bank does not usually contain large numbers of Canada thistle seeds [36,184], although there is evidence of seed banking in a coastal British Columbia coniferous forest soil [110], in mature forest sites in central Idaho [117], and in the Delta Marsh in Manitoba [229]. Length of survival is related to depth of burial, with seeds surviving up to 22 years when they are buried more than 8 inches (20 cm) deep [78]. Under more natural conditions of shallower burial and periodic soil disturbance, Canada thistle seeds are more short lived (<5 years), with most seed being lost from the soil seed bank by germination during the 1st year [55]. Seeds that have been in water for several months can still be viable [84]. Donald [55] summarizes the research on seed banking in Canada thistle and the effects of seed immersion in water.
 
-![Photo looking down on a patch of green, spiny rosettes.]({{ site.baseurl }}/assets/images/species-reviews/cirarv_feis-CIRARV_sprouts%26seedlings.jpg)
+![Photo looking down on a patch of green, spiny rosettes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRARV_sprouts%26seedlings.jpg?itok=i_kCpNb2)
 
 Photo Credit
 
@@ -391,7 +391,7 @@ The fragrant flowers of Canada thistle attract honeybees, the primary pollinator
 
 ## Other Management Considerations
 
-![Photo of a filed full of spiny, green plants with purple flowers.]({{ site.baseurl }}/assets/images/species-reviews/cirarv_feis-CIRARV_field.jpg)
+![Photo of a filed full of spiny, green plants with purple flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-CIRARV_field.jpg?itok=YaF64Q2b)
 
 Photo Credit
 

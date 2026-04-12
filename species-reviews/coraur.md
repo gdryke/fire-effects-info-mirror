@@ -83,7 +83,7 @@ No entry.
 
 Scrambled eggs is a winter annual or biennial forb. It is highly branched with stems usually 4 to 20 inches (10-50 cm) tall, but becoming prostrate with age [11,12,20]. Leaves are one to four times pinnately compound [12,20,28]. Flowers are borne in racemes. The fruits are capsules with seeds about 0.08 inches (0.2 cm) in diameter [11,20]. Scrambled eggs has a slender taproot [5,28].
 
-![Photo of scrambled eggs.]({{ site.baseurl }}/assets/images/species-reviews/feis-coraur.jpg)
+![Photo of scrambled eggs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-coraur.jpg?itok=KniP7ZE6)
 
 Photo Credit
 

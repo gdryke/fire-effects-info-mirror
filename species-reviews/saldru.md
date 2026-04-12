@@ -32,7 +32,7 @@ Uchytil, Ronald J. 1991. _Salix drummondiana_ , Drummond's willow . In: Fire Eff
 
 ## Image Gallery
 
-![Photo of several slender branches covered with long, narrow green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-saldru_plant.jpeg) Drummond's willow. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
+![Photo of several slender branches covered with long, narrow green leaves.](https://research.fs.usda.gov/sites/default/files/2025-09/feis-saldru_plant.jpeg) Drummond's willow. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Kallum McDonald, iNaturalist.org, no rights reserved.
 
@@ -101,7 +101,7 @@ Utah, SE Idaho| Riparian community types| Padgett & others 1989
 
 ## Botanical Description
 
-![Photo of several slender branches covered with long, narrow green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-saldru_plant.jpeg)
+![Photo of several slender branches covered with long, narrow green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-09/feis-saldru_plant.jpeg?itok=p_xgS_yc)
 
 Photo Credit
 

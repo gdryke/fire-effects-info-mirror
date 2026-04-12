@@ -38,7 +38,7 @@ Simonin, Kevin A. 2001. _Bromus madritensis, Bromus rubens_ ; compact brome, red
 
 This Species Review covers 2 related brome species: compact brome (_Bromus madritensis_ L.) and red brome (_Bromus rubens_ L.) (Poaceae). Although the 2 bromes are treated as separate species in this review, FEIS recognizes that there is taxonomic disagreement about _Bromus madritensis_ in the strict sense. Some systematists recognize compact brome and red brome as 2 subspecies of _Bromus madritensis_ : 1) the type subspecies (_Bromus madritensis_ subsp. _madritensis_) and 2) red brome (_Bromus madritensis_ subsp. _rubens_(L.) Husnot) [41,46]. There is consensus that the 2 entities are very closely related [1,84], with both scientific names used in current literature.
 
-![A photo of dense, green annual grasses with seedheads forming upright tufts. Different species of grasses and forbs are visible, but compact brome dominates the vegetation.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-bromad_plants.jpeg)
+![A photo of dense, green annual grasses with seedheads forming upright tufts. Different species of grasses and forbs are visible, but compact brome dominates the vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bromad_plants.jpeg?itok=_1xOUyyj)
 
 Photo Credit
 
@@ -69,7 +69,7 @@ Compact brome is native throughout Europe and the British Isles [36,41,46,49,76,
 
 Red brome is native to southern Europe [80]. In North America, it is distributed from central Washington south to Baja California and east to central Idaho, southwestern Texas, and Sonora [66,84]. It is casually adventive in the Northeast [36] and introduced in Hawaii [75].
 
-![A map of the continental United States, with southwestern states and a few midwestern states highlighted blue.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-bromad_map.jpg)
+![A map of the continental United States, with southwestern states and a few midwestern states highlighted blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bromad_map.jpg?itok=vyLVwRdZ)
 
 Photo Credit
 
@@ -77,7 +77,7 @@ Map courtesy of USDA, NRCS. 2018. The PLANTS Database. National Plant Data Team,
 
 Distribution of compact brome (left) in the United States.
 
-![A map of the continental United States with most desert and coastal western states highlighted blue, as well as a few eastern states.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-brorub_map.jpg)
+![A map of the continental United States with most desert and coastal western states highlighted blue, as well as a few eastern states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-brorub_map.jpg?itok=1TFTjqDS)
 
 Photo Credit
 
@@ -150,7 +150,7 @@ Classifications describing plant communities in which compact brome is a dominan
 
 #### Nevada
 
-![A photo of a carpet of dark reddish and golden-red grasses along a flat area at the base of a hill. Large shrubs grow widely spaced on the hillside with bare ground between plants.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-brorub_az.jpg)
+![A photo of a carpet of dark reddish and golden-red grasses along a flat area at the base of a hill. Large shrubs grow widely spaced on the hillside with bare ground between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-brorub_az.jpg?itok=_5CdO19Y)
 
 Photo Credit
 
@@ -176,7 +176,7 @@ Compact brome and reed brome are a cool-season [64] exotic annual grasses with c
 
 Compact brome is drought resistant, with high water-use efficiency [10,21].
 
-![A photo of the tuft-like seedheads of several compact brome individuals, with yellow out-of-focus flowers.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-bromad_plants2.jpg)
+![A photo of the tuft-like seedheads of several compact brome individuals, with yellow out-of-focus flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bromad_plants2.jpg?itok=8alr6adn)
 
 Photo Credit
 
@@ -184,7 +184,7 @@ Photo by Sean, iNaturalist.org, some rights reserved.
 
 Compact brome.
 
-![A photo of somewhat dense red brome growing in rocky substrate, with bright orange flowers scattered around and a few flowering shrubs in the background.]({{ site.baseurl }}/assets/images/species-reviews/brospp_brorub_plants_1_0.jpg)
+![A photo of somewhat dense red brome growing in rocky substrate, with bright orange flowers scattered around and a few flowering shrubs in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/brorub_plants_1_0.jpg?itok=PJrmIndz)
 
 Photo Credit
 
@@ -224,7 +224,7 @@ Within blackbrush communities of Nevada, red brome persists in high-density stan
 
 ## Immediate Fire Effects
 
-![A photo of dense, dried annual grasses with tufted seedheads.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-brorub_fuels.jpg)
+![A photo of dense, dried annual grasses with tufted seedheads.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-brorub_fuels.jpg?itok=0DQylata)
 
 Photo Credit
 
@@ -292,7 +292,7 @@ Red brome was a dominant species on western and southern slopes (330 feet (100 m
 
 ### Fall Burns
 
-![A photo of a hand holding a grass with seedheads forming a green tuft with reddish tips. More of the same grass is visible growing behind, with bare ground visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/brospp_feis-bromad_postfire.jpg)
+![A photo of a hand holding a grass with seedheads forming a green tuft with reddish tips. More of the same grass is visible growing behind, with bare ground visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-bromad_postfire.jpg?itok=NomQXBrO)
 
 Photo Credit
 

@@ -34,7 +34,7 @@ Simonin, Kevin. 2000. _Koeleria macrantha_ , prairie Junegrass. In: Fire Effects
 
 ## Introduction
 
-![A photo of a small bunchgrass with reproductive stems growing much taller than the low leaves. Dry, rocky bare ground is visible around the plant, and a few somewhat straggly shrubs are in the immediate background, with conifers growing in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-koemac_plant.jpg)
+![A photo of a small bunchgrass with reproductive stems growing much taller than the low leaves. Dry, rocky bare ground is visible around the plant, and a few somewhat straggly shrubs are in the immediate background, with conifers growing in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-koemac_plant.jpg?itok=kt3fu6OF)
 
 Photo Credit
 
@@ -71,7 +71,7 @@ Prairie Junegrass occurs from Alberta south to California and east to New Foundl
 
 ## Site Characteristics
 
-![A photo of low grasses dominating the vegetation on a gentle slope, with a variety of low forbs interspersed, some with yellow flowers. Small patches of bare ground are visible between plants.]({{ site.baseurl }}/assets/images/species-reviews/feis-koemac_habitat.jpg)
+![A photo of low grasses dominating the vegetation on a gentle slope, with a variety of low forbs interspersed, some with yellow flowers. Small patches of bare ground are visible between plants.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-koemac_habitat.jpg?itok=Nd3YgwSW)
 
 Photo Credit
 

@@ -67,7 +67,7 @@ Sitka spruce has been extensively introduced into the British Isles [35,57].
 
 Sitka spruce occurs in hypermaritime to maritime cool mesothermal climates [32,33]. It occurs from shoreline to timberline in the northern portion of its range but is restricted to shoreline in the southern portion of its range [6]. Sitka spruce grows best on sites with deep, moist, well-drained soils [22]. It can tolerate the salty ocean spray of seaside dunes, headlands, and beaches, and the brackish water of bogs [34]. Sitka spruce is limited to areas of high annual precipitation with cool, moist summers [16,23].
 
-[![A photo of a short, squat conifer tree growing on dunes at the coast. The dunes are eroded beneath the tree so the roots are hanging in the air and there is a cave below the roots. It is sunny and the sky is blue.]({{ site.baseurl }}/assets/images/species-reviews/feis-picsit_coast.jpg)Photo Credit Photo by Mark Robinson, iNaturalist.org, CC BY-NC 4.0. Sitka spruce growing on coastal dunes, Olympic National Park, Washington.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of a short, squat conifer tree growing on dunes at the coast. The dunes are eroded beneath the tree so the roots are hanging in the air and there is a cave below the roots. It is sunny and the sky is blue.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-picsit_coast.jpg?itok=lhIZNH4h)Photo Credit Photo by Mark Robinson, iNaturalist.org, CC BY-NC 4.0. Sitka spruce growing on coastal dunes, Olympic National Park, Washington.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 **Soil:** Sitka spruce has a strong affinity for soils high in calcium, magnesium, and phosphorus in the soil orders Entisols, Spodosols, Inceptisols, and Histosols. These soils are usually acidic with pH typically ranging from 4.0 to 5.7 [24].
 
@@ -91,7 +91,7 @@ Sitka spruce is listed as a dominant overstory species in the following publishe
 
 Sitka spruce is a native, long-lived (greater than 800 years), evergreen, monoecious tree [24,55]. Female strobili are produced at the ends of primary branches near the top, while the male strobili are positioned lower in the tree on secondary branches [24].
 
-[![A photo of an enormous conifer tree with a thick, straight trunk and few branches growing in a shaded forest. Other smaller trees surround the central tree. Moss and ferns grow around the base of the tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-picsit_forest.jpeg)Photo Credit Photo by Paul Norwood, iNaturalist.org, CC BY-NC 4.0. Sitka spruce, Ketchikan, AK.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of an enormous conifer tree with a thick, straight trunk and few branches growing in a shaded forest. Other smaller trees surround the central tree. Moss and ferns grow around the base of the tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-picsit_forest.jpeg?itok=nCo3KJm-)Photo Credit Photo by Paul Norwood, iNaturalist.org, CC BY-NC 4.0. Sitka spruce, Ketchikan, AK.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sitka spruce is the world's largest spruce. It can obtain heights of greater than 210 feet (65 m) with a d.b.h. of 16 feet (5 m) on better sites [24]. The base of the bole is buttressed [55]. When forest grown the bole is long and free of lower limbs [23].
 
@@ -114,7 +114,7 @@ Seed dispersal is moisture-dependent; when the ripe cones dry dispersal begins. 
 
 ## Regeneration Processes
 
-[![A close up photo of the tip of a conifer branch, with stiff green needles and many light brown and tan cones. The background is blurry forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-picsit_cones.jpeg)Photo Credit Photo by Duane A. Dyer, iNaturalist.org, CC BY-NC 4.0. Sitka spruce cones, Kodiak Island County, AK.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A close up photo of the tip of a conifer branch, with stiff green needles and many light brown and tan cones. The background is blurry forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-picsit_cones.jpeg?itok=Nzz19vwp)Photo Credit Photo by Duane A. Dyer, iNaturalist.org, CC BY-NC 4.0. Sitka spruce cones, Kodiak Island County, AK.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Sitka spruce reproduces both sexually and asexually. Sexual maturity varies from 20 to 40 years. Dispersal of seeds is moisture dependent; when the ripe cones dry the seed is dispersed, and when the cones become wet again they close. To avoid loss of seed, cones should be collected soon after ripening [50]. The seeds are small with a mean of 210,000 cleaned seeds per pound (467,000/kg) [24]. The germination rate is 54 percent, but this can be raised to 66 percent by moistening the germination medium with a 0.2 percent potassium nitrate (KNO3) solution [50].
 

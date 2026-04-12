@@ -52,7 +52,7 @@ wild licorice
 
 American licorice is native to temperate regions of western North America. It occurs from Ontario west to British Columbia, south to California, and east to Arkansas [13,18,24,27]. Disjunct populations of American licorice occur in Maine, Rhode Island, New York, and Massachusetts [34].
 
-![Map of distribution of American licorice.]({{ site.baseurl }}/assets/images/species-reviews/glylep_glylep_map.jpg)
+![Map of distribution of American licorice.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/glylep_map.jpg?itok=X2izP2-x)
 
 Photo Credit
 
@@ -92,7 +92,7 @@ American licorice occurs in riparian areas dominated by plains cottonwood in Col
 
 ## Botanical and Ecological Characteristics
 
-![Photo of blooming American licorice.]({{ site.baseurl }}/assets/images/species-reviews/feis-glylep.jpg)
+![Photo of blooming American licorice.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-04/feis-glylep.jpg?itok=OVHQ29hq)
 
 Photo Credit
 

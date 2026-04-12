@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for South Texas grassland communities has not y
 
 ## Distribution
 
-![Image of a map of South Texas showing where South Texas grasslands occur.]({{ site.baseurl }}/assets/images/fire-regimes/south-texas-grassland_feis-SouthTexasGrassland_FRR_map.jpg)
+![Image of a map of South Texas showing where South Texas grasslands occur.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2025-12/feis-SouthTexasGrassland_FRR_map.jpg?itok=xjGx_N90)
 
 Photo Credit
 

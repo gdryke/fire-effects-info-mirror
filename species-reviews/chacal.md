@@ -34,7 +34,7 @@ Pavek, Diane S. 1993. _Chamaedaphne calyculata,_ leatherleaf. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of leatherleaf.]({{ site.baseurl }}/assets/images/species-reviews/feis-chacal_plant.jpg) Leatherleaf. _Photo by Matt Schultz, iNaturalist.org, no rights reserved._
+![Photo of leatherleaf.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-chacal_plant.jpg) Leatherleaf. _Photo by Matt Schultz, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Matt Schultz, iNaturalist.org, no rights reserved.
 
@@ -93,7 +93,7 @@ Species associated with leatherleaf that are not mentioned above are codominant 
 
 ## Botanical Description
 
-![Photo of leatherleaf.]({{ site.baseurl }}/assets/images/species-reviews/feis-chacal_plant.jpg)
+![Photo of leatherleaf.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-chacal_plant.jpg?itok=Rc0zHqjm)
 
 Photo Credit
 

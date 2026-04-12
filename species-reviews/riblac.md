@@ -50,7 +50,7 @@ bristly black currant, swamp currant
 
 ## General Distribution
 
-![Map distribution of prickly currant.]({{ site.baseurl }}/assets/images/species-reviews/riblac_riblac_map.jpg)
+![Map distribution of prickly currant.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/riblac_map.jpg?itok=z_KSI5Hn)
 
 Photo Credit
 
@@ -93,7 +93,7 @@ Clearcuts in the Olympic Mountains in Washington, dominated by oceanspray (Holod
 
 ## Botanical Description
 
-![A photo of a shrub's branch with lobed green leaves and hanging chains of pale pink flowers. The branch is covered in long spines.]({{ site.baseurl }}/assets/images/species-reviews/feis-riblac_flowers.jpg)
+![A photo of a shrub's branch with lobed green leaves and hanging chains of pale pink flowers. The branch is covered in long spines.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-riblac_flowers.jpg?itok=FcMUj0x0)
 
 Photo Credit
 

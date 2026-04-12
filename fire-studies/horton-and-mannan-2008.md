@@ -24,7 +24,7 @@ Smith, Jane Kapler, comp. 2008. Research Project Summary: Effects of understory 
 
 ## Image Gallery
 
-![A photo of a western flycatcher with a bug in its mouth sitting on a short branch. Pine leaves are visible behind.]({{ site.baseurl }}/assets/images/fire-studies/horton-and-mannan-2008_feis-horton_1988_hero2.jpg) A western flycatcher in Coconino County, Arizona (CC BY-NC 4.0). _Photo by jasoncrosby, iNaturalist.org, some rights reserved._
+![A photo of a western flycatcher with a bug in its mouth sitting on a short branch. Pine leaves are visible behind.](https://research.fs.usda.gov/sites/default/files/2026-02/feis-horton_1988_hero2.jpg) A western flycatcher in Coconino County, Arizona (CC BY-NC 4.0). _Photo by jasoncrosby, iNaturalist.org, some rights reserved._
 
 Photo Credit: Photo by jasoncrosby, iNaturalist.org, some rights reserved.
 

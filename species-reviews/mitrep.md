@@ -71,7 +71,7 @@ Partridgeberry is part of the climax undergrowth vegetation in several forest co
 
 ## Botanical Description
 
-![Photo of partridgeberry.]({{ site.baseurl }}/assets/images/species-reviews/feis-mitrep_plant.jpg)
+![Photo of partridgeberry.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-mitrep_plant.jpg?itok=ga6dJGTH)
 
 Photo Credit
 

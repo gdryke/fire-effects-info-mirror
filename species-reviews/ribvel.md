@@ -81,7 +81,7 @@ Species commonly associated with desert gooseberry but not previously mentioned 
 
 Desert gooseberry is a native, deciduous, nonrhizomatous [29] shrub growing from 3.3 to 6.6 feet (1-2 m) tall [13,28]. Its stout, rigid branches are usually pubescent. The orbicular, three- to five-lobed leaves are 0.2 to 0.8 inch (0.5-2 cm) long and at least as wide [8,28]. Racemes are three- to five-flowered. Hirsute berries are 0.2 to 0.32 inch (0.5-0.8 cm) in diameter [8,13,28].
 
-![A photo of the woody stems of a shrub with spines and clusters of lobed leaves and black berries.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribvel_fruits.jpg)
+![A photo of the woody stems of a shrub with spines and clusters of lobed leaves and black berries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ribvel_fruits.jpg?itok=3DN3sPHG)
 
 Photo Credit
 
@@ -140,7 +140,7 @@ In pinyon-juniper woodlands, where desert gooseberry often occurs, wildfire was 
 
 Desert gooseberry sprouts from the root crown after low- to moderate-severity fire and seedlings may establish after fire.
 
-![A photo of a dry hillside with bare ground, some forbs, and a few small shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-ribvel_postfire_resprout.jpg)
+![A photo of a dry hillside with bare ground, some forbs, and a few small shrubs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ribvel_postfire_resprout.jpg?itok=yUbsA27h)
 
 Photo Credit
 

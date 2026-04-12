@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for eastern mixed-hardwood swamp communities ha
 
 ## Distribution
 
-![A map showing the distribution of eastern mixed-hardwood swamp communities in the northeastern U.S.]({{ site.baseurl }}/assets/images/fire-regimes/eastern-mixed-hardwood-swamps_feis-eastern_mixed_hardwood_swamps_locator.jpg)
+![A map showing the distribution of eastern mixed-hardwood swamp communities in the northeastern U.S.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-02/feis-eastern_mixed_hardwood_swamps_locator.jpg?itok=JXepnrI3)
 
 Photo Credit
 

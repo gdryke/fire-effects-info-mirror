@@ -73,7 +73,7 @@ Northern goshawks breed in most forested plant communities available throughout 
 
 This review includes information covering many aspects of northern goshawk life history but focuses on those most relevant to fire. The information presented here relies heavily on syntheses material from several sources, including "The birds of North America Online" [48] species account for the northern goshawk and reviews of the northern goshawk's status and/or habitat needs throughout its range [10] and in the following regions: New England [15], Great Lakes [7,43], central Rocky Mountains [26], Rocky Mountains [23], western United States [3,10,24], the Pacific Northwest [17], and the Southwest [40,53].
 
-![Adult northern goshawk.]({{ site.baseurl }}/assets/images/species-reviews/feis-acge_adult.jpg)
+![Adult northern goshawk.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acge_adult.jpg?itok=28A7XKc3)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Photo by Jack Kirkley.
 
 Adult northern goshawk.
 
-![Juvenile northern goshawk. ]({{ site.baseurl }}/assets/images/species-reviews/feis-acge_juvenile.jpg)
+![Juvenile northern goshawk. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acge_juvenile.jpg?itok=41eHH1Sc)
 
 Photo Credit
 
@@ -117,7 +117,7 @@ Northern goshawk pairs occupy nesting areas from February to early April. Some p
 
 Northern goshawks usually produce one clutch per year. Clutch size is usually 2 to 4, but occasionally 1 or 5 eggs. Because northern goshawk chicks hatch asynchronously, older, larger nestlings may attack smaller, younger nestlings [48].
 
-![Northern goshawk female with young. ]({{ site.baseurl }}/assets/images/species-reviews/feis-acge_adultyoung.jpg)
+![Northern goshawk female with young. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acge_adultyoung.jpg?itok=GeUb_c79)
 
 Photo Credit
 
@@ -135,7 +135,7 @@ In North America, nest success usually ranges from 80% to 94%, with most success
 
 The northern goshawk constructs a nest of thin sticks, forming a bowl lined with tree bark and greenery. Nests are usually placed on large horizontal limbs against the trunk, or occasionally on large limbs away from the bole. A variety of tree species is used for nesting [48].
 
-![Northern goshawk nest high in a tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-acge_nest.jpg)
+![Northern goshawk nest high in a tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acge_nest.jpg?itok=HmSN_iuq)
 
 Photo Credit
 
@@ -175,7 +175,7 @@ Factors limiting northern goshawk populations may include food availability [10,
 
 Northern goshawks are vulnerable to predation from red-tailed hawks (Buteo jamaicensis), short-eared owls (Asio flammeus), great horned owls (Bubo virginianus), American martens (Martes americana) [48], fishers (M. pennanti) [7], wolverines (Gulo gulo) [48], coyotes (Canis latrans), bobcats (Lynx rufus), and northern raccoons (Procyon lotor) [40]. It is likely that other mammals prey on nestlings and/or adults [48]. In the Great Lakes region, great horned owls were the most common nest predator [7]. Other potential sources of northern goshawk mortality include starvation, disease, shooting, trapping, poisoning, and collisions with vehicles [48].
 
-![Great gray owls using a nest formerly used by northern goshawks.]({{ site.baseurl }}/assets/images/species-reviews/feis-acge_grayowlnest.jpg)
+![Great gray owls using a nest formerly used by northern goshawks.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acge_grayowlnest.jpg?itok=WLUU8QNY)
 
 Photo Credit
 
@@ -225,7 +225,7 @@ Northern goshawk habitat use may be most selective during the breeding season, m
 
 Forest stands containing nests are often small, ranging from approximately 24 to 247 acres (10-100 ha) [48]. Tree species composition is highly variable among nest sites both within a region and a across the range of the northern goshawk [40]. Northern goshawks nests are often found in mature or late-successional forests [3,15,17,43,48] with high canopy closures [9,17,43,47,48] and large trees [43,48] but relatively open understories [26,43,48]. However, due to frequent bias in northern goshawk nest detection methods, the selection of mature forest over other forest successional stages has been demonstrated in only a few studies [43].
 
-![Landscape view of forest where northern goshwak nested.]({{ site.baseurl }}/assets/images/species-reviews/feis-acge_neststand.jpg)
+![Landscape view of forest where northern goshwak nested.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-acge_neststand.jpg?itok=zDV9bKbi)
 
 Photo Credit
 

@@ -64,7 +64,7 @@ Green ephedra is found extensively in the Great Basin Region, from the southwest
 
 Green ephedra is found on dry, rocky, open sites in valleys and washes, and on slopes, alluvial fans, mesas, and foothills [4,18,24,41,61,65,107,111]. It is typically found at elevations ranging from 3,000 to 7,500 feet (914-2,286 m) [1,13,14,48,55,65,80,107] though it has been reported at elevations up to 10,000 feet (3,048 m) in California and Utah [80,104]. Green ephedra has been reported growing on north [1,31,61], south [91], southwest, and west aspects [48]. Average precipitation on sites supporting green ephedra ranges from 8 to 15 inches (200-380 mm) [6,48], and green ephedra has been found to require 6 to 10 inches (150-250 mm) annual precipitation [65].
 
-![A photo of green ephedra with shrubs on dry hills behind and snowy peaks in the distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephvir_hero.jpg)
+![A photo of green ephedra with shrubs on dry hills behind and snowy peaks in the distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephvir_hero.jpg?itok=FLnmZyWf)
 
 Photo Credit
 
@@ -72,7 +72,7 @@ Photo by Steve Matson, iNaturalist.org, some rights reserved.
 
 Green ephedra growing in Inyo National Forest, California ([CC BY 4.0](<https://creativecommons.org/licenses/by/4.0/>)).
 
-![A photo of a shrubland with a green ephedra in the foreground with flowers or fruits so dense that it appears yellow above its woody base. Sagebrush with other shrubs dominate in the background across the hillsides with a few rocky outcrops.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephvir_habitat.jpg)
+![A photo of a shrubland with a green ephedra in the foreground with flowers or fruits so dense that it appears yellow above its woody base. Sagebrush with other shrubs dominate in the background across the hillsides with a few rocky outcrops.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephvir_habitat.jpg?itok=HuvNyDyy)
 
 Photo Credit
 
@@ -94,7 +94,7 @@ Cover values for green ephedra vary based on site characteristics; in Arizona, w
 
 ## Plant Communities
 
-![A photo of green ephedra growing on a rocky hillside with desert slopes behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephvir_plant.jpeg)
+![A photo of green ephedra growing on a rocky hillside with desert slopes behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephvir_plant.jpeg?itok=N5gGsUvm)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ Green ephedra is also associated with the following Utah juniper (_Juniperus ost
 
 ## Botanical Description
 
-![A close-up photo of green branches of green ephedra with tight clusters of seeds at most nodes.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephvir_fruits.jpg)
+![A close-up photo of green branches of green ephedra with tight clusters of seeds at most nodes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephvir_fruits.jpg?itok=oy6n4hf-)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ Green ephedra is dioecious [94], producing nut-like seeds partly or entirely enc
 
  * Phanerophyte
 
-![A photo of green stems of green ephedra with small yellow flowers at most nodes.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephvir_flowers.jpg)
+![A photo of green stems of green ephedra with small yellow flowers at most nodes.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephvir_flowers.jpg?itok=KjmFhOuw)
 
 Photo Credit
 
@@ -246,7 +246,7 @@ None
 
 No entry.
 
-![A photo of a small nest nestled amongst the woody branches of a dense shrub with upright green stems connected by thicker, woody stems below.]({{ site.baseurl }}/assets/images/species-reviews/feis-ephvir_nest.jpg)
+![A photo of a small nest nestled amongst the woody branches of a dense shrub with upright green stems connected by thicker, woody stems below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-ephvir_nest.jpg?itok=JIRqLRkK)
 
 Photo Credit
 

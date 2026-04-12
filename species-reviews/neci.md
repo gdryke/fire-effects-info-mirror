@@ -146,7 +146,7 @@ Due to the occasional scarcity of rocky habitats in the Pacific Northwest, hollo
 
 Bushy-tailed woodrats may also associate with streamside habitats [29,34,47,82,87]. In southwestern Oregon, streamside forests provide the most suitable habitat for bushy-tailed woodrat [29]. In wet Douglas-fir and western hemlock (_Tsuga heterophylla_) forests in western Washington, bushy-tailed woodrats are found primarily in rocky, streamside areas [82]. Riparian quaking aspen woodlands in rangeland communities are commonly used by bushy-tailed woodrats in northeastern Nevada [87].
 
-![A photo of a brown and white rat with a bushy tail peering down from the eaves of a log cabin.]({{ site.baseurl }}/assets/images/species-reviews/neci_feis-NECI_cabin2.jpg)
+![A photo of a brown and white rat with a bushy tail peering down from the eaves of a log cabin.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-NECI_cabin2.jpg?itok=kajUpm8V)
 
 Photo Credit
 
@@ -205,7 +205,7 @@ Consumption of woody vegetation by bushy-tailed woodrats may decrease competitio
 
 Den sites are primary limiting factors of bushy-tailed woodrat habitat [29,47,111]. Depending on the subspecies of bushy-tailed woodrat, dens may be located in openings between rocks, coarse woody debris (snags and logs), or dwarf mistletoe brooms [29]. In areas with heavy snowfall, rock shelters are the most important resource for the bushy-tailed woodrat [47]. In areas with mild climates and low availability of rock shelters, coarse woody debris, mistletoe brooms, and rock crevices along streams are utilized more often [21,26,35,66,77,82,85,94,96,124].
 
-![Two photos side by side. On the left, a shallow rock cave with a pile of leaves and sticks at the back wall. On the right, a rocky outcropping overlooking an open, high desert landscape.]({{ site.baseurl }}/assets/images/species-reviews/neci_neci_den_and_site_0_0_0.jpg)
+![Two photos side by side. On the left, a shallow rock cave with a pile of leaves and sticks at the back wall. On the right, a rocky outcropping overlooking an open, high desert landscape.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-01/neci_den_and_site_0_0_0.jpg?itok=_vQzaRJ4)
 
 Photo Credit
 

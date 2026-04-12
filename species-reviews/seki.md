@@ -81,7 +81,7 @@ Kirtland's warbler wintering habitat appears less specific than its breeding hab
 
 Kirtland's warblers are ground-nesting neotropical migrants. They leave the Great Lakes Region for wintering grounds in The Bahamas in August and September and return in May. During the breeding season male Kirtland's warblers defend territories that are clustered into colonies [80,91,138]. Dispersal to new colonies is most common when individuals are settling on their first territory [131]. Based on birds banded at ≥1 year old, the average lifespan is 2.76 years for males and 1.74 years for females. The estimate of female lifespan is likely biased low due difficulty in detecting females [9,131]. The maximum recorded age of a Kirtland's warbler is 9 years [60], although a review cites unpublished data for an individual that was 10 years old [116]. Kirtland's warblers breed in May and June [81,131] and generally fledge one brood each season [100,131]. They have potential for high reproductive output [87,131], although reproduction was greatly reduced by brown-headed cowbird (_Molothrus ater_) parasitism before implementation of brown-headed cowbird control in the early 1970s [132]. Unless otherwise noted, data reported below are from breeding sites in the core range of the Kirtland's warbler in northern Lower Michigan.
 
-![A photo of a small songbird with a bright yellow chest and belly, gray head, and gray/black back perched on a small branch. The background is green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-seki_male.jpg)
+![A photo of a small songbird with a bright yellow chest and belly, gray head, and gray/black back perched on a small branch. The background is green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2025-12/feis-seki_male.jpg?itok=aBCYU0Qu)
 
 Photo Credit
 
@@ -127,7 +127,7 @@ Estimates of rate of return of yearling birds from the wintering grounds apparen
 
 ### Reproduction
 
-![A Kirtland's warbler sitting on its nest.]({{ site.baseurl }}/assets/images/species-reviews/feis-seki_nest.jpg)
+![A Kirtland's warbler sitting on its nest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-seki_nest.jpg?itok=6IxoZF82)
 
 Photo Credit
 
@@ -369,7 +369,7 @@ Habitat management activities are best performed outside the breeding season, mo
 
 The amount of plantation habitat suitable for Kirtland's warblers increased from about 12,400 acres (5,000 ha) in the early 1980s to over 49,400 acres (20,000 ha) as of 2004 [34]. The relative importance of plantations to Kirtland's warblers has also increased, with less than 5,000 acres (2,000 ha) of plantation habitat occupied by Kirtland's warblers in each year of the 1980s and over 22,200 acres (9,000 ha) of plantation habitat occupied by 85% of male Kirtland's warblers in 2004 [34] (see Comparison of Habitats of Varying Origins).
 
-![Heavy equipment planting jack pine seedlings in an open area.]({{ site.baseurl }}/assets/images/species-reviews/feis-seki_planting.jpg)
+![Heavy equipment planting jack pine seedlings in an open area.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-seki_planting.jpg?itok=JVitvtsR)
 
 Photo Credit
 
@@ -423,7 +423,7 @@ The risk of a natural disaster having a major negative impact on the entire Kirt
 
 ### Plantation Management
 
-![A Kirtland's warbler management area comprised of a cut pine plantation.]({{ site.baseurl }}/assets/images/species-reviews/seki_feis-SEKI_plantation.jpg)
+![A Kirtland's warbler management area comprised of a cut pine plantation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-SEKI_plantation.jpg?itok=-8NfRGOj)
 
 Photo Credit
 

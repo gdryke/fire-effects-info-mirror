@@ -58,7 +58,7 @@ spike redtop, spike bent, western bentgrass
 
 Spike bentgrass is mostly a western grass. It occurs from Manitoba, South Dakota, Nebraska, Texas, and Mexico west to the Pacific states and provinces, including Alaska [8,12,18]. Spike bentgrass is widely distributed in the mountains of northern California and occurs on Santa Cruz Island, off the coast of southern California [5]. Zifka [30] discovered an adventive colony of spike bentgrass (_Agrostis exarta_ var. _monolepis_) in Rutland County, Vermont, in 1982.
 
-[![A photo of a green grass with reproductive spike in front of some gray stones and red dirt.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrexa_plant.jpeg)Photo Credit Photo by David Anderson, iNaturalist (CC BY 4.0). Spike bentgrass growing in Oregon.](<https://creativecommons.org/licenses/by/4.0/>)
+[![A photo of a green grass with reproductive spike in front of some gray stones and red dirt.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrexa_plant.jpeg?itok=If-FFubQ)Photo Credit Photo by David Anderson, iNaturalist (CC BY 4.0). Spike bentgrass growing in Oregon.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### States and Provinces
 
@@ -70,7 +70,7 @@ Spike bentgrass is mostly a western grass. It occurs from Manitoba, South Dakota
 
 Spike bentgrass occurs in a wide variety of habitats including woodlands, forest openings, grasslands, shrublands, meadows, marshes, and stream and lake margins [9,18,24,29]. It is most commonly found in moist open places [1,12,20] but is also found in dry habitats such as semiarid grasslands [10,19]. Spike bentgrass grows on disturbed sites such as ditches and along roadsides [11,30]. Spike bentgrass occurs from sea level to alpine zones [5,10,18,20,29]. It occupies sites as high as 10,500 feet (3,150 m) in Utah [29].
 
-[![A photo of several reproductive grass spikes with an inlet or bay in the background, with rocky hills sloping towards the water.]({{ site.baseurl }}/assets/images/species-reviews/agrexa_agrexa_habitat.jpeg)Photo Credit Photo by Peter Zika, iNaturalist (CC BY-NC 4.0). Spike bentgrass growing on Saddlebag Island, Washington.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+[![A photo of several reproductive grass spikes with an inlet or bay in the background, with rocky hills sloping towards the water.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/agrexa_habitat.jpeg?itok=vCnqr1xj)Photo Credit Photo by Peter Zika, iNaturalist (CC BY-NC 4.0). Spike bentgrass growing on Saddlebag Island, Washington.](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 Spike bentgrass grows well on soils derived from schists, limestones, sandstones, and conglomerates [32].
 
@@ -106,7 +106,7 @@ Species not previously mentioned but commonly associated with spike bentgrass in
 
 Spike bentgrass is a native, perennial bunchgrass. Culms are slender and erect, usually 3.3 to 5 feet (1-1.5 m) tall [1,11,20,24]. The blades are ascending to spreading, 0.08 to 0.4 inch (2-10 mm) wide, and up to 8 inches (20 cm) long [9,11,16]. The panicle is narrow, open to spikelike, and 4 to 10 inches (10-25 cm) tall [1,9]. Spike bentgrass occasionally develops slender rhizomes [11,16].
 
-[![Several spike-like reproductive panicles of a grass, with gray stones and red dirt in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-agrexa_reproduction.jpeg)Photo Credit Photo by David Anderson, iNaturalist (CC BY 4.0). The spike-like panicle of spike bentgrass.](<https://creativecommons.org/licenses/by/4.0/>)
+[![Several spike-like reproductive panicles of a grass, with gray stones and red dirt in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-agrexa_reproduction.jpeg?itok=oedti9ms)Photo Credit Photo by David Anderson, iNaturalist (CC BY 4.0). The spike-like panicle of spike bentgrass.](<https://creativecommons.org/licenses/by/4.0/>)
 
 ### Raunkiaer Life Form (Raunkiaer 1934)
 

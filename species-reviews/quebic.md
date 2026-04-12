@@ -66,7 +66,7 @@ Swamp white oak occurs mainly in the midwestern states from Iowa, southern Wisco
 
 ## Site Characteristics
 
-![A photo of a large, leafy tree with a round crown rising above smaller green trees and shrubs. The vegetation is lush and the sky is full of puffy clouds.]({{ site.baseurl }}/assets/images/species-reviews/feis-quebic_habitat.jpg)
+![A photo of a large, leafy tree with a round crown rising above smaller green trees and shrubs. The vegetation is lush and the sky is full of puffy clouds.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quebic_habitat.jpg?itok=6aBdc5AJ)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ No entry.
 
 ## Botanical Description
 
-![A close up photo of two green acorns with fuzzy light caps covering half the acorn. The background is blurry dark green leaves.]({{ site.baseurl }}/assets/images/species-reviews/feis-quebic_acorns.jpg)
+![A close up photo of two green acorns with fuzzy light caps covering half the acorn. The background is blurry dark green leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-06/feis-quebic_acorns.jpg?itok=x0C53sJg)
 
 Photo Credit
 

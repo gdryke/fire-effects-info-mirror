@@ -36,7 +36,7 @@ Fryer, Janet L. 2011. _Alnus incana_ , thinleaf alder. In: Fire Effects Informat
 
 ## Taxonomy
 
-![Photo of a thin, leafy tree branch with clusters of oval, brown catkins extending out over the edge of a lake with a snowy mountain in the background. ]({{ site.baseurl }}/assets/images/species-reviews/alninc_feis-ALNINC_tenuifolia_habitat.jpg)
+![Photo of a thin, leafy tree branch with clusters of oval, brown catkins extending out over the edge of a lake with a snowy mountain in the background. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-ALNINC_tenuifolia_habitat.jpg?itok=s4Cp9EnA)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ gray alder, speckled alder, tag alder, mountain alder
 
 ## Distribution
 
-![Map of the United States and Canada showing the widespread distribution of gray alder everywhere except the midwestern and southeastern states.]({{ site.baseurl }}/assets/images/species-reviews/feis-alninc_map_gray_alder.png)
+![Map of the United States and Canada showing the widespread distribution of gray alder everywhere except the midwestern and southeastern states.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-alninc_map_gray_alder.png?itok=e_b82r-x)
 
 Photo Credit
 
@@ -88,7 +88,7 @@ Photo courtesy of USDA, NRCS. 2026. The PLANTS Database [29 Jan 2026].
 
 Distribution of gray alder in the United States and Canada.
 
-![Map of the United States and Canada showing the distribution of speckled alder, primarily in the north-central and northeastern United States, and central and eastern Canada.]({{ site.baseurl }}/assets/images/species-reviews/feis-alninc_map_speckled.png)
+![Map of the United States and Canada showing the distribution of speckled alder, primarily in the north-central and northeastern United States, and central and eastern Canada.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-alninc_map_speckled.png?itok=gtaG1yIs)
 
 Photo Credit
 
@@ -96,7 +96,7 @@ Photo courtesy of USDA, NRCS. 2026. The PLANTS Database [29 Jan 2026]
 
 Distribution of speckled alder in the United States and Canada.
 
-![Map of the United States and Canada showing the distribution of thinleaf alder in the western parts of both countries.]({{ site.baseurl }}/assets/images/species-reviews/feis-alninc_map_thinleaf.png)
+![Map of the United States and Canada showing the distribution of thinleaf alder in the western parts of both countries.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-alninc_map_thinleaf.png?itok=3UXH-Huf)
 
 Photo Credit
 
@@ -145,7 +145,7 @@ On the Tanana River floodplain of central Alaska, nitrogen input to thinleaf ald
 
 ### Speckled alder
 
-![Photo of a large, leafless shrub amongst other dormant vegetation along a lake shore.]({{ site.baseurl }}/assets/images/species-reviews/alninc_feis-ALNINC_rugosa_plant.jpg)
+![Photo of a large, leafless shrub amongst other dormant vegetation along a lake shore.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-ALNINC_rugosa_plant.jpg?itok=nAb281Ee)
 
 Photo Credit
 
@@ -260,7 +260,7 @@ speckled alder-conifer swamps with white spruce and/or balsam fir in the subcano
 
 ## Site Characteristics
 
-![Photo of a large, leafless shrub growing along an icy stream bank, with brown, dormant grasses in the background.]({{ site.baseurl }}/assets/images/species-reviews/alninc_feis-ALNINC_tenuifolia_plant.jpg)
+![Photo of a large, leafless shrub growing along an icy stream bank, with brown, dormant grasses in the background.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-ALNINC_tenuifolia_plant.jpg?itok=3VyKYAEy)
 
 Photo Credit
 
@@ -297,7 +297,7 @@ Thinleaf alder presence is likely more associated with moist to mesic conditions
 
 ### Thinleaf Alder
 
-![Photo of a shady streamside in a forest understory with a patch of green shrubs growing along side it.]({{ site.baseurl }}/assets/images/species-reviews/feis-alnincthabitat_alninc.jpg)
+![Photo of a shady streamside in a forest understory with a patch of green shrubs growing along side it.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-alnincthabitat_alninc.jpg?itok=_vtUzFWX)
 
 Photo Credit
 
@@ -512,7 +512,7 @@ The following vegetation classifications describe plant communities, and some of
 
 This description covers characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (for example, [120,137,167,169,192,237]).
 
-![Photo of the end of a slender woody twig with large, oval leaves and two clusers of green, round catkins.]({{ site.baseurl }}/assets/images/species-reviews/feis-alninc_cones.jpg)
+![Photo of the end of a slender woody twig with large, oval leaves and two clusers of green, round catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-alninc_cones.jpg?itok=lKF2x1_V)
 
 Photo Credit
 
@@ -532,7 +532,7 @@ Thinleaf alder is an open, spreading shrubby tree or shrub, growing from 15 to 3
 
 Thinleaf alder is frost-tolerant [23,204].
 
-![Photo of a branched twig in winter, showing a cluster of round \(female\) catkins and a cluster of long, narrow \(male\) catkins.]({{ site.baseurl }}/assets/images/species-reviews/alninc_feis-ALNINC_rugosa_catkins.jpg)
+![Photo of a branched twig in winter, showing a cluster of round \(female\) catkins and a cluster of long, narrow \(male\) catkins.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-ALNINC_rugosa_catkins.jpg?itok=ShOI6SNd)
 
 Photo Credit
 
@@ -587,7 +587,7 @@ Great Plains| flowers| April-June [137]
 
 Gray alder establishes from seed and spreads vegetatively. Both strategies are important to its regeneration (review by [143]). Seedling establishment is important in primary succession, while vegetative regeneration is more important after top-killing events [160]. For established populations, vegetative regeneration appears more common than seedling establishment. For example, in the Trout Creek Mountains of Nevada, "very mature" thinleaf alder in the largest size class (>7.1 inches (18 cm) basal diameter) comprised 90% of the population, while seedlings (<0.1 inch (0.3 cm) tall) represented about 2% of the population [114].
 
-![Photo of narrow, tubular male catkins dangling from branch in winter.]({{ site.baseurl }}/assets/images/species-reviews/feis-alninc_catkin.jpg)
+![Photo of narrow, tubular male catkins dangling from branch in winter.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-alninc_catkin.jpg?itok=6I5lpu3A)
 
 Photo Credit
 
@@ -691,7 +691,7 @@ Browsing pressure may alter succession in forest ecosystems with thinleaf alder.
 
 Gray alder's thin bark [155,348] does not insulate it well from fire damage. Fire generally top-kills gray alder ([38,164,346], reviews by [35,92,312].
 
-![Close up photo of a portion of a small, gray tree trunk in a grassy field. A single, thin branch emerging from it shows alternate, teardrop-shaped leaves with serrated edges. ]({{ site.baseurl }}/assets/images/species-reviews/alninc_feis-ALNINC_tenuifolia_bark.jpeg)
+![Close up photo of a portion of a small, gray tree trunk in a grassy field. A single, thin branch emerging from it shows alternate, teardrop-shaped leaves with serrated edges. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-ALNINC_tenuifolia_bark.jpeg?itok=ZS1-roKo)
 
 Photo Credit
 
@@ -699,7 +699,7 @@ Photo © semiferalhiker, iNaturalist.org, some rights reserved.
 
 Thinleaf alder growing in Graham County, Arizona ([CC BY-NC](<https://creativecommons.org/licenses/by-nc/4.0/>)).
 
-![Close-up photo of a grayish brown twig covered with small, white speckles.]({{ site.baseurl }}/assets/images/species-reviews/alninc_feis-ALNINC_rugosa_twig.jpg)
+![Close-up photo of a grayish brown twig covered with small, white speckles.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-03/feis-ALNINC_rugosa_twig.jpg?itok=wUhL6dDc)
 
 Photo Credit
 

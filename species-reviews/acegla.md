@@ -45,7 +45,7 @@ The currently accepted scientific name of Rocky Mountain maple is _Acer glabrum_
  * _Acer glabrum_ var. _neomexicanum_(Greene) Kearney & Peebles [155,203,328], New Mexico maple
  * _Acer glabrum_ var. _torreyi_(Greene) Smiley [136,155], Torrey maple
 
-![A close-up photo of bright fall foliage of Rocky Mountain maple.]({{ site.baseurl }}/assets/images/species-reviews/feis-acegla_foliage.jpeg)
+![A close-up photo of bright fall foliage of Rocky Mountain maple.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acegla_foliage.jpeg?itok=QE25c18g)
 
 Photo Credit
 
@@ -79,7 +79,7 @@ The distribution of Rocky Mountain maple extends from Alaska south to California
 
 Rocky Mountain maple occurs in subalpine boreal, boreal, temperate, semiarid, and mesothermal climates [164,167]. Approximate temperatures on Rocky Mountain maple sites range from 14 to 75 degrees Fahrenheit (-10-24 °C) [188,257,265,313]. Annual precipitation may by as low as 9 inches (229 mm) and as high as 60 inches (1,542 mm) [100,127,177,188,257,313,316].
 
-![A photo of a shrubby tree on a somewhat steep slope, with conifer-covered hills below.]({{ site.baseurl }}/assets/images/species-reviews/feis-acegla_plant.jpg)
+![A photo of a shrubby tree on a somewhat steep slope, with conifer-covered hills below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acegla_plant.jpg?itok=K--Bfc-b)
 
 Photo Credit
 
@@ -107,7 +107,7 @@ Rocky Mountain maple occupies well-watered [164] and well-drained sites [45,100,
 
 ## Plant Communities
 
-![A photo of a small tree with several leafy stems/small trunks growing in an open conifer forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-acegla_habitat.jpeg)
+![A photo of a small tree with several leafy stems/small trunks growing in an open conifer forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acegla_habitat.jpeg?itok=pOswKWX0)
 
 Photo Credit
 
@@ -159,7 +159,7 @@ Rocky Mountain maple occurs as a dominant in the Rocky Mountain maple community 
 
 Rocky Mountain maple is a native, deciduous tall shrub or small tree [56,66,74,123,141,159,169,172,203,256,310,325,328,333]. It often grows 20 to 30 feet ( 6.1-9.1 m) tall, with crown widths from 10 to 20 feet (3-6 m) wide and a stem diameter up to 12 inches (30.5 cm) [74,123,150,156,172,175,203,234,243,310,325,328], though it can reach 40 feet (12.2 m) tall [169,259] and 2 feet (0.6 m) in diameter [169]. Rocky Mountain maple is usually tall and spindly in closed stands, with a more dense and brushy growth form in open stands [233,234]. Though it may have a single dominant stem [80], Rocky Mountain maple most often occurs as a multi-stemmed shrub 5 to 6.5 feet (1.5-2 m) tall [74,80,123,169,172,325].
 
-![A close-up photo of new, light green leaves and clustered yellow flowers on relatively bare twigs.]({{ site.baseurl }}/assets/images/species-reviews/feis-acegla_flowers.jpg)
+![A close-up photo of new, light green leaves and clustered yellow flowers on relatively bare twigs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-acegla_flowers.jpg?itok=eomnP_Qw)
 
 Photo Credit
 

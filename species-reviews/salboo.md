@@ -34,7 +34,7 @@ Esser, Lora L. 1992. _Salix boothii_ , Booth's willow. In: Fire Effects Informat
 
 ## Image Gallery
 
-![Photo of Booth's willow flower.]({{ site.baseurl }}/assets/images/species-reviews/feis-salboo_plant.jpeg) Booth's willow _Photo by Shane Johnson, iNaturalist.org, no rights reserved._
+![Photo of Booth's willow flower.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-salboo_plant.jpeg) Booth's willow _Photo by Shane Johnson, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Shane Johnson, iNaturalist.org, no rights reserved.
 

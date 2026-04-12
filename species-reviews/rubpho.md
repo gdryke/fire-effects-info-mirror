@@ -38,7 +38,7 @@ Innes, Robin J. 2009. _Rubus phoenicolasius_ , wine raspberry. In: Fire Effects 
 
 The scientific name of wine raspberry is _Rubus phoenicolasius_ Maxim. (Rosaceae) [47]. Wine raspberry is in the subgenus Idaeobatus, which are raspberries in which the ripe fruit separates from the receptacle (Focke 1914, cited in [91]).
 
-![A photo of a wine raspberry plant with long, viny branches with green leaves, with some folded back to show their pale undersides.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpho_growth_habit.jpg)
+![A photo of a wine raspberry plant with long, viny branches with green leaves, with some folded back to show their pale undersides.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-rubpho_growth_habit.jpg)
 
 Photo Credit
 
@@ -46,7 +46,7 @@ Photograph courtesy of Jil M. Swearington, USDI National Park Service, Bugwood.o
 
 Wine raspberry branches.
 
-![A photo of leafy wine raspberry stems with clusters of bright red fruits growing along stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpho_fruiting.jpg)
+![A photo of leafy wine raspberry stems with clusters of bright red fruits growing along stems.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-rubpho_fruiting.jpg)
 
 Photo Credit
 
@@ -80,7 +80,7 @@ In the eastern United States, wine raspberry occupies a wide range of habitats i
 
 According to reviews, wine raspberry prefers open, mesic conditions with rich soils but tolerates a wide range of soil types, textures, and pH values [15,22,73,87]. At Great Falls Park in northeastern Virginia, wine raspberry occurred on soils ranging from "relatively fertile", with basic pH, and silt loam to silty clay loam textures to dry, "extremely acidic, infertile" silty clay loams. At this site, wine raspberry occurred on very dry upper slopes and ridge crests with "high solar exposure and low moisture potential" as well as seasonally flooded swamps [74]. Wine raspberry was found in Sussex County, New Jersey on trails and roadsides where soils were thin and rocky though moist [4]. In Chittenden County, Vermont, wine raspberry established on a limy talus slope in the dense shade of northern whitecedar (_Thuja occidentalis_) [99]. Wine raspberry occurred relatively infrequently in sweetgum (_Liquidambar styraciflua_) -sycamore streambank habitat with sandy soils in Newton County, Arkansas; this site was regularly disturbed by spring and fall flooding and anthropogenic influences [81]. In New Jersey, wine raspberry occurred in constructed wetlands with coarse soil [53]. In Inwood Hill Park in New York, wine raspberry occurred on some sites with "deep soils" [54]. Wine raspberry occurred on wet, seasonally flooded and mesic soils at the Piscataway and Fort Washington National Parks in Maryland [75]. Along a 250-mile (402 km) reach of the New River Gorge in West Virginia, wine raspberry was found at a variety of sites including regularly flooded streambeds, riverside beach areas, and wooded upper beach areas with soils ranging from cobblestone and gravel to sand and mudflats. Additional sites occupied by wine raspberry in this study included rocky summits and cliff faces and woodlands with shallow and sandy soils [79].
 
-![A photo of wine raspberry growing densely in the understory with a tree trunk visible in the background.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpho_thicket.jpg)
+![A photo of wine raspberry growing densely in the understory with a tree trunk visible in the background.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-rubpho_thicket.jpg)
 
 Photo Credit
 
@@ -134,7 +134,7 @@ The majority of information on wine raspberry is from research at the Smithsonia
 
 This description provides characteristics that may be relevant to fire ecology and is not meant for identification. Keys for identification are available (e.g., [19,23,60,65,78,93]). Since there are many native raspberries that resemble and co-occur with wine raspberry (see Plant Communities), it is recommended that readers seek out these keys for positive identification before any control methods are undertaken.
 
-![A close-up photo of a cluster of buds covered in dense, long red hairs.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpho_hairs.jpg)
+![A close-up photo of a cluster of buds covered in dense, long red hairs.](https://research.fs.usda.gov/sites/default/files/2025-11/feis-rubpho_hairs.jpg)
 
 Photo Credit
 
@@ -178,7 +178,7 @@ Wine raspberry flowers are hermaphroditic and pollinated by insects [64]. In fie
 
 ### Seed Production
 
-![A close-up photo of a cluster of bright red berries with a yellow leaf beside and green leaves visible behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-rubpho_hero.jpg)
+![A close-up photo of a cluster of bright red berries with a yellow leaf beside and green leaves visible behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-11/feis-rubpho_hero.jpg?itok=P6FNPq35)
 
 Photo Credit
 

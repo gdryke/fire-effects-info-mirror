@@ -34,7 +34,7 @@ Howard, Janet L. 2002. _Tetradymia nuttallii_ , Nuttall's horsebrush. In: Fire E
 
 ## Introduction
 
-![A photo of pale, woody, spiny stems with clusters of green leaves and yellow flowers at the end of stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetnut_plant.jpg)
+![A photo of pale, woody, spiny stems with clusters of green leaves and yellow flowers at the end of stems.](https://research.fs.usda.gov/sites/default/files/2025-12/feis-tetnut_plant.jpg)
 
 Photo Credit
 
@@ -64,7 +64,7 @@ Nuttall's horsebrush occurs in south-central Wyoming and western Colorado across
 
  * United States: CO NV UT WY
 
-![A photo of a shrubland with bare, pale substrate visible between plants. A yellow flowered shrub grows in the foreground, and low sagebrush, bunchgrasses, and more yellow flowering shrubs grow behind. Dark green shrubby trees grow in the near distance.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetnut_community.jpg)
+![A photo of a shrubland with bare, pale substrate visible between plants. A yellow flowered shrub grows in the foreground, and low sagebrush, bunchgrasses, and more yellow flowering shrubs grow behind. Dark green shrubby trees grow in the near distance.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tetnut_community.jpg?itok=xZ1oNPAm)
 
 Photo Credit
 
@@ -87,7 +87,7 @@ Nuttall's horsebrush occurs in shadscale (_Atriplex confertifolia_), black greas
 
 ## Botanical Description
 
-![A photo of a low, dense shrub with numerous yellow flowers and clusters of small, gray-green leaves on stems. Bare ground surrounds the plant and other shrubs grow around.]({{ site.baseurl }}/assets/images/species-reviews/feis-tetnut_plant2.jpg)
+![A photo of a low, dense shrub with numerous yellow flowers and clusters of small, gray-green leaves on stems. Bare ground surrounds the plant and other shrubs grow around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-tetnut_plant2.jpg?itok=EParuEBk)
 
 Photo Credit
 

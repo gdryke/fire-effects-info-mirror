@@ -36,7 +36,7 @@ Gucker, Corey L. 2008. _Zuckia brandegeei_ , siltbush. In: Fire Effects Informat
 
 ## Taxonomy
 
-![A photo of a compact shrub with upright, dusky leaves and fruits densely clustered along some stems.]({{ site.baseurl }}/assets/images/species-reviews/feis-zucbra_plant.jpeg)
+![A photo of a compact shrub with upright, dusky leaves and fruits densely clustered along some stems.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-zucbra_plant.jpeg?itok=o1A3Ay0p)
 
 Photo Credit
 
@@ -81,7 +81,7 @@ Siltbush has been described as a "narrowly distributed edaphic endemic" [30]. Is
 
 ## Site Characteristics
 
-![A photo of a fruiting siltbush shrub, with yellowish, wrinkled disks growing densely along the tops of stems, with dusky, narrow leaves below.]({{ site.baseurl }}/assets/images/species-reviews/feis-zucbra_seeds2.jpeg)
+![A photo of a fruiting siltbush shrub, with yellowish, wrinkled disks growing densely along the tops of stems, with dusky, narrow leaves below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-zucbra_seeds2.jpeg?itok=QflHjGcP)
 
 Photo Credit
 
@@ -124,7 +124,7 @@ This description provides characteristics that may be relevant to fire ecology a
 
 ### Aboveground Description
 
-![A close-up photo of siltbush leaves growing in clusters along a woody stem. ]({{ site.baseurl }}/assets/images/species-reviews/feis-zucbra_leaves.jpg)
+![A close-up photo of siltbush leaves growing in clusters along a woody stem. ](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-zucbra_leaves.jpg?itok=d9TZYy78)
 
 Photo Credit
 
@@ -160,7 +160,7 @@ Temporal separation of male and female flowers indicates that cross pollination 
 
 ### Seed Production
 
-![A close-up photo of pinkish, round fruits at the end of a woody stem with narrow, dusky leaves below.]({{ site.baseurl }}/assets/images/species-reviews/feis-zucbra_seeds.jpeg)
+![A close-up photo of pinkish, round fruits at the end of a woody stem with narrow, dusky leaves below.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-zucbra_seeds.jpeg?itok=ExL_iJIa)
 
 Photo Credit
 

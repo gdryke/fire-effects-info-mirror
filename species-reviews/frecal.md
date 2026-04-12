@@ -48,7 +48,7 @@ Fires have become more frequent in the late 20th and early 21st centuries on som
 
 ## Taxonomy
 
-![A photo of a large shrub with yellow flowers.]({{ site.baseurl }}/assets/images/species-reviews/feis-frecal_fig1_plant.jpg)
+![A photo of a large shrub with yellow flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-frecal_fig1_plant.jpg?itok=5SK9wu9J)
 
 Photo Credit
 
@@ -78,7 +78,7 @@ flannelbush, California fremontia, fremontia
 
 California flannelbush occurs in California, central Arizona, and northern Baja California, Mexico (fig. 2) [4, 17, 30, 48, 57, 85]. It is most common in California, where it occurs in the northern [26] and southern Coast Ranges and Sierra Nevada foothills (fig. 3) [35, 79]. It is uncommon and occurs only in a few areas in central Arizona [46, 48] and Baja California [53, 55, 85]. The densest populations of “flannelbush” occur in the Transverse Ranges and the southern Sierra Nevada [41]; most of these populations are California flannelbush.
 
-![A map of the western United States with small green polygons in California, Arizona, and northern Mexico.]({{ site.baseurl }}/assets/images/species-reviews/feis-frecal_fig2_map.jpg)
+![A map of the western United States with small green polygons in California, Arizona, and northern Mexico.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-frecal_fig2_map.jpg)
 
 Photo Credit
 
@@ -86,7 +86,7 @@ Map from Little (1976) [47] and digitized by Thompson and others (1999) [74].
 
 Figure 2—Distribution of California flannelbush.
 
-![A map of California with different colored polygons highlighting different regions of the state. Purple circles and green squares occur mostly in a line down the center of the state and along the coast.]({{ site.baseurl }}/assets/images/species-reviews/feis-frecal_fig3_map.jpeg)
+![A map of California with different colored polygons highlighting different regions of the state. Purple circles and green squares occur mostly in a line down the center of the state and along the coast.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-frecal_fig3_map.jpeg?itok=B4keI30D)
 
 Photo Credit
 
@@ -168,7 +168,7 @@ California flannelbush is a loosely branched, erect shrub or small tree. It gene
 
 Little information was available about California flannelbush roots or underground structures. Graves (1932) describes “running roots” with sprouts as far as 5 feet (1.5 m) from the parent plant [21]. The Missouri Botanical Garden describes shallow, wide-spreading roots, in the hybrid ‘California Glory’ [54].
 
-![Two photos side by side. On the left is a photo of a yellow flower with dark green leaves behind. On the right is a photo of a fuzzy fruit with green leaves behind.]({{ site.baseurl }}/assets/images/species-reviews/feis-frecal_fig4_flowerfruit.jpg)
+![Two photos side by side. On the left is a photo of a yellow flower with dark green leaves behind. On the right is a photo of a fuzzy fruit with green leaves behind.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-frecal_fig4_flowerfruit.jpg?itok=R7qszclA)
 
 Photo Credit
 

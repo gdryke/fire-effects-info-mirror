@@ -34,7 +34,7 @@ Waggy, Melissa, A. 2010. _Aegopodium podagraria_ , bishop's goutweed. In: Fire E
 
 ## Introduction
 
-![Photo of a low-growing, herbaceous plant with green, serrated leaves and flowering stems with umbels of small white flowers.]({{ site.baseurl }}/assets/images/species-reviews/aegpod_feis-AEGPOD_FloweringPlants.jpg)
+![Photo of a low-growing, herbaceous plant with green, serrated leaves and flowering stems with umbels of small white flowers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-AEGPOD_FloweringPlants.jpg?itok=H_zLafZz)
 
 Photo Credit
 
@@ -116,7 +116,7 @@ Throughout its European range, bishop's goutweed occurs with a mix of deciduous 
 
 ## Botanical and Ecological Characteristics
 
-![Photo of a small patch of herbaceous vegetation dominated by a plant with variegated \(green and white\) leaves.]({{ site.baseurl }}/assets/images/species-reviews/aegpod_feis-AEGPOD_VariegatedLeaves.jpg)
+![Photo of a small patch of herbaceous vegetation dominated by a plant with variegated \(green and white\) leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-AEGPOD_VariegatedLeaves.jpg?itok=wuYwzxcK)
 
 Photo Credit
 
@@ -132,7 +132,7 @@ This description covers characteristics that may be relevant to fire ecology and
 
 Bishop's goutweed is a perennial ([52,62], review by [15]) herb [52,56,59,79,92,95] with erect, hollow stems (review by [14]). One review from the upper Great Lakes region indicated that bishop's goutweed grows from 4 to 12 inches (10-30 cm) tall [15], but it may grow to as tall as about 3 feet (1 m) in the northeastern United States [28]. In the Netherlands, bishop's goutweed grows from 1.5 feet (0.47 m) [39] to 3 feet (1 m) tall ([59], review by [14]). Individual compound leaves are 1 to 3 inches (3-8 cm) long ([28], review by [15]). They are typically variegated but are occasionally all green [79], especially on plants established from seed [92]. Bishop's goutweed's inflorescence is a compound umbel [71,76] 2 to 4.7 inches (6-12 cm) wide [28]. Its seeds are about 1.4 mm wide [31].
 
-![Photo of a low-growing, herbaceous plant with green, serrated leaves.]({{ site.baseurl }}/assets/images/species-reviews/aegpod_feis-AEGPOD_GreenLeaves.jpg)
+![Photo of a low-growing, herbaceous plant with green, serrated leaves.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2026-01/feis-AEGPOD_GreenLeaves.jpg?itok=7mLmdkzf)
 
 Photo Credit
 
@@ -296,7 +296,7 @@ Extracts from bishop's goutweed's roots have been used worldwide for their purif
 
 Reports on bishop's goutweed's impacts in North America are limited and anecdotal in nature. Reviews have described bishop's goutweed as an "aggressive" invader in the upper Great Lakes region [15], Vermont [91], and Massachusetts [55]. In New England, bishop's goutweed persists in wildlands and is locally abundant (review by [13]). It is considered invasive in northern Illinois [37] and Massachusetts [95]. The most detailed information comes from Vermont, where bishop's goutweed threatens forested and open areas and dominates the ground layer in some areas. It is a particular threat to native vegetation in floodplain forests (review by [91]). Reports on bishop's goutweed's impacts in Canada vary. Catling [11] considers bishop's goutweed to be a high-priority nonnative species in need of control because of its "major impacts" to wildlands in Canada. Others [62,97] consider bishop's goutweed a minor threat to native plant communities in Canada; however, White [97] cautioned that it may become locally abundant.
 
-![Photo of the understory of a riparian woodland with tree trunks visible in the background and the foreground showing dense herbaceous growth on the forest floor.]({{ site.baseurl }}/assets/images/species-reviews/aegpod_feis-AEGPOD_infestation.jpg)
+![Photo of the understory of a riparian woodland with tree trunks visible in the background and the foreground showing dense herbaceous growth on the forest floor.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-AEGPOD_infestation.jpg?itok=Sf4Shtrc)
 
 Photo Credit
 

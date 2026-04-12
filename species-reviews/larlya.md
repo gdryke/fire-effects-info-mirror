@@ -50,7 +50,7 @@ alpine larch, lyall larch, lyall's larch, tamarack, timberline larch, woolly lar
 
 ## General Distribution
 
-![A map of the Pacific Northwest and southwest Canada, with scattered areas highlighted in green where subalpine larch occurs.]({{ site.baseurl }}/assets/images/species-reviews/feis-larlya_map.jpg)
+![A map of the Pacific Northwest and southwest Canada, with scattered areas highlighted in green where subalpine larch occurs.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-larlya_map.jpg?itok=q4XjuIbX)
 
 Photo Credit
 
@@ -67,7 +67,7 @@ Subalpine larch occupies two mountain systems: the northern Rockies and northern
 
 ## Site Characteristics
 
-![A tall, spindly green conifer tree growing in a high mountain environment, with rocky peaks in the background, and little other vegetation around.]({{ site.baseurl }}/assets/images/species-reviews/feis-larlya_tree.jpg)
+![A tall, spindly green conifer tree growing in a high mountain environment, with rocky peaks in the background, and little other vegetation around.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-larlya_tree.jpg?itok=39rOWXLu)
 
 Photo Credit
 
@@ -95,7 +95,7 @@ Southern Alberta| general veg. vts| Holland & others 1982
 
 ## Botanical Description 
  
-![A close-up photo of a conifer tree with bright yellow needles and brown cones. The background is blurry grey.]({{ site.baseurl }}/assets/images/species-reviews/feis-larlya_closeup.jpg)
+![A close-up photo of a conifer tree with bright yellow needles and brown cones. The background is blurry grey.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-larlya_closeup.jpg?itok=RK42jWll)
 
 Photo Credit
 
@@ -139,7 +139,7 @@ Subalpine larch does not reproduce from sprouts. Layering has been known to occu
 
 ## Successional Status
 
-![A photo of a high mountain landscape, with a light green alpine lake, rocky, snowy mountain, and a line of bright yellow conifer trees behind a clump of green conifers.]({{ site.baseurl }}/assets/images/species-reviews/feis-larlya_fallcolor.jpg)
+![A photo of a high mountain landscape, with a light green alpine lake, rocky, snowy mountain, and a line of bright yellow conifer trees behind a clump of green conifers.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-05/feis-larlya_fallcolor.jpg?itok=MO-lJ1Sy)
 
 Photo Credit
 

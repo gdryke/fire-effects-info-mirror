@@ -34,7 +34,7 @@ Matthews, Robin F. 1992. _Empetrum nigrum_ , black crowberry. In: Fire Effects I
 
 ## Image Gallery
 
-![Photo of black crowberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-empnig_plant.jpg) Black crowberry. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
+![Photo of black crowberry with fruit.](https://research.fs.usda.gov/sites/default/files/2025-08/feis-empnig_plant.jpg) Black crowberry. _Photo by Kallum McDonald, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Kallum McDonald, iNaturalist.org, no rights reserved.
 
@@ -93,7 +93,7 @@ Southwest YT| Community types| Douglas 1974
 
 ## Botanical Description 
  
-![Photo of black crowberry with fruit.]({{ site.baseurl }}/assets/images/species-reviews/feis-empnig_plant.jpg)
+![Photo of black crowberry with fruit.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-08/feis-empnig_plant.jpg?itok=RZjMUhGm)
 
 Photo Credit
 

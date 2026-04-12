@@ -87,7 +87,7 @@ Wintering areas used by eastern bluebirds in the Apalachicola National Forest in
 
 ## Biological Characteristics
 
-![A photo of a group of blue, orange and white birds squeezed tightly together along a branch in a winter forest.]({{ site.baseurl }}/assets/images/species-reviews/feis-sisi_group.jpeg)
+![A photo of a group of blue, orange and white birds squeezed tightly together along a branch in a winter forest.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sisi_group.jpeg?itok=trJ6gPVu)
 
 Photo Credit
 
@@ -123,7 +123,7 @@ Most nest failures are due to predation and/or nest site competitors. In souther
 
 ### Diet
 
-![A photo of a dark blue bird with an orange chest feeding a lighter, dusty-blue bird an insect. The birds are perched on a thin branch and the background is blurry green vegetation.]({{ site.baseurl }}/assets/images/species-reviews/feis-sisi_pair.jpg)
+![A photo of a dark blue bird with an orange chest feeding a lighter, dusty-blue bird an insect. The birds are perched on a thin branch and the background is blurry green vegetation.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sisi_pair.jpg?itok=oZjYAf5O)
 
 Photo Credit
 
@@ -173,7 +173,7 @@ In Minnesota prescribed fire conducted during the breeding season was evaluated 
 
 ## Fire Effects on Habitat
 
-![A photo of a bird with a blue head and wings, orange chest, and white belly perched on a branch in front of a burned tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-sisi_burnedtree.jpg)
+![A photo of a bird with a blue head and wings, orange chest, and white belly perched on a branch in front of a burned tree.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sisi_burnedtree.jpg?itok=Ih_zABvn)
 
 Photo Credit
 
@@ -227,7 +227,7 @@ The introduction of the European starling has greatly increased competition for 
 
 Other competitors of eastern bluebird include mountain and western bluebirds in areas of sympatry, particularly in the Great Plains grasslands where eastern and mountain bluebirds have expanded their ranges [46].
 
-![A photo of a wooden bird nest box with one side lifted up, revealing a nest with dark grey nestlings inside.]({{ site.baseurl }}/assets/images/species-reviews/feis-sisi_nestbox.jpg)
+![A photo of a wooden bird nest box with one side lifted up, revealing a nest with dark grey nestlings inside.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-12/feis-sisi_nestbox.jpg?itok=5ylvanJT)
 
 Photo Credit
 

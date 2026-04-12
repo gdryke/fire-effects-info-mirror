@@ -34,7 +34,7 @@ Snyder, S. A. 1993. _Comptonia peregrina,_ sweetfern. In: Fire Effects Informati
 
 ## Image Gallery
 
-![Photo of sweetfern.]({{ site.baseurl }}/assets/images/species-reviews/feis-comper_plant.jpg) Sweetfern. _Photo by Nick Bedard, iNaturalist.org, no rights reserved._
+![Photo of sweetfern.](https://research.fs.usda.gov/sites/default/files/2025-07/feis-comper_plant.jpg) Sweetfern. _Photo by Nick Bedard, iNaturalist.org, no rights reserved._
 
 Photo Credit: Photo by Nick Bedard, iNaturalist.org, no rights reserved.
 
@@ -77,7 +77,7 @@ Plant associates of sweetfern include prairie willow (Salix humilis), American h
 
 ## Botanical Description
 
-![Photo of sweetfern.]({{ site.baseurl }}/assets/images/species-reviews/feis-comper_plant.jpg)
+![Photo of sweetfern.](https://research.fs.usda.gov/sites/default/files/styles/large/public/2025-07/feis-comper_plant.jpg?itok=eE4PZBjv)
 
 Photo Credit
 

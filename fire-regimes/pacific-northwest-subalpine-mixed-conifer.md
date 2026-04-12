@@ -28,7 +28,7 @@ A complete Fire Regime Synthesis for Pacific Northwest subalpine mixed-conifer c
 
 ## Distribution
 
-![A map showing the distribution of Pacific Northwest subalpine mixed-conifer communities in Oregon and Washington.]({{ site.baseurl }}/assets/images/fire-regimes/pacific-northwest-subalpine-mixed-conifer_feis-pacific_northwest_subalpine_mixed_conifer_locator.jpg)
+![A map showing the distribution of Pacific Northwest subalpine mixed-conifer communities in Oregon and Washington.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-03/feis-pacific_northwest_subalpine_mixed_conifer_locator.jpg?itok=2FAFNnzK)
 
 Photo Credit
 

@@ -74,7 +74,7 @@ See Table A1.
 
 ## Biological Characteristics
 
-![A photo of a large, gray owl with bright yellow eyes perched on a small branch coming out of the trunk of a partially burned conifer tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-stne_burnedtree.jpg)
+![A photo of a large, gray owl with bright yellow eyes perched on a small branch coming out of the trunk of a partially burned conifer tree.](https://research.fs.usda.gov/sites/default/files/styles/800px_wide/public/2026-01/feis-stne_burnedtree.jpg?itok=5n4hefEW)
 
 Photo Credit
 
@@ -128,7 +128,7 @@ Winter| 2,457.27| 2,112.87
  
 ### Diet
 
-![A photo of a large gray owl in flight with a small gray vole in its beak. The background is snowy with some dried grass visible.]({{ site.baseurl }}/assets/images/species-reviews/feis-stne_vole.jpg)
+![A photo of a large gray owl in flight with a small gray vole in its beak. The background is snowy with some dried grass visible.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-stne_vole.jpg?itok=w1iGUZuX)
 
 Photo Credit
 
@@ -144,7 +144,7 @@ In California, the diet of the great gray owl shifts between microtine rodents a
 
 ### Foraging Sites
 
-![A photo of a grassy opening in a mixed-conifer forest, with some dead, leaning trees and scattered shrubs.]({{ site.baseurl }}/assets/images/species-reviews/feis-stne_foraginghabitat.jpg)
+![A photo of a grassy opening in a mixed-conifer forest, with some dead, leaning trees and scattered shrubs.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-stne_foraginghabitat.jpg?itok=W4b2jSA7)
 
 Photo Credit
 
@@ -190,7 +190,7 @@ As of 2007, no research directly investigated great gray owl mortality due to fi
 
 ## Indirect Fire Effects
 
-![A photo of a large gray owl laying down in the broken top of a large, burned conifer tree.]({{ site.baseurl }}/assets/images/species-reviews/feis-stne_burnednest.jpg)
+![A photo of a large gray owl laying down in the broken top of a large, burned conifer tree.](https://research.fs.usda.gov/sites/default/files/styles/700px_wide/public/2026-01/feis-stne_burnednest.jpg?itok=oXSNNhLT)
 
 Photo Credit
 
