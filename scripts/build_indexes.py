@@ -9,59 +9,174 @@ DATA_DIR = PROJECT_ROOT / "data"
 
 
 def build_species_index():
-    """Build the species reviews index page with a searchable table."""
+    """Build the species reviews index page with paginated, searchable table."""
     with open(DATA_DIR / "species_list.json") as f:
         species = json.load(f)
 
-    lines = [
-        "---",
-        "layout: default",
-        "title: Species Reviews",
-        "parent: FEIS",
-        "has_children: true",
-        "nav_order: 2",
-        "---",
-        "",
-        "# Species Reviews",
-        "",
-        f"FEIS contains **{len(species)}** species reviews covering fire effects on plants and animals.",
-        "Each review summarizes the available scientific literature on a species' fire ecology,",
-        "distribution, botanical and ecological characteristics, and management considerations.",
-        "",
-        '<input type="text" id="species-search" placeholder="Search by name, abbreviation, or year..." style="width:100%;padding:8px;margin-bottom:12px;border:1px solid #ccc;border-radius:4px;">',
-        "",
-        "| Abbreviation | Common Name | Scientific Name | Year |",
-        "|:-------------|:------------|:----------------|:-----|",
-    ]
+    sorted_species = sorted(species, key=lambda x: x.get("common_name", "").lower())
 
-    for sp in sorted(species, key=lambda x: x.get("common_name", "").lower()):
-        abbr = sp.get("abbreviation", sp["slug"].upper())
-        common = sp.get("common_name", "")
-        scientific = sp.get("scientific_name", "")
-        year = sp.get("year", "")
-        slug = sp["slug"]
-        lines.append(
-            f"| [{abbr}]({{{{ site.baseurl }}}}/species-reviews/{slug}) | {common} | *{scientific}* | {year} |"
-        )
+    # Build compact JSON array for client-side rendering
+    species_data = []
+    for sp in sorted_species:
+        species_data.append({
+            "a": sp.get("abbreviation", sp["slug"].upper()),
+            "c": sp.get("common_name", ""),
+            "s": sp.get("scientific_name", ""),
+            "y": sp.get("year", ""),
+            "k": sp["slug"],
+        })
 
-    # Add search JavaScript
-    lines.append("")
-    lines.append("<script>")
-    lines.append("document.getElementById('species-search').addEventListener('input', function() {")
-    lines.append("  var filter = this.value.toLowerCase();")
-    lines.append("  var rows = document.querySelectorAll('table tbody tr');")
-    lines.append("  rows.forEach(function(row) {")
-    lines.append("    var text = row.textContent.toLowerCase();")
-    lines.append("    row.style.display = text.includes(filter) ? '' : 'none';")
-    lines.append("  });")
-    lines.append("});")
-    lines.append("</script>")
+    species_json = json.dumps(species_data, separators=(",", ":"))
+
+    content = f"""---
+layout: default
+title: Species Reviews
+parent: FEIS
+has_children: true
+nav_order: 2
+---
+
+# Species Reviews
+
+FEIS contains **{len(species)}** species reviews covering fire effects on plants and animals.
+Each review summarizes the available scientific literature on a species' fire ecology,
+distribution, botanical and ecological characteristics, and management considerations.
+
+<div id="species-app">
+<input type="text" id="species-search" placeholder="Search by name, abbreviation, or year..." style="width:100%;padding:8px;margin-bottom:12px;border:1px solid #ccc;border-radius:4px;">
+
+<div id="species-info" style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;font-size:0.9em;color:#666;">
+  <span id="species-count"></span>
+  <span>
+    Show
+    <select id="per-page" style="padding:2px 4px;border:1px solid #ccc;border-radius:3px;">
+      <option value="50" selected>50</option>
+      <option value="100">100</option>
+      <option value="250">250</option>
+      <option value="0">All</option>
+    </select>
+    per page
+  </span>
+</div>
+
+<table id="species-table">
+<thead><tr><th style="text-align:left">Abbreviation</th><th style="text-align:left">Common Name</th><th style="text-align:left">Scientific Name</th><th style="text-align:left">Year</th></tr></thead>
+<tbody id="species-tbody"></tbody>
+</table>
+
+<div id="pagination" style="display:flex;justify-content:center;align-items:center;gap:8px;margin-top:16px;flex-wrap:wrap;"></div>
+</div>
+
+<script>
+(function() {{
+  var BASE = "{{{{ site.baseurl }}}}";
+  var DATA = {species_json};
+  var perPage = 50;
+  var currentPage = 1;
+  var filtered = DATA;
+
+  var searchEl = document.getElementById("species-search");
+  var tbody = document.getElementById("species-tbody");
+  var pagEl = document.getElementById("pagination");
+  var countEl = document.getElementById("species-count");
+  var ppEl = document.getElementById("per-page");
+
+  function render() {{
+    var start = perPage > 0 ? (currentPage - 1) * perPage : 0;
+    var end = perPage > 0 ? start + perPage : filtered.length;
+    var page = filtered.slice(start, end);
+    var html = "";
+    for (var i = 0; i < page.length; i++) {{
+      var d = page[i];
+      html += "<tr><td><a href=\\"" + BASE + "/species-reviews/" + d.k + "\\">" + d.a + "</a></td>"
+            + "<td>" + d.c + "</td>"
+            + "<td><em>" + d.s + "</em></td>"
+            + "<td>" + d.y + "</td></tr>";
+    }}
+    tbody.innerHTML = html;
+
+    var totalPages = perPage > 0 ? Math.ceil(filtered.length / perPage) : 1;
+    countEl.textContent = "Showing " + (filtered.length === DATA.length ? "all " + DATA.length : filtered.length + " of " + DATA.length) + " species";
+
+    if (totalPages <= 1) {{ pagEl.innerHTML = ""; return; }}
+
+    var ph = "";
+    ph += '<button class="pg-btn" data-p="prev" ' + (currentPage === 1 ? "disabled" : "") + '>&laquo; Prev</button>';
+
+    var pages = getPageNumbers(currentPage, totalPages);
+    for (var j = 0; j < pages.length; j++) {{
+      if (pages[j] === "...") {{
+        ph += '<span style="padding:4px">...</span>';
+      }} else {{
+        ph += '<button class="pg-btn" data-p="' + pages[j] + '"'
+            + (pages[j] === currentPage ? ' style="font-weight:bold;text-decoration:underline;"' : '')
+            + '>' + pages[j] + '</button>';
+      }}
+    }}
+
+    ph += '<button class="pg-btn" data-p="next" ' + (currentPage === totalPages ? "disabled" : "") + '>Next &raquo;</button>';
+    pagEl.innerHTML = ph;
+  }}
+
+  function getPageNumbers(cur, total) {{
+    if (total <= 7) {{ var a=[]; for(var i=1;i<=total;i++) a.push(i); return a; }}
+    var pages = [1];
+    if (cur > 3) pages.push("...");
+    for (var i = Math.max(2, cur-1); i <= Math.min(total-1, cur+1); i++) pages.push(i);
+    if (cur < total-2) pages.push("...");
+    pages.push(total);
+    return pages;
+  }}
+
+  searchEl.addEventListener("input", function() {{
+    var q = this.value.toLowerCase();
+    if (!q) {{ filtered = DATA; }}
+    else {{ filtered = DATA.filter(function(d) {{
+      return d.a.toLowerCase().indexOf(q) >= 0 || d.c.toLowerCase().indexOf(q) >= 0
+          || d.s.toLowerCase().indexOf(q) >= 0 || String(d.y).indexOf(q) >= 0;
+    }}); }}
+    currentPage = 1;
+    render();
+  }});
+
+  pagEl.addEventListener("click", function(e) {{
+    var btn = e.target.closest(".pg-btn");
+    if (!btn || btn.disabled) return;
+    var p = btn.dataset.p;
+    var totalPages = Math.ceil(filtered.length / perPage);
+    if (p === "prev") currentPage = Math.max(1, currentPage - 1);
+    else if (p === "next") currentPage = Math.min(totalPages, currentPage + 1);
+    else currentPage = parseInt(p);
+    render();
+    document.getElementById("species-app").scrollIntoView({{ behavior: "smooth" }});
+  }});
+
+  ppEl.addEventListener("change", function() {{
+    perPage = parseInt(this.value);
+    currentPage = 1;
+    render();
+  }});
+
+  render();
+}})();
+</script>
+
+<style>
+#species-table {{ width:100%; border-collapse:collapse; }}
+#species-table th, #species-table td {{ padding:6px 10px; border-bottom:1px solid #eee; }}
+#species-table th {{ border-bottom:2px solid #ccc; }}
+#species-table tr:hover {{ background:#f8f8f8; }}
+.pg-btn {{ padding:4px 10px; border:1px solid #ccc; border-radius:3px; background:#fff; cursor:pointer; font-size:0.9em; }}
+.pg-btn:hover:not([disabled]) {{ background:#e8e8e8; }}
+.pg-btn[disabled] {{ opacity:0.4; cursor:default; }}
+</style>
+"""
 
     output_path = PROJECT_ROOT / "species-reviews" / "index.md"
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as f:
-        f.write("\n".join(lines))
-    print(f"  Wrote species-reviews/index.md ({len(species)} entries)")
+        f.write(content)
+    print(f"  Wrote species-reviews/index.md ({len(species)} entries, paginated)")
 
 
 def build_fire_regimes_index():

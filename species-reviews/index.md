@@ -12,1110 +12,131 @@ FEIS contains **1092** species reviews covering fire effects on plants and anima
 Each review summarizes the available scientific literature on a species' fire ecology,
 distribution, botanical and ecological characteristics, and management considerations.
 
+<div id="species-app">
 <input type="text" id="species-search" placeholder="Search by name, abbreviation, or year..." style="width:100%;padding:8px;margin-bottom:12px;border:1px solid #ccc;border-radius:4px;">
 
-| Abbreviation | Common Name | Scientific Name | Year |
-|:-------------|:------------|:----------------|:-----|
-| [SCAB]({{ site.baseurl }}/species-reviews/scab) | Abert's squirrel | *Sciurus aberti* | 1995 |
-| [ARTABS]({{ site.baseurl }}/species-reviews/artabs) | absinthium | *Artemisia absinthium* | 1994 |
-| [MEFO]({{ site.baseurl }}/species-reviews/mefo) | acorn woodpecker | *Melanerpes formicivorus* | 2007 |
-| [VACALA]({{ site.baseurl }}/species-reviews/vacala) | Alaska blueberry | *Vaccinium alaskaense* | 1992 |
-| [SALFUS]({{ site.baseurl }}/species-reviews/salfus) | Alaska bog willow | *Salix fuscescens* | 1993 |
-| [CERMON]({{ site.baseurl }}/species-reviews/cermon) | alderleaf mountain-mahogany | *Cercocarpus montanus* | 2006 |
-| [MEDSAT]({{ site.baseurl }}/species-reviews/medsat) | alfalfa | *Medicago sativa* | 1992 |
-| [MAHTRI]({{ site.baseurl }}/species-reviews/mahtri) | algerita | *Mahonia trifoliolata* | 1990 |
-| [SPOAIR]({{ site.baseurl }}/species-reviews/spoair) | alkali sacaton | *Sporobolus airoides* | 2001 |
-| [THEMOL]({{ site.baseurl }}/species-reviews/themol) | Allegheny Mountain goldenbanner | *Thermopsis mollis* | 1994 |
-| [JUNDEP]({{ site.baseurl }}/species-reviews/jundep) | alligator juniper | *Juniperus deppeana* | 1999 |
-| [ASTALP]({{ site.baseurl }}/species-reviews/astalp) | alpine milkvetch | *Astragalus alpinus* | 2007 |
-| [HEDALP]({{ site.baseurl }}/species-reviews/hedalp) | alpine sweetvetch | *Hedysarum alpinum* | 2007 |
-| [CORALT]({{ site.baseurl }}/species-reviews/coralt) | alternateleaf dogwood | *Cornus alternifolia* | 1994 |
-| [TATA]({{ site.baseurl }}/species-reviews/tata) | American badger | *Taxidea taxus* | 1996 |
-| [TILAME]({{ site.baseurl }}/species-reviews/tilame) | American basswood | *Tilia americana* | 1994 |
-| [CALAME]({{ site.baseurl }}/species-reviews/calame) | American beautyberry | *Callicarpa americana* | 1992 |
-| [CACA]({{ site.baseurl }}/species-reviews/caca) | American beaver | *Castor canadensis* | 1993 |
-| [FAGGRA]({{ site.baseurl }}/species-reviews/faggra) | American beech | *Fagus grandifolia* | 1991 |
-| [BOBI]({{ site.baseurl }}/species-reviews/bobi) | American bison | *Bos bison* | 1995 |
-| [URAM]({{ site.baseurl }}/species-reviews/uram) | American black bear | *Ursus americanus* | 2007 |
-| [RIBAME]({{ site.baseurl }}/species-reviews/ribame) | American black currant | *Ribes americanum* | 1995 |
-| [ANRU]({{ site.baseurl }}/species-reviews/anru) | American black duck | *Anas rubripes* | 1993 |
-| [DRAPAR]({{ site.baseurl }}/species-reviews/drapar) | American dragonhead | *Dracocephalum parviflorum* | 1993 |
-| [ULMAME]({{ site.baseurl }}/species-reviews/ulmame) | American elm | *Ulmus americana* | 1992 |
-| [CORAME]({{ site.baseurl }}/species-reviews/corame) | American hazelnut | *Corylus americana* | 1993 |
-| [ILEOPA]({{ site.baseurl }}/species-reviews/ileopa) | American holly | *Ilex opaca* | 1991 |
-| [CARCAR]({{ site.baseurl }}/species-reviews/carcar) | American hornbeam | *Carpinus caroliniana* | 1994 |
-| [FASP]({{ site.baseurl }}/species-reviews/fasp) | American kestrel | *Falco sparverius* | 1994 |
-| [GLYLEP]({{ site.baseurl }}/species-reviews/glylep) | American licorice | *Glycyrrhiza lepidota* | 1994 |
-| [MART]({{ site.baseurl }}/species-reviews/mart) | American marten, Pacific marten | *Martes americana, M. caurina* | 2010 |
-| [VIVI]({{ site.baseurl }}/species-reviews/vivi) | American mink | *Vison vison* | 1996 |
-| [SORAME]({{ site.baseurl }}/species-reviews/sorame) | American mountain-ash | *Sorbus americana* | 1992 |
-| [PRUAME]({{ site.baseurl }}/species-reviews/pruame) | American plum | *Prunus americana* | 2010 |
-| [RUBIDA]({{ site.baseurl }}/species-reviews/rubida) | American red raspberry | *Rubus idaeus* | 1990 |
-| [PLAOCC]({{ site.baseurl }}/species-reviews/plaocc) | American sycamore | *Platanus occidentalis* | 1994 |
-| [FLOCER]({{ site.baseurl }}/species-reviews/flocer) | American tarwort | *Flourensia cernua* | 2010 |
-| [VICAME]({{ site.baseurl }}/species-reviews/vicame) | American vetch | *Vicia americana* | 1993 |
-| [HAMVIR]({{ site.baseurl }}/species-reviews/hamvir) | American witchhazel | *Hamamelis virginiana* | 1993 |
-| [SCMI]({{ site.baseurl }}/species-reviews/scmi) | American woodcock | *Scolopax minor* | 2010 |
-| [AMPBRE]({{ site.baseurl }}/species-reviews/ampbre) | Amur peppervine | *Ampelopsis brevipedunculata* | 2009 |
-| [LYCAND]({{ site.baseurl }}/species-reviews/lycand) | Anderson wolfberry | *Lycium andersonii* | 1992 |
-| [PURTRI]({{ site.baseurl }}/species-reviews/purtri) | antelope bitterbrush | *Purshia tridentata* | 1999 |
-| [PINENG]({{ site.baseurl }}/species-reviews/pineng) | Apache pine | *Pinus engelmannii* | 1994 |
-| [FALPAR]({{ site.baseurl }}/species-reviews/falpar) | Apache plume | *Fallugia paradoxa* | 2000 |
-| [DIGCAL]({{ site.baseurl }}/species-reviews/digcal) | Arizona cottontop | *Digitaria californica* | 1993 |
-| [HESARI]({{ site.baseurl }}/species-reviews/hesari) | Arizona cypress | *Hesperocyparis arizonica* | 1993 |
-| [FESARI]({{ site.baseurl }}/species-reviews/fesari) | Arizona fescue | *Festuca arizonica* | 2006 |
-| [ARBARI]({{ site.baseurl }}/species-reviews/arbari) | Arizona madrone | *Arbutus arizonica* | 1993 |
-| [PINARZ]({{ site.baseurl }}/species-reviews/pinarz) | Arizona pine | *Pinus arizonica* | 2003 |
-| [PLAWRI]({{ site.baseurl }}/species-reviews/plawri) | Arizona sycamore | *Platanus wrightii* | 2022 |
-| [JUGMAJ]({{ site.baseurl }}/species-reviews/jugmaj) | Arizona walnut | *Juglans major* | 2022 |
-| [QUEARI]({{ site.baseurl }}/species-reviews/queari) | Arizona white oak | *Quercus arizonica* | 1994 |
-| [BALSAG]({{ site.baseurl }}/species-reviews/balsag) | arrowleaf balsamroot | *Balsamorhiza sagittata* | 2002 |
-| [JUNASH]({{ site.baseurl }}/species-reviews/junash) | Ashe's juniper | *Juniperus ashei* | 1993 |
-| [CASCIN]({{ site.baseurl }}/species-reviews/cascin) | ashgray Indian paintbrush | *Castilleja cinerea* | 2006 |
-| [POLPEF]({{ site.baseurl }}/species-reviews/polpef) | Asiatic tearthumb | *Polygonum perfoliatum* | 2010 |
-| [TAMAPH]({{ site.baseurl }}/species-reviews/tamaph) | Athel tamarisk | *Tamarix aphylla* | 1992 |
-| [TOXPUB]({{ site.baseurl }}/species-reviews/toxpub) | Atlantic poison-oak | *Toxicodendron pubescens* | 1994 |
-| [CHATHY]({{ site.baseurl }}/species-reviews/chathy) | Atlantic white-cedar | *Chamaecyparis thyoides* | 1991 |
-| [PINNIG]({{ site.baseurl }}/species-reviews/pinnig) | Austrian pine | *Pinus nigra* | 1993 |
-| [ELAUMB]({{ site.baseurl }}/species-reviews/elaumb) | autumn-olive | *Elaeagnus umbellata* | 2003 |
-| [PEAE]({{ site.baseurl }}/species-reviews/peae) | Bachman's sparrow | *Peucaea aestivalis* | 2006 |
-| [HALE]({{ site.baseurl }}/species-reviews/hale) | bald eagle | *Haliaeetus leucocephalus* | 1993 |
-| [ABIBAL]({{ site.baseurl }}/species-reviews/abibal) | balsam fir | *Abies balsamea* | 1991 |
-| [POPBALB]({{ site.baseurl }}/species-reviews/popbalb) | balsam poplar | *Populus balsamifera subsp. balsamifera* | 1990 |
-| [YUCBAC]({{ site.baseurl }}/species-reviews/yucbac) | banana yucca | *Yucca baccata* | 2005 |
-| [PAFA]({{ site.baseurl }}/species-reviews/pafa) | band-tailed pigeon | *Patagioenas fasciata* | 2006 |
-| [ECHCRU]({{ site.baseurl }}/species-reviews/echcru) | barnyardgrass | *Echinochloa crus-galli* | 1994 |
-| [ACAL]({{ site.baseurl }}/species-reviews/acal) | barrens dagger moth | *Acronicta albarufa* | 2008 |
-| [ARTTRIT]({{ site.baseurl }}/species-reviews/arttrit) | basin big sagebrush | *Artemisia tridentata subsp. tridentata* | 1999 |
-| [LEYCIN]({{ site.baseurl }}/species-reviews/leycin) | basin wildrye | *Leymus cinereus* | 2002 |
-| [CORCOR]({{ site.baseurl }}/species-reviews/corcor) | beaked hazelnut | *Corylus cornuta* | 2007 |
-| [CARSPP2]({{ site.baseurl }}/species-reviews/carspp2) | beaked sedge, Northwest Territory sedge | *Carex rostrata, C. utriculata* | 2008 |
-| [ELEROS]({{ site.baseurl }}/species-reviews/eleros) | beaked spikerush | *Eleocharis rostellata* | 1994 |
-| [GAYURS]({{ site.baseurl }}/species-reviews/gayurs) | bear huckleberry | *Gaylussacia ursina* | 2005 |
-| [QUEILI]({{ site.baseurl }}/species-reviews/queili) | bear oak | *Quercus ilicifolia* | 2006 |
-| [GARFRE]({{ site.baseurl }}/species-reviews/garfre) | bearbrush | *Garrya fremontii* | 1992 |
-| [FESSUB]({{ site.baseurl }}/species-reviews/fessub) | bearded fescue | *Festuca subulata* | 1994 |
-| [SALBEB]({{ site.baseurl }}/species-reviews/salbeb) | Bebb willow | *Salix bebbiana* | 1992 |
-| [GALURC]({{ site.baseurl }}/species-reviews/galurc) | beetleweed | *Galax urceolata* | 2006 |
-| [LYCBER]({{ site.baseurl }}/species-reviews/lycber) | Berlandier's wolfberry | *Lycium berlandieri* | 1994 |
-| [CYNDAC]({{ site.baseurl }}/species-reviews/cyndac) | Bermudagrass | *Cynodon dactylon* | 1995 |
-| [GERBIC]({{ site.baseurl }}/species-reviews/gerbic) | Bicknell's cranesbill | *Geranium bicknellii* | 2007 |
-| [ANDGER]({{ site.baseurl }}/species-reviews/andger) | big bluestem | *Andropogon gerardii* | 1988 |
-| [PLERIG]({{ site.baseurl }}/species-reviews/plerig) | big galleta | *Pleuraphis rigida* | 2000 |
-| [SPOWRI]({{ site.baseurl }}/species-reviews/spowri) | big sacaton | *Sporobolus wrightii* | 1995 |
-| [ATRLEN]({{ site.baseurl }}/species-reviews/atrlen) | big saltbush | *Atriplex lentiformis* | 2005 |
-| [ARCGLU]({{ site.baseurl }}/species-reviews/arcglu) | bigberry manzanita | *Arctostaphylos glauca* | 1993 |
-| [PSEMAC]({{ site.baseurl }}/species-reviews/psemac) | bigcone Douglas-fir | *Pseudotsuga macrocarpa* | 1992 |
-| [ARTBIG]({{ site.baseurl }}/species-reviews/artbig) | Bigelow sagebrush | *Artemisia bigelovii* | 2003 |
-| [CARBIG]({{ site.baseurl }}/species-reviews/carbig) | Bigelow's sedge | *Carex bigelowii* | 1992 |
-| [OVCA]({{ site.baseurl }}/species-reviews/ovca) | bighorn sheep | *Ovis canadensis* | 1993 |
-| [EURMAC]({{ site.baseurl }}/species-reviews/eurmac) | bigleaf aster | *Eurybia macrophylla* | 2006 |
-| [ACEMAC]({{ site.baseurl }}/species-reviews/acemac) | bigleaf maple | *Acer macrophyllum* | 2011 |
-| [POPGRA]({{ site.baseurl }}/species-reviews/popgra) | bigtooth aspen | *Populus grandidentata* | 1994 |
-| [ACEGRA]({{ site.baseurl }}/species-reviews/acegra) | bigtooth maple | *Acer grandidentatum* | 2006 |
-| [ARTPED]({{ site.baseurl }}/species-reviews/artped) | birdfoot sagebrush | *Artemisia pedatifida* | 2006 |
-| [PINMUR]({{ site.baseurl }}/species-reviews/pinmur) | Bishop pine | *Pinus muricata* | 1993 |
-| [AEGPOD]({{ site.baseurl }}/species-reviews/aegpod) | bishop's goutweed | *Aegopodium podagraria* | 2009 |
-| [PRUEMA]({{ site.baseurl }}/species-reviews/pruema) | bitter cherry | *Prunus emarginata* | 1995 |
-| [CARCOR]({{ site.baseurl }}/species-reviews/carcor) | bitternut hickory | *Carya cordiformis* | 1992 |
-| [LEWRED]({{ site.baseurl }}/species-reviews/lewred) | bitterroot | *Lewisia rediviva* | 1993 |
-| [FRANIG]({{ site.baseurl }}/species-reviews/franig) | black ash | *Fraxinus nigra* | 2005 |
-| [PRUSER]({{ site.baseurl }}/species-reviews/pruser) | black cherry | *Prunus serotina* | 1991 |
-| [POPBALT]({{ site.baseurl }}/species-reviews/popbalt) | black cottonwood | *Populus balsamifera subsp. trichocarpa* | 2001 |
-| [EMPNIG]({{ site.baseurl }}/species-reviews/empnig) | black crowberry | *Empetrum nigrum* | 1992 |
-| [BOUERI]({{ site.baseurl }}/species-reviews/boueri) | black grama | *Bouteloua eriopoda* | 2000 |
-| [SARVER]({{ site.baseurl }}/species-reviews/sarver) | black greasewood | *Sarcobatus vermiculatus* | 2004 |
-| [CRADOU]({{ site.baseurl }}/species-reviews/cradou) | black hawthorn | *Crataegus douglasii* | 1991 |
-| [GAYBAC]({{ site.baseurl }}/species-reviews/gaybac) | black huckleberry | *Gaylussacia baccata* | 2006 |
-| [ROBPSE]({{ site.baseurl }}/species-reviews/robpse) | black locust | *Robinia pseudoacacia* | 2009 |
-| [QUEVEL]({{ site.baseurl }}/species-reviews/quevel) | black oak | *Quercus velutina* | 1992 |
-| [SALMEL]({{ site.baseurl }}/species-reviews/salmel) | black sage | *Salvia mellifera* | 1990 |
-| [ARTNOV]({{ site.baseurl }}/species-reviews/artnov) | black sagebrush | *Artemisia nova* | 2009 |
-| [ASPADI]({{ site.baseurl }}/species-reviews/aspadi) | black spleenwort fern | *Asplenium adiantum-nigrum* | 1994 |
-| [PICMAR]({{ site.baseurl }}/species-reviews/picmar) | black spruce | *Picea mariana* | 2014 |
-| [JUGNIG]({{ site.baseurl }}/species-reviews/jugnig) | black walnut | *Juglans nigra* | 1991 |
-| [SALNIG]({{ site.baseurl }}/species-reviews/salnig) | black willow | *Salix nigra* | 1992 |
-| [PIAR]({{ site.baseurl }}/species-reviews/piar) | black-backed woodpecker | *Picoides arcticus* | 2011 |
-| [POAT]({{ site.baseurl }}/species-reviews/poat) | black-capped chickadee | *Poecile atricapillus* | 1995 |
-| [MUNI]({{ site.baseurl }}/species-reviews/muni) | black-footed ferret | *Mustela nigripes* | 2007 |
-| [LECA]({{ site.baseurl }}/species-reviews/leca) | black-tailed jackrabbit | *Lepus californicus* | 1995 |
-| [CYLU]({{ site.baseurl }}/species-reviews/cylu) | black-tailed prairie dog | *Cynomys ludovicianus* | 2007 |
-| [COLRAM]({{ site.baseurl }}/species-reviews/colram) | blackbrush | *Coleogyne ramosissima* | 2001 |
-| [RUDHIR]({{ site.baseurl }}/species-reviews/rudhir) | Blackeyed Susan | *Rudbeckia hirta* | 1994 |
-| [NYSSPP]({{ site.baseurl }}/species-reviews/nysspp) | blackgum, swamp tupelo | *Nyssa sylvatica, N. biflora* | 1992 |
-| [QUEMAR]({{ site.baseurl }}/species-reviews/quemar) | blackjack oak | *Quercus marilandica* | 1992 |
-| [SAMNIGC]({{ site.baseurl }}/species-reviews/samnigc) | blue elderberry | *Sambucus nigra subsp. cerulea* | 1989 |
-| [BOUGRA]({{ site.baseurl }}/species-reviews/bougra) | blue grama | *Bouteloua gracilis* | 2003 |
-| [GAYFRO]({{ site.baseurl }}/species-reviews/gayfro) | blue huckleberry | *Gaylussacia frondosa* | 1994 |
-| [QUEDOU]({{ site.baseurl }}/species-reviews/quedou) | blue oak | *Quercus douglasii* | 2007 |
-| [PARFLO]({{ site.baseurl }}/species-reviews/parflo) | blue paloverde | *Parkinsonia florida* | 1994 |
-| [VACPAL]({{ site.baseurl }}/species-reviews/vacpal) | Blue Ridge blueberry | *Vaccinium pallidum* | 1991 |
-| [PICPUN]({{ site.baseurl }}/species-reviews/picpun) | blue spruce | *Picea pungens* | 1993 |
-| [ELYGLA]({{ site.baseurl }}/species-reviews/elygla) | blue wildrye | *Elymus glaucus* | 1999 |
-| [SPDI]({{ site.baseurl }}/species-reviews/spdi) | blue-winged teal | *Spatula discors* | 1993 |
-| [SALMYR]({{ site.baseurl }}/species-reviews/salmyr) | blueberry willow | *Salix myrtillifolia* | 1992 |
-| [PSESPI]({{ site.baseurl }}/species-reviews/psespi) | bluebunch wheatgrass | *Pseudoroegneria spicata* | 1999 |
-| [QUEINC]({{ site.baseurl }}/species-reviews/queinc) | bluejack oak | *Quercus incana* | 1994 |
-| [CALCAN]({{ site.baseurl }}/species-reviews/calcan) | bluejoint | *Calamagrostis canadensis* | 1992 |
-| [LYRU]({{ site.baseurl }}/species-reviews/lyru) | bobcat | *Lynx rufus* | 1995 |
-| [VACULI]({{ site.baseurl }}/species-reviews/vaculi) | bog blueberry | *Vaccinium uliginosum* | 1992 |
-| [LEDGRO]({{ site.baseurl }}/species-reviews/ledgro) | bog Labrador tea | *Ledum groenlandicum* | 2006 |
-| [ANDPOL]({{ site.baseurl }}/species-reviews/andpol) | bog rosemary | *Andromeda polifolia* | 2007 |
-| [SALBOO]({{ site.baseurl }}/species-reviews/salboo) | Booth's willow | *Salix boothii* | 1992 |
-| [ARTARC]({{ site.baseurl }}/species-reviews/artarc) | boreal sagebrush | *Artemisia arctica* | 2006 |
-| [ACENEG]({{ site.baseurl }}/species-reviews/aceneg) | boxelder | *Acer negundo* | 1988 |
-| [ASTBRA]({{ site.baseurl }}/species-reviews/astbra) | Braunton's milkvetch | *Astragalus brauntonii* | 2006 |
-| [SCHTER]({{ site.baseurl }}/species-reviews/schter) | Brazilian pepper | *Schinus terebinthifolius* | 2011 |
-| [IMPSPP]({{ site.baseurl }}/species-reviews/impspp) | Brazilian satintail, cgongrass | *Imperata brasiliensis, I. cylindrica* | 2005 |
-| [PICBRE]({{ site.baseurl }}/species-reviews/picbre) | Brewer spruce | *Picea breweriana* | 1992 |
-| [CLIUNI]({{ site.baseurl }}/species-reviews/cliuni) | bride's bonnet | *Clintonia uniflora* | 2005 |
-| [ABIBRA]({{ site.baseurl }}/species-reviews/abibra) | bristlecone fir | *Abies bracteata* | 2020 |
-| [ASACAU]({{ site.baseurl }}/species-reviews/asacau) | British Columbia wildginger | *Asarum caudatum* | 2004 |
-| [OPUFRA]({{ site.baseurl }}/species-reviews/opufra) | brittle pricklypear | *Opuntia fragilis* | 2005 |
-| [TYPLAT]({{ site.baseurl }}/species-reviews/typlat) | broadleaf cattail | *Typha latifolia* | 2008 |
-| [LUPLAT]({{ site.baseurl }}/species-reviews/luplat) | broadleaf lupine | *Lupinus latifolius* | 2006 |
-| [LEPLAT]({{ site.baseurl }}/species-reviews/leplat) | broadleaved pepperweed | *Lepidium latifolium* | 2004 |
-| [GUTSAR]({{ site.baseurl }}/species-reviews/gutsar) | broom snakeweed | *Gutierrezia sarothrae* | 1999 |
-| [CYTSPP]({{ site.baseurl }}/species-reviews/cytspp) | brooms: Scotch broom, striated broom | *Cytisus spp.: Cytisus scoparius, C. striatus* | 2005 |
-| [ANDVIR]({{ site.baseurl }}/species-reviews/andvir) | broomsedge bluestem | *Andropogon virginicus* | 1992 |
-| [MOAT]({{ site.baseurl }}/species-reviews/moat) | brown-headed cowbird | *Molothrus ater* | 1995 |
-| [PEBO]({{ site.baseurl }}/species-reviews/pebo) | brush deermouse | *Peromyscus boylii* | 2006 |
-| [CEACUN]({{ site.baseurl }}/species-reviews/ceacun) | buckbrush | *Ceanothus cuneatus* | 2005 |
-| [PICDES]({{ site.baseurl }}/species-reviews/picdes) | bud sagebrush | *Picrothamnus desertorum* | 2003 |
-| [BOUDAC]({{ site.baseurl }}/species-reviews/boudac) | buffalograss | *Bouteloua dactyloides* | 1995 |
-| [PENCIL]({{ site.baseurl }}/species-reviews/pencil) | buffelgrass | *Pennisetum ciliare* | 2022 |
-| [POABUL]({{ site.baseurl }}/species-reviews/poabul) | bulbous bluegrass | *Poa bulbosa* | 2007 |
-| [CIRVUL]({{ site.baseurl }}/species-reviews/cirvul) | bull thistle | *Cirsium vulgare* | 2002 |
-| [CORCAN]({{ site.baseurl }}/species-reviews/corcan) | bunchberry dogwood | *Cornus canadensis* | 2012 |
-| [QUEMAC]({{ site.baseurl }}/species-reviews/quemac) | bur oak | *Quercus macrocarpa* | 2011 |
-| [BASSCO]({{ site.baseurl }}/species-reviews/bassco) | burningbush | *Bassia scoparia* | 1995 |
-| [EUOALA]({{ site.baseurl }}/species-reviews/euoala) | burningbush | *Euonymus alatus* | 2009 |
-| [HYMSAL]({{ site.baseurl }}/species-reviews/hymsal) | burrobrush | *Hymenoclea salsola* | 1993 |
-| [AMBDUM]({{ site.baseurl }}/species-reviews/ambdum) | burrobush | *Ambrosia dumosa* | 1994 |
-| [ATCU]({{ site.baseurl }}/species-reviews/atcu) | burrowing owl | *Athene cunicularia* | 1996 |
-| [CHRSEM]({{ site.baseurl }}/species-reviews/chrsem) | bush chinquapin | *Chrysolepis sempervirens* | 1992 |
-| [MUHPOR]({{ site.baseurl }}/species-reviews/muhpor) | bush muhly | *Muhlenbergia porteri* | 1999 |
-| [NECI]({{ site.baseurl }}/species-reviews/neci) | bushy-tailed woodrat | *Neotoma cinerea* | 2007 |
-| [JUGCIN]({{ site.baseurl }}/species-reviews/jugcin) | butternut | *Juglans cinerea* | 1991 |
-| [ENCFRU]({{ site.baseurl }}/species-reviews/encfru) | button brittlebush | *Encelia frutescens* | 1993 |
-| [SABPAL]({{ site.baseurl }}/species-reviews/sabpal) | cabbage palmetto | *Sabal palmetto* | 1991 |
-| [QUEKEL]({{ site.baseurl }}/species-reviews/quekel) | California black oak | *Quercus kelloggii* | 2007 |
-| [RUBURS]({{ site.baseurl }}/species-reviews/ruburs) | California blackberry | *Rubus ursinus* | 1989 |
-| [BROCAR]({{ site.baseurl }}/species-reviews/brocar) | California brome | *Bromus carinatus* | 2006 |
-| [AESCAL]({{ site.baseurl }}/species-reviews/aescal) | California buckeye | *Aesculus californica* | 1992 |
-| [FRACAL]({{ site.baseurl }}/species-reviews/fracal) | California buckthorn | *Frangula californica* | 1990 |
-| [GYCA]({{ site.baseurl }}/species-reviews/gyca) | California condor | *Gymnogyps californianus* | 1994 |
-| [FESCAL]({{ site.baseurl }}/species-reviews/fescal) | California fescue | *Festuca californica* | 1994 |
-| [FRECAL]({{ site.baseurl }}/species-reviews/frecal) | California flannelbush | *Fremontodendron californicum* | 2021 |
-| [VACOVA]({{ site.baseurl }}/species-reviews/vacova) | California huckleberry | *Vaccinium ovatum* | 1990 |
-| [JUNCAL]({{ site.baseurl }}/species-reviews/juncal) | California juniper | *Juniperus californica* | 1992 |
-| [UMBCAL]({{ site.baseurl }}/species-reviews/umbcal) | California laurel | *Umbellularia californica* | 1992 |
-| [TORCAL]({{ site.baseurl }}/species-reviews/torcal) | California nutmeg | *Torreya californica* | 1992 |
-| [WASFIL]({{ site.baseurl }}/species-reviews/wasfil) | California palm | *Washingtonia filifera* | 1992 |
-| [DARCAL]({{ site.baseurl }}/species-reviews/darcal) | California pitcherplant | *Darlingtonia californica* | 1990 |
-| [ABIMAG]({{ site.baseurl }}/species-reviews/abimag) | California red fir | *Abies magnifica* | 1993 |
-| [CERORB]({{ site.baseurl }}/species-reviews/cerorb) | California redbud | *Cercis orbiculata* | 2006 |
-| [ARTCAL]({{ site.baseurl }}/species-reviews/artcal) | California sagebrush | *Artemisia californica* | 2006 |
-| [QUESPP2]({{ site.baseurl }}/species-reviews/quespp2) | California scrub oak, coastal sage scrub oak | *Quercus berberidifolia, Q. dumosa* | 2012 |
-| [VITCAL]({{ site.baseurl }}/species-reviews/vitcal) | California wild grape | *Vitis californica* | 1993 |
-| [ERICAL]({{ site.baseurl }}/species-reviews/erical) | California yerba santa | *Eriodictyon californicum* | 1992 |
-| [POACOM]({{ site.baseurl }}/species-reviews/poacom) | Canada bluegrass | *Poa compressa* | 1993 |
-| [SOLCAN]({{ site.baseurl }}/species-reviews/solcan) | Canada goldenrod | *Solidago canadensis* | 1993 |
-| [BRCA]({{ site.baseurl }}/species-reviews/brca) | Canada goose | *Branta canadensis* | 1993 |
-| [PECA]({{ site.baseurl }}/species-reviews/peca) | Canada jay | *Perisoreus canadensis* | 2006 |
-| [LYCA]({{ site.baseurl }}/species-reviews/lyca) | Canada lynx | *Lynx canadensis* | 2007 |
-| [MAICAN]({{ site.baseurl }}/species-reviews/maican) | Canada mayflower | *Maianthemum canadense* | 1993 |
-| [CIRARV]({{ site.baseurl }}/species-reviews/cirarv) | Canada thistle | *Cirsium arvense* | 2001 |
-| [ELYCAN]({{ site.baseurl }}/species-reviews/elycan) | Canada wildrye | *Elymus canadensis* | 2000 |
-| [TAXCAN]({{ site.baseurl }}/species-reviews/taxcan) | Canada yew | *Taxus canadensis* | 1993 |
-| [RIBOXY]({{ site.baseurl }}/species-reviews/riboxy) | Canadian gooseberry | *Ribes oxyacanthoides* | 1995 |
-| [FERWIS]({{ site.baseurl }}/species-reviews/ferwis) | candybarrel cactus | *Ferocactus wislizeni* | 1994 |
-| [BOTBAR]({{ site.baseurl }}/species-reviews/botbar) | cane bluestem | *Bothriochloa barbinodis* | 2011 |
-| [AYVA]({{ site.baseurl }}/species-reviews/ayva) | canvasback | *Aythya valisineria* | 1993 |
-| [VITARI]({{ site.baseurl }}/species-reviews/vitari) | canyon grape | *Vitis arizonica* | 2006 |
-| [QUECHR]({{ site.baseurl }}/species-reviews/quechr) | canyon live oak | *Quercus chrysolepis* | 2008 |
-| [CARCAP]({{ site.baseurl }}/species-reviews/carcap) | capitate sedge | *Carex capitata* | 1994 |
-| [RATA]({{ site.baseurl }}/species-reviews/rata) | caribou | *Rangifer tarandus* | 2007 |
-| [TSUCAR]({{ site.baseurl }}/species-reviews/tsucar) | Carolina hemlock | *Tsuga caroliniana* | 1993 |
-| [ILEAMB]({{ site.baseurl }}/species-reviews/ileamb) | Carolina holly | *Ilex ambigua* | 1994 |
-| [MAHNER]({{ site.baseurl }}/species-reviews/mahner) | Cascade barberry | *Mahonia nervosa* | 1990 |
-| [FRAPUR]({{ site.baseurl }}/species-reviews/frapur) | Cascara buckthorn | *Frangula purshiana* | 1992 |
-| [SENGRE]({{ site.baseurl }}/species-reviews/sengre) | catclaw acacia | *Senegalia greggii* | 2005 |
-| [MIMACUB]({{ site.baseurl }}/species-reviews/mimacub) | catclaw mimosa | *Mimosa aculeaticarpa var. biuncifera* | 1990 |
-| [EREOPH]({{ site.baseurl }}/species-reviews/ereoph) | centipede grass | *Eremochloa ophiuroides* | 1994 |
-| [SCHAME]({{ site.baseurl }}/species-reviews/schame) | chairmaker's bulrush | *Schoenoplectus americanus* | 1992 |
-| [ADEFAS]({{ site.baseurl }}/species-reviews/adefas) | chamise | *Adenostoma fasciculatum* | 1990 |
-| [PICMON]({{ site.baseurl }}/species-reviews/picmon) | chaparral pea | *Pickeringia montana* | 1992 |
-| [CEALEU]({{ site.baseurl }}/species-reviews/cealeu) | chaparral whitethorn | *Ceanothus leucodermis* | 2012 |
-| [BROTEC]({{ site.baseurl }}/species-reviews/brotec) | cheatgrass | *Bromus tectorum* | 2003 |
-| [PINLEIC]({{ site.baseurl }}/species-reviews/pinleic) | Chihuahuan pine | *Pinus leiophylla var. chihuahuana* | 1994 |
-| [MELAZE]({{ site.baseurl }}/species-reviews/melaze) | Chinaberrytree | *Melia azedarach* | 2009 |
-| [MISSIN]({{ site.baseurl }}/species-reviews/missin) | Chinese silvergrass | *Miscanthus sinensis* | 2011 |
-| [TRISEB]({{ site.baseurl }}/species-reviews/triseb) | Chinese tallow | *Triadica sebifera* | 2011 |
-| [CASPUM]({{ site.baseurl }}/species-reviews/caspum) | chinquapin | *Castanea pumila* | 1994 |
-| [QUEMUE]({{ site.baseurl }}/species-reviews/quemue) | chinquapin oak | *Quercus muehlenbergii* | 1991 |
-| [PRUVIR]({{ site.baseurl }}/species-reviews/pruvir) | chokecherry | *Prunus virginiana* | 2000 |
-| [ANCO]({{ site.baseurl }}/species-reviews/anco) | chuck-will's-widow | *Antrostomus carolinensis* | 2023 |
-| [ALCH]({{ site.baseurl }}/species-reviews/alch) | chukar | *Alectoris chukar* | 1994 |
-| [OSMCIN]({{ site.baseurl }}/species-reviews/osmcin) | cinnamon fern | *Osmunda cinnamomea* | 1994 |
-| [NUCO]({{ site.baseurl }}/species-reviews/nuco) | Clark's nutcracker | *Nucifraga columbiana* | 2008 |
-| [OSMCLA]({{ site.baseurl }}/species-reviews/osmcla) | Clayton's sweetroot | *Osmorhiza claytonii* | 1992 |
-| [FENRUP]({{ site.baseurl }}/species-reviews/fenrup) | cliff fendlerbush | *Fendlera rupicola* | 1993 |
-| [LYGSPP]({{ site.baseurl }}/species-reviews/lygspp) | climbing ferns: Japanese climbing fern, small-leaf  climbing fern | *Lygodium spp.: Lygodium japonicum, L. microphyllum* | 2005 |
-| [SOLDUL]({{ site.baseurl }}/species-reviews/soldul) | climbing nightshade | *Solanum dulcamara* | 2009 |
-| [RUBCHA]({{ site.baseurl }}/species-reviews/rubcha) | cloudberry | *Rubus chamaemorus* | 1993 |
-| [PSEMENM]({{ site.baseurl }}/species-reviews/psemenm) | coast Douglas-fir | *Pseudotsuga menziesii var. menziesii* | 1991 |
-| [QUEAGR]({{ site.baseurl }}/species-reviews/queagr) | coast live oak | *Quercus agrifolia* | 2002 |
-| [CLEALN]({{ site.baseurl }}/species-reviews/clealn) | coastal sweetpepperbush | *Clethra alnifolia* | 1991 |
-| [LEYAMB]({{ site.baseurl }}/species-reviews/leyamb) | Colorado wildrye | *Leymus ambiguus* | 2004 |
-| [TUSFAR]({{ site.baseurl }}/species-reviews/tusfar) | coltsfoot | *Tussilago farfara* | 2011 |
-| [BROVUL]({{ site.baseurl }}/species-reviews/brovul) | Columbia brome | *Bromus vulgaris* | 1994 |
-| [ACHNEL]({{ site.baseurl }}/species-reviews/achnel) | Columbia needlegrass | *Achnatherum nelsonii* | 2000 |
-| [BERVUL]({{ site.baseurl }}/species-reviews/bervul) | common barberry | *Berberis vulgaris* | 2009 |
-| [XERTEN]({{ site.baseurl }}/species-reviews/xerten) | common beargrass | *Xerophyllum tenax* | 1990 |
-| [CEPOCC]({{ site.baseurl }}/species-reviews/cepocc) | common buttonbush | *Cephalanthus occidentalis* | 1991 |
-| [HERMAX]({{ site.baseurl }}/species-reviews/hermax) | common cowparsnip | *Heracleum maximum* | 1995 |
-| [TAROFF]({{ site.baseurl }}/species-reviews/taroff) | common dandelion | *Taraxacum officinale* | 1993 |
-| [PELAPH]({{ site.baseurl }}/species-reviews/pelaph) | common freckle pelt | *Peltigera aphthosa* | 1993 |
-| [ULEEUR]({{ site.baseurl }}/species-reviews/uleeur) | common gorse | *Ulex europaeus* | 2006 |
-| [URCI]({{ site.baseurl }}/species-reviews/urci) | common gray fox | *Urocyon cinereoargenteus* | 1996 |
-| [CELOCC]({{ site.baseurl }}/species-reviews/celocc) | common hackberry | *Celtis occidentalis* | 2011 |
-| [JUNCOM]({{ site.baseurl }}/species-reviews/juncom) | common juniper | *Juniperus communis* | 1999 |
-| [ATHFIL]({{ site.baseurl }}/species-reviews/athfil) | common ladyfern | *Athyrium filix-femina* | 1991 |
-| [MARPOL]({{ site.baseurl }}/species-reviews/marpol) | common liverwort | *Marchantia polymorpha* | 1993 |
-| [ARCMAN]({{ site.baseurl }}/species-reviews/arcman) | common manzanita | *Arctostaphylos manzanita* | 2014 |
-| [VERTHA]({{ site.baseurl }}/species-reviews/vertha) | common mullein | *Verbascum thapsus* | 2008 |
-| [ONZI]({{ site.baseurl }}/species-reviews/onzi) | common muskrat | *Ondatra zibethicus* | 1993 |
-| [DIOVIR]({{ site.baseurl }}/species-reviews/diovir) | common persimmon | *Diospyros virginiana* | 1992 |
-| [PHRAUS]({{ site.baseurl }}/species-reviews/phraus) | common reed | *Phragmites australis* | 2008 |
-| [SCOFES]({{ site.baseurl }}/species-reviews/scofes) | common rivergrass | *Scolochloa festucacea* | 1994 |
-| [AMEARB]({{ site.baseurl }}/species-reviews/amearb) | common serviceberry | *Amelanchier arborea* | 1992 |
-| [RUMACE]({{ site.baseurl }}/species-reviews/rumace) | common sheep sorrel | *Rumex acetosella* | 1995 |
-| [SYMALB]({{ site.baseurl }}/species-reviews/symalb) | common snowberry | *Symphoricarpos albus* | 2000 |
-| [DASWHE]({{ site.baseurl }}/species-reviews/daswhe) | common sotol | *Dasylirion wheeleri* | 1993 |
-| [ELEPAL]({{ site.baseurl }}/species-reviews/elepal) | common spikerush | *Eleocharis palustris* | 2006 |
-| [HYPPER]({{ site.baseurl }}/species-reviews/hypper) | common St. Johnswort | *Hypericum perforatum* | 2005 |
-| [TANVUL]({{ site.baseurl }}/species-reviews/tanvul) | common tansy | *Tanacetum vulgare* | 2009 |
-| [HOLLAN]({{ site.baseurl }}/species-reviews/hollan) | common velvetgrass | *Holcus lanatus* | 2009 |
-| [LYCSPP]({{ site.baseurl }}/species-reviews/lycspp) | common wolfstail, bristly wolfstail | *Lycurus phleoides, L. setosus* | 2008 |
-| [ACHMIL]({{ site.baseurl }}/species-reviews/achmil) | common yarrow | *Achillea millefolium* | 1999 |
-| [BROSPP]({{ site.baseurl }}/species-reviews/brospp) | compact brome, red brome | *Bromus madritensis, B. rubens* | 2001 |
-| [SPOCOM]({{ site.baseurl }}/species-reviews/spocom) | composite dropseed | *Sporobolus compositus* | 2010 |
-| [PINCOU]({{ site.baseurl }}/species-reviews/pincou) | Coulter pine | *Pinus coulteri* | 1993 |
-| [CALA]({{ site.baseurl }}/species-reviews/cala) | coyote | *Canis latrans* | 1995 |
-| [BACPIL]({{ site.baseurl }}/species-reviews/bacpil) | coyotebrush | *Baccharis pilularis* | 2002 |
-| [MAHREP]({{ site.baseurl }}/species-reviews/mahrep) | creeping barberry | *Mahonia repens* | 2006 |
-| [AGRSTO]({{ site.baseurl }}/species-reviews/agrsto) | creeping bentgrass | *Agrostis stolonifera* | 1994 |
-| [LYSNUM]({{ site.baseurl }}/species-reviews/lysnum) | creeping jenny | *Lysimachia nummularia* | 2011 |
-| [JUNHOR]({{ site.baseurl }}/species-reviews/junhor) | creeping juniper | *Juniperus horizontalis* | 2006 |
-| [SYMMOL]({{ site.baseurl }}/species-reviews/symmol) | creeping snowberry | *Symphoricarpos mollis* | 1991 |
-| [LARTRI]({{ site.baseurl }}/species-reviews/lartri) | creosotebush | *Larrea tridentata* | 1995 |
-| [AGRCRI]({{ site.baseurl }}/species-reviews/agrcri) | crested wheatgrass | *Agropyron cristatum* | 1999 |
-| [HIBMOS]({{ site.baseurl }}/species-reviews/hibmos) | crimsoneyed rosemallow | *Hibiscus moscheutos* | 2008 |
-| [SECVAR]({{ site.baseurl }}/species-reviews/secvar) | crownvetch | *Securigera varia* | 2010 |
-| [AMBPSI]({{ site.baseurl }}/species-reviews/ambpsi) | Cuman ragweed | *Ambrosia psilostachya* | 1992 |
-| [CERLED]({{ site.baseurl }}/species-reviews/cerled) | curlleaf mountain-mahogany | *Cercocarpus ledifolius* | 2006 |
-| [HILBEL]({{ site.baseurl }}/species-reviews/hilbel) | curly-mesquite | *Hilaria belangeri* | 1999 |
-| [GRISQU]({{ site.baseurl }}/species-reviews/grisqu) | curlycup gumweed | *Grindelia squarrosa* | 1993 |
-| [ASTALB]({{ site.baseurl }}/species-reviews/astalb) | Cushenbury milkvetch | *Astragalus albens* | 2013 |
-| [POACUS]({{ site.baseurl }}/species-reviews/poacus) | Cusick's bluegrass | *Poa cusickii* | 1997 |
-| [AGACUS]({{ site.baseurl }}/species-reviews/agacus) | Cusick's giant hyssop | *Agastache cusickii* | 1993 |
-| [RUBLAC]({{ site.baseurl }}/species-reviews/rublac) | cutleaf blackberry | *Rubus laciniatus* | 2021 |
-| [EUPCYP]({{ site.baseurl }}/species-reviews/eupcyp) | cypress spurge | *Euphorbia cyparissias* | 2010 |
-| [LINSPP]({{ site.baseurl }}/species-reviews/linspp) | Dalmatian toadflax, yellow toadflax | *Linaria dalmatica, L. vulgaris* | 2003 |
-| [QUESPP1]({{ site.baseurl }}/species-reviews/quespp1) | Darlington oak, swamp laurel oak | *Quercus hemisphaerica, Q. laurifolia* | 1992 |
-| [BLESPI]({{ site.baseurl }}/species-reviews/blespi) | deer fern | *Blechnum spicant* | 1993 |
-| [CEAINT]({{ site.baseurl }}/species-reviews/ceaint) | deerbrush | *Ceanothus integerrimus* | 1997 |
-| [PRUFRE]({{ site.baseurl }}/species-reviews/prufre) | desert apricot | *Prunus fremontii* | 1993 |
-| [PURGLA]({{ site.baseurl }}/species-reviews/purgla) | desert bitterbrush | *Purshia glandulosa* | 1999 |
-| [CEAGRE]({{ site.baseurl }}/species-reviews/ceagre) | desert ceanothus | *Ceanothus greggii* | 2000 |
-| [RIBVEL]({{ site.baseurl }}/species-reviews/ribvel) | desert gooseberry | *Ribes velutinum* | 1995 |
-| [ACHSPE]({{ site.baseurl }}/species-reviews/achspe) | desert needlegrass | *Achnatherum speciosum* | 1993 |
-| [PRUAND]({{ site.baseurl }}/species-reviews/pruand) | desert peach | *Prunus andersonii* | 2007 |
-| [SYMLON]({{ site.baseurl }}/species-reviews/symlon) | desert snowberry | *Symphoricarpos longiflorus* | 2005 |
-| [CHAMIL]({{ site.baseurl }}/species-reviews/chamil) | desert sweet | *Chamaebatiaria millefolium* | 1994 |
-| [GOPH]({{ site.baseurl }}/species-reviews/goph) | desert tortoises: Mohave desert tortoise, Sonoran desert tortoise, Goode's thornscrub tortoise | *Gopherus agassizii, Gopherus morafkai, Gopherus evgoodei* | 2008 |
-| [AGRDES]({{ site.baseurl }}/species-reviews/agrdes) | desert wheatgrass | *Agropyron desertorum* | 1999 |
-| [CHILIN]({{ site.baseurl }}/species-reviews/chilin) | desert-willow | *Chilopsis linearis* | 2022 |
-| [ARASPI]({{ site.baseurl }}/species-reviews/araspi) | devil's walkingstick | *Aralia spinosa* | 1992 |
-| [OPUHUM]({{ site.baseurl }}/species-reviews/opuhum) | devil's-tongue | *Opuntia humifusa* | 2006 |
-| [OPLHOR]({{ site.baseurl }}/species-reviews/oplhor) | devilsclub | *Oplopanax horridus* | 1993 |
-| [SALPLA]({{ site.baseurl }}/species-reviews/salpla) | diamondleaf willow | *Salix planifolia* | 1991 |
-| [CENDIF]({{ site.baseurl }}/species-reviews/cendif) | diffuse knapweed | *Centaurea diffusa* | 2020 |
-| [EUPCAP]({{ site.baseurl }}/species-reviews/eupcap) | dogfennel | *Eupatorium capillifolium* | 1991 |
-| [LIAPUN]({{ site.baseurl }}/species-reviews/liapun) | dotted blazing star | *Liatris punctata* | 1993 |
-| [CASSES]({{ site.baseurl }}/species-reviews/casses) | downy paintedcup | *Castilleja sessiliflora* | 1993 |
-| [LEYINN]({{ site.baseurl }}/species-reviews/leyinn) | downy ryegrass | *Leymus innovatus* | 2021 |
-| [JUNFLA]({{ site.baseurl }}/species-reviews/junfla) | drooping juniper | *Juniperus flaccida* | 2007 |
-| [SALDRU]({{ site.baseurl }}/species-reviews/saldru) | Drummond's willow | *Salix drummondiana* | 1991 |
-| [LATBIJ]({{ site.baseurl }}/species-reviews/latbij) | drypark pea | *Lathyrus bijugatus* | 2021 |
-| [VACCAE]({{ site.baseurl }}/species-reviews/vaccae) | dwarf bilberry | *Vaccinium caespitosum* | 1990 |
-| [BETNAN]({{ site.baseurl }}/species-reviews/betnan) | dwarf birch | *Betula nana* | 2007 |
-| [GAYDUM]({{ site.baseurl }}/species-reviews/gaydum) | dwarf huckleberry | *Gaylussacia dumosa* | 1992 |
-| [ROSGYM]({{ site.baseurl }}/species-reviews/rosgym) | dwarf rose | *Rosa gymnocarpa* | 1993 |
-| [ISATIN]({{ site.baseurl }}/species-reviews/isatin) | Dyer's woad | *Isatis tinctoria* | 2009 |
-| [THADIO]({{ site.baseurl }}/species-reviews/thadio) | early meadow-rue | *Thalictrum dioicum* | 1992 |
-| [BACHAL]({{ site.baseurl }}/species-reviews/bachal) | eastern baccharis | *Baccharis halimifolia* | 1991 |
-| [SISI]({{ site.baseurl }}/species-reviews/sisi) | eastern bluebird | *Sialia sialis* | 1995 |
-| [TECA]({{ site.baseurl }}/species-reviews/teca) | eastern box turtle | *Terrapene carolina* | 2006 |
-| [SYFL]({{ site.baseurl }}/species-reviews/syfl) | eastern cottontail | *Sylvilagus floridanus* | 1995 |
-| [POPDEL]({{ site.baseurl }}/species-reviews/popdel) | eastern cottonwood | *Populus deltoides* | 2001 |
-| [SCNI]({{ site.baseurl }}/species-reviews/scni) | eastern fox squirrel | *Sciurus niger* | 1993 |
-| [TSUCAN]({{ site.baseurl }}/species-reviews/tsucan) | eastern hemlock | *Tsuga canadensis* | 1993 |
-| [DRCO]({{ site.baseurl }}/species-reviews/drco) | eastern indigo snake | *Drymarchon couperi* | 1993 |
-| [TOXSPP]({{ site.baseurl }}/species-reviews/toxspp) | eastern poison-ivy, western poison-ivy | *Toxicodendron radicans, T. rydbergii* | 2012 |
-| [CERCAN]({{ site.baseurl }}/species-reviews/cercan) | eastern redbud | *Cercis canadensis* | 1994 |
-| [JUNVIR]({{ site.baseurl }}/species-reviews/junvir) | eastern redcedar | *Juniperus virginiana* | 2003 |
-| [MEAS]({{ site.baseurl }}/species-reviews/meas) | eastern screech-owl | *Megascops asio* | 1995 |
-| [GAUPRO]({{ site.baseurl }}/species-reviews/gaupro) | eastern teaberry | *Gaultheria procumbens* | 1994 |
-| [PIER]({{ site.baseurl }}/species-reviews/pier) | eastern towhee | *Pipilo erythrophthalmus* | 2006 |
-| [ANVO]({{ site.baseurl }}/species-reviews/anvo) | eastern whip-poor-will | *Antrostomus vociferus* | 2023 |
-| [PINSTR]({{ site.baseurl }}/species-reviews/pinstr) | eastern white pine | *Pinus strobus* | 1993 |
-| [ARCGLA]({{ site.baseurl }}/species-reviews/arcgla) | Eastwood's manzanita | *Arctostaphylos glandulosa* | 2020 |
-| [CEEL]({{ site.baseurl }}/species-reviews/ceel) | elk | *Cervus elaphus* | 2011 |
-| [CARGAR]({{ site.baseurl }}/species-reviews/cargar) | elk sedge | *Carex garberi* | 1994 |
-| [QUEEMO]({{ site.baseurl }}/species-reviews/queemo) | Emory oak | *Quercus emoryi* | 1994 |
-| [PICENG]({{ site.baseurl }}/species-reviews/piceng) | Engelmann spruce | *Picea engelmannii* | 1991 |
-| [HEDHEL]({{ site.baseurl }}/species-reviews/hedhel) | English ivy | *Hedera helix* | 2010 |
-| [LARDEC]({{ site.baseurl }}/species-reviews/lardec) | European larch | *Larix decidua* | 1994 |
-| [CALBUL]({{ site.baseurl }}/species-reviews/calbul) | fairy slipper | *Calypso bulbosa* | 2006 |
-| [GEOLIV]({{ site.baseurl }}/species-reviews/geoliv) | false toadflax | *Geocaulon lividum* | 1994 |
-| [VACARB]({{ site.baseurl }}/species-reviews/vacarb) | farkleberry | *Vaccinium arboreum* | 1991 |
-| [SALALA]({{ site.baseurl }}/species-reviews/salala) | feltleaf willow | *Salix alaxensis* | 2014 |
-| [BURE]({{ site.baseurl }}/species-reviews/bure) | ferruginous hawk | *Buteo regalis* | 1994 |
-| [LYOLUC]({{ site.baseurl }}/species-reviews/lyoluc) | fetterbush lyonia | *Lyonia lucida* | 1991 |
-| [CONARV]({{ site.baseurl }}/species-reviews/conarv) | field bindweed | *Convolvulus arvensis* | 2004 |
-| [EQUARV]({{ site.baseurl }}/species-reviews/equarv) | field horsetail | *Equisetum arvense* | 1993 |
-| [ARTCAM]({{ site.baseurl }}/species-reviews/artcam) | field sagewort | *Artemisia campestris* | 2007 |
-| [SONARV]({{ site.baseurl }}/species-reviews/sonarv) | field sowthistle | *Sonchus arvensis* | 2004 |
-| [CERPUR]({{ site.baseurl }}/species-reviews/cerpur) | fire moss | *Ceratodon purpureus* | 1992 |
-| [ANDTERC]({{ site.baseurl }}/species-reviews/andterc) | firegrass | *Andropogon ternarius var. cabanisii* | 1994 |
-| [CHAANG]({{ site.baseurl }}/species-reviews/chaang) | fireweed | *Chamerion angustifolium* | 1992 |
-| [PEPE]({{ site.baseurl }}/species-reviews/pepe) | fisher | *Pekania pennanti* | 2007 |
-| [RHOCAE]({{ site.baseurl }}/species-reviews/rhocae) | flame azalea | *Rhododendron calendulaceum* | 1994 |
-| [DANCOM]({{ site.baseurl }}/species-reviews/dancom) | flattened oatgrass | *Danthonia compressa* | 1994 |
-| [SCHLIN]({{ site.baseurl }}/species-reviews/schlin) | flaxleaf plainsmustard | *Schoenocrambe linifolia* | 2003 |
-| [APCO]({{ site.baseurl }}/species-reviews/apco) | Florida scrub-jay | *Aphelocoma coerulescens* | 2012 |
-| [TORTAX]({{ site.baseurl }}/species-reviews/tortax) | Florida torreya | *Torreya taxifolia* | 1993 |
-| [TAXFLO]({{ site.baseurl }}/species-reviews/taxflo) | Florida yew | *Taxus floridana* | 1993 |
-| [CORFLO]({{ site.baseurl }}/species-reviews/corflo) | flowering dogwood | *Cornus florida* | 1991 |
-| [ZIGPAN]({{ site.baseurl }}/species-reviews/zigpan) | foothill deathcamas | *Zigadenus paniculatus* | 1993 |
-| [HESC]({{ site.baseurl }}/species-reviews/hesc) | four-toed salamander | *Hemidactylium scutatum* | 2008 |
-| [ATRCAN]({{ site.baseurl }}/species-reviews/atrcan) | fourwing saltbush | *Atriplex canescens* | 2003 |
-| [HORJUB]({{ site.baseurl }}/species-reviews/horjub) | foxtail barley | *Hordeum jubatum* | 1992 |
-| [PINBAL]({{ site.baseurl }}/species-reviews/pinbal) | foxtail pine | *Pinus balfouriana* | 2004 |
-| [RHUARO]({{ site.baseurl }}/species-reviews/rhuaro) | fragrant sumac | *Rhus aromatica* | 2004 |
-| [ABIFRA]({{ site.baseurl }}/species-reviews/abifra) | Fraser fir | *Abies fraseri* | 1993 |
-| [POPFRE]({{ site.baseurl }}/species-reviews/popfre) | Fremont cottonwood | *Populus fremontii* | 2000 |
-| [GENMON]({{ site.baseurl }}/species-reviews/genmon) | French broom | *Genista monspessulana* | 2005 |
-| [BROCIL]({{ site.baseurl }}/species-reviews/brocil) | fringed brome | *Bromus ciliatus* | 1994 |
-| [ARTFRI]({{ site.baseurl }}/species-reviews/artfri) | fringed sagebrush | *Artemisia frigida* | 2003 |
-| [MAST]({{ site.baseurl }}/species-reviews/mast) | gadwall | *Mareca strepera* | 1993 |
-| [QUEGAM]({{ site.baseurl }}/species-reviews/quegam) | Gambel oak | *Quercus gambelii* | 2000 |
-| [ATRGAR]({{ site.baseurl }}/species-reviews/atrgar) | Gardner's saltbush | *Atriplex gardneri* | 2020 |
-| [ALLPET]({{ site.baseurl }}/species-reviews/allpet) | garlic mustard | *Alliaria petiolata* | 2001 |
-| [ELLRAC]({{ site.baseurl }}/species-reviews/ellrac) | Georgia plume | *Elliottia racemosa* | 2019 |
-| [SALGEY]({{ site.baseurl }}/species-reviews/salgey) | Geyer willow | *Salix geyeriana* | 1991 |
-| [CARGEY]({{ site.baseurl }}/species-reviews/cargey) | Geyer's sedge | *Carex geyeri* | 2002 |
-| [ARUGIG]({{ site.baseurl }}/species-reviews/arugig) | giant cane | *Arundinaria gigantea* | 2007 |
-| [CHRCHR]({{ site.baseurl }}/species-reviews/chrchr) | giant chinquapin | *Chrysolepis chrysophylla* | 2012 |
-| [HERMAN]({{ site.baseurl }}/species-reviews/herman) | giant hogweed | *Heracleum mantegazzianum* | 2009 |
-| [ARUDON]({{ site.baseurl }}/species-reviews/arudon) | giant reed | *Arundo donax* | 2004 |
-| [SEQGIG]({{ site.baseurl }}/species-reviews/seqgig) | giant sequoia | *Sequoiadendron giganteum* | 2026 |
-| [FRAALN]({{ site.baseurl }}/species-reviews/fraaln) | glossy buckthorn | *Frangula alnus* | 2008 |
-| [PHYAUR]({{ site.baseurl }}/species-reviews/phyaur) | golden bamboo | *Phyllostachys aurea* | 2009 |
-| [RIBAUR]({{ site.baseurl }}/species-reviews/ribaur) | golden currant | *Ribes aureum* | 1995 |
-| [AQCH]({{ site.baseurl }}/species-reviews/aqch) | golden eagle | *Aquila chrysaetos* | 1994 |
-| [SALGOO]({{ site.baseurl }}/species-reviews/salgoo) | Goodding's willow | *Salix gooddingii* | 1993 |
-| [RIBMON]({{ site.baseurl }}/species-reviews/ribmon) | gooseberry currant | *Ribes montigenum* | 1995 |
-| [SPHGRO]({{ site.baseurl }}/species-reviews/sphgro) | gooseberryleaf globemallow | *Sphaeralcea grossulariifolia* | 2007 |
-| [GOPO]({{ site.baseurl }}/species-reviews/gopo) | gopher tortoise | *Gopherus polyphemus* | 2009 |
-| [HESGOV]({{ site.baseurl }}/species-reviews/hesgov) | Gowen cypress | *Hesperocyparis goveniana* | 1994 |
-| [ABIGRA]({{ site.baseurl }}/species-reviews/abigra) | grand fir | *Abies grandis* | 2000 |
-| [LINPUN]({{ site.baseurl }}/species-reviews/linpun) | granite prickly phlox | *Linanthus pungens* | 2010 |
-| [ALNINC]({{ site.baseurl }}/species-reviews/alninc) | gray alder | *Alnus incana* | 2011 |
-| [BETPOP]({{ site.baseurl }}/species-reviews/betpop) | gray birch | *Betula populifolia* | 1992 |
-| [DUCA]({{ site.baseurl }}/species-reviews/duca) | gray catbird | *Dumetella carolinensis* | 1994 |
-| [CORRAC]({{ site.baseurl }}/species-reviews/corrac) | gray dogwood | *Cornus racemosa* | 1993 |
-| [QUEGRI]({{ site.baseurl }}/species-reviews/quegri) | gray oak | *Quercus grisea* | 1994 |
-| [PINSAB]({{ site.baseurl }}/species-reviews/pinsab) | gray pine | *Pinus sabiniana* | 1992 |
-| [CALU]({{ site.baseurl }}/species-reviews/calu) | gray wolf | *Canis lupus* | 1991 |
-| [SALGLA]({{ site.baseurl }}/species-reviews/salgla) | grayleaf willow | *Salix glauca* | 1992 |
-| [PINLON]({{ site.baseurl }}/species-reviews/pinlon) | Great Basin bristlecone pine | *Pinus longaeva* | 2004 |
-| [PEMO]({{ site.baseurl }}/species-reviews/pemo) | Great Basin pocket mouse | *Perognathus mollipilosus* | 1996 |
-| [SPIN]({{ site.baseurl }}/species-reviews/spin) | Great Basin spadefoot | *Spea intermontana* | 1996 |
-| [STNE]({{ site.baseurl }}/species-reviews/stne) | great gray owl | *Strix nebulosa* | 2007 |
-| [BUVI]({{ site.baseurl }}/species-reviews/buvi) | great horned owl | *Bubo virginianus* | 1995 |
-| [RHOMAX]({{ site.baseurl }}/species-reviews/rhomax) | great laurel | *Rhododendron maximum_* | 2008 |
-| [TYMP]({{ site.baseurl }}/species-reviews/tymp) | greater prairie-chicken, lesser prairie-chicken | *Tympanuchus cupido, T. pallidicinctus* | 1992 |
-| [ANAL]({{ site.baseurl }}/species-reviews/anal) | greater white-fronted goose | *Anser albifrons* | 1993 |
-| [FRAPEN]({{ site.baseurl }}/species-reviews/frapen) | green ash | *Fraxinus pennsylvanica* | 2005 |
-| [EPHVIR]({{ site.baseurl }}/species-reviews/ephvir) | green ephedra | *Ephedra viridis* | 2001 |
-| [NASVIR]({{ site.baseurl }}/species-reviews/nasvir) | green needlegrass | *Nassella viridula* | 2001 |
-| [DASLEI]({{ site.baseurl }}/species-reviews/daslei) | green sotol | *Dasylirion leiophyllum* | 1993 |
-| [ANCR]({{ site.baseurl }}/species-reviews/ancr) | green-winged teal | *Anas crecca* | 1993 |
-| [ARCPAT]({{ site.baseurl }}/species-reviews/arcpat) | greenleaf manzanita | *Arctostaphylos patula* | 2007 |
-| [URARH]({{ site.baseurl }}/species-reviews/urarh) | grizzly bear | *Ursus arctos horribilis* | 1991 |
-| [GLEHED]({{ site.baseurl }}/species-reviews/glehed) | ground-ivy | *Glechoma hederacea* | 2009 |
-| [VACSCO]({{ site.baseurl }}/species-reviews/vacsco) | grouse whortleberry | *Vaccinium scoparium* | 2001 |
-| [CENT]({{ site.baseurl }}/species-reviews/cent) | Gunnison sage-grouse, greater sage-grouse | *Centrocercus minimus, C. urophasianus* | 2016 |
-| [BOUHIR]({{ site.baseurl }}/species-reviews/bouhir) | hairy grama | *Bouteloua hirsuta* | 1999 |
-| [ARCCOL]({{ site.baseurl }}/species-reviews/arccol) | hairy manzanita | *Arctostaphylos columbiana* | 1993 |
-| [PHIHIR]({{ site.baseurl }}/species-reviews/phihir) | hairy mockorange | *Philadelphus hirsutus* | 1994 |
-| [SALHAS]({{ site.baseurl }}/species-reviews/salhas) | Halberd willow | *Salix hastata* | 1992 |
-| [HALGLO]({{ site.baseurl }}/species-reviews/halglo) | halogeton | *Halogeton glomeratus* | 1992 |
-| [SCHACU]({{ site.baseurl }}/species-reviews/schacu) | hardstem bulrush | *Schoenoplectus acutus* | 1995 |
-| [QUEHAV]({{ site.baseurl }}/species-reviews/quehav) | Havard oak | *Quercus havardii* | 2006 |
-| [ARNCOR]({{ site.baseurl }}/species-reviews/arncor) | heartleaf arnica | *Arnica cordifolia* | 1993 |
-| [CALVUL]({{ site.baseurl }}/species-reviews/calvul) | heather | *Calluna vulgaris* | 1993 |
-| [DESSOP]({{ site.baseurl }}/species-reviews/dessop) | herb sophia | *Descurainia sophia* | 2003 |
-| [VACCOR]({{ site.baseurl }}/species-reviews/vaccor) | highbush blueberry | *Vaccinium corymbosum* | 1993 |
-| [RUBSPP]({{ site.baseurl }}/species-reviews/rubspp) | Himalayan blackberry, European blackberry | *Rubus armeniacus, R. bifrons* | 2021 |
-| [SIHI]({{ site.baseurl }}/species-reviews/sihi) | hispid cotton rat | *Sigmodon hispidus* | 1995 |
-| [LUZGLAH]({{ site.baseurl }}/species-reviews/luzglah) | Hitchcock's smooth woodrush | *Luzula glabrata var. hitchcockii* | 1992 |
-| [CARSPP3]({{ site.baseurl }}/species-reviews/carspp3) | hoary cress | *Cardaria spp.* | 2004 |
-| [PRUILI]({{ site.baseurl }}/species-reviews/pruili) | hollyleaf cherry | *Prunus ilicifolia* | 1990 |
-| [PROGLA]({{ site.baseurl }}/species-reviews/progla) | honey mesquite | *Prosopis glandulosa* | 2001 |
-| [GLETRI]({{ site.baseurl }}/species-reviews/gletri) | honeylocust | *Gleditsia triacanthos* | 1994 |
-| [SARMIN]({{ site.baseurl }}/species-reviews/sarmin) | hooded pitcherplant | *Sarracenia minor* | 1991 |
-| [BALHOO]({{ site.baseurl }}/species-reviews/balhoo) | Hooker's balsamroot | *Balsamorhiza hookeri* | 2006 |
-| [OSTVIR]({{ site.baseurl }}/species-reviews/ostvir) | hophornbeam | *Ostrya virginiana* | 1992 |
-| [EURHOR]({{ site.baseurl }}/species-reviews/eurhor) | horrid herrickia | *Eurybia horrida* | 2006 |
-| [CYNOFF]({{ site.baseurl }}/species-reviews/cynoff) | houndstongue | *Cynoglossum officinale* | 2002 |
-| [QUEVAC]({{ site.baseurl }}/species-reviews/quevac) | huckleberry oak | *Quercus vacciniifolia* | 1992 |
-| [VACFAR]({{ site.baseurl }}/species-reviews/vacfar) | huisache | *Vachellia farnesiana* | 2020 |
-| [FESIDA]({{ site.baseurl }}/species-reviews/fesida) | Idaho fescue | *Festuca idahoensis* | 2000 |
-| [CALDEC]({{ site.baseurl }}/species-reviews/caldec) | incense-cedar | *Calocedrus decurrens* | 2008 |
-| [ACHHYM]({{ site.baseurl }}/species-reviews/achhym) | Indian ricegrass | *Achnatherum hymenoides* | 1999 |
-| [MYSO]({{ site.baseurl }}/species-reviews/myso) | Indiana bat | *Myotis sodalis* | 2005 |
-| [SORNUT]({{ site.baseurl }}/species-reviews/sornut) | Indiangrass | *Sorghastrum nutans* | 1991 |
-| [APOCAN]({{ site.baseurl }}/species-reviews/apocan) | Indianhemp | *Apocynum cannabinum* | 2006 |
-| [ILEGLA]({{ site.baseurl }}/species-reviews/ilegla) | inkberry | *Ilex glabra* | 2001 |
-| [QUEWIS]({{ site.baseurl }}/species-reviews/quewis) | interior live oak | *Quercus wislizeni* | 2012 |
-| [CETISL]({{ site.baseurl }}/species-reviews/cetisl) | island cetraria lichen | *Cetraria islandica* | 1993 |
-| [LOLPERM]({{ site.baseurl }}/species-reviews/lolperm) | Italian ryegrass | *Lolium perenne subsp.  multiflorum* | 1995 |
-| [PINBAN]({{ site.baseurl }}/species-reviews/pinban) | jack pine | *Pinus banksiana* | 1993 |
-| [CLAMARJ]({{ site.baseurl }}/species-reviews/clamarj) | Jamaica swamp sawgrass | *Cladium mariscus subsp. jamaicense* | 1992 |
-| [PLEJAM]({{ site.baseurl }}/species-reviews/plejam) | James' galleta | *Pleuraphis jamesii* | 2000 |
-| [BERTHU]({{ site.baseurl }}/species-reviews/berthu) | Japanese barberry | *Berberis thunbergii* | 2008 |
-| [BROJAP]({{ site.baseurl }}/species-reviews/brojap) | Japanese brome | *Bromus japonicus* | 1994 |
-| [LONJAP]({{ site.baseurl }}/species-reviews/lonjap) | Japanese honeysuckle | *Lonicera japonica* | 2002 |
-| [PINJEF]({{ site.baseurl }}/species-reviews/pinjef) | Jeffrey pine | *Pinus jeffreyi* | 2007 |
-| [SORHAL]({{ site.baseurl }}/species-reviews/sorhal) | Johnsongrass | *Sorghum halepense* | 2004 |
-| [SIMCHI]({{ site.baseurl }}/species-reviews/simchi) | jojoba | *Simmondsia chinensis* | 1994 |
-| [YUCSPP]({{ site.baseurl }}/species-reviews/yucspp) | Joshua tree | *Yucca brevifolia, Yucca jaegeriana* | 2025 |
-| [POLJUN]({{ site.baseurl }}/species-reviews/poljun) | juniper haircap moss | *Polytrichum juniperinum* | 2008 |
-| [PLMES]({{ site.baseurl }}/species-reviews/plmes) | Karner blue butterfly | *Plebejus melissa samuelis* | 2007 |
-| [POAPRA]({{ site.baseurl }}/species-reviews/poapra) | Kentucky bluegrass | *Poa pratensis* | 1993 |
-| [ECHTRI]({{ site.baseurl }}/species-reviews/echtri) | kingcup cactus | *Echinocereus triglochidiatus* | 2018 |
-| [ARCUVA]({{ site.baseurl }}/species-reviews/arcuva) | kinnikinnick | *Arctostaphylos uva-ursi* | 1991 |
-| [SEKI]({{ site.baseurl }}/species-reviews/seki) | Kirtland's warbler | *Setophaga kirtlandii* | 2010 |
-| [PINATT]({{ site.baseurl }}/species-reviews/pinatt) | knobcone pine | *Pinus attenuata* | 1992 |
-| [PASDIS]({{ site.baseurl }}/species-reviews/pasdis) | knotgrass | *Paspalum distichum* | 1992 |
-| [POLSPP]({{ site.baseurl }}/species-reviews/polspp) | knotweeds: giant knotweed, Japanese knotweed, Bohemian knotweed | *Polygonum spp.: Polygonum sachalinense, P. cuspidatum, P. × bohemicum* | 2010 |
-| [OSTKNO]({{ site.baseurl }}/species-reviews/ostkno) | Knowlton's hophornbeam | *Ostrya knowltonii* | 1994 |
-| [PEDKNO]({{ site.baseurl }}/species-reviews/pedkno) | Knowlton's miniature cactus | *Pediocactus knowltonii* | 2007 |
-| [KUMSPP]({{ site.baseurl }}/species-reviews/kumspp) | Korean clover, Japanese clover | *Kummerowia stipulacea, K. striata* | 2010 |
-| [PUEMONL]({{ site.baseurl }}/species-reviews/puemonl) | kudzu | *Pueraria montana var. lobata* | 2002 |
-| [ILECOR]({{ site.baseurl }}/species-reviews/ilecor) | large gallberry | *Ilex coriacea* | 1991 |
-| [MALLAU]({{ site.baseurl }}/species-reviews/mallau) | laurel sumac | *Malosma laurina* | 1992 |
-| [SMILAU]({{ site.baseurl }}/species-reviews/smilau) | laurelleaf greenbrier | *Smilax laurifolia* | 1991 |
-| [AMOCAN]({{ site.baseurl }}/species-reviews/amocan) | leadplant | *Amorpha canescens* | 2011 |
-| [EUPESU]({{ site.baseurl }}/species-reviews/eupesu) | leafy spurge | *Euphorbia esula* | 2011 |
-| [CHACAL]({{ site.baseurl }}/species-reviews/chacal) | leatherleaf | *Chamaedaphne calyculata* | 1993 |
-| [AGALEC]({{ site.baseurl }}/species-reviews/agalec) | lechuguilla | *Agave lechuguilla* | 2006 |
-| [ERALEH]({{ site.baseurl }}/species-reviews/eraleh) | Lehmann lovegrass | *Eragrostis lehmanniana* | 1992 |
-| [SALLEM]({{ site.baseurl }}/species-reviews/sallem) | Lemmon's willow | *Salix lemmonii* | 1989 |
-| [GOOREP]({{ site.baseurl }}/species-reviews/goorep) | lesser rattlesnake plantain | *Goodyera repens* | 2013 |
-| [SELDEN]({{ site.baseurl }}/species-reviews/selden) | lesser spikemoss | *Selaginella densa* | 1990 |
-| [ACHLET]({{ site.baseurl }}/species-reviews/achlet) | Letterman's needlegrass | *Achnatherum lettermanii* | 2000 |
-| [LINLEW]({{ site.baseurl }}/species-reviews/linlew) | Lewis flax | *Linum lewisii* | 2007 |
-| [PHILEW]({{ site.baseurl }}/species-reviews/philew) | Lewis' mock orange | *Philadelphus lewisii* | 1995 |
-| [PINFLE]({{ site.baseurl }}/species-reviews/pinfle) | limber pine | *Pinus flexilis* | 2001 |
-| [VACVIT]({{ site.baseurl }}/species-reviews/vacvit) | lingonberry | *Vaccinium vitis-idaea* | 1991 |
-| [SCHSCO]({{ site.baseurl }}/species-reviews/schsco) | little bluestem | *Schizachyrium scoparium* | 2002 |
-| [DELBIC]({{ site.baseurl }}/species-reviews/delbic) | little larkspur | *Delphinium bicolor* | 1993 |
-| [CHIMEN]({{ site.baseurl }}/species-reviews/chimen) | little prince's-pine | *Chimaphila menziesii* | 1994 |
-| [JUGMIC]({{ site.baseurl }}/species-reviews/jugmic) | little walnut | *Juglans microcarpa* | 1990 |
-| [TETGLA]({{ site.baseurl }}/species-reviews/tetgla) | littleleaf horsebrush | *Tetradymia glabrata* | 2002 |
-| [ANTMIC]({{ site.baseurl }}/species-reviews/antmic) | littleleaf pussytoes | *Antennaria microphylla* | 1993 |
-| [KRAERE]({{ site.baseurl }}/species-reviews/kraere) | littleleaf ratany | *Krameria erecta* | 1991 |
-| [RHUMIC]({{ site.baseurl }}/species-reviews/rhumic) | littleleaf sumac | *Rhus microphylla* | 1990 |
-| [SALARB]({{ site.baseurl }}/species-reviews/salarb) | littletree willow | *Salix arbusculoides* | 1992 |
-| [PYRASA]({{ site.baseurl }}/species-reviews/pyrasa) | liverleaf wintergreen | *Pyrola asarifolia* | 2007 |
-| [GORLAS]({{ site.baseurl }}/species-reviews/gorlas) | loblolly bay | *Gordonia lasianthus* | 1992 |
-| [PINTAE]({{ site.baseurl }}/species-reviews/pintae) | loblolly pine | *Pinus taeda* | 1992 |
-| [CARINO]({{ site.baseurl }}/species-reviews/carino) | long-stolon sedge | *Carex inops* | 2009 |
-| [AMMA]({{ site.baseurl }}/species-reviews/amma) | long-toed salamander | *Ambystoma macrodactylum* | 1997 |
-| [PINPAL]({{ site.baseurl }}/species-reviews/pinpal) | longleaf pine | *Pinus palustris* | 1992 |
-| [ZIZOBT]({{ site.baseurl }}/species-reviews/zizobt) | lotebush | *Ziziphus obtusifolia* | 1993 |
-| [CARCOC]({{ site.baseurl }}/species-reviews/carcoc) | low northern sedge | *Carex concinna* | 1994 |
-| [ARTARB]({{ site.baseurl }}/species-reviews/artarb) | low sagebrush | *Artemisia arbuscula* | 2002 |
-| [VACANG]({{ site.baseurl }}/species-reviews/vacang) | lowbush blueberry | *Vaccinium angustifolium* | 1991 |
-| [PANHEM]({{ site.baseurl }}/species-reviews/panhem) | maidencane | *Panicum hemitomon* | 1994 |
-| [LYOLIG]({{ site.baseurl }}/species-reviews/lyolig) | maleberry | *Lyonia ligustrina* | 1994 |
-| [ANPL]({{ site.baseurl }}/species-reviews/anpl) | mallard | *Anas platyrhynchos* | 1993 |
-| [PHYMAL]({{ site.baseurl }}/species-reviews/phymal) | mallow ninebark | *Physocarpus malvaceus* | 1992 |
-| [VIBACE]({{ site.baseurl }}/species-reviews/vibace) | mapleleaf viburnum | *Viburnum acerifolium* | 1993 |
-| [BRMA]({{ site.baseurl }}/species-reviews/brma) | marbled murrelet | *Brachyramphus marmoratus* | 1994 |
-| [LEDPAL]({{ site.baseurl }}/species-reviews/ledpal) | marsh Labrador tea | *Ledum palustre* | 2005 |
-| [MUHRAC]({{ site.baseurl }}/species-reviews/muhrac) | marsh muhly | *Muhlenbergia racemosa* | 2011 |
-| [CIRPAL]({{ site.baseurl }}/species-reviews/cirpal) | marsh thistle | *Cirsium palustre* | 2009 |
-| [COVIR]({{ site.baseurl }}/species-reviews/covir) | masked bobwhite | *Colinus virginianus ridgwayi* | 2024 |
-| [MUHRIC]({{ site.baseurl }}/species-reviews/muhric) | mat muhly | *Muhlenbergia richardsonis* | 1999 |
-| [HELMAX]({{ site.baseurl }}/species-reviews/helmax) | Maximilian sunflower | *Helianthus maximiliani* | 1993 |
-| [HESMAN]({{ site.baseurl }}/species-reviews/hesman) | McNab's cypress | *Hesperocyparis macnabiana* | 1994 |
-| [ZIGVEN]({{ site.baseurl }}/species-reviews/zigven) | meadow deathcamas | *Zigadenus venenosus* | 2006 |
-| [SCHPRA]({{ site.baseurl }}/species-reviews/schpra) | meadow fescue | *Schedonorus pratensis* | 2010 |
-| [HIECAE]({{ site.baseurl }}/species-reviews/hiecae) | meadow hawkweed | *Hieracium caespitosum* | 2011 |
-| [MIPE]({{ site.baseurl }}/species-reviews/mipe) | meadow vole | *Microtus pennsylvanicus* | 1996 |
-| [TAECAP]({{ site.baseurl }}/species-reviews/taecap) | medusahead | *Taeniatherum caput-medusae* | 2001 |
-| [MELQUI]({{ site.baseurl }}/species-reviews/melqui) | melaleuca | *Melaleuca quinquenervia* | 2005 |
-| [SPOFLE]({{ site.baseurl }}/species-reviews/spofle) | mesa dropseed | *Sporobolus flexuosus* | 1999 |
-| [SOPSEC]({{ site.baseurl }}/species-reviews/sopsec) | mescal bean | *Sophora secundiflora* | 1990 |
-| [SCUMEX]({{ site.baseurl }}/species-reviews/scumex) | Mexican bladdersage | *Scutellaria mexicana* | 2024 |
-| [QUEOBL]({{ site.baseurl }}/species-reviews/queobl) | Mexican blue oak | *Quercus oblongifolia* | 1993 |
-| [UNGSPE]({{ site.baseurl }}/species-reviews/ungspe) | Mexican buckeye | *Ungnadia speciosa* | 1990 |
-| [PINCEM]({{ site.baseurl }}/species-reviews/pincem) | Mexican pinyon | *Pinus cembroides* | 1994 |
-| [CLAPER]({{ site.baseurl }}/species-reviews/claper) | miner's-lettuce | *Claytonia perfoliata* | 1993 |
-| [SOLMIS]({{ site.baseurl }}/species-reviews/solmis) | Missouri goldenrod | *Solidago missouriensis* | 2020 |
-| [CARTOM]({{ site.baseurl }}/species-reviews/cartom) | mockernut hickory | *Carya tomentosa* | 1992 |
-| [HESBAK]({{ site.baseurl }}/species-reviews/hesbak) | Modoc cypress | *Hesperocyparis bakeri* | 1994 |
-| [ERIPAN]({{ site.baseurl }}/species-reviews/eripan) | Mohave rabbitbrush | *Ericameria paniculata* | 1993 |
-| [YUCSCH]({{ site.baseurl }}/species-reviews/yucsch) | Mojave yucca | *Yucca schidigera* | 2006 |
-| [MELMIN]({{ site.baseurl }}/species-reviews/melmin) | molassesgrass | *Melinis minutiflora* | 2008 |
-| [HESMAC]({{ site.baseurl }}/species-reviews/hesmac) | Monterey cypress | *Hesperocyparis macrocarpa* | 1994 |
-| [PINRAD]({{ site.baseurl }}/species-reviews/pinrad) | Monterey pine | *Pinus radiata* | 1993 |
-| [TAXMUC]({{ site.baseurl }}/species-reviews/taxmuc) | Montezuma bald cypress | *Taxodium mucronatum* | 1994 |
-| [CYMO]({{ site.baseurl }}/species-reviews/cymo) | Montezuma quail | *Cyrtonyx montezumae* | 1994 |
-| [BOTSPP]({{ site.baseurl }}/species-reviews/botspp) | moonworts: common moonwort, daisy-leaf moonwort, mountain moonwort, peculiar moonwort | *Botrychium spp.:  Botrychium lunaria, B. matricariifolium, B. montanum, B. paradoxum* | 2014 |
-| [ALAM]({{ site.baseurl }}/species-reviews/alam) | moose | *Alces americanus* | 2010 |
-| [ALNVIRC]({{ site.baseurl }}/species-reviews/alnvirc) | mountain alder | *Alnus viridis subsp. crispa* | 1992 |
-| [ARTTRIV]({{ site.baseurl }}/species-reviews/arttriv) | mountain big sagebrush | *Artemisia tridentata subsp. vaseyana* | 2017 |
-| [SICU]({{ site.baseurl }}/species-reviews/sicu) | mountain bluebird | *Sialia currucoides* | 1995 |
-| [ORAM]({{ site.baseurl }}/species-reviews/oram) | mountain goat | *Oreamnos americanus* | 2011 |
-| [TSUMER]({{ site.baseurl }}/species-reviews/tsumer) | mountain hemlock | *Tsuga mertensiana* | 1992 |
-| [KALLAT]({{ site.baseurl }}/species-reviews/kallat) | mountain laurel | *Kalmia latifolia* | 2005 |
-| [PUCO]({{ site.baseurl }}/species-reviews/puco) | mountain lion | *Puma concolor* | 1995 |
-| [ACESPI]({{ site.baseurl }}/species-reviews/acespi) | mountain maple | *Acer spicatum* | 1993 |
-| [CHAFOL]({{ site.baseurl }}/species-reviews/chafol) | mountain misery | *Chamaebatia foliolosa* | 1992 |
-| [MUHMON]({{ site.baseurl }}/species-reviews/muhmon) | mountain muhly | *Muhlenbergia montana* | 1995 |
-| [JUNARCL]({{ site.baseurl }}/species-reviews/junarcl) | mountain rush | *Juncus arcticus var. littoralis* | 2005 |
-| [SYMORE]({{ site.baseurl }}/species-reviews/symore) | mountain snowberry | *Symphoricarpos oreophilus* | 1999 |
-| [OXAMON]({{ site.baseurl }}/species-reviews/oxamon) | mountain woodsorrel | *Oxalis montana* | 1992 |
-| [ZEMA]({{ site.baseurl }}/species-reviews/zema) | mourning dove | *Zenaida macroura* | 1993 |
-| [ODHE]({{ site.baseurl }}/species-reviews/odhe) | mule deer | *Odocoileus hemionus* | 2013 |
-| [WYEAMP]({{ site.baseurl }}/species-reviews/wyeamp) | mule-ears | *Wyethia amplexicaulis* | 1993 |
-| [ROSMUL]({{ site.baseurl }}/species-reviews/rosmul) | multiflora rose | *Rosa multiflora* | 2002 |
-| [CARNUT]({{ site.baseurl }}/species-reviews/carnut) | musk thistle | *Carduus nutans* | 2002 |
-| [POAFEN]({{ site.baseurl }}/species-reviews/poafen) | muttongrass | *Poa fendleriana* | 1997 |
-| [TYPANG]({{ site.baseurl }}/species-reviews/typang) | narrowleaf cattail | *Typha angustifolia* | 1993 |
-| [POPANG]({{ site.baseurl }}/species-reviews/popang) | narrowleaf cottonwood | *Populus angustifolia* | 2001 |
-| [SALEXI]({{ site.baseurl }}/species-reviews/salexi) | narrowleaf willow | *Salix exigua* | 2006 |
-| [HESCOM]({{ site.baseurl }}/species-reviews/hescom) | needle and thread | *Hesperostipa comata* | 1999 |
-| [JUNROE]({{ site.baseurl }}/species-reviews/junroe) | needlegrass rush | *Juncus roemerianus* | 1992 |
-| [MICVIM]({{ site.baseurl }}/species-reviews/micvim) | Nepalese browntop | *Microstegium vimineum* | 2011 |
-| [CELLAER]({{ site.baseurl }}/species-reviews/cellaer) | netleaf hackberry | *Celtis laevigata var. reticulata* | 1990 |
-| [EPHNEV]({{ site.baseurl }}/species-reviews/ephnev) | Nevada jointfir | *Ephedra nevadensis* | 2004 |
-| [MAHNEV]({{ site.baseurl }}/species-reviews/mahnev) | Nevin's barberry | *Mahonia nevinii* | 2012 |
-| [CEAAME]({{ site.baseurl }}/species-reviews/ceaame) | New Jersey tea | *Ceanothus americanus* | 1993 |
-| [ROBNEO]({{ site.baseurl }}/species-reviews/robneo) | New Mexico locust | *Robinia neomexicana* | 1993 |
-| [CIRNEO]({{ site.baseurl }}/species-reviews/cirneo) | New Mexico thistle | *Cirsium neomexicanum* | 1994 |
-| [THENOV]({{ site.baseurl }}/species-reviews/thenov) | New York fern | *Thelypteris noveboracensis* | 1993 |
-| [POTNEW]({{ site.baseurl }}/species-reviews/potnew) | Newberry's cinquefoil | *Potentilla newberryi* | 2008 |
-| [HESSPP]({{ site.baseurl }}/species-reviews/hesspp) | Newberry's yucca, chaparral yucca | *Hesperoyucca newberryi, H. whipplei* | 2012 |
-| [ABIPRO]({{ site.baseurl }}/species-reviews/abipro) | noble fir | *Abies procera* | 1993 |
-| [RHASPP]({{ site.baseurl }}/species-reviews/rhaspp) | nonnative buckthorns: common buckthorn, Dahurian buckthorn | *Rhamnus cathartica, R. davurica* | 2011 |
-| [LONSPP]({{ site.baseurl }}/species-reviews/lonspp) | nonnative honeysuckles: sweet breath of spring, Amur honeysuckle, Morrow's honeysuckle, Tatarian honeysuckle, showy fly honeysuckle, dwarf honeysuckle | *Lonicera spp.: Lonicera fragrantissima, L. maackii, L. morrowii, L. tatarica, L. x bella, L. xylosteum* | 2005 |
-| [POPSPP]({{ site.baseurl }}/species-reviews/popspp) | nonnative poplars: white poplar and hybrids | *Populus spp.: Populus alba, P. x canescens, P. x heimburgeri, P. x rouleauiana, P. tomentosa* | 2010 |
-| [ROSNUT]({{ site.baseurl }}/species-reviews/rosnut) | Nootka rose | *Rosa nutkana* | 1993 |
-| [PEMA]({{ site.baseurl }}/species-reviews/pema) | North American deermouse | *Peromyscus maniculatus* | 1995 |
-| [MORPEN]({{ site.baseurl }}/species-reviews/morpen) | northern bayberry | *Morella pensylvanica* | 2006 |
-| [GALSPP]({{ site.baseurl }}/species-reviews/galspp) | northern bedstrw, fragrant bedstraw | *Galium boreale, G. triflorum* | 2005 |
-| [COVI]({{ site.baseurl }}/species-reviews/covi) | northern bobwhite | *Colinus virginianus* | 2024 |
-| [DIELON]({{ site.baseurl }}/species-reviews/dielon) | northern bush honeysuckle | *Diervilla lonicera* | 1993 |
-| [ACGE]({{ site.baseurl }}/species-reviews/acge) | northern goshawk | *Accipiter gentilis* | 2013 |
-| [CIHU]({{ site.baseurl }}/species-reviews/cihu) | northern harrier | *Circus hudsonius* | 1993 |
-| [QUEELL]({{ site.baseurl }}/species-reviews/queell) | northern pin oak | *Quercus ellipsoidalis* | 1993 |
-| [ANAC]({{ site.baseurl }}/species-reviews/anac) | northern pintail | *Anas acuta* | 1993 |
-| [PRLO]({{ site.baseurl }}/species-reviews/prlo) | northern raccoon | *Procyon lotor* | 1995 |
-| [QUERUB]({{ site.baseurl }}/species-reviews/querub) | northern red oak | *Quercus rubra* | 1991 |
-| [MYRU]({{ site.baseurl }}/species-reviews/myru) | northern red-backed vole | *Myodes rutilus* | 1994 |
-| [LOCA]({{ site.baseurl }}/species-reviews/loca) | northern river otter | *Lontra canadensis* | 1993 |
-| [THUOCC]({{ site.baseurl }}/species-reviews/thuocc) | northern white-cedar | *Thuja occidentalis* | 1993 |
-| [ACEPLA]({{ site.baseurl }}/species-reviews/acepla) | Norway maple | *Acer platanoides* | 2003 |
-| [PICABI]({{ site.baseurl }}/species-reviews/picabi) | Norway spruce | *Picea abies* | 1994 |
-| [TETNUT]({{ site.baseurl }}/species-reviews/tetnut) | Nuttall's horsebrush | *Tetradymia nuttallii* | 2002 |
-| [HOLDIS]({{ site.baseurl }}/species-reviews/holdis) | oceanspray | *Holodiscus discolor* | 2010 |
-| [FOUSPL]({{ site.baseurl }}/species-reviews/fouspl) | ocotillo | *Fouquieria splendens* | 1994 |
-| [SCHACT]({{ site.baseurl }}/species-reviews/schact) | octopus tree | *Schefflera actinophylla* | 2011 |
-| [GEUTRI]({{ site.baseurl }}/species-reviews/geutri) | old man's whiskers | *Geum triflorum* | 2006 |
-| [JUNMON]({{ site.baseurl }}/species-reviews/junmon) | oneseed juniper | *Juniperus monosperma* | 2002 |
-| [DANUNI]({{ site.baseurl }}/species-reviews/danuni) | onespike danthonia | *Danthonia unispicata* | 2000 |
-| [HIEAUR]({{ site.baseurl }}/species-reviews/hieaur) | orange hawkweed | *Hieracium aurantiacum* | 2010 |
-| [DACGLO]({{ site.baseurl }}/species-reviews/dacglo) | orchardgrass | *Dactylis glomerata* | 1992 |
-| [DIOR]({{ site.baseurl }}/species-reviews/dior) | Ord's kangaroo rat | *Dipodomys ordii* | 1995 |
-| [PAXMYR]({{ site.baseurl }}/species-reviews/paxmyr) | Oregon boxleaf | *Paxistima myrsinites* | 1991 |
-| [QUEGAR]({{ site.baseurl }}/species-reviews/quegar) | Oregon white oak | *Quercus garryana* | 2007 |
-| [CELORB]({{ site.baseurl }}/species-reviews/celorb) | Oriental bittersweet | *Celastrus orbiculatus* | 2011 |
-| [POLCESL]({{ site.baseurl }}/species-reviews/polcesl) | Oriental lady's thumb | *Polygonum caespitosum var. longisetum* | 2010 |
-| [MACPOM]({{ site.baseurl }}/species-reviews/macpom) | osage-orange | *Maclura pomifera* | 1994 |
-| [PAHA]({{ site.baseurl }}/species-reviews/paha) | osprey | *Pandion haliaetus* | 1993 |
-| [VACOVL]({{ site.baseurl }}/species-reviews/vacovl) | oval-leaf huckleberry | *Vaccinium ovalifolium* | 1990 |
-| [QUELYR]({{ site.baseurl }}/species-reviews/quelyr) | overcup oak | *Quercus lyrata* | 1993 |
-| [ARTPAP]({{ site.baseurl }}/species-reviews/artpap) | Owyhee sage | *Artemisia papposa* | 2009 |
-| [CORNUT]({{ site.baseurl }}/species-reviews/cornut) | Pacific dogwood | *Cornus nuttallii* | 2005 |
-| [ARBMEN]({{ site.baseurl }}/species-reviews/arbmen) | Pacific madrone | *Arbutus menziesii* | 2007 |
-| [TOXDIV]({{ site.baseurl }}/species-reviews/toxdiv) | Pacific poison-oak | *Toxicodendron diversilobum* | 1994 |
-| [PINPONP]({{ site.baseurl }}/species-reviews/pinponp) | Pacific ponderosa pine, Columbia ponderosa pine | *Pinus ponderosa var. benthamiana, P. ponderosa var. ponderosa* | 2018 |
-| [RHOMAC]({{ site.baseurl }}/species-reviews/rhomac) | Pacific rhododendron | *Rhododendron macrophyllum* | 2021 |
-| [ABIAMA]({{ site.baseurl }}/species-reviews/abiama) | Pacific silver fir | *Abies amabilis* | 1992 |
-| [TAXBRE]({{ site.baseurl }}/species-reviews/taxbre) | Pacific yew | *Taxus brevifolia* | 1990 |
-| [LYCPAL]({{ site.baseurl }}/species-reviews/lycpal) | pale desert-thorn | *Lycium pallidum* | 1994 |
-| [IRIPSE]({{ site.baseurl }}/species-reviews/iripse) | paleyellow iris | *Iris pseudacorus* | 2009 |
-| [BETPAP]({{ site.baseurl }}/species-reviews/betpap) | paper birch | *Betula papyrifera* | 1991 |
-| [SCLPAP]({{ site.baseurl }}/species-reviews/sclpap) | paperspine fishhook cactus | *Sclerocactus papyracanthus* | 1994 |
-| [UROMUT]({{ site.baseurl }}/species-reviews/uromut) | para grass | *Urochloa mutica* | 2010 |
-| [SALMOT]({{ site.baseurl }}/species-reviews/salmot) | park willow | *Salix monticola* | 1992 |
-| [PINQUA]({{ site.baseurl }}/species-reviews/pinqua) | Parry pinyon | *Pinus quadrifolia* | 1993 |
-| [CHAFAS]({{ site.baseurl }}/species-reviews/chafas) | partridge pea | *Chamaecrista fasciculata* | 1992 |
-| [MITREP]({{ site.baseurl }}/species-reviews/mitrep) | partridgeberry | *Mitchella repens* | 1993 |
-| [ASITRI]({{ site.baseurl }}/species-reviews/asitri) | pawpaw | *Asimina triloba* | 1993 |
-| [SALAMY]({{ site.baseurl }}/species-reviews/salamy) | peachleaf willow | *Salix amygdaloides* | 2012 |
-| [CARILL]({{ site.baseurl }}/species-reviews/carill) | pecan | *Carya illinoinensis* | 1992 |
-| [CARPES]({{ site.baseurl }}/species-reviews/carpes) | Pennsylvania sedge | *Carex pensylvanica* | 1992 |
-| [FAPE]({{ site.baseurl }}/species-reviews/fape) | peregrine falcon | *Falco peregrinus* | 2010 |
-| [LOLPERP]({{ site.baseurl }}/species-reviews/lolperp) | perennial ryegrass | *Lolium perenne subsp. perenne* | 1992 |
-| [VINSPP]({{ site.baseurl }}/species-reviews/vinspp) | periwinkles: bigleaf periwinkle, common periwinkle | *Vinca spp.: Vinca major, V. minor* | 2009 |
-| [CARGLA]({{ site.baseurl }}/species-reviews/cargla) | pignut hickory | *Carya glabra* | 1991 |
-| [PRUPEN]({{ site.baseurl }}/species-reviews/prupen) | pin cherry | *Prunus pensylvanica* | 2004 |
-| [QUEPAL]({{ site.baseurl }}/species-reviews/quepal) | pin oak | *Quercus palustris* | 1992 |
-| [JUNPIN]({{ site.baseurl }}/species-reviews/junpin) | Pinchot's juniper | *Juniperus pinchotii* | 2007 |
-| [HUDERI]({{ site.baseurl }}/species-reviews/huderi) | pine barren goldenheather | *Hudsonia ericoides* | 2005 |
-| [FREDEC]({{ site.baseurl }}/species-reviews/fredec) | Pine Hill flannelbush | *Fremontodendron decumbens* | 2022 |
-| [CALRUB]({{ site.baseurl }}/species-reviews/calrub) | pinegrass | *Calamagrostis rubescens* | 2000 |
-| [ARISTR]({{ site.baseurl }}/species-reviews/aristr) | pineland threeawn | *Aristida stricta* | 1992 |
-| [ARCNEV]({{ site.baseurl }}/species-reviews/arcnev) | pinemat manzanita | *Arctostaphylos nevadensis* | 1993 |
-| [RHOPER]({{ site.baseurl }}/species-reviews/rhoper) | pink azalea | *Rhododendron periclymenoides* | 1992 |
-| [LONHIS]({{ site.baseurl }}/species-reviews/lonhis) | pink honeysuckle | *Lonicera hispidula* | 2007 |
-| [ECHFEN]({{ site.baseurl }}/species-reviews/echfen) | pinkflower hedgehog cactus | *Echinocereus fendleri* | 2008 |
-| [GYCY]({{ site.baseurl }}/species-reviews/gycy) | pinyon jay | *Gymnorhinus cyanocephalus* | 2006 |
-| [PIPFIM]({{ site.baseurl }}/species-reviews/pipfim) | pinyon ricegrass | *Piptochaetium fimbriatum* | 2008 |
-| [CHIUMB]({{ site.baseurl }}/species-reviews/chiumb) | pipsissewa | *Chimaphila umbellata* | 1994 |
-| [PINRIG]({{ site.baseurl }}/species-reviews/pinrig) | pitch pine | *Pinus rigida* | 2007 |
-| [POAARI]({{ site.baseurl }}/species-reviews/poaari) | plains bluegrass | *Poa arida* | 1998 |
-| [ERAINT]({{ site.baseurl }}/species-reviews/eraint) | plains lovegrass | *Eragrostis intermedia* | 1994 |
-| [MUHCUS]({{ site.baseurl }}/species-reviews/muhcus) | plains muhly | *Muhlenbergia cuspidata* | 2009 |
-| [OPUPOL]({{ site.baseurl }}/species-reviews/opupol) | plains pricklypear | *Opuntia polyacantha* | 2000 |
-| [CALMON]({{ site.baseurl }}/species-reviews/calmon) | plains reedgrass | *Calamagrostis montanensis* | 2006 |
-| [ARCPUN]({{ site.baseurl }}/species-reviews/arcpun) | pointleaf manzanita | *Arctostaphylos pungens* | 2005 |
-| [TAXSPP]({{ site.baseurl }}/species-reviews/taxspp) | pond cypress, bald cypress | *Taxodium ascendens, T. distichum* | 1992 |
-| [PINSER]({{ site.baseurl }}/species-reviews/pinser) | pond pine | *Pinus serotina* | 2000 |
-| [HESSPA]({{ site.baseurl }}/species-reviews/hesspa) | porcupinegrass | *Hesperostipa spartea* | 1991 |
-| [CHALAW]({{ site.baseurl }}/species-reviews/chalaw) | Port Orford-cedar | *Chamaecyparis lawsoniana* | 2023 |
-| [ILEDEC]({{ site.baseurl }}/species-reviews/iledec) | possumhaw | *Ilex decidua* | 1993 |
-| [QUESTE]({{ site.baseurl }}/species-reviews/queste) | post oak | *Quercus stellata* | 1992 |
-| [DANSPI]({{ site.baseurl }}/species-reviews/danspi) | poverty oatgrass | *Danthonia spicata* | 2000 |
-| [SPAPEC]({{ site.baseurl }}/species-reviews/spapec) | prairie cordgrass | *Spartina pectinata* | 1991 |
-| [SPOHET]({{ site.baseurl }}/species-reviews/spohet) | prairie dropseed | *Sporobolus heterolepis* | 1992 |
-| [FAME]({{ site.baseurl }}/species-reviews/fame) | prairie falcon | *Falco mexicanus* | 1994 |
-| [KOEMAC]({{ site.baseurl }}/species-reviews/koemac) | prairie Junegrass | *Koeleria macrantha* | 2000 |
-| [ROSARK]({{ site.baseurl }}/species-reviews/rosark) | prairie rose | *Rosa arkansana* | 2006 |
-| [CALLON]({{ site.baseurl }}/species-reviews/callon) | prairie sandreed | *Calamovilfa longifolia* | 2005 |
-| [RIBLAC]({{ site.baseurl }}/species-reviews/riblac) | prickly currant | *Ribes lacustre* | 1995 |
-| [ROSACI]({{ site.baseurl }}/species-reviews/rosaci) | prickly rose | *Rosa acicularis* | 1990 |
-| [PAUTOM]({{ site.baseurl }}/species-reviews/pautom) | princesstree | *Paulownia tomentosa* | 2009 |
-| [LIGSPP]({{ site.baseurl }}/species-reviews/ligspp) | privets: Amur privet, Japanese privet, Chinese privet, European privet | *Ligustrum spp.: Ligustrum amurense, L. japonicum, L. sinense, L. vulgare* | 2003 |
-| [ANAM]({{ site.baseurl }}/species-reviews/anam) | pronghorn | *Antilocapra americana* | 1995 |
-| [POLAVI]({{ site.baseurl }}/species-reviews/polavi) | prostrate knotweed | *Polygonum aviculare* | 2010 |
-| [BROINEP]({{ site.baseurl }}/species-reviews/broinep) | Pumpelly's brome | *Bromus inermis subsp. pumpellianus* | 1994 |
-| [QUEPUN]({{ site.baseurl }}/species-reviews/quepun) | pungent oak | *Quercus pungens* | 1993 |
-| [ECHANG]({{ site.baseurl }}/species-reviews/echang) | purple coneflower | *Echinacea angustifolia* | 2005 |
-| [LYTSAL]({{ site.baseurl }}/species-reviews/lytsal) | purple loosestrife | *Lythrum salicaria* | 2002 |
-| [NASPUL]({{ site.baseurl }}/species-reviews/naspul) | purple needlegrass | *Nassella pulchra* | 2002 |
-| [SARPUR]({{ site.baseurl }}/species-reviews/sarpur) | purple pitcherplant | *Sarracenia purpurea* | 1991 |
-| [DALPUR]({{ site.baseurl }}/species-reviews/dalpur) | purple prairie clover | *Dalea purpurea* | 2005 |
-| [CALPUR]({{ site.baseurl }}/species-reviews/calpur) | purple reedgrass | *Calamagrostis purpurascens* | 1992 |
-| [ARIPUR]({{ site.baseurl }}/species-reviews/aripur) | purple threeawn | *Aristida purpurea* | 1997 |
-| [SALDIS]({{ site.baseurl }}/species-reviews/saldis) | pussy willow | *Salix discolor* | 2007 |
-| [BRID]({{ site.baseurl }}/species-reviews/brid) | pygmy rabbit | *Brachylagus idahoensis* | 1994 |
-| [ARTPYG]({{ site.baseurl }}/species-reviews/artpyg) | pygmy sagebrush | *Artemisia pygmaea* | 2005 |
-| [ELYREP]({{ site.baseurl }}/species-reviews/elyrep) | quackgrass | *Elymus repens* | 1992 |
-| [POPTRE]({{ site.baseurl }}/species-reviews/poptre) | quaking aspen | *Populus tremuloides* | 1996 |
-| [ANTRAC]({{ site.baseurl }}/species-reviews/antrac) | raceme pussytoes | *Antennaria racemosa* | 1993 |
-| [VULMYU]({{ site.baseurl }}/species-reviews/vulmyu) | rattail sixweeks grass | *Vulpia myuros* | 2006 |
-| [ACASPH]({{ site.baseurl }}/species-reviews/acasph) | rayless goldenhead | *Acamptopappus sphaerocephalus* | 1991 |
-| [ALNRUB]({{ site.baseurl }}/species-reviews/alnrub) | red alder | *Alnus rubra* | 1989 |
-| [ACTRUB]({{ site.baseurl }}/species-reviews/actrub) | red baneberry | *Actaea rubra* | 1990 |
-| [AQUCAN]({{ site.baseurl }}/species-reviews/aqucan) | red columbine | *Aquilegia canadensis* | 1992 |
-| [RIBTRI]({{ site.baseurl }}/species-reviews/ribtri) | red currant | *Ribes triste* | 2006 |
-| [SAMRAC]({{ site.baseurl }}/species-reviews/samrac) | red elderberry | *Sambucus racemosa* | 2008 |
-| [FESRUB]({{ site.baseurl }}/species-reviews/fesrub) | red fescue | *Festuca rubra* | 1995 |
-| [VUVU]({{ site.baseurl }}/species-reviews/vuvu) | red fox | *Vulpes vulpes* | 1995 |
-| [ARCRUB]({{ site.baseurl }}/species-reviews/arcrub) | red fruit bearberry | *Arctostaphylos rubra* | 2008 |
-| [VACPAR]({{ site.baseurl }}/species-reviews/vacpar) | red huckleberry | *Vaccinium parvifolium* | 1990 |
-| [ACERUB]({{ site.baseurl }}/species-reviews/acerub) | red maple | *Acer rubrum* | 1991 |
-| [MORRUB]({{ site.baseurl }}/species-reviews/morrub) | red mulberry | *Morus rubra* | 1993 |
-| [PINRES]({{ site.baseurl }}/species-reviews/pinres) | red pine | *Pinus resinosa* | 2008 |
-| [PICRUB]({{ site.baseurl }}/species-reviews/picrub) | red spruce | *Picea rubens* | 1993 |
-| [TAHU]({{ site.baseurl }}/species-reviews/tahu) | red squirrel | *Tamiasciurus hudsonicus* | 1995 |
-| [DRBO]({{ site.baseurl }}/species-reviews/drbo) | red-cockaded woodpecker | *Dryobates borealis* | 2025 |
-| [MEER]({{ site.baseurl }}/species-reviews/meer) | red-headed woodpecker | *Melanerpes erythrocephalus* | 2006 |
-| [BUJA]({{ site.baseurl }}/species-reviews/buja) | red-tailed hawk | *Buteo jamaicensis* | 1994 |
-| [PERBOR]({{ site.baseurl }}/species-reviews/perbor) | redbay | *Persea borbonia* | 1991 |
-| [JUNCOA]({{ site.baseurl }}/species-reviews/juncoa) | redberry juniper | *Juniperus coahuilensis* | 1993 |
-| [CORSER]({{ site.baseurl }}/species-reviews/corser) | redosier dogwood | *Cornus sericea* | 2012 |
-| [AMARET]({{ site.baseurl }}/species-reviews/amaret) | redroot amaranth | *Amaranthus retroflexus* | 1993 |
-| [ADESPA]({{ site.baseurl }}/species-reviews/adespa) | redshank | *Adenostoma sparsifolium* | 1993 |
-| [CEASAN]({{ site.baseurl }}/species-reviews/ceasan) | redstem ceanothus | *Ceanothus sanguineus* | 2000 |
-| [EROCIC]({{ site.baseurl }}/species-reviews/erocic) | redstem stork's bill | *Erodium cicutarium* | 1992 |
-| [AGRGIG]({{ site.baseurl }}/species-reviews/agrgig) | redtop | *Agrostis gigantea* | 1995 |
-| [SEQSEM]({{ site.baseurl }}/species-reviews/seqsem) | redwood | *Sequoia sempervirens* | 1992 |
-| [PHAARU]({{ site.baseurl }}/species-reviews/phaaru) | reed canarygrass | *Phalaris arundinacea* | 2010 |
-| [CLASPP]({{ site.baseurl }}/species-reviews/claspp) | reindeer lichens: tree reindeer lichen, green reindeer lichen, gray reindeer lichen, star-tipped reindeer lichen, black-footed reindeer lichen | *Cladonia spp.: Cladonia arbuscula, C. mitis, C. rangiferina, C. stellaris, C. stygia* | 2008 |
-| [BETGLA]({{ site.baseurl }}/species-reviews/betgla) | resin birch | *Betula glandulosa* | 2007 |
-| [AULPAL]({{ site.baseurl }}/species-reviews/aulpal) | ribbed bog moss | *Aulacomnium palustre* | 2008 |
-| [GERRIC]({{ site.baseurl }}/species-reviews/gerric) | Richardson's geranium | *Geranium richardsonii* | 1994 |
-| [ACHRIC]({{ site.baseurl }}/species-reviews/achric) | Richardson's needlegrass | *Achnatherum richardsonii* | 1992 |
-| [SALRIC]({{ site.baseurl }}/species-reviews/salric) | Richardson's willow | *Salix richardsonii* | 1992 |
-| [PHCO]({{ site.baseurl }}/species-reviews/phco) | ring-necked pheasant | *Phasianus colchicus* | 1995 |
-| [BETNIG]({{ site.baseurl }}/species-reviews/betnig) | river birch | *Betula nigra* | 1993 |
-| [CORSEM]({{ site.baseurl }}/species-reviews/corsem) | rock harlequin | *Corydalis sempervirens* | 2013 |
-| [HOLDUM]({{ site.baseurl }}/species-reviews/holdum) | rockspirea | *Holodiscus dumosus* | 2010 |
-| [PINARI]({{ site.baseurl }}/species-reviews/pinari) | Rocky Mountain bristlecone pine | *Pinus aristata* | 2004 |
-| [PSEMENG]({{ site.baseurl }}/species-reviews/psemeng) | Rocky Mountain Douglas-fir | *Pseudotsuga menziesii var. glauca* | 2002 |
-| [JUNSCO]({{ site.baseurl }}/species-reviews/junsco) | Rocky Mountain juniper | *Juniperus scopulorum* | 2002 |
-| [PINCONL]({{ site.baseurl }}/species-reviews/pinconl) | Rocky Mountain lodgepole pine | *Pinus contorta var. latifolia* | 2003 |
-| [ACEGLA]({{ site.baseurl }}/species-reviews/acegla) | Rocky Mountain maple | *Acer glabrum* | 2001 |
-| [SPIDOU]({{ site.baseurl }}/species-reviews/spidou) | rose spirea | *Spiraea douglasii* | 1995 |
-| [CARROS]({{ site.baseurl }}/species-reviews/carros) | Ross' sedge | *Carex rossii* | 2008 |
-| [AGRSCA]({{ site.baseurl }}/species-reviews/agrsca) | rough bentgrass | *Agrostis scabra* | 1992 |
-| [XANSTR]({{ site.baseurl }}/species-reviews/xanstr) | rough cocklebur | *Xanthium strumarium* | 1992 |
-| [FESSPP]({{ site.baseurl }}/species-reviews/fesspp) | rough fescues: Altai fescue, rough fescue, plains rough fescue | *Festuca altaica, F. campestris, F. hallii* | 2000 |
-| [BULA]({{ site.baseurl }}/species-reviews/bula) | rough-legged hawk | *Buteo lagopus* | 1995 |
-| [SMIROT]({{ site.baseurl }}/species-reviews/smirot) | roundleaf greenbrier | *Smilax rotundifolia* | 1994 |
-| [DROROT]({{ site.baseurl }}/species-reviews/drorot) | roundleaf sundew | *Drosera rotundifolia* | 1994 |
-| [ERINAU]({{ site.baseurl }}/species-reviews/erinau) | rubber rabbitbrush | *Ericameria nauseosa* | 1999 |
-| [BOUM]({{ site.baseurl }}/species-reviews/boum) | ruffed grouse | *Bonasa umbellus* | 2011 |
-| [CHOJUN]({{ site.baseurl }}/species-reviews/chojun) | rush skeletonweed | *Chondrilla juncea* | 2004 |
-| [SHECAN]({{ site.baseurl }}/species-reviews/shecan) | russet buffaloberry | *Shepherdia canadensis* | 1991 |
-| [ACRREP]({{ site.baseurl }}/species-reviews/acrrep) | Russian knapweed | *Acroptilon repens* | 2001 |
-| [PSAJUN]({{ site.baseurl }}/species-reviews/psajun) | Russian wildrye | *Psathyrostachys juncea* | 2005 |
-| [ELAANG]({{ site.baseurl }}/species-reviews/elaang) | Russian-olive | *Elaeagnus angustifolia* | 2005 |
-| [SALKAL]({{ site.baseurl }}/species-reviews/salkal) | Russian-thistle | *Salsola kali* | 1992 |
-| [MENFER]({{ site.baseurl }}/species-reviews/menfer) | rusty menziesia | *Menziesia ferruginea* | 1992 |
-| [NOLMIC]({{ site.baseurl }}/species-reviews/nolmic) | sacahuista | *Nolina microcarpa* | 2007 |
-| [NANDOM]({{ site.baseurl }}/species-reviews/nandom) | sacred bamboo | *Nandina domestica* | 2009 |
-| [RANGLA]({{ site.baseurl }}/species-reviews/rangla) | sagebrush buttercup | *Ranunculus glaberrimus* | 2012 |
-| [CARGIG]({{ site.baseurl }}/species-reviews/cargig) | saguaro | *Carnegiea gigantea* | 2021 |
-| [BRATOU]({{ site.baseurl }}/species-reviews/bratou) | Sahara mustard | *Brassica tournefortii* | 2023 |
-| [GAUSHA]({{ site.baseurl }}/species-reviews/gausha) | salal | *Gaultheria shallon* | 1990 |
-| [LEYSAL]({{ site.baseurl }}/species-reviews/leysal) | saline wildrye | *Leymus salinus* | 2004 |
-| [RUBSPE]({{ site.baseurl }}/species-reviews/rubspe) | salmonberry | *Rubus spectabilis* | 2019 |
-| [DISSPI]({{ site.baseurl }}/species-reviews/disspi) | saltgrass | *Distichlis spicata* | 2006 |
-| [SPAPAT]({{ site.baseurl }}/species-reviews/spapat) | saltmeadow cordgrass | *Spartina patens* | 1991 |
-| [ACAILI]({{ site.baseurl }}/species-reviews/acaili) | San Diego thorn-mint | *Acanthomintha ilicifolia* | 2006 |
-| [ANDHAL]({{ site.baseurl }}/species-reviews/andhal) | sand  bluestem | *Andropogon hallii* | 1988 |
-| [SPOCRY]({{ site.baseurl }}/species-reviews/spocry) | sand dropseed | *Sporobolus cryptandrus* | 2000 |
-| [CERERI]({{ site.baseurl }}/species-reviews/cereri) | sand heath | *Ceratiola ericoides* | 1992 |
-| [PINCLA]({{ site.baseurl }}/species-reviews/pincla) | sand pine | *Pinus clausa* | 1992 |
-| [ARTFIL]({{ site.baseurl }}/species-reviews/artfil) | sand sagebrush | *Artemisia filifolia* | 2003 |
-| [POASEC]({{ site.baseurl }}/species-reviews/poasec) | Sandberg bluegrass | *Poa secunda* | 1997 |
-| [PRUPUM]({{ site.baseurl }}/species-reviews/prupum) | sandcherry | *Prunus pumila* | 2006 |
-| [ANCA]({{ site.baseurl }}/species-reviews/anca) | sandhill crane | *Antigone canadensis* | 2009 |
-| [HESSAR]({{ site.baseurl }}/species-reviews/hessar) | Sargent's cypress | *Hesperocyparis sargentii* | 1994 |
-| [AMEALN]({{ site.baseurl }}/species-reviews/amealn) | Saskatoon serviceberry | *Amelanchier alnifolia* | 1997 |
-| [SASALB]({{ site.baseurl }}/species-reviews/sasalb) | sassafras | *Sassafras albidum* | 1993 |
-| [SMIBON]({{ site.baseurl }}/species-reviews/smibon) | saw greenbrier | *Smilax bona-nox* | 1994 |
-| [SERREP]({{ site.baseurl }}/species-reviews/serrep) | saw palmetto | *Serenoa repens* | 1991 |
-| [ARTRIG]({{ site.baseurl }}/species-reviews/artrig) | scabland sagebrush | *Artemisia rigida* | 2003 |
-| [CASQ]({{ site.baseurl }}/species-reviews/casq) | scaled quail | *Callipepla squamata* | 1994 |
-| [SPHCOC]({{ site.baseurl }}/species-reviews/sphcoc) | scarlet globemallow | *Sphaeralcea coccinea* | 2006 |
-| [QUECOC]({{ site.baseurl }}/species-reviews/quecoc) | scarlet oak | *Quercus coccinea* | 1992 |
-| [PLESCH]({{ site.baseurl }}/species-reviews/plesch) | Schreber's big red stem moss | *Pleurozium schreberi* | 1992 |
-| [PINSYL]({{ site.baseurl }}/species-reviews/pinsyl) | Scots pine | *Pinus sylvestris* | 1993 |
-| [SALSCO]({{ site.baseurl }}/species-reviews/salsco) | Scouler's willow | *Salix scouleriana* | 2001 |
-| [CORAUR]({{ site.baseurl }}/species-reviews/coraur) | scrambled eggs | *Corydalis aurea* | 1993 |
-| [PROPUB]({{ site.baseurl }}/species-reviews/propub) | screwbean mesquite | *Prosopis pubescens* | 2005 |
-| [UNIPAN]({{ site.baseurl }}/species-reviews/unipan) | seaoats | *Uniola paniculata* | 1994 |
-| [LESCUN]({{ site.baseurl }}/species-reviews/lescun) | sericea lespedeza | *Lespedeza cuneata* | 2010 |
-| [ATRCON]({{ site.baseurl }}/species-reviews/atrcon) | shadscale saltbush | *Atriplex confertifolia* | 2001 |
-| [CAROVA]({{ site.baseurl }}/species-reviews/carova) | shagbark hickory | *Carya ovata* | 1991 |
-| [ACST]({{ site.baseurl }}/species-reviews/acst) | sharp-shinned hawk | *Accipiter striatus* | 1994 |
-| [TYPH]({{ site.baseurl }}/species-reviews/typh) | sharp-tailed grouse | *Tympanuchus phasianellus* | 1994 |
-| [HEPNOBA]({{ site.baseurl }}/species-reviews/hepnoba) | sharplobe hepatica | *Hepatica nobilis var. acuta* | 1992 |
-| [CARVAG]({{ site.baseurl }}/species-reviews/carvag) | sheathed sedge | *Carex vaginata* | 1994 |
-| [KALANG]({{ site.baseurl }}/species-reviews/kalang) | sheep laurel | *Kalmia angustifolia* | 1991 |
-| [CASSPP]({{ site.baseurl }}/species-reviews/casspp) | sheoaks: river sheoak, beach sheoak, gray sheoak | *Casuarina spp.: Casuarina cunninghamiana, C. equisetifolia, C. glauca* | 1992 |
-| [SALLUC]({{ site.baseurl }}/species-reviews/salluc) | shining willow | *Salix lucida* | 2015 |
-| [VACMYS]({{ site.baseurl }}/species-reviews/vacmys) | shiny blueberry | *Vaccinium myrsinites* | 1990 |
-| [PINCONC]({{ site.baseurl }}/species-reviews/pinconc) | shore pine | *Pinus contorta var. contorta* | 1993 |
-| [ASFL]({{ site.baseurl }}/species-reviews/asfl) | short-eared owl | *Asio flammeus* | 1994 |
-| [SALBRA]({{ site.baseurl }}/species-reviews/salbra) | shortfruit willow | *Salix brachycarpa* | 1993 |
-| [PINECH]({{ site.baseurl }}/species-reviews/pinech) | shortleaf pine | *Pinus echinata* | 1992 |
-| [TETSPI]({{ site.baseurl }}/species-reviews/tetspi) | shortspine horsebrush | *Tetradymia spinosa* | 2002 |
-| [ASCSPE]({{ site.baseurl }}/species-reviews/ascspe) | showy milkweed | *Asclepias speciosa* | 2005 |
-| [LESBIC]({{ site.baseurl }}/species-reviews/lesbic) | shrub lespedeza | *Lespedeza bicolor* | 2010 |
-| [DASFRUF]({{ site.baseurl }}/species-reviews/dasfruf) | shrubby cinquefoil | *Dasiphora fruticosa subsp. floribunda* | 2001 |
-| [QUESHU]({{ site.baseurl }}/species-reviews/queshu) | Shumard oak | *Quercus shumardii* | 1993 |
-| [BOUCUR]({{ site.baseurl }}/species-reviews/boucur) | sideoats grama | *Bouteloua curtipendula* | 2003 |
-| [RIBROE]({{ site.baseurl }}/species-reviews/ribroe) | Sierra gooseberry | *Ribes roezlii* | 2006 |
-| [PINCONM]({{ site.baseurl }}/species-reviews/pinconm) | Sierra lodgepole pine | *Pinus contorta var. murrayana* | 1993 |
-| [NEYREY]({{ site.baseurl }}/species-reviews/neyrey) | silkreed | *Neyraudia reynaudiana* | 2010 |
-| [ALBJUL]({{ site.baseurl }}/species-reviews/albjul) | silktree | *Albizia julibrissin* | 2010 |
-| [LUPSER]({{ site.baseurl }}/species-reviews/lupser) | silky lupine | *Lupinus sericeus* | 1993 |
-| [ZUCBRA]({{ site.baseurl }}/species-reviews/zucbra) | siltbush | *Zuckia brandegeei* | 2008 |
-| [SHEARG]({{ site.baseurl }}/species-reviews/shearg) | silver buffaloberry | *Shepherdia argentea* | 1995 |
-| [ACESAH]({{ site.baseurl }}/species-reviews/acesah) | silver maple | *Acer saccharinum* | 1994 |
-| [ARTCAN]({{ site.baseurl }}/species-reviews/artcan) | silver sagebrush | *Artemisia cana* | 2002 |
-| [ELACOM]({{ site.baseurl }}/species-reviews/elacom) | silverberry | *Elaeagnus commutata* | 1994 |
-| [FRAANO]({{ site.baseurl }}/species-reviews/fraano) | singleleaf ash | *Fraxinus anomala* | 1993 |
-| [PINMON]({{ site.baseurl }}/species-reviews/pinmon) | singleleaf pinyon | *Pinus monophylla* | 2001 |
-| [ALNVIRS]({{ site.baseurl }}/species-reviews/alnvirs) | Sitka alder | *Alnus viridis subsp. sinuata* | 1989 |
-| [PICSIT]({{ site.baseurl }}/species-reviews/picsit) | Sitka spruce | *Picea sitchensis* | 1992 |
-| [BOUBAR]({{ site.baseurl }}/species-reviews/boubar) | sixweeks grama | *Bouteloua barbata* | 2005 |
-| [VULOCT]({{ site.baseurl }}/species-reviews/vuloct) | sixweeks grass | *Vulpia octoflora* | 2006 |
-| [RHUTRI]({{ site.baseurl }}/species-reviews/rhutri) | skunkbush sumac | *Rhus trilobata* | 2004 |
-| [PINELL]({{ site.baseurl }}/species-reviews/pinell) | slash pine | *Pinus elliottii* | 1992 |
-| [VERHYB]({{ site.baseurl }}/species-reviews/verhyb) | slender bunchflower | *Veratrum hybridum* | 1994 |
-| [DESELO]({{ site.baseurl }}/species-reviews/deselo) | slender hairgrass | *Deschampsia elongata* | 1994 |
-| [SCHTEN]({{ site.baseurl }}/species-reviews/schten) | slender little bluestem | *Schizachyrium tenerum* | 1994 |
-| [ELYTRA]({{ site.baseurl }}/species-reviews/elytra) | slender wheatgrass | *Elymus trachycaulus* | 1992 |
-| [DODLEP]({{ site.baseurl }}/species-reviews/dodlep) | slenderhorn spineflower | *Dodecahema leptoceras* | 2013 |
-| [TRIMUT]({{ site.baseurl }}/species-reviews/trimut) | slim tridens | *Tridens muticus* | 1992 |
-| [ULMRUB]({{ site.baseurl }}/species-reviews/ulmrub) | slippery elm | *Ulmus rubra* | 1993 |
-| [SANMIN]({{ site.baseurl }}/species-reviews/sanmin) | small burnet | *Sanguisorba minor* | 2008 |
-| [CAMQUA]({{ site.baseurl }}/species-reviews/camqua) | small camas | *Camassia quamash* | 1993 |
-| [VACOXY]({{ site.baseurl }}/species-reviews/vacoxy) | small cranberry | *Vaccinium oxycoccos* | 1992 |
-| [VULMIC]({{ site.baseurl }}/species-reviews/vulmic) | small sixweeks grass | *Vulpia microstachys* | 2006 |
-| [ISOSPP]({{ site.baseurl }}/species-reviews/isospp) | small whorled pogonia, large whorled pogonia | *Isotria medeoloides, I. verticillata* | 2019 |
-| [ANTPAR]({{ site.baseurl }}/species-reviews/antpar) | small-leaf pussytoes | *Antennaria parvifolia* | 2011 |
-| [RUBCAN]({{ site.baseurl }}/species-reviews/rubcan) | smooth blackberry | *Rubus canadensis* | 1994 |
-| [SYMLAE]({{ site.baseurl }}/species-reviews/symlae) | smooth blue aster | *Symphyotrichum laeve* | 1992 |
-| [BROINE]({{ site.baseurl }}/species-reviews/broine) | smooth brome | *Bromus inermis* | 1996 |
-| [SPAALT]({{ site.baseurl }}/species-reviews/spaalt) | smooth cordgrass | *Spartina alterniflora* | 1991 |
-| [RHUGLA]({{ site.baseurl }}/species-reviews/rhugla) | smooth sumac | *Rhus glabra* | 2000 |
-| [ANCE]({{ site.baseurl }}/species-reviews/ance) | snow goose | *Anser caerulescens* | 1993 |
-| [CEAVEL]({{ site.baseurl }}/species-reviews/ceavel) | snowbrush ceanothus | *Ceanothus velutinus* | 2001 |
-| [LEAM]({{ site.baseurl }}/species-reviews/leam) | snowshoe hare | *Lepus americanus* | 1995 |
-| [YUCELA]({{ site.baseurl }}/species-reviews/yucela) | soaptree yucca | *Yucca elata* | 2001 |
-| [YUCGLA]({{ site.baseurl }}/species-reviews/yucgla) | soapweed yucca | *Yucca glauca* | 2005 |
-| [BROHOR]({{ site.baseurl }}/species-reviews/brohor) | soft brome | *Bromus hordeaceus* | 1998 |
-| [SCHTAB]({{ site.baseurl }}/species-reviews/schtab) | softstem bulrush | *Schoenoplectus tabernaemontani* | 1993 |
-| [COLTEN]({{ site.baseurl }}/species-reviews/colten) | soil jelly lichen | *Collema tenax* | 1993 |
-| [QUETUR]({{ site.baseurl }}/species-reviews/quetur) | Sonoran scrub oak | *Quercus turbinella* | 1999 |
-| [POCA]({{ site.baseurl }}/species-reviews/poca) | sora | *Porzana carolina* | 2006 |
-| [OXYARB]({{ site.baseurl }}/species-reviews/oxyarb) | sourwood | *Oxydendrum arboreum* | 1992 |
-| [JUGCAL]({{ site.baseurl }}/species-reviews/jugcal) | southern California walnut | *Juglans californica* | 1993 |
-| [QUEVIR]({{ site.baseurl }}/species-reviews/quevir) | southern live oak | *Quercus virginiana* | 1992 |
-| [MAGGRA]({{ site.baseurl }}/species-reviews/maggra) | southern magnolia | *Magnolia grandiflora* | 1991 |
-| [QUEFAL]({{ site.baseurl }}/species-reviews/quefal) | southern red oak, cherrybark oak | *Quercus falcata, Q. pagoda* | 1992 |
-| [ARTABR]({{ site.baseurl }}/species-reviews/artabr) | southernwood | *Artemisia abrotanum* | 1998 |
-| [PINPONS]({{ site.baseurl }}/species-reviews/pinpons) | southwestern ponderosa pine, Rocky Mountain ponderosa pine | *Pinus ponderosa var. brachyptera, P. p. var. scopulorum* | 2003 |
-| [PINSTO]({{ site.baseurl }}/species-reviews/pinsto) | southwestern white pine | *Pinus strobiformis* | 2025 |
-| [SPAJUN]({{ site.baseurl }}/species-reviews/spajun) | Spanish broom | *Spartium junceum* | 2005 |
-| [AGREXA]({{ site.baseurl }}/species-reviews/agrexa) | spike bentgrass | *Agrostis exarata* | 1994 |
-| [LEUKIN]({{ site.baseurl }}/species-reviews/leukin) | spike fescue | *Leucopoa kingii* | 2005 |
-| [MUHGLO]({{ site.baseurl }}/species-reviews/muhglo) | spiked muhly | *Muhlenbergia glomerata* | 2011 |
-| [TETCAN]({{ site.baseurl }}/species-reviews/tetcan) | spineless horsebrush | *Tetradymia canescens* | 2001 |
-| [GRASPI]({{ site.baseurl }}/species-reviews/graspi) | spiny hopsage | *Grayia spinosa* | 1999 |
-| [PHLHOO]({{ site.baseurl }}/species-reviews/phlhoo) | spiny phlox | *Phlox hoodii* | 2006 |
-| [HYLSPL]({{ site.baseurl }}/species-reviews/hylspl) | splendid feather moss | *Hylocomium splendens* | 1992 |
-| [ANDTERT]({{ site.baseurl }}/species-reviews/andtert) | split bluestem | *Andropogon ternarius var. ternarius* | 1994 |
-| [GERMAC]({{ site.baseurl }}/species-reviews/germac) | spotted geranium | *Geranium maculatum* | 1992 |
-| [CENSTOM]({{ site.baseurl }}/species-reviews/censtom) | spotted knapweed | *Centaurea stoebe subsp. micranthos* | 2021 |
-| [STOC]({{ site.baseurl }}/species-reviews/stoc) | spotted owl | *Strix occidentalis* | 2007 |
-| [APOAND]({{ site.baseurl }}/species-reviews/apoand) | spreading dogbane | *Apocynum androsaemifolium* | 2005 |
-| [MONDIF]({{ site.baseurl }}/species-reviews/mondif) | spreading minerslettuce | *Montia diffusa* | 1993 |
-| [PINGLA]({{ site.baseurl }}/species-reviews/pingla) | spruce pine | *Pinus glabra* | 1993 |
-| [VIBEDU]({{ site.baseurl }}/species-reviews/vibedu) | squashberry | *Viburnum edule* | 1992 |
-| [ELYELY]({{ site.baseurl }}/species-reviews/elyely) | squirreltail | *Elymus elymoides* | 2001 |
-| [RHUTYP]({{ site.baseurl }}/species-reviews/rhutyp) | staghorn sumac | *Rhus typhina* | 1994 |
-| [PURSTA]({{ site.baseurl }}/species-reviews/pursta) | Stansbury cliffrose | *Purshia stansburiana* | 1995 |
-| [MAISTE]({{ site.baseurl }}/species-reviews/maiste) | starry false lily of the valley | *Maianthemum stellatum* | 1992 |
-| [POTGLA]({{ site.baseurl }}/species-reviews/potgla) | sticky cinquefoil | *Potentilla glandulosa* | 2008 |
-| [ARCVIS]({{ site.baseurl }}/species-reviews/arcvis) | sticky whiteleaf manzanita | *Arctostaphylos viscida* | 2015 |
-| [GALAPA]({{ site.baseurl }}/species-reviews/galapa) | stickywilly | *Galium aparine* | 2005 |
-| [LYCANN]({{ site.baseurl }}/species-reviews/lycann) | stiff clubmoss | *Lycopodium annotinum* | 1993 |
-| [URTDIO]({{ site.baseurl }}/species-reviews/urtdio) | stinging nettle | *Urtica dioica* | 1995 |
-| [PAEFOE]({{ site.baseurl }}/species-reviews/paefoe) | stinkvine | *Paederia foetida* | 2009 |
-| [ILIRIV]({{ site.baseurl }}/species-reviews/iliriv) | streambank wild hollyhock | *Iliamna rivularis* | 1993 |
-| [ACEPEN]({{ site.baseurl }}/species-reviews/acepen) | striped maple | *Acer pensylvanicum* | 1993 |
-| [BOLROB]({{ site.baseurl }}/species-reviews/bolrob) | sturdy bulrush | *Bolboschoenus robustus* | 1991 |
-| [ABILAS]({{ site.baseurl }}/species-reviews/abilas) | subalpine fir | *Abies lasiocarpa* | 1991 |
-| [LARLYA]({{ site.baseurl }}/species-reviews/larlya) | subalpine larch | *Larix lyallii* | 1991 |
-| [PEDHYP]({{ site.baseurl }}/species-reviews/pedhyp) | subterranean Indian breadroot | *Pediomelum hypogaeum* | 1993 |
-| [ACESAC]({{ site.baseurl }}/species-reviews/acesac) | sugar maple | *Acer saccharum* | 1991 |
-| [PINLAM]({{ site.baseurl }}/species-reviews/pinlam) | sugar pine | *Pinus lambertiana* | 1992 |
-| [CELLAE]({{ site.baseurl }}/species-reviews/cellae) | sugarberry | *Celtis laevigata* | 1993 |
-| [POTREC]({{ site.baseurl }}/species-reviews/potrec) | sulfur cinquefoil | *Potentilla recta* | 2003 |
-| [VITAES]({{ site.baseurl }}/species-reviews/vitaes) | summer grape | *Vitis aestivalis* | 1994 |
-| [LUPPER]({{ site.baseurl }}/species-reviews/lupper) | sundial lupine | *Lupinus perennis* | 2006 |
-| [BUSW]({{ site.baseurl }}/species-reviews/busw) | Swainson's hawk | *Buteo swainsoni* | 1994 |
-| [LISW]({{ site.baseurl }}/species-reviews/lisw) | Swainson's warbler | *Limnothlypis swainsonii* | 2006 |
-| [CYNSPP]({{ site.baseurl }}/species-reviews/cynspp) | swallow-worts: Louise's swallow-wort, European swallow-wort | *Cynanchum spp.: Cynanchum louiseae, C. rossicum* | 2009 |
-| [QUESPP3]({{ site.baseurl }}/species-reviews/quespp3) | swamp chestnut oak, chestnut oak | *Quercus michauxii, Q. montana* | 1992 |
-| [EUBRAC]({{ site.baseurl }}/species-reviews/eubrac) | swamp doghobble | *Eubotrys racemosus* | 1992 |
-| [ASCINC]({{ site.baseurl }}/species-reviews/ascinc) | swamp milkweed | *Asclepias incarnata* | 1992 |
-| [CYRRAC]({{ site.baseurl }}/species-reviews/cyrrac) | swamp titi | *Cyrilla racemiflora* | 1992 |
-| [QUEBIC]({{ site.baseurl }}/species-reviews/quebic) | swamp white oak | *Quercus bicolor* | 1992 |
-| [MAGVIR]({{ site.baseurl }}/species-reviews/magvir) | sweetbay | *Magnolia virginiana* | 2008 |
-| [MELSPP]({{ site.baseurl }}/species-reviews/melspp) | sweetclovers: white sweetclover, yellow sweetclover | *Melilotus spp.: Melilotus alba, M. officinalis* | 2010 |
-| [COMPER]({{ site.baseurl }}/species-reviews/comper) | sweetfern | *Comptonia peregrina* | 1993 |
-| [HIEODO]({{ site.baseurl }}/species-reviews/hieodo) | sweetgrass | *Hierochloe odorata* | 1994 |
-| [LIQSTY]({{ site.baseurl }}/species-reviews/liqsty) | sweetgum | *Liquidambar styraciflua* | 1992 |
-| [VUVE]({{ site.baseurl }}/species-reviews/vuve) | swift fox | *Vulpes velox* | 2009 |
-| [PANVIR]({{ site.baseurl }}/species-reviews/panvir) | switchgrass | *Panicum virgatum* | 1993 |
-| [PINPUN]({{ site.baseurl }}/species-reviews/pinpun) | Table Mountain pine | *Pinus pungens* | 2007 |
-| [LUPCAU]({{ site.baseurl }}/species-reviews/lupcau) | tailcup lupine | *Lupinus caudatus* | 1993 |
-| [MERPAN]({{ site.baseurl }}/species-reviews/merpan) | tall bluebells | *Mertensia paniculata* | 2007 |
-| [SCHARU]({{ site.baseurl }}/species-reviews/scharu) | tall fescue | *Schedonorus arundinaceus* | 1995 |
-| [HIEPIO]({{ site.baseurl }}/species-reviews/hiepio) | tall hawkweed | *Hieracium piloselloides* | 2011 |
-| [SISALT]({{ site.baseurl }}/species-reviews/sisalt) | tall tumblemustard | *Sisymbrium altissimum* | 2003 |
-| [LARLAR]({{ site.baseurl }}/species-reviews/larlar) | tamarack | *Larix laricina* | 1991 |
-| [TAMSPP]({{ site.baseurl }}/species-reviews/tamspp) | tamarisk: five-stamen tamarisk, French tamarisk, small-flowered tamarisk, saltcedar | *Tamarix spp.: Tamarix chinensis, T. gallica, T. parviflora, T. ramosissima* | 2003 |
-| [NOTDEN]({{ site.baseurl }}/species-reviews/notden) | tanoak | *Notholithocarpus densiflorus* | 2008 |
-| [DICACU]({{ site.baseurl }}/species-reviews/dicacu) | tapered rosette grass | *Dichanthelium acuminatum* | 1995 |
-| [ARTDRA]({{ site.baseurl }}/species-reviews/artdra) | tarragon | *Artemisia dracunculus* | 2005 |
-| [EUCGLO]({{ site.baseurl }}/species-reviews/eucglo) | Tasmanian bluegum | *Eucalyptus globulus* | 1993 |
-| [SALPUL]({{ site.baseurl }}/species-reviews/salpul) | tealeaf willow | *Salix pulchra* | 1991 |
-| [DIPSPP]({{ site.baseurl }}/species-reviews/dipspp) | teasel: Fuller's teasel, cutleaf teasel | *Dipsacus fullonum, D. laciniatus* | 2009 |
-| [HESFOR]({{ site.baseurl }}/species-reviews/hesfor) | Tecate cypress | *Hesperocyparis forbesii* | 1994 |
-| [ARBXAL]({{ site.baseurl }}/species-reviews/arbxal) | Texas madrone | *Arbutus xalapensis* | 1990 |
-| [DIOTEX]({{ site.baseurl }}/species-reviews/diotex) | Texas persimmon | *Diospyros texana* | 1994 |
-| [ELYLAN]({{ site.baseurl }}/species-reviews/elylan) | thickspike wheatgrass | *Elymus lanceolatus* | 2002 |
-| [RUBPAR]({{ site.baseurl }}/species-reviews/rubpar) | thimbleberry | *Rubus parviflorus* | 2012 |
-| [ERIVIR]({{ site.baseurl }}/species-reviews/erivir) | thinleaf cottonsedge | *Eriophorum viridicarinatum* | 2013 |
-| [VACMEM]({{ site.baseurl }}/species-reviews/vacmem) | thinleaf huckleberry | *Vaccinium membranaceum* | 2000 |
-| [ELAPUN]({{ site.baseurl }}/species-reviews/elapun) | thorny-olive | *Elaeagnus pungens* | 2011 |
-| [CARFIL]({{ site.baseurl }}/species-reviews/carfil) | threadleaf sedge | *Carex filifolia* | 2006 |
-| [GUTMIC]({{ site.baseurl }}/species-reviews/gutmic) | threadleaf snakeweed | *Gutierrezia microcephala* | 1994 |
-| [COPTRI]({{ site.baseurl }}/species-reviews/coptri) | threeleaf goldthread | *Coptis trifolia* | 1992 |
-| [ARTTRP]({{ site.baseurl }}/species-reviews/arttrp) | threetip sagebrush | *Artemisia tripartita* | 1999 |
-| [FESTHU]({{ site.baseurl }}/species-reviews/festhu) | Thurber's fescue | *Festuca thurberi* | 2009 |
-| [ACHTHU]({{ site.baseurl }}/species-reviews/achthu) | Thurber's needlegrass | *Achnatherum thurberianum* | 2000 |
-| [DANINT]({{ site.baseurl }}/species-reviews/danint) | timber oatgrass | *Danthonia intermedia* | 1999 |
-| [CRHO]({{ site.baseurl }}/species-reviews/crho) | timber rattlesnake | *Crotalus horridus* | 2008 |
-| [PHLPRA]({{ site.baseurl }}/species-reviews/phlpra) | timothy | *Phleum pratense* | 1993 |
-| [PLEMUT]({{ site.baseurl }}/species-reviews/plemut) | tobosagrass | *Pleuraphis mutica* | 2012 |
-| [PANREP]({{ site.baseurl }}/species-reviews/panrep) | torpedo grass | *Panicum repens* | 2011 |
-| [PINTOR]({{ site.baseurl }}/species-reviews/pintor) | Torrey pine | *Pinus torreyana* | 1993 |
-| [LYCTOR]({{ site.baseurl }}/species-reviews/lyctor) | Torrey wolfberry | *Lycium torreyi* | 1994 |
-| [URTO]({{ site.baseurl }}/species-reviews/urto) | Townsend's ground squirrel | *Urocitellus townsendii* | 1996 |
-| [HETARB]({{ site.baseurl }}/species-reviews/hetarb) | toyon | *Heteromeles arbutifolia* | 1990 |
-| [AILALT]({{ site.baseurl }}/species-reviews/ailalt) | tree-of-heaven | *Ailanthus altissima* | 2010 |
-| [AMBDEL]({{ site.baseurl }}/species-reviews/ambdel) | triangle bur ragweed | *Ambrosia deltoidea* | 1994 |
-| [SOLVIA]({{ site.baseurl }}/species-reviews/solvia) | tropical soda apple | *Solanum viarum* | 2009 |
-| [CYBU]({{ site.baseurl }}/species-reviews/cybu) | trumpeter swan | *Cygnus buccinator* | 1993 |
-| [DESCES]({{ site.baseurl }}/species-reviews/desces) | tufted hairgrass | *Deschampsia cespitosa* | 1995 |
-| [ELYMAC]({{ site.baseurl }}/species-reviews/elymac) | tufted wheatgrass | *Elymus macrourus* | 1993 |
-| [LIRTUL]({{ site.baseurl }}/species-reviews/lirtul) | tuliptree | *Liriodendron tulipifera* | 1991 |
-| [CYCO]({{ site.baseurl }}/species-reviews/cyco) | tundra swan | *Cygnus columbianus* | 1993 |
-| [QUELAE]({{ site.baseurl }}/species-reviews/quelae) | turkey oak | *Quercus laevis* | 1992 |
-| [THAMON]({{ site.baseurl }}/species-reviews/thamon) | turpentinebroom | *Thamnosma montana* | 1994 |
-| [ERIVAG]({{ site.baseurl }}/species-reviews/erivag) | tussock cottongrass | *Eriophorum vaginatum* | 2014 |
-| [LINBOR]({{ site.baseurl }}/species-reviews/linbor) | twinflower | *Linnaea borealis* | 1993 |
-| [TORRUR]({{ site.baseurl }}/species-reviews/torrur) | twisted moss | *Tortula ruralis* | 1993 |
-| [PINEDU]({{ site.baseurl }}/species-reviews/pinedu) | twoneedle pinyon | *Pinus edulis* | 2002 |
-| [RATCOL]({{ site.baseurl }}/species-reviews/ratcol) | upright prairie coneflower | *Ratibida columnifera* | 1994 |
-| [CARSTR]({{ site.baseurl }}/species-reviews/carstr) | upright sedge | *Carex stricta* | 1994 |
-| [LONUTA]({{ site.baseurl }}/species-reviews/lonuta) | Utah honeysuckle | *Lonicera utahensis* | 1993 |
-| [JUNOST]({{ site.baseurl }}/species-reviews/junost) | Utah juniper | *Juniperus osteosperma* | 1999 |
-| [AMEUTA]({{ site.baseurl }}/species-reviews/ameuta) | Utah serviceberry | *Amelanchier utahensis* | 1999 |
-| [CEAOPH]({{ site.baseurl }}/species-reviews/ceaoph) | Vail Lake ceanothus | *Ceanothus ophiochilus* | 2012 |
-| [QUELOB]({{ site.baseurl }}/species-reviews/quelob) | valley oak | *Quercus lobata* | 1992 |
-| [PROVEL]({{ site.baseurl }}/species-reviews/provel) | velvet mesquite | *Prosopis velutina* | 1990 |
-| [VACMYT]({{ site.baseurl }}/species-reviews/vacmyt) | velvetleaf huckleberry | *Vaccinium myrtilloides* | 1990 |
-| [VENDUB]({{ site.baseurl }}/species-reviews/vendub) | ventenata | *Ventenata dubia* | 2022 |
-| [ACECIR]({{ site.baseurl }}/species-reviews/acecir) | vine maple | *Acer circinatum* | 1989 |
-| [PANOBT]({{ site.baseurl }}/species-reviews/panobt) | vine-mesquite | *Panicum obtusum* | 1991 |
-| [WOOVIR]({{ site.baseurl }}/species-reviews/woovir) | Virginia chainfern | *Woodwardia virginica* | 1991 |
-| [PARQUI]({{ site.baseurl }}/species-reviews/parqui) | Virginia creeper | *Parthenocissus quinquefolia* | 1991 |
-| [PINVIR]({{ site.baseurl }}/species-reviews/pinvir) | Virginia pine | *Pinus virginiana* | 1993 |
-| [PINPONW]({{ site.baseurl }}/species-reviews/pinponw) | Washoe pine | *Pinus ponderosa var. washoensis* | 2018 |
-| [BETOCC]({{ site.baseurl }}/species-reviews/betocc) | water birch | *Betula occidentalis* | 2012 |
-| [QUENIG]({{ site.baseurl }}/species-reviews/quenig) | water oak | *Quercus nigra* | 1992 |
-| [CARAQU]({{ site.baseurl }}/species-reviews/caraqu) | water sedge | *Carex aquatilis* | 2006 |
-| [CEAFOL]({{ site.baseurl }}/species-reviews/ceafol) | wavyleaf ceanothus | *Ceanothus foliosus* | 1992 |
-| [CHLPOM]({{ site.baseurl }}/species-reviews/chlpom) | wavyleaf soap plant | *Chlorogalum pomeridianum* | 2015 |
-| [RIBCER]({{ site.baseurl }}/species-reviews/ribcer) | wax currant | *Ribes cereum* | 1995 |
-| [MORCER]({{ site.baseurl }}/species-reviews/morcer) | wax myrtle | *Morella cerifera* | 1991 |
-| [ERACUR]({{ site.baseurl }}/species-reviews/eracur) | weeping lovegrass | *Eragrostis curvula* | 2009 |
-| [SIME]({{ site.baseurl }}/species-reviews/sime) | western bluebird | *Sialia mexicana* | 1995 |
-| [PTEAQU]({{ site.baseurl }}/species-reviews/pteaqu) | western brackenfern | *Pteridium aquilinum* | 1990 |
-| [TSUHET]({{ site.baseurl }}/species-reviews/tsuhet) | western hemlock | *Tsuga heterophylla* | 1992 |
-| [JUNOCC]({{ site.baseurl }}/species-reviews/junocc) | western juniper | *Juniperus occidentalis* | 2019 |
-| [LAROCC]({{ site.baseurl }}/species-reviews/larocc) | western larch | *Larix occidentalis* | 2002 |
-| [DELOCC]({{ site.baseurl }}/species-reviews/delocc) | western larkspur | *Delphinium x occidentale* | 1993 |
-| [SORSIT]({{ site.baseurl }}/species-reviews/sorsit) | western mountain-ash | *Sorbus sitchensis* | 1993 |
-| [GYMDRY]({{ site.baseurl }}/species-reviews/gymdry) | western oakfern | *Gymnocarpium dryopteris* | 1993 |
-| [GOOOBL]({{ site.baseurl }}/species-reviews/gooobl) | western rattlesnake plantain | *Goodyera oblongifolia* | 2006 |
-| [THUPLI]({{ site.baseurl }}/species-reviews/thupli) | western redcedar | *Thuja plicata* | 1992 |
-| [EURCON]({{ site.baseurl }}/species-reviews/eurcon) | western showy aster | *Eurybia conspicua* | 1993 |
-| [SYMOCC]({{ site.baseurl }}/species-reviews/symocc) | western snowberry | *Symphoricarpos occidentalis* | 2007 |
-| [SAPSAPD]({{ site.baseurl }}/species-reviews/sapsapd) | western soapberry | *Sapindus saponaria var. drummondii* | 1990 |
-| [POLMUN]({{ site.baseurl }}/species-reviews/polmun) | western swordfern | *Polystichum munitum* | 2015 |
-| [PILU]({{ site.baseurl }}/species-reviews/pilu) | western tanager | *Piranga ludoviciana* | 2006 |
-| [DESPIN]({{ site.baseurl }}/species-reviews/despin) | western tansymustard | *Descurainia pinnata* | 2003 |
-| [ANBO]({{ site.baseurl }}/species-reviews/anbo) | western toad | *Anaxyrus boreas* | 1994 |
-| [PASSMI]({{ site.baseurl }}/species-reviews/passmi) | western wheatgrass | *Pascopyrum smithii* | 1999 |
-| [PINMOT]({{ site.baseurl }}/species-reviews/pinmot) | western white pine | *Pinus monticola* | 1992 |
-| [NEAL]({{ site.baseurl }}/species-reviews/neal) | western white-throated woodrat | *Neotoma albigula* | 2008 |
-| [ALNRHO]({{ site.baseurl }}/species-reviews/alnrho) | white alder | *Alnus rhombifolia* | 2014 |
-| [FRAAME]({{ site.baseurl }}/species-reviews/fraame) | white ash | *Fraxinus americana* | 1991 |
-| [ENCFAR]({{ site.baseurl }}/species-reviews/encfar) | white brittlebush | *Encelia farinosa* | 2024 |
-| [TRIREP]({{ site.baseurl }}/species-reviews/trirep) | white clover | *Trifolium repens* | 1993 |
-| [ABICON]({{ site.baseurl }}/species-reviews/abicon) | white fir | *Abies concolor* | 2001 |
-| [HIEALB]({{ site.baseurl }}/species-reviews/hiealb) | white hawkweed | *Hieracium albiflorum* | 2007 |
-| [OXYSER]({{ site.baseurl }}/species-reviews/oxyser) | white locoweed | *Oxytropis sericea* | 1993 |
-| [MORALB]({{ site.baseurl }}/species-reviews/moralb) | white mulberry | *Morus alba* | 2009 |
-| [QUEALB]({{ site.baseurl }}/species-reviews/quealb) | white oak | *Quercus alba* | 1991 |
-| [KRABIC]({{ site.baseurl }}/species-reviews/krabic) | white ratany | *Krameria bicolor* | 2026 |
-| [ARTLUD]({{ site.baseurl }}/species-reviews/artlud) | white sagebrush | *Artemisia ludoviciana* | 2005 |
-| [SPIBET]({{ site.baseurl }}/species-reviews/spibet) | white spirea | *Spiraea betulifolia* | 1991 |
-| [PICGLA]({{ site.baseurl }}/species-reviews/picgla) | white spruce | *Picea glauca* | 2015 |
-| [ODVI]({{ site.baseurl }}/species-reviews/odvi) | white-tailed deer | *Odocoileus virginianus* | 2013 |
-| [PINALB]({{ site.baseurl }}/species-reviews/pinalb) | whitebark pine | *Pinus albicaulis* | 2002 |
-| [VACCON]({{ site.baseurl }}/species-reviews/vaccon) | whitethorn acacia | *Vachellia constricta* | 2004 |
-| [CEACOR]({{ site.baseurl }}/species-reviews/ceacor) | whitethorn ceanothus | *Ceanothus cordulatus* | 2006 |
-| [GRAM]({{ site.baseurl }}/species-reviews/gram) | whooping crane | *Grus americana* | 1993 |
-| [VACMYR]({{ site.baseurl }}/species-reviews/vacmyr) | whortleberry | *Vaccinium myrtillus* | 1990 |
-| [ARCLAT]({{ site.baseurl }}/species-reviews/arclat) | wideleaf polargrass | *Arctagrostis latifolia* | 1991 |
-| [ARANUD]({{ site.baseurl }}/species-reviews/aranud) | wild sarsaparilla | *Aralia nudicaulis* | 1993 |
-| [MEGA]({{ site.baseurl }}/species-reviews/mega) | wild turkey | *Meleagris gallopavo* | 1992 |
-| [QUEPHE]({{ site.baseurl }}/species-reviews/quephe) | willow oak | *Quercus phellos* | 1992 |
-| [RUBPHO]({{ site.baseurl }}/species-reviews/rubpho) | wine raspberry | *Rubus phoenicolasius* | 2009 |
-| [RHUCOP]({{ site.baseurl }}/species-reviews/rhucop) | winged sumac | *Rhus copallinum* | 1992 |
-| [EUOFOR]({{ site.baseurl }}/species-reviews/euofor) | winter creeper | *Euonymus fortunei* | 2009 |
-| [KRALAN]({{ site.baseurl }}/species-reviews/kralan) | winterfat | *Krascheninnikovia lanata* | 1995 |
-| [WISSPP]({{ site.baseurl }}/species-reviews/wisspp) | wisteria: Japanese wisteria, Chinese wisteria | *Wisteria spp.: Wisteria floribunda, W. sinensis* | 2009 |
-| [GUGU]({{ site.baseurl }}/species-reviews/gugu) | wolverine | *Gulo gulo* | 2008 |
-| [AISP]({{ site.baseurl }}/species-reviews/aisp) | wood duck | *Aix sponsa* | 1993 |
-| [EQUSYL]({{ site.baseurl }}/species-reviews/equsyl) | wood horsetail | *Equisetum sylvaticum* | 1993 |
-| [DRYSPP]({{ site.baseurl }}/species-reviews/dryspp) | woodferns: mountain woodfern, spinulose woodfern, spreading woodfern, intermediate woodfern | *Dryopteris spp.: Dryopteris campyloptera, D. carthusiana, D. expansa, D. intermedia* | 2008 |
-| [FRAVES]({{ site.baseurl }}/species-reviews/fraves) | woodland strawberry | *Fragaria vesca* | 2007 |
-| [ROSWOO]({{ site.baseurl }}/species-reviews/roswoo) | Woods' rose | *Rosa woodsii* | 2006 |
-| [POTHIP]({{ site.baseurl }}/species-reviews/pothip) | woolly cinquefoil | *Potentilla hippiana* | 2009 |
-| [GARWRI]({{ site.baseurl }}/species-reviews/garwri) | Wright's silktassel | *Garrya wrightii* | 1990 |
-| [ARTTRIW]({{ site.baseurl }}/species-reviews/arttriw) | Wyoming big sagebrush | *Artemisia tridentata subsp. wyomingensis* | 2019 |
-| [DIOSPP]({{ site.baseurl }}/species-reviews/diospp) | yams: water yam, air yam, fiveleaf yam, Chinese yam, Zanzibar yam | *Dioscorea spp.: Dioscorea alata, D. bulbifera, D. pentaphylla, D. polystachya, D. sansibarensis* | 2009 |
-| [ILEVOM]({{ site.baseurl }}/species-reviews/ilevom) | yaupon | *Ilex vomitoria* | 1992 |
-| [ERYGRA]({{ site.baseurl }}/species-reviews/erygra) | yellow avalanche-lily | *Erythronium grandiflorum* | 2021 |
-| [BETALL]({{ site.baseurl }}/species-reviews/betall) | yellow birch | *Betula alleghaniensis* | 1994 |
-| [PARMIC]({{ site.baseurl }}/species-reviews/parmic) | yellow paloverde | *Parkinsonia microphylla* | 2023 |
-| [CHRVIS]({{ site.baseurl }}/species-reviews/chrvis) | yellow rabbitbrush | *Chrysothamnus viscidiflorus* | 1999 |
-| [TRADUB]({{ site.baseurl }}/species-reviews/tradub) | yellow salsify | *Tragopogon dubius* | 2008 |
-| [CENSOL]({{ site.baseurl }}/species-reviews/censol) | yellow starthistle | *Centaurea solstitialis* | 2021 |
-| [SALLUT]({{ site.baseurl }}/species-reviews/sallut) | yellow willow | *Salix lutea* | 1989 |
-| [CALNOO]({{ site.baseurl }}/species-reviews/calnoo) | yellow-cedar | *Callitropsis nootkatensis* | 2025 |
+<div id="species-info" style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;font-size:0.9em;color:#666;">
+  <span id="species-count"></span>
+  <span>
+    Show
+    <select id="per-page" style="padding:2px 4px;border:1px solid #ccc;border-radius:3px;">
+      <option value="50" selected>50</option>
+      <option value="100">100</option>
+      <option value="250">250</option>
+      <option value="0">All</option>
+    </select>
+    per page
+  </span>
+</div>
+
+<table id="species-table">
+<thead><tr><th style="text-align:left">Abbreviation</th><th style="text-align:left">Common Name</th><th style="text-align:left">Scientific Name</th><th style="text-align:left">Year</th></tr></thead>
+<tbody id="species-tbody"></tbody>
+</table>
+
+<div id="pagination" style="display:flex;justify-content:center;align-items:center;gap:8px;margin-top:16px;flex-wrap:wrap;"></div>
+</div>
 
 <script>
-document.getElementById('species-search').addEventListener('input', function() {
-  var filter = this.value.toLowerCase();
-  var rows = document.querySelectorAll('table tbody tr');
-  rows.forEach(function(row) {
-    var text = row.textContent.toLowerCase();
-    row.style.display = text.includes(filter) ? '' : 'none';
+(function() {
+  var BASE = "{{ site.baseurl }}";
+  var DATA = [{"a":"SCAB","c":"Abert's squirrel","s":"Sciurus aberti","y":"1995","k":"scab"},{"a":"ARTABS","c":"absinthium","s":"Artemisia absinthium","y":"1994","k":"artabs"},{"a":"MEFO","c":"acorn woodpecker","s":"Melanerpes formicivorus","y":"2007","k":"mefo"},{"a":"VACALA","c":"Alaska blueberry","s":"Vaccinium alaskaense","y":"1992","k":"vacala"},{"a":"SALFUS","c":"Alaska bog willow","s":"Salix fuscescens","y":"1993","k":"salfus"},{"a":"CERMON","c":"alderleaf mountain-mahogany","s":"Cercocarpus montanus","y":"2006","k":"cermon"},{"a":"MEDSAT","c":"alfalfa","s":"Medicago sativa","y":"1992","k":"medsat"},{"a":"MAHTRI","c":"algerita","s":"Mahonia trifoliolata","y":"1990","k":"mahtri"},{"a":"SPOAIR","c":"alkali sacaton","s":"Sporobolus airoides","y":"2001","k":"spoair"},{"a":"THEMOL","c":"Allegheny Mountain goldenbanner","s":"Thermopsis mollis","y":"1994","k":"themol"},{"a":"JUNDEP","c":"alligator juniper","s":"Juniperus deppeana","y":"1999","k":"jundep"},{"a":"ASTALP","c":"alpine milkvetch","s":"Astragalus alpinus","y":"2007","k":"astalp"},{"a":"HEDALP","c":"alpine sweetvetch","s":"Hedysarum alpinum","y":"2007","k":"hedalp"},{"a":"CORALT","c":"alternateleaf dogwood","s":"Cornus alternifolia","y":"1994","k":"coralt"},{"a":"TATA","c":"American badger","s":"Taxidea taxus","y":"1996","k":"tata"},{"a":"TILAME","c":"American basswood","s":"Tilia americana","y":"1994","k":"tilame"},{"a":"CALAME","c":"American beautyberry","s":"Callicarpa americana","y":"1992","k":"calame"},{"a":"CACA","c":"American beaver","s":"Castor canadensis","y":"1993","k":"caca"},{"a":"FAGGRA","c":"American beech","s":"Fagus grandifolia","y":"1991","k":"faggra"},{"a":"BOBI","c":"American bison","s":"Bos bison","y":"1995","k":"bobi"},{"a":"URAM","c":"American black bear","s":"Ursus americanus","y":"2007","k":"uram"},{"a":"RIBAME","c":"American black currant","s":"Ribes americanum","y":"1995","k":"ribame"},{"a":"ANRU","c":"American black duck","s":"Anas rubripes","y":"1993","k":"anru"},{"a":"DRAPAR","c":"American dragonhead","s":"Dracocephalum parviflorum","y":"1993","k":"drapar"},{"a":"ULMAME","c":"American elm","s":"Ulmus americana","y":"1992","k":"ulmame"},{"a":"CORAME","c":"American hazelnut","s":"Corylus americana","y":"1993","k":"corame"},{"a":"ILEOPA","c":"American holly","s":"Ilex opaca","y":"1991","k":"ileopa"},{"a":"CARCAR","c":"American hornbeam","s":"Carpinus caroliniana","y":"1994","k":"carcar"},{"a":"FASP","c":"American kestrel","s":"Falco sparverius","y":"1994","k":"fasp"},{"a":"GLYLEP","c":"American licorice","s":"Glycyrrhiza lepidota","y":"1994","k":"glylep"},{"a":"MART","c":"American marten, Pacific marten","s":"Martes americana, M. caurina","y":"2010","k":"mart"},{"a":"VIVI","c":"American mink","s":"Vison vison","y":"1996","k":"vivi"},{"a":"SORAME","c":"American mountain-ash","s":"Sorbus americana","y":"1992","k":"sorame"},{"a":"PRUAME","c":"American plum","s":"Prunus americana","y":"2010","k":"pruame"},{"a":"RUBIDA","c":"American red raspberry","s":"Rubus idaeus","y":"1990","k":"rubida"},{"a":"PLAOCC","c":"American sycamore","s":"Platanus occidentalis","y":"1994","k":"plaocc"},{"a":"FLOCER","c":"American tarwort","s":"Flourensia cernua","y":"2010","k":"flocer"},{"a":"VICAME","c":"American vetch","s":"Vicia americana","y":"1993","k":"vicame"},{"a":"HAMVIR","c":"American witchhazel","s":"Hamamelis virginiana","y":"1993","k":"hamvir"},{"a":"SCMI","c":"American woodcock","s":"Scolopax minor","y":"2010","k":"scmi"},{"a":"AMPBRE","c":"Amur peppervine","s":"Ampelopsis brevipedunculata","y":"2009","k":"ampbre"},{"a":"LYCAND","c":"Anderson wolfberry","s":"Lycium andersonii","y":"1992","k":"lycand"},{"a":"PURTRI","c":"antelope bitterbrush","s":"Purshia tridentata","y":"1999","k":"purtri"},{"a":"PINENG","c":"Apache pine","s":"Pinus engelmannii","y":"1994","k":"pineng"},{"a":"FALPAR","c":"Apache plume","s":"Fallugia paradoxa","y":"2000","k":"falpar"},{"a":"DIGCAL","c":"Arizona cottontop","s":"Digitaria californica","y":"1993","k":"digcal"},{"a":"HESARI","c":"Arizona cypress","s":"Hesperocyparis arizonica","y":"1993","k":"hesari"},{"a":"FESARI","c":"Arizona fescue","s":"Festuca arizonica","y":"2006","k":"fesari"},{"a":"ARBARI","c":"Arizona madrone","s":"Arbutus arizonica","y":"1993","k":"arbari"},{"a":"PINARZ","c":"Arizona pine","s":"Pinus arizonica","y":"2003","k":"pinarz"},{"a":"PLAWRI","c":"Arizona sycamore","s":"Platanus wrightii","y":"2022","k":"plawri"},{"a":"JUGMAJ","c":"Arizona walnut","s":"Juglans major","y":"2022","k":"jugmaj"},{"a":"QUEARI","c":"Arizona white oak","s":"Quercus arizonica","y":"1994","k":"queari"},{"a":"BALSAG","c":"arrowleaf balsamroot","s":"Balsamorhiza sagittata","y":"2002","k":"balsag"},{"a":"JUNASH","c":"Ashe's juniper","s":"Juniperus ashei","y":"1993","k":"junash"},{"a":"CASCIN","c":"ashgray Indian paintbrush","s":"Castilleja cinerea","y":"2006","k":"cascin"},{"a":"POLPEF","c":"Asiatic tearthumb","s":"Polygonum perfoliatum","y":"2010","k":"polpef"},{"a":"TAMAPH","c":"Athel tamarisk","s":"Tamarix aphylla","y":"1992","k":"tamaph"},{"a":"TOXPUB","c":"Atlantic poison-oak","s":"Toxicodendron pubescens","y":"1994","k":"toxpub"},{"a":"CHATHY","c":"Atlantic white-cedar","s":"Chamaecyparis thyoides","y":"1991","k":"chathy"},{"a":"PINNIG","c":"Austrian pine","s":"Pinus nigra","y":"1993","k":"pinnig"},{"a":"ELAUMB","c":"autumn-olive","s":"Elaeagnus umbellata","y":"2003","k":"elaumb"},{"a":"PEAE","c":"Bachman's sparrow","s":"Peucaea aestivalis","y":"2006","k":"peae"},{"a":"HALE","c":"bald eagle","s":"Haliaeetus leucocephalus","y":"1993","k":"hale"},{"a":"ABIBAL","c":"balsam fir","s":"Abies balsamea","y":"1991","k":"abibal"},{"a":"POPBALB","c":"balsam poplar","s":"Populus balsamifera subsp. balsamifera","y":"1990","k":"popbalb"},{"a":"YUCBAC","c":"banana yucca","s":"Yucca baccata","y":"2005","k":"yucbac"},{"a":"PAFA","c":"band-tailed pigeon","s":"Patagioenas fasciata","y":"2006","k":"pafa"},{"a":"ECHCRU","c":"barnyardgrass","s":"Echinochloa crus-galli","y":"1994","k":"echcru"},{"a":"ACAL","c":"barrens dagger moth","s":"Acronicta albarufa","y":"2008","k":"acal"},{"a":"ARTTRIT","c":"basin big sagebrush","s":"Artemisia tridentata subsp. tridentata","y":"1999","k":"arttrit"},{"a":"LEYCIN","c":"basin wildrye","s":"Leymus cinereus","y":"2002","k":"leycin"},{"a":"CORCOR","c":"beaked hazelnut","s":"Corylus cornuta","y":"2007","k":"corcor"},{"a":"CARSPP2","c":"beaked sedge, Northwest Territory sedge","s":"Carex rostrata, C. utriculata","y":"2008","k":"carspp2"},{"a":"ELEROS","c":"beaked spikerush","s":"Eleocharis rostellata","y":"1994","k":"eleros"},{"a":"GAYURS","c":"bear huckleberry","s":"Gaylussacia ursina","y":"2005","k":"gayurs"},{"a":"QUEILI","c":"bear oak","s":"Quercus ilicifolia","y":"2006","k":"queili"},{"a":"GARFRE","c":"bearbrush","s":"Garrya fremontii","y":"1992","k":"garfre"},{"a":"FESSUB","c":"bearded fescue","s":"Festuca subulata","y":"1994","k":"fessub"},{"a":"SALBEB","c":"Bebb willow","s":"Salix bebbiana","y":"1992","k":"salbeb"},{"a":"GALURC","c":"beetleweed","s":"Galax urceolata","y":"2006","k":"galurc"},{"a":"LYCBER","c":"Berlandier's wolfberry","s":"Lycium berlandieri","y":"1994","k":"lycber"},{"a":"CYNDAC","c":"Bermudagrass","s":"Cynodon dactylon","y":"1995","k":"cyndac"},{"a":"GERBIC","c":"Bicknell's cranesbill","s":"Geranium bicknellii","y":"2007","k":"gerbic"},{"a":"ANDGER","c":"big bluestem","s":"Andropogon gerardii","y":"1988","k":"andger"},{"a":"PLERIG","c":"big galleta","s":"Pleuraphis rigida","y":"2000","k":"plerig"},{"a":"SPOWRI","c":"big sacaton","s":"Sporobolus wrightii","y":"1995","k":"spowri"},{"a":"ATRLEN","c":"big saltbush","s":"Atriplex lentiformis","y":"2005","k":"atrlen"},{"a":"ARCGLU","c":"bigberry manzanita","s":"Arctostaphylos glauca","y":"1993","k":"arcglu"},{"a":"PSEMAC","c":"bigcone Douglas-fir","s":"Pseudotsuga macrocarpa","y":"1992","k":"psemac"},{"a":"ARTBIG","c":"Bigelow sagebrush","s":"Artemisia bigelovii","y":"2003","k":"artbig"},{"a":"CARBIG","c":"Bigelow's sedge","s":"Carex bigelowii","y":"1992","k":"carbig"},{"a":"OVCA","c":"bighorn sheep","s":"Ovis canadensis","y":"1993","k":"ovca"},{"a":"EURMAC","c":"bigleaf aster","s":"Eurybia macrophylla","y":"2006","k":"eurmac"},{"a":"ACEMAC","c":"bigleaf maple","s":"Acer macrophyllum","y":"2011","k":"acemac"},{"a":"POPGRA","c":"bigtooth aspen","s":"Populus grandidentata","y":"1994","k":"popgra"},{"a":"ACEGRA","c":"bigtooth maple","s":"Acer grandidentatum","y":"2006","k":"acegra"},{"a":"ARTPED","c":"birdfoot sagebrush","s":"Artemisia pedatifida","y":"2006","k":"artped"},{"a":"PINMUR","c":"Bishop pine","s":"Pinus muricata","y":"1993","k":"pinmur"},{"a":"AEGPOD","c":"bishop's goutweed","s":"Aegopodium podagraria","y":"2009","k":"aegpod"},{"a":"PRUEMA","c":"bitter cherry","s":"Prunus emarginata","y":"1995","k":"pruema"},{"a":"CARCOR","c":"bitternut hickory","s":"Carya cordiformis","y":"1992","k":"carcor"},{"a":"LEWRED","c":"bitterroot","s":"Lewisia rediviva","y":"1993","k":"lewred"},{"a":"FRANIG","c":"black ash","s":"Fraxinus nigra","y":"2005","k":"franig"},{"a":"PRUSER","c":"black cherry","s":"Prunus serotina","y":"1991","k":"pruser"},{"a":"POPBALT","c":"black cottonwood","s":"Populus balsamifera subsp. trichocarpa","y":"2001","k":"popbalt"},{"a":"EMPNIG","c":"black crowberry","s":"Empetrum nigrum","y":"1992","k":"empnig"},{"a":"BOUERI","c":"black grama","s":"Bouteloua eriopoda","y":"2000","k":"boueri"},{"a":"SARVER","c":"black greasewood","s":"Sarcobatus vermiculatus","y":"2004","k":"sarver"},{"a":"CRADOU","c":"black hawthorn","s":"Crataegus douglasii","y":"1991","k":"cradou"},{"a":"GAYBAC","c":"black huckleberry","s":"Gaylussacia baccata","y":"2006","k":"gaybac"},{"a":"ROBPSE","c":"black locust","s":"Robinia pseudoacacia","y":"2009","k":"robpse"},{"a":"QUEVEL","c":"black oak","s":"Quercus velutina","y":"1992","k":"quevel"},{"a":"SALMEL","c":"black sage","s":"Salvia mellifera","y":"1990","k":"salmel"},{"a":"ARTNOV","c":"black sagebrush","s":"Artemisia nova","y":"2009","k":"artnov"},{"a":"ASPADI","c":"black spleenwort fern","s":"Asplenium adiantum-nigrum","y":"1994","k":"aspadi"},{"a":"PICMAR","c":"black spruce","s":"Picea mariana","y":"2014","k":"picmar"},{"a":"JUGNIG","c":"black walnut","s":"Juglans nigra","y":"1991","k":"jugnig"},{"a":"SALNIG","c":"black willow","s":"Salix nigra","y":"1992","k":"salnig"},{"a":"PIAR","c":"black-backed woodpecker","s":"Picoides arcticus","y":"2011","k":"piar"},{"a":"POAT","c":"black-capped chickadee","s":"Poecile atricapillus","y":"1995","k":"poat"},{"a":"MUNI","c":"black-footed ferret","s":"Mustela nigripes","y":"2007","k":"muni"},{"a":"LECA","c":"black-tailed jackrabbit","s":"Lepus californicus","y":"1995","k":"leca"},{"a":"CYLU","c":"black-tailed prairie dog","s":"Cynomys ludovicianus","y":"2007","k":"cylu"},{"a":"COLRAM","c":"blackbrush","s":"Coleogyne ramosissima","y":"2001","k":"colram"},{"a":"RUDHIR","c":"Blackeyed Susan","s":"Rudbeckia hirta","y":"1994","k":"rudhir"},{"a":"NYSSPP","c":"blackgum, swamp tupelo","s":"Nyssa sylvatica, N. biflora","y":"1992","k":"nysspp"},{"a":"QUEMAR","c":"blackjack oak","s":"Quercus marilandica","y":"1992","k":"quemar"},{"a":"SAMNIGC","c":"blue elderberry","s":"Sambucus nigra subsp. cerulea","y":"1989","k":"samnigc"},{"a":"BOUGRA","c":"blue grama","s":"Bouteloua gracilis","y":"2003","k":"bougra"},{"a":"GAYFRO","c":"blue huckleberry","s":"Gaylussacia frondosa","y":"1994","k":"gayfro"},{"a":"QUEDOU","c":"blue oak","s":"Quercus douglasii","y":"2007","k":"quedou"},{"a":"PARFLO","c":"blue paloverde","s":"Parkinsonia florida","y":"1994","k":"parflo"},{"a":"VACPAL","c":"Blue Ridge blueberry","s":"Vaccinium pallidum","y":"1991","k":"vacpal"},{"a":"PICPUN","c":"blue spruce","s":"Picea pungens","y":"1993","k":"picpun"},{"a":"ELYGLA","c":"blue wildrye","s":"Elymus glaucus","y":"1999","k":"elygla"},{"a":"SPDI","c":"blue-winged teal","s":"Spatula discors","y":"1993","k":"spdi"},{"a":"SALMYR","c":"blueberry willow","s":"Salix myrtillifolia","y":"1992","k":"salmyr"},{"a":"PSESPI","c":"bluebunch wheatgrass","s":"Pseudoroegneria spicata","y":"1999","k":"psespi"},{"a":"QUEINC","c":"bluejack oak","s":"Quercus incana","y":"1994","k":"queinc"},{"a":"CALCAN","c":"bluejoint","s":"Calamagrostis canadensis","y":"1992","k":"calcan"},{"a":"LYRU","c":"bobcat","s":"Lynx rufus","y":"1995","k":"lyru"},{"a":"VACULI","c":"bog blueberry","s":"Vaccinium uliginosum","y":"1992","k":"vaculi"},{"a":"LEDGRO","c":"bog Labrador tea","s":"Ledum groenlandicum","y":"2006","k":"ledgro"},{"a":"ANDPOL","c":"bog rosemary","s":"Andromeda polifolia","y":"2007","k":"andpol"},{"a":"SALBOO","c":"Booth's willow","s":"Salix boothii","y":"1992","k":"salboo"},{"a":"ARTARC","c":"boreal sagebrush","s":"Artemisia arctica","y":"2006","k":"artarc"},{"a":"ACENEG","c":"boxelder","s":"Acer negundo","y":"1988","k":"aceneg"},{"a":"ASTBRA","c":"Braunton's milkvetch","s":"Astragalus brauntonii","y":"2006","k":"astbra"},{"a":"SCHTER","c":"Brazilian pepper","s":"Schinus terebinthifolius","y":"2011","k":"schter"},{"a":"IMPSPP","c":"Brazilian satintail, cgongrass","s":"Imperata brasiliensis, I. cylindrica","y":"2005","k":"impspp"},{"a":"PICBRE","c":"Brewer spruce","s":"Picea breweriana","y":"1992","k":"picbre"},{"a":"CLIUNI","c":"bride's bonnet","s":"Clintonia uniflora","y":"2005","k":"cliuni"},{"a":"ABIBRA","c":"bristlecone fir","s":"Abies bracteata","y":"2020","k":"abibra"},{"a":"ASACAU","c":"British Columbia wildginger","s":"Asarum caudatum","y":"2004","k":"asacau"},{"a":"OPUFRA","c":"brittle pricklypear","s":"Opuntia fragilis","y":"2005","k":"opufra"},{"a":"TYPLAT","c":"broadleaf cattail","s":"Typha latifolia","y":"2008","k":"typlat"},{"a":"LUPLAT","c":"broadleaf lupine","s":"Lupinus latifolius","y":"2006","k":"luplat"},{"a":"LEPLAT","c":"broadleaved pepperweed","s":"Lepidium latifolium","y":"2004","k":"leplat"},{"a":"GUTSAR","c":"broom snakeweed","s":"Gutierrezia sarothrae","y":"1999","k":"gutsar"},{"a":"CYTSPP","c":"brooms: Scotch broom, striated broom","s":"Cytisus spp.: Cytisus scoparius, C. striatus","y":"2005","k":"cytspp"},{"a":"ANDVIR","c":"broomsedge bluestem","s":"Andropogon virginicus","y":"1992","k":"andvir"},{"a":"MOAT","c":"brown-headed cowbird","s":"Molothrus ater","y":"1995","k":"moat"},{"a":"PEBO","c":"brush deermouse","s":"Peromyscus boylii","y":"2006","k":"pebo"},{"a":"CEACUN","c":"buckbrush","s":"Ceanothus cuneatus","y":"2005","k":"ceacun"},{"a":"PICDES","c":"bud sagebrush","s":"Picrothamnus desertorum","y":"2003","k":"picdes"},{"a":"BOUDAC","c":"buffalograss","s":"Bouteloua dactyloides","y":"1995","k":"boudac"},{"a":"PENCIL","c":"buffelgrass","s":"Pennisetum ciliare","y":"2022","k":"pencil"},{"a":"POABUL","c":"bulbous bluegrass","s":"Poa bulbosa","y":"2007","k":"poabul"},{"a":"CIRVUL","c":"bull thistle","s":"Cirsium vulgare","y":"2002","k":"cirvul"},{"a":"CORCAN","c":"bunchberry dogwood","s":"Cornus canadensis","y":"2012","k":"corcan"},{"a":"QUEMAC","c":"bur oak","s":"Quercus macrocarpa","y":"2011","k":"quemac"},{"a":"BASSCO","c":"burningbush","s":"Bassia scoparia","y":"1995","k":"bassco"},{"a":"EUOALA","c":"burningbush","s":"Euonymus alatus","y":"2009","k":"euoala"},{"a":"HYMSAL","c":"burrobrush","s":"Hymenoclea salsola","y":"1993","k":"hymsal"},{"a":"AMBDUM","c":"burrobush","s":"Ambrosia dumosa","y":"1994","k":"ambdum"},{"a":"ATCU","c":"burrowing owl","s":"Athene cunicularia","y":"1996","k":"atcu"},{"a":"CHRSEM","c":"bush chinquapin","s":"Chrysolepis sempervirens","y":"1992","k":"chrsem"},{"a":"MUHPOR","c":"bush muhly","s":"Muhlenbergia porteri","y":"1999","k":"muhpor"},{"a":"NECI","c":"bushy-tailed woodrat","s":"Neotoma cinerea","y":"2007","k":"neci"},{"a":"JUGCIN","c":"butternut","s":"Juglans cinerea","y":"1991","k":"jugcin"},{"a":"ENCFRU","c":"button brittlebush","s":"Encelia frutescens","y":"1993","k":"encfru"},{"a":"SABPAL","c":"cabbage palmetto","s":"Sabal palmetto","y":"1991","k":"sabpal"},{"a":"QUEKEL","c":"California black oak","s":"Quercus kelloggii","y":"2007","k":"quekel"},{"a":"RUBURS","c":"California blackberry","s":"Rubus ursinus","y":"1989","k":"ruburs"},{"a":"BROCAR","c":"California brome","s":"Bromus carinatus","y":"2006","k":"brocar"},{"a":"AESCAL","c":"California buckeye","s":"Aesculus californica","y":"1992","k":"aescal"},{"a":"FRACAL","c":"California buckthorn","s":"Frangula californica","y":"1990","k":"fracal"},{"a":"GYCA","c":"California condor","s":"Gymnogyps californianus","y":"1994","k":"gyca"},{"a":"FESCAL","c":"California fescue","s":"Festuca californica","y":"1994","k":"fescal"},{"a":"FRECAL","c":"California flannelbush","s":"Fremontodendron californicum","y":"2021","k":"frecal"},{"a":"VACOVA","c":"California huckleberry","s":"Vaccinium ovatum","y":"1990","k":"vacova"},{"a":"JUNCAL","c":"California juniper","s":"Juniperus californica","y":"1992","k":"juncal"},{"a":"UMBCAL","c":"California laurel","s":"Umbellularia californica","y":"1992","k":"umbcal"},{"a":"TORCAL","c":"California nutmeg","s":"Torreya californica","y":"1992","k":"torcal"},{"a":"WASFIL","c":"California palm","s":"Washingtonia filifera","y":"1992","k":"wasfil"},{"a":"DARCAL","c":"California pitcherplant","s":"Darlingtonia californica","y":"1990","k":"darcal"},{"a":"ABIMAG","c":"California red fir","s":"Abies magnifica","y":"1993","k":"abimag"},{"a":"CERORB","c":"California redbud","s":"Cercis orbiculata","y":"2006","k":"cerorb"},{"a":"ARTCAL","c":"California sagebrush","s":"Artemisia californica","y":"2006","k":"artcal"},{"a":"QUESPP2","c":"California scrub oak, coastal sage scrub oak","s":"Quercus berberidifolia, Q. dumosa","y":"2012","k":"quespp2"},{"a":"VITCAL","c":"California wild grape","s":"Vitis californica","y":"1993","k":"vitcal"},{"a":"ERICAL","c":"California yerba santa","s":"Eriodictyon californicum","y":"1992","k":"erical"},{"a":"POACOM","c":"Canada bluegrass","s":"Poa compressa","y":"1993","k":"poacom"},{"a":"SOLCAN","c":"Canada goldenrod","s":"Solidago canadensis","y":"1993","k":"solcan"},{"a":"BRCA","c":"Canada goose","s":"Branta canadensis","y":"1993","k":"brca"},{"a":"PECA","c":"Canada jay","s":"Perisoreus canadensis","y":"2006","k":"peca"},{"a":"LYCA","c":"Canada lynx","s":"Lynx canadensis","y":"2007","k":"lyca"},{"a":"MAICAN","c":"Canada mayflower","s":"Maianthemum canadense","y":"1993","k":"maican"},{"a":"CIRARV","c":"Canada thistle","s":"Cirsium arvense","y":"2001","k":"cirarv"},{"a":"ELYCAN","c":"Canada wildrye","s":"Elymus canadensis","y":"2000","k":"elycan"},{"a":"TAXCAN","c":"Canada yew","s":"Taxus canadensis","y":"1993","k":"taxcan"},{"a":"RIBOXY","c":"Canadian gooseberry","s":"Ribes oxyacanthoides","y":"1995","k":"riboxy"},{"a":"FERWIS","c":"candybarrel cactus","s":"Ferocactus wislizeni","y":"1994","k":"ferwis"},{"a":"BOTBAR","c":"cane bluestem","s":"Bothriochloa barbinodis","y":"2011","k":"botbar"},{"a":"AYVA","c":"canvasback","s":"Aythya valisineria","y":"1993","k":"ayva"},{"a":"VITARI","c":"canyon grape","s":"Vitis arizonica","y":"2006","k":"vitari"},{"a":"QUECHR","c":"canyon live oak","s":"Quercus chrysolepis","y":"2008","k":"quechr"},{"a":"CARCAP","c":"capitate sedge","s":"Carex capitata","y":"1994","k":"carcap"},{"a":"RATA","c":"caribou","s":"Rangifer tarandus","y":"2007","k":"rata"},{"a":"TSUCAR","c":"Carolina hemlock","s":"Tsuga caroliniana","y":"1993","k":"tsucar"},{"a":"ILEAMB","c":"Carolina holly","s":"Ilex ambigua","y":"1994","k":"ileamb"},{"a":"MAHNER","c":"Cascade barberry","s":"Mahonia nervosa","y":"1990","k":"mahner"},{"a":"FRAPUR","c":"Cascara buckthorn","s":"Frangula purshiana","y":"1992","k":"frapur"},{"a":"SENGRE","c":"catclaw acacia","s":"Senegalia greggii","y":"2005","k":"sengre"},{"a":"MIMACUB","c":"catclaw mimosa","s":"Mimosa aculeaticarpa var. biuncifera","y":"1990","k":"mimacub"},{"a":"EREOPH","c":"centipede grass","s":"Eremochloa ophiuroides","y":"1994","k":"ereoph"},{"a":"SCHAME","c":"chairmaker's bulrush","s":"Schoenoplectus americanus","y":"1992","k":"schame"},{"a":"ADEFAS","c":"chamise","s":"Adenostoma fasciculatum","y":"1990","k":"adefas"},{"a":"PICMON","c":"chaparral pea","s":"Pickeringia montana","y":"1992","k":"picmon"},{"a":"CEALEU","c":"chaparral whitethorn","s":"Ceanothus leucodermis","y":"2012","k":"cealeu"},{"a":"BROTEC","c":"cheatgrass","s":"Bromus tectorum","y":"2003","k":"brotec"},{"a":"PINLEIC","c":"Chihuahuan pine","s":"Pinus leiophylla var. chihuahuana","y":"1994","k":"pinleic"},{"a":"MELAZE","c":"Chinaberrytree","s":"Melia azedarach","y":"2009","k":"melaze"},{"a":"MISSIN","c":"Chinese silvergrass","s":"Miscanthus sinensis","y":"2011","k":"missin"},{"a":"TRISEB","c":"Chinese tallow","s":"Triadica sebifera","y":"2011","k":"triseb"},{"a":"CASPUM","c":"chinquapin","s":"Castanea pumila","y":"1994","k":"caspum"},{"a":"QUEMUE","c":"chinquapin oak","s":"Quercus muehlenbergii","y":"1991","k":"quemue"},{"a":"PRUVIR","c":"chokecherry","s":"Prunus virginiana","y":"2000","k":"pruvir"},{"a":"ANCO","c":"chuck-will's-widow","s":"Antrostomus carolinensis","y":"2023","k":"anco"},{"a":"ALCH","c":"chukar","s":"Alectoris chukar","y":"1994","k":"alch"},{"a":"OSMCIN","c":"cinnamon fern","s":"Osmunda cinnamomea","y":"1994","k":"osmcin"},{"a":"NUCO","c":"Clark's nutcracker","s":"Nucifraga columbiana","y":"2008","k":"nuco"},{"a":"OSMCLA","c":"Clayton's sweetroot","s":"Osmorhiza claytonii","y":"1992","k":"osmcla"},{"a":"FENRUP","c":"cliff fendlerbush","s":"Fendlera rupicola","y":"1993","k":"fenrup"},{"a":"LYGSPP","c":"climbing ferns: Japanese climbing fern, small-leaf  climbing fern","s":"Lygodium spp.: Lygodium japonicum, L. microphyllum","y":"2005","k":"lygspp"},{"a":"SOLDUL","c":"climbing nightshade","s":"Solanum dulcamara","y":"2009","k":"soldul"},{"a":"RUBCHA","c":"cloudberry","s":"Rubus chamaemorus","y":"1993","k":"rubcha"},{"a":"PSEMENM","c":"coast Douglas-fir","s":"Pseudotsuga menziesii var. menziesii","y":"1991","k":"psemenm"},{"a":"QUEAGR","c":"coast live oak","s":"Quercus agrifolia","y":"2002","k":"queagr"},{"a":"CLEALN","c":"coastal sweetpepperbush","s":"Clethra alnifolia","y":"1991","k":"clealn"},{"a":"LEYAMB","c":"Colorado wildrye","s":"Leymus ambiguus","y":"2004","k":"leyamb"},{"a":"TUSFAR","c":"coltsfoot","s":"Tussilago farfara","y":"2011","k":"tusfar"},{"a":"BROVUL","c":"Columbia brome","s":"Bromus vulgaris","y":"1994","k":"brovul"},{"a":"ACHNEL","c":"Columbia needlegrass","s":"Achnatherum nelsonii","y":"2000","k":"achnel"},{"a":"BERVUL","c":"common barberry","s":"Berberis vulgaris","y":"2009","k":"bervul"},{"a":"XERTEN","c":"common beargrass","s":"Xerophyllum tenax","y":"1990","k":"xerten"},{"a":"CEPOCC","c":"common buttonbush","s":"Cephalanthus occidentalis","y":"1991","k":"cepocc"},{"a":"HERMAX","c":"common cowparsnip","s":"Heracleum maximum","y":"1995","k":"hermax"},{"a":"TAROFF","c":"common dandelion","s":"Taraxacum officinale","y":"1993","k":"taroff"},{"a":"PELAPH","c":"common freckle pelt","s":"Peltigera aphthosa","y":"1993","k":"pelaph"},{"a":"ULEEUR","c":"common gorse","s":"Ulex europaeus","y":"2006","k":"uleeur"},{"a":"URCI","c":"common gray fox","s":"Urocyon cinereoargenteus","y":"1996","k":"urci"},{"a":"CELOCC","c":"common hackberry","s":"Celtis occidentalis","y":"2011","k":"celocc"},{"a":"JUNCOM","c":"common juniper","s":"Juniperus communis","y":"1999","k":"juncom"},{"a":"ATHFIL","c":"common ladyfern","s":"Athyrium filix-femina","y":"1991","k":"athfil"},{"a":"MARPOL","c":"common liverwort","s":"Marchantia polymorpha","y":"1993","k":"marpol"},{"a":"ARCMAN","c":"common manzanita","s":"Arctostaphylos manzanita","y":"2014","k":"arcman"},{"a":"VERTHA","c":"common mullein","s":"Verbascum thapsus","y":"2008","k":"vertha"},{"a":"ONZI","c":"common muskrat","s":"Ondatra zibethicus","y":"1993","k":"onzi"},{"a":"DIOVIR","c":"common persimmon","s":"Diospyros virginiana","y":"1992","k":"diovir"},{"a":"PHRAUS","c":"common reed","s":"Phragmites australis","y":"2008","k":"phraus"},{"a":"SCOFES","c":"common rivergrass","s":"Scolochloa festucacea","y":"1994","k":"scofes"},{"a":"AMEARB","c":"common serviceberry","s":"Amelanchier arborea","y":"1992","k":"amearb"},{"a":"RUMACE","c":"common sheep sorrel","s":"Rumex acetosella","y":"1995","k":"rumace"},{"a":"SYMALB","c":"common snowberry","s":"Symphoricarpos albus","y":"2000","k":"symalb"},{"a":"DASWHE","c":"common sotol","s":"Dasylirion wheeleri","y":"1993","k":"daswhe"},{"a":"ELEPAL","c":"common spikerush","s":"Eleocharis palustris","y":"2006","k":"elepal"},{"a":"HYPPER","c":"common St. Johnswort","s":"Hypericum perforatum","y":"2005","k":"hypper"},{"a":"TANVUL","c":"common tansy","s":"Tanacetum vulgare","y":"2009","k":"tanvul"},{"a":"HOLLAN","c":"common velvetgrass","s":"Holcus lanatus","y":"2009","k":"hollan"},{"a":"LYCSPP","c":"common wolfstail, bristly wolfstail","s":"Lycurus phleoides, L. setosus","y":"2008","k":"lycspp"},{"a":"ACHMIL","c":"common yarrow","s":"Achillea millefolium","y":"1999","k":"achmil"},{"a":"BROSPP","c":"compact brome, red brome","s":"Bromus madritensis, B. rubens","y":"2001","k":"brospp"},{"a":"SPOCOM","c":"composite dropseed","s":"Sporobolus compositus","y":"2010","k":"spocom"},{"a":"PINCOU","c":"Coulter pine","s":"Pinus coulteri","y":"1993","k":"pincou"},{"a":"CALA","c":"coyote","s":"Canis latrans","y":"1995","k":"cala"},{"a":"BACPIL","c":"coyotebrush","s":"Baccharis pilularis","y":"2002","k":"bacpil"},{"a":"MAHREP","c":"creeping barberry","s":"Mahonia repens","y":"2006","k":"mahrep"},{"a":"AGRSTO","c":"creeping bentgrass","s":"Agrostis stolonifera","y":"1994","k":"agrsto"},{"a":"LYSNUM","c":"creeping jenny","s":"Lysimachia nummularia","y":"2011","k":"lysnum"},{"a":"JUNHOR","c":"creeping juniper","s":"Juniperus horizontalis","y":"2006","k":"junhor"},{"a":"SYMMOL","c":"creeping snowberry","s":"Symphoricarpos mollis","y":"1991","k":"symmol"},{"a":"LARTRI","c":"creosotebush","s":"Larrea tridentata","y":"1995","k":"lartri"},{"a":"AGRCRI","c":"crested wheatgrass","s":"Agropyron cristatum","y":"1999","k":"agrcri"},{"a":"HIBMOS","c":"crimsoneyed rosemallow","s":"Hibiscus moscheutos","y":"2008","k":"hibmos"},{"a":"SECVAR","c":"crownvetch","s":"Securigera varia","y":"2010","k":"secvar"},{"a":"AMBPSI","c":"Cuman ragweed","s":"Ambrosia psilostachya","y":"1992","k":"ambpsi"},{"a":"CERLED","c":"curlleaf mountain-mahogany","s":"Cercocarpus ledifolius","y":"2006","k":"cerled"},{"a":"HILBEL","c":"curly-mesquite","s":"Hilaria belangeri","y":"1999","k":"hilbel"},{"a":"GRISQU","c":"curlycup gumweed","s":"Grindelia squarrosa","y":"1993","k":"grisqu"},{"a":"ASTALB","c":"Cushenbury milkvetch","s":"Astragalus albens","y":"2013","k":"astalb"},{"a":"POACUS","c":"Cusick's bluegrass","s":"Poa cusickii","y":"1997","k":"poacus"},{"a":"AGACUS","c":"Cusick's giant hyssop","s":"Agastache cusickii","y":"1993","k":"agacus"},{"a":"RUBLAC","c":"cutleaf blackberry","s":"Rubus laciniatus","y":"2021","k":"rublac"},{"a":"EUPCYP","c":"cypress spurge","s":"Euphorbia cyparissias","y":"2010","k":"eupcyp"},{"a":"LINSPP","c":"Dalmatian toadflax, yellow toadflax","s":"Linaria dalmatica, L. vulgaris","y":"2003","k":"linspp"},{"a":"QUESPP1","c":"Darlington oak, swamp laurel oak","s":"Quercus hemisphaerica, Q. laurifolia","y":"1992","k":"quespp1"},{"a":"BLESPI","c":"deer fern","s":"Blechnum spicant","y":"1993","k":"blespi"},{"a":"CEAINT","c":"deerbrush","s":"Ceanothus integerrimus","y":"1997","k":"ceaint"},{"a":"PRUFRE","c":"desert apricot","s":"Prunus fremontii","y":"1993","k":"prufre"},{"a":"PURGLA","c":"desert bitterbrush","s":"Purshia glandulosa","y":"1999","k":"purgla"},{"a":"CEAGRE","c":"desert ceanothus","s":"Ceanothus greggii","y":"2000","k":"ceagre"},{"a":"RIBVEL","c":"desert gooseberry","s":"Ribes velutinum","y":"1995","k":"ribvel"},{"a":"ACHSPE","c":"desert needlegrass","s":"Achnatherum speciosum","y":"1993","k":"achspe"},{"a":"PRUAND","c":"desert peach","s":"Prunus andersonii","y":"2007","k":"pruand"},{"a":"SYMLON","c":"desert snowberry","s":"Symphoricarpos longiflorus","y":"2005","k":"symlon"},{"a":"CHAMIL","c":"desert sweet","s":"Chamaebatiaria millefolium","y":"1994","k":"chamil"},{"a":"GOPH","c":"desert tortoises: Mohave desert tortoise, Sonoran desert tortoise, Goode's thornscrub tortoise","s":"Gopherus agassizii, Gopherus morafkai, Gopherus evgoodei","y":"2008","k":"goph"},{"a":"AGRDES","c":"desert wheatgrass","s":"Agropyron desertorum","y":"1999","k":"agrdes"},{"a":"CHILIN","c":"desert-willow","s":"Chilopsis linearis","y":"2022","k":"chilin"},{"a":"ARASPI","c":"devil's walkingstick","s":"Aralia spinosa","y":"1992","k":"araspi"},{"a":"OPUHUM","c":"devil's-tongue","s":"Opuntia humifusa","y":"2006","k":"opuhum"},{"a":"OPLHOR","c":"devilsclub","s":"Oplopanax horridus","y":"1993","k":"oplhor"},{"a":"SALPLA","c":"diamondleaf willow","s":"Salix planifolia","y":"1991","k":"salpla"},{"a":"CENDIF","c":"diffuse knapweed","s":"Centaurea diffusa","y":"2020","k":"cendif"},{"a":"EUPCAP","c":"dogfennel","s":"Eupatorium capillifolium","y":"1991","k":"eupcap"},{"a":"LIAPUN","c":"dotted blazing star","s":"Liatris punctata","y":"1993","k":"liapun"},{"a":"CASSES","c":"downy paintedcup","s":"Castilleja sessiliflora","y":"1993","k":"casses"},{"a":"LEYINN","c":"downy ryegrass","s":"Leymus innovatus","y":"2021","k":"leyinn"},{"a":"JUNFLA","c":"drooping juniper","s":"Juniperus flaccida","y":"2007","k":"junfla"},{"a":"SALDRU","c":"Drummond's willow","s":"Salix drummondiana","y":"1991","k":"saldru"},{"a":"LATBIJ","c":"drypark pea","s":"Lathyrus bijugatus","y":"2021","k":"latbij"},{"a":"VACCAE","c":"dwarf bilberry","s":"Vaccinium caespitosum","y":"1990","k":"vaccae"},{"a":"BETNAN","c":"dwarf birch","s":"Betula nana","y":"2007","k":"betnan"},{"a":"GAYDUM","c":"dwarf huckleberry","s":"Gaylussacia dumosa","y":"1992","k":"gaydum"},{"a":"ROSGYM","c":"dwarf rose","s":"Rosa gymnocarpa","y":"1993","k":"rosgym"},{"a":"ISATIN","c":"Dyer's woad","s":"Isatis tinctoria","y":"2009","k":"isatin"},{"a":"THADIO","c":"early meadow-rue","s":"Thalictrum dioicum","y":"1992","k":"thadio"},{"a":"BACHAL","c":"eastern baccharis","s":"Baccharis halimifolia","y":"1991","k":"bachal"},{"a":"SISI","c":"eastern bluebird","s":"Sialia sialis","y":"1995","k":"sisi"},{"a":"TECA","c":"eastern box turtle","s":"Terrapene carolina","y":"2006","k":"teca"},{"a":"SYFL","c":"eastern cottontail","s":"Sylvilagus floridanus","y":"1995","k":"syfl"},{"a":"POPDEL","c":"eastern cottonwood","s":"Populus deltoides","y":"2001","k":"popdel"},{"a":"SCNI","c":"eastern fox squirrel","s":"Sciurus niger","y":"1993","k":"scni"},{"a":"TSUCAN","c":"eastern hemlock","s":"Tsuga canadensis","y":"1993","k":"tsucan"},{"a":"DRCO","c":"eastern indigo snake","s":"Drymarchon couperi","y":"1993","k":"drco"},{"a":"TOXSPP","c":"eastern poison-ivy, western poison-ivy","s":"Toxicodendron radicans, T. rydbergii","y":"2012","k":"toxspp"},{"a":"CERCAN","c":"eastern redbud","s":"Cercis canadensis","y":"1994","k":"cercan"},{"a":"JUNVIR","c":"eastern redcedar","s":"Juniperus virginiana","y":"2003","k":"junvir"},{"a":"MEAS","c":"eastern screech-owl","s":"Megascops asio","y":"1995","k":"meas"},{"a":"GAUPRO","c":"eastern teaberry","s":"Gaultheria procumbens","y":"1994","k":"gaupro"},{"a":"PIER","c":"eastern towhee","s":"Pipilo erythrophthalmus","y":"2006","k":"pier"},{"a":"ANVO","c":"eastern whip-poor-will","s":"Antrostomus vociferus","y":"2023","k":"anvo"},{"a":"PINSTR","c":"eastern white pine","s":"Pinus strobus","y":"1993","k":"pinstr"},{"a":"ARCGLA","c":"Eastwood's manzanita","s":"Arctostaphylos glandulosa","y":"2020","k":"arcgla"},{"a":"CEEL","c":"elk","s":"Cervus elaphus","y":"2011","k":"ceel"},{"a":"CARGAR","c":"elk sedge","s":"Carex garberi","y":"1994","k":"cargar"},{"a":"QUEEMO","c":"Emory oak","s":"Quercus emoryi","y":"1994","k":"queemo"},{"a":"PICENG","c":"Engelmann spruce","s":"Picea engelmannii","y":"1991","k":"piceng"},{"a":"HEDHEL","c":"English ivy","s":"Hedera helix","y":"2010","k":"hedhel"},{"a":"LARDEC","c":"European larch","s":"Larix decidua","y":"1994","k":"lardec"},{"a":"CALBUL","c":"fairy slipper","s":"Calypso bulbosa","y":"2006","k":"calbul"},{"a":"GEOLIV","c":"false toadflax","s":"Geocaulon lividum","y":"1994","k":"geoliv"},{"a":"VACARB","c":"farkleberry","s":"Vaccinium arboreum","y":"1991","k":"vacarb"},{"a":"SALALA","c":"feltleaf willow","s":"Salix alaxensis","y":"2014","k":"salala"},{"a":"BURE","c":"ferruginous hawk","s":"Buteo regalis","y":"1994","k":"bure"},{"a":"LYOLUC","c":"fetterbush lyonia","s":"Lyonia lucida","y":"1991","k":"lyoluc"},{"a":"CONARV","c":"field bindweed","s":"Convolvulus arvensis","y":"2004","k":"conarv"},{"a":"EQUARV","c":"field horsetail","s":"Equisetum arvense","y":"1993","k":"equarv"},{"a":"ARTCAM","c":"field sagewort","s":"Artemisia campestris","y":"2007","k":"artcam"},{"a":"SONARV","c":"field sowthistle","s":"Sonchus arvensis","y":"2004","k":"sonarv"},{"a":"CERPUR","c":"fire moss","s":"Ceratodon purpureus","y":"1992","k":"cerpur"},{"a":"ANDTERC","c":"firegrass","s":"Andropogon ternarius var. cabanisii","y":"1994","k":"andterc"},{"a":"CHAANG","c":"fireweed","s":"Chamerion angustifolium","y":"1992","k":"chaang"},{"a":"PEPE","c":"fisher","s":"Pekania pennanti","y":"2007","k":"pepe"},{"a":"RHOCAE","c":"flame azalea","s":"Rhododendron calendulaceum","y":"1994","k":"rhocae"},{"a":"DANCOM","c":"flattened oatgrass","s":"Danthonia compressa","y":"1994","k":"dancom"},{"a":"SCHLIN","c":"flaxleaf plainsmustard","s":"Schoenocrambe linifolia","y":"2003","k":"schlin"},{"a":"APCO","c":"Florida scrub-jay","s":"Aphelocoma coerulescens","y":"2012","k":"apco"},{"a":"TORTAX","c":"Florida torreya","s":"Torreya taxifolia","y":"1993","k":"tortax"},{"a":"TAXFLO","c":"Florida yew","s":"Taxus floridana","y":"1993","k":"taxflo"},{"a":"CORFLO","c":"flowering dogwood","s":"Cornus florida","y":"1991","k":"corflo"},{"a":"ZIGPAN","c":"foothill deathcamas","s":"Zigadenus paniculatus","y":"1993","k":"zigpan"},{"a":"HESC","c":"four-toed salamander","s":"Hemidactylium scutatum","y":"2008","k":"hesc"},{"a":"ATRCAN","c":"fourwing saltbush","s":"Atriplex canescens","y":"2003","k":"atrcan"},{"a":"HORJUB","c":"foxtail barley","s":"Hordeum jubatum","y":"1992","k":"horjub"},{"a":"PINBAL","c":"foxtail pine","s":"Pinus balfouriana","y":"2004","k":"pinbal"},{"a":"RHUARO","c":"fragrant sumac","s":"Rhus aromatica","y":"2004","k":"rhuaro"},{"a":"ABIFRA","c":"Fraser fir","s":"Abies fraseri","y":"1993","k":"abifra"},{"a":"POPFRE","c":"Fremont cottonwood","s":"Populus fremontii","y":"2000","k":"popfre"},{"a":"GENMON","c":"French broom","s":"Genista monspessulana","y":"2005","k":"genmon"},{"a":"BROCIL","c":"fringed brome","s":"Bromus ciliatus","y":"1994","k":"brocil"},{"a":"ARTFRI","c":"fringed sagebrush","s":"Artemisia frigida","y":"2003","k":"artfri"},{"a":"MAST","c":"gadwall","s":"Mareca strepera","y":"1993","k":"mast"},{"a":"QUEGAM","c":"Gambel oak","s":"Quercus gambelii","y":"2000","k":"quegam"},{"a":"ATRGAR","c":"Gardner's saltbush","s":"Atriplex gardneri","y":"2020","k":"atrgar"},{"a":"ALLPET","c":"garlic mustard","s":"Alliaria petiolata","y":"2001","k":"allpet"},{"a":"ELLRAC","c":"Georgia plume","s":"Elliottia racemosa","y":"2019","k":"ellrac"},{"a":"SALGEY","c":"Geyer willow","s":"Salix geyeriana","y":"1991","k":"salgey"},{"a":"CARGEY","c":"Geyer's sedge","s":"Carex geyeri","y":"2002","k":"cargey"},{"a":"ARUGIG","c":"giant cane","s":"Arundinaria gigantea","y":"2007","k":"arugig"},{"a":"CHRCHR","c":"giant chinquapin","s":"Chrysolepis chrysophylla","y":"2012","k":"chrchr"},{"a":"HERMAN","c":"giant hogweed","s":"Heracleum mantegazzianum","y":"2009","k":"herman"},{"a":"ARUDON","c":"giant reed","s":"Arundo donax","y":"2004","k":"arudon"},{"a":"SEQGIG","c":"giant sequoia","s":"Sequoiadendron giganteum","y":"2026","k":"seqgig"},{"a":"FRAALN","c":"glossy buckthorn","s":"Frangula alnus","y":"2008","k":"fraaln"},{"a":"PHYAUR","c":"golden bamboo","s":"Phyllostachys aurea","y":"2009","k":"phyaur"},{"a":"RIBAUR","c":"golden currant","s":"Ribes aureum","y":"1995","k":"ribaur"},{"a":"AQCH","c":"golden eagle","s":"Aquila chrysaetos","y":"1994","k":"aqch"},{"a":"SALGOO","c":"Goodding's willow","s":"Salix gooddingii","y":"1993","k":"salgoo"},{"a":"RIBMON","c":"gooseberry currant","s":"Ribes montigenum","y":"1995","k":"ribmon"},{"a":"SPHGRO","c":"gooseberryleaf globemallow","s":"Sphaeralcea grossulariifolia","y":"2007","k":"sphgro"},{"a":"GOPO","c":"gopher tortoise","s":"Gopherus polyphemus","y":"2009","k":"gopo"},{"a":"HESGOV","c":"Gowen cypress","s":"Hesperocyparis goveniana","y":"1994","k":"hesgov"},{"a":"ABIGRA","c":"grand fir","s":"Abies grandis","y":"2000","k":"abigra"},{"a":"LINPUN","c":"granite prickly phlox","s":"Linanthus pungens","y":"2010","k":"linpun"},{"a":"ALNINC","c":"gray alder","s":"Alnus incana","y":"2011","k":"alninc"},{"a":"BETPOP","c":"gray birch","s":"Betula populifolia","y":"1992","k":"betpop"},{"a":"DUCA","c":"gray catbird","s":"Dumetella carolinensis","y":"1994","k":"duca"},{"a":"CORRAC","c":"gray dogwood","s":"Cornus racemosa","y":"1993","k":"corrac"},{"a":"QUEGRI","c":"gray oak","s":"Quercus grisea","y":"1994","k":"quegri"},{"a":"PINSAB","c":"gray pine","s":"Pinus sabiniana","y":"1992","k":"pinsab"},{"a":"CALU","c":"gray wolf","s":"Canis lupus","y":"1991","k":"calu"},{"a":"SALGLA","c":"grayleaf willow","s":"Salix glauca","y":"1992","k":"salgla"},{"a":"PINLON","c":"Great Basin bristlecone pine","s":"Pinus longaeva","y":"2004","k":"pinlon"},{"a":"PEMO","c":"Great Basin pocket mouse","s":"Perognathus mollipilosus","y":"1996","k":"pemo"},{"a":"SPIN","c":"Great Basin spadefoot","s":"Spea intermontana","y":"1996","k":"spin"},{"a":"STNE","c":"great gray owl","s":"Strix nebulosa","y":"2007","k":"stne"},{"a":"BUVI","c":"great horned owl","s":"Bubo virginianus","y":"1995","k":"buvi"},{"a":"RHOMAX","c":"great laurel","s":"Rhododendron maximum_","y":"2008","k":"rhomax"},{"a":"TYMP","c":"greater prairie-chicken, lesser prairie-chicken","s":"Tympanuchus cupido, T. pallidicinctus","y":"1992","k":"tymp"},{"a":"ANAL","c":"greater white-fronted goose","s":"Anser albifrons","y":"1993","k":"anal"},{"a":"FRAPEN","c":"green ash","s":"Fraxinus pennsylvanica","y":"2005","k":"frapen"},{"a":"EPHVIR","c":"green ephedra","s":"Ephedra viridis","y":"2001","k":"ephvir"},{"a":"NASVIR","c":"green needlegrass","s":"Nassella viridula","y":"2001","k":"nasvir"},{"a":"DASLEI","c":"green sotol","s":"Dasylirion leiophyllum","y":"1993","k":"daslei"},{"a":"ANCR","c":"green-winged teal","s":"Anas crecca","y":"1993","k":"ancr"},{"a":"ARCPAT","c":"greenleaf manzanita","s":"Arctostaphylos patula","y":"2007","k":"arcpat"},{"a":"URARH","c":"grizzly bear","s":"Ursus arctos horribilis","y":"1991","k":"urarh"},{"a":"GLEHED","c":"ground-ivy","s":"Glechoma hederacea","y":"2009","k":"glehed"},{"a":"VACSCO","c":"grouse whortleberry","s":"Vaccinium scoparium","y":"2001","k":"vacsco"},{"a":"CENT","c":"Gunnison sage-grouse, greater sage-grouse","s":"Centrocercus minimus, C. urophasianus","y":"2016","k":"cent"},{"a":"BOUHIR","c":"hairy grama","s":"Bouteloua hirsuta","y":"1999","k":"bouhir"},{"a":"ARCCOL","c":"hairy manzanita","s":"Arctostaphylos columbiana","y":"1993","k":"arccol"},{"a":"PHIHIR","c":"hairy mockorange","s":"Philadelphus hirsutus","y":"1994","k":"phihir"},{"a":"SALHAS","c":"Halberd willow","s":"Salix hastata","y":"1992","k":"salhas"},{"a":"HALGLO","c":"halogeton","s":"Halogeton glomeratus","y":"1992","k":"halglo"},{"a":"SCHACU","c":"hardstem bulrush","s":"Schoenoplectus acutus","y":"1995","k":"schacu"},{"a":"QUEHAV","c":"Havard oak","s":"Quercus havardii","y":"2006","k":"quehav"},{"a":"ARNCOR","c":"heartleaf arnica","s":"Arnica cordifolia","y":"1993","k":"arncor"},{"a":"CALVUL","c":"heather","s":"Calluna vulgaris","y":"1993","k":"calvul"},{"a":"DESSOP","c":"herb sophia","s":"Descurainia sophia","y":"2003","k":"dessop"},{"a":"VACCOR","c":"highbush blueberry","s":"Vaccinium corymbosum","y":"1993","k":"vaccor"},{"a":"RUBSPP","c":"Himalayan blackberry, European blackberry","s":"Rubus armeniacus, R. bifrons","y":"2021","k":"rubspp"},{"a":"SIHI","c":"hispid cotton rat","s":"Sigmodon hispidus","y":"1995","k":"sihi"},{"a":"LUZGLAH","c":"Hitchcock's smooth woodrush","s":"Luzula glabrata var. hitchcockii","y":"1992","k":"luzglah"},{"a":"CARSPP3","c":"hoary cress","s":"Cardaria spp.","y":"2004","k":"carspp3"},{"a":"PRUILI","c":"hollyleaf cherry","s":"Prunus ilicifolia","y":"1990","k":"pruili"},{"a":"PROGLA","c":"honey mesquite","s":"Prosopis glandulosa","y":"2001","k":"progla"},{"a":"GLETRI","c":"honeylocust","s":"Gleditsia triacanthos","y":"1994","k":"gletri"},{"a":"SARMIN","c":"hooded pitcherplant","s":"Sarracenia minor","y":"1991","k":"sarmin"},{"a":"BALHOO","c":"Hooker's balsamroot","s":"Balsamorhiza hookeri","y":"2006","k":"balhoo"},{"a":"OSTVIR","c":"hophornbeam","s":"Ostrya virginiana","y":"1992","k":"ostvir"},{"a":"EURHOR","c":"horrid herrickia","s":"Eurybia horrida","y":"2006","k":"eurhor"},{"a":"CYNOFF","c":"houndstongue","s":"Cynoglossum officinale","y":"2002","k":"cynoff"},{"a":"QUEVAC","c":"huckleberry oak","s":"Quercus vacciniifolia","y":"1992","k":"quevac"},{"a":"VACFAR","c":"huisache","s":"Vachellia farnesiana","y":"2020","k":"vacfar"},{"a":"FESIDA","c":"Idaho fescue","s":"Festuca idahoensis","y":"2000","k":"fesida"},{"a":"CALDEC","c":"incense-cedar","s":"Calocedrus decurrens","y":"2008","k":"caldec"},{"a":"ACHHYM","c":"Indian ricegrass","s":"Achnatherum hymenoides","y":"1999","k":"achhym"},{"a":"MYSO","c":"Indiana bat","s":"Myotis sodalis","y":"2005","k":"myso"},{"a":"SORNUT","c":"Indiangrass","s":"Sorghastrum nutans","y":"1991","k":"sornut"},{"a":"APOCAN","c":"Indianhemp","s":"Apocynum cannabinum","y":"2006","k":"apocan"},{"a":"ILEGLA","c":"inkberry","s":"Ilex glabra","y":"2001","k":"ilegla"},{"a":"QUEWIS","c":"interior live oak","s":"Quercus wislizeni","y":"2012","k":"quewis"},{"a":"CETISL","c":"island cetraria lichen","s":"Cetraria islandica","y":"1993","k":"cetisl"},{"a":"LOLPERM","c":"Italian ryegrass","s":"Lolium perenne subsp.  multiflorum","y":"1995","k":"lolperm"},{"a":"PINBAN","c":"jack pine","s":"Pinus banksiana","y":"1993","k":"pinban"},{"a":"CLAMARJ","c":"Jamaica swamp sawgrass","s":"Cladium mariscus subsp. jamaicense","y":"1992","k":"clamarj"},{"a":"PLEJAM","c":"James' galleta","s":"Pleuraphis jamesii","y":"2000","k":"plejam"},{"a":"BERTHU","c":"Japanese barberry","s":"Berberis thunbergii","y":"2008","k":"berthu"},{"a":"BROJAP","c":"Japanese brome","s":"Bromus japonicus","y":"1994","k":"brojap"},{"a":"LONJAP","c":"Japanese honeysuckle","s":"Lonicera japonica","y":"2002","k":"lonjap"},{"a":"PINJEF","c":"Jeffrey pine","s":"Pinus jeffreyi","y":"2007","k":"pinjef"},{"a":"SORHAL","c":"Johnsongrass","s":"Sorghum halepense","y":"2004","k":"sorhal"},{"a":"SIMCHI","c":"jojoba","s":"Simmondsia chinensis","y":"1994","k":"simchi"},{"a":"YUCSPP","c":"Joshua tree","s":"Yucca brevifolia, Yucca jaegeriana","y":"2025","k":"yucspp"},{"a":"POLJUN","c":"juniper haircap moss","s":"Polytrichum juniperinum","y":"2008","k":"poljun"},{"a":"PLMES","c":"Karner blue butterfly","s":"Plebejus melissa samuelis","y":"2007","k":"plmes"},{"a":"POAPRA","c":"Kentucky bluegrass","s":"Poa pratensis","y":"1993","k":"poapra"},{"a":"ECHTRI","c":"kingcup cactus","s":"Echinocereus triglochidiatus","y":"2018","k":"echtri"},{"a":"ARCUVA","c":"kinnikinnick","s":"Arctostaphylos uva-ursi","y":"1991","k":"arcuva"},{"a":"SEKI","c":"Kirtland's warbler","s":"Setophaga kirtlandii","y":"2010","k":"seki"},{"a":"PINATT","c":"knobcone pine","s":"Pinus attenuata","y":"1992","k":"pinatt"},{"a":"PASDIS","c":"knotgrass","s":"Paspalum distichum","y":"1992","k":"pasdis"},{"a":"POLSPP","c":"knotweeds: giant knotweed, Japanese knotweed, Bohemian knotweed","s":"Polygonum spp.: Polygonum sachalinense, P. cuspidatum, P. \u00d7 bohemicum","y":"2010","k":"polspp"},{"a":"OSTKNO","c":"Knowlton's hophornbeam","s":"Ostrya knowltonii","y":"1994","k":"ostkno"},{"a":"PEDKNO","c":"Knowlton's miniature cactus","s":"Pediocactus knowltonii","y":"2007","k":"pedkno"},{"a":"KUMSPP","c":"Korean clover, Japanese clover","s":"Kummerowia stipulacea, K. striata","y":"2010","k":"kumspp"},{"a":"PUEMONL","c":"kudzu","s":"Pueraria montana var. lobata","y":"2002","k":"puemonl"},{"a":"ILECOR","c":"large gallberry","s":"Ilex coriacea","y":"1991","k":"ilecor"},{"a":"MALLAU","c":"laurel sumac","s":"Malosma laurina","y":"1992","k":"mallau"},{"a":"SMILAU","c":"laurelleaf greenbrier","s":"Smilax laurifolia","y":"1991","k":"smilau"},{"a":"AMOCAN","c":"leadplant","s":"Amorpha canescens","y":"2011","k":"amocan"},{"a":"EUPESU","c":"leafy spurge","s":"Euphorbia esula","y":"2011","k":"eupesu"},{"a":"CHACAL","c":"leatherleaf","s":"Chamaedaphne calyculata","y":"1993","k":"chacal"},{"a":"AGALEC","c":"lechuguilla","s":"Agave lechuguilla","y":"2006","k":"agalec"},{"a":"ERALEH","c":"Lehmann lovegrass","s":"Eragrostis lehmanniana","y":"1992","k":"eraleh"},{"a":"SALLEM","c":"Lemmon's willow","s":"Salix lemmonii","y":"1989","k":"sallem"},{"a":"GOOREP","c":"lesser rattlesnake plantain","s":"Goodyera repens","y":"2013","k":"goorep"},{"a":"SELDEN","c":"lesser spikemoss","s":"Selaginella densa","y":"1990","k":"selden"},{"a":"ACHLET","c":"Letterman's needlegrass","s":"Achnatherum lettermanii","y":"2000","k":"achlet"},{"a":"LINLEW","c":"Lewis flax","s":"Linum lewisii","y":"2007","k":"linlew"},{"a":"PHILEW","c":"Lewis' mock orange","s":"Philadelphus lewisii","y":"1995","k":"philew"},{"a":"PINFLE","c":"limber pine","s":"Pinus flexilis","y":"2001","k":"pinfle"},{"a":"VACVIT","c":"lingonberry","s":"Vaccinium vitis-idaea","y":"1991","k":"vacvit"},{"a":"SCHSCO","c":"little bluestem","s":"Schizachyrium scoparium","y":"2002","k":"schsco"},{"a":"DELBIC","c":"little larkspur","s":"Delphinium bicolor","y":"1993","k":"delbic"},{"a":"CHIMEN","c":"little prince's-pine","s":"Chimaphila menziesii","y":"1994","k":"chimen"},{"a":"JUGMIC","c":"little walnut","s":"Juglans microcarpa","y":"1990","k":"jugmic"},{"a":"TETGLA","c":"littleleaf horsebrush","s":"Tetradymia glabrata","y":"2002","k":"tetgla"},{"a":"ANTMIC","c":"littleleaf pussytoes","s":"Antennaria microphylla","y":"1993","k":"antmic"},{"a":"KRAERE","c":"littleleaf ratany","s":"Krameria erecta","y":"1991","k":"kraere"},{"a":"RHUMIC","c":"littleleaf sumac","s":"Rhus microphylla","y":"1990","k":"rhumic"},{"a":"SALARB","c":"littletree willow","s":"Salix arbusculoides","y":"1992","k":"salarb"},{"a":"PYRASA","c":"liverleaf wintergreen","s":"Pyrola asarifolia","y":"2007","k":"pyrasa"},{"a":"GORLAS","c":"loblolly bay","s":"Gordonia lasianthus","y":"1992","k":"gorlas"},{"a":"PINTAE","c":"loblolly pine","s":"Pinus taeda","y":"1992","k":"pintae"},{"a":"CARINO","c":"long-stolon sedge","s":"Carex inops","y":"2009","k":"carino"},{"a":"AMMA","c":"long-toed salamander","s":"Ambystoma macrodactylum","y":"1997","k":"amma"},{"a":"PINPAL","c":"longleaf pine","s":"Pinus palustris","y":"1992","k":"pinpal"},{"a":"ZIZOBT","c":"lotebush","s":"Ziziphus obtusifolia","y":"1993","k":"zizobt"},{"a":"CARCOC","c":"low northern sedge","s":"Carex concinna","y":"1994","k":"carcoc"},{"a":"ARTARB","c":"low sagebrush","s":"Artemisia arbuscula","y":"2002","k":"artarb"},{"a":"VACANG","c":"lowbush blueberry","s":"Vaccinium angustifolium","y":"1991","k":"vacang"},{"a":"PANHEM","c":"maidencane","s":"Panicum hemitomon","y":"1994","k":"panhem"},{"a":"LYOLIG","c":"maleberry","s":"Lyonia ligustrina","y":"1994","k":"lyolig"},{"a":"ANPL","c":"mallard","s":"Anas platyrhynchos","y":"1993","k":"anpl"},{"a":"PHYMAL","c":"mallow ninebark","s":"Physocarpus malvaceus","y":"1992","k":"phymal"},{"a":"VIBACE","c":"mapleleaf viburnum","s":"Viburnum acerifolium","y":"1993","k":"vibace"},{"a":"BRMA","c":"marbled murrelet","s":"Brachyramphus marmoratus","y":"1994","k":"brma"},{"a":"LEDPAL","c":"marsh Labrador tea","s":"Ledum palustre","y":"2005","k":"ledpal"},{"a":"MUHRAC","c":"marsh muhly","s":"Muhlenbergia racemosa","y":"2011","k":"muhrac"},{"a":"CIRPAL","c":"marsh thistle","s":"Cirsium palustre","y":"2009","k":"cirpal"},{"a":"COVIR","c":"masked bobwhite","s":"Colinus virginianus ridgwayi","y":"2024","k":"covir"},{"a":"MUHRIC","c":"mat muhly","s":"Muhlenbergia richardsonis","y":"1999","k":"muhric"},{"a":"HELMAX","c":"Maximilian sunflower","s":"Helianthus maximiliani","y":"1993","k":"helmax"},{"a":"HESMAN","c":"McNab's cypress","s":"Hesperocyparis macnabiana","y":"1994","k":"hesman"},{"a":"ZIGVEN","c":"meadow deathcamas","s":"Zigadenus venenosus","y":"2006","k":"zigven"},{"a":"SCHPRA","c":"meadow fescue","s":"Schedonorus pratensis","y":"2010","k":"schpra"},{"a":"HIECAE","c":"meadow hawkweed","s":"Hieracium caespitosum","y":"2011","k":"hiecae"},{"a":"MIPE","c":"meadow vole","s":"Microtus pennsylvanicus","y":"1996","k":"mipe"},{"a":"TAECAP","c":"medusahead","s":"Taeniatherum caput-medusae","y":"2001","k":"taecap"},{"a":"MELQUI","c":"melaleuca","s":"Melaleuca quinquenervia","y":"2005","k":"melqui"},{"a":"SPOFLE","c":"mesa dropseed","s":"Sporobolus flexuosus","y":"1999","k":"spofle"},{"a":"SOPSEC","c":"mescal bean","s":"Sophora secundiflora","y":"1990","k":"sopsec"},{"a":"SCUMEX","c":"Mexican bladdersage","s":"Scutellaria mexicana","y":"2024","k":"scumex"},{"a":"QUEOBL","c":"Mexican blue oak","s":"Quercus oblongifolia","y":"1993","k":"queobl"},{"a":"UNGSPE","c":"Mexican buckeye","s":"Ungnadia speciosa","y":"1990","k":"ungspe"},{"a":"PINCEM","c":"Mexican pinyon","s":"Pinus cembroides","y":"1994","k":"pincem"},{"a":"CLAPER","c":"miner's-lettuce","s":"Claytonia perfoliata","y":"1993","k":"claper"},{"a":"SOLMIS","c":"Missouri goldenrod","s":"Solidago missouriensis","y":"2020","k":"solmis"},{"a":"CARTOM","c":"mockernut hickory","s":"Carya tomentosa","y":"1992","k":"cartom"},{"a":"HESBAK","c":"Modoc cypress","s":"Hesperocyparis bakeri","y":"1994","k":"hesbak"},{"a":"ERIPAN","c":"Mohave rabbitbrush","s":"Ericameria paniculata","y":"1993","k":"eripan"},{"a":"YUCSCH","c":"Mojave yucca","s":"Yucca schidigera","y":"2006","k":"yucsch"},{"a":"MELMIN","c":"molassesgrass","s":"Melinis minutiflora","y":"2008","k":"melmin"},{"a":"HESMAC","c":"Monterey cypress","s":"Hesperocyparis macrocarpa","y":"1994","k":"hesmac"},{"a":"PINRAD","c":"Monterey pine","s":"Pinus radiata","y":"1993","k":"pinrad"},{"a":"TAXMUC","c":"Montezuma bald cypress","s":"Taxodium mucronatum","y":"1994","k":"taxmuc"},{"a":"CYMO","c":"Montezuma quail","s":"Cyrtonyx montezumae","y":"1994","k":"cymo"},{"a":"BOTSPP","c":"moonworts: common moonwort, daisy-leaf moonwort, mountain moonwort, peculiar moonwort","s":"Botrychium spp.:  Botrychium lunaria, B. matricariifolium, B. montanum, B. paradoxum","y":"2014","k":"botspp"},{"a":"ALAM","c":"moose","s":"Alces americanus","y":"2010","k":"alam"},{"a":"ALNVIRC","c":"mountain alder","s":"Alnus viridis subsp. crispa","y":"1992","k":"alnvirc"},{"a":"ARTTRIV","c":"mountain big sagebrush","s":"Artemisia tridentata subsp. vaseyana","y":"2017","k":"arttriv"},{"a":"SICU","c":"mountain bluebird","s":"Sialia currucoides","y":"1995","k":"sicu"},{"a":"ORAM","c":"mountain goat","s":"Oreamnos americanus","y":"2011","k":"oram"},{"a":"TSUMER","c":"mountain hemlock","s":"Tsuga mertensiana","y":"1992","k":"tsumer"},{"a":"KALLAT","c":"mountain laurel","s":"Kalmia latifolia","y":"2005","k":"kallat"},{"a":"PUCO","c":"mountain lion","s":"Puma concolor","y":"1995","k":"puco"},{"a":"ACESPI","c":"mountain maple","s":"Acer spicatum","y":"1993","k":"acespi"},{"a":"CHAFOL","c":"mountain misery","s":"Chamaebatia foliolosa","y":"1992","k":"chafol"},{"a":"MUHMON","c":"mountain muhly","s":"Muhlenbergia montana","y":"1995","k":"muhmon"},{"a":"JUNARCL","c":"mountain rush","s":"Juncus arcticus var. littoralis","y":"2005","k":"junarcl"},{"a":"SYMORE","c":"mountain snowberry","s":"Symphoricarpos oreophilus","y":"1999","k":"symore"},{"a":"OXAMON","c":"mountain woodsorrel","s":"Oxalis montana","y":"1992","k":"oxamon"},{"a":"ZEMA","c":"mourning dove","s":"Zenaida macroura","y":"1993","k":"zema"},{"a":"ODHE","c":"mule deer","s":"Odocoileus hemionus","y":"2013","k":"odhe"},{"a":"WYEAMP","c":"mule-ears","s":"Wyethia amplexicaulis","y":"1993","k":"wyeamp"},{"a":"ROSMUL","c":"multiflora rose","s":"Rosa multiflora","y":"2002","k":"rosmul"},{"a":"CARNUT","c":"musk thistle","s":"Carduus nutans","y":"2002","k":"carnut"},{"a":"POAFEN","c":"muttongrass","s":"Poa fendleriana","y":"1997","k":"poafen"},{"a":"TYPANG","c":"narrowleaf cattail","s":"Typha angustifolia","y":"1993","k":"typang"},{"a":"POPANG","c":"narrowleaf cottonwood","s":"Populus angustifolia","y":"2001","k":"popang"},{"a":"SALEXI","c":"narrowleaf willow","s":"Salix exigua","y":"2006","k":"salexi"},{"a":"HESCOM","c":"needle and thread","s":"Hesperostipa comata","y":"1999","k":"hescom"},{"a":"JUNROE","c":"needlegrass rush","s":"Juncus roemerianus","y":"1992","k":"junroe"},{"a":"MICVIM","c":"Nepalese browntop","s":"Microstegium vimineum","y":"2011","k":"micvim"},{"a":"CELLAER","c":"netleaf hackberry","s":"Celtis laevigata var. reticulata","y":"1990","k":"cellaer"},{"a":"EPHNEV","c":"Nevada jointfir","s":"Ephedra nevadensis","y":"2004","k":"ephnev"},{"a":"MAHNEV","c":"Nevin's barberry","s":"Mahonia nevinii","y":"2012","k":"mahnev"},{"a":"CEAAME","c":"New Jersey tea","s":"Ceanothus americanus","y":"1993","k":"ceaame"},{"a":"ROBNEO","c":"New Mexico locust","s":"Robinia neomexicana","y":"1993","k":"robneo"},{"a":"CIRNEO","c":"New Mexico thistle","s":"Cirsium neomexicanum","y":"1994","k":"cirneo"},{"a":"THENOV","c":"New York fern","s":"Thelypteris noveboracensis","y":"1993","k":"thenov"},{"a":"POTNEW","c":"Newberry's cinquefoil","s":"Potentilla newberryi","y":"2008","k":"potnew"},{"a":"HESSPP","c":"Newberry's yucca, chaparral yucca","s":"Hesperoyucca newberryi, H. whipplei","y":"2012","k":"hesspp"},{"a":"ABIPRO","c":"noble fir","s":"Abies procera","y":"1993","k":"abipro"},{"a":"RHASPP","c":"nonnative buckthorns: common buckthorn, Dahurian buckthorn","s":"Rhamnus cathartica, R. davurica","y":"2011","k":"rhaspp"},{"a":"LONSPP","c":"nonnative honeysuckles: sweet breath of spring, Amur honeysuckle, Morrow's honeysuckle, Tatarian honeysuckle, showy fly honeysuckle, dwarf honeysuckle","s":"Lonicera spp.: Lonicera fragrantissima, L. maackii, L. morrowii, L. tatarica, L. x bella, L. xylosteum","y":"2005","k":"lonspp"},{"a":"POPSPP","c":"nonnative poplars: white poplar and hybrids","s":"Populus spp.: Populus alba, P. x canescens, P. x heimburgeri, P. x rouleauiana, P. tomentosa","y":"2010","k":"popspp"},{"a":"ROSNUT","c":"Nootka rose","s":"Rosa nutkana","y":"1993","k":"rosnut"},{"a":"PEMA","c":"North American deermouse","s":"Peromyscus maniculatus","y":"1995","k":"pema"},{"a":"MORPEN","c":"northern bayberry","s":"Morella pensylvanica","y":"2006","k":"morpen"},{"a":"GALSPP","c":"northern bedstrw, fragrant bedstraw","s":"Galium boreale, G. triflorum","y":"2005","k":"galspp"},{"a":"COVI","c":"northern bobwhite","s":"Colinus virginianus","y":"2024","k":"covi"},{"a":"DIELON","c":"northern bush honeysuckle","s":"Diervilla lonicera","y":"1993","k":"dielon"},{"a":"ACGE","c":"northern goshawk","s":"Accipiter gentilis","y":"2013","k":"acge"},{"a":"CIHU","c":"northern harrier","s":"Circus hudsonius","y":"1993","k":"cihu"},{"a":"QUEELL","c":"northern pin oak","s":"Quercus ellipsoidalis","y":"1993","k":"queell"},{"a":"ANAC","c":"northern pintail","s":"Anas acuta","y":"1993","k":"anac"},{"a":"PRLO","c":"northern raccoon","s":"Procyon lotor","y":"1995","k":"prlo"},{"a":"QUERUB","c":"northern red oak","s":"Quercus rubra","y":"1991","k":"querub"},{"a":"MYRU","c":"northern red-backed vole","s":"Myodes rutilus","y":"1994","k":"myru"},{"a":"LOCA","c":"northern river otter","s":"Lontra canadensis","y":"1993","k":"loca"},{"a":"THUOCC","c":"northern white-cedar","s":"Thuja occidentalis","y":"1993","k":"thuocc"},{"a":"ACEPLA","c":"Norway maple","s":"Acer platanoides","y":"2003","k":"acepla"},{"a":"PICABI","c":"Norway spruce","s":"Picea abies","y":"1994","k":"picabi"},{"a":"TETNUT","c":"Nuttall's horsebrush","s":"Tetradymia nuttallii","y":"2002","k":"tetnut"},{"a":"HOLDIS","c":"oceanspray","s":"Holodiscus discolor","y":"2010","k":"holdis"},{"a":"FOUSPL","c":"ocotillo","s":"Fouquieria splendens","y":"1994","k":"fouspl"},{"a":"SCHACT","c":"octopus tree","s":"Schefflera actinophylla","y":"2011","k":"schact"},{"a":"GEUTRI","c":"old man's whiskers","s":"Geum triflorum","y":"2006","k":"geutri"},{"a":"JUNMON","c":"oneseed juniper","s":"Juniperus monosperma","y":"2002","k":"junmon"},{"a":"DANUNI","c":"onespike danthonia","s":"Danthonia unispicata","y":"2000","k":"danuni"},{"a":"HIEAUR","c":"orange hawkweed","s":"Hieracium aurantiacum","y":"2010","k":"hieaur"},{"a":"DACGLO","c":"orchardgrass","s":"Dactylis glomerata","y":"1992","k":"dacglo"},{"a":"DIOR","c":"Ord's kangaroo rat","s":"Dipodomys ordii","y":"1995","k":"dior"},{"a":"PAXMYR","c":"Oregon boxleaf","s":"Paxistima myrsinites","y":"1991","k":"paxmyr"},{"a":"QUEGAR","c":"Oregon white oak","s":"Quercus garryana","y":"2007","k":"quegar"},{"a":"CELORB","c":"Oriental bittersweet","s":"Celastrus orbiculatus","y":"2011","k":"celorb"},{"a":"POLCESL","c":"Oriental lady's thumb","s":"Polygonum caespitosum var. longisetum","y":"2010","k":"polcesl"},{"a":"MACPOM","c":"osage-orange","s":"Maclura pomifera","y":"1994","k":"macpom"},{"a":"PAHA","c":"osprey","s":"Pandion haliaetus","y":"1993","k":"paha"},{"a":"VACOVL","c":"oval-leaf huckleberry","s":"Vaccinium ovalifolium","y":"1990","k":"vacovl"},{"a":"QUELYR","c":"overcup oak","s":"Quercus lyrata","y":"1993","k":"quelyr"},{"a":"ARTPAP","c":"Owyhee sage","s":"Artemisia papposa","y":"2009","k":"artpap"},{"a":"CORNUT","c":"Pacific dogwood","s":"Cornus nuttallii","y":"2005","k":"cornut"},{"a":"ARBMEN","c":"Pacific madrone","s":"Arbutus menziesii","y":"2007","k":"arbmen"},{"a":"TOXDIV","c":"Pacific poison-oak","s":"Toxicodendron diversilobum","y":"1994","k":"toxdiv"},{"a":"PINPONP","c":"Pacific ponderosa pine, Columbia ponderosa pine","s":"Pinus ponderosa var. benthamiana, P. ponderosa var. ponderosa","y":"2018","k":"pinponp"},{"a":"RHOMAC","c":"Pacific rhododendron","s":"Rhododendron macrophyllum","y":"2021","k":"rhomac"},{"a":"ABIAMA","c":"Pacific silver fir","s":"Abies amabilis","y":"1992","k":"abiama"},{"a":"TAXBRE","c":"Pacific yew","s":"Taxus brevifolia","y":"1990","k":"taxbre"},{"a":"LYCPAL","c":"pale desert-thorn","s":"Lycium pallidum","y":"1994","k":"lycpal"},{"a":"IRIPSE","c":"paleyellow iris","s":"Iris pseudacorus","y":"2009","k":"iripse"},{"a":"BETPAP","c":"paper birch","s":"Betula papyrifera","y":"1991","k":"betpap"},{"a":"SCLPAP","c":"paperspine fishhook cactus","s":"Sclerocactus papyracanthus","y":"1994","k":"sclpap"},{"a":"UROMUT","c":"para grass","s":"Urochloa mutica","y":"2010","k":"uromut"},{"a":"SALMOT","c":"park willow","s":"Salix monticola","y":"1992","k":"salmot"},{"a":"PINQUA","c":"Parry pinyon","s":"Pinus quadrifolia","y":"1993","k":"pinqua"},{"a":"CHAFAS","c":"partridge pea","s":"Chamaecrista fasciculata","y":"1992","k":"chafas"},{"a":"MITREP","c":"partridgeberry","s":"Mitchella repens","y":"1993","k":"mitrep"},{"a":"ASITRI","c":"pawpaw","s":"Asimina triloba","y":"1993","k":"asitri"},{"a":"SALAMY","c":"peachleaf willow","s":"Salix amygdaloides","y":"2012","k":"salamy"},{"a":"CARILL","c":"pecan","s":"Carya illinoinensis","y":"1992","k":"carill"},{"a":"CARPES","c":"Pennsylvania sedge","s":"Carex pensylvanica","y":"1992","k":"carpes"},{"a":"FAPE","c":"peregrine falcon","s":"Falco peregrinus","y":"2010","k":"fape"},{"a":"LOLPERP","c":"perennial ryegrass","s":"Lolium perenne subsp. perenne","y":"1992","k":"lolperp"},{"a":"VINSPP","c":"periwinkles: bigleaf periwinkle, common periwinkle","s":"Vinca spp.: Vinca major, V. minor","y":"2009","k":"vinspp"},{"a":"CARGLA","c":"pignut hickory","s":"Carya glabra","y":"1991","k":"cargla"},{"a":"PRUPEN","c":"pin cherry","s":"Prunus pensylvanica","y":"2004","k":"prupen"},{"a":"QUEPAL","c":"pin oak","s":"Quercus palustris","y":"1992","k":"quepal"},{"a":"JUNPIN","c":"Pinchot's juniper","s":"Juniperus pinchotii","y":"2007","k":"junpin"},{"a":"HUDERI","c":"pine barren goldenheather","s":"Hudsonia ericoides","y":"2005","k":"huderi"},{"a":"FREDEC","c":"Pine Hill flannelbush","s":"Fremontodendron decumbens","y":"2022","k":"fredec"},{"a":"CALRUB","c":"pinegrass","s":"Calamagrostis rubescens","y":"2000","k":"calrub"},{"a":"ARISTR","c":"pineland threeawn","s":"Aristida stricta","y":"1992","k":"aristr"},{"a":"ARCNEV","c":"pinemat manzanita","s":"Arctostaphylos nevadensis","y":"1993","k":"arcnev"},{"a":"RHOPER","c":"pink azalea","s":"Rhododendron periclymenoides","y":"1992","k":"rhoper"},{"a":"LONHIS","c":"pink honeysuckle","s":"Lonicera hispidula","y":"2007","k":"lonhis"},{"a":"ECHFEN","c":"pinkflower hedgehog cactus","s":"Echinocereus fendleri","y":"2008","k":"echfen"},{"a":"GYCY","c":"pinyon jay","s":"Gymnorhinus cyanocephalus","y":"2006","k":"gycy"},{"a":"PIPFIM","c":"pinyon ricegrass","s":"Piptochaetium fimbriatum","y":"2008","k":"pipfim"},{"a":"CHIUMB","c":"pipsissewa","s":"Chimaphila umbellata","y":"1994","k":"chiumb"},{"a":"PINRIG","c":"pitch pine","s":"Pinus rigida","y":"2007","k":"pinrig"},{"a":"POAARI","c":"plains bluegrass","s":"Poa arida","y":"1998","k":"poaari"},{"a":"ERAINT","c":"plains lovegrass","s":"Eragrostis intermedia","y":"1994","k":"eraint"},{"a":"MUHCUS","c":"plains muhly","s":"Muhlenbergia cuspidata","y":"2009","k":"muhcus"},{"a":"OPUPOL","c":"plains pricklypear","s":"Opuntia polyacantha","y":"2000","k":"opupol"},{"a":"CALMON","c":"plains reedgrass","s":"Calamagrostis montanensis","y":"2006","k":"calmon"},{"a":"ARCPUN","c":"pointleaf manzanita","s":"Arctostaphylos pungens","y":"2005","k":"arcpun"},{"a":"TAXSPP","c":"pond cypress, bald cypress","s":"Taxodium ascendens, T. distichum","y":"1992","k":"taxspp"},{"a":"PINSER","c":"pond pine","s":"Pinus serotina","y":"2000","k":"pinser"},{"a":"HESSPA","c":"porcupinegrass","s":"Hesperostipa spartea","y":"1991","k":"hesspa"},{"a":"CHALAW","c":"Port Orford-cedar","s":"Chamaecyparis lawsoniana","y":"2023","k":"chalaw"},{"a":"ILEDEC","c":"possumhaw","s":"Ilex decidua","y":"1993","k":"iledec"},{"a":"QUESTE","c":"post oak","s":"Quercus stellata","y":"1992","k":"queste"},{"a":"DANSPI","c":"poverty oatgrass","s":"Danthonia spicata","y":"2000","k":"danspi"},{"a":"SPAPEC","c":"prairie cordgrass","s":"Spartina pectinata","y":"1991","k":"spapec"},{"a":"SPOHET","c":"prairie dropseed","s":"Sporobolus heterolepis","y":"1992","k":"spohet"},{"a":"FAME","c":"prairie falcon","s":"Falco mexicanus","y":"1994","k":"fame"},{"a":"KOEMAC","c":"prairie Junegrass","s":"Koeleria macrantha","y":"2000","k":"koemac"},{"a":"ROSARK","c":"prairie rose","s":"Rosa arkansana","y":"2006","k":"rosark"},{"a":"CALLON","c":"prairie sandreed","s":"Calamovilfa longifolia","y":"2005","k":"callon"},{"a":"RIBLAC","c":"prickly currant","s":"Ribes lacustre","y":"1995","k":"riblac"},{"a":"ROSACI","c":"prickly rose","s":"Rosa acicularis","y":"1990","k":"rosaci"},{"a":"PAUTOM","c":"princesstree","s":"Paulownia tomentosa","y":"2009","k":"pautom"},{"a":"LIGSPP","c":"privets: Amur privet, Japanese privet, Chinese privet, European privet","s":"Ligustrum spp.: Ligustrum amurense, L. japonicum, L. sinense, L. vulgare","y":"2003","k":"ligspp"},{"a":"ANAM","c":"pronghorn","s":"Antilocapra americana","y":"1995","k":"anam"},{"a":"POLAVI","c":"prostrate knotweed","s":"Polygonum aviculare","y":"2010","k":"polavi"},{"a":"BROINEP","c":"Pumpelly's brome","s":"Bromus inermis subsp. pumpellianus","y":"1994","k":"broinep"},{"a":"QUEPUN","c":"pungent oak","s":"Quercus pungens","y":"1993","k":"quepun"},{"a":"ECHANG","c":"purple coneflower","s":"Echinacea angustifolia","y":"2005","k":"echang"},{"a":"LYTSAL","c":"purple loosestrife","s":"Lythrum salicaria","y":"2002","k":"lytsal"},{"a":"NASPUL","c":"purple needlegrass","s":"Nassella pulchra","y":"2002","k":"naspul"},{"a":"SARPUR","c":"purple pitcherplant","s":"Sarracenia purpurea","y":"1991","k":"sarpur"},{"a":"DALPUR","c":"purple prairie clover","s":"Dalea purpurea","y":"2005","k":"dalpur"},{"a":"CALPUR","c":"purple reedgrass","s":"Calamagrostis purpurascens","y":"1992","k":"calpur"},{"a":"ARIPUR","c":"purple threeawn","s":"Aristida purpurea","y":"1997","k":"aripur"},{"a":"SALDIS","c":"pussy willow","s":"Salix discolor","y":"2007","k":"saldis"},{"a":"BRID","c":"pygmy rabbit","s":"Brachylagus idahoensis","y":"1994","k":"brid"},{"a":"ARTPYG","c":"pygmy sagebrush","s":"Artemisia pygmaea","y":"2005","k":"artpyg"},{"a":"ELYREP","c":"quackgrass","s":"Elymus repens","y":"1992","k":"elyrep"},{"a":"POPTRE","c":"quaking aspen","s":"Populus tremuloides","y":"1996","k":"poptre"},{"a":"ANTRAC","c":"raceme pussytoes","s":"Antennaria racemosa","y":"1993","k":"antrac"},{"a":"VULMYU","c":"rattail sixweeks grass","s":"Vulpia myuros","y":"2006","k":"vulmyu"},{"a":"ACASPH","c":"rayless goldenhead","s":"Acamptopappus sphaerocephalus","y":"1991","k":"acasph"},{"a":"ALNRUB","c":"red alder","s":"Alnus rubra","y":"1989","k":"alnrub"},{"a":"ACTRUB","c":"red baneberry","s":"Actaea rubra","y":"1990","k":"actrub"},{"a":"AQUCAN","c":"red columbine","s":"Aquilegia canadensis","y":"1992","k":"aqucan"},{"a":"RIBTRI","c":"red currant","s":"Ribes triste","y":"2006","k":"ribtri"},{"a":"SAMRAC","c":"red elderberry","s":"Sambucus racemosa","y":"2008","k":"samrac"},{"a":"FESRUB","c":"red fescue","s":"Festuca rubra","y":"1995","k":"fesrub"},{"a":"VUVU","c":"red fox","s":"Vulpes vulpes","y":"1995","k":"vuvu"},{"a":"ARCRUB","c":"red fruit bearberry","s":"Arctostaphylos rubra","y":"2008","k":"arcrub"},{"a":"VACPAR","c":"red huckleberry","s":"Vaccinium parvifolium","y":"1990","k":"vacpar"},{"a":"ACERUB","c":"red maple","s":"Acer rubrum","y":"1991","k":"acerub"},{"a":"MORRUB","c":"red mulberry","s":"Morus rubra","y":"1993","k":"morrub"},{"a":"PINRES","c":"red pine","s":"Pinus resinosa","y":"2008","k":"pinres"},{"a":"PICRUB","c":"red spruce","s":"Picea rubens","y":"1993","k":"picrub"},{"a":"TAHU","c":"red squirrel","s":"Tamiasciurus hudsonicus","y":"1995","k":"tahu"},{"a":"DRBO","c":"red-cockaded woodpecker","s":"Dryobates borealis","y":"2025","k":"drbo"},{"a":"MEER","c":"red-headed woodpecker","s":"Melanerpes erythrocephalus","y":"2006","k":"meer"},{"a":"BUJA","c":"red-tailed hawk","s":"Buteo jamaicensis","y":"1994","k":"buja"},{"a":"PERBOR","c":"redbay","s":"Persea borbonia","y":"1991","k":"perbor"},{"a":"JUNCOA","c":"redberry juniper","s":"Juniperus coahuilensis","y":"1993","k":"juncoa"},{"a":"CORSER","c":"redosier dogwood","s":"Cornus sericea","y":"2012","k":"corser"},{"a":"AMARET","c":"redroot amaranth","s":"Amaranthus retroflexus","y":"1993","k":"amaret"},{"a":"ADESPA","c":"redshank","s":"Adenostoma sparsifolium","y":"1993","k":"adespa"},{"a":"CEASAN","c":"redstem ceanothus","s":"Ceanothus sanguineus","y":"2000","k":"ceasan"},{"a":"EROCIC","c":"redstem stork's bill","s":"Erodium cicutarium","y":"1992","k":"erocic"},{"a":"AGRGIG","c":"redtop","s":"Agrostis gigantea","y":"1995","k":"agrgig"},{"a":"SEQSEM","c":"redwood","s":"Sequoia sempervirens","y":"1992","k":"seqsem"},{"a":"PHAARU","c":"reed canarygrass","s":"Phalaris arundinacea","y":"2010","k":"phaaru"},{"a":"CLASPP","c":"reindeer lichens: tree reindeer lichen, green reindeer lichen, gray reindeer lichen, star-tipped reindeer lichen, black-footed reindeer lichen","s":"Cladonia spp.: Cladonia arbuscula, C. mitis, C. rangiferina, C. stellaris, C. stygia","y":"2008","k":"claspp"},{"a":"BETGLA","c":"resin birch","s":"Betula glandulosa","y":"2007","k":"betgla"},{"a":"AULPAL","c":"ribbed bog moss","s":"Aulacomnium palustre","y":"2008","k":"aulpal"},{"a":"GERRIC","c":"Richardson's geranium","s":"Geranium richardsonii","y":"1994","k":"gerric"},{"a":"ACHRIC","c":"Richardson's needlegrass","s":"Achnatherum richardsonii","y":"1992","k":"achric"},{"a":"SALRIC","c":"Richardson's willow","s":"Salix richardsonii","y":"1992","k":"salric"},{"a":"PHCO","c":"ring-necked pheasant","s":"Phasianus colchicus","y":"1995","k":"phco"},{"a":"BETNIG","c":"river birch","s":"Betula nigra","y":"1993","k":"betnig"},{"a":"CORSEM","c":"rock harlequin","s":"Corydalis sempervirens","y":"2013","k":"corsem"},{"a":"HOLDUM","c":"rockspirea","s":"Holodiscus dumosus","y":"2010","k":"holdum"},{"a":"PINARI","c":"Rocky Mountain bristlecone pine","s":"Pinus aristata","y":"2004","k":"pinari"},{"a":"PSEMENG","c":"Rocky Mountain Douglas-fir","s":"Pseudotsuga menziesii var. glauca","y":"2002","k":"psemeng"},{"a":"JUNSCO","c":"Rocky Mountain juniper","s":"Juniperus scopulorum","y":"2002","k":"junsco"},{"a":"PINCONL","c":"Rocky Mountain lodgepole pine","s":"Pinus contorta var. latifolia","y":"2003","k":"pinconl"},{"a":"ACEGLA","c":"Rocky Mountain maple","s":"Acer glabrum","y":"2001","k":"acegla"},{"a":"SPIDOU","c":"rose spirea","s":"Spiraea douglasii","y":"1995","k":"spidou"},{"a":"CARROS","c":"Ross' sedge","s":"Carex rossii","y":"2008","k":"carros"},{"a":"AGRSCA","c":"rough bentgrass","s":"Agrostis scabra","y":"1992","k":"agrsca"},{"a":"XANSTR","c":"rough cocklebur","s":"Xanthium strumarium","y":"1992","k":"xanstr"},{"a":"FESSPP","c":"rough fescues: Altai fescue, rough fescue, plains rough fescue","s":"Festuca altaica, F. campestris, F. hallii","y":"2000","k":"fesspp"},{"a":"BULA","c":"rough-legged hawk","s":"Buteo lagopus","y":"1995","k":"bula"},{"a":"SMIROT","c":"roundleaf greenbrier","s":"Smilax rotundifolia","y":"1994","k":"smirot"},{"a":"DROROT","c":"roundleaf sundew","s":"Drosera rotundifolia","y":"1994","k":"drorot"},{"a":"ERINAU","c":"rubber rabbitbrush","s":"Ericameria nauseosa","y":"1999","k":"erinau"},{"a":"BOUM","c":"ruffed grouse","s":"Bonasa umbellus","y":"2011","k":"boum"},{"a":"CHOJUN","c":"rush skeletonweed","s":"Chondrilla juncea","y":"2004","k":"chojun"},{"a":"SHECAN","c":"russet buffaloberry","s":"Shepherdia canadensis","y":"1991","k":"shecan"},{"a":"ACRREP","c":"Russian knapweed","s":"Acroptilon repens","y":"2001","k":"acrrep"},{"a":"PSAJUN","c":"Russian wildrye","s":"Psathyrostachys juncea","y":"2005","k":"psajun"},{"a":"ELAANG","c":"Russian-olive","s":"Elaeagnus angustifolia","y":"2005","k":"elaang"},{"a":"SALKAL","c":"Russian-thistle","s":"Salsola kali","y":"1992","k":"salkal"},{"a":"MENFER","c":"rusty menziesia","s":"Menziesia ferruginea","y":"1992","k":"menfer"},{"a":"NOLMIC","c":"sacahuista","s":"Nolina microcarpa","y":"2007","k":"nolmic"},{"a":"NANDOM","c":"sacred bamboo","s":"Nandina domestica","y":"2009","k":"nandom"},{"a":"RANGLA","c":"sagebrush buttercup","s":"Ranunculus glaberrimus","y":"2012","k":"rangla"},{"a":"CARGIG","c":"saguaro","s":"Carnegiea gigantea","y":"2021","k":"cargig"},{"a":"BRATOU","c":"Sahara mustard","s":"Brassica tournefortii","y":"2023","k":"bratou"},{"a":"GAUSHA","c":"salal","s":"Gaultheria shallon","y":"1990","k":"gausha"},{"a":"LEYSAL","c":"saline wildrye","s":"Leymus salinus","y":"2004","k":"leysal"},{"a":"RUBSPE","c":"salmonberry","s":"Rubus spectabilis","y":"2019","k":"rubspe"},{"a":"DISSPI","c":"saltgrass","s":"Distichlis spicata","y":"2006","k":"disspi"},{"a":"SPAPAT","c":"saltmeadow cordgrass","s":"Spartina patens","y":"1991","k":"spapat"},{"a":"ACAILI","c":"San Diego thorn-mint","s":"Acanthomintha ilicifolia","y":"2006","k":"acaili"},{"a":"ANDHAL","c":"sand  bluestem","s":"Andropogon hallii","y":"1988","k":"andhal"},{"a":"SPOCRY","c":"sand dropseed","s":"Sporobolus cryptandrus","y":"2000","k":"spocry"},{"a":"CERERI","c":"sand heath","s":"Ceratiola ericoides","y":"1992","k":"cereri"},{"a":"PINCLA","c":"sand pine","s":"Pinus clausa","y":"1992","k":"pincla"},{"a":"ARTFIL","c":"sand sagebrush","s":"Artemisia filifolia","y":"2003","k":"artfil"},{"a":"POASEC","c":"Sandberg bluegrass","s":"Poa secunda","y":"1997","k":"poasec"},{"a":"PRUPUM","c":"sandcherry","s":"Prunus pumila","y":"2006","k":"prupum"},{"a":"ANCA","c":"sandhill crane","s":"Antigone canadensis","y":"2009","k":"anca"},{"a":"HESSAR","c":"Sargent's cypress","s":"Hesperocyparis sargentii","y":"1994","k":"hessar"},{"a":"AMEALN","c":"Saskatoon serviceberry","s":"Amelanchier alnifolia","y":"1997","k":"amealn"},{"a":"SASALB","c":"sassafras","s":"Sassafras albidum","y":"1993","k":"sasalb"},{"a":"SMIBON","c":"saw greenbrier","s":"Smilax bona-nox","y":"1994","k":"smibon"},{"a":"SERREP","c":"saw palmetto","s":"Serenoa repens","y":"1991","k":"serrep"},{"a":"ARTRIG","c":"scabland sagebrush","s":"Artemisia rigida","y":"2003","k":"artrig"},{"a":"CASQ","c":"scaled quail","s":"Callipepla squamata","y":"1994","k":"casq"},{"a":"SPHCOC","c":"scarlet globemallow","s":"Sphaeralcea coccinea","y":"2006","k":"sphcoc"},{"a":"QUECOC","c":"scarlet oak","s":"Quercus coccinea","y":"1992","k":"quecoc"},{"a":"PLESCH","c":"Schreber's big red stem moss","s":"Pleurozium schreberi","y":"1992","k":"plesch"},{"a":"PINSYL","c":"Scots pine","s":"Pinus sylvestris","y":"1993","k":"pinsyl"},{"a":"SALSCO","c":"Scouler's willow","s":"Salix scouleriana","y":"2001","k":"salsco"},{"a":"CORAUR","c":"scrambled eggs","s":"Corydalis aurea","y":"1993","k":"coraur"},{"a":"PROPUB","c":"screwbean mesquite","s":"Prosopis pubescens","y":"2005","k":"propub"},{"a":"UNIPAN","c":"seaoats","s":"Uniola paniculata","y":"1994","k":"unipan"},{"a":"LESCUN","c":"sericea lespedeza","s":"Lespedeza cuneata","y":"2010","k":"lescun"},{"a":"ATRCON","c":"shadscale saltbush","s":"Atriplex confertifolia","y":"2001","k":"atrcon"},{"a":"CAROVA","c":"shagbark hickory","s":"Carya ovata","y":"1991","k":"carova"},{"a":"ACST","c":"sharp-shinned hawk","s":"Accipiter striatus","y":"1994","k":"acst"},{"a":"TYPH","c":"sharp-tailed grouse","s":"Tympanuchus phasianellus","y":"1994","k":"typh"},{"a":"HEPNOBA","c":"sharplobe hepatica","s":"Hepatica nobilis var. acuta","y":"1992","k":"hepnoba"},{"a":"CARVAG","c":"sheathed sedge","s":"Carex vaginata","y":"1994","k":"carvag"},{"a":"KALANG","c":"sheep laurel","s":"Kalmia angustifolia","y":"1991","k":"kalang"},{"a":"CASSPP","c":"sheoaks: river sheoak, beach sheoak, gray sheoak","s":"Casuarina spp.: Casuarina cunninghamiana, C. equisetifolia, C. glauca","y":"1992","k":"casspp"},{"a":"SALLUC","c":"shining willow","s":"Salix lucida","y":"2015","k":"salluc"},{"a":"VACMYS","c":"shiny blueberry","s":"Vaccinium myrsinites","y":"1990","k":"vacmys"},{"a":"PINCONC","c":"shore pine","s":"Pinus contorta var. contorta","y":"1993","k":"pinconc"},{"a":"ASFL","c":"short-eared owl","s":"Asio flammeus","y":"1994","k":"asfl"},{"a":"SALBRA","c":"shortfruit willow","s":"Salix brachycarpa","y":"1993","k":"salbra"},{"a":"PINECH","c":"shortleaf pine","s":"Pinus echinata","y":"1992","k":"pinech"},{"a":"TETSPI","c":"shortspine horsebrush","s":"Tetradymia spinosa","y":"2002","k":"tetspi"},{"a":"ASCSPE","c":"showy milkweed","s":"Asclepias speciosa","y":"2005","k":"ascspe"},{"a":"LESBIC","c":"shrub lespedeza","s":"Lespedeza bicolor","y":"2010","k":"lesbic"},{"a":"DASFRUF","c":"shrubby cinquefoil","s":"Dasiphora fruticosa subsp. floribunda","y":"2001","k":"dasfruf"},{"a":"QUESHU","c":"Shumard oak","s":"Quercus shumardii","y":"1993","k":"queshu"},{"a":"BOUCUR","c":"sideoats grama","s":"Bouteloua curtipendula","y":"2003","k":"boucur"},{"a":"RIBROE","c":"Sierra gooseberry","s":"Ribes roezlii","y":"2006","k":"ribroe"},{"a":"PINCONM","c":"Sierra lodgepole pine","s":"Pinus contorta var. murrayana","y":"1993","k":"pinconm"},{"a":"NEYREY","c":"silkreed","s":"Neyraudia reynaudiana","y":"2010","k":"neyrey"},{"a":"ALBJUL","c":"silktree","s":"Albizia julibrissin","y":"2010","k":"albjul"},{"a":"LUPSER","c":"silky lupine","s":"Lupinus sericeus","y":"1993","k":"lupser"},{"a":"ZUCBRA","c":"siltbush","s":"Zuckia brandegeei","y":"2008","k":"zucbra"},{"a":"SHEARG","c":"silver buffaloberry","s":"Shepherdia argentea","y":"1995","k":"shearg"},{"a":"ACESAH","c":"silver maple","s":"Acer saccharinum","y":"1994","k":"acesah"},{"a":"ARTCAN","c":"silver sagebrush","s":"Artemisia cana","y":"2002","k":"artcan"},{"a":"ELACOM","c":"silverberry","s":"Elaeagnus commutata","y":"1994","k":"elacom"},{"a":"FRAANO","c":"singleleaf ash","s":"Fraxinus anomala","y":"1993","k":"fraano"},{"a":"PINMON","c":"singleleaf pinyon","s":"Pinus monophylla","y":"2001","k":"pinmon"},{"a":"ALNVIRS","c":"Sitka alder","s":"Alnus viridis subsp. sinuata","y":"1989","k":"alnvirs"},{"a":"PICSIT","c":"Sitka spruce","s":"Picea sitchensis","y":"1992","k":"picsit"},{"a":"BOUBAR","c":"sixweeks grama","s":"Bouteloua barbata","y":"2005","k":"boubar"},{"a":"VULOCT","c":"sixweeks grass","s":"Vulpia octoflora","y":"2006","k":"vuloct"},{"a":"RHUTRI","c":"skunkbush sumac","s":"Rhus trilobata","y":"2004","k":"rhutri"},{"a":"PINELL","c":"slash pine","s":"Pinus elliottii","y":"1992","k":"pinell"},{"a":"VERHYB","c":"slender bunchflower","s":"Veratrum hybridum","y":"1994","k":"verhyb"},{"a":"DESELO","c":"slender hairgrass","s":"Deschampsia elongata","y":"1994","k":"deselo"},{"a":"SCHTEN","c":"slender little bluestem","s":"Schizachyrium tenerum","y":"1994","k":"schten"},{"a":"ELYTRA","c":"slender wheatgrass","s":"Elymus trachycaulus","y":"1992","k":"elytra"},{"a":"DODLEP","c":"slenderhorn spineflower","s":"Dodecahema leptoceras","y":"2013","k":"dodlep"},{"a":"TRIMUT","c":"slim tridens","s":"Tridens muticus","y":"1992","k":"trimut"},{"a":"ULMRUB","c":"slippery elm","s":"Ulmus rubra","y":"1993","k":"ulmrub"},{"a":"SANMIN","c":"small burnet","s":"Sanguisorba minor","y":"2008","k":"sanmin"},{"a":"CAMQUA","c":"small camas","s":"Camassia quamash","y":"1993","k":"camqua"},{"a":"VACOXY","c":"small cranberry","s":"Vaccinium oxycoccos","y":"1992","k":"vacoxy"},{"a":"VULMIC","c":"small sixweeks grass","s":"Vulpia microstachys","y":"2006","k":"vulmic"},{"a":"ISOSPP","c":"small whorled pogonia, large whorled pogonia","s":"Isotria medeoloides, I. verticillata","y":"2019","k":"isospp"},{"a":"ANTPAR","c":"small-leaf pussytoes","s":"Antennaria parvifolia","y":"2011","k":"antpar"},{"a":"RUBCAN","c":"smooth blackberry","s":"Rubus canadensis","y":"1994","k":"rubcan"},{"a":"SYMLAE","c":"smooth blue aster","s":"Symphyotrichum laeve","y":"1992","k":"symlae"},{"a":"BROINE","c":"smooth brome","s":"Bromus inermis","y":"1996","k":"broine"},{"a":"SPAALT","c":"smooth cordgrass","s":"Spartina alterniflora","y":"1991","k":"spaalt"},{"a":"RHUGLA","c":"smooth sumac","s":"Rhus glabra","y":"2000","k":"rhugla"},{"a":"ANCE","c":"snow goose","s":"Anser caerulescens","y":"1993","k":"ance"},{"a":"CEAVEL","c":"snowbrush ceanothus","s":"Ceanothus velutinus","y":"2001","k":"ceavel"},{"a":"LEAM","c":"snowshoe hare","s":"Lepus americanus","y":"1995","k":"leam"},{"a":"YUCELA","c":"soaptree yucca","s":"Yucca elata","y":"2001","k":"yucela"},{"a":"YUCGLA","c":"soapweed yucca","s":"Yucca glauca","y":"2005","k":"yucgla"},{"a":"BROHOR","c":"soft brome","s":"Bromus hordeaceus","y":"1998","k":"brohor"},{"a":"SCHTAB","c":"softstem bulrush","s":"Schoenoplectus tabernaemontani","y":"1993","k":"schtab"},{"a":"COLTEN","c":"soil jelly lichen","s":"Collema tenax","y":"1993","k":"colten"},{"a":"QUETUR","c":"Sonoran scrub oak","s":"Quercus turbinella","y":"1999","k":"quetur"},{"a":"POCA","c":"sora","s":"Porzana carolina","y":"2006","k":"poca"},{"a":"OXYARB","c":"sourwood","s":"Oxydendrum arboreum","y":"1992","k":"oxyarb"},{"a":"JUGCAL","c":"southern California walnut","s":"Juglans californica","y":"1993","k":"jugcal"},{"a":"QUEVIR","c":"southern live oak","s":"Quercus virginiana","y":"1992","k":"quevir"},{"a":"MAGGRA","c":"southern magnolia","s":"Magnolia grandiflora","y":"1991","k":"maggra"},{"a":"QUEFAL","c":"southern red oak, cherrybark oak","s":"Quercus falcata, Q. pagoda","y":"1992","k":"quefal"},{"a":"ARTABR","c":"southernwood","s":"Artemisia abrotanum","y":"1998","k":"artabr"},{"a":"PINPONS","c":"southwestern ponderosa pine, Rocky Mountain ponderosa pine","s":"Pinus ponderosa var. brachyptera, P. p. var. scopulorum","y":"2003","k":"pinpons"},{"a":"PINSTO","c":"southwestern white pine","s":"Pinus strobiformis","y":"2025","k":"pinsto"},{"a":"SPAJUN","c":"Spanish broom","s":"Spartium junceum","y":"2005","k":"spajun"},{"a":"AGREXA","c":"spike bentgrass","s":"Agrostis exarata","y":"1994","k":"agrexa"},{"a":"LEUKIN","c":"spike fescue","s":"Leucopoa kingii","y":"2005","k":"leukin"},{"a":"MUHGLO","c":"spiked muhly","s":"Muhlenbergia glomerata","y":"2011","k":"muhglo"},{"a":"TETCAN","c":"spineless horsebrush","s":"Tetradymia canescens","y":"2001","k":"tetcan"},{"a":"GRASPI","c":"spiny hopsage","s":"Grayia spinosa","y":"1999","k":"graspi"},{"a":"PHLHOO","c":"spiny phlox","s":"Phlox hoodii","y":"2006","k":"phlhoo"},{"a":"HYLSPL","c":"splendid feather moss","s":"Hylocomium splendens","y":"1992","k":"hylspl"},{"a":"ANDTERT","c":"split bluestem","s":"Andropogon ternarius var. ternarius","y":"1994","k":"andtert"},{"a":"GERMAC","c":"spotted geranium","s":"Geranium maculatum","y":"1992","k":"germac"},{"a":"CENSTOM","c":"spotted knapweed","s":"Centaurea stoebe subsp. micranthos","y":"2021","k":"censtom"},{"a":"STOC","c":"spotted owl","s":"Strix occidentalis","y":"2007","k":"stoc"},{"a":"APOAND","c":"spreading dogbane","s":"Apocynum androsaemifolium","y":"2005","k":"apoand"},{"a":"MONDIF","c":"spreading minerslettuce","s":"Montia diffusa","y":"1993","k":"mondif"},{"a":"PINGLA","c":"spruce pine","s":"Pinus glabra","y":"1993","k":"pingla"},{"a":"VIBEDU","c":"squashberry","s":"Viburnum edule","y":"1992","k":"vibedu"},{"a":"ELYELY","c":"squirreltail","s":"Elymus elymoides","y":"2001","k":"elyely"},{"a":"RHUTYP","c":"staghorn sumac","s":"Rhus typhina","y":"1994","k":"rhutyp"},{"a":"PURSTA","c":"Stansbury cliffrose","s":"Purshia stansburiana","y":"1995","k":"pursta"},{"a":"MAISTE","c":"starry false lily of the valley","s":"Maianthemum stellatum","y":"1992","k":"maiste"},{"a":"POTGLA","c":"sticky cinquefoil","s":"Potentilla glandulosa","y":"2008","k":"potgla"},{"a":"ARCVIS","c":"sticky whiteleaf manzanita","s":"Arctostaphylos viscida","y":"2015","k":"arcvis"},{"a":"GALAPA","c":"stickywilly","s":"Galium aparine","y":"2005","k":"galapa"},{"a":"LYCANN","c":"stiff clubmoss","s":"Lycopodium annotinum","y":"1993","k":"lycann"},{"a":"URTDIO","c":"stinging nettle","s":"Urtica dioica","y":"1995","k":"urtdio"},{"a":"PAEFOE","c":"stinkvine","s":"Paederia foetida","y":"2009","k":"paefoe"},{"a":"ILIRIV","c":"streambank wild hollyhock","s":"Iliamna rivularis","y":"1993","k":"iliriv"},{"a":"ACEPEN","c":"striped maple","s":"Acer pensylvanicum","y":"1993","k":"acepen"},{"a":"BOLROB","c":"sturdy bulrush","s":"Bolboschoenus robustus","y":"1991","k":"bolrob"},{"a":"ABILAS","c":"subalpine fir","s":"Abies lasiocarpa","y":"1991","k":"abilas"},{"a":"LARLYA","c":"subalpine larch","s":"Larix lyallii","y":"1991","k":"larlya"},{"a":"PEDHYP","c":"subterranean Indian breadroot","s":"Pediomelum hypogaeum","y":"1993","k":"pedhyp"},{"a":"ACESAC","c":"sugar maple","s":"Acer saccharum","y":"1991","k":"acesac"},{"a":"PINLAM","c":"sugar pine","s":"Pinus lambertiana","y":"1992","k":"pinlam"},{"a":"CELLAE","c":"sugarberry","s":"Celtis laevigata","y":"1993","k":"cellae"},{"a":"POTREC","c":"sulfur cinquefoil","s":"Potentilla recta","y":"2003","k":"potrec"},{"a":"VITAES","c":"summer grape","s":"Vitis aestivalis","y":"1994","k":"vitaes"},{"a":"LUPPER","c":"sundial lupine","s":"Lupinus perennis","y":"2006","k":"lupper"},{"a":"BUSW","c":"Swainson's hawk","s":"Buteo swainsoni","y":"1994","k":"busw"},{"a":"LISW","c":"Swainson's warbler","s":"Limnothlypis swainsonii","y":"2006","k":"lisw"},{"a":"CYNSPP","c":"swallow-worts: Louise's swallow-wort, European swallow-wort","s":"Cynanchum spp.: Cynanchum louiseae, C. rossicum","y":"2009","k":"cynspp"},{"a":"QUESPP3","c":"swamp chestnut oak, chestnut oak","s":"Quercus michauxii, Q. montana","y":"1992","k":"quespp3"},{"a":"EUBRAC","c":"swamp doghobble","s":"Eubotrys racemosus","y":"1992","k":"eubrac"},{"a":"ASCINC","c":"swamp milkweed","s":"Asclepias incarnata","y":"1992","k":"ascinc"},{"a":"CYRRAC","c":"swamp titi","s":"Cyrilla racemiflora","y":"1992","k":"cyrrac"},{"a":"QUEBIC","c":"swamp white oak","s":"Quercus bicolor","y":"1992","k":"quebic"},{"a":"MAGVIR","c":"sweetbay","s":"Magnolia virginiana","y":"2008","k":"magvir"},{"a":"MELSPP","c":"sweetclovers: white sweetclover, yellow sweetclover","s":"Melilotus spp.: Melilotus alba, M. officinalis","y":"2010","k":"melspp"},{"a":"COMPER","c":"sweetfern","s":"Comptonia peregrina","y":"1993","k":"comper"},{"a":"HIEODO","c":"sweetgrass","s":"Hierochloe odorata","y":"1994","k":"hieodo"},{"a":"LIQSTY","c":"sweetgum","s":"Liquidambar styraciflua","y":"1992","k":"liqsty"},{"a":"VUVE","c":"swift fox","s":"Vulpes velox","y":"2009","k":"vuve"},{"a":"PANVIR","c":"switchgrass","s":"Panicum virgatum","y":"1993","k":"panvir"},{"a":"PINPUN","c":"Table Mountain pine","s":"Pinus pungens","y":"2007","k":"pinpun"},{"a":"LUPCAU","c":"tailcup lupine","s":"Lupinus caudatus","y":"1993","k":"lupcau"},{"a":"MERPAN","c":"tall bluebells","s":"Mertensia paniculata","y":"2007","k":"merpan"},{"a":"SCHARU","c":"tall fescue","s":"Schedonorus arundinaceus","y":"1995","k":"scharu"},{"a":"HIEPIO","c":"tall hawkweed","s":"Hieracium piloselloides","y":"2011","k":"hiepio"},{"a":"SISALT","c":"tall tumblemustard","s":"Sisymbrium altissimum","y":"2003","k":"sisalt"},{"a":"LARLAR","c":"tamarack","s":"Larix laricina","y":"1991","k":"larlar"},{"a":"TAMSPP","c":"tamarisk: five-stamen tamarisk, French tamarisk, small-flowered tamarisk, saltcedar","s":"Tamarix spp.: Tamarix chinensis, T. gallica, T. parviflora, T. ramosissima","y":"2003","k":"tamspp"},{"a":"NOTDEN","c":"tanoak","s":"Notholithocarpus densiflorus","y":"2008","k":"notden"},{"a":"DICACU","c":"tapered rosette grass","s":"Dichanthelium acuminatum","y":"1995","k":"dicacu"},{"a":"ARTDRA","c":"tarragon","s":"Artemisia dracunculus","y":"2005","k":"artdra"},{"a":"EUCGLO","c":"Tasmanian bluegum","s":"Eucalyptus globulus","y":"1993","k":"eucglo"},{"a":"SALPUL","c":"tealeaf willow","s":"Salix pulchra","y":"1991","k":"salpul"},{"a":"DIPSPP","c":"teasel: Fuller's teasel, cutleaf teasel","s":"Dipsacus fullonum, D. laciniatus","y":"2009","k":"dipspp"},{"a":"HESFOR","c":"Tecate cypress","s":"Hesperocyparis forbesii","y":"1994","k":"hesfor"},{"a":"ARBXAL","c":"Texas madrone","s":"Arbutus xalapensis","y":"1990","k":"arbxal"},{"a":"DIOTEX","c":"Texas persimmon","s":"Diospyros texana","y":"1994","k":"diotex"},{"a":"ELYLAN","c":"thickspike wheatgrass","s":"Elymus lanceolatus","y":"2002","k":"elylan"},{"a":"RUBPAR","c":"thimbleberry","s":"Rubus parviflorus","y":"2012","k":"rubpar"},{"a":"ERIVIR","c":"thinleaf cottonsedge","s":"Eriophorum viridicarinatum","y":"2013","k":"erivir"},{"a":"VACMEM","c":"thinleaf huckleberry","s":"Vaccinium membranaceum","y":"2000","k":"vacmem"},{"a":"ELAPUN","c":"thorny-olive","s":"Elaeagnus pungens","y":"2011","k":"elapun"},{"a":"CARFIL","c":"threadleaf sedge","s":"Carex filifolia","y":"2006","k":"carfil"},{"a":"GUTMIC","c":"threadleaf snakeweed","s":"Gutierrezia microcephala","y":"1994","k":"gutmic"},{"a":"COPTRI","c":"threeleaf goldthread","s":"Coptis trifolia","y":"1992","k":"coptri"},{"a":"ARTTRP","c":"threetip sagebrush","s":"Artemisia tripartita","y":"1999","k":"arttrp"},{"a":"FESTHU","c":"Thurber's fescue","s":"Festuca thurberi","y":"2009","k":"festhu"},{"a":"ACHTHU","c":"Thurber's needlegrass","s":"Achnatherum thurberianum","y":"2000","k":"achthu"},{"a":"DANINT","c":"timber oatgrass","s":"Danthonia intermedia","y":"1999","k":"danint"},{"a":"CRHO","c":"timber rattlesnake","s":"Crotalus horridus","y":"2008","k":"crho"},{"a":"PHLPRA","c":"timothy","s":"Phleum pratense","y":"1993","k":"phlpra"},{"a":"PLEMUT","c":"tobosagrass","s":"Pleuraphis mutica","y":"2012","k":"plemut"},{"a":"PANREP","c":"torpedo grass","s":"Panicum repens","y":"2011","k":"panrep"},{"a":"PINTOR","c":"Torrey pine","s":"Pinus torreyana","y":"1993","k":"pintor"},{"a":"LYCTOR","c":"Torrey wolfberry","s":"Lycium torreyi","y":"1994","k":"lyctor"},{"a":"URTO","c":"Townsend's ground squirrel","s":"Urocitellus townsendii","y":"1996","k":"urto"},{"a":"HETARB","c":"toyon","s":"Heteromeles arbutifolia","y":"1990","k":"hetarb"},{"a":"AILALT","c":"tree-of-heaven","s":"Ailanthus altissima","y":"2010","k":"ailalt"},{"a":"AMBDEL","c":"triangle bur ragweed","s":"Ambrosia deltoidea","y":"1994","k":"ambdel"},{"a":"SOLVIA","c":"tropical soda apple","s":"Solanum viarum","y":"2009","k":"solvia"},{"a":"CYBU","c":"trumpeter swan","s":"Cygnus buccinator","y":"1993","k":"cybu"},{"a":"DESCES","c":"tufted hairgrass","s":"Deschampsia cespitosa","y":"1995","k":"desces"},{"a":"ELYMAC","c":"tufted wheatgrass","s":"Elymus macrourus","y":"1993","k":"elymac"},{"a":"LIRTUL","c":"tuliptree","s":"Liriodendron tulipifera","y":"1991","k":"lirtul"},{"a":"CYCO","c":"tundra swan","s":"Cygnus columbianus","y":"1993","k":"cyco"},{"a":"QUELAE","c":"turkey oak","s":"Quercus laevis","y":"1992","k":"quelae"},{"a":"THAMON","c":"turpentinebroom","s":"Thamnosma montana","y":"1994","k":"thamon"},{"a":"ERIVAG","c":"tussock cottongrass","s":"Eriophorum vaginatum","y":"2014","k":"erivag"},{"a":"LINBOR","c":"twinflower","s":"Linnaea borealis","y":"1993","k":"linbor"},{"a":"TORRUR","c":"twisted moss","s":"Tortula ruralis","y":"1993","k":"torrur"},{"a":"PINEDU","c":"twoneedle pinyon","s":"Pinus edulis","y":"2002","k":"pinedu"},{"a":"RATCOL","c":"upright prairie coneflower","s":"Ratibida columnifera","y":"1994","k":"ratcol"},{"a":"CARSTR","c":"upright sedge","s":"Carex stricta","y":"1994","k":"carstr"},{"a":"LONUTA","c":"Utah honeysuckle","s":"Lonicera utahensis","y":"1993","k":"lonuta"},{"a":"JUNOST","c":"Utah juniper","s":"Juniperus osteosperma","y":"1999","k":"junost"},{"a":"AMEUTA","c":"Utah serviceberry","s":"Amelanchier utahensis","y":"1999","k":"ameuta"},{"a":"CEAOPH","c":"Vail Lake ceanothus","s":"Ceanothus ophiochilus","y":"2012","k":"ceaoph"},{"a":"QUELOB","c":"valley oak","s":"Quercus lobata","y":"1992","k":"quelob"},{"a":"PROVEL","c":"velvet mesquite","s":"Prosopis velutina","y":"1990","k":"provel"},{"a":"VACMYT","c":"velvetleaf huckleberry","s":"Vaccinium myrtilloides","y":"1990","k":"vacmyt"},{"a":"VENDUB","c":"ventenata","s":"Ventenata dubia","y":"2022","k":"vendub"},{"a":"ACECIR","c":"vine maple","s":"Acer circinatum","y":"1989","k":"acecir"},{"a":"PANOBT","c":"vine-mesquite","s":"Panicum obtusum","y":"1991","k":"panobt"},{"a":"WOOVIR","c":"Virginia chainfern","s":"Woodwardia virginica","y":"1991","k":"woovir"},{"a":"PARQUI","c":"Virginia creeper","s":"Parthenocissus quinquefolia","y":"1991","k":"parqui"},{"a":"PINVIR","c":"Virginia pine","s":"Pinus virginiana","y":"1993","k":"pinvir"},{"a":"PINPONW","c":"Washoe pine","s":"Pinus ponderosa var. washoensis","y":"2018","k":"pinponw"},{"a":"BETOCC","c":"water birch","s":"Betula occidentalis","y":"2012","k":"betocc"},{"a":"QUENIG","c":"water oak","s":"Quercus nigra","y":"1992","k":"quenig"},{"a":"CARAQU","c":"water sedge","s":"Carex aquatilis","y":"2006","k":"caraqu"},{"a":"CEAFOL","c":"wavyleaf ceanothus","s":"Ceanothus foliosus","y":"1992","k":"ceafol"},{"a":"CHLPOM","c":"wavyleaf soap plant","s":"Chlorogalum pomeridianum","y":"2015","k":"chlpom"},{"a":"RIBCER","c":"wax currant","s":"Ribes cereum","y":"1995","k":"ribcer"},{"a":"MORCER","c":"wax myrtle","s":"Morella cerifera","y":"1991","k":"morcer"},{"a":"ERACUR","c":"weeping lovegrass","s":"Eragrostis curvula","y":"2009","k":"eracur"},{"a":"SIME","c":"western bluebird","s":"Sialia mexicana","y":"1995","k":"sime"},{"a":"PTEAQU","c":"western brackenfern","s":"Pteridium aquilinum","y":"1990","k":"pteaqu"},{"a":"TSUHET","c":"western hemlock","s":"Tsuga heterophylla","y":"1992","k":"tsuhet"},{"a":"JUNOCC","c":"western juniper","s":"Juniperus occidentalis","y":"2019","k":"junocc"},{"a":"LAROCC","c":"western larch","s":"Larix occidentalis","y":"2002","k":"larocc"},{"a":"DELOCC","c":"western larkspur","s":"Delphinium x occidentale","y":"1993","k":"delocc"},{"a":"SORSIT","c":"western mountain-ash","s":"Sorbus sitchensis","y":"1993","k":"sorsit"},{"a":"GYMDRY","c":"western oakfern","s":"Gymnocarpium dryopteris","y":"1993","k":"gymdry"},{"a":"GOOOBL","c":"western rattlesnake plantain","s":"Goodyera oblongifolia","y":"2006","k":"gooobl"},{"a":"THUPLI","c":"western redcedar","s":"Thuja plicata","y":"1992","k":"thupli"},{"a":"EURCON","c":"western showy aster","s":"Eurybia conspicua","y":"1993","k":"eurcon"},{"a":"SYMOCC","c":"western snowberry","s":"Symphoricarpos occidentalis","y":"2007","k":"symocc"},{"a":"SAPSAPD","c":"western soapberry","s":"Sapindus saponaria var. drummondii","y":"1990","k":"sapsapd"},{"a":"POLMUN","c":"western swordfern","s":"Polystichum munitum","y":"2015","k":"polmun"},{"a":"PILU","c":"western tanager","s":"Piranga ludoviciana","y":"2006","k":"pilu"},{"a":"DESPIN","c":"western tansymustard","s":"Descurainia pinnata","y":"2003","k":"despin"},{"a":"ANBO","c":"western toad","s":"Anaxyrus boreas","y":"1994","k":"anbo"},{"a":"PASSMI","c":"western wheatgrass","s":"Pascopyrum smithii","y":"1999","k":"passmi"},{"a":"PINMOT","c":"western white pine","s":"Pinus monticola","y":"1992","k":"pinmot"},{"a":"NEAL","c":"western white-throated woodrat","s":"Neotoma albigula","y":"2008","k":"neal"},{"a":"ALNRHO","c":"white alder","s":"Alnus rhombifolia","y":"2014","k":"alnrho"},{"a":"FRAAME","c":"white ash","s":"Fraxinus americana","y":"1991","k":"fraame"},{"a":"ENCFAR","c":"white brittlebush","s":"Encelia farinosa","y":"2024","k":"encfar"},{"a":"TRIREP","c":"white clover","s":"Trifolium repens","y":"1993","k":"trirep"},{"a":"ABICON","c":"white fir","s":"Abies concolor","y":"2001","k":"abicon"},{"a":"HIEALB","c":"white hawkweed","s":"Hieracium albiflorum","y":"2007","k":"hiealb"},{"a":"OXYSER","c":"white locoweed","s":"Oxytropis sericea","y":"1993","k":"oxyser"},{"a":"MORALB","c":"white mulberry","s":"Morus alba","y":"2009","k":"moralb"},{"a":"QUEALB","c":"white oak","s":"Quercus alba","y":"1991","k":"quealb"},{"a":"KRABIC","c":"white ratany","s":"Krameria bicolor","y":"2026","k":"krabic"},{"a":"ARTLUD","c":"white sagebrush","s":"Artemisia ludoviciana","y":"2005","k":"artlud"},{"a":"SPIBET","c":"white spirea","s":"Spiraea betulifolia","y":"1991","k":"spibet"},{"a":"PICGLA","c":"white spruce","s":"Picea glauca","y":"2015","k":"picgla"},{"a":"ODVI","c":"white-tailed deer","s":"Odocoileus virginianus","y":"2013","k":"odvi"},{"a":"PINALB","c":"whitebark pine","s":"Pinus albicaulis","y":"2002","k":"pinalb"},{"a":"VACCON","c":"whitethorn acacia","s":"Vachellia constricta","y":"2004","k":"vaccon"},{"a":"CEACOR","c":"whitethorn ceanothus","s":"Ceanothus cordulatus","y":"2006","k":"ceacor"},{"a":"GRAM","c":"whooping crane","s":"Grus americana","y":"1993","k":"gram"},{"a":"VACMYR","c":"whortleberry","s":"Vaccinium myrtillus","y":"1990","k":"vacmyr"},{"a":"ARCLAT","c":"wideleaf polargrass","s":"Arctagrostis latifolia","y":"1991","k":"arclat"},{"a":"ARANUD","c":"wild sarsaparilla","s":"Aralia nudicaulis","y":"1993","k":"aranud"},{"a":"MEGA","c":"wild turkey","s":"Meleagris gallopavo","y":"1992","k":"mega"},{"a":"QUEPHE","c":"willow oak","s":"Quercus phellos","y":"1992","k":"quephe"},{"a":"RUBPHO","c":"wine raspberry","s":"Rubus phoenicolasius","y":"2009","k":"rubpho"},{"a":"RHUCOP","c":"winged sumac","s":"Rhus copallinum","y":"1992","k":"rhucop"},{"a":"EUOFOR","c":"winter creeper","s":"Euonymus fortunei","y":"2009","k":"euofor"},{"a":"KRALAN","c":"winterfat","s":"Krascheninnikovia lanata","y":"1995","k":"kralan"},{"a":"WISSPP","c":"wisteria: Japanese wisteria, Chinese wisteria","s":"Wisteria spp.: Wisteria floribunda, W. sinensis","y":"2009","k":"wisspp"},{"a":"GUGU","c":"wolverine","s":"Gulo gulo","y":"2008","k":"gugu"},{"a":"AISP","c":"wood duck","s":"Aix sponsa","y":"1993","k":"aisp"},{"a":"EQUSYL","c":"wood horsetail","s":"Equisetum sylvaticum","y":"1993","k":"equsyl"},{"a":"DRYSPP","c":"woodferns: mountain woodfern, spinulose woodfern, spreading woodfern, intermediate woodfern","s":"Dryopteris spp.: Dryopteris campyloptera, D. carthusiana, D. expansa, D. intermedia","y":"2008","k":"dryspp"},{"a":"FRAVES","c":"woodland strawberry","s":"Fragaria vesca","y":"2007","k":"fraves"},{"a":"ROSWOO","c":"Woods' rose","s":"Rosa woodsii","y":"2006","k":"roswoo"},{"a":"POTHIP","c":"woolly cinquefoil","s":"Potentilla hippiana","y":"2009","k":"pothip"},{"a":"GARWRI","c":"Wright's silktassel","s":"Garrya wrightii","y":"1990","k":"garwri"},{"a":"ARTTRIW","c":"Wyoming big sagebrush","s":"Artemisia tridentata subsp. wyomingensis","y":"2019","k":"arttriw"},{"a":"DIOSPP","c":"yams: water yam, air yam, fiveleaf yam, Chinese yam, Zanzibar yam","s":"Dioscorea spp.: Dioscorea alata, D. bulbifera, D. pentaphylla, D. polystachya, D. sansibarensis","y":"2009","k":"diospp"},{"a":"ILEVOM","c":"yaupon","s":"Ilex vomitoria","y":"1992","k":"ilevom"},{"a":"ERYGRA","c":"yellow avalanche-lily","s":"Erythronium grandiflorum","y":"2021","k":"erygra"},{"a":"BETALL","c":"yellow birch","s":"Betula alleghaniensis","y":"1994","k":"betall"},{"a":"PARMIC","c":"yellow paloverde","s":"Parkinsonia microphylla","y":"2023","k":"parmic"},{"a":"CHRVIS","c":"yellow rabbitbrush","s":"Chrysothamnus viscidiflorus","y":"1999","k":"chrvis"},{"a":"TRADUB","c":"yellow salsify","s":"Tragopogon dubius","y":"2008","k":"tradub"},{"a":"CENSOL","c":"yellow starthistle","s":"Centaurea solstitialis","y":"2021","k":"censol"},{"a":"SALLUT","c":"yellow willow","s":"Salix lutea","y":"1989","k":"sallut"},{"a":"CALNOO","c":"yellow-cedar","s":"Callitropsis nootkatensis","y":"2025","k":"calnoo"}];
+  var perPage = 50;
+  var currentPage = 1;
+  var filtered = DATA;
+
+  var searchEl = document.getElementById("species-search");
+  var tbody = document.getElementById("species-tbody");
+  var pagEl = document.getElementById("pagination");
+  var countEl = document.getElementById("species-count");
+  var ppEl = document.getElementById("per-page");
+
+  function render() {
+    var start = perPage > 0 ? (currentPage - 1) * perPage : 0;
+    var end = perPage > 0 ? start + perPage : filtered.length;
+    var page = filtered.slice(start, end);
+    var html = "";
+    for (var i = 0; i < page.length; i++) {
+      var d = page[i];
+      html += "<tr><td><a href=\"" + BASE + "/species-reviews/" + d.k + "\">" + d.a + "</a></td>"
+            + "<td>" + d.c + "</td>"
+            + "<td><em>" + d.s + "</em></td>"
+            + "<td>" + d.y + "</td></tr>";
+    }
+    tbody.innerHTML = html;
+
+    var totalPages = perPage > 0 ? Math.ceil(filtered.length / perPage) : 1;
+    countEl.textContent = "Showing " + (filtered.length === DATA.length ? "all " + DATA.length : filtered.length + " of " + DATA.length) + " species";
+
+    if (totalPages <= 1) { pagEl.innerHTML = ""; return; }
+
+    var ph = "";
+    ph += '<button class="pg-btn" data-p="prev" ' + (currentPage === 1 ? "disabled" : "") + '>&laquo; Prev</button>';
+
+    var pages = getPageNumbers(currentPage, totalPages);
+    for (var j = 0; j < pages.length; j++) {
+      if (pages[j] === "...") {
+        ph += '<span style="padding:4px">...</span>';
+      } else {
+        ph += '<button class="pg-btn" data-p="' + pages[j] + '"'
+            + (pages[j] === currentPage ? ' style="font-weight:bold;text-decoration:underline;"' : '')
+            + '>' + pages[j] + '</button>';
+      }
+    }
+
+    ph += '<button class="pg-btn" data-p="next" ' + (currentPage === totalPages ? "disabled" : "") + '>Next &raquo;</button>';
+    pagEl.innerHTML = ph;
+  }
+
+  function getPageNumbers(cur, total) {
+    if (total <= 7) { var a=[]; for(var i=1;i<=total;i++) a.push(i); return a; }
+    var pages = [1];
+    if (cur > 3) pages.push("...");
+    for (var i = Math.max(2, cur-1); i <= Math.min(total-1, cur+1); i++) pages.push(i);
+    if (cur < total-2) pages.push("...");
+    pages.push(total);
+    return pages;
+  }
+
+  searchEl.addEventListener("input", function() {
+    var q = this.value.toLowerCase();
+    if (!q) { filtered = DATA; }
+    else { filtered = DATA.filter(function(d) {
+      return d.a.toLowerCase().indexOf(q) >= 0 || d.c.toLowerCase().indexOf(q) >= 0
+          || d.s.toLowerCase().indexOf(q) >= 0 || String(d.y).indexOf(q) >= 0;
+    }); }
+    currentPage = 1;
+    render();
   });
-});
+
+  pagEl.addEventListener("click", function(e) {
+    var btn = e.target.closest(".pg-btn");
+    if (!btn || btn.disabled) return;
+    var p = btn.dataset.p;
+    var totalPages = Math.ceil(filtered.length / perPage);
+    if (p === "prev") currentPage = Math.max(1, currentPage - 1);
+    else if (p === "next") currentPage = Math.min(totalPages, currentPage + 1);
+    else currentPage = parseInt(p);
+    render();
+    document.getElementById("species-app").scrollIntoView({ behavior: "smooth" });
+  });
+
+  ppEl.addEventListener("change", function() {
+    perPage = parseInt(this.value);
+    currentPage = 1;
+    render();
+  });
+
+  render();
+})();
 </script>
+
+<style>
+#species-table { width:100%; border-collapse:collapse; }
+#species-table th, #species-table td { padding:6px 10px; border-bottom:1px solid #eee; }
+#species-table th { border-bottom:2px solid #ccc; }
+#species-table tr:hover { background:#f8f8f8; }
+.pg-btn { padding:4px 10px; border:1px solid #ccc; border-radius:3px; background:#fff; cursor:pointer; font-size:0.9em; }
+.pg-btn:hover:not([disabled]) { background:#e8e8e8; }
+.pg-btn[disabled] { opacity:0.4; cursor:default; }
+</style>
