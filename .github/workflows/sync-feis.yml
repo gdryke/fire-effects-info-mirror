@@ -1,0 +1,43 @@
+name: Sync FEIS Content
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'  # Every Sunday at 6:00 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 html2text
+
+      - name: Run sync script
+        run: python scripts/sync_feis.py
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "sync: Update FEIS content"
+          title: "Automated FEIS Content Sync"
+          body: |
+            Automated weekly sync detected new or updated FEIS content.
+            
+            Please review the changes and merge if they look correct.
+          branch: auto-sync-feis
+          delete-branch: true

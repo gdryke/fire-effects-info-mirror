@@ -1,0 +1,64 @@
+title: "Fire Effects Information System (FEIS) Mirror"
+description: "A mirror of the USDA Fire Effects Information System (FEIS)"
+baseurl: "/fire-effects-info-mirror"
+url: "https://gdryke.github.io"
+
+theme: just-the-docs
+
+color_scheme: light
+
+search_enabled: true
+search.heading_level: 3
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+nav_external_links:
+  - title: "Original FEIS Site"
+    url: "https://research.fs.usda.gov/feis"
+
+# Footer
+footer_content: >-
+  This is a mirror of the <a href="https://research.fs.usda.gov/feis">USDA Fire Effects Information System (FEIS)</a>.
+  All content is public domain (U.S. Government work). This mirror is maintained for preservation and accessibility.
+
+# Exclude from processing
+exclude:
+  - scripts/
+  - data/
+  - raw_html/
+  - .venv/
+  - "*.py"
+  - Makefile
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+
+plugins:
+  - jekyll-seo-tag
+
+# Collections (not used currently but available for future)
+# collections: {}
+
+# Defaults
+defaults:
+  - scope:
+      path: "species-reviews"
+    values:
+      layout: default
+      grand_parent: FEIS
+      parent: Species Reviews
+  - scope:
+      path: "fire-regimes"
+    values:
+      layout: default
+      grand_parent: FEIS
+      parent: Fire Regimes
+  - scope:
+      path: "fire-studies"
+    values:
+      layout: default
+      grand_parent: FEIS
+      parent: Fire Studies
