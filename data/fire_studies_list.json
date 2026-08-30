@@ -1,82 +1,466 @@
 [
   {
-    "title": "Early postfire response of Georgian Table Mountain pine stands burned under prescription at varying intensities",
+    "slug": "simmerman-et-al-2017",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/simmerman-et-al-2017",
+    "title": "A comparison of dry and moist fuel underburns in ponderosa pine shelterwood units in Idaho",
+    "authors": "Simmerman et al.",
+    "type": "Research Paper",
+    "year": "2017"
+  },
+  {
+    "slug": "moghaddas-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/moghaddas-2007",
+    "title": "A fuel treatment reduces potential fire severity and increases suppression efficiency in a Sierran mixed conifer forest",
+    "authors": "Moghaddas",
+    "type": "Research Paper",
+    "year": "2007"
+  },
+  {
+    "slug": "chrosciewicz-1991",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/chrosciewicz-1991",
+    "title": "Black spruce experimental fires on lowland sites in Manitoba",
+    "authors": "Chrosciewicz",
+    "type": "Research Project Summary",
+    "year": "1991"
+  },
+  {
+    "slug": "gucker-and-bunting-2011",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/gucker-and-bunting-2011",
+    "title": "Changes in grassland vegetation following fire in northern Idaho",
+    "authors": "Gucker and Bunting",
+    "type": "Research Project Summary",
+    "year": "2011"
+  },
+  {
+    "slug": "youngblood-et-al-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/youngblood-et-al-2008",
+    "title": "Changes in stand structure and composition after thinning and burning in low-elevation, dry ponderosa pine and Douglas-fir forests of northeastern Oregon",
+    "authors": "Youngblood et al.",
+    "type": "Research Project Summary",
+    "year": "2008"
+  },
+  {
+    "slug": "foote-1983",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/foote-1983",
+    "title": "Classification, description, and dynamics of plant communities after fire in the taiga of interior Alaska",
+    "authors": "Foote",
+    "type": "Research Paper",
+    "year": "1983"
+  },
+  {
+    "slug": "haggerty-2011",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/haggerty-2011",
+    "title": "Damage and recovery in a southern Sierra Nevada foothill oak woodland after a severe surface fire",
+    "authors": "Haggerty",
+    "type": "Research Paper",
+    "year": "2011"
+  },
+  {
+    "slug": "elliott-et-al-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/elliott-et-al-2007",
+    "title": "Early postfire effects of a prescribed fire in the southern Appalachians",
+    "authors": "Elliott et al.",
+    "type": "Research Project Summary",
+    "year": "2007"
+  },
+  {
     "slug": "waldrop-et-al-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/waldrop-et-al-2007",
+    "title": "Early postfire response of Georgian Table Mountain pine stands burned under prescription at varying intensities",
     "authors": "Waldrop et al.",
     "type": "Research Project Summary",
-    "year": "2007",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/waldrop-et-al-2007"
+    "year": "2007"
   },
   {
-    "title": "Effects of spring prescribed fire and chaining on tobosagrass and buffalograss communities in Lynn County, Texas",
+    "slug": "welch-et-al-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/welch-et-al-2007",
+    "title": "Early postfire response of southern Appalachian Table Mountain-pitch pine stands to prescribed fires",
+    "authors": "Welch et al.",
+    "type": "Research Project Summary",
+    "year": "2007"
+  },
+  {
+    "slug": "wendel-et-al-2009",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/wendel-et-al-2009",
+    "title": "Effects of a prescribed fire in a central Appalachian oak-hickory stand (West Virginia)",
+    "authors": "Wendel et al.",
+    "type": "Research Paper",
+    "year": "2009"
+  },
+  {
+    "slug": "wrobleski-2016",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/wrobleski-2016",
+    "title": "Effects of early fall prescribed fire on herbaceous species and arthropods important in the diet of greater sage-grouse in Wyoming big sagebrush habitats",
+    "authors": "Wrobleski",
+    "type": "Research Project Summary",
+    "year": "2016"
+  },
+  {
+    "slug": "glasgow-and-matlack-2010",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/glasgow-and-matlack-2010",
+    "title": "Effects of experimental burning on understory plants in a temperate deciduous forest in Ohio",
+    "authors": "Glasgow and Matlack",
+    "type": "Research Project Summary",
+    "year": "2010"
+  },
+  {
+    "slug": "sapsis-and-kauffman-2018",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/sapsis-and-kauffman-2018",
+    "title": "Effects of fall and spring prescribed burning in sagebrush steppe in central Oregon",
+    "authors": "Sapsis and Kauffman",
+    "type": "Research Project Summary",
+    "year": "2018"
+  },
+  {
+    "slug": "alexander-et-al-2020",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/alexander-et-al-2020",
+    "title": "Effects of fire and restoration on habitats and populations of western hummingbirds: A literature review",
+    "authors": "Alexander et al.",
+    "type": "Research Paper",
+    "year": "2020"
+  },
+  {
+    "slug": "ibarra-f-et-al-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/ibarra-f-et-al-2008",
+    "title": "Effects of June fires in shrubland converted to buffelgrass pasture in Sonora, Mexico",
+    "authors": "Ibarra-F. et al.",
+    "type": "Research Project Summary",
+    "year": "2008"
+  },
+  {
+    "slug": "bock-and-bock-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/bock-and-bock-2008",
+    "title": "Effects of prescribed fires in semidesert plant communities in southeastern Arizona",
+    "authors": "Bock and Bock",
+    "type": "Research Project Summary",
+    "year": "2008"
+  },
+  {
     "slug": "heirman-and-wright-2012",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/heirman-and-wright-2012",
+    "title": "Effects of spring prescribed fire and chaining on tobosagrass and buffalograss communities in Lynn County, Texas",
     "authors": "Heirman and Wright",
     "type": "Research Project Summary",
-    "year": "2012",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/heirman-and-wright-2012"
+    "year": "2012"
   },
   {
-    "title": "Effects of understory fire on cavity-nesting birds in Arizona pine forests",
+    "slug": "martin-r-et-al-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/martin-r-et-al-2008",
+    "title": "Effects of summer prescribed fires on buffelgrass and spittlebug in Sonora, Mexico",
+    "authors": "Martin-R. et al.",
+    "type": "Research Project Summary",
+    "year": "2008"
+  },
+  {
+    "slug": "neumann-and-dickmann-2005",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/neumann-and-dickmann-2005",
+    "title": "Effects of surface fires in a mixed red and eastern white pine stand in Michigan",
+    "authors": "Neumann and Dickmann",
+    "type": "Research Project Summary",
+    "year": "2005"
+  },
+  {
     "slug": "horton-and-mannan-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/horton-and-mannan-2008",
+    "title": "Effects of understory fire on cavity-nesting birds in Arizona pine forests",
     "authors": "Horton and Mannan",
     "type": "Research Project Summary",
-    "year": "2008",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/horton-and-mannan-2008"
+    "year": "2008"
   },
   {
-    "title": "Fire effects and a refined fire prescription after low-intensity spring fires in low-elevation mixed-conifer forests of Yosemite National Park, California",
+    "slug": "parsons-and-stohlgren-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/parsons-and-stohlgren-2008",
+    "title": "Effects of varying fire regimes on annual grasslands in the southern Sierra Nevada of California",
+    "authors": "Parsons and Stohlgren",
+    "type": "Research Paper",
+    "year": "2008"
+  },
+  {
+    "slug": "bock-and-bock-2021",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/bock-and-bock-2021",
+    "title": "Effects of wildfire on a mixed-deciduous riparian community in southeastern Arizona",
+    "authors": "Bock and Bock",
+    "type": "Research Project Summary",
+    "year": "2021"
+  },
+  {
+    "slug": "clark-et-al-2018",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/clark-et-al-2018",
+    "title": "Factors affecting efficacy of prescribed fire for western juniper control",
+    "authors": "Clark et al.",
+    "type": "Research Paper",
+    "year": "2018"
+  },
+  {
     "slug": "van-wagtendonk-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/van-wagtendonk-2007",
+    "title": "Fire effects and a refined fire prescription after low-intensity spring fires in low-elevation mixed-conifer forests of Yosemite National Park, California",
     "authors": "van Wagtendonk",
     "type": "Research Project Summary",
-    "year": "2007",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/van-wagtendonk-2007"
+    "year": "2007"
   },
   {
-    "title": "Long-term changes in an oak forest\u2019s woody understory and herb layer with repeated burning",
+    "slug": "hamilton-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/hamilton-2008",
+    "title": "Fire effects and post-burn vegetation development in the sub-boreal spruce zone: Mackenzie (Windy Point) Site (British Columbia study)",
+    "authors": "Hamilton",
+    "type": "Research Paper",
+    "year": "2008"
+  },
+  {
+    "slug": "caribbean-fire-invasives-learning-network-2011",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/caribbean-fire-invasives-learning-network-2011",
+    "title": "Fire effects on three subtropical invasive plants in Florida and the Caribbean\u2014Common bamboo, Natal grass, and white leadtree",
+    "authors": "Caribbean Fire Invasives Learning Network",
+    "type": "Management Project Summary",
+    "year": "2011"
+  },
+  {
+    "slug": "bradley-et-al-2006",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/bradley-et-al-2006",
+    "title": "Fire severity and intensity during spring burning in natural and masticated mixed shrub woodlands",
+    "authors": "Bradley et al.",
+    "type": "Research Paper",
+    "year": "2006"
+  },
+  {
+    "slug": "landsberg-et-al-2017",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/landsberg-et-al-2017",
+    "title": "Foliar nitrogen content and tree growth after prescribed fire in ponderosa pine",
+    "authors": "Landsberg et al.",
+    "type": "Research Paper",
+    "year": "2017"
+  },
+  {
+    "slug": "zasada-et-al-2013",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/zasada-et-al-2013",
+    "title": "Forest floor and plant responses to experimental fires in an Alaskan black spruce/feather moss community",
+    "authors": "Zasada et al.",
+    "type": "Research Project Summary",
+    "year": "2013"
+  },
+  {
+    "slug": "howe-et-al-2010",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/howe-et-al-2010",
+    "title": "Herbaceous responses to seasonal burning in experimental tallgrass prairie plots in Illinois and Wisconsin",
+    "authors": "Howe et al.",
+    "type": "Research Project Summary",
+    "year": "2010"
+  },
+  {
+    "slug": "kilgore-2018",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/kilgore-2018",
+    "title": "Impact of summer and fall prescribed fires on fire-excluded, Sierran mixed-conifer forests in Kings Canyon National Park, California",
+    "authors": "Kilgore",
+    "type": "Research Project Summary",
+    "year": "2018"
+  },
+  {
+    "slug": "lyon-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/lyon-2008",
+    "title": "Initial vegetal development following prescribed burning of Douglas-fir in south-central Idaho",
+    "authors": "Lyon",
+    "type": "Research Paper",
+    "year": "2008"
+  },
+  {
     "slug": "bowles-et-al-2011",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/bowles-et-al-2011",
+    "title": "Long-term changes in an oak forest\u2019s woody understory and herb layer with repeated burning",
     "authors": "Bowles et al.",
     "type": "Research Paper",
-    "year": "2011",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/bowles-et-al-2011"
+    "year": "2011"
   },
   {
-    "title": "Nonnative annual grass fuels and fire in California's Mojave Desert",
+    "slug": "mutch-and-parsons-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/mutch-and-parsons-2007",
+    "title": "Mixed conifer forest mortality and establishment before and after prescribed fire in Sequoia National Park, California",
+    "authors": "Mutch and Parsons",
+    "type": "Research Paper",
+    "year": "2007"
+  },
+  {
     "slug": "brooks-2006",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/brooks-2006",
+    "title": "Nonnative annual grass fuels and fire in California's Mojave Desert",
     "authors": "Brooks",
     "type": "Research Project Summary",
-    "year": "2006",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/brooks-2006"
+    "year": "2006"
   },
   {
-    "title": "Response of herbaceous vegetation to winter burning in Texas oak savanna",
+    "slug": "kauffman-and-martin-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/kauffman-and-martin-2007",
+    "title": "Plant response to prescribed burning with varying season, weather, and fuel moisture in mixed-conifer forests of California",
+    "authors": "Kauffman and Martin",
+    "type": "Research Project Summary",
+    "year": "2007"
+  },
+  {
+    "slug": "halpern-et-al-2013",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/halpern-et-al-2013",
+    "title": "Plant succession following clearcutting and slash burning in the western Cascade Range, Oregon",
+    "authors": "Halpern et al.",
+    "type": "Research Project Summary",
+    "year": "2013"
+  },
+  {
+    "slug": "van-wagner-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/van-wagner-2008",
+    "title": "Prescribed burning experiments in red and eastern white pine forests of eastern Ontario",
+    "authors": "Van Wagner",
+    "type": "Research Project Summary",
+    "year": "2008"
+  },
+  {
+    "slug": "shearer-et-al-2017",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/shearer-et-al-2017",
+    "title": "Prescribed fire and wildfire in clearcut mixed-conifer forests on Miller Creek and Newman Ridge, Montana",
+    "authors": "Shearer et al.",
+    "type": "Research Project Summary",
+    "year": "2017"
+  },
+  {
+    "slug": "narog-and-paysen-2008",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/narog-and-paysen-2008",
+    "title": "Prescribed fire effects on canyon live oak and invertebrates in a southern California forest",
+    "authors": "Narog and Paysen",
+    "type": "Research Project Summary",
+    "year": "2008"
+  },
+  {
     "slug": "hutcheson-et-al-2010",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/hutcheson-et-al-2010",
+    "title": "Response of herbaceous vegetation to winter burning in Texas oak savanna",
     "authors": "Hutcheson et al.",
     "type": "Research Project Summary",
-    "year": "2010",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/hutcheson-et-al-2010"
+    "year": "2010"
   },
   {
-    "title": "Revegetation in a subalpine forest after logging and fire in central British Columbia",
+    "slug": "martin-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/martin-2007",
+    "title": "Response of vegetation to prescribed burning in a Jeffrey pine-California black oak woodland and a deergrass meadow at Cuyamaca State Park, California",
+    "authors": "Martin",
+    "type": "Research Project Summary",
+    "year": "2007"
+  },
+  {
+    "slug": "reemts-and-hansen-2012",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/reemts-and-hansen-2012",
+    "title": "Response of woody species to crown fires in oak-juniper woodlands (Texas)",
+    "authors": "Reemts and Hansen",
+    "type": "Management Project Summary",
+    "year": "2012"
+  },
+  {
     "slug": "hamilton-and-peterson-2005",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/hamilton-and-peterson-2005",
+    "title": "Revegetation in a subalpine forest after logging and fire in central British Columbia",
     "authors": "Hamilton and Peterson",
     "type": "Research Project Summary",
-    "year": "2005",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/hamilton-and-peterson-2005"
+    "year": "2005"
   },
   {
-    "title": "Vegetation changes following prescription fires in quaking aspen stands of Colorado's Front Range",
+    "slug": "archibold-et-al-2005",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/archibold-et-al-2005",
+    "title": "Seasonal fire effects in a Saskatchewan plains rough fescue prairie",
+    "authors": "Archibold et al.",
+    "type": "Research Project Summary",
+    "year": "2005"
+  },
+  {
+    "slug": "hansen-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/hansen-2007",
+    "title": "The effect of fire and fire frequency on grassland species composition in California's Tulare Basin",
+    "authors": "Hansen",
+    "type": "Research Paper",
+    "year": "2007"
+  },
+  {
+    "slug": "viereck-et-al-2013",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/viereck-et-al-2013",
+    "title": "The effects of experimental fires in an Alaskan black spruce/feather moss community",
+    "authors": "Viereck et al.",
+    "type": "Research Project Summary",
+    "year": "2013"
+  },
+  {
+    "slug": "quintilio-et-al-2005",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/quintilio-et-al-2005",
+    "title": "Understory recovery after burning and reburning quaking aspen stands in central Alberta",
+    "authors": "Quintilio et al.",
+    "type": "Research Project Summary",
+    "year": "2005"
+  },
+  {
+    "slug": "armour-et-al-2017",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/armour-et-al-2017",
+    "title": "Understory recovery after low- and high-intensity fires in ponderosa pine forests of northern Idaho",
+    "authors": "Armour et al.",
+    "type": "Research Project Summary",
+    "year": "2017"
+  },
+  {
+    "slug": "burgason-2011",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/burgason-2011",
+    "title": "Use of prescribed fire to manage hawthorn and speckled alder in a Pennsylvania floodplain",
+    "authors": "Burgason",
+    "type": "Research Project Summary",
+    "year": "2011"
+  },
+  {
+    "slug": "dunwiddie-2006",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/dunwiddie-2006",
+    "title": "Vegetation change in grasslands and heathlands following multiple spring, summer, and fall prescription fires in Massachusetts",
+    "authors": "Dunwiddie",
+    "type": "Research Project Summary",
+    "year": "2006"
+  },
+  {
     "slug": "smith-et-al-2005",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/smith-et-al-2005",
+    "title": "Vegetation changes following prescription fires in quaking aspen stands of Colorado's Front Range",
     "authors": "Smith et al.",
     "type": "Research Project Summary",
-    "year": "2005",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/smith-et-al-2005"
+    "year": "2005"
   },
   {
-    "title": "Vegetation response to restoration treatments in ponderosa pine-Douglas-fir forests of western Montana",
+    "slug": "hamilton-2008-0",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/hamilton-2008-0",
+    "title": "Vegetation development and fire effects at the Walker Creek site: comparison of forest floor and mineral soil plots (British Columbia study)",
+    "authors": "Hamilton",
+    "type": "Research Paper",
+    "year": "2008"
+  },
+  {
+    "slug": "bartos-et-al-2005",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/bartos-et-al-2005",
+    "title": "Vegetation recovery following a mixed-severity fire in quaking aspen groves of western Wyoming",
+    "authors": "Bartos et al.",
+    "type": "Research Project Summary",
+    "year": "2005"
+  },
+  {
     "slug": "metlen-et-al-2006",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/metlen-et-al-2006",
+    "title": "Vegetation response to restoration treatments in ponderosa pine-Douglas-fir forests of western Montana",
     "authors": "Metlen et al.",
     "type": "Research Project Summary",
-    "year": "2006",
-    "url": "https://research.fs.usda.gov/feis/fire-studies/metlen-et-al-2006"
+    "year": "2006"
+  },
+  {
+    "slug": "flores-2006",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/flores-2006",
+    "title": "Vegetative response to fire exclusion and prescribed fire rotation on two Maryland salt marshes",
+    "authors": "Flores",
+    "type": "Research Project Summary",
+    "year": "2006"
+  },
+  {
+    "slug": "ball-2007",
+    "url": "https://research.fs.usda.gov/feis/fire-studies/ball-2007",
+    "title": "Winter fire in a marshland in St Clair National Wildlife Area, Ontario",
+    "authors": "Ball",
+    "type": "Research Project Summary",
+    "year": "2007"
   }
 ]
